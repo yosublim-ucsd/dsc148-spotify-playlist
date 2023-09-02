@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-188 songs - 9 hr 48 min
+190 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,12 +88,14 @@
 | [Hedged Bet](https://open.spotify.com/track/5E8I5DZ5CBVinIvoCNk6Z4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Boarding](https://open.spotify.com/album/58jr54BxPnYRK7MUFBqfSE) | 4:18 | 2023-05-05 |  |
 | [Home.Finally](https://open.spotify.com/track/0nYfa6KoT3LXMc6eFNR8UP) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Home.Finally](https://open.spotify.com/album/5CwbB05IOwWzIisyPNVT8U) | 2:41 | 2023-05-05 |  |
 | [Hypothetic Face](https://open.spotify.com/track/0NuiPE1peC9N0RRA9QG9Bs) | [Shiruky](https://open.spotify.com/artist/1Tr7ffkJ66E8bXTm2g7uEM) | [Hypothetic Face](https://open.spotify.com/album/5TwHRPFvZslTic8FMkwiq4) | 5:25 | 2023-05-05 |  |
+| [I Just Wanna](https://open.spotify.com/track/2IWH3K11b8DwM9BTixLeE0) | [9Fivey](https://open.spotify.com/artist/5U5RKfPTGsbCTyLTnaUHXU) | [I Just Wanna](https://open.spotify.com/album/6zS7LMCok21WSsnAnx7qp7) | 2:10 | 2023-09-01 |  |
 | [Ibiza Sunset](https://open.spotify.com/track/6WzNxIDzhenIFgTrMJwb6n) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Ibiza Sunset](https://open.spotify.com/album/3Ogsc7QUnHrhM6gSW7NFTw) | 3:11 | 2023-05-05 | 2023-08-19 |
 | [ICE](https://open.spotify.com/track/2qSsD3yTWS3sZU6ygeKedR) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [ICE](https://open.spotify.com/album/0NFamDVQFiQ7387QDyNlX7) | 3:50 | 2023-05-05 |  |
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2023-05-05 |  |
 | [in deep](https://open.spotify.com/track/7rqQxJViCFUr8wcR834xtX) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [in deep](https://open.spotify.com/album/7zqrnHXPFDs3fpqpYRmbih) | 2:37 | 2023-05-05 |  |
 | [Isla de es Vedrá](https://open.spotify.com/track/23ClxBkpo2usaXLAeeS1gM) | [Bongo Percy](https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg) | [Isla de es Vedrá](https://open.spotify.com/album/5AG0PyT3GWsfuORBBW99Rz) | 4:20 | 2023-05-05 |  |
 | [Kaah](https://open.spotify.com/track/4G2CdDwJAQhZsbEJyHOqk7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Ramo / Kaah](https://open.spotify.com/album/3x4v1MsJDziEVciqG9n2Dp) | 5:07 | 2023-05-05 |  |
+| [Kailani](https://open.spotify.com/track/5KBPNVwuAg7oVpKQvEtIeS) | [Uzma](https://open.spotify.com/artist/6vBlurHTGtROUEFBUqoaDl) | [Kailani](https://open.spotify.com/album/2YzyYJAKupYwoaxkM0czMv) | 2:31 | 2023-09-01 |  |
 | [Kayser](https://open.spotify.com/track/1Sd7pRxyFcUNO9Gv6GCjFo) | [Milous](https://open.spotify.com/artist/4Cv0OlUpDvWetGf4ZpI5Zj) | [Deep House Lounge \(Flawless Vibes\)](https://open.spotify.com/album/0Hupwday0HovdNoTf4HEEQ) | 2:51 | 2023-05-05 |  |
 | [La La \(I Need You\)](https://open.spotify.com/track/2ANLe3sjVcI2kphdjfVOWt) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Reflection](https://open.spotify.com/album/1dltDJv5BfhQXXbCqMzsHs) | 3:36 | 2023-05-05 |  |
 | [lazy days](https://open.spotify.com/track/5fJoCtqF88ahLix2iwAHtz) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [lazy days](https://open.spotify.com/album/7kVqLYOuteo8X1RFyGdHEC) | 2:04 | 2023-05-05 |  |

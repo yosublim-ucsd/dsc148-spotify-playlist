@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 682191,
+  "num_followers": 682410,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWRkYWM3MTdiY2RjOTFjYWE0MzJhY2RhNzE4YmY3YTIyM2Q0Mzli",
+  "snapshot_id": "MCw1NDFhN2ZiZDU1MWQ2MjVhMzE4ZmExNjMxMDI1NmViMmEwMzdjYWY3",
   "tracks": [
     {
       "added_at": "2023-07-25 17:32:56",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 171897,
-      "name": "Anthony Kiedis",
-      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Schmilco",
         "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 175946,
       "name": "If I Ever Was a Child",
       "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 171897,
+      "name": "Anthony Kiedis",
+      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 147893,
       "name": "Handsome",
       "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1119,38 +1119,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "The Dandelion",
-        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 219884,
-      "name": "The Dandelion",
-      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "The Dip",
-        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "O.P. Jebediah",
-      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "You're so Fine",
         "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
@@ -1163,6 +1131,22 @@
       "duration_ms": 173133,
       "name": "You're so Fine",
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "The Dandelion",
+        "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 219884,
+      "name": "The Dandelion",
+      "url": "https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1195,6 +1179,22 @@
       "duration_ms": 185786,
       "name": "Baby",
       "url": "https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "The Dip",
+        "url": "https://open.spotify.com/album/34GiVp9W9v6GjsWLkBp0HS"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "O.P. Jebediah",
+      "url": "https://open.spotify.com/track/2osA04Ftqanbf9P3uJjTJb"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
-      },
-      "artists": [
-        {
-          "name": "Vanilla",
-          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
-        }
-      ],
-      "duration_ms": 239952,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy"
+      },
+      "artists": [
+        {
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
+        }
+      ],
+      "duration_ms": 239952,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Dusk at Cubist Castle",
+        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
+      },
+      "artists": [
+        {
+          "name": "The Olivia Tremor Control",
+          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
+        }
+      ],
+      "duration_ms": 112066,
+      "name": "Jumping Fences",
+      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Dusk at Cubist Castle",
-        "url": "https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh"
-      },
-      "artists": [
-        {
-          "name": "The Olivia Tremor Control",
-          "url": "https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB"
-        }
-      ],
-      "duration_ms": 112066,
-      "name": "Jumping Fences",
-      "url": "https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Float Back To You",
+        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 231868,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Rock Your Baby",
         "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
       },
@@ -1837,20 +1853,20 @@
       "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
     },
     {
-      "added_at": "2023-07-25 17:32:56",
+      "added_at": "2023-08-29 23:21:24",
       "album": {
-        "name": "Float Back To You",
-        "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
       },
       "artists": [
         {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 231868,
-      "name": "Hypnosis",
-      "url": "https://open.spotify.com/track/3cxqVYtrpDyAC4faMJgB9A"
+      "duration_ms": 241663,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1903,26 +1919,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Get On The Otherside",
-        "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Oroza",
-          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
-        },
-        {
-          "name": "Cold Diamond & Mink",
-          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Otherside",
-      "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "The Emitt Rhodes Recordings (1969-1973)",
         "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
       },
@@ -1939,18 +1935,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Boonie Town",
-        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+        "name": "Get On The Otherside",
+        "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
       },
       "artists": [
         {
-          "name": "Eli Smart",
-          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+          "name": "Bobby Oroza",
+          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
         }
       ],
-      "duration_ms": 259795,
-      "name": "Highschool Steady",
-      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+      "duration_ms": 229080,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
     }
   ],
   "unique_name": "Feel Good Dinner",

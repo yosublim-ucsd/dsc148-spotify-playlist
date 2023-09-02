@@ -2,7 +2,7 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG?si=d1iEXFUBTaaGYzSIv\-rXag">Mmatemai</a>
+> Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG?si=d1iEXFUBTaaGYzSIv\-rXag">Mmatema</a>
 
 149 songs - 14 hr 50 min
 

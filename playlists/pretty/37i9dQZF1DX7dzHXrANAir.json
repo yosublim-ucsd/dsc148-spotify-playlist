@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 99433,
+  "num_followers": 99462,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTRhNzdiYTgzN2UxY2EwMjNhMzZlMjUwM2E4NjE4YzZiYmY1NzMy",
+  "snapshot_id": "MCxkODg4NmEyZWE3NGRmMTg5MDhhYmQwZDI5MDNlODFmYzUxNzc3MDU4",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Poly (and 74 musicians)",
-        "url": "https://open.spotify.com/album/79zXd557e3SeiJHm1exMRW"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 260321,
-      "name": "Poly (and 74 musicians)",
-      "url": "https://open.spotify.com/track/1GRityO3SrskfCTgJxM2dN"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Owen",
         "url": "https://open.spotify.com/album/4C1sWRPHj8QVZqnUA7vDzv"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 215820,
       "name": "Etne",
       "url": "https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Poly (and 74 musicians)",
+        "url": "https://open.spotify.com/album/79zXd557e3SeiJHm1exMRW"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 260321,
+      "name": "Poly (and 74 musicians)",
+      "url": "https://open.spotify.com/track/1GRityO3SrskfCTgJxM2dN"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Bird's Tail (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Bird's Tail - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "L(oo)ping",
         "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 312653,
       "name": "Ghosts - Looping",
       "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Bird's Tail (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "Bird's Tail - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Caf\u00e9 Papantla",
-      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Orph\u00e9e",
         "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 148600,
       "name": "De Luce et Umbra",
       "url": "https://open.spotify.com/track/3xQFcCnjsWMIVJo66jC0U2"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "A Light Without Flame",
-        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
-      },
-      "artists": [
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "A Light Without Flame",
-      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
       },
@@ -863,6 +847,42 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "A Light Without Flame",
+        "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "A Light Without Flame",
+      "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -911,26 +931,6 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
-      },
-      "artists": [
-        {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
+        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
+      },
+      "artists": [
+        {
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        }
+      ],
+      "duration_ms": 151695,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
         "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 307840,
       "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
       "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
-        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 151695,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
-        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
-      },
-      "artists": [
-        {
-          "name": "Paulette Verl\u00e9e",
-          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Elv",
         "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Late Reflections",
-        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
+        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
       },
       "artists": [
         {
-          "name": "Grandbrothers",
-          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+          "name": "Paulette Verl\u00e9e",
+          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
         }
       ],
-      "duration_ms": 263708,
-      "name": "North/South",
-      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
+      "duration_ms": 278613,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 310000,
       "name": "Remembered Words",
       "url": "https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/614ZeZtRqXvqa6kGieLDqM"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "duration_ms": 263708,
+      "name": "North/South",
+      "url": "https://open.spotify.com/track/5SpBzfFNL8MQczqBYhtSeY"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1323,6 +1323,22 @@
       "duration_ms": 238764,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+      },
+      "artists": [
+        {
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+        }
+      ],
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1395,22 +1411,6 @@
       "duration_ms": 222187,
       "name": "Sleepless Wake",
       "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
-      },
-      "artists": [
-        {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        }
-      ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
     },
     {
       "added_at": "2023-08-18 04:01:00",

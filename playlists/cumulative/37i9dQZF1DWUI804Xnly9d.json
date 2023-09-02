@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 229291,
       "name": "Baton Baton Mein (From \"Love-All\")",
       "url": "https://open.spotify.com/track/6fnVga9swfvgQ6r8NcRQoj"
@@ -912,6 +912,24 @@
       "duration_ms": 162500,
       "name": "Doobie Do",
       "url": "https://open.spotify.com/track/5VLWcMO2ouunSZP7zmDrz6"
+    },
+    {
+      "album": {
+        "name": "Duniya Meri",
+        "url": "https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Singh",
+          "url": "https://open.spotify.com/artist/64PApAhGA9b5CXpNVznc3K"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237634,
+      "name": "Duniya Meri",
+      "url": "https://open.spotify.com/track/3x2ug7XW1noOUe5s1ZP1UY"
     },
     {
       "album": {
@@ -1372,6 +1390,28 @@
       "duration_ms": 206896,
       "name": "Karen Kya",
       "url": "https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ"
+    },
+    {
+      "album": {
+        "name": "Kasam Se",
+        "url": "https://open.spotify.com/album/6HnM6hiRAbIahYlLkguthy"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185648,
+      "name": "Kasam Se",
+      "url": "https://open.spotify.com/track/53XRfIgocnwDCIkpCEyqbU"
     },
     {
       "album": {
@@ -3250,7 +3290,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 268000,
       "name": "Waqt Guzar Jayega",
       "url": "https://open.spotify.com/track/6nEDKjale9u5l9QgVxCS8U"

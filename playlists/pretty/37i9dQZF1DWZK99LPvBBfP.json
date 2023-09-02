@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 221695,
+  "num_followers": 221948,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzI3Njg0Y2NmZTMwODVjYTkyMzBiNzc1NDUwMmM4NWQ0OTBjMWI5",
+  "snapshot_id": "MCw3YWQ2ODNlMTQwMTc4ZTdkMzQ2ZDEwNzFkZTllZWNlOTM5ZTc2MTcz",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Produced & Remixed",
-        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
-      },
-      "artists": [
-        {
-          "name": "Rui Da Silva",
-          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
-        }
-      ],
-      "duration_ms": 515173,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Pasilda",
         "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 209500,
       "name": "Pasilda - Knee Deep Mix",
       "url": "https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Produced & Remixed",
+        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
+      },
+      "artists": [
+        {
+          "name": "Rui Da Silva",
+          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
+        }
+      ],
+      "duration_ms": 515173,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Full Fathom Five",
-        "url": "https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL"
-      },
-      "artists": [
-        {
-          "name": "Sub Sub",
-          "url": "https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Past",
-      "url": "https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 206160,
       "name": "Big Fun",
       "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Full Fathom Five",
+        "url": "https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL"
+      },
+      "artists": [
+        {
+          "name": "Sub Sub",
+          "url": "https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Past",
+      "url": "https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Sueno Latino",
-        "url": "https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7"
-      },
-      "artists": [
-        {
-          "name": "Sue\u00f1o Latino",
-          "url": "https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ"
-        }
-      ],
-      "duration_ms": 634893,
-      "name": "Sueno Latino - Paradise Version",
-      "url": "https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
-        "name": "Mutual Feelin' (Edit)",
-        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
-      },
-      "artists": [
-        {
-          "name": "Somethin' Sanctified",
-          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Mutual Feelin' - Edit",
-      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Housemusic.De",
         "url": "https://open.spotify.com/album/1Y1ejuQvNlSQXKA7Ef5qzW"
       },
@@ -1127,18 +1095,18 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/6CT7RUosxDLkY6Ysb118Uf"
+        "name": "Mutual Feelin' (Edit)",
+        "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
       },
       "artists": [
         {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+          "name": "Somethin' Sanctified",
+          "url": "https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0"
         }
       ],
-      "duration_ms": 224013,
-      "name": "Poppiholla",
-      "url": "https://open.spotify.com/track/2KKxGRR5TFNdICGxLrzvqs"
+      "duration_ms": 226000,
+      "name": "Mutual Feelin' - Edit",
+      "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1155,6 +1123,38 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Sueno Latino",
+        "url": "https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o Latino",
+          "url": "https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ"
+        }
+      ],
+      "duration_ms": 634893,
+      "name": "Sueno Latino - Paradise Version",
+      "url": "https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/6CT7RUosxDLkY6Ysb118Uf"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 224013,
+      "name": "Poppiholla",
+      "url": "https://open.spotify.com/track/2KKxGRR5TFNdICGxLrzvqs"
     },
     {
       "added_at": "2023-08-11 15:42:20",

@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Tabla Tonic",
+        "url": "https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Tabla Tonic",
+      "url": "https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q"
+    },
+    {
+      "album": {
         "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
         "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
       },
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 140571,
       "name": "Uttam Tabla - Original Mix",
       "url": "https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD"

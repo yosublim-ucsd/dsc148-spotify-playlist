@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Brasil](https://open.spotify.com/playlist/37i9dQZF1DX5R53BjnKBjk)
 
-> Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Dani\-Vie / Arte: Isu Kim
+> Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-274 songs - 14 hr 9 min
+278 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,9 +31,9 @@
 | [Arengueiro](https://open.spotify.com/track/1eqCDSXJWFfJubteuPmBoa) | [dias blue](https://open.spotify.com/artist/6PwQl6FYCZ6vIiMCOu1rxu) | [Arengueiro](https://open.spotify.com/album/4ssl923wnEWMnOyQg8FCeT) | 3:40 | 2022-01-07 | 2022-08-13 |
 | [Astronauta](https://open.spotify.com/track/2MLDDgTCtToJlRw7ucDvuD) | [Clara Castro](https://open.spotify.com/artist/328HvJJoTrRr4AwtJtlChp) | [ANA](https://open.spotify.com/album/4AuL6DddRMGe7NTdzqoU1e) | 3:45 | 2022-01-07 | 2022-09-03 |
 | [Até Aprender](https://open.spotify.com/track/1xHkiApXo80f6mFx5m1j0R) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Até Aprender](https://open.spotify.com/album/1z7vnN6zPwCmMCFNROCGKf) | 2:23 | 2022-01-07 | 2022-01-22 |
-| [até você](https://open.spotify.com/track/5n4jsB5aXHL4ZjDjc0jZPG) | [Bruna Croce](https://open.spotify.com/artist/6IPowWKx0KM4slm6cXAlC2) | [delirar](https://open.spotify.com/album/5KUA9QuMvjEyh3rw7a7lZD) | 3:40 | 2023-01-27 |  |
+| [até você](https://open.spotify.com/track/5n4jsB5aXHL4ZjDjc0jZPG) | [Bruna Croce](https://open.spotify.com/artist/6IPowWKx0KM4slm6cXAlC2) | [delirar](https://open.spotify.com/album/5KUA9QuMvjEyh3rw7a7lZD) | 3:40 | 2023-01-27 | 2023-09-02 |
 | [Baby](https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [<del>](https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D) | 1:54 | 2022-07-22 | 2022-11-26 |
-| [Bady](https://open.spotify.com/track/1N5gwVPnV4qovLJfiLD3Ug) | [VINÍCIUS](https://open.spotify.com/artist/44SCweqSr4to2xPmyttMK1) | [Bady](https://open.spotify.com/album/6bjoikW93gjnCIhWaOFQWn) | 2:59 | 2022-09-23 |  |
+| [Bady](https://open.spotify.com/track/1N5gwVPnV4qovLJfiLD3Ug) | [VINÍCIUS](https://open.spotify.com/artist/44SCweqSr4to2xPmyttMK1) | [Bady](https://open.spotify.com/album/6bjoikW93gjnCIhWaOFQWn) | 2:59 | 2022-09-23 | 2023-09-02 |
 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 | 2022-12-09 |  |
 | [Beat Lobo \(Mande um Sinal\)](https://open.spotify.com/track/4PnVS3vhthIwnPBZYmYcHD) | [papossa](https://open.spotify.com/artist/1bt9cpALCIOULyKbRwJns9) | [Canções de Smartphone, Vol\. 2](https://open.spotify.com/album/1FAfwo1ziArlfSKa0Gn6US) | 4:07 | 2022-01-07 | 2022-05-17 |
 | [Beija e Arranha](https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Beija e Arranha](https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3) | 2:52 | 2022-11-25 |  |
@@ -68,6 +68,7 @@
 | [Como Se Faz](https://open.spotify.com/track/5NmKfLVhK9sM8rCqXRcSs3) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Como Se Faz](https://open.spotify.com/album/5aVvaWcVo7uVqoRdEnhrw4) | 2:09 | 2022-01-07 | 2022-06-24 |
 | [Como É Que Faz](https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx) | [Dogge](https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF) | [Como É Que Faz](https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e) | 2:40 | 2022-09-23 |  |
 | [Consequências](https://open.spotify.com/track/6KUbYGwejSwepQzD4yZ4vJ) | [Anum Preto](https://open.spotify.com/artist/01zIROcqWjGFgVJxYGxq9O) | [Anum Preto](https://open.spotify.com/album/4EXJxigpLtRwP5IIVSuK5M) | 3:55 | 2022-01-07 | 2022-09-24 |
+| [Corro Atrás](https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk) | [Corro Atrás](https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp) | 3:45 | 2023-09-01 |  |
 | [Culpa do Verão](https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk) | [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [A Rua e Seus Encantos](https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic) | 2:46 | 2022-08-26 | 2022-12-10 |
 | [Céu e Mar](https://open.spotify.com/track/2QAWqrdJaqgphSCjpCw5wJ) | [Matheus Bala](https://open.spotify.com/artist/73KUS3ICvdkM4spMDQKYYC) | [Céu e Mar](https://open.spotify.com/album/5CZBlQZa5Iw3dwHJ7Tabxw) | 2:12 | 2022-12-02 | 2023-03-18 |
 | [Da Vida](https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6) | [Márcio Lugó](https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM), [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [Da Vida](https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb) | 3:00 | 2022-07-22 | 2022-10-29 |
@@ -87,7 +88,7 @@
 | [Ei Você](https://open.spotify.com/track/6kEsR6wVuS0TF0pzdhq5ge) | [BarbarAmor](https://open.spotify.com/artist/3HvaQsJWVdi2WvuWyq2SBJ) | [Ei Você](https://open.spotify.com/album/5flpZHlJ5BH0veAKsqJ3Nm) | 2:51 | 2022-08-19 | 2022-12-04 |
 | [Embalo](https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c) | [TIRI](https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab) | [Embalo](https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ) | 3:21 | 2022-11-18 |  |
 | [Então Me Diz](https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Então Me Diz](https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay) | 2:51 | 2022-10-07 | 2023-01-14 |
-| [Escuro \- Remix](https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Escuro \(Remix\)](https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T) | 3:04 | 2022-11-25 |  |
+| [Escuro \- Remix](https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Escuro \(Remix\)](https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T) | 3:04 | 2022-11-25 | 2023-09-02 |
 | [Espectro do Tempo](https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO) | [Inês é Morta](https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG) | [Espectro do Tempo](https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S) | 4:33 | 2022-01-07 | 2022-08-13 |
 | [Esquece](https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt) | [Jalma](https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L) | [Esquece](https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1) | 2:58 | 2022-10-28 |  |
 | [Esse Jogo](https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI) | [Thifany Kauany](https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL) | [Esse Jogo](https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt) | 2:24 | 2022-09-02 |  |
@@ -122,6 +123,7 @@
 | [Impermanência](https://open.spotify.com/track/4OPNAQW0lPQNqcd8DQBfOL) | [Maria Ó](https://open.spotify.com/artist/5m4ExqaQ9Z2JMzgzKZVSgc) | [Quantas Vezes a Gente Nasce?](https://open.spotify.com/album/1fuKrMfIn0bVrTyMZHPr3D) | 4:38 | 2022-01-07 | 2022-09-24 |
 | [Indireta](https://open.spotify.com/track/7Fz357zrN9hTOPIEMPMuLl) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Indireta](https://open.spotify.com/album/4MiV3izcJfRtjeSB6qO7eF) | 2:26 | 2022-01-07 | 2022-09-03 |
 | [Jacquemus](https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6) | [TOLENTINO](https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ) | [Jacquemus](https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45) | 2:33 | 2022-11-25 |  |
+| [Jardins](https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8) | [Ceano](https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi) | [Jardins](https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT) | 2:47 | 2023-09-01 |  |
 | [Jeans](https://open.spotify.com/track/1zsBY8Emjx26JITLCYYdvM) | [Faria](https://open.spotify.com/artist/4zfzBqS0U8lWOTPOdYlUhC) | [JEANS](https://open.spotify.com/album/6q3WFg7vBmD1S72mS7p9US) | 3:40 | 2022-01-28 | 2022-04-29 |
 | [Jogo Da Paixão](https://open.spotify.com/track/3jq4KUkGLeNDyj7qqjfFmI) | [BEATRICE](https://open.spotify.com/artist/5Y6zeMMMmXGYYuLEPrqVLP) | [Jogo Da Paixão](https://open.spotify.com/album/6iFt6AWDNpxI4SR0qVCq1U) | 2:55 | 2022-08-05 | 2022-09-03 |
 | [Jugular](https://open.spotify.com/track/6qS637G3oCuG08pPKr37sb) | [Guma](https://open.spotify.com/artist/0ZzAWoYMZEgOwz3jz4LbQF) | [Jugular](https://open.spotify.com/album/6TMwFsEmP5ZppKaAWkXnmL) | 4:19 | 2022-01-07 | 2022-08-06 |
@@ -202,6 +204,7 @@
 | [Preta](https://open.spotify.com/track/1jkzmaIeoqtY21ebJTji2F) | [João Cortez](https://open.spotify.com/artist/53RdXNH4yHV9BGrbMPkmc3), [Erraudo](https://open.spotify.com/artist/3WMrwahbAyOHX1BN54smJ0) | [Preta](https://open.spotify.com/album/6YLuaPop02e4JQc586GnJj) | 3:44 | 2022-01-07 | 2022-03-12 |
 | [Pretinha](https://open.spotify.com/track/1wcGhRwqnpsJTHU8unSzKI) | [Demark](https://open.spotify.com/artist/0WTIBrEtAixgAoKFf0r7RC), [Must](https://open.spotify.com/artist/4t0maXpQyjTPTmMyJtoZBt) | [Pretinha](https://open.spotify.com/album/1SPR1uLlhvopxn9dj2bO56) | 1:46 | 2022-08-19 | 2022-12-10 |
 | [Primeira Vez](https://open.spotify.com/track/01Uh9tBWPJ0F465n7gtLGM) | [oficialSMG](https://open.spotify.com/artist/0nJEfV65kEkgTJwdHvXXAO), [Kabeh](https://open.spotify.com/artist/4erceoOpkoxOHXYZinmrX8), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Primeira Vez](https://open.spotify.com/album/0cQq1yahjFAustqCUNOq94) | 2:31 | 2022-01-07 | 2022-09-24 |
+| [Prisma](https://open.spotify.com/track/2vGxaToNoVKIi1XKvz9GLy) | [Furtacor](https://open.spotify.com/artist/5M3aKqzzXYtIX8gVqgONpu) | [Prisma](https://open.spotify.com/album/44Q8sR9GnEKNPbRTzgxn6a) | 4:26 | 2023-09-01 |  |
 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 | 2022-01-07 | 2022-08-20 |
 | [Pó](https://open.spotify.com/track/5DKGLx5d9p07jGETOnSEY3) | [Leoj](https://open.spotify.com/artist/7IjjZG9knFdmoWp0WDnb32) | [Pó](https://open.spotify.com/album/1NgwhwA3XgxpIJHX1EbTwg) | 3:26 | 2022-01-07 | 2022-01-15 |
 | [pós término](https://open.spotify.com/track/0OChPc6tW4MSzhuoLBVnVa) | [casü](https://open.spotify.com/artist/3E78iP3DznJ3bz2sBZJNuL) | [true love suicide](https://open.spotify.com/album/3ztx2AD3oSBOx0FPdkZoi0) | 4:16 | 2022-05-16 | 2022-10-29 |
@@ -255,7 +258,7 @@
 | [Troca de Carícias](https://open.spotify.com/track/5w7X04lpO9KZRIm9cUDg7F) | [UTOPIXXXTA](https://open.spotify.com/artist/1NsBWj4SN51iyKbOfzRnu5) | [Troca de Carícias](https://open.spotify.com/album/7pVNPGWjpePZYkL0cYeklZ) | 2:44 | 2022-04-29 | 2022-10-29 |
 | [Trompete de Boca](https://open.spotify.com/track/77X88Z7ZLCjAralZfB2Vb4) | [Califrê](https://open.spotify.com/artist/515mPwX4bpcVcTEZYKGVkg) | [Trompete de Boca](https://open.spotify.com/album/3aqyVNQW3kR7XnKoJlJ0ZV) | 3:20 | 2022-01-07 | 2022-01-15 |
 | [três](https://open.spotify.com/track/3PrFyucupUOrcLRPXR29yI) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [três](https://open.spotify.com/album/4B2gsbWbg2Knfd0zZBf6n8) | 2:29 | 2022-08-05 | 2022-11-26 |
-| [Três passinhos da derrota](https://open.spotify.com/track/2rhu7HUF5FVzVPb5eNPrMQ) | [Gali Galó](https://open.spotify.com/artist/372WeNRZmHpz2kfrUcmLB8) | [Gali Galó](https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9) | 2:56 | 2023-01-20 |  |
+| [Três passinhos da derrota](https://open.spotify.com/track/2rhu7HUF5FVzVPb5eNPrMQ) | [Gali Galó](https://open.spotify.com/artist/372WeNRZmHpz2kfrUcmLB8) | [Gali Galó](https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9) | 2:56 | 2023-01-20 | 2023-09-02 |
 | [tudo bem](https://open.spotify.com/track/5QieXWNPH4lFVboZceTMKi) | [mucci](https://open.spotify.com/artist/5nJNGHuoGiqFF4YBf9dVU0) | [tudo bem](https://open.spotify.com/album/7DjX1RWcZ291PqE4nL70ER) | 3:05 | 2022-01-07 | 2022-08-13 |
 | [Tudo Vai Bem](https://open.spotify.com/track/0Ux6ns0ofCgj2Pw6kEwKqd) | [Stvz](https://open.spotify.com/artist/7HzEixhvOdpNHS5a0Hwiyu) | [Tudo Vai Bem](https://open.spotify.com/album/0nXl05xPz5CU3kUGdbiftb) | 3:34 | 2022-01-07 | 2022-08-20 |
 | [Tudo vale a pena](https://open.spotify.com/track/20Ol2Wfg3g6XGVnw4C0D8C) | [Jey](https://open.spotify.com/artist/6dS9sxlp4vf34zzi6TtQ8C) | [Tudo vale a pena](https://open.spotify.com/album/65h69IuhRe8D8E786BrfgZ) | 2:25 | 2022-03-11 | 2022-03-17 |
@@ -264,6 +267,7 @@
 | [Um Brinde](https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV) | [Rick Agra](https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN) | [Um Brinde](https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2) | 2:33 | 2022-10-28 |  |
 | [VAI](https://open.spotify.com/track/3T2JaAQgQ92z9oVHmWg91C) | [Marc Yann](https://open.spotify.com/artist/2XCuDk7P16Zp9Nvak5BmRf) | [PLATÔNICO](https://open.spotify.com/album/3iZVI9SANNghj1iFpTuAVD) | 2:21 | 2022-10-07 | 2022-11-18 |
 | [vc é uma bagunça](https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [vc é uma bagunça](https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB) | 2:51 | 2022-11-18 |  |
+| [VEJA](https://open.spotify.com/track/6mO9K6le5QYMAGzku81Wqq) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT) | [tds bem Global](https://open.spotify.com/album/5pGNFxHPkUaCu267VsRIXV) | 2:47 | 2023-09-01 |  |
 | [Ventilador](https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM) | [Nagy](https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv) | [Ventilador](https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs) | 2:59 | 2022-10-14 |  |
 | [Verá](https://open.spotify.com/track/5319dvKuNaay3efQn794i0) | [Gabi Farias](https://open.spotify.com/artist/3GxaLhs7QePUYh49a8TYrM), [Gramophone](https://open.spotify.com/artist/5rnC9EuUqZC8Mbkg2uiLKu) | [Enchente](https://open.spotify.com/album/5YvudFtZ5FcMEL3hpVCsrY) | 4:12 | 2022-02-18 | 2022-09-24 |
 | [Verão](https://open.spotify.com/track/5NbOilBmttx0b5dJcdL697) | [Pseudo Banda](https://open.spotify.com/artist/7B5wVF8YwLqwfVaWk3HkDe), [Vaine](https://open.spotify.com/artist/2pdCZh6Kwn3lZqFIwPRY97) | [Verão](https://open.spotify.com/album/0Z7geQJsarPEigZos4VPEf) | 2:51 | 2022-01-14 | 2022-02-05 |

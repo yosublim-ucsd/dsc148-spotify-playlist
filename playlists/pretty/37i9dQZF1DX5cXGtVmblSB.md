@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,853 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,966 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [528 Hz \- Clarity Solfeggio](https://open.spotify.com/track/0zN8CDrYkIldw94c17PhrL) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 3:10 |
+| 1 | [528 Hz \- Clarity Solfeggio](https://open.spotify.com/track/0zN8CDrYkIldw94c17PhrL) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 3:10 |
 | 2 | [Unresolved](https://open.spotify.com/track/3zawTXeUhbN5nT4KOSyBiD) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Unresolved](https://open.spotify.com/album/3UWJ1nwdG5r1ZqxygARaYy) | 1:47 |
 | 3 | [Fragment](https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:33 |
 | 4 | [Le Lac](https://open.spotify.com/track/75KdZGRMOcMzDI4qS4KB3V) | [Dharma Gaia](https://open.spotify.com/artist/4zS7xfa3yRhsGysVOA8wHp) | [Le Lac](https://open.spotify.com/album/32oA5PrMStagwn9406moMO) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 49 | [Bach, JS : Well\-Tempered Clavier Book 1 : Prelude No.9 in E major BWV854](https://open.spotify.com/track/3YMtL47xfTkFJHjAu8Snr8) | [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Bach, JS : Well\-Tempered Clavier Books 1 & 2](https://open.spotify.com/album/66zilH1HJzRLEorco0u6bS) | 1:10 |
 | 50 | [Bird Whisperer \(Just Relax\)](https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:48 |
 
-Snapshot ID: `MCw1ZjRkNzllOTFiNGZjNGVjODY1NzkwNmY2YTFiZjhlYjBlNTU3MTkw`
+Snapshot ID: `MCwyMTlhNTE3MDQwMDVkZTQ3MWRkNjI4NThmYWFjMDYxOGY1ODAwMGVk`

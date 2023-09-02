@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 309371,
+  "num_followers": 309448,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzM2MTY3MDA5ZjNiMWM3ZmZhMzJlOGRkYzUxZWE1NjZjM2UwOWFi",
+  "snapshot_id": "MCw1OTU2YmI2NjVhMTAxYmI5NDYxYzBlMzEzYzY5OTNmYmFjMGMyMTlh",
   "tracks": [
     {
       "added_at": "2023-08-29 12:59:50",
@@ -151,38 +151,6 @@
     {
       "added_at": "2023-08-29 12:59:50",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
-    },
-    {
-      "added_at": "2023-08-29 12:59:50",
-      "album": {
-        "name": "Tiempo Indefinido",
-        "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
-      },
-      "artists": [
-        {
-          "name": "Susana Cala",
-          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
-        }
-      ],
-      "duration_ms": 137167,
-      "name": "Tiempo Indefinido",
-      "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
-    },
-    {
-      "added_at": "2023-08-29 12:59:50",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -219,6 +187,38 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2023-08-29 12:59:50",
+      "album": {
+        "name": "Tiempo Indefinido",
+        "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "duration_ms": 137167,
+      "name": "Tiempo Indefinido",
+      "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
+    },
+    {
+      "added_at": "2023-08-29 12:59:50",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2023-08-29 12:59:50",
@@ -1635,38 +1635,6 @@
     {
       "added_at": "2023-08-29 12:59:50",
       "album": {
-        "name": "Amar es Combatir",
-        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 292120,
-      "name": "El Rey Tibur\u00f3n",
-      "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
-    },
-    {
-      "added_at": "2023-08-29 12:59:50",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Solo Importas Tu",
-      "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
-    },
-    {
-      "added_at": "2023-08-29 12:59:50",
-      "album": {
         "name": "Rebels",
         "url": "https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA"
       },
@@ -1703,6 +1671,38 @@
       "duration_ms": 280440,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/2EnlBJQ6ZcndUmsI8ZrJjI"
+    },
+    {
+      "added_at": "2023-08-29 12:59:50",
+      "album": {
+        "name": "Amar es Combatir",
+        "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 292120,
+      "name": "El Rey Tibur\u00f3n",
+      "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
+    },
+    {
+      "added_at": "2023-08-29 12:59:50",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Solo Importas Tu",
+      "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
     }
   ],
   "unique_name": "Amor y Desamor",

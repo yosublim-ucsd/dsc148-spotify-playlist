@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,500 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,516 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
 | 50 | [Do Yo Thang](https://open.spotify.com/track/0DqKUOuX1yVd3H7evlHDkA) | [Lady A](https://open.spotify.com/artist/2nlAGNTrkx2kGJBiIVPDtK) | [Bluez In the Key of Me](https://open.spotify.com/album/6UNgjmue8Up5u72duFsvT9) | 3:25 |
 
-Snapshot ID: `MCwyYzU4ZTg4MGMwM2EzOTI1Mjc2ZjI0OTMwNGU5MDBiN2MzOTc5MzQ5`
+Snapshot ID: `MCw0NGZkMjNkM2JjODU1YmI3Zjg0MmYzOTA3OGM2OWU0NDliZDZmMTYw`

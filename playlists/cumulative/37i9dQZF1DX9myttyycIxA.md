@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Geese
+> Underground indie rock gems\. Cover: SPIRIT OF THE BEEHIVE.
 
-1,037 songs - 2 day 11 hr 5 min
+1,041 songs - 2 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Abalone](https://open.spotify.com/track/4OGBU3agg96CA483Q280FP) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Abalone](https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT) | 2:06 | 2022-12-16 | 2023-03-04 |
 | [Access](https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge) | 4:28 | 2021-03-05 | 2022-04-19 |
 | [Acid](https://open.spotify.com/track/28sZAdHzKwdTudWaOcNp4S) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:45 | 2023-06-15 | 2023-07-22 |
-| [Adderall \(End of the Line\)](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 | 2023-03-03 |  |
+| [Adderall](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 | 2023-03-03 |  |
 | [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-03-03 | 2023-04-20 |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2022-04-29 | 2022-09-24 |
 | [After Silver Leaves](https://open.spotify.com/track/7lRMtQETB0B5WQBc11paPx) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Unbroken Thought](https://open.spotify.com/album/4k6mh2lSAOC0Z5GrXigXtq) | 4:37 | 2022-10-21 | 2022-12-15 |
@@ -103,6 +103,7 @@
 | [Better](https://open.spotify.com/track/0ZeeEP48byhbODGptCqhjt) | [Bunk Buddy](https://open.spotify.com/artist/2v1a1xAEi5PEzzW1fJerGg) | [Better](https://open.spotify.com/album/08u1lOOEqeG1CMuL2YDSbf) | 5:34 | 2022-12-22 | 2023-02-18 |
 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 | 2021-03-05 | 2022-04-29 |
 | [Better Luck](https://open.spotify.com/track/04utFXqgGdGYpBqzl7q3oG) | [Beachtape](https://open.spotify.com/artist/731xbI3Me3lWV8e1JOZMGU) | [Better Luck](https://open.spotify.com/album/053LYPTGDusO20Cj2H6lYu) | 3:19 | 2022-12-02 | 2022-12-15 |
+| [Big Bird](https://open.spotify.com/track/109GQy6ju0j6qap1AnHaTd) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Big Bird](https://open.spotify.com/album/0t5XHU8pOHjB2Mwrzs28pB) | 2:27 | 2023-09-01 |  |
 | [Big Deal](https://open.spotify.com/track/6VoTmWBrfQmxhiLa7mOn46) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Big Deal](https://open.spotify.com/album/65i206bnePOdrNTfc2kw1g) | 4:18 | 2021-05-14 | 2022-04-19 |
 | [Big Plans](https://open.spotify.com/track/2JBiR5DVvF05VWERn4NeRl) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Big Plans](https://open.spotify.com/album/3u3dIsBYRvqoHwBAbp1Ba1) | 3:40 | 2023-04-07 | 2023-06-16 |
 | [Big Songbirds Don't Cry](https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:54 | 2023-06-15 |  |
@@ -246,6 +247,7 @@
 | [Dark Star](https://open.spotify.com/track/4AwX0i4DC8buTFbFsHpqzs) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Dark Star b/w Pastel Sunrise](https://open.spotify.com/album/5Em1Nym2EEFoJpQzSgt908) | 3:08 | 2022-04-29 | 2022-06-03 |
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2021-05-14 | 2022-04-29 |
 | [Dawning](https://open.spotify.com/track/6kD2M35ioMIe77cAaL8RzY) | [THEM PARENTS](https://open.spotify.com/artist/0zBu6Ne0tm3kArvljuazCj) | [Dawning](https://open.spotify.com/album/7E8hpPJPfnldSLj41mHHoI) | 3:50 | 2022-03-04 | 2022-04-14 |
+| [Death Drive](https://open.spotify.com/track/3gtxS59vfzWAOne1AIonXw) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Death Drive](https://open.spotify.com/album/3QYzKAOZ6XwSPiOPjiWv2T) | 3:11 | 2023-09-01 |  |
 | [death wish](https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:44 | 2022-09-02 | 2022-12-03 |
 | [DEATHBLOW](https://open.spotify.com/track/0UyDaW1aWaXAUReRul1sQw) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [ur not real](https://open.spotify.com/album/60PCJO6t6GxHI5MFacb1q3) | 2:56 | 2022-05-13 | 2022-09-03 |
 | [DEATHWISH](https://open.spotify.com/track/1OwAfrgAN5H0PVF3OSPY6I) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [i think there's something wrong with joshy](https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4) | 2:30 | 2023-02-03 | 2023-06-16 |
@@ -477,6 +479,7 @@
 | [I Do It For You](https://open.spotify.com/track/4bzdFCiqEGDBjshBNdAerM) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [I Do It For You](https://open.spotify.com/album/1vvsh2qWaz7Jo2OGigvcHH) | 3:33 | 2021-04-02 | 2022-04-16 |
 | [I Don't Care Anymore](https://open.spotify.com/track/1sCJKCB2D3HDeajRF4e0Pb) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [I Don't Care Anymore](https://open.spotify.com/album/08a5rDtR4l3XVJzuPuLUDn) | 4:50 | 2022-04-29 | 2022-05-10 |
 | [I Don't Recognise You](https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [I Don't Recognise You](https://open.spotify.com/album/1Pj2P9Bc6COE71akjb8MyR) | 4:35 | 2021-03-05 | 2022-03-27 |
+| [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 | 2023-09-01 |  |
 | [i had a dream that you died](https://open.spotify.com/track/3S7qHSnfJDGjiTsvSMd92e) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [i had a dream that you died](https://open.spotify.com/album/5Sr54ojlK5V66jCFnVCfMM) | 2:18 | 2022-07-22 | 2022-08-06 |
 | [I Hate My Phone](https://open.spotify.com/track/0EKz6IH6AoMseG0MRPPvNZ) | [Austin Weber](https://open.spotify.com/artist/05bnFEwruBiBgJH8uW4vo6) | [I Hate My Phone](https://open.spotify.com/album/6Wa2M8IXr8J0phdOjRgGED) | 3:02 | 2023-01-27 | 2023-04-01 |
 | [I hope that u think of me](https://open.spotify.com/track/6z2EwIB2wTLdXJZ6LdYAPm) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I hope that you think of me](https://open.spotify.com/album/1V4vQajofq6f3vlSQBziJa) | 2:08 | 2021-03-05 | 2022-04-05 |
@@ -903,6 +906,7 @@
 | [The Knife](https://open.spotify.com/track/45ikoDZrTVZxfBQIJPCu0T) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain \(Deluxe\)](https://open.spotify.com/album/2nY1MSBmfCYBiVY0oa013l) | 3:31 | 2022-04-29 | 2022-10-01 |
 | [The Link Is About to Die](https://open.spotify.com/track/3lDFlqULROOUzjDtO5iNdU) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Let the Festivities Begin!](https://open.spotify.com/album/4MyJz5sB4YHeKVtlc9gt7x) | 3:48 | 2022-03-26 | 2022-07-16 |
 | [THE MIDDLE](https://open.spotify.com/track/4wjpgioltZ2TGkN4h6kMqd) | [PHONY](https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM) | [THE MIDDLE](https://open.spotify.com/album/009SqNhfhKPDIfa6hQRV69) | 2:04 | 2022-07-29 | 2022-09-29 |
+| [the ocean that ate new york](https://open.spotify.com/track/3h8YKo7IZuJI5rqsUeQ3oP) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [this place isnt real](https://open.spotify.com/album/0nTEWpbV22L2jSR7sTbc2R) | 2:47 | 2023-09-01 |  |
 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 | 2022-03-26 | 2022-05-19 |
 | [The Perfect Life](https://open.spotify.com/track/0h3N07sZgc9rzDLfsOniri) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [The Perfect Life](https://open.spotify.com/album/5GqVTkArRf7qxyfEkvtYvR) | 2:42 | 2022-04-09 | 2022-05-06 |
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2022-08-25 | 2023-05-20 |

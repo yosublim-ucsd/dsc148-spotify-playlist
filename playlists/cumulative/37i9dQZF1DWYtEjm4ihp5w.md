@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Madd
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
 
-155 songs - 8 hr 11 min
+156 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-11-14 | 2022-12-13 |
 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-22 |  |
 | [Jouj Ft.kasso](https://open.spotify.com/track/5Ywo6LwAcgwzEa38bZ0u3Q) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [kasso](https://open.spotify.com/artist/7ut4C0DkTA34VaO0xAjJA3) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 3:02 | 2023-05-18 | 2023-05-23 |
+| [JOUJ MIZAN](https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD) | [HKZ Production](https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6), [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [JOUJ MIZAN](https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp) | 3:15 | 2023-09-01 |  |
 | [KADAWINI](https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [FOCUS](https://open.spotify.com/album/2qBj6E8oRE6GBRt6PBtGpx) | 2:36 | 2023-01-17 | 2023-08-24 |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-11-14 | 2022-11-26 |
 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 | 2022-11-25 | 2023-01-27 |
@@ -85,7 +86,7 @@
 | [Lawal \(3reft Trap\)](https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:44 | 2022-11-14 | 2022-11-18 |
 | [Lbaroud](https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:56 | 2022-11-14 | 2022-12-13 |
 | [Lbaroud](https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Colors](https://open.spotify.com/album/3WgER7dzaBeJSUkmLuLuhX) | 2:56 | 2023-04-07 |  |
-| [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 | 2023-05-20 |  |
+| [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 | 2023-05-20 | 2023-09-02 |
 | [Liyem](https://open.spotify.com/track/38dFwM306LaXqnc4hGHpaB) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Liyem](https://open.spotify.com/album/4EqCG4W6zG8nhT1bMN6qAS) | 3:00 | 2022-11-14 | 2023-01-06 |
 | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Lost Chapter \- A COLORS SHOW](https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1) | 2:46 | 2023-08-10 |  |
 | [LV COCO](https://open.spotify.com/track/62yJbbO1aBTfdT2XAUtBxh) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [LV COCO](https://open.spotify.com/album/15MDWkpeViZTZrsRRM0BTP) | 3:03 | 2022-11-14 | 2023-04-10 |

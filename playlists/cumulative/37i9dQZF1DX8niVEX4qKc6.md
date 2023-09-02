@@ -2,14 +2,14 @@
 
 ### [Modo Acústico](https://open.spotify.com/playlist/37i9dQZF1DX8niVEX4qKc6)
 
-> Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Mar Marzo
+> Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Silvina Moreno
 
-100 songs - 5 hr 57 min
+103 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 | 2023-08-18 |  |
-| [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 | 2023-08-18 |  |
+| [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 | 2023-08-18 | 2023-09-02 |
 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 | 2023-08-18 |  |
 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 | 2023-08-18 |  |
 | [A Primera Vista](https://open.spotify.com/track/0vLTOf24syMlJDuaWZfihc) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Mil Noches y un Instante](https://open.spotify.com/album/1kt07hQEw33OnXo80aFMgu) | 3:28 | 2023-08-18 |  |
@@ -17,6 +17,7 @@
 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 | 2023-08-18 |  |
 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 | 2023-08-18 |  |
 | [Amándote](https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 2:30 | 2023-08-18 |  |
+| [Arrancacorazones \- Acústico en Vivo](https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:46 | 2023-09-01 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2023-08-18 |  |
 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 | 2023-08-18 |  |
 | [Bajo el Sol](https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Madre Tierra](https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG) | 3:23 | 2023-08-18 |  |
@@ -59,6 +60,7 @@
 | [La Última Lágrima](https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke) | [Memphis La Blusera](https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp) | [El Acustico](https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR) | 4:36 | 2023-08-18 |  |
 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 | 2023-08-18 |  |
 | [Las Plantas Crecen](https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Las Plantas Crecen](https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV) | 1:55 | 2023-08-18 |  |
+| [Ley de Atracción](https://open.spotify.com/track/5NRBIHHUCyT8aqi0PTFJ7E) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Selva Acústica](https://open.spotify.com/album/119Zme9y3k6G2l9srfhT7M) | 3:12 | 2023-09-01 |  |
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2023-08-18 |  |
 | [Los Caminos de la Vida](https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Los Rayos](https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF) | 3:59 | 2023-08-18 |  |
 | [Mal Marzo](https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Pulsión](https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2) | 2:25 | 2023-08-18 |  |
@@ -84,7 +86,7 @@
 | [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 | 2023-08-18 |  |
 | [Rezo Por Vos \- Live](https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:48 | 2023-08-18 |  |
 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 | 2023-08-18 |  |
-| [Scarlett O'hara \- Acústico](https://open.spotify.com/track/47qOoHuaQ4vLqLbNGIFboF) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal \(Alternativo\)](https://open.spotify.com/album/16uIj6H5niksUsrkyiJkrA) | 3:59 | 2023-08-18 |  |
+| [Scarlett O'hara \- Acústico](https://open.spotify.com/track/47qOoHuaQ4vLqLbNGIFboF) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Cristal \(Alternativo\)](https://open.spotify.com/album/16uIj6H5niksUsrkyiJkrA) | 3:59 | 2023-08-18 | 2023-09-02 |
 | [Serotonina](https://open.spotify.com/track/6mvzF3fcRrS231G8yN3BaN) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Serotonina](https://open.spotify.com/album/5Tqt0IhJRkRnUzpI8MxSLk) | 3:06 | 2023-08-18 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2023-08-18 |  |
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2023-08-18 |  |
@@ -101,12 +103,13 @@
 | [Tu Locura](https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Canciones Elegidas 93\-04](https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq) | 2:29 | 2023-08-18 |  |
 | [Tu Nombre \- En Vivo En El Gran Rex / 2015](https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Tanta Magia \(En Vivo En El Gran Rex / 2015\)](https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN) | 3:34 | 2023-08-18 |  |
 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 | 2023-08-18 |  |
+| [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 | 2023-09-01 |  |
 | [Un Misil En Mi Placard \- MTV Unplugged](https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:34 | 2023-08-18 |  |
 | [Un Pacto](https://open.spotify.com/track/3g8vgAx9nQWBWw2USi5xEA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De la Cabeza 2](https://open.spotify.com/album/3p2WuAT2zLzKwVoDFaPwml) | 4:37 | 2023-08-18 |  |
 | [Un Pacto \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:55 | 2023-08-18 |  |
 | [Utopia \(Versión Acústica\)](https://open.spotify.com/track/0djYzmnJUd8oiD55itwMM1) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Utopía \(Versión Acústica\)](https://open.spotify.com/album/1ELj8bVKvWpjAqljMsFIkx) | 2:11 | 2023-08-18 |  |
 | [Vasos Vacíos](https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tributo A Los Fabulosos Cadillacs](https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76) | 5:21 | 2023-08-18 |  |
-| [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-18 |  |
+| [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-18 | 2023-09-02 |
 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 | 2023-08-18 |  |
 
 \*This playlist was first scraped on 2023-08-25. Prior content cannot be recovered.

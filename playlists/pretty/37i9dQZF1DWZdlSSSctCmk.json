@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 104110,
+  "num_followers": 104246,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzE3ZGQyYmM1NjBmMmNlNTNlYTJlNzZmZDJkZDFlMzRkNGJhMGI4",
+  "snapshot_id": "MCxmM2JkNWQyNDVjMzdhNjhiNzBiZDE2ZDQ1MDIyNTQ1ODY0YTAzYzRm",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Politics",
+        "url": "https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "duration_ms": 454480,
+      "name": "La ritournelle",
+      "url": "https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Nabi",
         "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 232914,
       "name": "Nabi",
       "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Politics",
-        "url": "https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
-        }
-      ],
-      "duration_ms": 454480,
-      "name": "La ritournelle",
-      "url": "https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Weather Storm",
+      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 224840,
       "name": "Paz",
       "url": "https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Weather Storm",
-      "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Just Landed",
-        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 330973,
-      "name": "Tabarin",
-      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/1FKnoGi6vRMvNZCY3Xbx2Y"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 347317,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Just Landed",
+        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 330973,
+      "name": "Tabarin",
+      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Into Daylight",
-        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        },
-        {
-          "name": "Hush Forever",
-          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
-        }
-      ],
-      "duration_ms": 295989,
-      "name": "Verbana (feat. Hush Forever)",
-      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Camino Del Sol",
         "url": "https://open.spotify.com/album/1Sk3WFAves0pZ4Mfj4HtI1"
       },
@@ -1463,18 +1443,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
-        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+        "name": "Into Daylight",
+        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
       "artists": [
         {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        },
+        {
+          "name": "Hush Forever",
+          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
         }
       ],
-      "duration_ms": 220546,
-      "name": "V\u00f4o sobre o horizonte",
-      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
+      "duration_ms": 295989,
+      "name": "Verbana (feat. Hush Forever)",
+      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1491,6 +1475,22 @@
       "duration_ms": 241500,
       "name": "Echo Valley",
       "url": "https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "V\u00f4o sobre o horizonte",
+      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Cantoma (Deluxe)",
-        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Pandajero",
-      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "When We On",
         "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Cantoma (Deluxe)",
+        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Pandajero",
+      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
     },
     {
       "added_at": "2023-07-14 11:01:37",

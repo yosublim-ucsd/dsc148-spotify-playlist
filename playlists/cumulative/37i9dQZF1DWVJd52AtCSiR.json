@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82853,
+      "name": "Ariel's Goodbye",
+      "url": "https://open.spotify.com/track/270OUjwWypMvDPuMX0nTb8"
+    },
+    {
+      "album": {
         "name": "The Disney Book",
         "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
       },
@@ -1611,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Part of Your World (Arr. Hamilton for Piano & Flute) [From \"The Little Mermaid\" (Feat. Cocomi)]",
+        "url": "https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344466,
+      "name": "Part of Your World (Arr. Hamilton for Piano & Flute) - From \"The Little Mermaid\" (Feat. Cocomi)",
+      "url": "https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip"
+    },
+    {
+      "album": {
         "name": "Disney Goes Classical",
         "url": "https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg"
       },
@@ -1626,7 +1666,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 252813,
       "name": "Part Of Your World - From \"The Little Mermaid\"",
       "url": "https://open.spotify.com/track/464ugbhLm0zZ2zCaRMwg6n"

@@ -4,7 +4,7 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-114 songs - 6 hr 51 min
+115 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Floating](https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:15 | 2022-11-30 |  |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-11-30 |  |
 | [For the Dreamers](https://open.spotify.com/track/3wLIctUIIgOhfpiUXndEoT) | [Luke Thompson](https://open.spotify.com/artist/2Cd44ho20XhLnQu1ArHqWh) | [The Trials & Tribulations of Adam & His Seed](https://open.spotify.com/album/3wyWGsJQXn7753hSSzy5dU) | 3:03 | 2021-11-30 | 2022-12-01 |
-| [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 | 2021-11-30 |  |
+| [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 | 2023-03-08 |  |
+| [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 | 2021-11-30 | 2023-09-02 |
 | [Gypsy](https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Gypsy Tapes](https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41) | 3:32 | 2022-11-30 |  |
 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 | 2022-11-30 |  |
 | [Higher Now](https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1) | [Seph Cove](https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff) | [Higher Now](https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg) | 4:18 | 2023-03-08 |  |

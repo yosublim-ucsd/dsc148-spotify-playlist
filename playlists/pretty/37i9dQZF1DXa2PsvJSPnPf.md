@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,563 likes - 141 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,630 likes - 141 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 11 | [Circles](https://open.spotify.com/track/4tHtFHy9v5jwIXjZRTIU8o) | [Esmé Patterson](https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa) | [Circles](https://open.spotify.com/album/0WsA33vc6Qc6MONy3mj0OT) | 3:09 |
 | 12 | [Going Where The Lonely Go](https://open.spotify.com/track/4MTpZs4wIJ4SpqMkh0CMuJ) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:10 |
 | 13 | [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 |
-| 14 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 |
+| 14 | [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 |
 | 15 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 |
 | 16 | [Holding Pattern](https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Holding Pattern](https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r) | 3:05 |
 | 17 | [Drink The River](https://open.spotify.com/track/3znuPoIQWrUGRRL1nh3Ifz) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/6t9HJaQDaEswn0LIweG7hg) | 3:35 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 140 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 |
 | 141 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 
-Snapshot ID: `MCwwZmZhOWY4MzFmOGIxMjg2NzQ2MGQxNDYxYjI4NDdjOGMxNWZiNDRk`
+Snapshot ID: `MCxjZjBmOGVlNDA2OWJmMWMwYjkxNzY2MWIxZGIzZDhiMTZhYzBmMzE1`

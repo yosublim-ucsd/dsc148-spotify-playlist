@@ -2,7 +2,7 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Luli Lee\(이루리\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 쏜애플\(THORNAPPLE\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
 597 songs - 1 day 12 hr 33 min
 

@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 28686,
+  "num_followers": 28788,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjNjYzFhYTgyZThhMjA1M2FjZWM4ZjVjOWI2MjQ4YmE0YTY4OTNi",
+  "snapshot_id": "MCwzNzEzODhiMjA0ZjViYTk4ODdlNThiYWY3YmU1NTg3OTdmNTRkNzUw",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Leby",
-          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 213959,
       "name": "Dime Cuantas Veces",
       "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Leby",
+          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 208788,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Si No Fue Asi",
         "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 185196,
       "name": "Si No Fue Asi",
       "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 208788,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/1ohao2KDQwLkTR3shBAQKi"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "OCTO",
+          "url": "https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw"
+        }
+      ],
+      "duration_ms": 165332,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "PUNKDEMIA",
         "url": "https://open.spotify.com/album/0XMJsTzaZzW3AaztVZbb6f"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 245677,
       "name": "TU CINTURA",
       "url": "https://open.spotify.com/track/35rGCxanzxooL6R32BuMu6"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/1ohao2KDQwLkTR3shBAQKi"
-      },
-      "artists": [
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
-          "name": "OCTO",
-          "url": "https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw"
-        }
-      ],
-      "duration_ms": 165332,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB"
     },
     {
       "added_at": "2022-12-09 03:00:00",

@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Alexander Stewart
+> Discover your favorite new chill pop songs\. Cover: Chelsea Cutler
 
-1,435 songs - 3 day 3 hr 12 min
+1,436 songs - 3 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,7 @@
 | [I Don't Care](https://open.spotify.com/track/1citIkNWmi2MJIFss9Tqso) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 3:03 | 2022-11-04 | 2022-11-13 |
 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-09 | 2022-10-31 |
 | [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-10-28 | 2022-11-19 |
-| [I Don't Feel Alive](https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [I Don't Feel Alive](https://open.spotify.com/album/1WG4x5TpVKcN4oDBDeZuxa) | 3:23 | 2023-07-14 |  |
+| [I Don't Feel Alive](https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [I Don't Feel Alive](https://open.spotify.com/album/1WG4x5TpVKcN4oDBDeZuxa) | 3:23 | 2023-07-14 | 2023-09-02 |
 | [I Don't Miss You](https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [I Don't Miss You](https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp) | 3:37 | 2023-04-07 | 2023-07-03 |
 | [i don't wanna be yours](https://open.spotify.com/track/5Mk6npt9ZdkUTvlY6sZuY0) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [i don't wanna be yours](https://open.spotify.com/album/77MOdQXrbPpAD6svCnqiOo) | 2:39 | 2022-05-20 | 2022-08-27 |
 | [i don't wanna let u go](https://open.spotify.com/track/6awEFGRJn9q75S3oYxnJEs) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [i don't wanna let u go](https://open.spotify.com/album/5zHj469rFk5ZGxT5tSniLA) | 2:24 | 2022-01-07 | 2022-06-25 |
@@ -1437,6 +1437,7 @@
 | [you make me feel alright](https://open.spotify.com/track/62VR8f0u8XIgDQCwT1tzNC) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [You Make Me Feel Alright](https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp) | 2:58 | 2021-11-20 | 2021-12-18 |
 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 | 2022-09-16 | 2022-12-10 |
 | [You're Almost There](https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [You're Almost There](https://open.spotify.com/album/7vA1tbXdEHvPftDO7jEsKj) | 3:06 | 2022-03-25 | 2022-05-20 |
+| [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2023-09-01 |  |
 | [your clothes](https://open.spotify.com/track/5yRnm8Kfu6l20QyIdSyfrv) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [your clothes](https://open.spotify.com/album/0VDEPoASuTiBaYMjvZwmm0) | 1:55 | 2023-04-14 | 2023-05-10 |
 | [Your Ex](https://open.spotify.com/track/3IkXLkNFF93omLpzxfcOK8) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Your Ex](https://open.spotify.com/album/38N1yrl3r6rGulkphT8pO3) | 3:37 | 2023-08-18 |  |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2021-04-30 | 2021-06-26 |

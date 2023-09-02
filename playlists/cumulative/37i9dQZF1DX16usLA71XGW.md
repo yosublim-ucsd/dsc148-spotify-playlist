@@ -4,7 +4,7 @@
 
 > East Africa queens in their music bag\. Cover: Muthaka & Emma Cheruto
 
-101 songs - 5 hr 18 min
+102 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 | 2023-05-14 |
 | [Mbikka](https://open.spotify.com/track/0aX9cCnSbOK71jbkIoTdnL) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Mbikka](https://open.spotify.com/album/1HZpwYR92F4Krb8d1R7FrZ) | 2:54 | 2022-07-18 | 2022-09-30 |
 | [Money](https://open.spotify.com/track/5wXGMc37E8zPQahBiZGu87) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [MONEY](https://open.spotify.com/album/1C4342P9N6QgqnQezg8Ony) | 2:54 | 2022-07-18 |  |
-| [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-07-18 |  |
+| [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-07-18 | 2023-09-02 |
 | [Mufele \- Radio Edit](https://open.spotify.com/track/2MSgpEYfJpDa4j9g6R32Lm) | [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Mufele](https://open.spotify.com/album/2FyvNRC4xnpeWTIMRXWxEA) | 2:21 | 2022-09-22 | 2023-03-31 |
 | [My Cherrie](https://open.spotify.com/track/4k7pec9Cchlj8kxi0vJd0D) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [My Cherie](https://open.spotify.com/album/1l7rj6E7ai2q5wPKGWis2S) | 4:38 | 2022-11-24 |  |
 | [Nabo](https://open.spotify.com/track/2ounUVg5MLgyykUalI0VsC) | [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [NABO](https://open.spotify.com/album/0dEvZv2bvBamdD39FOIpv1) | 2:37 | 2022-07-18 | 2022-10-14 |
@@ -93,6 +93,7 @@
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-07-18 | 2022-08-20 |
 | [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 | 2022-07-18 |  |
 | [Slow Dancing](https://open.spotify.com/track/6Qyi7tjYfQf3jSc2DjgVMC) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:22 | 2022-07-18 |  |
+| [Southwards](https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:24 | 2023-09-01 |  |
 | [Te Quiero](https://open.spotify.com/track/420JxzIQL7fiH7hAAJAvsk) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef) | 2:58 | 2022-07-18 | 2023-05-14 |
 | [Te Quiero](https://open.spotify.com/track/6PtSPngdTdpXCirFEyEGHG) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Te Quiero](https://open.spotify.com/album/0e7I2Jwq5O4MLDVd3oCPxJ) | 2:58 | 2023-05-11 | 2023-06-02 |
 | [Toola](https://open.spotify.com/track/6ckQHJ3Q1UjduZtkp6t5N4) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb), [Angella Katatumba](https://open.spotify.com/artist/1xiwy2IYNqMyae2Eot9nCH) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 2:44 | 2022-09-08 | 2023-07-01 |

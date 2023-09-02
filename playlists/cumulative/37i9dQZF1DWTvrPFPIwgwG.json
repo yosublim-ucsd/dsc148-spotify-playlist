@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sophia Vit\u00f3ria, Cassiane",
+  "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kellen Byanca",
   "name": "Louvores Pentecostais",
   "tracks": [
+    {
+      "album": {
+        "name": "A Cura do C\u00e9u",
+        "url": "https://open.spotify.com/album/619OqlqJ59fsZde9KAUUmG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252541,
+      "name": "A Cura do C\u00e9u",
+      "url": "https://open.spotify.com/track/1X0bDwAikhhYczLtG6Ckp7"
+    },
     {
       "album": {
         "name": "A Igreja Vai Rompendo",
@@ -510,6 +532,28 @@
       "duration_ms": 240000,
       "name": "Dependente (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
+    },
+    {
+      "album": {
+        "name": "Desapareceu um Povo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1e4nJnPwLL6a7ivAyppNmS"
+      },
+      "artists": [
+        {
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        },
+        {
+          "name": "Rodrigo Vinheiro",
+          "url": "https://open.spotify.com/artist/1z5mBQfcYWzBTrBschPZUc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210977,
+      "name": "Desapareceu um Povo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3CzOSJ3mlQUBuVa85iHlfK"
     },
     {
       "album": {
@@ -1215,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Foi o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Ki8QBtCUxoit8bE0yj2Jq"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412703,
+      "name": "Foi o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4CCJF8aNJehAJu8J3IISVq"
+    },
+    {
+      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -1704,7 +1766,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 344000,
       "name": "Nunca Foi Sorte (Ao Vivo)",
       "url": "https://open.spotify.com/track/0SuCzPj1jCFS2Sp6MKWbML"
@@ -1834,7 +1896,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 308059,
       "name": "O Desfecho",
       "url": "https://open.spotify.com/track/1UsGjeLpVIGxcoXUZ1GbBo"
@@ -2350,6 +2412,24 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "album": {
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
     },
     {
       "album": {
@@ -3072,7 +3152,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 329395,
       "name": "Vai Ter Festa",
       "url": "https://open.spotify.com/track/7vKRhq3hoqNyzn6KGcVEF3"
@@ -3112,7 +3192,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 265363,
       "name": "Vai Ter Surpresa (Ao Vivo)",
       "url": "https://open.spotify.com/track/3JBriN1tBkNyni3c7hsxj2"

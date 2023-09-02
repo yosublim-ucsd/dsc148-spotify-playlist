@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-494 songs - 1 day 3 hr 44 min
+496 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2021-12-07 | 2022-01-08 |
 | [CATALYST](https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [CATALYST](https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU) | 3:26 | 2023-02-22 | 2023-06-23 |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 | 2022-03-10 |
+| [Center of the World](https://open.spotify.com/track/36XWkGgDGY8rm3GFPChJZj) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Center of the World](https://open.spotify.com/album/6ySVT6WO73DZzPGOZ3Zi8t) | 4:00 | 2023-09-01 |  |
 | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd) | 2:37 | 2022-10-27 | 2023-01-20 |
 | [Change of Pace](https://open.spotify.com/track/3e8crxi6lSdMuIF6cbuWau) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Change of Pace](https://open.spotify.com/album/2AbwZQbhhWiiW2OgVBmrF9) | 3:56 | 2022-08-17 | 2023-04-01 |
 | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/track/65X5k4AUa5sWiTld3zUXns) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/album/0B3RsQ68U3zlZlGmO1kIsi) | 2:25 | 2022-07-29 | 2023-01-30 |
@@ -417,6 +418,7 @@
 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 | 2022-07-07 | 2023-01-30 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-01-07 | 2022-02-01 |
 | [Sunrise](https://open.spotify.com/track/3Let0CN8g4VuTh8Ka4Hzxw) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:22 | 2021-11-23 | 2022-02-05 |
+| [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-01 |  |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-02-16 |
 | [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 | 2022-12-12 | 2023-01-30 |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2022-02-05 |

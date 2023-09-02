@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ\">Classical version here</a>.",
-  "num_followers": 1152867,
+  "num_followers": 1153335,
   "original_name": "Songs To Test Headphones With",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmExMDI5MzZjZTA3YmEzODYyZTJkNGIyYTJkODNiNmU3OTA4ZmZk",
+  "snapshot_id": "MCxhMWVhMzQ3MTBhMmZiMDViNmZjOGU3Nzg0NTlkZjgzMDRkNDMwMDI4",
   "tracks": [
     {
       "added_at": "2023-07-13 09:19:06",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 302413,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1231,6 +1231,38 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
+        "name": "Gladiator: 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5XgEM5g3xWEwL4Zr6UjoLo"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/6k41naacsmD4L3i9AzCFom"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
         "name": "New Energy",
         "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
@@ -1275,38 +1307,6 @@
       "duration_ms": 160720,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
-        "name": "Gladiator: 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5XgEM5g3xWEwL4Zr6UjoLo"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Klaus Badelt",
-          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
-        },
-        {
-          "name": "Lisa Gerrard",
-          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
-        },
-        {
-          "name": "Gavin Greenaway",
-          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
-        },
-        {
-          "name": "The Lyndhurst Orchestra",
-          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Now We Are Free",
-      "url": "https://open.spotify.com/track/6k41naacsmD4L3i9AzCFom"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
+        "name": "The Fragile",
+        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Into The Void",
+      "url": "https://open.spotify.com/track/55Ilqi0tkzElAOqDPixuDU"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
         "name": "Aja",
         "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 480466,
       "name": "Aja",
       "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "The Fragile",
-        "url": "https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8"
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Into The Void",
-      "url": "https://open.spotify.com/track/55Ilqi0tkzElAOqDPixuDU"
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Oh Mercy",
-        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Man in the Long Black Coat",
-      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Beaucoup Fish (Remastered / Super Deluxe)",
         "url": "https://open.spotify.com/album/4aDQW29Xvaa7jhyMGDS1Yj"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 417853,
       "name": "Jumbo",
       "url": "https://open.spotify.com/track/3VIMS1p3sNifH0RQnmDf7s"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Oh Mercy",
+        "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "Man in the Long Black Coat",
+      "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
+        "name": "Fur and Gold",
+        "url": "https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN"
+      },
+      "artists": [
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "What's A Girl To Do?",
+      "url": "https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 820906,
       "name": "Welcome To The Pleasuredome",
       "url": "https://open.spotify.com/track/6PF0WYSCH6OhGKHRHOQSxG"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
-        "name": "Fur and Gold",
-        "url": "https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN"
-      },
-      "artists": [
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "What's A Girl To Do?",
-      "url": "https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "New Adventures In Hi-Fi",
-        "url": "https://open.spotify.com/album/3pPyHBRk2RvmNn4Cg1Asv6"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 437906,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/5lpaTYULgbKAwtvpkPjyrZ"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Homogenic",
         "url": "https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 253200,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/3UHuJt2WkLxGdbxn36T9vc"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "New Adventures In Hi-Fi",
+        "url": "https://open.spotify.com/album/3pPyHBRk2RvmNn4Cg1Asv6"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 437906,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/5lpaTYULgbKAwtvpkPjyrZ"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2867,6 +2867,22 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Nobody Knows the Trouble I've Seen",
+      "url": "https://open.spotify.com/track/6g9uN89pIVbpvE6m9C3PQ3"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/35qo348k014R2DO3vJXj2q"
       },
@@ -2899,22 +2915,6 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Nobody Knows the Trouble I've Seen",
-      "url": "https://open.spotify.com/track/6g9uN89pIVbpvE6m9C3PQ3"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
         "name": "Nightclubbing",
         "url": "https://open.spotify.com/album/6q8R2OCmCS9W6Y7kqnSd78"
       },
@@ -2943,22 +2943,6 @@
       "duration_ms": 262840,
       "name": "Bad Kingdom",
       "url": "https://open.spotify.com/track/52sUt1HsFxScRUbOxnBQRP"
-    },
-    {
-      "added_at": "2023-07-13 09:19:06",
-      "album": {
-        "name": "Lucid Dreaming",
-        "url": "https://open.spotify.com/album/4JJEJahKyhbwxRnrHpebaD"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Lucid Dreaming",
-      "url": "https://open.spotify.com/track/4WYSrzvQ9F91f4pRk4cMg6"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -2999,18 +2983,18 @@
     {
       "added_at": "2023-07-13 09:19:06",
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+        "name": "Lucid Dreaming",
+        "url": "https://open.spotify.com/album/4JJEJahKyhbwxRnrHpebaD"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
         }
       ],
-      "duration_ms": 327760,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
+      "duration_ms": 205026,
+      "name": "Lucid Dreaming",
+      "url": "https://open.spotify.com/track/4WYSrzvQ9F91f4pRk4cMg6"
     },
     {
       "added_at": "2023-07-13 09:19:06",
@@ -3027,6 +3011,22 @@
       "duration_ms": 203933,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/0Otg6s8ps1OkdRkD5KmepW"
+    },
+    {
+      "added_at": "2023-07-13 09:19:06",
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 327760,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
     },
     {
       "added_at": "2023-07-13 09:19:06",

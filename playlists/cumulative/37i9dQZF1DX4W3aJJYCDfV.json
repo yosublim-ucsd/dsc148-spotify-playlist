@@ -51814,10 +51814,50 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 145263,
       "name": "JELO",
       "url": "https://open.spotify.com/track/2p2IUL7Wn1W4bSCxrYSFEh"
+    },
+    {
+      "album": {
+        "name": "JELO (feat. Young Jonn)",
+        "url": "https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147368,
+      "name": "JELO (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd"
+    },
+    {
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "album": {
@@ -53098,7 +53138,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174222,
-      "name": "Keep Going Up (feat. Nelly Furtado & Justin Timberlake)",
+      "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
       "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
     },
     {
@@ -53882,6 +53922,24 @@
       "duration_ms": 171080,
       "name": "King of Hearts",
       "url": "https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS"
+    },
+    {
+      "album": {
+        "name": "The More The Better",
+        "url": "https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "King of Pop",
+      "url": "https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf"
     },
     {
       "album": {
@@ -54682,6 +54740,24 @@
       "duration_ms": 219293,
       "name": "Last Time Every Time Forever",
       "url": "https://open.spotify.com/track/4kiq1eqY8Yh3cvyAY4ver8"
+    },
+    {
+      "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "album": {

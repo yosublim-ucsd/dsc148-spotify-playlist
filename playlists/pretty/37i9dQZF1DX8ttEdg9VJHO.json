@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 342621,
+  "num_followers": 342710,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWJlNTJiMTg0OGJlMzM0MjkwNThlY2U4YWU0N2ZiYzA2MDdhODQx",
+  "snapshot_id": "MCxiYWM2MDE5MjQxNTgxMGUxMzRmZDc1ODM2MzBmZDQ4MDBlMmU2N2Qw",
   "tracks": [
     {
       "added_at": "2023-08-10 18:23:24",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 152894,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 205000,
       "name": "Following the Sun",
       "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 152894,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 234623,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
         "name": "If Anything's Left",
         "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 234623,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Wer wenn nicht wir",
-        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
-      },
-      "artists": [
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Wer wenn nicht wir",
-      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Wer wenn nicht wir",
+        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Wer wenn nicht wir",
+      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "I Made It",
-        "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "I Made It",
-      "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Butterflies (feat. FLETCHER)",
         "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "I Made It",
+        "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "I Made It",
+      "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 217713,
       "name": "Leap Of Faith",
       "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7zQznatXJv40vMCjR2ztfb"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 172066,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0S5CurjBT1nbbD4YFTRrRv"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 214383,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Small Steps",
         "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/5eSlr42inu5AFjbZ2Wo6RZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 214383,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/78MATjjZr1LB5RNntxSCGY"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A"
-      },
-      "artists": [
-        {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "We Can Be Just Friends",
-        "url": "https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2"
+        "name": "Year of the Young",
+        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
       },
       "artists": [
         {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 164135,
-      "name": "We Can Be Just Friends",
-      "url": "https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT"
+      "duration_ms": 164200,
+      "name": "Year of the Young",
+      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
     }
   ],
   "unique_name": "Feelgood Pop",

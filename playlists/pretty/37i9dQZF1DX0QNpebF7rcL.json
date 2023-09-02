@@ -1,13 +1,45 @@
 {
   "description": "The best in blues right now. Cover: Shemekia Copeland",
-  "num_followers": 51079,
+  "num_followers": 51102,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjNkZDA1ZmUyZTk0NjlkMWEzMzdmNGYwODgxNzlmY2I0NGY2ZTY0",
+  "snapshot_id": "MCwwNzM5MGEyOTBiYTk0MzRmYWU1YjMwNDIwZDMzNDBlNzViYjk2MjIw",
   "tracks": [
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "You Got It (And I Need It)",
+        "url": "https://open.spotify.com/album/1WpFHd5j9wvcV0mMZnhz0o"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 199966,
+      "name": "You Got It (And I Need It)",
+      "url": "https://open.spotify.com/track/71bUNFk68LUA5Y0HURe94Y"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Writing On The Wall",
+        "url": "https://open.spotify.com/album/3g8mmWEgsQs1H15zMnxTKX"
+      },
+      "artists": [
+        {
+          "name": "Coco Montoya",
+          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
+        }
+      ],
+      "duration_ms": 259092,
+      "name": "Save It For The Next Fool",
+      "url": "https://open.spotify.com/track/4U9jHh7OSiDErr0OTW2FzO"
+    },
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
@@ -85,22 +117,6 @@
       "url": "https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Sneakin' Around",
-        "url": "https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "Sneakin\u2019 Around",
-      "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
-    },
-    {
       "added_at": "2023-08-18 04:01:00",
       "album": {
         "name": "Burn",
@@ -119,22 +135,6 @@
       "duration_ms": 260497,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "I Was Wrong",
-        "url": "https://open.spotify.com/album/4pWHa99dbajqTn8BLqTbdZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Montoya",
-          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
-        }
-      ],
-      "duration_ms": 229594,
-      "name": "I Was Wrong",
-      "url": "https://open.spotify.com/track/5HyNNoCfx2vph4CCiPYY2N"
     },
     {
       "added_at": "2023-08-25 04:01:00",

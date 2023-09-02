@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Miley Cyrus
 
-247 songs - 14 hr 19 min
+248 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Waste Me](https://open.spotify.com/track/5j7xAAC6wM40T7AI6aweHt) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Nowhere Near the Sky](https://open.spotify.com/album/3IUhNyQcjQvhcPGufNPgdG) | 3:25 | 2023-02-23 | 2023-03-11 |
 | [WDIA \(Would Do It Again\)](https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [WDIA \(Would Do It Again\)](https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB) | 3:11 | 2023-02-23 | 2023-03-25 |
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 | 2023-03-18 |
-| [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 | 2023-05-09 |  |
+| [We Were Never Really Friends](https://open.spotify.com/track/2QZzngN7hEFac2yC6zxOGy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:24 | 2023-08-31 |  |
+| [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 | 2023-05-09 | 2023-09-02 |
 | [Weak In The Knees](https://open.spotify.com/track/7zTQERSGQl9Xnh58ocvOQa) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Weak In The Knees](https://open.spotify.com/album/2gei2GiI0zjYuVQOaBDgUJ) | 3:02 | 2023-02-23 | 2023-03-10 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-02-23 | 2023-06-09 |
 | [whatstheuse](https://open.spotify.com/track/73scvnGUKmJGkJmOGf5ZVE) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [whatstheuse](https://open.spotify.com/album/0MV6aHAYFTdLVYIw5Qv0FW) | 3:08 | 2023-07-31 |  |

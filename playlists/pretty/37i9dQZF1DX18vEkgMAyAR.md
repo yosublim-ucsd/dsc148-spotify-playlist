@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,051 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,098 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Falling](https://open.spotify.com/track/4v9nRXzGgTFc2GuxWpG0Mg) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Falling](https://open.spotify.com/album/7ziJdl59dI4sSnp5M3AIPc) | 3:12 |
 | 60 | [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 |
 
-Snapshot ID: `MCwyY2MwNmE5YWM0ZjVmNzFmMTY0ZDhjZWI1NjczMDc0OTFjNzg5NTVj`
+Snapshot ID: `MCxhMzczNzQ3YzEzY2U3MmZkOTY4MzNlYjIzNWRhNzkwOTZkMDc4MmQx`

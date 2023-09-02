@@ -12004,7 +12004,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 192030,
       "name": "Kauemmas",
       "url": "https://open.spotify.com/track/6KE32hoeVholHEoGeSoWQ5"
@@ -12272,6 +12272,24 @@
       "duration_ms": 265760,
       "name": "Kerran kuussa",
       "url": "https://open.spotify.com/track/124RMhpaLnIUpRqYZDYwGx"
+    },
+    {
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197649,
+      "name": "Kertoimia Vastaan",
+      "url": "https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi"
     },
     {
       "album": {
@@ -17038,7 +17056,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 164437,
       "name": "Missi",
       "url": "https://open.spotify.com/track/428rSbzZ0AnBMpzyQRW4uE"
@@ -23102,7 +23120,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 151014,
       "name": "Sepp\u00e4",
       "url": "https://open.spotify.com/track/6YuAnpBbgbMqIf2jopi2bZ"

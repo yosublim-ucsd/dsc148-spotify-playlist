@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: \uc54c\ub808\ud504)",
+  "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: \uc608\ube5b(Yebit))",
   "name": "Hipster K' Pack",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 162666,
       "name": "3M",
       "url": "https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg"
@@ -5740,6 +5740,24 @@
       "duration_ms": 207999,
       "name": "We will be alright",
       "url": "https://open.spotify.com/track/75alK8vHbnOuAIeHpAdNeN"
+    },
+    {
+      "album": {
+        "name": "What's wrong with me?",
+        "url": "https://open.spotify.com/album/0Yy2PBAivdv6vIvwQY3VRF"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "What's wrong with me?",
+      "url": "https://open.spotify.com/track/6TakheWewVFeIWbDppiTXb"
     },
     {
       "album": {

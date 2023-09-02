@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163200,
       "name": "LEVIATHAN",
       "url": "https://open.spotify.com/track/1JHLFyGl62MDj5jDBJics2"
@@ -4470,6 +4470,28 @@
       "duration_ms": 199448,
       "name": "Lunar Tear",
       "url": "https://open.spotify.com/track/33ocUBiuYwpxVygdiuLDJU"
+    },
+    {
+      "album": {
+        "name": "Madara",
+        "url": "https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "Madara",
+      "url": "https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D"
     },
     {
       "album": {
@@ -4638,7 +4660,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 150620,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5xWvRtgAxkWUZPGXqICbpx"
@@ -5408,6 +5430,28 @@
       "duration_ms": 163941,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
+    },
+    {
+      "album": {
+        "name": "Output",
+        "url": "https://open.spotify.com/album/5IlDu0XhzFNP0dsGuwUCRJ"
+      },
+      "artists": [
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        },
+        {
+          "name": "Kryture",
+          "url": "https://open.spotify.com/artist/72iKUroqeSkinEfiVns8v7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195310,
+      "name": "Output",
+      "url": "https://open.spotify.com/track/0Me5z9026UhGDlOoSQ6EzR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Valentina Rico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,390 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,395 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 18 | [Cruel](https://open.spotify.com/track/7vNFTnFGuezEzBVRTYqIPZ) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:59 |
 | 19 | [Espejito, Espejito](https://open.spotify.com/track/3fK2tHK7FWZ0hfR1qyHZtG) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Espejito, Espejito](https://open.spotify.com/album/3ymuxzJit7R2bD8OmfEqb1) | 2:26 |
 | 20 | [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 |
-| 21 | [12x3](https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp) | 2:39 |
+| 21 | [12x3](https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 2:39 |
 | 22 | [Amor Bonito](https://open.spotify.com/track/4xIkT5XQo74cR9bZcCo8FC) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Amor Bonito](https://open.spotify.com/album/0DrWimkFANO9MaLLO7rcAR) | 3:08 |
 | 23 | [Hotel](https://open.spotify.com/track/4k11pkNfqJsq7ZX1TbxBeo) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Hotel](https://open.spotify.com/album/1oOYJiGceppR1wxTUEbpbb) | 2:59 |
 | 24 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 49 | [Los Guasangú \- \(Cerrero Remix\)](https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Los Guasangú \(Cerrero Remix\)](https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV) | 5:11 |
 | 50 | [Cada vez que](https://open.spotify.com/track/7fSRmuhqJBkHL0DmjS13Ks) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Mirando al cielo](https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn) | 3:30 |
 
-Snapshot ID: `MCxlY2I5MjcyNTg5ZGY2YjRiMTE4OTU1Njc3ZDIwYjk4MGNmYTBhNDM2`
+Snapshot ID: `MCxhNjE1NzcxMGJlNTY2OWMzMDY0MmEzYTA3MDE4MzM4OGZlMTFjZDA3`

@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4067,
+  "num_followers": 4078,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzdlNDIyMTllNmM3ZmY3ZTNhYzU3OGEyZDE0NzYzN2M2OTkwMmEz",
+  "snapshot_id": "MCxmOWQ1N2M5NGI2ZWE3YjA5MGM3NzZiYzJiZjdjMWM1NTUwMjUwYjU3",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -475,18 +475,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The Entertainer",
-        "url": "https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz"
+        "name": "Joplin: Euphonic Sounds",
+        "url": "https://open.spotify.com/album/5kWfWl6MTHPt7EnZGWSrmz"
       },
       "artists": [
         {
           "name": "Scott Joplin",
           "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "William Bolcom",
+          "url": "https://open.spotify.com/artist/0Uj2XBKJsuZZsf5xSEPfmS"
         }
       ],
-      "duration_ms": 194453,
-      "name": "Maple Leaf Rag",
-      "url": "https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV"
+      "duration_ms": 240146,
+      "name": "Magnetic Rag",
+      "url": "https://open.spotify.com/track/1m94dz2zFqNXncBdwgy1Vh"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -639,22 +643,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Joplin: Euphonic Sounds",
-        "url": "https://open.spotify.com/album/5kWfWl6MTHPt7EnZGWSrmz"
+        "name": "The Entertainer",
+        "url": "https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz"
       },
       "artists": [
         {
           "name": "Scott Joplin",
           "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
-        },
-        {
-          "name": "William Bolcom",
-          "url": "https://open.spotify.com/artist/0Uj2XBKJsuZZsf5xSEPfmS"
         }
       ],
-      "duration_ms": 240146,
-      "name": "Magnetic Rag",
-      "url": "https://open.spotify.com/track/1m94dz2zFqNXncBdwgy1Vh"
+      "duration_ms": 194453,
+      "name": "Maple Leaf Rag",
+      "url": "https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV"
     },
     {
       "added_at": "2020-08-19 17:18:36",

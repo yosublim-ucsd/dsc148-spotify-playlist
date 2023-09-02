@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61CtIauFYJ0I3TktajTK21"
+      },
+      "artists": [
+        {
+          "name": "Dannie May",
+          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/4hj6mw72DR2tk3g5NfQXpA"
+    },
+    {
+      "album": {
         "name": "BORDER",
         "url": "https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9"
       },
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 174833,
       "name": "\u30b7\u30a7\u30ea\u30fc\u306f\u30d7\u30ec\u30a4\u30ac\u30fc\u30eb \u60b2\u3057\u307f\u306f\u3076\u3063\u3068\u3070\u305b",
       "url": "https://open.spotify.com/track/3xU61YPGxW4RC1cpuxdbdw"

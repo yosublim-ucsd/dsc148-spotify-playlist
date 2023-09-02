@@ -2,9 +2,9 @@
 
 ### [Folk Arc](https://open.spotify.com/playlist/37i9dQZF1DWT9XEOPDgFX3)
 
-> Walk the bridge between indie and folk\. Cover: Delaney Bailey
+> Walk the bridge between indie and folk\. Cover: Briston Maroney
 
-391 songs - 1 day 0 hr 22 min
+393 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Couldn't Have Done The Killing](https://open.spotify.com/track/2UVuSsogV0q0OoNBNt0q8S) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [The Path of the Clouds](https://open.spotify.com/album/0kYKOTCAxIIEWKlNlhkOfJ) | 4:49 | 2022-04-13 | 2022-07-27 |
 | [Coyotes](https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [Coyotes](https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI) | 3:03 | 2023-07-14 |  |
 | [Crybaby](https://open.spotify.com/track/1Fe51DbsaZeTmLxqnp7eYf) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Crybaby](https://open.spotify.com/album/2zMU4HPuaNTBpWscm9PsXy) | 3:45 | 2023-02-24 | 2023-06-05 |
+| [Cubic Zirconia](https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cubic Zirconia](https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT) | 4:04 | 2023-09-01 |  |
 | [damn](https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [one hand on the steering wheel the other sewing a garden](https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF) | 4:21 | 2022-01-21 |  |
 | [Days Go By](https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Days Go By](https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2) | 3:14 | 2023-04-07 | 2023-06-16 |
 | [Dear Mexico \(Thank You for Joyce\)](https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H) | [Twain](https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW) | [Rare Feeling](https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt) | 4:05 | 2022-12-16 |  |
@@ -121,7 +122,7 @@
 | [Everything Everything](https://open.spotify.com/track/33WlDnFFCjmlqCL7H4lUcl) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:26 | 2022-01-21 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 | 2022-01-21 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 | 2022-04-29 |  |
-| [everything’s been going so well](https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [everything’s been going so well](https://open.spotify.com/album/2iJGQnd3lbvG0wvgzOUfu1) | 2:53 | 2023-06-30 |  |
+| [everything’s been going so well](https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [everything’s been going so well](https://open.spotify.com/album/2iJGQnd3lbvG0wvgzOUfu1) | 2:53 | 2023-06-30 | 2023-09-02 |
 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 | 2023-07-14 |  |
 | [Falling Apart](https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:46 | 2022-04-29 |  |
 | [Falling Apart](https://open.spotify.com/track/4pKNzf3s40YdmnSgWhybGc) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Falling Apart](https://open.spotify.com/album/1MfOtAIberEkZF45wGRnoX) | 2:46 | 2022-04-13 | 2022-07-29 |
@@ -327,6 +328,7 @@
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2022-01-21 |  |
 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 | 2023-06-23 |  |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2022-01-21 |  |
+| [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 | 2023-09-01 |  |
 | [Sweetspot](https://open.spotify.com/track/6gJIgCURxpAOG61j5Q9LVx) | [Mess Esque](https://open.spotify.com/artist/52o8MHT44vLaGDarbic1zq) | [Mess Esque](https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih) | 7:57 | 2022-01-21 | 2023-06-17 |
 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 | 2022-04-29 | 2023-03-11 |
 | [Swimming](https://open.spotify.com/track/7dJR6TWnJns4w9OVYeMY2P) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Swimming](https://open.spotify.com/album/7DarjMHpMdUo3ForHknW9t) | 4:12 | 2022-01-21 | 2022-07-28 |
@@ -391,7 +393,7 @@
 | [Wind On Tin](https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6) | 3:06 | 2022-04-29 | 2023-04-30 |
 | [Wind on Tin](https://open.spotify.com/track/5puD6cc8BPlXu3feo5bafr) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26) | 3:06 | 2022-04-13 | 2022-07-28 |
 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 | 2023-05-12 |  |
-| [Witch Hazel](https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e) | [Karen Took The Kids](https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE) | [Witch Hazel](https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn) | 4:22 | 2023-07-21 |  |
+| [Witch Hazel](https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e) | [Karen Took The Kids](https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE) | [Witch Hazel](https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn) | 4:22 | 2023-07-21 | 2023-09-02 |
 | [With News About Heaven](https://open.spotify.com/track/5AlvG6En5wNwVQRzxkgXyF) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [New Vanitas](https://open.spotify.com/album/6Y9i01k1rGe69qVjWsGWNM) | 4:31 | 2022-04-13 | 2022-07-28 |
 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 | 2023-03-10 |  |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2022-11-11 | 2023-01-02 |

@@ -2,7 +2,7 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Mickey Guyton and Kane Brown
+> Pop country hits of today and tomorrow\. Cover: Colbie Caillat
 
 247 songs - 12 hr 57 min
 

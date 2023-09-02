@@ -2,7 +2,7 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Zach Bryan
+> A new shade of Country\. Cover: Turnpike Troubadours
 
 481 songs - 1 day 5 hr 45 min
 

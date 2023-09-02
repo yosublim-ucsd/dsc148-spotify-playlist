@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Grupo Marca Registrada
 
-194 songs - 10 hr 7 min
+195 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [El Yuko \(En Vivo\)](https://open.spotify.com/track/2tTHGLNxwZ4vIL3hYppWvl) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Desde La Capital Del Corrido, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q) | 2:43 | 2023-05-19 | 2023-07-15 |
 | [El Águila Blanca \(En Vivo\)](https://open.spotify.com/track/1hwJpBISYJ65VBV0jwVxCb) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [En Vivo Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/55CUXE4WTQ1b0C85TNfyR2) | 2:43 | 2023-07-14 |  |
 | [El Árbol de La Horca \(En Vivo\)](https://open.spotify.com/track/6mmadD66p96rNoxoMUgVj9) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Desde El Rancho \(En Vivo\)](https://open.spotify.com/album/1sgo3AhOzBSVAKkIVSjTrD) | 3:58 | 2023-05-19 | 2023-06-24 |
-| [EN ALTAVOZ](https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 | 2023-08-04 |  |
+| [EN ALTAVOZ](https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:46 | 2023-08-25 |  |
+| [EN ALTAVOZ](https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 | 2023-08-04 | 2023-09-02 |
 | [En Corto](https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:02 | 2023-06-30 | 2023-08-26 |
 | [En Corto](https://open.spotify.com/track/6PlLiHoRcjCgK5som2T3ph) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 3:02 | 2023-08-25 |  |
 | [En Una De Pista](https://open.spotify.com/track/2P2LeA91YUbrp4uGVqnWIz) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/5dVtllLtLJfLdBEwhzREF7) | 3:00 | 2023-05-19 | 2023-05-26 |

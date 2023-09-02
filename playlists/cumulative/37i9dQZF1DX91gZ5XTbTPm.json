@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Babyface Ray",
+  "description": "The Midwest is always on time. Cover: Sexyy Red",
   "name": "CST",
   "tracks": [
     {
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 288000,
       "name": "Caturday",
       "url": "https://open.spotify.com/track/2vZLaJAbpGoCSI9sYoJq4c"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182272,
       "name": "Eastside Girl ft. Ty Dolla $ign",
       "url": "https://open.spotify.com/track/2yMqblpcRSEOpiBQpKFo9N"
@@ -3773,6 +3773,24 @@
     },
     {
       "album": {
+        "name": "Got Me Hot",
+        "url": "https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170748,
+      "name": "Got Me Hot",
+      "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
+    },
+    {
+      "album": {
         "name": "Grocery Freestyle",
         "url": "https://open.spotify.com/album/786kdQmaDyMSLBemNzzoDM"
       },
@@ -3995,6 +4013,24 @@
     },
     {
       "album": {
+        "name": "E3",
+        "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "heartache blues",
+      "url": "https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu"
+    },
+    {
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ"
       },
@@ -4184,7 +4220,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 149448,
       "name": "Hopeless Island",
       "url": "https://open.spotify.com/track/6c0KBEx6B7qQDx53Y0FlQx"
@@ -4804,6 +4840,24 @@
       "duration_ms": 217246,
       "name": "Ion Need",
       "url": "https://open.spotify.com/track/03ZoOMBPSsRQZcu7077PcR"
+    },
+    {
+      "album": {
+        "name": "Irreplaceable",
+        "url": "https://open.spotify.com/album/6DxxUOlKRmiNOjbZNgxIYN"
+      },
+      "artists": [
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159600,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6jhFFQtKBib4cICFEyf5Lv"
     },
     {
       "album": {
@@ -5544,6 +5598,28 @@
       "duration_ms": 130707,
       "name": "Looking For The Hoes (Ain\u2019t My Fault)",
       "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "album": {
+        "name": "Why Do It Feel Like I'm Losing You",
+        "url": "https://open.spotify.com/album/6nV5A2vlstzER5Aul45Ymn"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305142,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/16Oy2t41hPHbM8rjpdVGov"
     },
     {
       "album": {
@@ -7288,7 +7364,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 148800,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0"
@@ -7812,6 +7888,28 @@
       "duration_ms": 116288,
       "name": "Record Straight",
       "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/4QVtzRDsbRyMpxU9KUC0Fh"
+      },
+      "artists": [
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "Justin Stone",
+          "url": "https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179991,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/10qjN7LKGHkp4fs5bByDZc"
     },
     {
       "album": {

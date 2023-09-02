@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240636,
+  "num_followers": 240635,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODhhYWI1MzRhMzhlODdhOTM5NzZmNjgwYmQ0ZDczY2NlYzY3Nzdi",
+  "snapshot_id": "MCxlOTY1NDZjMzJlMWIwMTA2MTNhMzRmYWExOWNjODlkNGFkMGYyNTUy",
   "tracks": [
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "My Tribe (Extended Edition)",
+        "url": "https://open.spotify.com/album/4xwLMnQG1UoZ4uP6DN8gG8"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 163457,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
@@ -1567,26 +1583,6 @@
       "duration_ms": 209132,
       "name": "Preach",
       "url": "https://open.spotify.com/track/0yx0mGjfdB9ZpEJ3FI8oTu"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Collage 2",
-        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        },
-        {
-          "name": "ELSAS",
-          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
-        }
-      ],
-      "duration_ms": 192859,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
     },
     {
       "added_at": "2022-05-20 04:01:00",

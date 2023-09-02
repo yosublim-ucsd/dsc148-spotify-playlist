@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: milet
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,114 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,173 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 42 | [ROCK YOUR BODY](https://open.spotify.com/track/0TRqd6Gu3D15JhvRVLDMrn) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [ROCK YOUR BODY](https://open.spotify.com/album/1oCMq00Ex2N0Q9tvm3dLFJ) | 3:19 |
 | 43 | [Living My Life](https://open.spotify.com/track/3sOtP846W4vc5vrwWAzHGA) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Living My Life](https://open.spotify.com/album/3vWRrdqBke874pWHIyz2HF) | 3:45 |
 | 44 | [Happy Birthday to You](https://open.spotify.com/track/1hXuV7R90T8W5UNcq5b6Nc) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [RESPECT ALL](https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy) | 2:03 |
-| 45 | [線香花火 \- feat\. 幾田りら](https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [線香花火 \(feat\. 幾田りら\)](https://open.spotify.com/album/4cq0K1U2cesCfyNVQkgBXu) | 3:19 |
+| 45 | [天悪](https://open.spotify.com/track/6QVXXnFhB9xqos2aqwczhi) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [天悪](https://open.spotify.com/album/5AN3eT7pdKKPrBpSFQcJE2) | 3:21 |
 | 46 | [I've Got the Power](https://open.spotify.com/track/6biUfADXKG8iOmnfF4tUXM) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [I've Got the Power](https://open.spotify.com/album/7gOvCcSaQOAcGOhomfU5sH) | 3:20 |
-| 47 | [天悪](https://open.spotify.com/track/6QVXXnFhB9xqos2aqwczhi) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [天悪](https://open.spotify.com/album/5AN3eT7pdKKPrBpSFQcJE2) | 3:21 |
+| 47 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
 | 48 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
-| 49 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
+| 49 | [線香花火 \- feat\. 幾田りら](https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [線香花火 \(feat\. 幾田りら\)](https://open.spotify.com/album/4cq0K1U2cesCfyNVQkgBXu) | 3:19 |
 | 50 | [夏の終わり](https://open.spotify.com/track/1GCedKdM8UJCTt3HvV8HYU) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [夏の終わり](https://open.spotify.com/album/1uQTmJVphYfSw33v7NK12X) | 3:34 |
 | 51 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 |
 | 52 | [Summer Sequence](https://open.spotify.com/track/6ol145QOAPT14eNl5oAJ4F) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Summer Sequence](https://open.spotify.com/album/2djxIRT5xeSc3fNmJkMruQ) | 3:37 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 90 | [It Might Be Painful, But I Still Love It.](https://open.spotify.com/track/3v6m03G0wyCYUWXLrzRUPg) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Mentality](https://open.spotify.com/album/5EczjrV57LAp8bSNka5Wg7) | 3:23 |
 | 91 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 |
 | 92 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
-| 93 | [クランベリージャムをかけて](https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クランベリージャムをかけて](https://open.spotify.com/album/3bj22dhfeDss7WCzPYlVHI) | 2:47 |
-| 94 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
+| 93 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
+| 94 | [クランベリージャムをかけて](https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クランベリージャムをかけて](https://open.spotify.com/album/3bj22dhfeDss7WCzPYlVHI) | 2:47 |
 | 95 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
 | 96 | [I knew](https://open.spotify.com/track/22fzmCpT5dx66zMfbrsOEL) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [I knew](https://open.spotify.com/album/2h744OhmRWGvyBqhRxcKMa) | 4:49 |
 | 97 | [宝石の日々](https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [宝石の日々](https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ) | 5:08 |
-| 98 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 |
-| 99 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
+| 98 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
+| 99 | [そばにいるよ](https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [そばにいるよ](https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB) | 4:09 |
 | 100 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 |
 
-Snapshot ID: `MCxhMzE4MmRhYjdhYTU4MGUzNThiYWY2MzIxMThjNTMwMzU5YTYzNGYy`
+Snapshot ID: `MCxmYzBhYThjOTIxNmQ0Y2ZjMWExMTFjNjY3YzU0N2MxY2ZmYTRmYTFk`

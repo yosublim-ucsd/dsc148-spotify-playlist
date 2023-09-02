@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De grootste Nederlandse hits van vroeger en nu. Cover: Snelle & Kraantje Pappie",
+  "description": "De grootste Nederlandse hits van vroeger en nu. Cover: Snelle",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179333,
       "name": "Als Thuis",
       "url": "https://open.spotify.com/track/6hoWEwirlkqSV3oZ4qEzWV"
@@ -406,6 +406,28 @@
       "duration_ms": 163125,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
+    },
+    {
+      "album": {
+        "name": "Sliden EP",
+        "url": "https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139050,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U"
     },
     {
       "album": {
@@ -717,6 +739,42 @@
     },
     {
       "album": {
+        "name": "Eigen Weg",
+        "url": "https://open.spotify.com/album/73AN0JXVr2eGgLp6rbVaL3"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Eigen Weg",
+      "url": "https://open.spotify.com/track/2KPnl58uwUlx0wCRVOpZfj"
+    },
+    {
+      "album": {
+        "name": "Engelbewaarder",
+        "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "Engelbewaarder",
+      "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
+    },
+    {
+      "album": {
         "name": "Er Was Eens Een Meid",
         "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
       },
@@ -959,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Het Heeft Zo Moeten Zijn",
+        "url": "https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222418,
+      "name": "Het Heeft Zo Moeten Zijn",
+      "url": "https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39"
+    },
+    {
+      "album": {
         "name": "Adem",
         "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
       },
@@ -1057,6 +1133,28 @@
     },
     {
       "album": {
+        "name": "Hou Me Los Van Dichtbij",
+        "url": "https://open.spotify.com/album/58WgPfVCz1tOCJ4DTcwVKA"
+      },
+      "artists": [
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154383,
+      "name": "Hou Me Los Van Dichtbij",
+      "url": "https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y"
+    },
+    {
+      "album": {
         "name": "Volumia!",
         "url": "https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs"
       },
@@ -1112,7 +1210,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 136928,
       "name": "Ik Dans Even Door",
       "url": "https://open.spotify.com/track/570C5OuN8T1SKL4fHzaYcD"
@@ -1412,7 +1510,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202826,
       "name": "Mijn Kleine Presidentje",
       "url": "https://open.spotify.com/track/5Vrrxddu2CDh1wfysRPZJZ"
@@ -1532,7 +1630,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 175909,
       "name": "Noem Een Dag",
       "url": "https://open.spotify.com/track/4L6ACBbVYwv3tQZYE0UBdz"
@@ -1608,7 +1706,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147562,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin"
@@ -1746,6 +1844,24 @@
       "duration_ms": 162857,
       "name": "Pizza Met Ananas",
       "url": "https://open.spotify.com/track/5MCYr1sRABY6kNKdRK4ey7"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185261,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
     },
     {
       "album": {
@@ -2046,7 +2162,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163833,
       "name": "Terugweg",
       "url": "https://open.spotify.com/track/134hM7EOwqwfsGoWCpmbcs"

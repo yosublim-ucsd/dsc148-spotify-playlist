@@ -4284,10 +4284,28 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 207145,
       "name": "Mother",
       "url": "https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd"
+    },
+    {
+      "album": {
+        "name": "Brutalism",
+        "url": "https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207145,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO"
     },
     {
       "album": {

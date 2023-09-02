@@ -4,7 +4,7 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Adrian Bello & Casandra Paz
 
-256 songs - 14 hr 0 min
+258 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [6 Am](https://open.spotify.com/track/4jLdQovU5ocprshd0eCaDO) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [6 Am](https://open.spotify.com/album/4u1iJcba94747cyq7u9OxX) | 3:26 | 2022-05-20 | 2022-08-27 |
 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 | 2022-11-11 |  |
 | [A Donde Quiero Estar](https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [A Donde Quiero Estar](https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc) | 3:21 | 2022-05-20 | 2023-04-15 |
+| [A la Distancia](https://open.spotify.com/track/0KH6xMLizlGJe0VXSjXYBn) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2agLg7JdXzVDGYIJBjuUMU) | 2:54 | 2023-09-01 |  |
 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 | 2022-05-20 | 2023-05-20 |
 | [A Medio Paso de Tu Amor](https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [A Medio Paso de Tu Amor](https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl) | 3:45 | 2022-11-11 | 2023-06-11 |
 | [A Oscuras](https://open.spotify.com/track/06y5t4RZDzeTR4oO1FSfFL) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [Ramiro Sagasti](https://open.spotify.com/artist/1Sj0iRkHTI1Z1gNSM7l4Lz) | [La Sed](https://open.spotify.com/album/5yTIFCOtnQYxnqrPFPgx4z) | 4:28 | 2023-08-25 |  |
@@ -53,7 +54,7 @@
 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-08-25 |  |
 | [COCA](https://open.spotify.com/track/5cdXGNFL9Ctv5JckoRRF7O) | [Bautista](https://open.spotify.com/artist/7uioiA7kBF425UCAdkgPXB) | [COCA](https://open.spotify.com/album/1PdDyS4RrZi6otW4YWPwTp) | 2:21 | 2022-05-20 | 2022-11-12 |
 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2022-05-20 | 2023-04-15 |
-| [Como un Guiri en Barcelona](https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Como un Guiri en Barcelona](https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm) | 3:20 | 2022-07-15 |  |
+| [Como un Guiri en Barcelona](https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Como un Guiri en Barcelona](https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm) | 3:20 | 2022-07-15 | 2023-09-02 |
 | [Como una Flecha](https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Como una Flecha](https://open.spotify.com/album/4LfSDMEhgIHztOk83kg822) | 4:11 | 2022-05-20 | 2022-07-29 |
 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 | 2022-07-15 |  |
 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 | 2022-11-11 |  |
@@ -206,7 +207,7 @@
 | [Rara](https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Planes para Hoy](https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc) | 4:43 | 2022-05-20 | 2023-04-15 |
 | [Remolino](https://open.spotify.com/track/2hfo5s1hqllxzd1yUURhjR) | [Lalo Larrosa](https://open.spotify.com/artist/5RtjnEV9DhnyUsEOYv6Whw), [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Remolino](https://open.spotify.com/album/0vJz6AFA0dM0Y0Fy6am5bp) | 3:39 | 2023-05-26 | 2023-07-22 |
 | [Rex Enojado \(con banda\)](https://open.spotify.com/track/0FdPQpFJHJ8pSyoR1T6fDr) | [Perropájaro](https://open.spotify.com/artist/1GEPR0e1faYM4A0q6TugVT), [Santiago Adano](https://open.spotify.com/artist/39x4k2KdpPJQ2rrzRLht7Q), [Victoria Fernández](https://open.spotify.com/artist/0Plbanani9vlKgJH0XteYu), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Mercado de Pulgas](https://open.spotify.com/album/14vOg6OCmwMgKIcfST8hp0) | 3:49 | 2023-08-18 |  |
-| [SAD](https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [SAD](https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E) | 3:44 | 2023-04-07 |  |
+| [SAD](https://open.spotify.com/track/4QLq5Ckjq14BcvnO1tAo9d) | [nano mundano](https://open.spotify.com/artist/0UTjWU7XvLl9O12dfTxhfl) | [SAD](https://open.spotify.com/album/5AHDaEzx1v4KKwMHJxJB1E) | 3:44 | 2023-04-07 | 2023-09-02 |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-05-20 |  |
 | [Sequía](https://open.spotify.com/track/0ARR3l1yzjK0E3BLL9lvZK) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug), [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Sequía](https://open.spotify.com/album/6JBFi4aWk56THgFa7DQJPj) | 3:29 | 2022-05-20 | 2022-08-27 |
 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 | 2022-08-26 |  |
@@ -217,6 +218,7 @@
 | [Sigue Avanzando](https://open.spotify.com/track/1HP5A6kGG0cpejOw4FqZC8) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Sigue Avanzando](https://open.spotify.com/album/56w8kgwJIz3Hk00QnlEeCA) | 3:34 | 2022-05-20 | 2023-07-08 |
 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 | 2022-05-20 | 2023-04-15 |
 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 | 2023-06-09 |  |
+| [Solo](https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Solo](https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55) | 2:50 | 2023-09-01 |  |
 | [Suerte para mí](https://open.spotify.com/track/464idwypVzujFVCo6XdgeI) | [Roki Fernandez](https://open.spotify.com/artist/2MCfICN62faLf6aDJZhlx6), [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Suerte para mí](https://open.spotify.com/album/6CW5eGVqBR2o3EmF7Ti8iX) | 3:03 | 2023-08-18 |  |
 | [t quiero baby](https://open.spotify.com/track/3MqMPEIc6pXXJWSpfwhHOq) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [t quiero baby](https://open.spotify.com/album/560daVWObPmtxsOvhWsIQU) | 2:26 | 2023-08-11 |  |
 | [t quiero baby](https://open.spotify.com/track/5Ism0pljdp59O89F22begB) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [t quiero baby](https://open.spotify.com/album/7hAtgp27UmRzzUdsaHL8DG) | 2:26 | 2023-07-14 | 2023-08-10 |

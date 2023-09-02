@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-493 songs - 20 hr 9 min
+494 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 | 2019-05-26\* |  |
 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 | 2021-10-10 | 2023-07-19 |
 | [Favorite Sause](https://open.spotify.com/track/2uUNTBmq2VBW1UMJcAqOEn) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Favorite Sause](https://open.spotify.com/album/5mdVpX2SpB24YHfRXhcm8G) | 1:48 | 2020-01-14 | 2021-10-28 |
-| [Feel Good](https://open.spotify.com/track/7cDWVctzKIKwTXRiunybhJ) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/021u2XHlDKLWklYUTTJLZH) | 3:22 | 2023-08-31 |  |
+| [Feel Good](https://open.spotify.com/track/3RzT2bhbuqG7pxnRPiGGg1) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/4hNNbbPopqfTMEMjhM2j3o) | 3:22 | 2023-08-31 |  |
+| [Feel Good](https://open.spotify.com/track/7cDWVctzKIKwTXRiunybhJ) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05), [Haruki Kume](https://open.spotify.com/artist/5F6dFfn8OSNiBx3bJ9tNW4) | [Feel Good](https://open.spotify.com/album/021u2XHlDKLWklYUTTJLZH) | 3:22 | 2023-08-31 | 2023-09-02 |
 | [Feel the Blast](https://open.spotify.com/track/5zSAxoEErEWzQwwBi7z5sb) | [Herring Franky](https://open.spotify.com/artist/27jcQeXU6S0eCLVpnNZjy0) | [Dippin' in the Lab](https://open.spotify.com/album/6rZaUidBL0s3O7jotodjlt) | 1:23 | 2019-05-26\* | 2020-01-14 |
 | [Flor de Terciopelo](https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Flor de Terciopelo](https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6) | 2:15 | 2021-10-31 | 2022-08-06 |
 | [Flowers](https://open.spotify.com/track/4f7J3uf3NbMluibhVHy1vR) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Flowers](https://open.spotify.com/album/4DCZnmEKuQveUtUYSKmuSw) | 3:28 | 2022-06-23 | 2022-07-29 |

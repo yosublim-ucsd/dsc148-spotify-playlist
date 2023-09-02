@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Trousdale
+> make it pop! cover: Oliver Tree
 
-739 songs - 1 day 12 hr 52 min
+744 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2022-07-15 | 2022-10-29 |
 | [Cool Kids](https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG) | 2:12 | 2021-11-12 | 2022-02-26 |
 | [Cool Kids](https://open.spotify.com/track/6w9kwKYCCL2YapGsXLasxq) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Cool Kids](https://open.spotify.com/album/3SlkRa6qs5qeEg7H2yk9yW) | 2:59 | 2022-04-15 | 2022-06-18 |
+| [Copenhagen](https://open.spotify.com/track/28E1szJlW78BvA6HpCybgH) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Copenhagen](https://open.spotify.com/album/5UlocQNBaXROdSOgONgpor) | 3:29 | 2023-09-01 |  |
 | [Coping on Unemployment](https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Coping on Unemployment](https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw) | 3:48 | 2023-07-28 |  |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-01-14 | 2022-02-26 |
 | [Crash](https://open.spotify.com/track/5cdJiIDHw2FwVblQYT7fN0) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Crash](https://open.spotify.com/album/5MYFBgOf8RoVql9hXoVHfa) | 2:38 | 2022-07-22 | 2022-08-27 |
@@ -190,6 +191,7 @@
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-05 | 2022-02-26 |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2022-08-26 | 2022-11-26 |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 |  |
 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 | 2022-09-23 | 2022-12-03 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-02-11 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 | 2023-03-25 |
@@ -369,6 +371,7 @@
 | [Killing Me](https://open.spotify.com/track/4NLrzQOSepUIR0MvqLxLZN) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob) | 2:45 | 2022-03-25 | 2022-07-16 |
 | [Killing Me](https://open.spotify.com/track/1E9OxtPYXVqFGKm8Q4eeVY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Killing Me](https://open.spotify.com/album/4cj0lhzyzTnshmDz6SFbHm) | 2:55 | 2022-09-02 | 2022-09-13 |
 | [Killing Me](https://open.spotify.com/track/7nvwVMGojdHqrSRCaxMFv9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:55 | 2022-09-09 | 2022-12-03 |
+| [Kind Of Love](https://open.spotify.com/track/4gBrsChuCwPofDjaF4O16S) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [to whoever wants to hear](https://open.spotify.com/album/6O3hKc6RYsOsDWsfvh40uA) | 2:16 | 2023-09-01 |  |
 | [Kiss Me](https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:49 | 2022-09-02 | 2022-10-11 |
 | [Kiss Me](https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:49 | 2022-09-09 | 2022-11-22 |
 | [Kiss Me](https://open.spotify.com/track/2sbxNpHFyVCOyZMpa5FAJ7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me \(Guitar\)](https://open.spotify.com/album/64YI1ILJJXcVpgJfJcLbPL) | 3:49 | 2022-09-09 | 2022-10-16 |
@@ -560,6 +563,7 @@
 | [SEASONS](https://open.spotify.com/track/0LewCveaX3x2WWdJr0OQVu) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [SEASONS](https://open.spotify.com/album/6SfEC8qfzS8BlRZhoKnLNw) | 2:40 | 2023-08-18 |  |
 | [Second Nature](https://open.spotify.com/track/0Kqo7V39HrgjMaDwL5uvq7) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Second Nature](https://open.spotify.com/album/0UmhcENCeTcbLF4cf9lAEA) | 5:47 | 2022-09-23 | 2022-10-13 |
 | [Second Nature](https://open.spotify.com/track/0fiViisu7WflcoY6YedSnq) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 5:47 | 2022-09-23 | 2022-10-29 |
+| [Second to Last](https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Second to Last](https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2) | 2:50 | 2023-09-01 |  |
 | [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 | 2023-06-30 |  |
 | [Semi Pro](https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Semi Pro](https://open.spotify.com/album/52lZvD8hEnCoYnnvVC6dbp) | 3:02 | 2021-12-03 | 2022-02-05 |
 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-05-20 | 2022-07-29 |
@@ -689,6 +693,7 @@
 | [TWO SUGARS](https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:55 | 2022-09-16 | 2023-03-04 |
 | [ugly](https://open.spotify.com/track/7b3zTnrvxQpkl0940SBF5W) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [ugly](https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve) | 2:53 | 2023-03-24 | 2023-06-25 |
 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 | 2022-11-11 | 2023-02-04 |
+| [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 | 2023-09-01 |  |
 | [Under The Influence](https://open.spotify.com/track/5zsMuiYeqw2JoSBulihbwo) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Under The Influence](https://open.spotify.com/album/08UKPRDFopACdPdjkdZ52G) | 2:28 | 2022-08-12 | 2022-08-27 |
 | [Underneath My Skin](https://open.spotify.com/track/239RFmkTfBL2VmExbgkuBm) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:13 | 2021-10-29 | 2022-03-18 |
 | [Undone](https://open.spotify.com/track/1pger5HtepNjzJcNIsP9Pq) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Undone](https://open.spotify.com/album/08NtG5rgI1Mklu7VB0YR3K) | 2:44 | 2022-08-26 | 2022-10-15 |

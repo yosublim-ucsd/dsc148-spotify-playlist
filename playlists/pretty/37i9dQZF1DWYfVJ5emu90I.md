@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,180 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,218 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tokyo Drift \(Fast & Furious\) \- From "The Fast And The Furious: Tokyo Drift" Soundtrack](https://open.spotify.com/track/1Gk5fwOwrZs379XdVzQ1gq) | [Teriyaki Boyz](https://open.spotify.com/artist/7HBai5xymOxIWoMWvWshe1) | [The Fast And The Furious: Tokyo Drift](https://open.spotify.com/album/1gAulHQiepBO4HBa9TYq4z) | 4:15 |
-| 2 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
+| 2 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 |
 | 3 | [TOKYO MANJI REVENGERS](https://open.spotify.com/track/3BEp9EL26N87bu5fzwjO0W) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [GNB AAlucarD](https://open.spotify.com/artist/1xfVkn8HjymKn0leFMPWxK), [HAKU FiFTY](https://open.spotify.com/artist/6fJgIprinfVAfMtLuF1OX8) | [TOKYO MANJI REVENGERS](https://open.spotify.com/album/5w4JHnj6JTqB3lefOFJxOU) | 2:33 |
 | 4 | [DOSHABURI \- Remix](https://open.spotify.com/track/1C0685pFZ12nvdKbKzQ6Of) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DOSHABURI \(Remix\)](https://open.spotify.com/album/1niQ3Lv07r3c1hJiixXKKp) | 4:00 |
 | 5 | [MAKE IT BOUNCE](https://open.spotify.com/track/3dUucLsbm0JLXMZHkKGE2Z) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MAKE IT BOUNCE](https://open.spotify.com/album/1N0WDMlRlTF1CtGcDmQJYa) | 3:33 |
-| 6 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 |
+| 6 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
 | 7 | [STRAIGHT UP](https://open.spotify.com/track/7p2NEA4Eliv5M3fxRl6V5D) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [STRAIGHT UP](https://open.spotify.com/album/67vqoD5n8qcEkj1AVeeK6P) | 2:36 |
 | 8 | [ALI BABA](https://open.spotify.com/track/0C11QSo2lLNTIKC5W824VY) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [United Queens](https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr) | 2:37 |
 | 9 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
 | 50 | [Light side](https://open.spotify.com/track/3sPsSstVES0s7P0Fnu0UHS) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU) | 1:46 |
 
-Snapshot ID: `MCwzNjZlOWUwYjUwOGQxYjEzNDQzMjhmMTIwY2YzNzAyZmU3ZDAxZmNi`
+Snapshot ID: `MCxjOGUxZDcwMTMyODliNzE3NTdlZmZhNjAxYTYzNjczOTAyNTU5MjU4`

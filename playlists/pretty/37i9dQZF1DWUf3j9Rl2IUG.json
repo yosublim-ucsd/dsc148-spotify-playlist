@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut?si=BGHe2ejMSAi-KZsqtJjIHQ\"> Pheelz </a> and <a href=\"https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut?si=BGHe2ejMSAi-KZsqtJjIHQ\"> Young Jonn </a>   ",
-  "num_followers": 69120,
+  "num_followers": 69333,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODU5YTQ1MzIxOWU1YmY3ZjJkNGJjYTcyY2U5ZmM5MmFiYWUxYmE5",
+  "snapshot_id": "MCxkOGZhNDk1ZDc4ODQwMzliNTVmNzBlMzM2NDJiZGQxNzAyNzhhMDhl",
   "tracks": [
     {
       "added_at": "2023-08-31 22:59:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/1JqxgXNhqWpFss7nZzlwOz"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -871,22 +871,18 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 153684,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
+      "duration_ms": 175254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -907,18 +903,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/6TVnbiHfSh4UX5fCJC4sG1"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
+      "duration_ms": 153684,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2KwnwVXtAlpSDdRVO9ccTJ"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Jonzing Boy",
+        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Jonzing Boy",
+      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Duffel Bag",
         "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Jonzing Boy",
-        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Jonzing Boy",
-      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/2JVeQNTDzn9CePwaPqiS01"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 171683,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "For Daddy",
         "url": "https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/2JVeQNTDzn9CePwaPqiS01"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 171683,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/7grcWNFVuikupo8Q4hJ9E8"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 160770,
-      "name": "My G",
-      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Folake",
         "url": "https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 168979,
       "name": "Folake",
       "url": "https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 160770,
+      "name": "My G",
+      "url": "https://open.spotify.com/track/25k1dcqUAmq4uYKUFj7u3o"
     },
     {
       "added_at": "2023-08-31 22:59:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Barry Can't Swim
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,819 likes - 120 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,919 likes - 120 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 119 | [Earth](https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Earth](https://open.spotify.com/album/4tEySm30Wxlad1GJSkky3J) | 4:01 |
 | 120 | [Both](https://open.spotify.com/track/56rBmhBdKxLsFpfkMqRz5G) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Both](https://open.spotify.com/album/7q6KK2yQ6sGb3q3PJ0LiXY) | 2:53 |
 
-Snapshot ID: `MCxiODk2NzA4NTA1M2IyYzYwOGI3MWRhMzBhZGI0NmRhMGFiY2NlNjlm`
+Snapshot ID: `MCwyMzdlMTE3MTk3NGE2N2I3Njc4ODI1Y2I3MWU2NWJmM2Y4MjU4YWI5`

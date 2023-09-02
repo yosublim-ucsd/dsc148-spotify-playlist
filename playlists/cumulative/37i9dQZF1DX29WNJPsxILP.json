@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rap from the hoods of Dilli featuring Seedhe Maut",
+  "description": "Rap from the hoods of Dilli featuring Panther",
   "name": "Dillihood",
   "tracks": [
     {
@@ -170,7 +170,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 222370,
       "name": "Bach Ke Rehna (Red Notice)",
       "url": "https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 180575,
       "name": "Kar Diya",
       "url": "https://open.spotify.com/track/0W5KrP9G0senRI1V12G7yn"
@@ -947,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Kasam Paida Karne Wale Ki",
+        "url": "https://open.spotify.com/album/5z0wEYUqQSFOb3hFfq6qDY"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        },
+        {
+          "name": "Nikhil - Swapnil",
+          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126185,
+      "name": "KPKWK",
+      "url": "https://open.spotify.com/track/4TSwePgh0HImQVd6ZARgri"
+    },
+    {
+      "album": {
         "name": "Kya Haal Hai Bro?",
         "url": "https://open.spotify.com/album/4ANdzXnb8riLng8auviFnv"
       },
@@ -962,6 +984,28 @@
       "duration_ms": 179200,
       "name": "Kya Haal Hai Bro?",
       "url": "https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B"
+    },
+    {
+      "album": {
+        "name": "Laado",
+        "url": "https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Laado",
+      "url": "https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n"
     },
     {
       "album": {
@@ -1351,6 +1395,28 @@
     },
     {
       "album": {
+        "name": "FAR FROM OVER",
+        "url": "https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Bharg",
+          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199672,
+      "name": "Prarthana",
+      "url": "https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei"
+    },
+    {
+      "album": {
         "name": "Punja Daab",
         "url": "https://open.spotify.com/album/3ZI7r8qJiI1wwJeBHGfj2s"
       },
@@ -1432,6 +1498,32 @@
       "duration_ms": 214588,
       "name": "Saath Ya Khilaaf",
       "url": "https://open.spotify.com/track/3PpzBZMTrCuNx4TC6SZN69"
+    },
+    {
+      "album": {
+        "name": "Kasam Paida Karne Wale Ki",
+        "url": "https://open.spotify.com/album/5z0wEYUqQSFOb3hFfq6qDY"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Ankee",
+          "url": "https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Saiyyan Ji",
+      "url": "https://open.spotify.com/track/6tvRHN6beXyqVz4aQYxukl"
     },
     {
       "album": {
@@ -1630,7 +1722,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 109714,
       "name": "tere saath (i feel good)",
       "url": "https://open.spotify.com/track/5EavRVLo1nDNTgLXPgfQYY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,208 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,270 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 25 | [KYLL](https://open.spotify.com/track/1VYTP4prOc62xQe1KWf3S5) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KYLL](https://open.spotify.com/album/0iaSXjvJQx0AAVoOeaBt44) | 3:20 |
 | 26 | [Au cas où je vais percer](https://open.spotify.com/track/58bhnwRZwCImxenUZJWvOQ) | [Josué](https://open.spotify.com/artist/4Bb3vJgKsgjMmxDEElLZ1Y) | [Confessions](https://open.spotify.com/album/43E6VSUTTVstLg60GF9z8k) | 2:28 |
 | 27 | [Air Max](https://open.spotify.com/track/2XESFfYekQ0mRau2GXjT3E) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Air Max](https://open.spotify.com/album/4iRAKma59A97OMcac2nsOa) | 3:25 |
-| 28 | [Goal](https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Goal](https://open.spotify.com/album/3eGBwixVuMykpeIRP6CoZB) | 2:37 |
+| 28 | [Goal](https://open.spotify.com/track/2yYwQWgkmEWEivKeLGODRK) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Crackito, vol\. 1](https://open.spotify.com/album/5Z0HoUBlTxKxoJaMNcKHW8) | 2:37 |
 | 29 | [Médusa](https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [A\-One](https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE) | 2:37 |
 | 30 | [Ego\-Tripes](https://open.spotify.com/track/59z8cSxWytXyQT4Kk0atTD) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [SUMUD](https://open.spotify.com/album/1BSjnP0tKK8AoM7vj91sQY) | 2:28 |
 | 31 | [Let's Go](https://open.spotify.com/track/6ehqPqJz9YMLS4dhmWyx3i) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Rebirth](https://open.spotify.com/album/51SALtVR1ld1TmwwN4rFiw) | 2:18 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 43 | [S.A.D \(feat\. Josman\)](https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo) | [Oldpee](https://open.spotify.com/artist/6IxN9Jvo31OWIvYHJAeZlJ), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [S.A.D \(feat\. Josman\)](https://open.spotify.com/album/5jeTtd8qX77BCi0MvdJiF9) | 3:12 |
 | 44 | [Benze](https://open.spotify.com/track/3fwXNaxlslH41y3a47qela) | [Driss Sks](https://open.spotify.com/artist/2sbCB581cl6ZarOL5cU7t7) | [Benze](https://open.spotify.com/album/3w6eziQRJ2GqZEk1h03IKH) | 3:05 |
 
-Snapshot ID: `MCxjYjM0OGE2ZDVjMWEzYjIzYzllZjcyYTk5OTdiYmI5ZjgyMDVkNTNm`
+Snapshot ID: `MCxiOTY2NjFkYjQ2NDI1ZWFkZGFhMjJjNjY3NDMzZjkwMDIwZmU4ODNk`

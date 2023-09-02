@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 689771,
+  "num_followers": 689807,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx",
+  "snapshot_id": "MCwyODZiMzRjMGY0YTNlZWQyYzNjYWViMmJhZTVhMmQ2MDg0YzQ5M2U2",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -319,6 +319,30 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Still Sleepless",
-        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 162879,
-      "name": "Still Sleepless",
-      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Still Sleepless",
+        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 162879,
+      "name": "Still Sleepless",
+      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 176867,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Mad Love (Remixes)",
-        "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Blinkie",
-          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "Mad Love - Blinkie Remix",
-      "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 199090,
       "name": "Don't Forget My Love",
       "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Mad Love (Remixes)",
+        "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Blinkie",
+          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
+        }
+      ],
+      "duration_ms": 200893,
+      "name": "Mad Love - Blinkie Remix",
+      "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Human (feat. Echoes)",
         "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 219047,
       "name": "Human (feat. Echoes)",
       "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Juliet & Romeo",
-        "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 204514,
-      "name": "Juliet & Romeo",
-      "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "For a Feeling (feat. RHODES)",
         "url": "https://open.spotify.com/album/0cBPK7AovyEBys5USO3MQ2"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Juliet & Romeo",
+        "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 204514,
+      "name": "Juliet & Romeo",
+      "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
     },
     {
       "added_at": "2022-12-31 15:51:36",

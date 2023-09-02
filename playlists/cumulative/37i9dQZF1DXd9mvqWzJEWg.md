@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn?si=BNtE52WeT2Wew\_mKJ3J7WA">DJ Tira</a>.
+> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv?si=f8IjbysGTN\-pc91y58fjJw">Dee Traits</a>
 
-148 songs - 13 hr 16 min
+149 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Champagne](https://open.spotify.com/track/4TFPS8spsp32elGLnlQPgd) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Bhar](https://open.spotify.com/artist/2ZmmH5YYJl3pDGz69ROLkq) | [Permanent Music 2](https://open.spotify.com/album/7lLUD8Bgmz7L7XfAbwcbHe) | 5:15 | 2021-11-15 | 2022-11-08 |
 | [Checkmate](https://open.spotify.com/track/2AkMJr0ugvmBGzIb5BDBnD) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3), [Sbuda Man](https://open.spotify.com/artist/1uuwqVQw6gZxs7X2xlfYPF), [DJ Lungelo](https://open.spotify.com/artist/1hEA1FfzaHTGJTBNyZWjqu) | [Checkmate](https://open.spotify.com/album/7b5Yvsm4b7TnFWynA1lATk) | 6:31 | 2023-08-24 |  |
 | [Coloured Goose](https://open.spotify.com/track/7wesfLW7BjVajGqFw6MimD) | [Atie\-G](https://open.spotify.com/artist/2FP2RNmzEllDXn8wyfRC6M), [Paula Kammies](https://open.spotify.com/artist/7mMu1cx3o69EjbbtVyJhAA) | [Coloured Goose](https://open.spotify.com/album/4HRCidNp6wRmrD3mUsGIg5) | 5:25 | 2023-02-03 | 2023-08-25 |
+| [Crowd Pleaser](https://open.spotify.com/track/4sTXCT1XqZYbMVbndaPES0) | [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv) | [Ancestral Trauma](https://open.spotify.com/album/7D7OF55Na2iCZEBehqUwUG) | 5:16 | 2023-09-01 |  |
 | [Cruel Style](https://open.spotify.com/track/1VNIGZyXG9s8s4MQ30ulwO) | [Sva The Dominator](https://open.spotify.com/artist/4JWpvSHnttQ6VNcreD7ZWN), [Hewena Jack](https://open.spotify.com/artist/5VV8SHQvnOhUe0znSVhCHs) | [Cruel Style](https://open.spotify.com/album/2YchdCwhiGqDvgi9KGDZ8d) | 5:05 | 2023-05-25 | 2023-08-25 |
 | [Danki Bawo](https://open.spotify.com/track/1PhJbpKjhB6pGLcNb4Fv7i) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Danki Bawo](https://open.spotify.com/album/5TXTn0KwKUnxhubvnbUk8V) | 5:08 | 2023-08-24 |  |
 | [Data](https://open.spotify.com/track/7dwulnV0d7nX93GY6AVVem) | [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [blaq kiidd](https://open.spotify.com/artist/76LbByG4CFCcV72OfVLRaW) | [Malume Way](https://open.spotify.com/album/0wgxGNWdc7T1H7zmYRSkJD) | 5:06 | 2023-08-24 |  |

@@ -1,13 +1,33 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Burna Boy",
-  "num_followers": 1791882,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Queen Naija",
+  "num_followers": 1791940,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGQzZGMxNDZhNjYyOGU0MWI3Njg0Y2UyZTM3NjE5YzNjM2E5ZDJl",
+  "snapshot_id": "MCwyMTI5OTlhOWUyMTRjYTQ5M2JjYTQzM2QzYTFkMTA1OGU2NDEzODVj",
   "tracks": [
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "No Fake Love (with YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 148996,
+      "name": "No Fake Love (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
+    },
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
@@ -23,6 +43,26 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -203,6 +243,22 @@
       "duration_ms": 189440,
       "name": "Princess Going Digital",
       "url": "https://open.spotify.com/track/6KS5iyM4uDuJ6oAacMSXha"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -503,6 +559,22 @@
       "duration_ms": 274137,
       "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
+    },
+    {
+      "added_at": "2023-09-01 04:19:09",
+      "album": {
+        "name": "Bet That",
+        "url": "https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 110560,
+      "name": "I Ain't Playin",
+      "url": "https://open.spotify.com/track/6VRh9tH6QB93CT3nn9iJkU"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -873,20 +945,20 @@
       "url": "https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS"
     },
     {
-      "added_at": "2023-08-04 04:00:00",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -903,6 +975,22 @@
       "duration_ms": 164117,
       "name": "Something In My Eye",
       "url": "https://open.spotify.com/track/2DW8K92zcLza0lsTlBg7Ld"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1287,22 +1375,6 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2263,34 +2335,6 @@
       "duration_ms": 169555,
       "name": "False Prophet",
       "url": "https://open.spotify.com/track/6J0ia5zOw32TpE6lC3E43T"
-    },
-    {
-      "added_at": "2023-05-19 06:33:06",
-      "album": {
-        "name": "Closure Tapes",
-        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        },
-        {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 206875,
-      "name": "Genesis (Remix) [feat. Miraa May, Joyce Wrice & Bellah]",
-      "url": "https://open.spotify.com/track/7moQCUT1UbndHCC2H6xYVs"
     },
     {
       "added_at": "2023-05-05 05:50:55",

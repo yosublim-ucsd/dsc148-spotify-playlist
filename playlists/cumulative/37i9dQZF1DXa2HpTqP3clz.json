@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 170160,
       "name": "It's Ok to Be Ok",
       "url": "https://open.spotify.com/track/5SRzstZJ8egKOWygrbzg6Z"
@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
@@ -6104,7 +6104,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 300734,
       "name": "Radio John",
       "url": "https://open.spotify.com/track/5HQw4rijacIx9yuiN0rXUG"
@@ -6986,6 +6986,24 @@
       "duration_ms": 173183,
       "name": "Something You Didn\u2019t Count On",
       "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
+    },
+    {
+      "album": {
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
       "album": {

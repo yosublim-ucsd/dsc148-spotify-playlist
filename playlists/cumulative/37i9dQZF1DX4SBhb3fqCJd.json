@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of R&B music today. Cover: Victoria Mon\u00e9t",
+  "description": "The pulse of R&B music today. Cover: Ciara",
   "name": "Are & Be",
   "tracks": [
     {
@@ -4355,6 +4355,28 @@
     },
     {
       "album": {
+        "name": "No Fake Love (with YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148996,
+      "name": "No Fake Love (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
+    },
+    {
+      "album": {
         "name": "No Love (with SZA & Cardi B) [Extended Version]",
         "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
@@ -5722,7 +5744,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179478,
       "name": "Sneak",
       "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
@@ -5900,7 +5922,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 171673,
       "name": "Stop (Askin' Me 4Shyt)",
       "url": "https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS"

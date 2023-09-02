@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Ashnikko",
+  "description": "Home to all the latest indie jams. Cover: Bakar",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 200125,
       "name": "angel",
       "url": "https://open.spotify.com/track/6NbjZZ8yBxOPP7YGRRUV32"
@@ -2810,6 +2810,24 @@
       "duration_ms": 206511,
       "name": "Break My Fall",
       "url": "https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5"
+    },
+    {
+      "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "album": {
@@ -4422,7 +4440,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 284538,
       "name": "Cyclades",
       "url": "https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel"
@@ -19126,6 +19144,24 @@
       "duration_ms": 193682,
       "name": "Sunset Drive",
       "url": "https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217293,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
     },
     {
       "album": {

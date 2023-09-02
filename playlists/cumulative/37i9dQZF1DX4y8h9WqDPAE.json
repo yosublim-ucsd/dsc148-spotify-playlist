@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Burna Boy",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Queen Naija",
   "name": "Channel-X",
   "tracks": [
     {
@@ -660,6 +660,24 @@
       "duration_ms": 152241,
       "name": "Baby Boo (with Saweetie)",
       "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
+    },
+    {
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "album": {
@@ -2509,6 +2527,28 @@
     },
     {
       "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
+    },
+    {
+      "album": {
         "name": "Don't Give It Away",
         "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
       },
@@ -3594,7 +3634,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 206875,
       "name": "Genesis (Remix) [feat. Miraa May, Joyce Wrice & Bellah]",
       "url": "https://open.spotify.com/track/7moQCUT1UbndHCC2H6xYVs"
@@ -4470,6 +4510,24 @@
       "duration_ms": 187606,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4"
+    },
+    {
+      "album": {
+        "name": "Bet That",
+        "url": "https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110560,
+      "name": "I Ain't Playin",
+      "url": "https://open.spotify.com/track/6VRh9tH6QB93CT3nn9iJkU"
     },
     {
       "album": {
@@ -6296,6 +6354,28 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "album": {
+        "name": "No Fake Love (with YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148996,
+      "name": "No Fake Love (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
     },
     {
       "album": {

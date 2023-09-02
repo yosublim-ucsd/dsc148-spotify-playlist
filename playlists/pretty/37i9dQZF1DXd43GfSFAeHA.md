@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,060 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,084 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 32 | [Talkie](https://open.spotify.com/track/0HZIFkazJb3MzdJ2G7FSIB) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Talkie](https://open.spotify.com/album/3pBrKbB4kPkqRfut3NY44Z) | 3:29 |
 | 33 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 |
 | 34 | [Saye2 Souq](https://open.spotify.com/track/3qtXvNZ8bNIRfN6aYamUor) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:14 |
-| 35 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
+| 35 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 |
 | 36 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 |
-| 37 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 |
+| 37 | [Star](https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Star](https://open.spotify.com/album/3Q7yif9PiXJUL7ox5EgDxG) | 3:01 |
 | 38 | [Folaar](https://open.spotify.com/track/5zVJkHPZ0If65ZXTh6lxdC) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Folaar](https://open.spotify.com/album/1v1DawsyW2U6kfjVUUOsT6) | 2:34 |
 | 39 | [7abayby](https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Mostt](https://open.spotify.com/artist/4xCFJxipdDrobk0MtuV84B) | [7abayby](https://open.spotify.com/album/6j2XnIRR7YziaIoKRURo7x) | 2:36 |
 | 40 | [KALBI](https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx) | [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95) | [KALBI](https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 49 | [LkLk](https://open.spotify.com/track/5VZ8DEWkAQfd7SZi0t2OAs) | [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [LkLk](https://open.spotify.com/album/7JUPrKv0iiM5WIWYmL1wv9) | 3:23 |
 | 50 | [DERBY](https://open.spotify.com/track/3VXcWh8vq5rMIEtbC945dy) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs), [XTHEDESERTKID](https://open.spotify.com/artist/68QUOS58Fp3QHCCGUfpmCP) | [DERBY](https://open.spotify.com/album/6D6kjgsCNprDb4TUm0B6CM) | 2:37 |
 
-Snapshot ID: `MCwwMWY0YTg0MDg1NDYzZTBjNTliNjFjZWEzM2NlNDg0NjQzMDIzZjdk`
+Snapshot ID: `MCw0NjI1NjU1MjRiOTdiYzYxYzgwZDk2YzQ0MWU3MzlhZmZlNzNhNDlm`

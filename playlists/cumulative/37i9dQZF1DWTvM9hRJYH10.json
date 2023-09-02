@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: King Calaway",
+  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: MaRynn Taylor",
   "name": "Young Nashville",
   "tracks": [
+    {
+      "album": {
+        "name": "'01",
+        "url": "https://open.spotify.com/album/0i7CY6Cd07kw0lOqacgrAO"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193692,
+      "name": "'01",
+      "url": "https://open.spotify.com/track/3DxTQBQcziBLi1DS67BqVD"
+    },
     {
       "album": {
         "name": "1%",
@@ -999,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "DiCaprio",
+        "url": "https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM"
+      },
+      "artists": [
+        {
+          "name": "Jenna Davis",
+          "url": "https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186135,
+      "name": "DiCaprio",
+      "url": "https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m"
+    },
+    {
+      "album": {
         "name": "Dickhead",
         "url": "https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2"
       },
@@ -1468,7 +1504,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163679,
       "name": "Got the Girl",
       "url": "https://open.spotify.com/track/5MTuBhO3QxTht2NeRkLwuI"
@@ -2822,6 +2858,24 @@
       "duration_ms": 201322,
       "name": "Make It Past Georgia",
       "url": "https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd"
+    },
+    {
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/7vwX7Eavq0fZccBj56FkWA"
+      },
+      "artists": [
+        {
+          "name": "MaRynn Taylor",
+          "url": "https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/0CZwrYqSTnfzAjtynr6zBp"
     },
     {
       "album": {
@@ -4830,7 +4884,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 192602,
       "name": "Tired of Moving On",
       "url": "https://open.spotify.com/track/0kdAMIHdcQMAxL6b8DQS3D"
@@ -4848,7 +4902,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 198857,
       "name": "Trucks Ain't for Breaking Down In",
       "url": "https://open.spotify.com/track/0u02cFSDCRq5l6z5SIpPAX"
@@ -4906,7 +4960,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 205714,
       "name": "Used To",
       "url": "https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D"

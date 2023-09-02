@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 211957,
       "name": "Happy birthday",
       "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Kizimkazi",
+        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
+      },
+      "artists": [
+        {
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233226,
+      "name": "Kizimkazi",
+      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
+    },
+    {
+      "album": {
         "name": "Kua Uone",
         "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 209653,
       "name": "Kwetu",
       "url": "https://open.spotify.com/track/3Sw6ttR4fRQ0iC4vz8oajO"
@@ -622,7 +640,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 207226,
       "name": "Mbabaifu",
       "url": "https://open.spotify.com/track/1GM6D0xdZxL7l42m44WLOi"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 224442,
       "name": "Naumia",
       "url": "https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 229920,
       "name": "Sina Stress",
       "url": "https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W"

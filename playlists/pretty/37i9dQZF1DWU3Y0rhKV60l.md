@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,777 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,813 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 16 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 |
 | 17 | [Rocking Waves](https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:40 |
 | 18 | [Stormy Beach Waves](https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:10 |
-| 19 | [Calm Waves pt\. 3](https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Calm Waves](https://open.spotify.com/album/2cFzBWXywCjPKQ2PJAWHIM) | 2:18 |
-| 20 | [Hear the Distant Waves](https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH) | [Ocean Sounds FX](https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK) | [Summer Ocean Waves](https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF) | 2:15 |
+| 19 | [Hear the Distant Waves](https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH) | [Ocean Sounds FX](https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK) | [Summer Ocean Waves](https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF) | 2:15 |
+| 20 | [Calm Waves pt\. 3](https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Calm Waves](https://open.spotify.com/album/2cFzBWXywCjPKQ2PJAWHIM) | 2:18 |
 | 21 | [Soft Waves](https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 3:01 |
 | 22 | [Still Thoughts And Wave Sounds](https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Waves](https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d) | 2:51 |
 | 23 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 59 | [Windy Beach 3](https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Ocean Waves Volume 2](https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR) | 2:38 |
 | 60 | [Fury of the waves](https://open.spotify.com/track/1UgfZYJL9nhgR0TCUqgiNB) | [D\-Scartes](https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3) | [Beside the sea](https://open.spotify.com/album/5HvCBTCUytZGRUKKcsfdQ8) | 2:02 |
 
-Snapshot ID: `MCw3YWMyOTg1MTY0ZmY5MzEwNWU4OTc5ZjZiYzFjNTI5ZDI2OTBmZjVk`
+Snapshot ID: `MCwzMTVmYWFiMGUzZTM4NTA3ZDZhZDViNjY2NzFlYmJmZDhhMmU4MTll`

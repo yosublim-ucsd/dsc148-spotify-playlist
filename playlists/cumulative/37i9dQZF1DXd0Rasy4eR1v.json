@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "Freshest of Pakistani discoveries. Cover - Jawad",
+  "description": "Freshest of Pakistani discoveries. Cover - REHMA",
   "name": "Fresh Finds PK",
   "tracks": [
     {
@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Agar tum jarahe ho",
+        "url": "https://open.spotify.com/album/6eMmvSrgPdU7zQyIGtoM34"
+      },
+      "artists": [
+        {
+          "name": "AZKA",
+          "url": "https://open.spotify.com/artist/3gwcA0giZrKzAc0UnKXWsS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134080,
+      "name": "Agar tum jarahe ho",
+      "url": "https://open.spotify.com/track/52wBcQqD1OIdM5ECvde5hD"
+    },
+    {
+      "album": {
         "name": "Pyaar Bhi Kya Nasha Hai",
         "url": "https://open.spotify.com/album/6R96po3YMxLrgaErJ4XNpM"
       },
@@ -507,6 +525,46 @@
     },
     {
       "album": {
+        "name": "akh da nasha",
+        "url": "https://open.spotify.com/album/7uyzrIWdQhbfRZcSGTZdje"
+      },
+      "artists": [
+        {
+          "name": "AHSAN",
+          "url": "https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR"
+        },
+        {
+          "name": "M U S T I",
+          "url": "https://open.spotify.com/artist/3W5hmQOCGIdqChBmGlJ37X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "akh da nasha",
+      "url": "https://open.spotify.com/track/5Iojduz4GLlEMvqVHSabAI"
+    },
+    {
+      "album": {
+        "name": "Akh Na Lagi",
+        "url": "https://open.spotify.com/album/0mGXlwGIBPnTUHn703OQZR"
+      },
+      "artists": [
+        {
+          "name": "Bilal Haider",
+          "url": "https://open.spotify.com/artist/5qcq7UlfZ3FIfT1nYd10i2"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Akh Na Lagi",
+      "url": "https://open.spotify.com/track/6w2w2dHrDc0uETPT4PJpt0"
+    },
+    {
+      "album": {
         "name": "Akhiyaan",
         "url": "https://open.spotify.com/album/3qdvKCkGmHV1GQ4Z8fVFXQ"
       },
@@ -540,7 +598,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 162127,
       "name": "Ali Ali",
       "url": "https://open.spotify.com/track/3Akh5yIVkkHJImEobcrXRp"
@@ -1199,6 +1257,28 @@
     },
     {
       "album": {
+        "name": "Bebasi",
+        "url": "https://open.spotify.com/album/7GUT941mTXhP3qxiVptjM6"
+      },
+      "artists": [
+        {
+          "name": "FAHEEL",
+          "url": "https://open.spotify.com/artist/4Cj5mBMyVkge1GqDYL5rcJ"
+        },
+        {
+          "name": "SHISHU HERRY",
+          "url": "https://open.spotify.com/artist/5xAPMFif4zPX0FcwfK74Z3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Bebasi",
+      "url": "https://open.spotify.com/track/4zWjGAQeukDLnDZkTo5zfU"
+    },
+    {
+      "album": {
         "name": "Beetay Zamaney (Unplugged)",
         "url": "https://open.spotify.com/album/4YFnTtk2SZwfBlwqhf44vJ"
       },
@@ -1352,7 +1432,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 155774,
       "name": "Bhool Jao Na",
       "url": "https://open.spotify.com/track/1QYVG2BXSG8PJl4Fs6VMZu"
@@ -2497,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Dil Meray",
+        "url": "https://open.spotify.com/album/5SNyeHiR83UfwWS9hCRLLM"
+      },
+      "artists": [
+        {
+          "name": "Amna Riaz",
+          "url": "https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234166,
+      "name": "Dil Meray",
+      "url": "https://open.spotify.com/track/4CUoUbyhYYuITBTVr7vxfA"
+    },
+    {
+      "album": {
         "name": "Dil Na Lanvee",
         "url": "https://open.spotify.com/album/0MqPkxDgVbpfgbgDkMgCgh"
       },
@@ -3468,7 +3566,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 257647,
       "name": "Ghar agya main",
       "url": "https://open.spotify.com/track/0MZn47xb5MW7Ampv6cbTbv"
@@ -3828,6 +3926,44 @@
       "duration_ms": 172622,
       "name": "Have A Night",
       "url": "https://open.spotify.com/track/0l852aguEtZnaMSLaqvFfc"
+    },
+    {
+      "album": {
+        "name": "Ordinary Miracle | \u06c1\u06cc\u0631\u06d2 \u0645\u0648\u062a\u06cc",
+        "url": "https://open.spotify.com/album/17XSJDt998wsV2mrVN7LPr"
+      },
+      "artists": [
+        {
+          "name": "Natasha Humera Ejaz",
+          "url": "https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp"
+        },
+        {
+          "name": "Slowspin",
+          "url": "https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54"
+        },
+        {
+          "name": "Rishabh Rajan",
+          "url": "https://open.spotify.com/artist/3zpfHIe2T4vYtnB7MU7Q8z"
+        },
+        {
+          "name": "Maho Azuma",
+          "url": "https://open.spotify.com/artist/1COJshRx5Y2QzlOOrEZrtA"
+        },
+        {
+          "name": "Maria Fajardo",
+          "url": "https://open.spotify.com/artist/1Kew38fipV04ZfQEki3VVI"
+        },
+        {
+          "name": "Yun Chen Tsai",
+          "url": "https://open.spotify.com/artist/5AokZlaOtdstQ4LspWIgCS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Heeray Moti feat. Slowspin & Maria Fajardo",
+      "url": "https://open.spotify.com/track/52XryFwVUkSXtB6Zcc1aEq"
     },
     {
       "album": {
@@ -4224,6 +4360,24 @@
       "duration_ms": 244125,
       "name": "INFINITY",
       "url": "https://open.spotify.com/track/7GwYAo3v1ugRhUNe9T70Vk"
+    },
+    {
+      "album": {
+        "name": "Inn Ankhon Ki Masti",
+        "url": "https://open.spotify.com/album/7jAXSAl2AC0ErwGggWeckx"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/6pG5M44yjcy9Py0CXkCQd4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182601,
+      "name": "Inn Ankhon Ki Masti",
+      "url": "https://open.spotify.com/track/4RiPd59wZy1D1y2HNAHKXn"
     },
     {
       "album": {
@@ -7339,6 +7493,24 @@
     },
     {
       "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/6cLoHcHRReg3ku52pywur5"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akhund",
+          "url": "https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150527,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/5BklLln7A6H59qi0cH6rl2"
+    },
+    {
+      "album": {
         "name": "Pill to pop",
         "url": "https://open.spotify.com/album/0fAxb2s1j7OK883DBuJiMy"
       },
@@ -8660,7 +8832,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 135161,
       "name": "Slips",
       "url": "https://open.spotify.com/track/55JOfiPAtJMqeHWaHrk4Jc"
@@ -8704,6 +8876,24 @@
       "duration_ms": 214166,
       "name": "Socha Na Tha",
       "url": "https://open.spotify.com/track/3v5I3VrjukCWchOu3ECYHs"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/7z6gvH6wd2kVanJL1daSJX"
+      },
+      "artists": [
+        {
+          "name": "Aiden Ash",
+          "url": "https://open.spotify.com/artist/3f77BlzhGjrEzF0TJ2U47r"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102910,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5bfl9WfH22TjljHpYikZZG"
     },
     {
       "album": {
@@ -9292,7 +9482,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 139090,
       "name": "Tera Shehar",
       "url": "https://open.spotify.com/track/3zMkevKDXVRBJa1gsdTztj"
@@ -10259,6 +10449,32 @@
     },
     {
       "album": {
+        "name": "with love.",
+        "url": "https://open.spotify.com/album/0G7WvbTKRlY5BbjGAYqpvV"
+      },
+      "artists": [
+        {
+          "name": "malick",
+          "url": "https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU"
+        },
+        {
+          "name": "Taha Y.",
+          "url": "https://open.spotify.com/artist/0mUR7fSp7tK4lpZvGt6f8O"
+        },
+        {
+          "name": "Younus Jalali",
+          "url": "https://open.spotify.com/artist/0VMgHzLFQPF6fRGGlIY9ar"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197652,
+      "name": "with love.",
+      "url": "https://open.spotify.com/track/1rgjWPAzk0QkiPFN32K24r"
+    },
+    {
+      "album": {
         "name": "Woh Aur Mein",
         "url": "https://open.spotify.com/album/0GgD5nvCM8hpzy8s5XNjw5"
       },
@@ -10278,7 +10494,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 162721,
       "name": "Woh Aur Mein",
       "url": "https://open.spotify.com/track/3MUZzOLXKZ98xh4MPS4SOl"
@@ -10300,6 +10516,28 @@
       "duration_ms": 266938,
       "name": "Won't You Stay?",
       "url": "https://open.spotify.com/track/5ghPQYmYxGJi0Fe1M4R31u"
+    },
+    {
+      "album": {
+        "name": "Yaar Daadhi",
+        "url": "https://open.spotify.com/album/0xxhz0nCJB1VCF72VitAll"
+      },
+      "artists": [
+        {
+          "name": "Ahsan Pervaiz Mehdi",
+          "url": "https://open.spotify.com/artist/7DOompIBVJEHcUxOkpbZon"
+        },
+        {
+          "name": "Shaan Shahid",
+          "url": "https://open.spotify.com/artist/2j2YkcYpS7C5SvAPeZtFLc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Yaar Daadhi",
+      "url": "https://open.spotify.com/track/79aKn6laRblyFXS5UhL6h7"
     },
     {
       "album": {

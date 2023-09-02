@@ -4,7 +4,7 @@
 
 > Músicas calminhas pra começar o dia bem relax.
 
-194 songs - 11 hr 10 min
+196 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Acalanto](https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 3:44 | 2022-04-01 | 2023-01-28 |
 | [Acalanto](https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 3:44 | 2023-04-15 | 2023-06-16 |
 | [Acontecer](https://open.spotify.com/track/6RTh9V7Po93v5V0HAM230J) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [Acontecer](https://open.spotify.com/album/7r9zQdhPp0M1cDIsItlExI) | 2:59 | 2022-04-01 | 2022-04-21 |
-| [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 | 2022-04-01 |  |
+| [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 | 2022-04-01 | 2023-09-02 |
 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 | 2022-02-18 |  |
 | [Ainda Lembro](https://open.spotify.com/track/2ZBSQ9JQUqFy7CSE4XALQO) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Mais](https://open.spotify.com/album/4G7yCesH90ez9rofC9BoJ0) | 4:10 | 2022-02-18 | 2022-07-29 |
 | [Ainda Lembro](https://open.spotify.com/track/6lNJX51MnEY2BB9EHBL3XP) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 4:10 | 2022-06-24 |  |
@@ -50,6 +50,7 @@
 | [Carnaval de Salvador](https://open.spotify.com/track/1Z4O9L42qpYFkQCy0lvMHZ) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Carnaval de Salvador](https://open.spotify.com/album/5MOjunWyZe3tcv7ORSok5q) | 3:30 | 2022-04-01 | 2022-04-19 |
 | [Casa Pronta](https://open.spotify.com/track/1wwfsmydqA3Q8FK1vWj83J) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 3:18 | 2022-02-18 | 2022-07-25 |
 | [Chegue Chega \(Versão Piano\)](https://open.spotify.com/track/67oqZWY5CQVLIdhP0UjKha) | [Lucy Alves](https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ) | [Chegue Chega \(Versão Piano\)](https://open.spotify.com/album/3w9W2Me0EcJDckWei11C6P) | 3:10 | 2022-04-01 | 2022-06-05 |
+| [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-01 |  |
 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 | 2022-02-18 |  |
 | [Contas no Estrangeiro](https://open.spotify.com/track/50ozv38puu8OnvVZ3XLXc4) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0) | [Fragmentos](https://open.spotify.com/album/4B9Sqim9O9P03MyQV19woO) | 3:26 | 2022-04-01 | 2022-04-21 |
 | [Cor Favorita](https://open.spotify.com/track/2tBzbY0QuXNPammAyCjcNh) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Cor Favorita](https://open.spotify.com/album/3rIpKT7eb94M7UqrPa71T7) | 3:23 | 2022-03-11 | 2022-07-09 |
@@ -72,6 +73,7 @@
 | [Descansa em Mim](https://open.spotify.com/track/7Il0f4313mhJYA9Gz6ahnX) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [Descansa em Mim](https://open.spotify.com/album/6Fs7lJ0VlCqUQoa9sGQLt5) | 2:42 | 2022-06-17 | 2022-07-22 |
 | [Descubra Sua Força](https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Descubra Sua Força](https://open.spotify.com/album/2rK7IIEZGisVmA9bOarBRj) | 2:40 | 2022-04-01 | 2022-07-29 |
 | [Desculpa o Exagero](https://open.spotify.com/track/6UlCJWjcObqoxgKnFMN5WD) | [Thalita Meneghim](https://open.spotify.com/artist/7996eK0EIp68xnjR3FoFMW) | [Desculpa o Exagero](https://open.spotify.com/album/1Jjcfj6lFY2j2CxjnoJZdh) | 3:38 | 2022-02-18 | 2022-07-27 |
+| [Destino e Verdade](https://open.spotify.com/track/1gxTYhtlVJF9ECG4VhTUQl) | [Conrado Pera](https://open.spotify.com/artist/69kv07xFTjUnlXnWON5vMB), [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Destino e Verdade](https://open.spotify.com/album/5gfGcAFlWZhoxt7X7FRDQe) | 3:50 | 2023-09-01 |  |
 | [Deusa do Amor](https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB) | 5:09 | 2022-04-01 | 2022-04-20 |
 | [Dez Anjos](https://open.spotify.com/track/2yV0N09wOvcuh1PfDm7592) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Existe Amor](https://open.spotify.com/album/0SeIP7LbyFTNlmdFKH8zHi) | 4:53 | 2022-04-01 | 2022-04-21 |
 | [Dia Clarear](https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 3:41 | 2022-04-01 | 2023-08-06 |
@@ -102,7 +104,7 @@
 | [Good Vibes](https://open.spotify.com/track/7lW9epMgtSyF21b3muuNDw) | [Dois é Par](https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk) | [Dois é Par](https://open.spotify.com/album/2aW8hmMBYgHV3ClYmKly5H) | 2:56 | 2022-02-18 | 2022-07-29 |
 | [Horizonte](https://open.spotify.com/track/53M78qKCQ1PVoqnzqE94VH) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Horizonte](https://open.spotify.com/album/4InM7tZt258Z6hSGDLPpgj) | 3:23 | 2022-04-01 | 2022-05-07 |
 | [imagina amar assim](https://open.spotify.com/track/0PmLsegy4g7Tgmc0C9jM61) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [bibi](https://open.spotify.com/artist/5psPyNU0Tac7jGsyaqOFR4) | [imagina amar assim](https://open.spotify.com/album/6YMf5PbWziwj5LVrU1dLUr) | 3:00 | 2022-03-11 | 2022-06-20 |
-| [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 | 2022-02-18 |  |
+| [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 | 2022-02-18 | 2023-09-02 |
 | [Isn't She Lovely](https://open.spotify.com/track/23H8PpuhyTDHwpqcDm7vS6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 1:26 | 2022-04-01 | 2022-11-10 |
 | [Isn't She Lovely](https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 1:26 | 2023-01-06 |  |
 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/0TkJ5VPDunXaQYNhScQyN4) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 2:16 | 2022-02-18 | 2022-07-29 |

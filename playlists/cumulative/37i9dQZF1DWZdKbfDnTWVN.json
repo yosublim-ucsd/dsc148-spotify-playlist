@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 128052,
       "name": "ATTENTION",
       "url": "https://open.spotify.com/track/6ez0JhtiRFzmBej1FBiU2S"
@@ -308,6 +308,24 @@
       "duration_ms": 192000,
       "name": "Bold",
       "url": "https://open.spotify.com/track/6mOCm8DdxOZkfkpIFpeQXv"
+    },
+    {
+      "album": {
+        "name": "Bongo Favour",
+        "url": "https://open.spotify.com/album/3wCiDrOT7b1e8cHwbGmbkP"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320940,
+      "name": "Bongo Favour",
+      "url": "https://open.spotify.com/track/02VNjA5HsgGYYcTGgbuw4m"
     },
     {
       "album": {
@@ -2391,6 +2409,32 @@
     },
     {
       "album": {
+        "name": "Splurge",
+        "url": "https://open.spotify.com/album/1NUrQb9xy6Hn47782a6hVm"
+      },
+      "artists": [
+        {
+          "name": "Xavier Xander",
+          "url": "https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ"
+        },
+        {
+          "name": "Trvp Hvrd",
+          "url": "https://open.spotify.com/artist/6jrhrfcjpF6XcaI7fmSPkd"
+        },
+        {
+          "name": "KANJII",
+          "url": "https://open.spotify.com/artist/190UXOe4cz5zZaPlLuz9Iy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "Splurge",
+      "url": "https://open.spotify.com/track/5UMOz9M4VwvgAb02K3leia"
+    },
+    {
+      "album": {
         "name": "Spooky Shit.",
         "url": "https://open.spotify.com/album/7f7xbV76grCg1PJeQSYpVe"
       },
@@ -2658,7 +2702,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 142116,
       "name": "The Point",
       "url": "https://open.spotify.com/track/0USVFLxsAauRkpVaFprj8s"

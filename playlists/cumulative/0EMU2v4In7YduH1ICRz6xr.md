@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Twenty](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 2:54 | 2023-02-22 |  |
-| [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 | 2023-02-22 |  |
+| [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:05 | 2023-02-22 |  |
 | [bloodline](https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:36 | 2023-02-24 |  |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2023-02-22 |  |
 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 | 2023-02-22 |  |

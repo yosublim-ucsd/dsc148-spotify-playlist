@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-510 songs - 1 day 10 hr 52 min
+512 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Borderland](https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Borderland](https://open.spotify.com/album/4Oj5YTqVP7ZyiYnpnY9ntA) | 3:22 | 2022-10-20 | 2022-12-02 |
 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 | 2023-07-11 |  |
 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 | 2023-07-11 | 2023-07-13 |
-| [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-07-18 |  |
+| [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-07-18 | 2023-09-02 |
+| [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 | 2023-08-31 |  |
 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 | 2022-11-15 | 2022-12-02 |
 | [building site outside](https://open.spotify.com/track/74UprT08Tdk1qnRldqwsbE) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [building site outside](https://open.spotify.com/album/1i2ep4HPrmAIM7xe3dmHs7) | 3:37 | 2023-03-23 | 2023-05-26 |
 | [Burden of Proof](https://open.spotify.com/track/2Gb79176OYCC8lbLtC5L1o) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Burden Of Proof \- \(Opening Titles/Interrogation\)](https://open.spotify.com/album/6zWpQCSCFj30HykptrIlfZ) | 3:01 | 2023-06-06 | 2023-06-14 |
@@ -88,7 +89,8 @@
 | [City Song](https://open.spotify.com/track/10yRLfiNMYKfbsoV0Rl1v3) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Romantic Piano](https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM) | 3:42 | 2023-06-13 | 2023-06-22 |
 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-05-09 | 2023-07-28 |
 | [Clouds Over Bourbon Street](https://open.spotify.com/track/6IoVv51HuCcifPmHY7VdCb) | [Dnoir](https://open.spotify.com/artist/68SVqaQHSh7L6xsSMd5L5S) | [Clouds Over Bourbon Street](https://open.spotify.com/album/2ATy8fff9LsMoZb6mEsxu9) | 3:18 | 2023-03-23 | 2023-04-19 |
-| [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-25 |  |
+| [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-25 | 2023-09-02 |
+| [Columbo](https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:33 | 2023-08-31 |  |
 | [Cutting My Fingers Off](https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Peripheral Vision](https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7) | 3:15 | 2022-12-15 | 2023-01-25 |
 | [Dawn Down \- AAAMYYY Remix](https://open.spotify.com/track/5BvYeQlgGTwbX9wO2HfIFF) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Dawn Down \(AAAMYYY Remix\)](https://open.spotify.com/album/2t9LutKAFT0Ip6K12vfyQ1) | 3:47 | 2023-08-24 |  |
 | [Dear Dustin](https://open.spotify.com/track/1IlIZkRAdgFaYTLFAy62Y9) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Dear Dustin](https://open.spotify.com/album/4Pnogn6xi5qunLhEKFw0mU) | 2:40 | 2022-12-01 | 2023-02-01 |

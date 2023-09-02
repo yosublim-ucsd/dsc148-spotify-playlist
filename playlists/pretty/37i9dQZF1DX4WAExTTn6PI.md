@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Logan Ledger
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,764 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,812 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 22 | [I C U](https://open.spotify.com/track/2pID9O9VLbiE8lsiPb5Q5I) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [I C U](https://open.spotify.com/album/42RgJSuBu51ERWMlxUvbmW) | 3:39 |
 | 23 | [Old Kanawha](https://open.spotify.com/track/5AKOojMtH8VWV1hlAk3mg1) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Old Kanawha](https://open.spotify.com/album/2L6tOFIueh5O5VB0Vxbvh5) | 4:25 |
 | 24 | [Good Ol' Boys with Bad Names](https://open.spotify.com/track/659Vb5AFqIdFiMDY8GXUAp) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Good Ol' Boys with Bad Names](https://open.spotify.com/album/2LbLo3eYCbE3CTe4sYQmM0) | 1:54 |
-| 25 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 |
+| 25 | [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 |
 | 26 | [Nobody but Me](https://open.spotify.com/track/3qMlZI2Qhj5QjwJLFNvaqc) | [Lauren Morrow](https://open.spotify.com/artist/3slELdgORMa8N7qVQDGi6W) | [People Talk](https://open.spotify.com/album/4Ae8ZeC9rPJZnnhb5ThiWa) | 3:23 |
 | 27 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 |
 | 28 | [Where Will I Go](https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Where Will I Go](https://open.spotify.com/album/74LQjfjqdiTdubRld7e1Jx) | 5:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Dallas](https://open.spotify.com/track/4p3pm3QpJDPnqrCgWS2XPZ) | [Amanda Anne Platt & the Honeycutters](https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL) | [Dallas / Reverie](https://open.spotify.com/album/79g9mgaxvBBH2352pThhaB) | 4:01 |
 | 100 | [Joke’s On Me](https://open.spotify.com/track/4PrwTOyFdEzYaYoTDaLuIG) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Cycles](https://open.spotify.com/album/39YBVSJcX1YP53p3CiEOTB) | 2:46 |
 
-Snapshot ID: `MCxkYTg2OTFlMmEyMWU5ZTIwZWFhMTYyZGEzMmIzNGM0NmZiZDI0MWQ5`
+Snapshot ID: `MCw5OWI5NzkzMGJhMjJmZjI0MmY2MWQ3ZjAxNzIxNzdiNGFhZDUyZGI1`

@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> Heartbreak is the national anthem, we sing it proudly! Cover: Alexander Stewart
+> Heartbreak is the national anthem, we sing it proudly! Cover: Reneé Rapp
 
-560 songs - 1 day 6 hr 52 min
+563 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 | 2022-06-24 | 2023-04-01 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt) | 3:22 | 2022-03-18 | 2022-10-13 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY) | 3:22 | 2022-10-28 |  |
-| [Faulty Wiring](https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Faulty Wiring](https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4) | 2:28 | 2023-08-18 |  |
+| [Faulty Wiring](https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Faulty Wiring](https://open.spotify.com/album/3eZcH7IVMVANRxGtus9xr4) | 2:28 | 2023-08-18 | 2023-09-02 |
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2022-05-04 |  |
 | [Feel Good](https://open.spotify.com/track/2LpDPQNJmEdJnNdqHfrflx) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Feel Good](https://open.spotify.com/album/5d3qDD3KoYlqf68XvZLmZb) | 2:58 | 2023-05-14 | 2023-06-19 |
 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-12-17 |  |
@@ -258,6 +258,7 @@
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-12-17 | 2022-10-01 |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 | 2022-06-24 | 2022-12-01 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2021-12-17 |  |
+| [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-01 |  |
 | [I Should Just Go To Bed](https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [5 Songs for Healing](https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN) | 3:19 | 2023-06-23 | 2023-07-15 |
 | [i should just leave](https://open.spotify.com/track/1b2liV9Zp9IemfkwDwk9JK) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i should just leave](https://open.spotify.com/album/6tnvpdq0gI8htBVcwWMFgg) | 3:33 | 2022-02-04 | 2022-02-12 |
 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-01-14 |  |
@@ -367,7 +368,7 @@
 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-08-04 |  |
 | [Move It to the Side](https://open.spotify.com/track/38OP7Qad0x4tEZzYVBuidm) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Healthy Baby Boy, Pt\. 1](https://open.spotify.com/album/175q5mZC31DOs41hmLQGNB) | 2:33 | 2021-12-17 | 2022-03-23 |
 | [Movies](https://open.spotify.com/track/3x7YsMwPnlXe51XWrwjo7g) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/7FC09mQFRxQnKhNXDikU6p) | 3:34 | 2022-06-24 | 2022-07-29 |
-| [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-01-28 |  |
+| [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 | 2023-01-28 | 2023-09-02 |
 | [My Dying Spirit](https://open.spotify.com/track/3eTvyX4x5tBaXBBQsVKTHh) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1) | 4:01 | 2022-09-23 | 2022-10-01 |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2022-11-04 |  |
 | [My Person](https://open.spotify.com/track/0a3oURCG3s5cpAPNcdDm6e) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [My Person](https://open.spotify.com/album/0hCFjworN4bxpXRH2GBQR5) | 3:06 | 2021-12-17 | 2022-05-20 |
@@ -403,7 +404,7 @@
 | [Over For Real](https://open.spotify.com/track/3VmY28meB22GwWl0L5BxyG) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Over For Real](https://open.spotify.com/album/4B4ozTRKVP1bVQJjsmJaDH) | 2:54 | 2022-06-03 | 2022-06-08 |
 | [Overplayed](https://open.spotify.com/track/650A0ErUKCd1d8Imckr7qV) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Overplayed](https://open.spotify.com/album/7C2ZsCHmkGtHlXb2xCHgWr) | 3:02 | 2021-12-17 | 2022-07-30 |
 | [Pain](https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Pain](https://open.spotify.com/album/1gNekazz4PqtPKSkCAORqp) | 3:39 | 2021-12-24 | 2022-06-25 |
-| [pain's my only home](https://open.spotify.com/track/4YGh99Jth1t1pOmVQL5eiq) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [pain's my only home](https://open.spotify.com/album/4hYiYwdqXXdrPE9tHlAmDI) | 3:17 | 2023-01-06 |  |
+| [pain's my only home](https://open.spotify.com/track/4YGh99Jth1t1pOmVQL5eiq) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [pain's my only home](https://open.spotify.com/album/4hYiYwdqXXdrPE9tHlAmDI) | 3:17 | 2023-01-06 | 2023-09-02 |
 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 | 2021-12-17 | 2022-05-20 |
 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 | 2023-04-01 |
 | [paper \- stripped](https://open.spotify.com/track/7MIrToiNa8NeVcvK6TM43q) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper \(stripped\)](https://open.spotify.com/album/0OpbH0tRsFZP7hOow1kbAU) | 2:40 | 2023-03-17 | 2023-03-25 |
@@ -438,6 +439,7 @@
 | [Ruins](https://open.spotify.com/track/4yqi1WxBUMw75zodggxj6g) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4), [Drew Schueler](https://open.spotify.com/artist/1F2PBVC03y1a9PCszIxJhI) | [Ruins](https://open.spotify.com/album/49xPyLWptFULo4SmaCW6D0) | 3:20 | 2022-05-27 | 2022-06-10 |
 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 | 2022-04-08 | 2022-05-20 |
 | [Saw It Coming](https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Saw It Coming](https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY) | 3:09 | 2023-02-24 | 2023-04-01 |
+| [Second to Last](https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Second to Last](https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2) | 2:50 | 2023-09-01 |  |
 | [Secondhand Smoke](https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Secondhand Smoke](https://open.spotify.com/album/4Wu9Clf4wH6ItUqMfJkJA6) | 4:03 | 2023-03-10 | 2023-04-29 |
 | [Seeing Other People](https://open.spotify.com/track/3LpbQsIPCrp4nKqmCbx7xi) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6), [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Seeing Other People](https://open.spotify.com/album/014cyjQZihVY9akGL5uoIx) | 3:30 | 2022-12-09 | 2023-01-28 |
 | [seeing you with other girls](https://open.spotify.com/track/05EL9Ml4T3MQ2ICIONhbEF) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [seeing you with other girls](https://open.spotify.com/album/61XFhjOmYfEyHgTk35zgpY) | 2:57 | 2023-03-17 | 2023-04-12 |
@@ -499,6 +501,7 @@
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2022-12-27 |  |
 | [trust issues](https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [trust issues](https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN) | 2:14 | 2022-09-30 | 2023-08-19 |
 | [Trust Issues](https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Trust Issues](https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o) | 3:18 | 2023-03-31 | 2023-05-25 |
+| [Tummy Hurts](https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:48 | 2023-09-01 |  |
 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 | 2022-03-18 | 2022-05-19 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 |  |
 | [Twenty\-Two](https://open.spotify.com/track/42Jl9YIutlOqAAAAOWGetE) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Twenty\-Two](https://open.spotify.com/album/6XwUfDJzqfYgxo6PSAFUHh) | 3:10 | 2022-05-27 | 2022-06-17 |

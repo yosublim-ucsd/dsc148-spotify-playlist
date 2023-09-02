@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-153 songs - 9 hr 41 min
+154 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Betwixt and Between \(Edit\)](https://open.spotify.com/track/2Dl48d6g5FyKTTLq3EwEs5) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Betwixt and Between](https://open.spotify.com/album/0spg7d9thDU1sH5yAmUdtt) | 3:09 | 2023-03-28 | 2023-04-11 |
 | [Betwixt and Between \- Edit](https://open.spotify.com/track/04Hz7yeWenKDK8AgOOV6uK) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Betwixt and Between](https://open.spotify.com/album/0AvjFiAL7iMt0Lfpfy3UeY) | 3:09 | 2023-02-17 | 2023-03-12 |
 | [Blue Pill Blues](https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:07 | 2021-12-15 |  |
-| [Bob Fudge](https://open.spotify.com/track/2TT4xzKg0kx6qcZ7kCzlYQ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Colter Wall & The Scary Prairie Boys](https://open.spotify.com/album/4seoK3TpuXYrvWOugMWRtw) | 5:23 | 2021-12-15 |  |
+| [Bob Fudge](https://open.spotify.com/track/2TT4xzKg0kx6qcZ7kCzlYQ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Colter Wall & The Scary Prairie Boys](https://open.spotify.com/album/4seoK3TpuXYrvWOugMWRtw) | 5:23 | 2021-12-15 | 2023-09-02 |
+| [Bob Fudge](https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Colter Wall & The Scary Prairie Boys](https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4) | 5:23 | 2023-07-11 |  |
 | [Boomerang](https://open.spotify.com/track/5ztdTyMkwfHvY5UAnNSF3a) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7) | 4:54 | 2021-12-15 | 2023-04-29 |
 | [Breakfast](https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY) | [Darrin Bradbury](https://open.spotify.com/artist/7azO8ieqy1sOm6LkfHtH9w) | [Talking Dogs & Atom Bombs](https://open.spotify.com/album/3UTuOx53762H0mBIfB49Ma) | 3:06 | 2021-12-15 | 2023-05-23 |
 | [Civilized Hell](https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:50 | 2021-12-15 | 2022-07-26 |

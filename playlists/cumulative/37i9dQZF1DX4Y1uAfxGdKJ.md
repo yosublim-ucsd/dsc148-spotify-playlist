@@ -4,7 +4,7 @@
 
 > Driving electronic grooves for improved motivation and performance.
 
-147 songs - 8 hr 13 min
+148 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Hold On](https://open.spotify.com/track/3cBsoWySE5misjwiHXpe4h) | [Valter Knut](https://open.spotify.com/artist/4PjYynoChLbnYyhPVSMnbq) | [Hold On](https://open.spotify.com/album/1Yyshg4PD11md8uNRapu8x) | 2:32 | 2022-09-23 | 2023-07-18 |
 | [I Need You](https://open.spotify.com/track/3owktfqOe8kZ9zCoTSZ0T8) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [I Need You](https://open.spotify.com/album/7dXyHoHeaB5K1hfWgtdMoA) | 2:42 | 2022-09-23 |  |
 | [I Promise You](https://open.spotify.com/track/52PxCQQlAme3g0UjH2smhF) | [Florem Ipsum](https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir) | [I Promise You](https://open.spotify.com/album/3IKrjcrhhF9KVVyhLR9uiI) | 2:13 | 2022-12-09 | 2023-03-10 |
+| [If I Tried](https://open.spotify.com/track/7uhpIuXpKa6cMWe5uRD6aV) | [Zumaia](https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH) | [If I Tried](https://open.spotify.com/album/0vp88bPsCQ66QG8eyqST33) | 2:33 | 2023-09-01 |  |
 | [Indi](https://open.spotify.com/track/6myfz5g9b9U6bQSr4XcKGu) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT) | 3:20 | 2022-12-23 |  |
 | [Indi](https://open.spotify.com/track/7zeOr0r8bQO5BO9Om7BuAt) | [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4) | [Indi](https://open.spotify.com/album/37iP4wnkJE5ImiW2Q94nKx) | 3:20 | 2022-09-23 | 2022-12-25 |
 | [Inner Light](https://open.spotify.com/track/2ohFbsoB7uVvTTgCk7aWY3) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Inner Light](https://open.spotify.com/album/0kyY8NnooE5jHa3TBB2Dd9) | 3:57 | 2022-09-23 |  |
@@ -121,7 +122,7 @@
 | [Roma Routine](https://open.spotify.com/track/6tRdbsDBn6BQ4Pk9fz2JAl) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Roma Routine](https://open.spotify.com/album/7DVuxMwQTHvRi2l6Vra5Ce) | 3:30 | 2022-10-28 |  |
 | [Rooftop Prelude](https://open.spotify.com/track/5ghSf2DY96iGYoB4vQePpE) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Rooftop Prelude](https://open.spotify.com/album/04mVbv0JlznRDcTBneKQQw) | 3:00 | 2022-10-28 |  |
 | [Roses](https://open.spotify.com/track/5XaXglOKQnMT32dutt3qEU) | [shandr](https://open.spotify.com/artist/2DNdJPmAKrAOWKBTvyTsJU), [Soft Tide](https://open.spotify.com/artist/3fsqt6QGQnfuQmowwrxOVZ) | [Roses](https://open.spotify.com/album/7iU3cbOW2q9bEfetPu0jXn) | 2:26 | 2022-10-28 | 2023-07-18 |
-| [Rude](https://open.spotify.com/track/28LJlaqXAzbuvrdUtmRA5X) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Rude](https://open.spotify.com/album/55OM6ZMuUjcEwDprTSesjl) | 2:47 | 2022-10-14 |  |
+| [Rude](https://open.spotify.com/track/28LJlaqXAzbuvrdUtmRA5X) | [Carl & Calitto](https://open.spotify.com/artist/4tMgaZrsUhfgvphSrUDEiD) | [Rude](https://open.spotify.com/album/55OM6ZMuUjcEwDprTSesjl) | 2:47 | 2022-10-14 | 2023-09-02 |
 | [Runaway](https://open.spotify.com/track/5jjCspZaeMpClv7S1H3a8E) | [Lombauer](https://open.spotify.com/artist/1xYnhHUchQSdNUiAFj1UFI) | [Runaway](https://open.spotify.com/album/3sOxykiyJjLNSiohhvL9hb) | 2:59 | 2022-09-23 |  |
 | [Running through Fire](https://open.spotify.com/track/6D4T0BRng7TOuoBvHCBAj5) | [Hercules' Revenge](https://open.spotify.com/artist/4qO1Q1xGNK6sczpkc2qoX7) | [Running through Fire](https://open.spotify.com/album/1hlKwTiR9SsrKiLzo1dxSl) | 3:17 | 2022-09-23 | 2023-07-18 |
 | [Rush](https://open.spotify.com/track/3CC9G02pqtJ88KCabogFba) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Catch](https://open.spotify.com/album/4rS56AkPxsyz6CH2qwRRQa) | 2:56 | 2023-03-03 |  |

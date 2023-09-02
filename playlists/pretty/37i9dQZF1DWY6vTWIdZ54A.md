@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,747 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,866 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 99 | [Soul Machine](https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Kentucky \(Deluxe Edition\)](https://open.spotify.com/album/70l38e3JDxBKLO2Jo0LgEp) | 4:01 |
 | 100 | [Heartache Melody](https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g) | 2:52 |
 
-Snapshot ID: `MCwzMzMxMzFmNjE5OTEwYTc1MDY5MGFjYjU2YmU0ODIyM2I3YjU3NThk`
+Snapshot ID: `MCxjYWJlMTFiMDQ0YjRkNDgzNTc4NTEwYzA0MjAwNWNmYTQ2NmYwNTlh`

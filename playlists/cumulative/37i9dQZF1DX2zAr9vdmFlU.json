@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 249170,
       "name": "Dancin' Days",
       "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 221786,
       "name": "El Llamado",
       "url": "https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I"
@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "album": {
         "name": "Mozo",
         "url": "https://open.spotify.com/album/7ub8UsPa9SpNU1HIzaYQHo"
       },
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 230556,
       "name": "No Pasa Na",
       "url": "https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf"

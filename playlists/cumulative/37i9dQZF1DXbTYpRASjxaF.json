@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: MC Maneirinho",
+  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Bivolt, Veigh",
   "name": "Cop\u00e3o na m\u00e3o",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 161147,
       "name": "Aquecimento da Xereca (Remix)",
       "url": "https://open.spotify.com/track/6Bfev8nYsY4kDjVbZk06qk"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 125454,
       "name": "Babal\u00fa",
       "url": "https://open.spotify.com/track/0ytXiW13nB8clgHdr0hQ1z"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 223001,
       "name": "Bandida Treinada",
       "url": "https://open.spotify.com/track/1DRdKxj7DgMVBLp6ogpj3k"
@@ -978,6 +978,32 @@
       "duration_ms": 157166,
       "name": "Blindada",
       "url": "https://open.spotify.com/track/2zJsF3MNM7S1WaOjSnKfHm"
+    },
+    {
+      "album": {
+        "name": "Bom Bom",
+        "url": "https://open.spotify.com/album/2FCIKz9Weqozpv5ZoFfPBG"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        },
+        {
+          "name": "Beatz Akademy",
+          "url": "https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205482,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/6t8RIxJ80kiN4HMzhF6XXS"
     },
     {
       "album": {
@@ -1839,6 +1865,36 @@
     },
     {
       "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193564,
+      "name": "De Cop\u00e3o Na M\u00e3o",
+      "url": "https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG"
+    },
+    {
+      "album": {
         "name": "De Verdade",
         "url": "https://open.spotify.com/album/5mZUtd3HyC0dIz77KpScOF"
       },
@@ -2316,6 +2372,36 @@
       "duration_ms": 129044,
       "name": "Evoque Miami Blue",
       "url": "https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui"
+    },
+    {
+      "album": {
+        "name": "Falar de Amor",
+        "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
+      },
+      "artists": [
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "Falar de Amor",
+      "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
     },
     {
       "album": {
@@ -3102,10 +3188,32 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 144000,
       "name": "J\u00f3ias",
       "url": "https://open.spotify.com/track/2LFnuYFKk2O6UNBZ8RlSy9"
+    },
+    {
+      "album": {
+        "name": "KEN ELAS QUER",
+        "url": "https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121234,
+      "name": "KEN ELAS QUER",
+      "url": "https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf"
     },
     {
       "album": {
@@ -4389,6 +4497,40 @@
     },
     {
       "album": {
+        "name": "Nota D\u00f3",
+        "url": "https://open.spotify.com/album/0yU8bkVURmhaMPZyKHxtrP"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "DJ DuBom",
+          "url": "https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202550,
+      "name": "Nota D\u00f3",
+      "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Nasceu pra Namorar",
         "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
       },
@@ -4728,7 +4870,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 420000,
       "name": "Para\u00edso Tropical",
       "url": "https://open.spotify.com/track/0eKQyaQbK3NvD7ksy7l25q"
@@ -5143,6 +5285,36 @@
     },
     {
       "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160514,
+      "name": "Qdo Ce Me V\u00ea",
+      "url": "https://open.spotify.com/track/6b0vkISczGYEbeRpAUI6fv"
+    },
+    {
+      "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
@@ -5500,10 +5672,6 @@
         {
           "name": "Mainstreet",
           "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
       "date_added": "2023-07-14",
@@ -6442,7 +6610,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202434,
       "name": "To de P\u00e9",
       "url": "https://open.spotify.com/track/6WHGZ8voLYNlgYlUyBhQm9"
@@ -6476,7 +6644,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 177322,
       "name": "Turista",
       "url": "https://open.spotify.com/track/78OWuPL27aLMkDKdFNNnuH"
@@ -6692,6 +6860,40 @@
       "duration_ms": 226666,
       "name": "VideoChamada (Facetime)",
       "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
+    },
+    {
+      "album": {
+        "name": "Meu Nome N\u00e3o \u00e9 Igor %",
+        "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Lil Kid 777",
+          "url": "https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Vinho Escoc\u00eas",
+      "url": "https://open.spotify.com/track/6nH3inGA5qawCi8pIoHAzA"
     },
     {
       "album": {

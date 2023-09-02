@@ -1,28 +1,28 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Demi Lovato",
-  "num_followers": 382549,
+  "description": "Dark, hard hitting pop. Cover: Amelia Moore",
+  "num_followers": 382704,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDYzYzBjODFlNzkwYzI2YTBhOTI3YTU4OGJlNDAwZTdmZmY4YzA4",
+  "snapshot_id": "MCw3MTM0ZTRjMTRmN2U2Mzc0OTEyNjE0NGQzNzNhMGVkZmVhOTc4NzY1",
   "tracks": [
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Confident (Rock Version)",
-        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
+        "name": "over my ex",
+        "url": "https://open.spotify.com/album/2UtEAEUx3RaKL1TRKe5asi"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
         }
       ],
-      "duration_ms": 205675,
-      "name": "Confident - Rock Version",
-      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
+      "duration_ms": 146065,
+      "name": "over my ex",
+      "url": "https://open.spotify.com/track/2JWC7a6oGu7OHDVpOaRrLW"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -43,6 +43,38 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Confident (Rock Version)",
+        "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 205675,
+      "name": "Confident - Rock Version",
+      "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/4q0OJVTYATqeedtb1ESQvZ"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "duration_ms": 183227,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/4rjx6v5WkdRFe2QwxFAoS8"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "AMERICAN HORROR SHOW",
         "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
       },
@@ -55,22 +87,6 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 132818,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
+      "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Screw Loose",
-        "url": "https://open.spotify.com/album/6nMrYMhDpqGpFGhq0T2gnL"
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH"
       },
       "artists": [
         {
-          "name": "Hannah Grae",
-          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 203580,
-      "name": "Screw Loose",
-      "url": "https://open.spotify.com/track/7sKxMRhdgtvoqaCI9AIrdu"
+      "duration_ms": 132818,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -123,6 +139,38 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 137995,
+      "name": "BAD BITCH",
+      "url": "https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Screw Loose",
+        "url": "https://open.spotify.com/album/6nMrYMhDpqGpFGhq0T2gnL"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "duration_ms": 203580,
+      "name": "Screw Loose",
+      "url": "https://open.spotify.com/track/7sKxMRhdgtvoqaCI9AIrdu"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Rowdy",
         "url": "https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3"
       },
@@ -139,22 +187,6 @@
       "duration_ms": 156522,
       "name": "Rowdy",
       "url": "https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "MY GOD!",
-        "url": "https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu"
-      },
-      "artists": [
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 137995,
-      "name": "BAD BITCH",
-      "url": "https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -519,22 +551,6 @@
       "duration_ms": 170494,
       "name": "hot girls in hell",
       "url": "https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "EXTRA EXTRA",
-        "url": "https://open.spotify.com/album/7gJ1BUgV6kkyaFzKE5LizN"
-      },
-      "artists": [
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        }
-      ],
-      "duration_ms": 205011,
-      "name": "EXTRA EXTRA",
-      "url": "https://open.spotify.com/track/6hTudL1V7CHBhxwV8k9oIo"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -927,22 +943,6 @@
       "duration_ms": 170704,
       "name": "Not to be Dramatic",
       "url": "https://open.spotify.com/track/5DfMuKnKjSCBJDL3CbRAet"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 132793,
-      "name": "Dolls",
-      "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
     },
     {
       "added_at": "2023-08-18 04:01:00",

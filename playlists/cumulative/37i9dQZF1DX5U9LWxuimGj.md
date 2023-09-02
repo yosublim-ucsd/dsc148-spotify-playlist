@@ -2,7 +2,7 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Frank Ray
+> Country music with a Latin flair\. Cover: Angie K
 
 130 songs - 7 hr 9 min
 

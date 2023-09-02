@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaIrEwuQ3hyy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaIrEwuQ3hyy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaIrEwuQ3hyy)
 
-### [Sommer Chillout](https://open.spotify.com/playlist/37i9dQZF1DXaIrEwuQ3hyy)
+### [Herbst Chillout](https://open.spotify.com/playlist/37i9dQZF1DXaIrEwuQ3hyy)
 
-> Klingt nach Sonne und Meer, egal wo du bist.
+> Die Tage werden kürzer und die Luft frischer\. Hier ist dein Soundtrack für den goldenen Herbst.
 
 87 songs - 4 hr 52 min
 

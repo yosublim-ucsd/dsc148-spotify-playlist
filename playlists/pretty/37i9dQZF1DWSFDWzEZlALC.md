@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,434 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,543 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Alles Neu](https://open.spotify.com/track/1s3BpG01PThikupXaSwn9a) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Alles Neu](https://open.spotify.com/album/1fM6vzYrjVcN8RuC83bvhv) | 2:46 |
 | 75 | [Star](https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Star](https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi) | 2:38 |
 
-Snapshot ID: `MCwxMDVjNTRkZGE4M2JhODU5MTFhNWY3OTExNDYzMjhjYjZhODcxZDNl`
+Snapshot ID: `MCwyZjA4NzA1NzJkMGI0NzQyMWM2MmNjNjFkZTY2MmUwYTFmZTc1YmI2`

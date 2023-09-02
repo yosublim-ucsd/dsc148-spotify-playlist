@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's pop, featuring Miley Cyrus, Charlotte Cardin and Selena Gomez.",
+  "description": "Today's pop, featuring Miley Cyrus, Charlotte Cardin and Kylie Minogue.",
   "name": "Pop All Day",
   "tracks": [
     {
@@ -5459,6 +5459,28 @@
     },
     {
       "album": {
+        "name": "Essence (feat. Super Computer)",
+        "url": "https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Super Computer",
+          "url": "https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168359,
+      "name": "Essence (feat. Super Computer)",
+      "url": "https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n"
+    },
+    {
+      "album": {
         "name": "Every Beginning Ends",
         "url": "https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB"
       },
@@ -5714,7 +5736,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
@@ -9250,7 +9272,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 183400,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/0Ke17Xm0lk1flqdkFW3bqs"
@@ -9326,7 +9348,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 223030,
       "name": "I'll Scream (All The Words) (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA"
@@ -10171,6 +10193,32 @@
     },
     {
       "album": {
+        "name": "Keep Going Up",
+        "url": "https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
+      "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
+    },
+    {
+      "album": {
         "name": "Kids Are Born Stars",
         "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
       },
@@ -10552,6 +10600,24 @@
       "duration_ms": 257368,
       "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
       "url": "https://open.spotify.com/track/5W8HXMOMLtXLz0RGKUtnlZ"
+    },
+    {
+      "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "album": {
@@ -12372,7 +12438,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 159000,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/4ZyRYtZMC8poztvj0KpgFK"
@@ -16923,6 +16989,24 @@
     },
     {
       "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
+    },
+    {
+      "album": {
         "name": "still",
         "url": "https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3"
       },
@@ -17086,7 +17170,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 161811,
       "name": "Summer Baby",
       "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
@@ -17679,6 +17763,24 @@
     },
     {
       "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
+    },
+    {
+      "album": {
         "name": "That Part",
         "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
       },
@@ -18202,6 +18304,24 @@
       "duration_ms": 200529,
       "name": "The Way You Love",
       "url": "https://open.spotify.com/track/38au3eipd8Yuj97DWLinto"
+    },
+    {
+      "album": {
+        "name": "There You Go",
+        "url": "https://open.spotify.com/album/2n9jpiAzwqYgkoeFPdSLvs"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fine",
+          "url": "https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "There You Go",
+      "url": "https://open.spotify.com/track/4E54j1PrpUHuV6LNm30a8v"
     },
     {
       "album": {
@@ -20130,7 +20250,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 169645,
       "name": "When Love Sucks (feat. Dido)",
       "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"

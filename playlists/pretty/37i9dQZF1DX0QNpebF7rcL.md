@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Shemekia Copeland
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,079 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,102 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 |
-| 2 | [Long Road Ahead](https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Long Road Ahead](https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2) | 3:22 |
-| 3 | [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 |
-| 4 | [I Want To](https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [All My Love For You](https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK) | 3:56 |
-| 5 | [Sneakin’ Around](https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sneakin' Around](https://open.spotify.com/album/0q55zTFXDDIiyjipipXE5T) | 3:40 |
-| 6 | [Burn](https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [Burn](https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O) | 4:20 |
-| 7 | [I Was Wrong](https://open.spotify.com/track/5HyNNoCfx2vph4CCiPYY2N) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [I Was Wrong](https://open.spotify.com/album/4pWHa99dbajqTn8BLqTbdZ) | 3:49 |
+| 1 | [You Got It \(And I Need It\)](https://open.spotify.com/track/71bUNFk68LUA5Y0HURe94Y) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [You Got It \(And I Need It\)](https://open.spotify.com/album/1WpFHd5j9wvcV0mMZnhz0o) | 3:19 |
+| 2 | [Save It For The Next Fool](https://open.spotify.com/track/4U9jHh7OSiDErr0OTW2FzO) | [Coco Montoya](https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb) | [Writing On The Wall](https://open.spotify.com/album/3g8mmWEgsQs1H15zMnxTKX) | 4:19 |
+| 3 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 |
+| 4 | [Long Road Ahead](https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Long Road Ahead](https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2) | 3:22 |
+| 5 | [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 |
+| 6 | [I Want To](https://open.spotify.com/track/5JsZqpiC00eYCz7NRmACw6) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [All My Love For You](https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK) | 3:56 |
+| 7 | [Burn](https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [Burn](https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O) | 4:20 |
 | 8 | [Endless Highway](https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Endless Highway](https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3) | 3:45 |
 | 9 | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/track/4JHfMWE8cPa4HSpllyN36J) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [IDKWYCTD \(I Came To Play\)](https://open.spotify.com/album/4OqNsio1S7X7d5QPlmgiDw) | 3:00 |
 | 10 | [Get Your Back Into It](https://open.spotify.com/track/6c2cTUj9tG273blULygzpg) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Get Your Back Into It!](https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCxlZjNkZDA1ZmUyZTk0NjlkMWEzMzdmNGYwODgxNzlmY2I0NGY2ZTY0`
+Snapshot ID: `MCwwNzM5MGEyOTBiYTk0MzRmYWU1YjMwNDIwZDMzNDBlNzViYjk2MjIw`

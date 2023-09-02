@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Analysis Paralysis",
+        "url": "https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118140,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq"
+    },
+    {
+      "album": {
         "name": "ANALYSIS PARALYSIS",
         "url": "https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj"
       },
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 118140,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5"
@@ -2806,6 +2824,24 @@
       "duration_ms": 199243,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/26Cl8twfEoP4sOKuI9InrK"
+    },
+    {
+      "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "album": {

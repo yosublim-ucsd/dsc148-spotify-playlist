@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-85 songs - 4 hr 54 min
+89 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2023-06-15 |  |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-07-14 |  |
 | [sweet little kitty](https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Made In Korea?](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) | 3:50 | 2023-07-07 |  |
+| [Tears](https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ) | [소찬휘](https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv) | [First Bridge](https://open.spotify.com/album/69x6z028cL1a0boFB82dqK) | 3:56 | 2023-09-01 |  |
 | [Thank You for the Memories](https://open.spotify.com/track/4p1rvfjnXcEVg513qZPGVT) | [Doldams](https://open.spotify.com/artist/1Kl9OLx9kTOZVeSHA9yZkU) | [Romantic Doctor 3 OST Part.10](https://open.spotify.com/album/6pA4gih29c7CIgxhx11BNS) | 3:30 | 2023-07-14 |  |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2023-06-15 |  |
 | [Trip](https://open.spotify.com/track/11fB0pRXSdxOgoM8ity2D4) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Hannah](https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q) | [VIOLINIST](https://open.spotify.com/album/6wP16i20tF48BtJhPUFrjF) | 3:53 | 2023-07-28 |  |
@@ -80,9 +81,12 @@
 | [Very Good](https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Very Good](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) | 3:20 | 2023-06-15 |  |
 | [Why Not?](https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Why Not?](https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6) | 3:28 | 2023-06-15 |  |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2023-06-15 |  |
+| [Wild Flower](https://open.spotify.com/track/6tohHT5sQRMjdWHMNn190u) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Wild Flower](https://open.spotify.com/album/4aLnzOsnBf5gqTDMJn3XLz) | 5:12 | 2023-09-01 |  |
 | [Wish](https://open.spotify.com/track/12n9WBfLII5EdQFzQiQFqv) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Hometown Cha\-Cha\-Cha, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0I9P3bt2K8NAB97yh7uBPf) | 3:57 | 2023-06-15 |  |
+| [Wrongful Meeting](https://open.spotify.com/track/5xYps20oq3shRA3TZsSkPI) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잘못된 만남](https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg) | 4:18 | 2023-09-01 |  |
 | [Your Knight](https://open.spotify.com/track/4DmNIXSHfiguByW1g7OXcb) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [HEADACHE.](https://open.spotify.com/album/60fWmW12NbcOa8Bpm5F0Rv) | 3:11 | 2023-06-15 |  |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-07-07 |  |
+| [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-09-01 |  |
 | [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 4:15 | 2023-08-28 |  |
 | [너 때문에 미쳐](https://open.spotify.com/track/5vCXnSlbAEkuJ3w2O0ALan) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Breaking Heart](https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF) | 3:14 | 2023-08-04 |  |
 | [새벽기차](https://open.spotify.com/track/6NGfh35DLX4MGelPQsWkD1) | [다섯손가락](https://open.spotify.com/artist/54OHfAKmQDzDFfXFjmxHuk) | [다섯손가락 골든 힛트곡 모음](https://open.spotify.com/album/0OKu2x5KBTXYjmACGASREU) | 3:58 | 2023-06-15 |  |

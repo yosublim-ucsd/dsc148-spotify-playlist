@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 235449,
       "name": "Amor Diverso - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/171UjScvzBRgTuREV1QE4F"
@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Nada de Nada",
+        "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
+    },
+    {
+      "album": {
         "name": "Nada Personal",
         "url": "https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1"
       },
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 281960,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd"
@@ -2092,6 +2110,24 @@
       "duration_ms": 139850,
       "name": "Nonbinary",
       "url": "https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT"
+    },
+    {
+      "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
     },
     {
       "album": {

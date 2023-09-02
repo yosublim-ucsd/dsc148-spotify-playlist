@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,636 likes - 71 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,635 likes - 71 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 10 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
 | 11 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 |
 | 12 | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/album/6XAKGZmFNNij9L9dYTAznJ) | 3:51 |
-| 13 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
+| 13 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 |
 | 14 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 |
 | 15 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 16 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 45 | [Something Familiar](https://open.spotify.com/track/0eS8TKIQfshmKIQJEnDLmt) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Something Familiar](https://open.spotify.com/album/76GSQCF9plMvW8qV0pGBXn) | 3:06 |
 | 46 | [Losing Sleep](https://open.spotify.com/track/6X0J32oreaRkLb3FU9aUjz) | [benison](https://open.spotify.com/artist/6aKBKqmDZu6UHkCmEQ9BTO) | [Losing Sleep](https://open.spotify.com/album/10A9IeCajx3PHPxETjf0gx) | 2:40 |
 | 47 | [Sticky \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/4jFAyLOFXPqsxb5TmrHWUj) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Sticky \(feat\. Lolo Zouaï\)](https://open.spotify.com/album/2APyxj6pJrqb7H7IHP5Bgd) | 2:06 |
-| 48 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 |
+| 48 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
 | 49 | [Tied Up!](https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Tied Up!](https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD) | 3:09 |
 | 50 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 51 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 70 | [Speedracer](https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4) | 2:58 |
 | 71 | [Pulse](https://open.spotify.com/track/6XNoI3L5h2ONamtxyMCkWI) | [Aidan Fine](https://open.spotify.com/artist/0KDjHOiKe5QcKHwpvKb33V), [Lisa Grace](https://open.spotify.com/artist/5bp3KSMBNtOvTW6OvrnwpO) | [Pulse](https://open.spotify.com/album/0OJHV3RMeL31ReoYiTtssB) | 3:19 |
 
-Snapshot ID: `MCwwYmZmMTRhZDc5M2M5YmY4Yzc4NWM5NTg0YzI3NzY3YTVlNDM4YjEw`
+Snapshot ID: `MCwzYTBjNTFkMTY3MDAzM2MwOTBhMzg1ZDkyYmE2ZGRkOTE3NDBmMTQ0`

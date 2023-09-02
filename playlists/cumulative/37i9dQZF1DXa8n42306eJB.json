@@ -1014,6 +1014,24 @@
     {
       "album": {
         "name": "Jah Rydem",
+        "url": "https://open.spotify.com/album/5WBK4BSzfbRFtg2SJ1or9N"
+      },
+      "artists": [
+        {
+          "name": "1814",
+          "url": "https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "Jah Rastafari",
+      "url": "https://open.spotify.com/track/2EYh1D0vwuMKmkYxdykhX9"
+    },
+    {
+      "album": {
+        "name": "Jah Rydem",
         "url": "https://open.spotify.com/album/0ZNNCpmGRNiKsIs7xFdcqV"
       },
       "artists": [
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 240226,
       "name": "Jah Rastafari",
       "url": "https://open.spotify.com/track/3XJy1qvLFMV42kL0lf73Po"

@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 165544,
+  "num_followers": 165796,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGNhMmVkZjgxN2FjMTcxZDcxZjVkZmVhN2Q1YWYwYWI0NGEwYzU5",
+  "snapshot_id": "MCxjYWY1Y2U0YjM3NDBhMzBkZGUxODBmNDAwZTRjNTczNzJjNDQ3MDRk",
   "tracks": [
     {
       "added_at": "2023-08-24 02:18:13",
@@ -605,7 +605,7 @@
         }
       ],
       "duration_ms": 196160,
-      "name": "NO PROBLEM (Feat. Felix of Stray Kids)",
+      "name": "NO PROBLEM (Feat. Felix (Stray Kids))",
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
     },
     {
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "Offset",
-        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+        "name": "Lethality",
+        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
         }
       ],
-      "duration_ms": 212136,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
+      "duration_ms": 170600,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "Lethality",
-        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
       },
       "artists": [
         {
-          "name": "KWON EUNBI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 170600,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
+      "duration_ms": 212136,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "WIND AND WISH",
-        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Wind And Wish",
-      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
         "name": "What You Waiting For",
         "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 175327,
       "name": "What You Waiting For",
       "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
+        "name": "HOLIDAY",
+        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I LOVE U",
+      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1183,18 +1183,34 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "HOLIDAY",
-        "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
+        "name": "WIND AND WISH",
+        "url": "https://open.spotify.com/album/3NDkiQHCequvqMRAYPoJWs"
       },
       "artists": [
         {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
         }
       ],
-      "duration_ms": 176000,
-      "name": "I LOVE U",
-      "url": "https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ"
+      "duration_ms": 221466,
+      "name": "Wind And Wish",
+      "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 217486,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1227,22 +1243,6 @@
       "duration_ms": 213293,
       "name": "A Song Written Easily",
       "url": "https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
-        "name": "Present : YOU",
-        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 217486,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "Blooming Blue",
-        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "Love U",
-      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
         "name": "WE",
         "url": "https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 176906,
       "name": "AH YEAH",
       "url": "https://open.spotify.com/track/4Sk31AucPyWuAEztAu2dEA"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 190920,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
     },
     {
       "added_at": "2023-08-24 02:18:13",

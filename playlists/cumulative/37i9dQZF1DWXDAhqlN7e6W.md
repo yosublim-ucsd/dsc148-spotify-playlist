@@ -4,7 +4,7 @@
 
 > Hits written and produced by Max Martin.
 
-169 songs - 10 hr 15 min
+170 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Take My Breath](https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 5:39 | 2022-06-22 |  |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2022-01-10 |  |
 | [That's the Way It Is](https://open.spotify.com/track/1iMoeYXQyq2yaUh10NmeNE) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/56esyMKCe5skVPB2WHjj0W) | 4:01 | 2018-06-21 | 2022-07-29 |
-| [That's the Way It Is](https://open.spotify.com/track/5s4catxeZsaWFnOrvrXZHf) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8) | 4:01 | 2022-07-20 |  |
+| [That's the Way It Is](https://open.spotify.com/track/5G7Pk8gMew5GgtFmCxAoIB) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All The Way..\. A Decade Of Song](https://open.spotify.com/album/6NXCAZgAzjPmueK0ZgYgba) | 4:01 | 2022-07-20 |  |
+| [That's the Way It Is](https://open.spotify.com/track/5s4catxeZsaWFnOrvrXZHf) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Very Best of Celine Dion](https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8) | 4:01 | 2022-07-20 | 2023-09-02 |
 | [That's the Way It Is](https://open.spotify.com/track/7a1aqeZM7JCXAMDMZxyr19) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All the Way...A Decade of Song](https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx) | 4:01 | 2022-07-20 | 2022-11-13 |
 | [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 | 2022-01-10 |  |
 | [This Is How We Do](https://open.spotify.com/track/4DBkrkVzx7jxxIjxI6FYvz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/4lFDt4sVpCni9DRHRmDjgG) | 3:24 | 2022-01-10 | 2022-07-21 |

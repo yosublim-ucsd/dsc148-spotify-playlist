@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-75 songs - 4 hr 37 min
+77 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Akhiyan Ch Ton Wasda](https://open.spotify.com/track/1g0d3PK9XuCwUVpD45JFDw) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Luti Heer Ve Gaman Ne](https://open.spotify.com/album/3o3F1DVHaw3L5xiODNHuyG) | 4:00 | 2022-07-16 |  |
 | [Akhiyan Ch Tu Vasda](https://open.spotify.com/track/6sPPCGilVdL9L3R3YCVjDX) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Nightingale of Punjab: Surinder Kaur](https://open.spotify.com/album/2zavYk1CzXnTndGsGRNQhw) | 4:00 | 2021-11-03 | 2022-07-29 |
 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 | 2023-08-08 |  |
-| [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 | 2021-11-03 |  |
+| [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 | 2021-11-03 | 2023-09-02 |
+| [Babul \(Live\)](https://open.spotify.com/track/7IiwtbLcUg8MawnwL62KgP) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\)](https://open.spotify.com/album/1gpYSSN7MeFeLZSHIEZzwV) | 4:01 | 2023-08-17 |  |
 | [Bati Baal Ke](https://open.spotify.com/track/2RQj3BktqBSCYlvns7lM9Z) | [Maanya Arora](https://open.spotify.com/artist/2yis41rltks0pQr6nCBAD6) | [Bati Baal Ke](https://open.spotify.com/album/3LkK5f4Jub3h8HdvzHqIyq) | 3:44 | 2021-11-03 | 2023-06-06 |
 | [Batti Baal Ke](https://open.spotify.com/track/1RKm0dsITClYcEpHtE2DJH) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA), [The Collective Projekt](https://open.spotify.com/artist/520DeZp2zasDguazhxBP7U) | [Batti Baal Ke](https://open.spotify.com/album/5NkIFTvD8NzGLUaLhcTnFl) | 3:31 | 2022-10-11 | 2023-06-06 |
 | [Boliyan](https://open.spotify.com/track/4nX7vCRUiySBcVHyy8xWBJ) | [Kulwinder Dhillon](https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t) | [Kacheriyan Ch Mele Lagde](https://open.spotify.com/album/2mxYO1V5PTqFGgYrmeiGi8) | 5:04 | 2021-11-03 |  |
@@ -59,7 +60,8 @@
 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 | 2021-11-03 |  |
 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/09cKiNMeQBxtWE3l0VJiAi) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/4hBesI9nEwYhRcoPFaAwSI) | 3:56 | 2021-11-03 | 2022-07-29 |
 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/5UGwIlr0mTtFdOM6SeY21Z) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/750iSHcA6T5zZMC0jvpJrN) | 3:56 | 2022-07-16 |  |
-| [Kangi Wanwan \- Live](https://open.spotify.com/track/7pKDQawo9ClvxVmRBYTzaM) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan / Bobby Jeth \(Live\) \- Single](https://open.spotify.com/album/2Xgp2lbLFymILvM4XtqAKU) | 4:10 | 2021-11-03 |  |
+| [Kangi Wanwan \(Live\)](https://open.spotify.com/track/0Xth3KHBHhixKfia3L3VGK) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan \(Live\)](https://open.spotify.com/album/1olLtLcxyQn5Bojfv4P7DS) | 4:10 | 2023-08-17 |  |
+| [Kangi Wanwan \- Live](https://open.spotify.com/track/7pKDQawo9ClvxVmRBYTzaM) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan / Bobby Jeth \(Live\) \- Single](https://open.spotify.com/album/2Xgp2lbLFymILvM4XtqAKU) | 4:10 | 2021-11-03 | 2023-09-02 |
 | [Kut Kut Bajra](https://open.spotify.com/track/6fmbKu5CWedYNefsiT9CcE) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kut Kut Bajra](https://open.spotify.com/album/0jsdirkN0wv9O1DFb5xp93) | 2:35 | 2023-08-17 |  |
 | [Latthe Di Chadar](https://open.spotify.com/track/7ChxPqmCd0XQB8TXMGGg9V) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa) | 3:02 | 2022-07-16 |  |
 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 | 2021-11-03 | 2022-07-29 |

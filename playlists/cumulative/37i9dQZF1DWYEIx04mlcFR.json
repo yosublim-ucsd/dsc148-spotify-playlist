@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "BITCH3",
+        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144554,
+      "name": "BITCH3",
+      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
+    },
+    {
+      "album": {
         "name": "Bla Bla Bla",
         "url": "https://open.spotify.com/album/6bLLRIJ9H9eVES6TFcqZMI"
       },
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 187234,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 169012,
       "name": "Noches",
       "url": "https://open.spotify.com/track/2UjsowCzfBcEGLbtmy4amt"
@@ -4688,6 +4706,24 @@
       "duration_ms": 154666,
       "name": "Nunca Es Tarde",
       "url": "https://open.spotify.com/track/4vON8gxrfLjvhKTCmps2vL"
+    },
+    {
+      "album": {
+        "name": "nunca me dejes </3",
+        "url": "https://open.spotify.com/album/1DjcS2GNrwG9nkt6J1rcR0"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "nunca me dejes </3",
+      "url": "https://open.spotify.com/track/1Fo6FrFsz0QygL1Ti103Aj"
     },
     {
       "album": {
@@ -6304,7 +6340,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 218709,
       "name": "SKB",
       "url": "https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF"
@@ -6917,6 +6953,24 @@
     },
     {
       "album": {
+        "name": "todo pasa",
+        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214790,
+      "name": "todo pasa",
+      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
+    },
+    {
+      "album": {
         "name": "Torre de Control",
         "url": "https://open.spotify.com/album/0o5kMILqAEb0qc00js9n1X"
       },
@@ -7188,6 +7242,24 @@
       "duration_ms": 153777,
       "name": "un d\u00eda perfecto",
       "url": "https://open.spotify.com/track/4cK0cDb8RSBRIaC0kr7lOx"
+    },
+    {
+      "album": {
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
     },
     {
       "album": {
@@ -7594,7 +7666,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 213614,
       "name": "Ya nada es igual",
       "url": "https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF"

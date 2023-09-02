@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music each and every Friday.   Cover:  <a href=\"https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv?si=2c3HPTljQGyjrwjjWUHF5A\">Victoria Mon\u00e9t</a>",
+  "description": "New music each and every Friday.   Cover:  <a href=\"https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H?si=25458d952b9d4615\">Ruger</a>",
   "name": "This is Frequency",
   "tracks": [
     {
@@ -3876,7 +3876,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -8625,6 +8625,24 @@
     },
     {
       "album": {
+        "name": "clouds",
+        "url": "https://open.spotify.com/album/5VuD11y75bgEeRgYiIM6pA"
+      },
+      "artists": [
+        {
+          "name": "HOAX",
+          "url": "https://open.spotify.com/artist/2B2EixNjepQtd6N3mDcNnh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "clouds",
+      "url": "https://open.spotify.com/track/1TL4KIt4eJqSN06PnXMWZu"
+    },
+    {
+      "album": {
         "name": "CLRD Faces",
         "url": "https://open.spotify.com/album/0okjBjm5PZopg4CUiG2Qge"
       },
@@ -9452,7 +9470,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 162885,
       "name": "Cowboy Don\u2019t",
       "url": "https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4"
@@ -10760,7 +10778,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 226905,
       "name": "Degnan Dreams (feat. Keyon Harrold, Justin Tyson & Dominique Sanders)",
       "url": "https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE"
@@ -10808,6 +10826,24 @@
       "duration_ms": 220249,
       "name": "Demon Time (with Ari Lennox) - Remix",
       "url": "https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS"
+    },
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
     },
     {
       "album": {
@@ -15400,7 +15436,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 160000,
       "name": "FR FR",
       "url": "https://open.spotify.com/track/1i0xpTfKXdUvbB6nFKakRy"
@@ -16372,7 +16408,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 110826,
       "name": "Get Loud",
       "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
@@ -20562,7 +20598,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 195853,
       "name": "I'm Not Human",
       "url": "https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1"
@@ -22097,6 +22133,28 @@
     },
     {
       "album": {
+        "name": "JELO (feat. Young Jonn)",
+        "url": "https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147368,
+      "name": "JELO (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd"
+    },
+    {
+      "album": {
         "name": "Jerry Curl (feat. Larry June)",
         "url": "https://open.spotify.com/album/1E9FHhsy0KqudxNbZ8HFZb"
       },
@@ -22232,7 +22290,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 233373,
       "name": "Joy In The Morning - Remix",
       "url": "https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX"
@@ -23389,6 +23447,24 @@
     },
     {
       "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
+    },
+    {
+      "album": {
         "name": "Last Week",
         "url": "https://open.spotify.com/album/0CkMou5uaVWlcgUlbyNLL5"
       },
@@ -23732,6 +23808,24 @@
       "duration_ms": 152164,
       "name": "LECTRIC SLIDE",
       "url": "https://open.spotify.com/track/2BkBkdAZ2fWnwkSndad1kt"
+    },
+    {
+      "album": {
+        "name": "Bet That",
+        "url": "https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Left, Right, GO!",
+      "url": "https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c"
     },
     {
       "album": {
@@ -25265,6 +25359,24 @@
     },
     {
       "album": {
+        "name": "Louisiana",
+        "url": "https://open.spotify.com/album/6bDQtQ9nztaLR5xFw2JiSm"
+      },
+      "artists": [
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167843,
+      "name": "Louisiana",
+      "url": "https://open.spotify.com/track/6KXdlYA1REDyMeWUlLcVOt"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/54I41sOZkTk2HMbFx5ADWR"
       },
@@ -25520,6 +25632,24 @@
       "duration_ms": 206077,
       "name": "Love, Today",
       "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
+    },
+    {
+      "album": {
+        "name": "LOVE / HATE Pt. 1",
+        "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163014,
+      "name": "Love/Hate",
+      "url": "https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL"
     },
     {
       "album": {
@@ -29444,7 +29574,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 204631,
       "name": "Normally",
       "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
@@ -31432,7 +31562,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -34125,6 +34255,24 @@
     },
     {
       "album": {
+        "name": "God Be Praised",
+        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199741,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/3JXqRCeXxeNLKLuCgX8o9h"
+    },
+    {
+      "album": {
         "name": "My Vision: Reloaded",
         "url": "https://open.spotify.com/album/6cLGEYguW9BfbGOogusAHZ"
       },
@@ -34958,6 +35106,24 @@
       "duration_ms": 123421,
       "name": "RIP",
       "url": "https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29"
+    },
+    {
+      "album": {
+        "name": "RISK, RISK, RISK!",
+        "url": "https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201296,
+      "name": "RISK, RISK, RISK!",
+      "url": "https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB"
     },
     {
       "album": {
@@ -40656,7 +40822,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 196489,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/2TpKV2CZKaGtibEVxMgvOd"
@@ -43567,6 +43733,24 @@
     },
     {
       "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+    },
+    {
+      "album": {
         "name": "ANOTHER ONE",
         "url": "https://open.spotify.com/album/5m6zZS5emytdMFPpRBJsEp"
       },
@@ -45434,7 +45618,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
@@ -47714,6 +47898,28 @@
       "duration_ms": 205946,
       "name": "You The Type",
       "url": "https://open.spotify.com/track/7x5u4be4YDbkD31q3tNj2u"
+    },
+    {
+      "album": {
+        "name": "You Thought (feat. Janelle Mon\u00e1e)",
+        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "You Thought (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
     },
     {
       "album": {

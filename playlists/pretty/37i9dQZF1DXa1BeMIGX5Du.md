@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,637 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,928 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 48 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
 | 49 | [Okay](https://open.spotify.com/track/2Z9oOIEPqIA1RPepcDyG8y) | [Tulliah](https://open.spotify.com/artist/6gdXkpJpXAh1XJGBMOveLq) | [Fre$h Hugs](https://open.spotify.com/album/35LKB6WhagH9EVouPmcDvE) | 4:13 |
 | 50 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
-| 51 | [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 |
+| 51 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
 | 52 | [Karaoke](https://open.spotify.com/track/2B2g136lFHdVblX24YhpAs) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/6fiK3VPNK38HEYhnWzsIrw) | 3:20 |
 | 53 | [Two Strong Hearts](https://open.spotify.com/track/1rMHsiaukDDW0mzwruHdQr) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [Two Strong Hearts](https://open.spotify.com/album/1v1oL1axOTr3tE615BHuMy) | 3:06 |
 | 54 | [You Don't Lie](https://open.spotify.com/track/6xN2yS7wTE2e96QhzdcE3m) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [You Don't Lie](https://open.spotify.com/album/4O3lQgL9djTK1aEVzXLvwS) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 79 | [Soon](https://open.spotify.com/track/18uI37pTOz9tfk3U4jB8ci) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:43 |
 | 80 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 
-Snapshot ID: `MCwyODMzODMwYTQyZWIxNWI3M2M2OTYxYTJkYjVmY2E3YzZkMTI4MWUx`
+Snapshot ID: `MCxmY2FiNTcyNWE4MDc1ZGZjNmJjYzdmNjJiODEwYzI4ZGU5OGU0MDFl`

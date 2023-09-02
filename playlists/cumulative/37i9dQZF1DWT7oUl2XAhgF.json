@@ -5199,6 +5199,24 @@
     },
     {
       "album": {
+        "name": "Stretch Out",
+        "url": "https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190915,
+      "name": "Stretch Out",
+      "url": "https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU"
+    },
+    {
+      "album": {
         "name": "Lazy Days",
         "url": "https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5"
       },

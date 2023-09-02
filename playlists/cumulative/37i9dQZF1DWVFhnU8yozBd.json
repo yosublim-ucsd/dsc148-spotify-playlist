@@ -788,6 +788,28 @@
     {
       "album": {
         "name": "Saw You for the First Time",
+        "url": "https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        },
+        {
+          "name": "Contours",
+          "url": "https://open.spotify.com/artist/0DivrXwznd1NcQbRh86cQO"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336460,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/76DBGyR69bKbLdt7mhsUPy"
+    },
+    {
+      "album": {
+        "name": "Saw You for the First Time",
         "url": "https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk"
       },
       "artists": [
@@ -802,7 +824,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 336460,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7gD34yrgA8gFLsMtPCNWMm"
@@ -1616,6 +1638,28 @@
     {
       "album": {
         "name": "OAR003",
+        "url": "https://open.spotify.com/album/3zBBlW9H75fq7IGpnaqsXA"
+      },
+      "artists": [
+        {
+          "name": "Oni Ayhun",
+          "url": "https://open.spotify.com/artist/6pybt7x9B6bbxxlgcCtNMW"
+        },
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 674377,
+      "name": "OAR003-B",
+      "url": "https://open.spotify.com/track/7qnDy4qBwsPkTeoVv06BYS"
+    },
+    {
+      "album": {
+        "name": "OAR003",
         "url": "https://open.spotify.com/album/5HmbBurWPTN7z44Q5H5N0T"
       },
       "artists": [
@@ -1626,7 +1670,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 674377,
       "name": "OAR003-B - Original Mix",
       "url": "https://open.spotify.com/track/0t5Rr3zaALBh7yI2kGhYyl"

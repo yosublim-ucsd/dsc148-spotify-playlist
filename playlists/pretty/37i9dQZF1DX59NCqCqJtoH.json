@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1153515,
+  "num_followers": 1153768,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTRkY2I2OWI4NWNkYzRkMmIxZGI2MzBlZmIyNmQ3N2M4NTc2NjRi",
+  "snapshot_id": "MCw0YTNlYzk3Zjg4MWY4ZDA2YmI2NjhiYmZlN2M5ODUwZTI4MjljZjgz",
   "tracks": [
     {
       "added_at": "2023-07-21 19:35:12",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Coffee Breath",
+        "url": "https://open.spotify.com/album/4xSZ20XQHahEsCKUydqZoX"
+      },
+      "artists": [
+        {
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
+        }
+      ],
+      "duration_ms": 163908,
+      "name": "Coffee Breath",
+      "url": "https://open.spotify.com/track/0CBjkW0sm2CjxjMaisEDPF"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 165000,
       "name": "You Don't Want Me Anymore",
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Coffee Breath",
-        "url": "https://open.spotify.com/album/4xSZ20XQHahEsCKUydqZoX"
-      },
-      "artists": [
-        {
-          "name": "Sofia Mills",
-          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
-        }
-      ],
-      "duration_ms": 163908,
-      "name": "Coffee Breath",
-      "url": "https://open.spotify.com/track/0CBjkW0sm2CjxjMaisEDPF"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
     },
     {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "2005 barbie doll",
-      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "If I Really Love You",
@@ -1251,6 +1235,22 @@
       "duration_ms": 194754,
       "name": "If I Really Love You",
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
+    },
+    {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "2005 barbie doll",
+      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "If I Showed You",
-        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
-      },
-      "artists": [
-        {
-          "name": "Henry Verus",
-          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
-        }
-      ],
-      "duration_ms": 195467,
-      "name": "If I Showed You",
-      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 231700,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "If I Showed You",
+        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
+      },
+      "artists": [
+        {
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+        }
+      ],
+      "duration_ms": 195467,
+      "name": "If I Showed You",
+      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "songs written for piano",
         "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 238881,
       "name": "Pyjama Pants",
       "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1597,26 +1597,6 @@
       "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
     },
     {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "DnD (feat. Kenny Mason)",
-        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 251175,
-      "name": "DnD (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Meant to Be",
@@ -1659,6 +1639,26 @@
       "duration_ms": 111710,
       "name": "Baby",
       "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
+    },
+    {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "DnD (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "DnD (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -622,7 +622,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 107462,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/2V5I1zNGsMGDAHDEKsexCR"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 212000,
       "name": "El Vento",
       "url": "https://open.spotify.com/track/7HOpwF0tnh3jL1twtDw5JY"
@@ -2170,6 +2170,24 @@
       "duration_ms": 187390,
       "name": "Inv\u00edtame A Un Caf\u00e9",
       "url": "https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d"
+    },
+    {
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
     },
     {
       "album": {
@@ -3654,7 +3672,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 205500,
       "name": "N\u00e3o Sei Parar",
       "url": "https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys"
@@ -3830,7 +3848,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 212598,
       "name": "Papi",
       "url": "https://open.spotify.com/track/0SmL6t4DXfjEsTiGtTEUSV"
@@ -3900,6 +3918,46 @@
       "duration_ms": 152343,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/56oomeTRgamzypt6iObrvA"
+    },
+    {
+      "album": {
+        "name": "Pasa_je_ro (J. Cross Remix)",
+        "url": "https://open.spotify.com/album/4dbEfyoiIFfVQMwuDkzYX2"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "J. Cross",
+          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167716,
+      "name": "Pasa_je_ro (J. Cross Remix)",
+      "url": "https://open.spotify.com/track/6ukkR8zXQO06ohLyuPEQd9"
+    },
+    {
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "PASAJERO",
+      "url": "https://open.spotify.com/track/1uFAI2C6r3YBQmXCAPGzZv"
     },
     {
       "album": {
@@ -4493,6 +4551,36 @@
     },
     {
       "album": {
+        "name": "RESPIRAR",
+        "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Uri",
+          "url": "https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN"
+        },
+        {
+          "name": "Rodridi",
+          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "RESPIRAR",
+      "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
+    },
+    {
+      "album": {
         "name": "Ritmo De La Noche (Vamos A La Playa)",
         "url": "https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj"
       },
@@ -4570,7 +4658,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168262,
       "name": "Se Siente Bien",
       "url": "https://open.spotify.com/track/5zMEaRJk7o8SLyQzxOH12S"
@@ -4949,6 +5037,24 @@
     },
     {
       "album": {
+        "name": "Tambor",
+        "url": "https://open.spotify.com/album/25JI1EXm2T6NQTIeYlpOVd"
+      },
+      "artists": [
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Tambor",
+      "url": "https://open.spotify.com/track/2ZoAuTpYHBf9dXlAU9YQTk"
+    },
+    {
+      "album": {
         "name": "Tambores",
         "url": "https://open.spotify.com/album/0I8TwN5AKnSyEl9kB9yoEW"
       },
@@ -5178,7 +5284,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 152640,
       "name": "TRES SHOT",
       "url": "https://open.spotify.com/track/10QBisUlladhpt1govhb4w"

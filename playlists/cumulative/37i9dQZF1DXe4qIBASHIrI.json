@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Los temas esenciales de la escena independiente nacional. Songs for Eleonor en portada. ",
+  "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
   "name": "Indie Mexicano: Cl\u00e1sicos",
   "tracks": [
     {
@@ -716,7 +716,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 241813,
       "name": "Fumemos un cigarrillo - Soundtrack Original de la Pel\u00edcula",
       "url": "https://open.spotify.com/track/4LlUdiN47svvAwEmbFWQN3"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 303873,
       "name": "Immortality",
       "url": "https://open.spotify.com/track/0Z51HNLuXSG1jNADkcWMon"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 192992,
       "name": "Juntos los Dos",
       "url": "https://open.spotify.com/track/2xVclNE0YNMZc4UBSinhTC"
@@ -980,6 +980,24 @@
       "duration_ms": 263005,
       "name": "Luces Sensacional",
       "url": "https://open.spotify.com/track/1PtNq4VXQvrkp8Gq11XryM"
+    },
+    {
+      "album": {
+        "name": "A Casa Voy - EP",
+        "url": "https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4"
+      },
+      "artists": [
+        {
+          "name": "Furland",
+          "url": "https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221506,
+      "name": "L\u00e1mpara de Lava",
+      "url": "https://open.spotify.com/track/0rQJAyaTlRna0nCxpiOl4u"
     },
     {
       "album": {
@@ -1527,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Historia de la Luz",
+        "url": "https://open.spotify.com/album/3QvzbOSSEgNWYMRbgdLMVd"
+      },
+      "artists": [
+        {
+          "name": "Furland",
+          "url": "https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207893,
+      "name": "Quiero Ser un Color",
+      "url": "https://open.spotify.com/track/4sAT9zslz8epejmWuP1N9X"
+    },
+    {
+      "album": {
         "name": "Sweet & Sour - Hot & Spicy",
         "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
       },
@@ -1564,6 +1600,24 @@
       "duration_ms": 221390,
       "name": "Respiro (Cap. 8)",
       "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
+    },
+    {
+      "album": {
+        "name": "A Casa Voy - EP",
+        "url": "https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4"
+      },
+      "artists": [
+        {
+          "name": "Furland",
+          "url": "https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326426,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/1kQyVGpK1b2Uq1fCpWgDjQ"
     },
     {
       "album": {

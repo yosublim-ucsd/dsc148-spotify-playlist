@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-184 songs - 11 hr 2 min
+185 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Loud and Heavy](https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW) | 3:50 | 2023-02-24 |  |
 | [Love](https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 3:43 | 2023-02-24 |  |
 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 | 2023-02-24 |  |
+| [Mad Man](https://open.spotify.com/track/1i1GjxicCX9W9tBWwbFve5) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Mad Man](https://open.spotify.com/album/5qvuzIfBRmQP8XTi0jQWmR) | 2:52 | 2023-09-01 |  |
 | [Make You Weep \(OurVinyl Sessions\)](https://open.spotify.com/track/4pbgFPJ0ikbjAyrX5CmMNU) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [J.R\. Carroll \| OurVinyl Sessions](https://open.spotify.com/album/72089SOlxYZ4GbnDxqaXgQ) | 4:11 | 2023-03-10 |  |
 | [Marlboro Man](https://open.spotify.com/track/7g3WvWRM3wTOhbOmM9f6u4) | [Colten Jesse](https://open.spotify.com/artist/2a54v7t8zdzGJxDKHhEGrT) | [Marlboro Man](https://open.spotify.com/album/7LVd1AfhUSn8smErFirp0y) | 3:50 | 2023-02-24 |  |
 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 | 2023-02-24 | 2023-08-21 |

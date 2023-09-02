@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,915 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,955 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 10 | [No More Parties \- Remix](https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [No More Parties \(Remix\)](https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX) | 3:12 |
 | 11 | [Impatient \(feat\. Coi Leray\)](https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 4:05 |
 | 12 | [Nowhere 2 Run](https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb) | [Grind2hard Osh’a](https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET) | [Wolf Talk](https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW) | 2:53 |
-| 13 | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 |
-| 14 | [Dim](https://open.spotify.com/track/0vAeNqXsZmFzMgRF486jcb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Dim](https://open.spotify.com/album/7iczpIXMnMAhDSt7kMKG1y) | 2:46 |
+| 13 | [Dim](https://open.spotify.com/track/0vAeNqXsZmFzMgRF486jcb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Dim](https://open.spotify.com/album/7iczpIXMnMAhDSt7kMKG1y) | 2:46 |
+| 14 | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 |
 | 15 | [Easter In Miami](https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Easter In Miami](https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk) | 3:07 |
 | 16 | [A.M\. Flights \(feat\. Toosii\)](https://open.spotify.com/track/37mxyK3wdiHlv6MDuQJnAp) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Blessed, I Guess](https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL) | 2:03 |
 | 17 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 49 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 | 50 | [Basement](https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Basement](https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI) | 2:26 |
 
-Snapshot ID: `MCwwMmI1Nzk3MWQ1NjE1ZDg5MWZmMjE3OGU5MWJiZjYxYzA0Y2IzZTY4`
+Snapshot ID: `MCxmMzY4MWMwZWY2YTk1N2Y3ODUzODMxMzBjNDQyYzE1MTQ5OGU3ODBm`

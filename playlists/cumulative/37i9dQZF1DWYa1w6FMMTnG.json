@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Halloweentown (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5lByeXRWMm2Bdn4MmoEsXe"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107000,
+      "name": "Halloweentown Theme",
+      "url": "https://open.spotify.com/track/6Afp1wDgGBQ4o5tNjvExpv"
+    },
+    {
+      "album": {
         "name": "Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo"
       },

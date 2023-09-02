@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-307 songs - 20 hr 32 min
+309 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 | 2023-01-17 |  |
 | [Bloodbuzz Ohio](https://open.spotify.com/track/6VaUCACDvyJhcfQIrkgCzZ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Bloodbuzz Ohio](https://open.spotify.com/album/3FAtFkpKEdSkgz3i4iUc0z) | 4:39 | 2023-01-17 |  |
 | [Blouse](https://open.spotify.com/track/1qfJaIIBYBfl5QNXHjfT6Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 2:45 | 2023-01-17 |  |
-| [Blue Comanche](https://open.spotify.com/track/3XtVFhcbHLcENVSDyR3XLn) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 3:28 | 2023-01-17 |  |
+| [Blue Comanche](https://open.spotify.com/track/2dOhyVmcZKCFB2F5FYdrwB) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Blue Comanche](https://open.spotify.com/album/7IG2AAoxK9nNPL2Me3tKxI) | 3:28 | 2023-01-17 |  |
+| [Blue Comanche](https://open.spotify.com/track/3XtVFhcbHLcENVSDyR3XLn) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 3:28 | 2023-01-17 | 2023-09-02 |
 | [Both Sides](https://open.spotify.com/track/7oN4n94quPbTiR0jGb3bx4) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Radiate](https://open.spotify.com/album/5GG9RkQ5zxoRT5m7DCqlst) | 3:36 | 2023-01-17 |  |
 | [Broken Sleep](https://open.spotify.com/track/0fJTfkGfoHwWfJiHFvGpeZ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Broken Sleep](https://open.spotify.com/album/4y4DoLI7N2irCVu1BE8wWi) | 4:55 | 2023-01-17 |  |
 | [Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:51 | 2023-01-17 |  |
@@ -308,7 +309,8 @@
 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 | 2023-01-17 |  |
 | [You Don't Own Me](https://open.spotify.com/track/5DbiRrGVo0NYl8Eiyg77W3) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:20 | 2023-01-17 |  |
 | [You Were Bored](https://open.spotify.com/track/4Qghywsxi70o4Kk5D2hoyL) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/25UGhYhmmE81CnCdl2UL3v) | 4:23 | 2023-01-17 |  |
-| [You're All I Want](https://open.spotify.com/track/0EUw3ZK8Ti14t6R6FOP8Ty) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/5lU2BUnMIIe6JcbqV9LXtS) | 4:24 | 2023-01-17 |  |
+| [You're All I Want](https://open.spotify.com/track/0EUw3ZK8Ti14t6R6FOP8Ty) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/5lU2BUnMIIe6JcbqV9LXtS) | 4:24 | 2023-01-17 | 2023-09-02 |
+| [You're All I Want](https://open.spotify.com/track/4nvLuqwTOZdEJI1fcHXv8h) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [You're All I Want](https://open.spotify.com/album/0C4YWH1f1zcPhIhNIB6S82) | 4:24 | 2023-01-17 |  |
 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 | 2023-01-17 |  |
 | [Youngblood](https://open.spotify.com/track/5qeoP4v5qF8QbNCSPBYVI5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/3XTWkAqao52wE5Z1zmB3yx) | 3:52 | 2023-01-17 |  |
 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 | 2023-01-17 |  |

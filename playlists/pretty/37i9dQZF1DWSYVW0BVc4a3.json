@@ -1,12 +1,12 @@
 {
   "description": "The stomping ground. Cover: Mochakk",
-  "num_followers": 93301,
+  "num_followers": 93456,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjk0MWY0MDlkZGMzNTUzZGFiYzFlYzNlZmEwYjU2MzgzYzVkYmQx",
+  "snapshot_id": "MCxlYzRlNDUxMmNjODA0OGU1NzUzYTU4N2E4MDU2Y2M2Y2FmMzdlNDEw",
   "tracks": [
     {
       "added_at": "2023-08-31 22:01:00",
@@ -41,20 +41,28 @@
       "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
-      "added_at": "2023-08-31 22:01:00",
+      "added_at": "2023-09-01 07:52:03",
       "album": {
-        "name": "Coral",
-        "url": "https://open.spotify.com/album/55axvM9kgNwRb0Eo70SymU"
+        "name": "Ray Of Solar (Alex Wann & Sasson Remix)",
+        "url": "https://open.spotify.com/album/4LCdaNUBthKh1YeP7ouz7k"
       },
       "artists": [
         {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Sasson (FR)",
+          "url": "https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa"
         }
       ],
-      "duration_ms": 208571,
-      "name": "Coral",
-      "url": "https://open.spotify.com/track/3xKFeabUGHFTOGi7KMt3eR"
+      "duration_ms": 420000,
+      "name": "Ray Of Solar - Alex Wann & Sasson Remix",
+      "url": "https://open.spotify.com/track/7kPUvwFtA9e1COxyyNrvpR"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -281,20 +289,24 @@
       "url": "https://open.spotify.com/track/7gsfjBakj8aTxZuW6vwUvT"
     },
     {
-      "added_at": "2023-08-31 22:01:00",
+      "added_at": "2023-09-01 08:03:49",
       "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/4i0wvUpKtMOz87aPtXXi8q"
+        "name": "Pay My Debts (K\u00f6lsch Remix)",
+        "url": "https://open.spotify.com/album/3BQ1vxWK5lo0MuYSwUeocG"
       },
       "artists": [
         {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
         }
       ],
-      "duration_ms": 238958,
-      "name": "Cala",
-      "url": "https://open.spotify.com/track/6eMVtHaCVxQTI4BhbYZX2w"
+      "duration_ms": 364386,
+      "name": "Pay My Debts - K\u00f6lsch Remix",
+      "url": "https://open.spotify.com/track/36BJdsQfNeGVG3FOu6mjJn"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -407,6 +419,42 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Coral",
+        "url": "https://open.spotify.com/album/55axvM9kgNwRb0Eo70SymU"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "Coral",
+      "url": "https://open.spotify.com/track/3xKFeabUGHFTOGi7KMt3eR"
+    },
+    {
+      "added_at": "2023-09-01 08:11:59",
+      "album": {
+        "name": "All Night (Kevin de Vries Remix)",
+        "url": "https://open.spotify.com/album/56T4BCmupSgieIJXAMgYwi"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 247747,
+      "name": "All Night - Kevin De Vries Remix",
+      "url": "https://open.spotify.com/track/3DzX6TFiElYym9LAecMZW4"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -515,6 +563,26 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Transmission (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 224274,
+      "name": "Transmission - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Rhythm (Of The Night)",
         "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
@@ -551,26 +619,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Transmission (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 224274,
-      "name": "Transmission - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
       },
@@ -603,26 +651,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Banho de Folhas (Maz Remix)",
-        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Maz (BR)",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Banho de Folhas - Maz Remix",
-      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
@@ -639,6 +667,26 @@
       "duration_ms": 213495,
       "name": "The Sign (with CamelPhat)",
       "url": "https://open.spotify.com/track/58kUEj9sd9Z2XIPh3BhJRR"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Banho de Folhas (Maz Remix)",
+        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Banho de Folhas - Maz Remix",
+      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -727,6 +775,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Consciousness (Eric Prydz Remix)",
         "url": "https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu"
       },
@@ -747,22 +811,6 @@
       "duration_ms": 244130,
       "name": "Consciousness - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Magalenha",
-        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1035,26 +1083,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Tied To You (Yotto Remix)",
-        "url": "https://open.spotify.com/album/19PmC8YknlZQ2kex90EdwB"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 362501,
-      "name": "Tied To You - Yotto Remix",
-      "url": "https://open.spotify.com/track/6iQ9KEZuDYjz7GjAeTT0sO"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Forever (Solomun Remix)",
         "url": "https://open.spotify.com/album/09rft4QsmOVsaUzJjGrZOb"
       },
@@ -1071,6 +1099,22 @@
       "duration_ms": 228750,
       "name": "Forever (Solomun Remix)",
       "url": "https://open.spotify.com/track/6Y99Pdmhbg5GhAAxwjcbhR"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/4jyoOefy8fepNSteb1z7MF"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1095,18 +1139,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "Tied To You (Yotto Remix)",
+        "url": "https://open.spotify.com/album/19PmC8YknlZQ2kex90EdwB"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 245760,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/4jyoOefy8fepNSteb1z7MF"
+      "duration_ms": 362501,
+      "name": "Tied To You - Yotto Remix",
+      "url": "https://open.spotify.com/track/6iQ9KEZuDYjz7GjAeTT0sO"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1471,6 +1519,38 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "The Blaze",
+      "url": "https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Aylyak",
+        "url": "https://open.spotify.com/album/2HFA0eMSuzqqxFY1y3wMGr"
+      },
+      "artists": [
+        {
+          "name": "Victor Garde",
+          "url": "https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5"
+        }
+      ],
+      "duration_ms": 211381,
+      "name": "Aylyak",
+      "url": "https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Stop & Go (Jacques Greene Remix)",
         "url": "https://open.spotify.com/album/65L6gpLAx79hEel2GDveqp"
       },
@@ -1503,38 +1583,6 @@
       "duration_ms": 231721,
       "name": "Stop & Go - Jacques Greene Remix",
       "url": "https://open.spotify.com/track/1Aa1ZTsxrNPWehEriKJxnK"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Aylyak",
-        "url": "https://open.spotify.com/album/2HFA0eMSuzqqxFY1y3wMGr"
-      },
-      "artists": [
-        {
-          "name": "Victor Garde",
-          "url": "https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5"
-        }
-      ],
-      "duration_ms": 211381,
-      "name": "Aylyak",
-      "url": "https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "The Theory EP",
-        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 270476,
-      "name": "The Blaze",
-      "url": "https://open.spotify.com/track/0jHezfBKttmYivLmNvUzzt"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1639,22 +1687,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "duration_ms": 271642,
-      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
-      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Renegade EP",
         "url": "https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA"
       },
@@ -1679,6 +1711,22 @@
       "duration_ms": 333658,
       "name": "Renegade - Adam Ten & Mita Gami Remix",
       "url": "https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+        "url": "https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "duration_ms": 271642,
+      "name": "()v\u022f)) \u0337\u0328\u0285(\u06dd\u0285(\u019f\u0285():::()\u0335\u0333\u0317\u030a(\u019f\u0285()v\u022f)) \u0337\u0328\u0285",
+      "url": "https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1915,46 +1963,6 @@
       "duration_ms": 199044,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Mistery Lady",
-        "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
-      },
-      "artists": [
-        {
-          "name": "Curol",
-          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
-        },
-        {
-          "name": "Soulmanic",
-          "url": "https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Mistery Lady",
-      "url": "https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Back To This (feat. SoShy)",
-        "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Soshy",
-          "url": "https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "Back To This (feat. SoShy)",
-      "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
     }
   ],
   "unique_name": "Open Air",

@@ -1,28 +1,44 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 54270,
+  "num_followers": 54297,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjc0ODJjYTRhZDMyOWVhNjI1ODE5YTUxNDdmOGNlNzIyNzI1NTQx",
+  "snapshot_id": "MCxmMjI5MjNlZGIyNGZjNjYzYjhjYmRlNjUwZjRiYzc4MTEwYjdjMGMx",
   "tracks": [
     {
-      "added_at": "2023-05-30 12:45:30",
+      "added_at": "2023-06-09 08:10:55",
       "album": {
-        "name": "Right Person, Wrong Time",
-        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9"
       },
       "artists": [
         {
-          "name": "shazza",
-          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+          "name": "Flower.far",
+          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
         }
       ],
-      "duration_ms": 238410,
-      "name": "Right Person, Wrong Time",
-      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
+      "duration_ms": 206966,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R"
+    },
+    {
+      "added_at": "2023-04-17 14:05:23",
+      "album": {
+        "name": "what if i took it off for you?",
+        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "what if i took it off for you?",
+      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -39,6 +55,38 @@
       "duration_ms": 223957,
       "name": "Somebody's Pleasure",
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+    },
+    {
+      "added_at": "2023-09-01 09:20:13",
+      "album": {
+        "name": "how bad could it be",
+        "url": "https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM"
+      },
+      "artists": [
+        {
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "how bad could it be",
+      "url": "https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "HAPPY ACCIDENTS VOL. 1",
+        "url": "https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "SHOWER MUSIC",
+      "url": "https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -73,20 +121,36 @@
       "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
+      "added_at": "2023-08-25 05:16:34",
       "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+        "name": "Teen",
+        "url": "https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
         }
       ],
-      "duration_ms": 156631,
-      "name": "Too Well",
-      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
+      "duration_ms": 183000,
+      "name": "Teen",
+      "url": "https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Right Person, Wrong Time",
+        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
+      },
+      "artists": [
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        }
+      ],
+      "duration_ms": 238410,
+      "name": "Right Person, Wrong Time",
+      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -105,6 +169,26 @@
       "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
     },
     {
+      "added_at": "2023-04-12 07:52:33",
+      "album": {
+        "name": "Jack e Lacrime",
+        "url": "https://open.spotify.com/album/7cau5ANQLaau3sH4tqH8Qw"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "Jack e Lacrime",
+      "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
+    },
+    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "dear abbey",
@@ -119,6 +203,22 @@
       "duration_ms": 234820,
       "name": "dear abbey",
       "url": "https://open.spotify.com/track/6lB7gr1uRPWAV4UN6OgseI"
+    },
+    {
+      "added_at": "2023-09-01 09:20:13",
+      "album": {
+        "name": "i don't lose sleep anymore",
+        "url": "https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "duration_ms": 195645,
+      "name": "i don't lose sleep anymore",
+      "url": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -155,22 +255,6 @@
       "duration_ms": 180848,
       "name": "Good Time (feat. Puri) - Spotify Singles",
       "url": "https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf"
-    },
-    {
-      "added_at": "2023-08-25 05:16:34",
-      "album": {
-        "name": "Teen",
-        "url": "https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Teen",
-      "url": "https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -225,40 +309,52 @@
       "url": "https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN"
     },
     {
-      "added_at": "2023-04-17 14:05:23",
+      "added_at": "2023-09-01 09:20:13",
       "album": {
-        "name": "what if i took it off for you?",
-        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
+        "name": "Zgie\u0142k",
+        "url": "https://open.spotify.com/album/1rZ696lpMnNWJs58ICTWMQ"
       },
       "artists": [
         {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+          "name": "ta Ukrainka",
+          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
         }
       ],
-      "duration_ms": 136706,
-      "name": "what if i took it off for you?",
-      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
+      "duration_ms": 205447,
+      "name": "Zgie\u0142k",
+      "url": "https://open.spotify.com/track/5aNYiszdl6gFgg8MAzbj4X"
     },
     {
-      "added_at": "2023-04-12 07:52:33",
+      "added_at": "2023-08-18 06:00:00",
       "album": {
-        "name": "Jack e Lacrime",
-        "url": "https://open.spotify.com/album/7cau5ANQLaau3sH4tqH8Qw"
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
       },
       "artists": [
         {
-          "name": "piazzabologna",
-          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
-        },
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 158083,
-      "name": "Jack e Lacrime",
-      "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
+    },
+    {
+      "added_at": "2023-09-01 09:20:13",
+      "album": {
+        "name": "Khamakhaa",
+        "url": "https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "duration_ms": 179210,
+      "name": "Khamakhaa",
+      "url": "https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq"
     },
     {
       "added_at": "2023-07-07 07:23:00",
@@ -293,6 +389,22 @@
       "url": "https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC"
     },
     {
+      "added_at": "2023-09-01 09:20:13",
+      "album": {
+        "name": "Whos That B!Tch?",
+        "url": "https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "Whos That B!Tch?",
+      "url": "https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK"
+    },
+    {
       "added_at": "2023-08-03 23:00:00",
       "album": {
         "name": "Ignorant / Good Time",
@@ -317,36 +429,20 @@
       "url": "https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO"
     },
     {
-      "added_at": "2023-06-09 08:10:55",
+      "added_at": "2023-09-01 09:20:13",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9"
+        "name": "Raaz Tera Mera",
+        "url": "https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK"
       },
       "artists": [
         {
-          "name": "Flower.far",
-          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
         }
       ],
-      "duration_ms": 206966,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R"
-    },
-    {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "HAPPY ACCIDENTS VOL. 1",
-        "url": "https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE"
-      },
-      "artists": [
-        {
-          "name": "PLAYERTWO",
-          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "SHOWER MUSIC",
-      "url": "https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7"
+      "duration_ms": 208500,
+      "name": "Raaz Tera Mera",
+      "url": "https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN"
     },
     {
       "added_at": "2023-07-04 08:33:15",
@@ -1429,22 +1525,6 @@
       "url": "https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Night Lotion\u300c\u878d\u300d",
-        "url": "https://open.spotify.com/album/2H6nissJW4xMV28LLWfrBy"
-      },
-      "artists": [
-        {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
-        }
-      ],
-      "duration_ms": 223754,
-      "name": "Night Lotion\u300c\u878d\u300d",
-      "url": "https://open.spotify.com/track/1lMtUY5bgQMRmaFE99qaky"
-    },
-    {
       "added_at": "2023-05-22 07:20:56",
       "album": {
         "name": "Czekam Na Znak",
@@ -2231,22 +2311,6 @@
       "duration_ms": 296298,
       "name": "Terbuai Cinta Palsu",
       "url": "https://open.spotify.com/track/0Lp52eUNJAfjMVz7jzKOHp"
-    },
-    {
-      "added_at": "2023-05-22 07:20:56",
-      "album": {
-        "name": "(Chyba) Ostatni Dzie\u0144",
-        "url": "https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX"
-      },
-      "artists": [
-        {
-          "name": "ta Ukrainka",
-          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
-        }
-      ],
-      "duration_ms": 168507,
-      "name": "(Chyba) Ostatni Dzie\u0144",
-      "url": "https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf"
     },
     {
       "added_at": "2023-02-17 09:49:00",

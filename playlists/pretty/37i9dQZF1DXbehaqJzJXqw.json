@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 334924,
+  "num_followers": 335226,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDMzNWFjZjM3YTViYzEzNzY1ZmE3Zjg5MGQyNDgxNzc4YWQ1NGVl",
+  "snapshot_id": "MCw4YWY2M2MzOWRhMjUzNzU3YmJiYTAzZTRkMjdiMzQ2ODcyNjhhYzE5",
   "tracks": [
     {
       "added_at": "2023-08-29 11:36:57",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-08-29 11:36:57",
       "album": {
-        "name": "Quelqu'un m'a dit",
-        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 242120,
-      "name": "La noy\u00e9e",
-      "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
+      "duration_ms": 302773,
+      "name": "C'est le printemps",
+      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
     },
     {
       "added_at": "2023-08-29 11:36:57",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-08-29 11:36:57",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+        "name": "Quelqu'un m'a dit",
+        "url": "https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k"
       },
       "artists": [
         {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 302773,
-      "name": "C'est le printemps",
-      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
+      "duration_ms": 242120,
+      "name": "La noy\u00e9e",
+      "url": "https://open.spotify.com/track/0NwrKodXe9xPCFn5wNDene"
     }
   ],
   "unique_name": "French Jazz Caf\u00e9",

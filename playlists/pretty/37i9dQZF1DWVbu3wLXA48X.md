@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Slowdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,591 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,610 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 49 | [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 |
 | 50 | [A Noisy Train](https://open.spotify.com/track/3KJHGwOSRZmoM9WD7DaVVd) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [A Noisy Train](https://open.spotify.com/album/1HlFmZZUjGmNgppfCP7yz3) | 4:20 |
 | 51 | [Breakdown](https://open.spotify.com/track/3wkGj6XCr5oBNgF8C38DWX) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Breakdown](https://open.spotify.com/album/4CJQ0PhTfZ0El3GVl45fVB) | 3:22 |
-| 52 | [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 |
+| 52 | [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 |
 | 53 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 |
 | 54 | [Stay Blessed](https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Stay Blessed](https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5) | 2:57 |
 | 55 | [An Arrow In The Wall](https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [An Arrow In The Wall](https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz) | 4:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 |
 | 75 | [Soul Capturer \- Single Version](https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Soul Capturer](https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD) | 5:44 |
 
-Snapshot ID: `MCwxNDA5NzkyOTczNjliMzE5MjdkZTg3Zjk2YmIyYzA3YTU1OTg2NDVk`
+Snapshot ID: `MCw0MDZkMjAxYTcyNDRkYjJhZDZjOTBiZGM5OWQyNzFiYWUwYWE4Mzdh`

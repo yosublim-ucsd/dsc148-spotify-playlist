@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Borqy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,624 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,243 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Yolunda "pavyon"](https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [Yolunda "pavyon"](https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM) | 2:30 |
 | 50 | [Of Aman](https://open.spotify.com/track/47tPBTEZNCy6YEP0tn3tPi) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Of Aman](https://open.spotify.com/album/4uFmbRXLHZcsPanWVZFiBu) | 3:10 |
 
-Snapshot ID: `MCwwNzcxNDk5YTk3MzBlMWJjMmQ0NjM5MzYzN2I5NTFhZmMxNTUzOTY0`
+Snapshot ID: `MCxmN2M1MjliZDQ3OGMwMGQxMTBhYmUwZTQwMjFhMzAzMDdhYjg0M2Iy`

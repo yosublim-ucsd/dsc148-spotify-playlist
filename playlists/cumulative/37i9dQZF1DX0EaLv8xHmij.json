@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Fleezus, Coruja Bc1",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Clara Lima",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 124564,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM"
@@ -998,6 +998,28 @@
       "duration_ms": 140571,
       "name": "Cadeia ou Morte?",
       "url": "https://open.spotify.com/track/3cdkhjRdfY5Q5nN4mgtcOP"
+    },
+    {
+      "album": {
+        "name": "Camisa 10",
+        "url": "https://open.spotify.com/album/48UOun63WhfNSwhihpg0eJ"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "DJ Guizin do Trem",
+          "url": "https://open.spotify.com/artist/3jB6PVFo2v0NFhe6dk0HTA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120827,
+      "name": "Camisa 10",
+      "url": "https://open.spotify.com/track/13kyuo0MazfwJ6f45PbHhm"
     },
     {
       "album": {

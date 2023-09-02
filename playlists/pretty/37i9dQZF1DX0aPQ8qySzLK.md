@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,471 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,484 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,25 +88,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 78 | [She Goes](https://open.spotify.com/track/0FAHiIwKwtgwBYWKdXgDb9) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [She Goes](https://open.spotify.com/album/6isqm6tzgLho09iIAbC5qK) | 3:51 |
 | 79 | [The Veil](https://open.spotify.com/track/2wxdIEWyKSUcpAekpsYtPe) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:59 |
 | 80 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
-| 81 | [Heatwave](https://open.spotify.com/track/6rKD9axpeGAKgytwctW7f4) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:44 |
-| 82 | [On My Mind](https://open.spotify.com/track/4dCkLZZGIbwgI5zLtL0BQu) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Big Blue](https://open.spotify.com/album/5BtoLJIIcW6TiQbGAxVSub) | 4:20 |
-| 83 | [Halfway Tree](https://open.spotify.com/track/2pNvJ2QbKCVHXO6slKGj5e) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:29 |
-| 84 | [Quiet](https://open.spotify.com/track/2jqoFe4y2yY5Ts47HJozDm) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [It's Hard to Be Human](https://open.spotify.com/album/1vnZT6upil8XVg94ejhGk3) | 4:01 |
-| 85 | [War Is Over \(Live At Alix Goolden Hall\)](https://open.spotify.com/track/11URjsHPX6AcLKuudTBFot) | [Northcote](https://open.spotify.com/artist/0238bOScDVbMG0RBP2NguG) | [Let Me Roar \(Deluxe\)](https://open.spotify.com/album/0M0Sx4dtPtLPRaJdg0ybGt) | 3:21 |
-| 86 | [Black Feather](https://open.spotify.com/track/3ClzKeVBh3Aggb9xaA60YO) | [Greg Keelor](https://open.spotify.com/artist/1uY1yygywc5FqBISxIGHRE) | [Share the Love](https://open.spotify.com/album/5MKFztdFHD9ECB8CkpKDkG) | 3:21 |
-| 87 | [Waiting](https://open.spotify.com/track/7r11jKPVH6VMMZrq2weXl0) | [Alyson McNamara](https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby) | [Waiting](https://open.spotify.com/album/23c8D4UMVMs5H4zvDkhwjJ) | 3:40 |
-| 88 | [Skinny Legs](https://open.spotify.com/track/7FzL4QOuXXd6htbMyMXBAi) | [Dana Sipos](https://open.spotify.com/artist/5F8FbH4EdvOZrM8DyFOad3) | [Skinny Legs](https://open.spotify.com/album/3gZCCo0FT5Zlrvll9iGMrF) | 3:25 |
-| 89 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 |
-| 90 | [It's Only Love](https://open.spotify.com/track/7ffDwJqt9QSia8H5rEDGpE) | [Vicki Brittle](https://open.spotify.com/artist/2f1dWhnYhr0nXjiZol2zfJ) | [It's Only Love](https://open.spotify.com/album/4GEvYuqk8XQ8nKA9HK8Boq) | 3:13 |
-| 91 | [Juniper](https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 2:39 |
-| 92 | [Walking Wounded](https://open.spotify.com/track/1Csuelaz28su9FOIubAA7b) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Walking Wounded](https://open.spotify.com/album/7fs0iXeEDfTnA2J4elvZHu) | 2:50 |
-| 93 | [While We Wait For The Sun To Rise](https://open.spotify.com/track/7dOvcHRRbuWLU1bqso4Bet) | [Craig Stickland](https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K) | [While We Wait For The Sun To Rise](https://open.spotify.com/album/3rnT2HBtivj3jtwPFjAj49) | 3:16 |
-| 94 | [Japan](https://open.spotify.com/track/0hREmEVmD1culIVeShGzwo) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:14 |
-| 95 | [Good Things](https://open.spotify.com/track/1oqGOxkwnI7FbvRXJUVKER) | [Sam Kaiser](https://open.spotify.com/artist/36U2ZqoHfSHMraW6SCEOkw) | [Good Things](https://open.spotify.com/album/3a7WaTMrg19H0iabtvdL8n) | 2:19 |
-| 96 | [that'd be alright](https://open.spotify.com/track/0XQhs9ovprk2yw0QkDjevN) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Wanted You to Know](https://open.spotify.com/album/6uXhW6yZWHxBMeLlYTEpa6) | 2:58 |
-| 97 | [Houston TX](https://open.spotify.com/track/1YoTyrikfkZLGE4RHSylVt) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2vaKoQYr3h9UjH4QvziCRO) | 5:17 |
-| 98 | [Keeping Time](https://open.spotify.com/track/2dzeI4sQBhKRyWSGVZwpFa) | [Sam Lynch](https://open.spotify.com/artist/3gIjrIxD8n3BSYH9OqkHLL) | [Little Disappearance](https://open.spotify.com/album/0gMlHbUyWtTK9WjERopNjh) | 4:24 |
-| 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
-| 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MCxjNDNkMWQyY2UyYTY3YjgxZDFmZGQ2ZGJlOTZlNTY4ZTNjYjNlMGE4`
+Snapshot ID: `MCxhODVjYzc2ODBjNzQxMjNlYzY0MWM1YzM1YmQ3MDczZGJhNmJiNGUw`

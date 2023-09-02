@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-333 songs - 19 hr 13 min
+335 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,10 @@
 | [Adiós Amor](https://open.spotify.com/track/0tC1zHCNIMpzv9Q44rTdmf) | [Juan José Piedrabuena](https://open.spotify.com/artist/4p0y36j62bcbAG6Hl0DjUe) | [Adiós Amor](https://open.spotify.com/album/2yIoKg3iN3oXgG8L4zx2fE) | 4:38 | 2022-04-01 | 2022-06-03 |
 | [Adiós Amor](https://open.spotify.com/track/367069JY6QWPaCJM21OVBC) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e) | 4:19 | 2023-08-11 |  |
 | [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 | 2023-04-03 |  |
-| [Agüita](https://open.spotify.com/track/5iPKyio003pi14w0xjXR5m) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Megamix](https://open.spotify.com/album/3Cbl0a3SPzkwd0537ju3WS) | 3:33 | 2023-04-11 |  |
+| [Agüita](https://open.spotify.com/track/5iPKyio003pi14w0xjXR5m) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Megamix](https://open.spotify.com/album/3Cbl0a3SPzkwd0537ju3WS) | 3:33 | 2023-04-11 | 2023-09-02 |
 | [Agüita](https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:34 | 2022-01-14 | 2023-01-21 |
 | [Ahora Que Te Vas](https://open.spotify.com/track/5rsFQUSjouRx188w4O0xMm) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Ahora Que Te Vas](https://open.spotify.com/album/40XAu7HbtYFVUxTP32UyFj) | 2:45 | 2022-07-15 | 2022-07-23 |
+| [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 | 2023-09-01 |  |
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2022-01-14 | 2022-07-28 |
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 |  |
 | [Amiga Luna](https://open.spotify.com/track/3SCeRLJf7mG8DHUKCigB8o) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Amiga Luna](https://open.spotify.com/album/40zRnWMahboZXFQdVlG1Rz) | 3:27 | 2022-07-22 | 2022-08-13 |
@@ -277,6 +278,7 @@
 | [Te Extraño :\(](https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Extraño :\(](https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ) | 2:45 | 2022-04-01 | 2022-05-23 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 | 2022-01-14 |  |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/7x0Y9NVem9mV0Ly4DDf5G2) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Te Juro Que Te Amo](https://open.spotify.com/album/2HfZ9Nip6khFvSEeodwOtf) | 3:45 | 2022-07-22 | 2022-08-13 |
+| [Te Juro Que Te Amo](https://open.spotify.com/track/5Y3n9BcwwtJPPilw4GMaII) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Te Juro Que Te Amo](https://open.spotify.com/album/57uOjRBETAv53834da99GP) | 4:03 | 2023-09-01 |  |
 | [Te sorprenderás / Hasta el sol de hoy \- Live Session](https://open.spotify.com/track/4FpsFwMMjiHgyx8xjpgzN7) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Te sorprenderas / Hasta el sol de hoy \(Live Session\)](https://open.spotify.com/album/0DkqXH8VLBX0HaonaiXCCt) | 2:51 | 2023-03-27 | 2023-04-11 |
 | [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 | 2022-01-14 | 2022-07-29 |
 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 | 2022-07-22 |  |
@@ -298,7 +300,7 @@
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 2:56 | 2022-01-14 | 2023-04-22 |
 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2022-01-14 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2022-01-14 |  |
-| [Una Ráfaga De Amor](https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Soplando Fuerte / Un Fenómeno Natural](https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC) | 3:02 | 2023-03-10 |  |
+| [Una Ráfaga De Amor](https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Soplando Fuerte / Un Fenómeno Natural](https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC) | 3:02 | 2023-03-10 | 2023-09-02 |
 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 | 2022-01-14 | 2023-03-12 |
 | [Universo Paralelo](https://open.spotify.com/track/22n1UnKbR0UJ5X9aeFp7q9) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH) | [Universo Paralelo](https://open.spotify.com/album/5gnjPQ0JAaGvAHrfoOWdj4) | 3:14 | 2022-05-06 | 2022-06-22 |
 | [Uno Por Uno](https://open.spotify.com/track/1d4bXRdIkRHVRaLfLZ6RUC) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Uno Por Uno](https://open.spotify.com/album/4G641SUHN158u1USlkh9zx) | 2:57 | 2022-01-21 | 2022-06-12 |

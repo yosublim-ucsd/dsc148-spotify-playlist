@@ -4,7 +4,7 @@
 
 > Nuevo rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-172 songs - 9 hr 44 min
+177 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 | 2023-03-23 | 2023-08-26 |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2023-03-23 |  |
 | [Baño de Sangre](https://open.spotify.com/track/1MjJ5ZFLo0qtZyeBPr7Nfj) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Adorno](https://open.spotify.com/album/7JUOpq60jz3lRHQ7p7SROj) | 2:40 | 2022-03-25 | 2023-03-25 |
+| [Bitcha](https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [Bitcha](https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK) | 3:34 | 2023-09-01 |  |
 | [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 | 2022-03-25 | 2023-03-25 |
 | [Botas Texanas](https://open.spotify.com/track/3NRoOXIRa9IAwuPJIPtVvA) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Botas Fuego Desierto](https://open.spotify.com/album/6icLZ05smifqFPVRl2Q66L) | 2:37 | 2023-03-23 |  |
 | [Cancion de Julio Verne](https://open.spotify.com/track/2o8fDSQ7LV6X8rAKUcS5aE) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [PAOLETTI..\. En la ruta del árbol, en busca de la canción perfecta..\. VERSIONES](https://open.spotify.com/album/3fw0qnrZlKJeg6Mco0LPCC) | 3:22 | 2022-03-25 | 2023-03-25 |
@@ -36,6 +37,7 @@
 | [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 | 2023-03-23 |  |
 | [Change Your Mind](https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Change Your Mind](https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe) | 2:27 | 2023-08-25 |  |
 | [Chica Gotika](https://open.spotify.com/track/68y3JRBvaHyXLt826P5mx7) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Puro Teatro](https://open.spotify.com/album/5re0i0plWzfzkkmuPvhAeK) | 3:07 | 2023-03-31 |  |
+| [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 | 2023-09-01 |  |
 | [Chinos Ojos Rojos](https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T) | 4:15 | 2023-06-30 |  |
 | [Chinos Ojos Rojos](https://open.spotify.com/track/3cb28GOgdp8DlKXTsGdQVy) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Algo Para Decirte](https://open.spotify.com/album/6AloR8KVFPXviE8zR0BACr) | 4:15 | 2023-06-30 | 2023-07-04 |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-03-25 | 2023-03-25 |
@@ -79,6 +81,8 @@
 | [Escama de Vidrio](https://open.spotify.com/track/5QZxXTbHLmMJUYXalKzG8r) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Escama de Vidrio](https://open.spotify.com/album/0vrGLXduShkvcTfJSccHss) | 3:38 | 2023-03-23 |  |
 | [Escape a Plutón](https://open.spotify.com/track/77p7tm1xAoZaMIouZNKkPp) | [Fútbol](https://open.spotify.com/artist/3F4LyTOlwym0YQmYBlbAAf), [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Escape a Plutón](https://open.spotify.com/album/50jmo3TCxTOYM1yBIpykqm) | 2:23 | 2022-03-25 | 2023-03-25 |
 | [Escurridiza](https://open.spotify.com/track/5wLMgRfTU6darBQ2X1DkeN) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [El Resto de los Días](https://open.spotify.com/album/0XqoGBuZ30uBpXlfBlSQx5) | 3:20 | 2022-03-25 | 2023-03-25 |
+| [Esquivando Balas](https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Esquivando Balas](https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3) | 2:23 | 2023-09-01 |  |
+| [Fantasma](https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Fantasma](https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo) | 3:20 | 2023-09-01 |  |
 | [Fantasmas](https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Fantasmas](https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc) | 3:29 | 2022-03-25 | 2023-03-25 |
 | [febrero](https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [aeropuerto](https://open.spotify.com/album/3ugKv9ex4bNGJAEsBs8Igu) | 3:33 | 2023-03-31 |  |
 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 | 2023-05-05 |  |
@@ -155,6 +159,7 @@
 | [Soy del Río](https://open.spotify.com/track/7AiqcYIPa3avpgW26fNFdA) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Transeúntes](https://open.spotify.com/artist/5c7ZnZV7FK9QnX18a3JMfU) | [Soy del Río](https://open.spotify.com/album/330kotZDGpRWJMZSw20DWc) | 5:02 | 2022-03-25 | 2023-03-25 |
 | [Soñé](https://open.spotify.com/track/2d6R7kgl5nhJLn71ErZAtv) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Soñé](https://open.spotify.com/album/5Fq4RZOFCKPFWBete3tCJM) | 2:50 | 2022-03-25 | 2023-03-25 |
 | [SSS](https://open.spotify.com/track/65oZKir6ny5i3WSfvb0sYu) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [SSS](https://open.spotify.com/album/37jCf1bbH4ObPuODgrgrSI) | 2:55 | 2022-03-25 | 2023-03-25 |
+| [Su Forma de Mirar](https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Su Forma de Mirar](https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb) | 4:50 | 2023-09-01 |  |
 | [Terremoto](https://open.spotify.com/track/50fHlG70LL8olJ2e2kbFLW) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [DUM](https://open.spotify.com/album/2VHHU1Sr4sweqmFJXhk2dS) | 2:43 | 2023-03-23 |  |
 | [TKM](https://open.spotify.com/track/3IojTR6Zm6U9hnToRnW55L) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [TKM](https://open.spotify.com/album/2Qi4p3mBPmfTSyx6bCAEEX) | 2:34 | 2023-03-23 |  |
 | [Todas las Nubes](https://open.spotify.com/track/5vMs9SODiQdFHxkIfy5i1W) | [almanaques](https://open.spotify.com/artist/5s21kUHcl27S6FKsCEhskk) | [Todas las Nubes](https://open.spotify.com/album/3M372tMWYHEr8m5rsIknB1) | 2:51 | 2023-06-30 |  |

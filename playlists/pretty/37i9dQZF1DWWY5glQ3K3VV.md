@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,371 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,462 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 71 | [Boogieman \(feat\. Salmo\)](https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:39 |
 | 72 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 |
 | 73 | [OFFLINE \(feat\. VillaBanks\)](https://open.spotify.com/track/3qlDeIWsa8ihI0iqiUPE52) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [OFFLINE \(feat\. VillaBanks\)](https://open.spotify.com/album/4IqPSH11Jo214e7QycL678) | 2:45 |
-| 74 | [Porto Cervo](https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Porto Cervo](https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ) | 3:55 |
-| 75 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
+| 74 | [No y No](https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No y No](https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4) | 4:15 |
+| 75 | [Porto Cervo](https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Porto Cervo](https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ) | 3:55 |
 | 76 | [Bando](https://open.spotify.com/track/0kzGjSRHGVcaWxagzQwAyD) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Bando](https://open.spotify.com/album/3UtdQcbHhNlEi79pS3282l) | 2:48 |
 | 77 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
 | 78 | [Gli Occhi del Blocco \(feat\. Escomar\)](https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [EP1](https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP) | 2:55 |
 | 79 | [DREAM TEAM \(feat\. Dylan, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 2:38 |
 | 80 | [Candy](https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p), [Bovychulo](https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI) | [Non Lo So](https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa) | 2:22 |
 
-Snapshot ID: `MCwyNTEwMjBmNGMzZDlmMGZhY2I2N2ZkNzJlNmE2MDdmNWU5MmY2YmMw`
+Snapshot ID: `MCxjNjIxYjcyYzVlNDc4NWZhNTVhMjhhMTg4NDUwNzk3MGE5YjE5ZTM1`

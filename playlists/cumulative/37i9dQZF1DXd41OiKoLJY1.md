@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: KV Artwork: Isu Kim
 
-1,624 songs - 4 day 0 hr 40 min
+1,625 songs - 4 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [I Like U Too That Much](https://open.spotify.com/track/4BsMmxT9irkS7nJiiVqnvD) | [Sofia San Diego](https://open.spotify.com/artist/1ElmVsVcMKhOKaPSEN1LbN) | [I Like U Too That Much](https://open.spotify.com/album/2OA5OVBAycTlCi5dJ3O2cn) | 4:01 | 2023-05-25 | 2023-06-16 |
 | [i like you so much you'll know it](https://open.spotify.com/track/6iFY18UXOW7s8LC6JRGq0S) | [jxsiah](https://open.spotify.com/artist/3Bz4XpTRzteHVwbvBA5QEM) | [i like you so much you'll know it](https://open.spotify.com/album/6eoUd8Nkl4z2edVVVrZa27) | 3:17 | 2023-07-13 | 2023-07-28 |
 | [I Might](https://open.spotify.com/track/7e9IMl7IOPlZTn18OyduZ8) | [ATTABABE](https://open.spotify.com/artist/6BYaPdYR6KqhX8ey8FPLzC) | [I Might](https://open.spotify.com/album/6djqHfklTCUgrxoP7ZfU2b) | 2:04 | 2023-04-20 | 2023-05-05 |
+| [i might need u](https://open.spotify.com/track/3ALVrfTdXJfYNb5WE0udW3) | [Dani Saldo](https://open.spotify.com/artist/7y1Al7FB0GXDQCyh1wNTsH) | [i might need u](https://open.spotify.com/album/4nXemnh4tScmeapaFobJww) | 3:09 | 2023-08-31 |  |
 | [I Stand](https://open.spotify.com/track/6iTvphQDSuCYhVIz3oMbY7) | [New Direction](https://open.spotify.com/artist/7My3SOxFHwUw045NAVVAVL) | [I Stand](https://open.spotify.com/album/15tb9drKCIl4MhddjNWqy9) | 4:59 | 2022-09-08 | 2022-11-25 |
 | [I Think We're On To Something Good](https://open.spotify.com/track/3DOq7JBSU0B8aJgBsSfjTU) | [Aviators](https://open.spotify.com/artist/2vmvpWETFkoV9Xy5hqIhjE) | [I Think We're On To Something Good](https://open.spotify.com/album/6ZZTyE2A2JtV4OlkYsFVfJ) | 4:46 | 2022-01-27 | 2022-02-11 |
 | [I Try](https://open.spotify.com/track/0c6BiuOghr9mLz7NcLnHAb) | [Franciskoe](https://open.spotify.com/artist/73s6RRWrA8DakmvmS4o8ae) | [I Try](https://open.spotify.com/album/20cERezZsE9PvPoEqwmB2B) | 3:05 | 2022-05-19 | 2022-07-22 |

@@ -2,9 +2,9 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Altaf
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- MC STAN
 
-103 songs - 5 hr 36 min
+104 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aasman](https://open.spotify.com/track/2yjTCFakcjqnglgYKUIg59) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [DEB](https://open.spotify.com/artist/1kRqyOs7RYeov3V6b9T86c) | [Aasman](https://open.spotify.com/album/5v11jzytJxoinU1wAdrZMu) | 2:44 | 2023-03-17 | 2023-04-25 |
 | [ALAG BT](https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [ALAG BT](https://open.spotify.com/album/0w17qtUDmxXdh5fsHynOCm) | 3:20 | 2023-03-17 |  |
 | [AS\-SALAM WALEKUM](https://open.spotify.com/track/58mMBQGiA8I8ROLvIFZxB2) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [AS\-SALAM WALEKUM](https://open.spotify.com/album/51NQPN3maAr1O8Z6ZLMOyx) | 4:14 | 2023-03-17 | 2023-04-25 |
-| [Aur Karo](https://open.spotify.com/track/1kl7RMYQA3jIN182UyscqG) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Spitfire](https://open.spotify.com/artist/54QveaJeGQsf0783I52FzJ), [Rākhis](https://open.spotify.com/artist/45kuS1r5gugHQMXs54HOp6) | [Aur Karo](https://open.spotify.com/album/3D4e4A9zuxKEf9tiAAZwkb) | 2:58 | 2023-03-17 |  |
+| [Aur Karo](https://open.spotify.com/track/1kl7RMYQA3jIN182UyscqG) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Spitfire](https://open.spotify.com/artist/54QveaJeGQsf0783I52FzJ), [Rākhis](https://open.spotify.com/artist/45kuS1r5gugHQMXs54HOp6) | [Aur Karo](https://open.spotify.com/album/3D4e4A9zuxKEf9tiAAZwkb) | 2:58 | 2023-03-17 | 2023-09-02 |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2023-03-17 |  |
 | [Baby](https://open.spotify.com/track/2XjiyyNS20muEJRYbZRvf5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Baby](https://open.spotify.com/album/3yeiFwPcosFD2gmlDybInx) | 2:43 | 2023-03-17 | 2023-04-25 |
 | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/album/1xdYAwQDw8Dp7AxD0ubUul) | 3:42 | 2023-03-17 | 2023-04-25 |
@@ -80,6 +80,7 @@
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-17 | 2023-04-25 |
 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 | 2023-03-17 | 2023-04-25 |
 | [No Competition](https://open.spotify.com/track/1TRgZ55GFCKSbrTb62rmra) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/68t62rh4vZdIErvhqQG4kq) | 3:25 | 2023-03-17 | 2023-04-25 |
+| [Nusta Paisa](https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Nusta Paisa](https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO) | 3:40 | 2023-09-01 |  |
 | [Ou!](https://open.spotify.com/track/1Aw7EMr47zy7VcGFLK0Lhi) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [AAKASH](https://open.spotify.com/artist/5pJz56mXmC3bb0cIG5Ghen) | [Autobiography](https://open.spotify.com/album/6ZGUav7u1qrms2VNsl0fXD) | 2:45 | 2023-03-17 |  |
 | [Paani Mai](https://open.spotify.com/track/2uZIDDc5SNLX2Uz32eVGdk) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE), [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Paani Mai](https://open.spotify.com/album/3kzaM0NBEq8shofZoDo1gZ) | 2:47 | 2023-03-17 | 2023-04-25 |
 | [Pain](https://open.spotify.com/track/0nToyYtzT9TJz6vyGfbjjv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [8 Saal](https://open.spotify.com/album/4ppS997jcubnUnQiHlyuSz) | 3:20 | 2023-03-17 | 2023-04-25 |
@@ -98,7 +99,7 @@
 | [Satya](https://open.spotify.com/track/1xSCr5uIndaHKFdO4s2V6B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2023-03-17 |  |
 | [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-17 | 2023-08-04 |
 | [Shana Bann](https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Shana Bann](https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn) | 3:48 | 2023-03-17 |  |
-| [Shehnai](https://open.spotify.com/track/2ywkj6sjyVBmq46wgIgIlw) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 2:33 | 2023-03-17 |  |
+| [Shehnai](https://open.spotify.com/track/2ywkj6sjyVBmq46wgIgIlw) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 2:33 | 2023-03-17 | 2023-09-02 |
 | [Shy](https://open.spotify.com/track/4oIAC4u2X5yti76y62twzs) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Shy](https://open.spotify.com/album/2DLeX2WeY7j5nQdJaRkAG6) | 2:49 | 2023-03-17 |  |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2023-03-17 | 2023-04-25 |
 | [SOCH](https://open.spotify.com/track/6fexssu7i0gEbFcsm0U9ar) | [Dopeadelicz](https://open.spotify.com/artist/4HqaCsAhhMF8t4ExOwugpK), [Captain Fuse](https://open.spotify.com/artist/0k7mjIymx7jlsAvFziZk2W), [Dope Daddy](https://open.spotify.com/artist/6xuK3kfFTCwAzlKabusMfv) | [SOCH](https://open.spotify.com/album/748YA661UjhBabYijwUofu) | 3:10 | 2023-03-17 | 2023-04-25 |
@@ -109,7 +110,7 @@
 | [TRIP MAT KAR](https://open.spotify.com/track/7Ak7f6GnTlpt49j3j67bxE) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [AAKASH](https://open.spotify.com/artist/5pJz56mXmC3bb0cIG5Ghen) | [TRIP MAT KAR](https://open.spotify.com/album/7inFCo1zloYpwwJMarYET5) | 2:23 | 2023-03-17 | 2023-04-25 |
 | [Vichaar](https://open.spotify.com/track/4thERaKSQ1BY0TjEPdJbvw) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Rākhis](https://open.spotify.com/artist/45kuS1r5gugHQMXs54HOp6) | [Vichaar](https://open.spotify.com/album/5QXqqTxKpXR9ewBXXbaebs) | 3:12 | 2023-03-17 | 2023-04-25 |
 | [VN4 \(GATI\)](https://open.spotify.com/track/7Chg1YwWvwTDbz5NX6XoWU) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Robu](https://open.spotify.com/artist/5s3iXQgBxJvFSQVviVilbt) | [VN4 \(GATI\)](https://open.spotify.com/album/1pAM47rC9ycX5d66CAhG2R) | 2:57 | 2023-03-17 | 2023-04-25 |
-| [White Collar](https://open.spotify.com/track/5xRl4qsBxLfinqEDc7ODqi) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ) | [White Collar](https://open.spotify.com/album/2ys864mxUfS4J1qiiJUz4d) | 2:59 | 2023-03-17 |  |
+| [White Collar](https://open.spotify.com/track/5xRl4qsBxLfinqEDc7ODqi) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ) | [White Collar](https://open.spotify.com/album/2ys864mxUfS4J1qiiJUz4d) | 2:59 | 2023-03-17 | 2023-09-02 |
 | [Young King](https://open.spotify.com/track/3DNBXEXQSU18Ufq0IqboF7) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DEB](https://open.spotify.com/artist/1kRqyOs7RYeov3V6b9T86c) | [Young King](https://open.spotify.com/album/101INuhkIfoZ6pXtqiwJ8J) | 2:32 | 2023-08-11 |  |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

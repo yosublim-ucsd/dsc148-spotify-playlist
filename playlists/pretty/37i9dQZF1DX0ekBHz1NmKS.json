@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195540,
+  "num_followers": 195557,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDhkYzljMmZmMDYxNTRhNjg5NDkyZjk4MDE0OGJkMGE2N2I4NWQ1",
+  "snapshot_id": "MCwwOGEyODc2YzZlZDBkYzAxZTE4MDRhMzFhYTA1MWQyNGNmYmU0ODYw",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Andas in andas ut",
-        "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 156760,
-      "name": "Andas in andas ut",
-      "url": "https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Elevator Eyes",
         "url": "https://open.spotify.com/album/3EV8D8ljJf9bxlWCbpzmTJ"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 178352,
       "name": "Elevator Eyes",
       "url": "https://open.spotify.com/track/1xaI8BC30DDf9RDQSWyonb"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Andas in andas ut",
+        "url": "https://open.spotify.com/album/4Hy5SVsOUpO5ggDl3xOyen"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 156760,
+      "name": "Andas in andas ut",
+      "url": "https://open.spotify.com/track/7tHkIqI9XU8qCfLHIzl0pp"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
-        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 183764,
-      "name": "Heaven med dig",
-      "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 154125,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
+        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 183764,
+      "name": "Heaven med dig",
+      "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Tappat - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 150543,
-      "name": "Tappat - Spotify Singles",
-      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "The Way You Had Me",
         "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 190423,
       "name": "The Way You Had Me",
       "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Tappat - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 150543,
+      "name": "Tappat - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Genom eld (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Genom eld - Spotify Singles",
-      "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Sommaren",
         "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
       },
@@ -1063,6 +1047,78 @@
       "duration_ms": 173030,
       "name": "Sommaren",
       "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Genom eld (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Genom eld - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Easy Go!",
+        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 150308,
+      "name": "Easy Go!",
+      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Like The River",
+        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
+      },
+      "artists": [
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Like The River",
+      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2022 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Rymden och tillbaks",
+      "url": "https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1107,26 +1163,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2022 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        },
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Rymden och tillbaks",
-      "url": "https://open.spotify.com/track/37CgRnlN3p5eeIv9ZLKBw5"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "V\u00e4ntar p\u00e5 en solig dag",
         "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
@@ -1139,22 +1175,6 @@
       "duration_ms": 323186,
       "name": "V\u00e4ntar p\u00e5 en solig dag",
       "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Easy Go!",
-        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
-      },
-      "artists": [
-        {
-          "name": "Raghd",
-          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
-        }
-      ],
-      "duration_ms": 150308,
-      "name": "Easy Go!",
-      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1207,22 +1227,18 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Like The River",
-        "url": "https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ"
+        "name": "Vet Hon Om?",
+        "url": "https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K"
       },
       "artists": [
         {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        },
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
         }
       ],
-      "duration_ms": 166991,
-      "name": "Like The River",
-      "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
+      "duration_ms": 184773,
+      "name": "Vet Hon Om?",
+      "url": "https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1243,22 +1259,6 @@
       "duration_ms": 167566,
       "name": "Shit We Do For Love",
       "url": "https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Vet Hon Om?",
-        "url": "https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Vet Hon Om?",
-      "url": "https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "She Fell In Love In The Summer",
+        "url": "https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 172215,
+      "name": "She Fell In Love In The Summer",
+      "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Dirt Femme",
         "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 180617,
       "name": "Cute & Cruel (feat. First Aid Kit)",
       "url": "https://open.spotify.com/track/3DINd29wTWdZEiH7JS0G0W"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "She Fell In Love In The Summer",
-        "url": "https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 172215,
-      "name": "She Fell In Love In The Summer",
-      "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Dina \u00d6gon",
-        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "Undantag",
-      "url": "https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "Undantag",
+      "url": "https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Du f\u00f6rtj\u00e4nar det",
         "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
       },
@@ -1423,38 +1423,6 @@
       "duration_ms": 199657,
       "name": "Du f\u00f6rtj\u00e4nar det",
       "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 202686,
-      "name": "A Bowl of Unripe Fruit",
-      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Nattbuss",
-        "url": "https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ"
-      },
-      "artists": [
-        {
-          "name": "Fricky",
-          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
-        }
-      ],
-      "duration_ms": 206321,
-      "name": "Nattbuss",
-      "url": "https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1479,6 +1447,38 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Nattbuss",
+        "url": "https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ"
+      },
+      "artists": [
+        {
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+        }
+      ],
+      "duration_ms": 206321,
+      "name": "Nattbuss",
+      "url": "https://open.spotify.com/track/1kZQyJRQi9PcWwzpPHVxwc"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 202686,
+      "name": "A Bowl of Unripe Fruit",
+      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "late night thoughts",
         "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
       },
@@ -1491,106 +1491,6 @@
       "duration_ms": 153905,
       "name": "wait it out",
       "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Henry St.",
-        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Every Little Heart",
-      "url": "https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Oas",
-        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Wonderchild - Spotify Singles",
-        "url": "https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 221580,
-      "name": "Wonderchild - Spotify Singles",
-      "url": "https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Vatten",
-        "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 198986,
-      "name": "Socker Och Vatten",
-      "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "THRILLER (with Clara Mae)",
-        "url": "https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE"
-      },
-      "artists": [
-        {
-          "name": "DREAMDNVR",
-          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 161124,
-      "name": "THRILLER (with Clara Mae)",
-      "url": "https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Grammofon",
-        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 189625,
-      "name": "Grammofon",
-      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1615,18 +1515,34 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Sun In Her Eyes",
-        "url": "https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj"
+        "name": "Henry St.",
+        "url": "https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9"
       },
       "artists": [
         {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 200016,
-      "name": "Sun In Her Eyes",
-      "url": "https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN"
+      "duration_ms": 189920,
+      "name": "Every Little Heart",
+      "url": "https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Wonderchild - Spotify Singles",
+        "url": "https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 221580,
+      "name": "Wonderchild - Spotify Singles",
+      "url": "https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1640,9 +1556,77 @@
           "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 197297,
-      "name": "Oas",
-      "url": "https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o"
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "THRILLER (with Clara Mae)",
+        "url": "https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE"
+      },
+      "artists": [
+        {
+          "name": "DREAMDNVR",
+          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 161124,
+      "name": "THRILLER (with Clara Mae)",
+      "url": "https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Vatten",
+        "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Socker Och Vatten",
+      "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Grammofon",
+        "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 189625,
+      "name": "Grammofon",
+      "url": "https://open.spotify.com/track/6wT8TBV3CkKbNvuDjxeGaa"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Sun In Her Eyes",
+        "url": "https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 200016,
+      "name": "Sun In Her Eyes",
+      "url": "https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1695,18 +1679,42 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Where the Tragic Happens",
-        "url": "https://open.spotify.com/album/5wyVPQL9ZCTrYMpjjjV4Bo"
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
       },
       "artists": [
         {
-          "name": "joel",
-          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 173854,
-      "name": "We Fall in Love Sometimes",
-      "url": "https://open.spotify.com/track/1PVx0wTCogf93dgfIDvn1a"
+      "duration_ms": 197297,
+      "name": "Oas",
+      "url": "https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Missaoui",
+        "url": "https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs"
+        },
+        {
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+        },
+        {
+          "name": "Academics",
+          "url": "https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg"
+        }
+      ],
+      "duration_ms": 283626,
+      "name": "Landet i fj\u00e4rran",
+      "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
     }
   ],
   "unique_name": "Made in Sweden",

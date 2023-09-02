@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        },
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347352,
+      "name": "Batebca",
+      "url": "https://open.spotify.com/track/7GxzwWe1sMhvoLpgs7wUVM"
+    },
+    {
+      "album": {
         "name": "Bicicleta / Beta Menina - Single",
         "url": "https://open.spotify.com/album/20ObPCdWc08A2cNdc7mlP4"
       },
@@ -334,7 +356,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 127773,
       "name": "Esperar pra Ver",
       "url": "https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw"
@@ -486,7 +508,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 181427,
       "name": "Ginga",
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
@@ -878,6 +900,28 @@
       "duration_ms": 225293,
       "name": "Se voc\u00ea for a salvador",
       "url": "https://open.spotify.com/track/4SC06muayGtoMEpQjRFUs0"
+    },
+    {
+      "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        },
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214516,
+      "name": "Sem Essa",
+      "url": "https://open.spotify.com/track/2Rprdj1SMhNKMG1Barkggm"
     },
     {
       "album": {

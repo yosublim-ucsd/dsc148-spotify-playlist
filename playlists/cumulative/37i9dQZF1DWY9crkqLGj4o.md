@@ -4,7 +4,7 @@
 
 > Lavando e louvando a Deus com grandes hinos.
 
-177 songs - 17 hr 9 min
+178 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Eu Me Rendo](https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Renascer Praise 13: A Colheita](https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1) | 6:12 | 2021-12-03 | 2022-07-29 |
 | [Eu Sou \- Ao Vivo](https://open.spotify.com/track/1CnSl7glGbo9OjyogP6ySo) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Sou \(ao Vivo\)](https://open.spotify.com/album/0I8holUGbLU6nHhHSo6d0a) | 5:46 | 2021-12-03 | 2022-07-26 |
 | [Eu Só Posso Imaginar \- Ao Vivo](https://open.spotify.com/track/5vvNeeFvV9YW3o9CwyLXUr) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Eu Só Posso Imaginar \(Ao Vivo\)](https://open.spotify.com/album/1gfXqf6zUPnrFTIbswW8pb) | 4:41 | 2022-04-15 | 2022-04-21 |
+| [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 | 2023-09-01 |  |
 | [Eu Te Vejo Em Tudo](https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 5:46 | 2022-04-15 |  |
 | [Eu Te Vejo Em Tudo](https://open.spotify.com/track/4HBaK1oMKuH6KYEVCJq1pg) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Davi Passamani](https://open.spotify.com/artist/4vdrXRQmJwXZHXp1DifI0w), [Helena Albernaz](https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7) | [Eu Te Vejo Em Tudo](https://open.spotify.com/album/3abAqWvfPR7m9nqfSjnAfh) | 5:46 | 2021-12-03 | 2022-07-29 |
 | [Família](https://open.spotify.com/track/1AH6gnyaNEnBg5ax7yWEwG) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Família](https://open.spotify.com/album/0hSaTJ7FyzlYdCPVwWRwsM) | 5:26 | 2021-12-03 | 2022-07-29 |
@@ -139,7 +140,7 @@
 | [Posso Clamar](https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Collection ao Vivo 10 Anos](https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6) | 5:34 | 2021-12-03 | 2022-07-25 |
 | [Pra Sempre \- Ao Vivo](https://open.spotify.com/track/6daxeU4amOK8WbBVnRFSCz) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:44 | 2022-04-15 | 2022-04-18 |
 | [Preciso de Ti \- Ao Vivo](https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Preciso de Ti \- Diante do Trono 4 \(Ao Vivo\)](https://open.spotify.com/album/5vrfIrq5JvyIo3rjtO9BTN) | 15:19 | 2021-12-03 |  |
-| [Primeiro Amor](https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 3:28 | 2021-12-03 |  |
+| [Primeiro Amor](https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 3:28 | 2021-12-03 | 2023-09-02 |
 | [Primeiro Amor \- Ao Vivo](https://open.spotify.com/track/22Yk1yPGtoAaJMUJEFlco2) | [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui), [Victor Valente](https://open.spotify.com/artist/0bvD77fzjmlT6znB31jexq) | [Primeiro Amor \(Ao Vivo\)](https://open.spotify.com/album/4EX79EK0UwQ98VRwK3jVwd) | 12:27 | 2022-04-15 | 2022-07-25 |
 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 | 2021-12-03 |  |
 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 | 2021-12-03 | 2023-07-29 |

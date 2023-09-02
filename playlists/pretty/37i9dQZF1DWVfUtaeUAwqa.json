@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7368,
+  "num_followers": 7370,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDdkNjhhZGRlOGMzYWVmOTlhYmI1YTE4ODA5NjA3YWNjZGVlNjYx",
+  "snapshot_id": "MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -647,6 +647,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Mardi Gras Parade Music from New Orleans",
+        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
+      },
+      "artists": [
+        {
+          "name": "Sharkey Bonano",
+          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
+        }
+      ],
+      "duration_ms": 285139,
+      "name": "While We Danced at Mardi Gras",
+      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 179573,
       "name": "Roses of Picardy",
       "url": "https://open.spotify.com/track/2eksoro6WHBtJzAO4HdXar"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "Mardi Gras Parade Music from New Orleans",
-        "url": "https://open.spotify.com/album/6NCyS4G2gDofmdtpSSoR6o"
-      },
-      "artists": [
-        {
-          "name": "Sharkey Bonano",
-          "url": "https://open.spotify.com/artist/4o2zkCpWF0zLf7NNpm7ZJM"
-        }
-      ],
-      "duration_ms": 285139,
-      "name": "While We Danced at Mardi Gras",
-      "url": "https://open.spotify.com/track/3lpUzWKVWykt3fDIPp7P9d"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -747,6 +747,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "The Al Hirt Collection",
+        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Bill Bailey, Won't You Please Come Home?",
+      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "New Orleans to Lyon, Vol. 1",
         "url": "https://open.spotify.com/album/1aeqEOzWMKydJN0X6W1VmB"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 440306,
       "name": "Algiers Strut",
       "url": "https://open.spotify.com/track/3kU40vSWnxsZguL1mdJ4Zx"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Al Hirt Collection",
-        "url": "https://open.spotify.com/album/00jmMG4M1sEZReLNB0eWdp"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Bill Bailey, Won't You Please Come Home?",
-      "url": "https://open.spotify.com/track/7ECMjzijToQMIBQKWWMm8o"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -867,6 +867,22 @@
       "duration_ms": 182360,
       "name": "Dixie",
       "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
+        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Jazz Me Blues",
+      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -943,22 +959,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
-        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "We're Gonna Have Smooth Sailing",
-      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "More Best of the Dukes of Dixieland, Vol. 2",
         "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Pete Fountain Presents The Best Of Dixieland: Al Hirt",
-        "url": "https://open.spotify.com/album/1odJRiGEXJp290FYxI01vE"
+        "name": "The Incomparable Henry Red Allen: The Golden Years, Vol. 2",
+        "url": "https://open.spotify.com/album/0ra114KUH3665xMzNqRhCK"
       },
       "artists": [
         {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Jazz Me Blues",
-      "url": "https://open.spotify.com/track/08T0MQg5rUtP72lZWfR7yB"
+      "duration_ms": 170866,
+      "name": "We're Gonna Have Smooth Sailing",
+      "url": "https://open.spotify.com/track/0O29WH3EatP3WEihCKufHa"
     },
     {
       "added_at": "2020-08-19 17:19:14",

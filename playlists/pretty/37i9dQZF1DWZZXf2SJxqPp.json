@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 125594,
+  "num_followers": 125639,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzYxMDVlZGY2MzYzYzkwNjJkZTU4ZjM4NGQ3ZDg5MzZmYzAyYTI3",
+  "snapshot_id": "MCw1NzcxZjQ4ZDgyMTlmZTcwYmJlNTAxYzExMGU1MTgzM2U4ZmJiNGI2",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "nice 2 me",
         "url": "https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 171622,
       "name": "nice 2 me",
       "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -851,30 +851,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "froge.mp3",
-        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
-      },
-      "artists": [
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        },
-        {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "beachin",
-      "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Satingarona, Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 317066,
       "name": "Heaven - Nicolas Jaar Remix",
       "url": "https://open.spotify.com/track/4WXIcBXdNAvsFKSMMqettI"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "beachin",
+      "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Juniore",
+        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A la plage",
+      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 287123,
       "name": "WALLS",
       "url": "https://open.spotify.com/track/4mUWS2M0eoM8jezmEJPbFh"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Juniore",
-        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
-      },
-      "artists": [
-        {
-          "name": "Juniore",
-          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A la plage",
-      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        }
-      ],
-      "duration_ms": 205948,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        }
+      ],
+      "duration_ms": 205948,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Kitsun\u00e9 Parisien 4",
         "url": "https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 213864,
       "name": "Huacachina",
       "url": "https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2023-08-14 14:58:41",

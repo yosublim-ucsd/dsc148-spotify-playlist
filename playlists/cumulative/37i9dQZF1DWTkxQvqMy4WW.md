@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-383 songs - 22 hr 0 min
+384 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Long Hot Summer Day](https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:12 | 2019-08-09 | 2020-02-06 |
 | [Look At You](https://open.spotify.com/track/7AK5vh1cRnO3YxAjOjL4Yy) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [Mabelle \- EP](https://open.spotify.com/album/5Oit2yRIGTqTegzWYjPl5j) | 3:15 | 2019-05-25\* | 2022-04-21 |
 | [Looking Back Now](https://open.spotify.com/track/37imLguIvWwDJNT6RGO2Qi) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Looking Back Now](https://open.spotify.com/album/47MPMs9cQemgI2ek85Rbqd) | 3:29 | 2023-08-04 |  |
+| [Looking for You](https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Looking for You + All Dogs Go to Heaven](https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j) | 2:59 | 2023-09-01 |  |
 | [Lose It](https://open.spotify.com/track/6GBndDk0OEpDkmKoSBJyyK) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Lose It](https://open.spotify.com/album/2HJhTeBJHvyQFAETnCPWgK) | 2:58 | 2019-05-25\* | 2022-04-17 |
 | [Love in a Bar](https://open.spotify.com/track/1ITz79C3v1z55dqPoSAl1O) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Ryan Hurd \- EP](https://open.spotify.com/album/6wVnoDiRPI8RDgQT2RH3PO) | 3:07 | 2019-06-26 | 2022-04-20 |
 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 | 2021-10-10 | 2022-04-18 |
@@ -285,7 +286,7 @@
 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 | 2019-05-25\* |  |
 | [Skin & Bones](https://open.spotify.com/track/3oRN2kgSMJOi9hOrXMdE96) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Fingerprints](https://open.spotify.com/album/7hB7e7ohExRC6Hfx5ftB7J) | 3:59 | 2019-05-29 | 2022-04-19 |
 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 | 2019-05-25\* |  |
-| [Small Town Boy](https://open.spotify.com/track/2YMhrXQYKkm4kXLcXKKd5z) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Current Mood](https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t) | 3:25 | 2019-10-26 |  |
+| [Small Town Boy](https://open.spotify.com/track/2YMhrXQYKkm4kXLcXKKd5z) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Current Mood](https://open.spotify.com/album/23cuZhPWDfX1uKD4qwuv7t) | 3:25 | 2019-10-26 | 2023-09-02 |
 | [Small Town Boy](https://open.spotify.com/track/045SnNDjOfOLKM5OxARH4g) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Small Town Boy](https://open.spotify.com/album/2sxgTyPtt0qBADFZ5uA15R) | 3:26 | 2019-06-21 | 2022-04-20 |
 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 | 2021-08-26 |  |
 | [Somebody Like That](https://open.spotify.com/track/62SvLj5dBDI9Ee3eBA0BxL) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/6Jetxgkv7jYVQJhyOBqAPa) | 3:18 | 2021-06-13 | 2022-07-29 |

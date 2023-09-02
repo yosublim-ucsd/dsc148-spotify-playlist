@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Doja Cat
 
-289 songs - 15 hr 0 min
+290 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 | 2023-03-16 | 2023-04-15 |
 | [Kush & Pussy \- Main](https://open.spotify.com/track/24m7yp3max1lyr0uvuKvbB) | [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Xcelence](https://open.spotify.com/artist/7ujXhV2D5N3DvOTc97pVdL) | [Kush & Pussy](https://open.spotify.com/album/2OJ3YvMERueWHCaGJ12WF9) | 2:40 | 2023-04-20 | 2023-06-09 |
 | [Last Days](https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Last Days](https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy) | 2:34 | 2023-07-28 | 2023-08-18 |
+| [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-08-31 |  |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-04-28 | 2023-05-19 |
 | [Leave the Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/album/1O90Qra7WiVZIaT4oHKSTU) | 3:42 | 2023-03-16 | 2023-05-05 |
 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 | 2023-06-15 | 2023-07-21 |

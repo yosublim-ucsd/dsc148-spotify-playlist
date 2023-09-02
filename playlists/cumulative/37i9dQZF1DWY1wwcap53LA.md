@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Michael Warren
 
-158 songs - 8 hr 8 min
+160 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-03 |  |
 | [Country Music Kinda Night](https://open.spotify.com/track/4Wf8kPwQBV8cHnsqL5pv6S) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Country Music Kinda Night](https://open.spotify.com/album/2pe1UpOt2v11m1ZhsDH47S) | 2:51 | 2023-02-17 |  |
 | [Damn Good Life](https://open.spotify.com/track/1lZHKcrQdO1pOxe5zlzIzI) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Damn Good Life](https://open.spotify.com/album/4xeFuswf5BhaHo8P0WcR8N) | 2:37 | 2022-09-23 |  |
+| [Don't Sit Right](https://open.spotify.com/track/1QfmAWoMdCxEKDINcoo39m) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Don't Sit Right](https://open.spotify.com/album/3jc2NUdhVwDlMIb8kfiTlG) | 3:21 | 2023-09-01 |  |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-03 |  |
 | [For My Dawgs \(feat\. Willie Jones & Blanco Brown\)](https://open.spotify.com/track/40jq22x0xSlHJ81KWZ1Hhm) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [For My Dawgs \(feat\. Willie Jones & Blanco Brown\)](https://open.spotify.com/album/2gbGuVrSjTMmPZ30HpPAC7) | 3:11 | 2023-04-21 |  |
 | [For The Streets](https://open.spotify.com/track/5tROWQU6vABrC3acyyV7vS) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [For The Streets](https://open.spotify.com/album/6VMVB69fgbERk8zYGN55f2) | 2:45 | 2023-06-09 |  |
@@ -85,6 +86,7 @@
 | [Life's Short Drink Tall](https://open.spotify.com/track/1pQMkHmVOw0vniUlXPvmgo) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Life's Short Drink Tall](https://open.spotify.com/album/5UjiPf6KbhvmJTqdxYbv5d) | 3:09 | 2021-12-03 |  |
 | [Lil Vibe](https://open.spotify.com/track/1eucIrSBntRnPpTvsaHmwE) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/2o9aZsNGXbBNJvtdfW0eXt) | 2:54 | 2023-06-16 |  |
 | [Lose My Boots](https://open.spotify.com/track/5NK3wmEodBhJxYqTNqQhsK) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [The Kentucky Gentlemen, Vol\. 1](https://open.spotify.com/album/0Gg3bOwXKYuOOYrWBU6XgW) | 2:52 | 2022-07-29 |  |
+| [Louisiana](https://open.spotify.com/track/6KXdlYA1REDyMeWUlLcVOt) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Louisiana](https://open.spotify.com/album/6bDQtQ9nztaLR5xFw2JiSm) | 2:47 | 2023-09-01 |  |
 | [Love My Hair](https://open.spotify.com/track/0P8ODcKOpxIKrPA84JU0ag) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Love My Hair](https://open.spotify.com/album/3KmzkYKZq0heDFvoNSW7AK) | 2:57 | 2021-12-03 |  |
 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 | 2022-07-01 | 2023-02-17 |
 | [Love You a Little Bit](https://open.spotify.com/track/0isqpzdmr2hsKb50uBSCdo) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/5bWiVnH44bQQ4zeN0ozz5W) | 3:30 | 2023-02-10 |  |

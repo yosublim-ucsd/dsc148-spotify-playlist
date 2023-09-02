@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,160 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,181 likes - 74 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 62 | [Goin' Back Down](https://open.spotify.com/track/5sN36xav9dZXX5qUB3aVYD) | [Redneck Social Club](https://open.spotify.com/artist/4nPrlCWAm20yBoiyE5vpr1), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Goin' Back Down](https://open.spotify.com/album/72SXoGRMGpqVDZSdErzIU6) | 3:45 |
 | 63 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 |
 | 64 | [Dam](https://open.spotify.com/track/0YJRsd068DzbWWMMUiY5EJ) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Southern Son](https://open.spotify.com/album/0HKbTKNK8B3Am937gbxRv0) | 3:06 |
-| 65 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 |
-| 66 | [Kiss My Ass](https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 2:42 |
-| 67 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 |
+| 65 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 |
+| 66 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 |
+| 67 | [Kiss My Ass](https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 2:42 |
 | 68 | [Shawty In The Truck](https://open.spotify.com/track/0XWiP7iQC1uOOW0gVCKDwY) | [DJ CANNON BANYON](https://open.spotify.com/artist/2LRrFl4GOEkg86nmlQiGCG), [Samroc](https://open.spotify.com/artist/1m4hS0iTIVDX3LuYAXkvSb), [TJ Freeq](https://open.spotify.com/artist/1ssjQGY5kS54ngBPDXo9TS), [Big Jimmy](https://open.spotify.com/artist/09CKHoyg9Icjir1uOOYKSl), [Mo Beatz](https://open.spotify.com/artist/3PMIDJZdpCViOzn3XZ5Wjt) | [Shawty In The Truck](https://open.spotify.com/album/09UnavWkODv3pS1HoYCNpp) | 4:33 |
 | 69 | [Trucks Gone Wild](https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Trucks Gone Wild](https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN) | 1:41 |
 | 70 | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2) | [Roll With Me \(feat\. Chris Hurt\)](https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE) | 3:55 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
 
-Snapshot ID: `MCw5MWMyNjk1NWE0OTRiNmI0MDcwZGM1ZmY1OWZjMDAwNDJmNmFjNDNm`
+Snapshot ID: `MCxiODMyNTQ2OTNmMjBjMmNlMzQ0ODBkYTI0OTcwYTUyNmQ1OTMwNWFi`

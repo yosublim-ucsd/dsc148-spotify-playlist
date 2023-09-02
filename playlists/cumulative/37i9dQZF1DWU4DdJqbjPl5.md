@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm?si=FT1SveS6S5CWu\_oJcxEw6A"> Kinoti </a>
+> The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=G9VnPoAkQ\-CYm5y57OxBTA"> Xenia Manasseh </a>
 
-279 songs - 14 hr 56 min
+281 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bounce](https://open.spotify.com/track/3mUr3rVSJMJxceAjxjSx0v) | [Bu$h](https://open.spotify.com/artist/0ERc2vuRyMs0kb3NYeDddB), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Bounce](https://open.spotify.com/album/3pD7Y7svoHpLchyLhRQpTm) | 2:39 | 2023-07-28 | 2023-08-19 |
 | [Brother](https://open.spotify.com/track/73TXPbn1vLdwrrNQWk3fNv) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Brother](https://open.spotify.com/album/4DXnR0oW1CDZvCPeWFMyZp) | 2:07 | 2023-02-03 | 2023-02-17 |
 | [Butter](https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7), [SUTRA](https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 3:08 | 2022-07-07 | 2023-01-20 |
-| [By Your Side](https://open.spotify.com/track/3kyS2lEAAKjva2f42O1KyT) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [By Your Side](https://open.spotify.com/album/0WBj9GaZEf7oG2SyGmG63M) | 3:15 | 2023-02-03 |  |
+| [By Your Side](https://open.spotify.com/track/3kyS2lEAAKjva2f42O1KyT) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [By Your Side](https://open.spotify.com/album/0WBj9GaZEf7oG2SyGmG63M) | 3:15 | 2023-02-03 | 2023-09-02 |
 | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Call \(feat\. Ayra Starr\)](https://open.spotify.com/album/36dJIS4m6wElWShKw7chwJ) | 2:45 | 2022-03-11 | 2022-07-08 |
 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 | 2023-01-12 |  |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2023-06-03 |
@@ -152,7 +152,7 @@
 | [LALA TOTO](https://open.spotify.com/track/6CUTsIkRmoyMVXPPwnz3Py) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [LALA TOTO](https://open.spotify.com/album/0FY7JX7rMfPD05zuZtHU47) | 2:30 | 2022-08-05 | 2022-08-13 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 | 2022-10-29 |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 | 2022-11-12 |
-| [Let Me Love You Now](https://open.spotify.com/track/1RDtcptsGUwhOgL58GYtTC) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Let Me Love You Now](https://open.spotify.com/album/5puHhqrH1Bgnhj86KpdhOW) | 3:47 | 2022-12-02 |  |
+| [Let Me Love You Now](https://open.spotify.com/track/1RDtcptsGUwhOgL58GYtTC) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Let Me Love You Now](https://open.spotify.com/album/5puHhqrH1Bgnhj86KpdhOW) | 3:47 | 2022-12-02 | 2023-09-02 |
 | [Let Them Know](https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Let Them Know](https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73) | 3:24 | 2023-04-20 | 2023-05-05 |
 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-12 |  |
 | [Lifeline](https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lifeline](https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3) | 2:53 | 2023-06-30 |  |
@@ -162,6 +162,7 @@
 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6) | 3:04 | 2021-10-08 | 2023-04-21 |
 | [Love Song](https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Love Song](https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE) | 3:28 | 2023-07-28 |  |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 | 2022-11-15 |
+| [Love/Hate](https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:43 | 2023-09-01 |  |
 | [Loving You](https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Loving You](https://open.spotify.com/album/5t6XKWbdoGqCAKNrkSXN63) | 4:18 | 2023-03-17 | 2023-07-21 |
 | [Lucky Now](https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [King of Hearts](https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ) | 4:00 | 2022-11-25 | 2023-05-26 |
 | [Make It Easy \(with Coco Jones\)](https://open.spotify.com/track/54bu2ltIe6yARxA7CvwNuX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:19 | 2023-07-28 |  |
@@ -286,6 +287,7 @@
 | [Would You Like That](https://open.spotify.com/track/7l3TCgaa7no82h2jc4jML5) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Would You Like That](https://open.spotify.com/album/186IK7qexy8GehSPPOW5PF) | 2:28 | 2022-10-13 | 2023-03-18 |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 | 2022-06-10 |
 | [Yolo](https://open.spotify.com/track/5BZND0pEiJowPDbqMwHY2M) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Yolo](https://open.spotify.com/album/3kflZg32LcyQvzUu3nJkOO) | 2:19 | 2023-02-03 | 2023-08-26 |
+| [You're So You](https://open.spotify.com/track/2PBkxni7Zk4wpaZ8FSHHlF) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [You're So You](https://open.spotify.com/album/0iaGPkg7MNQGfVqk2A60I5) | 2:40 | 2023-09-01 |  |
 | [Your Dream](https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Your Dream](https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks) | 3:38 | 2022-04-21 | 2022-09-02 |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

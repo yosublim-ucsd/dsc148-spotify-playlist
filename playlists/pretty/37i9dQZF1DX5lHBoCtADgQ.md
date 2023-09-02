@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,314 likes - 53 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,335 likes - 53 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 39 | [Pinda Vichon Pind \- Folk Recreation](https://open.spotify.com/track/1jEzFM4KUY7Zi2X7taKiZ8) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY) | [Pinda Vichon Pind \(Folk Recreation\)](https://open.spotify.com/album/5yFJPxffYbmIqmSdybpk1A) | 2:17 |
 | 40 | [Das Main Ki Pyar Wichon Khatyal](https://open.spotify.com/track/2sHtt2EVbN0vFZTFYuYdlQ) | [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4v2E9Up8kfr2W0gkUrlL4P) | 3:15 |
 | 41 | [\(Boliyan\) Geetan Da Guldasta](https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2) | [Surjit Bindrakhia](https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX) | [The King \(Greatest Hits\)](https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH) | 4:58 |
-| 42 | [Kangi Wanwan \- Live](https://open.spotify.com/track/7pKDQawo9ClvxVmRBYTzaM) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan / Bobby Jeth \(Live\) \- Single](https://open.spotify.com/album/2Xgp2lbLFymILvM4XtqAKU) | 4:10 |
+| 42 | [Kangi Wanwan \(Live\)](https://open.spotify.com/track/0Xth3KHBHhixKfia3L3VGK) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Kangi Wanwan \(Live\)](https://open.spotify.com/album/1olLtLcxyQn5Bojfv4P7DS) | 4:10 |
 | 43 | [Majhe Diye Mombattiye](https://open.spotify.com/track/2gP09WRLU9PajUoOgCDYWU) | [Balkar Sidhu](https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ) | [Best of Balkar Sidhu](https://open.spotify.com/album/72HqqELNR5MK8wGgPxjOfQ) | 7:31 |
-| 44 | [Babul \(Live\)](https://open.spotify.com/track/0kwvNhB7n6og4rAM9DrQA4) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\) \- Single](https://open.spotify.com/album/1q77LT1cF0ZNMDsnYpeRTi) | 4:01 |
+| 44 | [Babul \(Live\)](https://open.spotify.com/track/7IiwtbLcUg8MawnwL62KgP) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\)](https://open.spotify.com/album/1gpYSSN7MeFeLZSHIEZzwV) | 4:01 |
 | 45 | [Boliyan](https://open.spotify.com/track/4nX7vCRUiySBcVHyy8xWBJ) | [Kulwinder Dhillon](https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t) | [Kacheriyan Ch Mele Lagde](https://open.spotify.com/album/2mxYO1V5PTqFGgYrmeiGi8) | 5:04 |
 | 46 | [Jutti Meri \(Live\)](https://open.spotify.com/track/4RXpYrUS1ARaN3euvGHpTj) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\) \- Single](https://open.spotify.com/album/1T18aurspe5ouDMzg9Xaas) | 3:28 |
 | 47 | [Kala Shah Kala](https://open.spotify.com/track/0AsI6bQU0DWpjuotmAnrdR) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa, Vol\. 2](https://open.spotify.com/album/4tvEZ7lQ6w8yeLJV54oOBH) | 2:55 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 52 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
 | 53 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 |
 
-Snapshot ID: `MCw4ZTVkZDczMGI0YTdlNDk1MGRjODFlNTFjYzZmYzAxNjI2ZjlkYjk5`
+Snapshot ID: `MCxlMmRlOTk1ODA4ZWFiNWY1MDhiOTlkYzY2YzU0NmRlNzA5NDU1Yzg3`

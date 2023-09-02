@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-507 songs - 1 day 4 hr 44 min
+508 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Feel So Good](https://open.spotify.com/track/4kpNXqAZ9H3Ao15pNsnR1p) | [Dr\. Beat](https://open.spotify.com/artist/2emnmT1XPEVPnRTVeMXX9e) | [Feel So Good](https://open.spotify.com/album/040BWYUA8dWGBHW60Y06eL) | 2:46 | 2022-06-08 | 2022-07-16 |
 | [FEELING DIFFERENT](https://open.spotify.com/track/5raJYLpnYe0fA9aaN5oBv8) | [Ajotabeats](https://open.spotify.com/artist/4DnUC3By63oj4pjO4EosP6) | [FEELING DIFFERENT](https://open.spotify.com/album/4RF2oPF6AxQWB3Gk3thGzC) | 2:50 | 2022-01-25 | 2022-07-27 |
 | [FIGHT! 2](https://open.spotify.com/track/23YjswBh5Od2fGEs5jEHoQ) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [FIGHT! 2](https://open.spotify.com/album/3TKjFJjhIOQSZ9Iej81PwJ) | 2:12 | 2022-01-25 | 2023-08-26 |
+| [FIGHT! 2](https://open.spotify.com/track/45DdNOqLCNfdgOCUJEsypo) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [SUGAR RUSH](https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe) | 2:12 | 2023-07-18 |  |
 | [Final Jamtasy](https://open.spotify.com/track/2iYPBohXaGqVfxCo2rMmHr) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [VGM](https://open.spotify.com/album/57v4Qw58j3btVfyP7YRejo) | 2:28 | 2022-06-08 | 2022-07-16 |
 | [Fireworks \- Radio Edit](https://open.spotify.com/track/2fy82U6iwUNPqwAhClo6WS) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF) | [Neo Disco EP](https://open.spotify.com/album/3OjbK3ofd1CmUuqi9MuXdL) | 3:32 | 2021-12-08 | 2022-04-20 |
 | [First Season](https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI) | [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [First Season](https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj) | 4:55 | 2022-01-25 | 2023-07-09 |
@@ -172,7 +173,7 @@
 | [Get Up](https://open.spotify.com/track/24yzI42u0NBWMytUrR0yU9) | [Bionsen](https://open.spotify.com/artist/5aQc4YLN2WrUtQpa6rjXVT) | [Do It Again EP](https://open.spotify.com/album/5Er6jSnSE7UHMcebo0Fu7k) | 3:56 | 2021-12-08 | 2022-07-23 |
 | [Get Up, Get Out](https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4) | [Get Up, Get Out](https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI) | 3:22 | 2022-01-25 | 2023-02-22 |
 | [Girl Like You](https://open.spotify.com/track/1ce4NaAQMy8mM8f3rzaJ8a) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Girl Like You](https://open.spotify.com/album/4uVwIR3nyZR0ya0BSi5n7w) | 3:21 | 2022-01-25 | 2022-06-29 |
-| [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 | 2021-12-08 |  |
+| [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 | 2021-12-08 | 2023-09-02 |
 | [Got 2 Be Loved](https://open.spotify.com/track/2Rsn3b2wzflcjX0pXcZFdj) | [Soul Reductions](https://open.spotify.com/artist/1z0WDGqbharsGI6n33mwhj) | [Got 2 Be Loved](https://open.spotify.com/album/2jeNULyvELdIrhrQsCOVmq) | 3:32 | 2022-06-01 | 2022-06-08 |
 | [Got My Love](https://open.spotify.com/track/4JbXk7EraSu9HxAs9AxT4S) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [Got My Love](https://open.spotify.com/album/1ehksrQiTVchmb9onU1uQn) | 2:47 | 2022-07-15 | 2022-10-06 |
 | [Gotta Go Crazy](https://open.spotify.com/track/6KZy61Sm4nT7u0klehF6OU) | [acidente](https://open.spotify.com/artist/66yB1MhzSdoyzgIsash9EG) | [Barbershop Weekend](https://open.spotify.com/album/0FLoiUqzKSrftwHk0BjiOh) | 3:12 | 2021-12-08 | 2022-07-25 |

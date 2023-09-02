@@ -4,7 +4,7 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Channi Nattan & Inderpal Moga
 
-185 songs - 10 hr 42 min
+186 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [KING KONG](https://open.spotify.com/track/020UW658GNNSF0uenLIi8i) | [Asim Riaz](https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V) | [KING KONG](https://open.spotify.com/album/0pGEyPPIhSj6sR079l8Mxg) | 3:09 | 2021-12-03 | 2022-02-25 |
 | [Kingpin](https://open.spotify.com/track/43qJF4pC5rbLDUgmqWYOKu) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Kingpin](https://open.spotify.com/album/7a2Izhm8WcSsUJwwJ5hpEg) | 2:55 | 2021-12-03 | 2023-01-13 |
 | [Kohra](https://open.spotify.com/track/1HDjK8sD9zQsdBX3xnqFLJ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Nayaab](https://open.spotify.com/album/5bRRzI1xuiNAAjdSCg5bnO) | 4:06 | 2022-07-18 | 2023-01-13 |
+| [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 |  |
 | [Lafz](https://open.spotify.com/track/65DiZNHJiQpk6YxZvSxsqt) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Lafz](https://open.spotify.com/album/63RztmP4iECZs8yXyn2938) | 4:13 | 2021-12-03 | 2022-06-03 |
 | [Level Up](https://open.spotify.com/track/2DhdCoewnKbg7UBBd8rWSi) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [I](https://open.spotify.com/album/2hDCaT5LQPPTH6ASCqwZFB) | 3:54 | 2022-11-30 | 2023-05-26 |
 | [Level Up](https://open.spotify.com/track/5PJtYb15Li1uo6EWNFWif6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Level Up](https://open.spotify.com/album/2nCWTEDqE4wUyDPPoSL1p5) | 3:54 | 2021-12-03 | 2022-07-19 |

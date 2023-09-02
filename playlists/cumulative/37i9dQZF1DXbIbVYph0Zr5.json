@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The perfect soundtrack recipe for a backyard barbecue! ",
+  "description": "It was Labor Day weekend he was 17... Tim McGraw is taking over Country Cookout! ",
   "name": "Country Cookout",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159213,
+      "name": "American Crazy",
+      "url": "https://open.spotify.com/track/0EzoivEaVvTmGncou7RaDl"
+    },
+    {
+      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
       },
@@ -222,7 +240,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 224866,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
@@ -1778,6 +1796,42 @@
       "duration_ms": 175840,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
+    },
+    {
+      "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209586,
+      "name": "Hide The Wine",
+      "url": "https://open.spotify.com/track/4iThW5yeI2ExwwG0zte69c"
+    },
+    {
+      "album": {
+        "name": "Standing Room Only",
+        "url": "https://open.spotify.com/album/7JXjtz0F7VWwAboPCoyg14"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "Hold On To It",
+      "url": "https://open.spotify.com/track/5qteRK6fo4KC2DbJOP5uW6"
     },
     {
       "album": {
@@ -2244,7 +2298,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
@@ -2533,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261226,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ"
+    },
+    {
+      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -2566,10 +2638,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 191360,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
+    },
+    {
+      "album": {
+        "name": "Wynonna",
+        "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "No One Else On Earth",
+      "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
     },
     {
       "album": {
@@ -2588,6 +2678,24 @@
       "duration_ms": 160706,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244146,
+      "name": "Nobody To Blame",
+      "url": "https://open.spotify.com/track/4WRRCuJYRq7gUKiupxVH9W"
     },
     {
       "album": {
@@ -3226,7 +3334,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 169586,
       "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
@@ -3266,6 +3374,24 @@
       "duration_ms": 263386,
       "name": "Springsteen",
       "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
+    },
+    {
+      "album": {
+        "name": "Standing Room Only",
+        "url": "https://open.spotify.com/album/7JXjtz0F7VWwAboPCoyg14"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "Standing Room Only",
+      "url": "https://open.spotify.com/track/7df5ELYvqxkoLhNK391CRV"
     },
     {
       "album": {
@@ -3388,7 +3514,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 262280,
       "name": "Talladega",
       "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
@@ -3550,7 +3676,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 257266,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
@@ -3746,7 +3872,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 169760,
       "name": "Water Under The Bridge",
       "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
@@ -3862,6 +3988,36 @@
       "duration_ms": 290560,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
+    },
+    {
+      "album": {
+        "name": "Ashley McBryde Presents: Lindeville",
+        "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126537,
+      "name": "When Will I Be Loved",
+      "url": "https://open.spotify.com/track/6kwXlXsWKMhZFR0aZiDhae"
     },
     {
       "album": {

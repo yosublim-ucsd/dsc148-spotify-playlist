@@ -4,7 +4,7 @@
 
 > Songs that will make you and your kids laugh.
 
-73 songs - 2 hr 42 min
+74 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Bees Can Talk by Moving Their Butts](https://open.spotify.com/track/3jtsg0PEBWqbTFG9qIdUSx) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:53 | 2022-03-11 |  |
 | [Bill Nye the Science Guy](https://open.spotify.com/track/2sq0n4doIKKCPXm1is950U) | [Mr Dooves](https://open.spotify.com/artist/1YP1NgBkOUyqsOiIUBqOrr) | [Saturday Morning Acapella: Volume 4](https://open.spotify.com/album/2Oy8FsooeFsfqzPiDT4YY9) | 0:31 | 2022-03-11 |  |
 | [Bill Nye the Science Guy](https://open.spotify.com/track/6L33GgWMpd53M1vldLstrW) | [Mr Dooves](https://open.spotify.com/artist/1YP1NgBkOUyqsOiIUBqOrr) | [Saturday Morning Acapella: Volume 4](https://open.spotify.com/album/4Hx7U3oSNHVGKXpuRf4vRp) | 0:31 | 2022-03-11 | 2022-07-29 |
-| [Bing Bong Zoo](https://open.spotify.com/track/2q4PnncxGIm1oVQzu6hS2d) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 3:10 | 2022-03-11 |  |
+| [Bing Bong Zoo](https://open.spotify.com/track/72lIFn0eGPHFj7qbRjtRfV) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 3:10 | 2022-03-11 |  |
+| [Bing Bong Zoo](https://open.spotify.com/track/2q4PnncxGIm1oVQzu6hS2d) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 3:10 | 2022-03-11 | 2023-09-02 |
 | [Bing Bong Zoo](https://open.spotify.com/track/4P442Q5ggBqF0nSi68CDTE) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/2M1GALCY5qHllHs0wvA1T6) | 3:10 | 2022-03-11 | 2022-07-29 |
 | [Chicken Monkey Duck](https://open.spotify.com/track/5LbLwcJgzQggfp2EiGGaFb) | [Mike Phirman](https://open.spotify.com/artist/4RXwlvGvt3VjfVJjVIFQTJ) | [Songs to Sing at Children](https://open.spotify.com/album/58SHDR5ORDlCe909wOZeD8) | 1:11 | 2022-03-11 |  |
 | [Disco Brain](https://open.spotify.com/track/4L0RJ6cJMEHKU6IThWg77v) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/6pEPcbShtQj5G5VMd2SUbz) | 1:15 | 2022-03-11 |  |

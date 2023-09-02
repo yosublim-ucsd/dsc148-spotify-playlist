@@ -692,7 +692,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 270897,
       "name": "La Gracia De Dios",
       "url": "https://open.spotify.com/track/08mntOthYaS6L1TClH3oYR"
@@ -2244,6 +2244,32 @@
       "duration_ms": 208250,
       "name": "La Pistola",
       "url": "https://open.spotify.com/track/7xZKsJJriFzemuLslrkXx5"
+    },
+    {
+      "album": {
+        "name": "La Plata",
+        "url": "https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "La Plata",
+      "url": "https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada",
-  "num_followers": 1738952,
+  "num_followers": 1739833,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmU5YWY1MGIzYzI1YTRlYWYzMTc0ZmIyMzZlZGY2NTY2NTI2YWRj",
+  "snapshot_id": "MCwxY2I0ZWUzZmU3Nzc5NjY2YjZjODAxYmQzMDU5MzdjMmZmY2ZjMzQ3",
   "tracks": [
     {
       "added_at": "2023-08-08 23:26:41",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "De Monterrey a Sinaloa",
-        "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Borracho de Amor",
-      "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "Un Cantautor Con Alma de Triunfador",
         "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 272920,
       "name": "Aliado Del Tiempo",
       "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "De Monterrey a Sinaloa",
+        "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Borracho de Amor",
+      "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+      "duration_ms": 196920,
+      "name": "Y yo que te amo",
+      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "Con paso sensual",
-        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 196920,
-      "name": "Y yo que te amo",
-      "url": "https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY"
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "El Peor De Tus Antojos",
-        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 209770,
-      "name": "El Peor De Tus Antojos",
-      "url": "https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "El Antes Y El Despu\u00e9s",
         "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 183360,
       "name": "El Antes Y El Despu\u00e9s",
       "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "El Peor De Tus Antojos",
+        "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 209770,
+      "name": "El Peor De Tus Antojos",
+      "url": "https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M"
     },
     {
       "added_at": "2023-08-08 23:26:41",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-08 23:26:41",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
-    },
-    {
-      "added_at": "2023-08-08 23:26:41",
-      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+    },
+    {
+      "added_at": "2023-08-08 23:26:41",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2023-08-08 23:26:41",

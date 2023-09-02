@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-214 songs - 17 hr 50 min
+215 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Moody Fuse](https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Moody Fuse](https://open.spotify.com/album/7KCjICJnDLfwOvGOLZZRlh) | 6:51 | 2022-07-15 | 2022-10-30 |
 | [Music4TheMasses \- Andrea Oliva Remix](https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Music4TheMasses \(Andrea Oliva Remix\)](https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9) | 3:07 | 2022-07-01 |  |
 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 | 2022-06-03 |  |
-| [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 |  |
+| [Nana](https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Nana](https://open.spotify.com/album/75QMJvIqtyhVSYD3EdnBmt) | 2:47 | 2022-09-09 | 2023-09-02 |
 | [Narangi](https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO) | [XVII](https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ) | 6:34 | 2023-05-26 | 2023-09-01 |
 | [Nights into Mornings \- Joseph Capriati Remix](https://open.spotify.com/track/1w1XIiV4PABYIsRuyMRFmR) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [Nights into Mornings](https://open.spotify.com/album/1JEAxlq89t4yT0wIAMZqaw) | 7:13 | 2023-03-17 | 2023-03-21 |
 | [No Bueno](https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno](https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe) | 5:50 | 2022-06-03 | 2023-08-26 |
@@ -196,6 +196,7 @@
 | [The Truth](https://open.spotify.com/track/2D5nRs0qDWXwcHveTsMHmE) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH) | 6:24 | 2022-07-15 | 2022-08-23 |
 | [The Truth](https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [The True Secrets](https://open.spotify.com/album/2l6O4WOV5Y6LceGjdsEX7i) | 6:24 | 2022-07-15 | 2023-01-02 |
 | [This Energy](https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [This Energy EP](https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU) | 3:18 | 2023-03-17 |  |
+| [Thrill Me \- LO'99 Remix](https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k), [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Thrill Me \(LO'99 Remix\)](https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj) | 3:06 | 2023-09-01 |  |
 | [Thrill Me \- LO'99 Remix](https://open.spotify.com/track/0PyCpPHnVOORGszLltM2P9) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k), [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Thrill Me \(LO'99 Remix\)](https://open.spotify.com/album/4LiJuVlykjBWVV84L12bJ3) | 3:06 | 2023-08-11 | 2023-08-27 |
 | [Tonight](https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Tonight EP](https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y) | 5:52 | 2022-06-24 | 2023-03-29 |
 | [Touch Me](https://open.spotify.com/track/5N1sNoct0d7xq8Yna6UzTi) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Touch Me](https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR) | 2:44 | 2023-08-11 |  |

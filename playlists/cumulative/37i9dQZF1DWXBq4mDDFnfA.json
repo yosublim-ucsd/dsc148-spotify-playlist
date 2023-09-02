@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "Bachianinha No. 1 (Arr. for Guitar by S\u00e9rgio Assad)",
+        "url": "https://open.spotify.com/album/0y1JGIEV2FBpVJKJHY0k4b"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Nogueira",
+          "url": "https://open.spotify.com/artist/5ReVxzuREWusYE4ovnMbBn"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200917,
+      "name": "Bachianinha No. 1 (Arr. for Guitar by S\u00e9rgio Assad)",
+      "url": "https://open.spotify.com/track/1FO2czopUN5qjFzZfXKExk"
+    },
+    {
+      "album": {
         "name": "El Bohemio - Barrios: Preludio en do menor",
         "url": "https://open.spotify.com/album/2KTwajQx4QxyI9cDDGiNe4"
       },

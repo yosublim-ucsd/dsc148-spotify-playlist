@@ -831,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Amanhecer",
+        "url": "https://open.spotify.com/album/7aRUi6Gte0Sar15BpLnOBX"
+      },
+      "artists": [
+        {
+          "name": "carbeau",
+          "url": "https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258659,
+      "name": "Amanhecer",
+      "url": "https://open.spotify.com/track/3MQ96GNZ6Y68u2Tg21LJ3n"
+    },
+    {
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz"
       },
@@ -966,7 +984,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 219833,
       "name": "Astrology Poisoning",
       "url": "https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf"
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 239078,
       "name": "Begin Again - Joe Goddard Remix / Edit",
       "url": "https://open.spotify.com/track/0TB9IbEirDvATrQ9ES0i5j"
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 212242,
       "name": "Chalk 1.3.3 [2017 Export Wav]",
       "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 195408,
       "name": "Circle Back Around",
       "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
@@ -3258,7 +3276,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 154013,
       "name": "CRYSTAL BALL",
       "url": "https://open.spotify.com/track/3wDBk1GUThtWitWubRzrFX"
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 166125,
       "name": "Disco Dangerous",
       "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 191253,
       "name": "DREAMS!",
       "url": "https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP"
@@ -5634,7 +5652,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 222911,
       "name": "Frisco",
       "url": "https://open.spotify.com/track/10Y0kVI5FFhfPPnfnyEr3Y"
@@ -5842,7 +5860,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 169591,
       "name": "Ghost On The Mend - veggi remix",
       "url": "https://open.spotify.com/track/5c3sjghivRZjMd0nvSGPUR"
@@ -6234,7 +6252,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 216278,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz"
@@ -6482,6 +6500,24 @@
       "duration_ms": 115651,
       "name": "headstrong gunner",
       "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7gRArqRwOK3uXvcJXm3EO0"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240509,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/6MOTR6xzFe5fVTz7rum6qX"
     },
     {
       "album": {
@@ -7106,7 +7142,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 252962,
       "name": "Humans - Elevated Mix",
       "url": "https://open.spotify.com/track/4vCrLKs6M10bLbMFRXEbJ6"
@@ -7592,7 +7628,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 169472,
       "name": "I've Been In Love",
       "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
@@ -7614,7 +7650,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184392,
       "name": "ICE CASTLES",
       "url": "https://open.spotify.com/track/2EWHGUPSEP5jt0YoT7RxBH"
@@ -7662,6 +7698,24 @@
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
+    },
+    {
+      "album": {
+        "name": "Icy",
+        "url": "https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Icy",
+      "url": "https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP"
     },
     {
       "album": {
@@ -7730,7 +7784,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 199626,
       "name": "In Electric Blue",
       "url": "https://open.spotify.com/track/59nfNz6nsEt1ZizfZCouyG"
@@ -8054,7 +8108,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 178138,
       "name": "Is That How You Feel It",
       "url": "https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4"
@@ -8090,7 +8144,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 228514,
       "name": "Is U",
       "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
@@ -8174,7 +8228,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 221493,
       "name": "It\u2019s Euphoric",
       "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
@@ -8454,7 +8508,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 204899,
       "name": "Just The Once",
       "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
@@ -9882,7 +9936,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 247949,
       "name": "Low Lights and Throwback Tunes",
       "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
@@ -10179,6 +10233,24 @@
     },
     {
       "album": {
+        "name": "marry me",
+        "url": "https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157604,
+      "name": "marry me",
+      "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
+    },
+    {
+      "album": {
         "name": "Mary Jane (Young Franco Remix)",
         "url": "https://open.spotify.com/album/73PV84Kf1waPhVoHNyCt78"
       },
@@ -10402,7 +10474,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 154702,
       "name": "Mind Talking",
       "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
@@ -10674,7 +10746,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 231733,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
@@ -11304,6 +11376,28 @@
       "duration_ms": 282225,
       "name": "Noise",
       "url": "https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf"
+    },
+    {
+      "album": {
+        "name": "GITHPREMIXEDITION",
+        "url": "https://open.spotify.com/album/0pEbmdBXGb0acfUfxGEy9q"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Ben Hixon",
+          "url": "https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "NoNewNews!!! - Ben Hixon Remix",
+      "url": "https://open.spotify.com/track/6aquBTxK51IypBHnGoJDTJ"
     },
     {
       "album": {
@@ -12563,6 +12657,24 @@
     },
     {
       "album": {
+        "name": "Pull Me Back",
+        "url": "https://open.spotify.com/album/3xs74lOmX9CWx2ZC7nbEYC"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171304,
+      "name": "Pull Me Back",
+      "url": "https://open.spotify.com/track/74KoMmEZUjg01KyqNlrr5E"
+    },
+    {
+      "album": {
         "name": "Pulses of Light",
         "url": "https://open.spotify.com/album/4T0CTWKVRiKGjBs10feLYp"
       },
@@ -13090,7 +13202,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 451034,
       "name": "RISE - Darius Remix",
       "url": "https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew"
@@ -13240,7 +13352,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
@@ -13422,7 +13534,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 159445,
       "name": "SATURDAY",
       "url": "https://open.spotify.com/track/0Vli1NhhK3d7XiM9VE1t4e"
@@ -14216,7 +14328,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 169386,
       "name": "Some Things You\u2019ll Never Know",
       "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
@@ -14415,6 +14527,24 @@
     },
     {
       "album": {
+        "name": "Moonlighting \u2013 AstroJazz Vol.1",
+        "url": "https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy"
+      },
+      "artists": [
+        {
+          "name": "Astrocolor",
+          "url": "https://open.spotify.com/artist/4OvLy4oD9IFQ8YCbbMDVRD"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215056,
+      "name": "Star Swing",
+      "url": "https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr"
+    },
+    {
+      "album": {
         "name": "Staring at the Ceiling",
         "url": "https://open.spotify.com/album/2pI8tzfUm19pAGtH3ZHfq5"
       },
@@ -14448,7 +14578,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 243521,
       "name": "Staring In The Dark",
       "url": "https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2"
@@ -15666,7 +15796,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 215893,
       "name": "The Pool",
       "url": "https://open.spotify.com/track/0vrk52MOndmqMjtMNYCApR"
@@ -16198,6 +16328,28 @@
       "duration_ms": 362481,
       "name": "Tjomme - DJ Koze Remix",
       "url": "https://open.spotify.com/track/01EWHtr2PejHSQMwh3Z4G9"
+    },
+    {
+      "album": {
+        "name": "To be honest (SG Lewis Remix)",
+        "url": "https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238901,
+      "name": "To be honest - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8"
     },
     {
       "album": {
@@ -16888,7 +17040,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 278081,
       "name": "Wagging Tongue - Wet Leg Remix",
       "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
@@ -16928,7 +17080,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 239668,
       "name": "Wait For It",
       "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
@@ -17446,7 +17598,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202375,
       "name": "When She Dance",
       "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Casper Sage\. Updates every Wednesday\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,755 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,780 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 63 | [in the rain](https://open.spotify.com/track/1gicn1usnZflJaszZtfm2n) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [let them eat grass](https://open.spotify.com/album/1WUyJfZ7pAXimyTJg0aoca) | 3:25 |
 | 64 | [Cult](https://open.spotify.com/track/5PTqkTO6peswogqXZ84a8p) | [Avi Kytes](https://open.spotify.com/artist/7x5FmUosFZHo35X5rx7517) | [Cult](https://open.spotify.com/album/3KY27vbFs12yDQNk9iHEoU) | 3:01 |
 
-Snapshot ID: `MCxiOGQ2Y2FlNjFlNDE4OGFlNGQ3N2YyNDA0NTRkMDk0ZTVkNGY0MjRi`
+Snapshot ID: `MCxkNzk3YTlhNmFmNDNmZWFjYTQ4ZDkzNmIyOGM4MmEwY2Y2Y2NiMGE0`

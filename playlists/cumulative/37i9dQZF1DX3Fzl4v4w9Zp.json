@@ -3584,7 +3584,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202776,
       "name": "Holy Water Hangover",
       "url": "https://open.spotify.com/track/0eSwwBWKoxbAje61SkGhKn"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179026,
       "name": "I Got This",
       "url": "https://open.spotify.com/track/3KMrapCsGVYo4LtT6vHjn2"
@@ -5288,6 +5288,24 @@
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+    },
+    {
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "album": {

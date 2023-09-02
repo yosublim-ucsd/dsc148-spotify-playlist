@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,888 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,041 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 38 | [You Alone \- Live](https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hear \(Live\)](https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL) | 6:04 |
 | 39 | [Nothing Without You](https://open.spotify.com/track/5CgLKRSUpqddLIFQHgoby1) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 4:42 |
 | 40 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 |
-| 41 | [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 |
+| 41 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
 | 42 | [Behold Our God](https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Risen](https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz) | 5:23 |
 | 43 | [He Will Hold Me Fast](https://open.spotify.com/track/1Mp90z16Mneiqthtf7fOf9) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
 | 44 | [Just Be](https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Just Be](https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us) | 4:33 |
 | 45 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
 | 46 | [Oceans \(Where Feet May FaiI\)](https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Campfire II: Simplicity](https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm) | 4:43 |
 | 47 | [How Great Thou Art](https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:53 |
-| 48 | [Grace Alone](https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Becoming Who We Are](https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif) | 3:38 |
+| 48 | [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 |
 | 49 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 |
 | 50 | [My Worth Is Not In What I Own](https://open.spotify.com/track/2P4h4BnBsFxdMbHFr0jCo9) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 4:34 |
 | 51 | [Jesus, Thank You](https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y), [Brook Hills Music](https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr) | [30: Three Decades of Songs for the Church](https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm) | 4:52 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 82 | [Since Your Love \(Live\) \[feat\. Brandon Hampton\]](https://open.spotify.com/track/0XPZo7uag05Vi90Tz0G8ry) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Brandon Hampton](https://open.spotify.com/artist/5dC9jxV6hFvZpUmxvEKyQQ) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 8:02 |
 | 83 | [Blessed Assurance](https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Only King Forever](https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h) | 7:18 |
 | 84 | [There Came a Light](https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 4:42 |
-| 85 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
-| 86 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
+| 85 | [At the Foot of the Cross \- Acoustic](https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 3:59 |
+| 86 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
 | 87 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
 | 88 | [Safe Retreat \(feat\. Braille\)](https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Braille](https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:42 |
 | 89 | [Note To Self](https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Brand New](https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [You Are My All In All](https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9) | [Brooke Griffith](https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un) | [Even So Come: A Worship Album](https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz) | 5:18 |
 | 100 | [I'll Fly Away](https://open.spotify.com/track/3Ibqth7iNwWwM28ZWcLk3Q) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Redemption Songs](https://open.spotify.com/album/1BVXtTYIfshVRCeKp9uIwb) | 4:42 |
 
-Snapshot ID: `MCw0Yjk0MzgwNjNlZjkzM2M3N2Q1YmIwNDgxYjkyZTdmMmY0ZmY0MTQy`
+Snapshot ID: `MCxlODliOGUyZWZlYjMwNWE0NTczMjRjMzZlMDQwMDJjMjdjYjBhYWI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,609 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,656 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 29 | [Seen](https://open.spotify.com/track/4YYCOTGjYUTbbegTEzcYaP) | [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [The Trip EP](https://open.spotify.com/album/7DpB6Bu2fw1gvZxPz9pYdC) | 4:34 |
 | 30 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 |
 | 31 | [Swift](https://open.spotify.com/track/5zalkQp8ZAe4y1goA95S9X) | [SUCHI](https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N) | [Swift](https://open.spotify.com/album/70mlx5ec76uiUILSH8LCi6) | 6:41 |
-| 32 | [Dollis Hill Rufige](https://open.spotify.com/track/14b7yVwOL62E6lcQdxwcyB) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH) | [The Start of No Regret](https://open.spotify.com/album/4BxTXHiZAesqIvR6Dv2Lnw) | 5:18 |
-| 33 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 |
+| 32 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 |
+| 33 | [Dollis Hill Rufige](https://open.spotify.com/track/14b7yVwOL62E6lcQdxwcyB) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH) | [The Start of No Regret](https://open.spotify.com/album/4BxTXHiZAesqIvR6Dv2Lnw) | 5:18 |
 | 34 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 |
 | 35 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 |
 | 36 | [Live And Direct](https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [FWD Thinking](https://open.spotify.com/album/6W1kKAUQ8LwG1vO0OXrKSr) | 6:02 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 43 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
 | 44 | [Kissed It Up \- Original](https://open.spotify.com/track/5EgPKy3Q9kFyiDpAGUOmdr) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Kissed It Up](https://open.spotify.com/album/22KE4qbTKXK95RQYCDm0T9) | 6:06 |
 | 45 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
-| 46 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
-| 47 | [Adventures VIP \- Original](https://open.spotify.com/track/06u7pgGxQfHWs4R3ghIFbN) | [Brayzn](https://open.spotify.com/artist/5QqWJDnxXi4odamUxarOyB) | [Myor Massiv 10](https://open.spotify.com/album/6fizhc0oj1RTUZdVHWWkJV) | 6:32 |
+| 46 | [Adventures VIP \- Original](https://open.spotify.com/track/06u7pgGxQfHWs4R3ghIFbN) | [Brayzn](https://open.spotify.com/artist/5QqWJDnxXi4odamUxarOyB) | [Myor Massiv 10](https://open.spotify.com/album/6fizhc0oj1RTUZdVHWWkJV) | 6:32 |
+| 47 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 | 48 | [Take My Control](https://open.spotify.com/track/5TVNBl0srd3VHK8Hb5SuSy) | [Thing](https://open.spotify.com/artist/6SovQYzixv3B3M1HWjbdLS) | [Take My Control](https://open.spotify.com/album/5smkZ2UvCj9tkxZHrtsaAM) | 4:05 |
 | 49 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
 | 50 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
 
-Snapshot ID: `MCw5NmI4MDQzOGFlYzQ5OGY5NDYyNjliYmYwZDY2YzkyMDFiMzA1N2Ri`
+Snapshot ID: `MCxmZTU0YTUzNTg2M2FmODUzNDdkZDZhYTE0MmE5MGJjM2U5YzNhMDUw`

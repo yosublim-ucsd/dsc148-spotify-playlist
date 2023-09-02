@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0?si=6a49d6504737400f\">Cody Carnes<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq?si=dc9f862aded24e20\">LO Worship<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -2942,6 +2942,24 @@
       "duration_ms": 547598,
       "name": "Holy Hallelujah - Live",
       "url": "https://open.spotify.com/track/0rLMg3eCwLHCNKQcN0TZ3I"
+    },
+    {
+      "album": {
+        "name": "Holy In My Heart",
+        "url": "https://open.spotify.com/album/5RIWclOL7Yojhb5Grb0o2M"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303187,
+      "name": "Holy In My Heart",
+      "url": "https://open.spotify.com/track/0Ekk7wvWBiklPnsZWCMUnL"
     },
     {
       "album": {
@@ -6022,7 +6040,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 305756,
       "name": "Presence",
       "url": "https://open.spotify.com/track/2hDuQ4ottXOthqDd3GtYn3"
@@ -6954,7 +6972,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 212212,
       "name": "Surely - Radio Version",
       "url": "https://open.spotify.com/track/75W7u2mAkFmbJFiBxsQArz"
@@ -8556,6 +8574,28 @@
       "duration_ms": 460869,
       "name": "Wide Eyed Wonder",
       "url": "https://open.spotify.com/track/5o6AL8Zr1szCNnwxfaTFck"
+    },
+    {
+      "album": {
+        "name": "Wild Faith",
+        "url": "https://open.spotify.com/album/1ybHQRHlfblO0BVyidcv7T"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        },
+        {
+          "name": "kalley",
+          "url": "https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264177,
+      "name": "Wild Faith",
+      "url": "https://open.spotify.com/track/0mjwvSKLLVxaGj0dq6mcZ1"
     },
     {
       "album": {

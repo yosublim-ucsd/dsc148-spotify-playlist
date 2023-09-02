@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-530 songs - 1 day 5 hr 44 min
+532 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [A Concert Six Months From Now](https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [A Concert Six Months From Now](https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J) | 3:25 | 2021-12-16 | 2022-02-22 |
 | [A Good Love, Pt\. 2](https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [A Good Love, Pt\. 2](https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt) | 3:33 | 2022-08-02 | 2022-10-12 |
 | [a list of all the things that I regret](https://open.spotify.com/track/3HIWD8T1OCwAupd0kIRUi7) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [In Hindsight](https://open.spotify.com/album/1m5ikolgSMV1aoIOmoR7zP) | 2:54 | 2022-12-02 | 2023-08-02 |
-| [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 | 2023-07-18 |  |
+| [A Strange Kind Of Beautiful](https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:32 | 2023-08-25 |  |
+| [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 | 2023-07-18 | 2023-09-02 |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-16 |  |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-10-21 | 2023-04-15 |
 | [After Midnight \(1AM\)](https://open.spotify.com/track/1WtRtjgLCWvkX2kEFeOZy2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [After Midnight](https://open.spotify.com/album/4G49LgI8XdHG5Ymqq3rTfE) | 3:14 | 2022-01-11 | 2022-03-08 |
@@ -217,7 +218,7 @@
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-08-01 |  |
 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 | 2023-04-28 |  |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-10-21 |  |
-| [How Do You Know](https://open.spotify.com/track/1QiGePKveZjlbyZEcdYyF8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:00 | 2023-08-15 |  |
+| [How Do You Know](https://open.spotify.com/track/1QiGePKveZjlbyZEcdYyF8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:00 | 2023-08-15 | 2023-09-02 |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-05-31 | 2022-10-12 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-03-25 | 2022-04-17 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-29 | 2023-04-16 |
@@ -271,7 +272,7 @@
 | [Jump](https://open.spotify.com/track/6zqgrY3jXBSMx3WuNErdTB) | [REUNIØN](https://open.spotify.com/artist/0xGQO6SPjYCzbeDgjpfJ5n) | [Jump](https://open.spotify.com/album/1ytsYG5T02plyHuYfIyw1w) | 4:16 | 2021-12-16 | 2022-02-15 |
 | [justified](https://open.spotify.com/track/6IW4TUC3zHW4tpikDg1w7Y) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [justified](https://open.spotify.com/album/4d4qaLHCcfXzMbGa33Kpqg) | 3:00 | 2021-12-16 | 2022-03-26 |
 | [Kathleen](https://open.spotify.com/track/5GvYvRNu7aZREXorC4QgG5) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Kathleen](https://open.spotify.com/album/033RgEECdDhMgQ643vJpoL) | 3:51 | 2021-12-16 | 2022-02-15 |
-| [Keep Me \- Acoustic](https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Keep Me \(Acoustic\)](https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM) | 2:43 | 2021-12-16 | 2023-08-27 |
+| [Keep Me \- Acoustic](https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Keep Me \(Acoustic\)](https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM) | 2:43 | 2021-12-16 |  |
 | [Know Me Again \(with Cate\)](https://open.spotify.com/track/503vjbISPH5hJbGpYOFAcN) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Know Me Again \(with Cate\)](https://open.spotify.com/album/3W4GE7d5HHoLgctPM1c8A0) | 4:15 | 2021-12-16 | 2022-01-11 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-28 |  |
 | [Lady Kisses](https://open.spotify.com/track/48WdmKl5yJSHRyiYJ6lm3g) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Lady Kisses](https://open.spotify.com/album/1IkLdBiaZQ1wLa40y2fNrw) | 2:48 | 2022-03-29 | 2022-04-21 |
@@ -502,7 +503,8 @@
 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 | 2022-03-25 | 2022-04-12 |
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2022-03-25 | 2022-10-01 |
 | [We Cry](https://open.spotify.com/track/2gXbtADykoLc8IiA3NBLt3) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Cry](https://open.spotify.com/album/69q3Au1hkKj9eQB7eA7rD0) | 3:47 | 2021-12-16 | 2022-03-28 |
-| [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 | 2023-06-06 |  |
+| [We Were Never Really Friends](https://open.spotify.com/track/2QZzngN7hEFac2yC6zxOGy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:24 | 2023-08-25 |  |
+| [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 | 2023-06-06 | 2023-09-02 |
 | [we were younger then](https://open.spotify.com/track/25PMrVEHB19u2R0ySwyzfT) | [Super French](https://open.spotify.com/artist/0Rar2pZaoZtcZqEjf5H4ri) | [we were younger then](https://open.spotify.com/album/5n7lZzTawcGiKWEcEXXIaQ) | 3:56 | 2022-02-21 | 2022-07-19 |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-20 | 2023-07-19 |
 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 | 2022-03-29 | 2022-04-20 |

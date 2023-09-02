@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-368 songs - 22 hr 15 min
+370 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Any Way You Come \- Bonus Track](https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:25 | 2022-05-06 |  |
 | [Apparition](https://open.spotify.com/track/5xdfqTkWR6cUDURutACDhv) | [Blue Americans](https://open.spotify.com/artist/3opCzUejI73CIE2pZtKtKw) | [Apparition](https://open.spotify.com/album/3iztHG3O9JPbdH1hUIf4uu) | 3:53 | 2020-10-17 | 2022-04-21 |
 | [As Is](https://open.spotify.com/track/2ci45Uc8L6jCOPgjuas2C7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [As Is](https://open.spotify.com/album/0yJ49iDzWq7qixm2jpGLbo) | 2:28 | 2023-03-10 | 2023-07-09 |
-| [As Is](https://open.spotify.com/track/3blffQRXJqDABPTWunKmEc) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [California Rain](https://open.spotify.com/album/1fo9JU2Wjx0meyd4i8kVXD) | 2:28 | 2023-03-10 |  |
+| [As Is](https://open.spotify.com/track/3blffQRXJqDABPTWunKmEc) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [California Rain](https://open.spotify.com/album/1fo9JU2Wjx0meyd4i8kVXD) | 2:28 | 2023-03-10 | 2023-09-02 |
 | [August](https://open.spotify.com/track/7g1BY9DxCoF440qgBWBZYN) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [August](https://open.spotify.com/album/1jqK0dSq52xEQBCg88FWh5) | 2:57 | 2020-10-17 | 2022-04-21 |
 | [Autumn Town Leaves](https://open.spotify.com/track/4xI1VwZa8u3ymeS8hsHKed) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel) | 3:15 | 2020-10-17 | 2022-07-28 |
 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 | 2020-10-17 | 2023-02-04 |
@@ -203,7 +203,8 @@
 | [Love More](https://open.spotify.com/track/1O3cAX8gOFljEpMaJmhdwL) | [Sundai](https://open.spotify.com/artist/3HdljaO2HIx0O7H44X17u1) | [Only Child](https://open.spotify.com/album/2qrrrbUXkL5mksIvvC1lV2) | 3:39 | 2020-10-17 | 2022-04-19 |
 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 | 2022-02-11 | 2023-06-09 |
 | [Lovin' You Is Easy](https://open.spotify.com/track/5gymzsD0vPHUNAcQioB1Zv) | [Vanmiran](https://open.spotify.com/artist/7AQmzPYke7fmBDOvTCIxPO) | [Lovin' You Is Easy](https://open.spotify.com/album/5jqhttN809Cz2orcp04RHE) | 2:57 | 2020-10-17 | 2022-07-29 |
-| [Loving You](https://open.spotify.com/track/2kR7VxLTxX3hPcXKKz2qkk) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:06 | 2022-04-15 |  |
+| [Loving You](https://open.spotify.com/track/0HNmTOL4puKO6CcBc2aYZN) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Nothing, Something, Everything](https://open.spotify.com/album/7FcralsMBehsJT4Xx7DHfk) | 3:06 | 2023-09-01 |  |
+| [Loving You](https://open.spotify.com/track/2kR7VxLTxX3hPcXKKz2qkk) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:06 | 2022-04-15 | 2023-09-02 |
 | [Loving You](https://open.spotify.com/track/4ZRJUckYejIPkHYoeut789) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Loving You](https://open.spotify.com/album/4Lre0d9YIRu1XZJYkf5e4T) | 3:06 | 2022-04-08 | 2022-07-29 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2020-10-17 | 2023-02-04 |
 | [Magnetic](https://open.spotify.com/track/4rbGIJobQJLUCgKrrsY6mm) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [Sergiio](https://open.spotify.com/artist/1TyV1ii0zQpDUf242p8JI0) | [Magnetic](https://open.spotify.com/album/5ViCoszPDZqEOu2UVB34LQ) | 3:00 | 2020-10-17 | 2022-04-21 |
@@ -323,6 +324,7 @@
 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 | 2022-06-17 | 2023-02-18 |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2021-11-19 | 2023-02-18 |
 | [Superglue](https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [SUPERGLUE](https://open.spotify.com/album/67NJuyd4ElTpVyEZYoh9UX) | 3:34 | 2023-03-03 |  |
+| [Sway](https://open.spotify.com/track/0URET1QRXICvNhwgNn5OWD) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Sway](https://open.spotify.com/album/5j17Q40WrMCERsIFa9WCQh) | 2:40 | 2023-09-01 |  |
 | [Sweet Heaven](https://open.spotify.com/track/0LUH5TC2Jt3SSSy0tSfmRh) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Back In Love](https://open.spotify.com/album/0lFauHBsiqfXQmIXDmIXKY) | 4:11 | 2022-11-18 | 2022-11-26 |
 | [Sweeter Than Peaches](https://open.spotify.com/track/5TQr5GihbdY4GuYURxW4Lx) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Sweeter Than Peaches](https://open.spotify.com/album/2lZUEwvmSL9NWgggV28n6T) | 2:07 | 2021-07-16 | 2022-07-23 |
 | [Temptation](https://open.spotify.com/track/30YAMud3jbVG4tWkwmuH3E) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Temptation](https://open.spotify.com/album/4mIbuUoAWuVUJQHwdVwZxp) | 2:55 | 2022-04-15 | 2023-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Becca Mancari",
-  "num_followers": 344320,
+  "num_followers": 344378,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjJmYmQwMjYyOTYwOGEwZjJiZWIyYzFjMjFlOWQ3MDBlNjlkY2Ix",
+  "snapshot_id": "MCxjNDM0MjRhZTZmYWNmOTMzZTU4YTRkMTY2MWM0M2Y3ZWUwOTVkZTUz",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/3olsroxbHthxOQWoGOHH7z"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 200303,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/3olsroxbHthxOQWoGOHH7z"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 200303,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 166821,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Sky Is Bleeding",
         "url": "https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib"
       },
@@ -1595,6 +1579,38 @@
       "duration_ms": 172066,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Headful of Sugar",
+        "url": "https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 189634,
+      "name": "Moment In The Sun - Bonus Track",
+      "url": "https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 166821,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Headful of Sugar",
-        "url": "https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 189634,
-      "name": "Moment In The Sun - Bonus Track",
-      "url": "https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Lamb",
-        "url": "https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 192550,
-      "name": "Destroyer",
-      "url": "https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Impossible Weight",
         "url": "https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 202493,
       "name": "Impossible Weight - feat. Sharon Van Etten",
       "url": "https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Lamb",
+        "url": "https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 192550,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 320719,
       "name": "New Speedway Boogie",
       "url": "https://open.spotify.com/track/7rlH5IVzRc5eCMiURVoUrI"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Maps / Country",
-        "url": "https://open.spotify.com/album/0M8c1kEUcKhN5pPz4Vv0Rw"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 207179,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4g5OxMb78e7GdHUdjxIplK"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 221082,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Maps / Country",
+        "url": "https://open.spotify.com/album/0M8c1kEUcKhN5pPz4Vv0Rw"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 207179,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4g5OxMb78e7GdHUdjxIplK"
     },
     {
       "added_at": "2023-08-11 04:00:00",

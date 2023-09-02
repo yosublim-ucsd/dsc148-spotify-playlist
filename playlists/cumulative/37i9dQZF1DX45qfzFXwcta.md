@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-112 songs - 5 hr 46 min
+114 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Colours \- Instrumental](https://open.spotify.com/track/5mCZhBTtSRx1Ioy0F6rXDI) | [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [How Not to Make a Living \(Instrumentals\)](https://open.spotify.com/album/0RUwjgoghq5OHo5nqbMCxU) | 3:16 | 2023-03-02 |  |
 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 | 2022-07-22 |  |
 | [Cotton Candy](https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Cotton Candy](https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV) | 2:00 | 2022-07-22 |  |
+| [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 | 2023-09-01 |  |
 | [Cruise](https://open.spotify.com/track/2SHOKzFqELTLPVnmVAUH2u) | [Trap McGrady](https://open.spotify.com/artist/48NVhVESjFx8fte6W9Bwte) | [Love Trap](https://open.spotify.com/album/6D6WhJox7MrEtsxJwO0Xfb) | 3:23 | 2022-07-22 | 2023-03-23 |
 | [D\. Flutie](https://open.spotify.com/track/0dM5IvlcBc53e5OcW3GaNG) | [The Doppelgangaz](https://open.spotify.com/artist/4J8pjytuR06BizCeBKBIDk) | [Beats for Brothels, Vol\. 2](https://open.spotify.com/album/6d0v2nW62OOEHXyK6eLgvr) | 2:41 | 2023-06-21 |  |
 | [Decent](https://open.spotify.com/track/1jA4rvs9CFTqFfZ2GdemOw) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [POSTPARTUM, Vol\. 3](https://open.spotify.com/album/15wILyucaxkhrS9s5yFAV0) | 2:23 | 2023-08-31 |  |
@@ -79,6 +80,7 @@
 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 | 2023-08-31 |  |
 | [Roots](https://open.spotify.com/track/1ykesjzS6t1xyfKxzxWYEq) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Roots](https://open.spotify.com/album/2M6gvFAayTR5r83jpeBYVY) | 2:40 | 2022-08-19 |  |
 | [Runnin' \- Instrumental](https://open.spotify.com/track/2HlDkSeQVfB6Q7QTo8TnY5) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 5:02 | 2022-07-22 |  |
+| [RÅW & UNCUT](https://open.spotify.com/track/3qCdb8GuMPzXbVzBbkre9P) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [RÅW & UNCUT](https://open.spotify.com/album/4toPAW7HgveYu5M9lAYUga) | 3:04 | 2023-09-01 |  |
 | [seed](https://open.spotify.com/track/1JReh3cE7RMbK0dirkUIVk) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0TFI44Sm6gCUGlvIP1RjhU) | 2:00 | 2022-10-14 | 2022-12-05 |
 | [seed](https://open.spotify.com/track/1nmqvyLwzIbdcmKKcUDKL5) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0RWjMFir2IACQoXAbpU5l7) | 2:00 | 2022-07-22 | 2022-11-20 |
 | [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 | 2022-10-14 |  |

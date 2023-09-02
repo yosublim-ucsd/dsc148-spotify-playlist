@@ -158,7 +158,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 142500,
       "name": "Abre a porta",
       "url": "https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 132352,
       "name": "Apaixonadin",
       "url": "https://open.spotify.com/track/0rocmkucHNcpgoClAQNlWu"
@@ -1671,6 +1671,32 @@
     },
     {
       "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "Despedidas",
+      "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
+    },
+    {
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -1958,7 +1984,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 305844,
       "name": "Duro Igual Concreto",
       "url": "https://open.spotify.com/track/1BuSbqff6EcL8gkdkjaB63"
@@ -2449,6 +2475,36 @@
     },
     {
       "album": {
+        "name": "Falar de Amor",
+        "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
+      },
+      "artists": [
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "Falar de Amor",
+      "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
+    },
+    {
+      "album": {
         "name": "FANFIC",
         "url": "https://open.spotify.com/album/43fGjj9DLiuS7DUdbNldc8"
       },
@@ -2612,7 +2668,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 153499,
       "name": "FILME",
       "url": "https://open.spotify.com/track/12jzQkI3F5VNdVgByUX0PW"
@@ -2900,7 +2956,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 200173,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1vrkzEsrowxRKGaj4eiMsF"
@@ -3122,6 +3178,32 @@
       "duration_ms": 161749,
       "name": "Inimigo do Fim",
       "url": "https://open.spotify.com/track/1s1yGD3leGjhzNZb8A4F0x"
+    },
+    {
+      "album": {
+        "name": "Ins\u00f4nia",
+        "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206632,
+      "name": "Ins\u00f4nia",
+      "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
     },
     {
       "album": {
@@ -3639,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "Mandona",
+        "url": "https://open.spotify.com/album/5ySMEWu5ubGZhTegROwwCF"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Mandona",
+      "url": "https://open.spotify.com/track/1cNI6Udwj8fEenmPdZGVYl"
+    },
+    {
+      "album": {
         "name": "Mandona (Se eu te dissesse)",
         "url": "https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK"
       },
@@ -3796,7 +3900,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 288000,
       "name": "Me Negaram Amor",
       "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
@@ -5082,7 +5186,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 232514,
       "name": "Outro Dia",
       "url": "https://open.spotify.com/track/10cGYECUNpFbVCZUMLGP5r"
@@ -5346,7 +5450,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
@@ -5780,7 +5884,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 213983,
       "name": "Procuro Algu\u00e9m",
       "url": "https://open.spotify.com/track/0iCOIAN5PaXnATuKkzTVNx"
@@ -5986,6 +6090,36 @@
       "duration_ms": 204288,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/5ibpnsWL2cbPHZryVdZtHF"
+    },
+    {
+      "album": {
+        "name": "Favela Drill",
+        "url": "https://open.spotify.com/album/4Su4WRXP0u7XDsv8nZzADQ"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "Rabuda",
+      "url": "https://open.spotify.com/track/0l3y8CWKRmrwyoGgC8bsDM"
     },
     {
       "album": {
@@ -6230,7 +6364,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 207314,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/1YumR6MJyfkoHarpg2oL19"
@@ -6596,6 +6730,28 @@
       "duration_ms": 194589,
       "name": "Ser\u00e1?",
       "url": "https://open.spotify.com/track/3tdzYQGavoWCl8gkPcxywd"
+    },
+    {
+      "album": {
+        "name": "Seu Erro",
+        "url": "https://open.spotify.com/album/4vIGO78CeGJ5vdAinZuxzP"
+      },
+      "artists": [
+        {
+          "name": "Mentorzzin",
+          "url": "https://open.spotify.com/artist/18S2hKSQUyNRY45vcMixEX"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Seu Erro",
+      "url": "https://open.spotify.com/track/6Lwxlj4xV0JG0VkTslT2Jh"
     },
     {
       "album": {
@@ -7070,6 +7226,50 @@
       "duration_ms": 128371,
       "name": "Te vi de canto",
       "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
+    },
+    {
+      "album": {
+        "name": "Telefone Toca",
+        "url": "https://open.spotify.com/album/48poavUfOxEfCV80AtfUeO"
+      },
+      "artists": [
+        {
+          "name": "Tito JV",
+          "url": "https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao"
+        },
+        {
+          "name": "Dj Leopoldo",
+          "url": "https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150863,
+      "name": "Telefone Toca",
+      "url": "https://open.spotify.com/track/58ZbpaRpicdhGaCMZVCubX"
+    },
+    {
+      "album": {
+        "name": "P\u00e9talas & Balas",
+        "url": "https://open.spotify.com/album/7DBLpvP0ThVjIANrqeUIW4"
+      },
+      "artists": [
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Tentativas",
+      "url": "https://open.spotify.com/track/6pLtOphoY7woI17OOJIWQv"
     },
     {
       "album": {

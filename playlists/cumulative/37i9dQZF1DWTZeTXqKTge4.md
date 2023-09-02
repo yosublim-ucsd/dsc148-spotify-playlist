@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Fléau Dicaprio
+> Le meilleur du hip\-hop québécois\. Photo: Alaclair Ensemble
 
-463 songs - 23 hr 37 min
+466 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [EDM \(Entre deux mondes\)](https://open.spotify.com/track/6jwPJaGBBM9CeSDqeLF0Iq) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD) | [EDM \(Entre deux mondes\)](https://open.spotify.com/album/4v9kxxVzv0G27JxTC1Aj3k) | 2:55 | 2023-07-28 |  |
 | [Efforts](https://open.spotify.com/track/3ySHy6KrvjBZ6W5IHervID) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Efforts](https://open.spotify.com/album/2325ZxMTjn2qOJjbXmkXjn) | 3:57 | 2022-10-28 | 2023-01-28 |
 | [EGK](https://open.spotify.com/track/5EDdPjs1fNdxmHGUCiV7MQ) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe), [VT](https://open.spotify.com/artist/6sAxiQQZfNZPbwnpFW9C1m) | [EGK](https://open.spotify.com/album/2yO4mSOgBVH41omCGeIi5J) | 2:28 | 2023-08-11 |  |
+| [Emballer](https://open.spotify.com/track/5Rp7AIHzkQP9nLty6EwHuK) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Sang pour Sang 66%](https://open.spotify.com/album/1QH9NmcW4ZKxZ5QfFeFqls) | 2:12 | 2023-09-01 |  |
 | [Ensemble](https://open.spotify.com/track/4HS91pybkuw7ulhC7xMvVv) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Ensemble](https://open.spotify.com/album/6Njbud4EL5e04yUVWzDjxt) | 4:37 | 2023-04-14 | 2023-05-13 |
 | [ensemble v.s\. tout le monde](https://open.spotify.com/track/4Tbe3vpdrpBrqXmLcPlFSa) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [sauvons la planète!](https://open.spotify.com/album/0z3LKy6VCV6ebFE4CxRrbJ) | 1:44 | 2022-01-28 | 2022-02-12 |
 | [Esprit méfiant](https://open.spotify.com/track/1YJTQylI2qGPjd9sbC2Ki8) | [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Esprit méfiant](https://open.spotify.com/album/55ri3vgj9Oqw6XF8EHNDvo) | 2:39 | 2022-05-13 | 2022-10-29 |
@@ -227,7 +228,7 @@
 | [Intro](https://open.spotify.com/track/6uqkrRopGG4wmbOG8ZTxos) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb) | [OUVERT 24H](https://open.spotify.com/album/7EqcDXSFsZso51h1g7cBAM) | 1:45 | 2022-10-28 | 2022-12-17 |
 | [J'ai mon blick](https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [J'ai mon blick](https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150) | 3:32 | 2022-05-20 | 2022-07-23 |
 | [J'ai pas l'time](https://open.spotify.com/track/7oXiWuQPvywjQgKwoVrDY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [J'ai pas l'time](https://open.spotify.com/album/2Ox36Sou25gwtw8wvA6SUN) | 3:50 | 2022-04-29 | 2022-10-15 |
-| [J'dois filer](https://open.spotify.com/track/4OTWfA2YAY4cMnvC2cRFwb) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Sang pour Sang \(33%\)](https://open.spotify.com/album/6RHF4JDWP6MNaMf3BkMU79) | 2:24 | 2023-07-07 |  |
+| [J'dois filer](https://open.spotify.com/track/4OTWfA2YAY4cMnvC2cRFwb) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Sang pour Sang \(33%\)](https://open.spotify.com/album/6RHF4JDWP6MNaMf3BkMU79) | 2:24 | 2023-07-07 | 2023-09-02 |
 | [J'oublie](https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [J'oublie](https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls) | 2:47 | 2023-03-31 | 2023-06-03 |
 | [J'pas une star 3](https://open.spotify.com/track/1YiMxNMZzvIuaHj5YisHrk) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [J'pas une star 3](https://open.spotify.com/album/5UInEQJXXsunFahA3Xd9w6) | 3:05 | 2022-09-30 | 2022-10-08 |
 | [J'suis Une Star](https://open.spotify.com/track/7G2jhgy1zW8p83pl3quwAm) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [J'suis Une Star](https://open.spotify.com/album/4DSmfUB6ivQRGdtv9HbmGo) | 2:54 | 2022-07-01 | 2022-10-01 |
@@ -242,6 +243,7 @@
 | [Jelly](https://open.spotify.com/track/0VVfam9xsR7Em7CWoYECr6) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Jelly](https://open.spotify.com/album/2aP0DI7powMQM4PO5nFrfd) | 2:16 | 2023-08-18 |  |
 | [John Wick](https://open.spotify.com/track/5pSaAGkBadTUWGVdhfYxQz) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [John Wick](https://open.spotify.com/album/4cqEmnt3hBroCnutiCPNoJ) | 3:27 | 2022-01-07 | 2022-03-12 |
 | [JOLIE](https://open.spotify.com/track/3k12fBG7wbMpAvDgOdoDll) | [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [JOLIE](https://open.spotify.com/album/5Qd20porNImdqUen8N5z6x) | 3:08 | 2022-11-11 | 2023-04-01 |
+| [KDB](https://open.spotify.com/track/1zoeNqSeajXpBKLn7qU87E) | [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [KDB](https://open.spotify.com/album/1ir88ihGyKw8RjTBqBf36H) | 2:31 | 2023-09-01 |  |
 | [KENZO NIGO \- Sur moi](https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [LA VIE RAPIDE EARLY ACCESS](https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq) | 3:25 | 2023-06-30 |  |
 | [Kesta ?!](https://open.spotify.com/track/1lYjt83B05waZfNDLmV51F) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G), [C'nee Starlette](https://open.spotify.com/artist/1Uqosoff0TdXYcw8yB7aeo) | [Bienvenue à Baveuse City](https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC) | 3:05 | 2022-02-11 | 2022-04-16 |
 | [King\-V](https://open.spotify.com/track/1QgzTqitUmu9j6mnSS2C0t) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [King\-V](https://open.spotify.com/album/11XbARlvVaV8ujs9BsGnhY) | 2:23 | 2022-04-22 | 2022-10-29 |
@@ -410,7 +412,7 @@
 | [Somebody](https://open.spotify.com/track/0m0zy4bOdjIHBv4AeZaQut) | [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Somebody](https://open.spotify.com/album/6ByO7HcUu9087121xRfMbm) | 3:40 | 2022-01-07 | 2022-02-05 |
 | [Soroche \- Remix](https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu) | [Soroche](https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre) | 3:01 | 2022-01-14 | 2022-02-05 |
 | [Sous les étoiles](https://open.spotify.com/track/2kkkIDj5jtz0Owk7FbLH7d) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sous les étoiles](https://open.spotify.com/album/2ww313PwiVn6jHoWG4Z8yb) | 3:24 | 2022-01-07 | 2022-01-15 |
-| [Stack](https://open.spotify.com/track/6qWTWoKhEURkA1WD9Z8vYQ) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Stack](https://open.spotify.com/album/5q3bd7z8kuSWUDJOtgrAmP) | 5:07 | 2023-08-25 |  |
+| [Stack](https://open.spotify.com/track/6qWTWoKhEURkA1WD9Z8vYQ) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Stack](https://open.spotify.com/album/5q3bd7z8kuSWUDJOtgrAmP) | 5:07 | 2023-08-25 | 2023-09-02 |
 | [Sur la lune](https://open.spotify.com/track/0z33yZbU2DpKRGSoPl4lQO) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Sur la lune](https://open.spotify.com/album/6nW9vAQcbtXmaSHh5lbH3X) | 2:13 | 2023-05-12 | 2023-06-17 |
 | [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 | 2023-01-06 |
 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 | 2022-03-18 | 2022-04-09 |
@@ -419,6 +421,7 @@
 | [Tension S](https://open.spotify.com/track/7mlAW4B88oQLCDLJfnMT09) | [Dextee](https://open.spotify.com/artist/2T0593JGcrLxhxTwHXaWiE) | [Tension S](https://open.spotify.com/album/2HAn3B2dgk6bkj3rHfOBQg) | 2:36 | 2023-06-02 | 2023-07-08 |
 | [Thank God](https://open.spotify.com/track/1G5HR5KwSAOdACXPGZOoCo) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Hood Olympics](https://open.spotify.com/album/0iqGtWPjeNmqJgSSMb6EG5) | 2:15 | 2023-08-11 |  |
 | [Thème](https://open.spotify.com/track/1fhyZmvBwVrHZjRMlc6Rh1) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Thème](https://open.spotify.com/album/5xcBdCm3sYvoBRBf6Q6WPQ) | 2:18 | 2023-04-14 | 2023-06-17 |
+| [Tikisson Woke](https://open.spotify.com/track/1jle97DJnKMS38gA3v0tC7) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [LAIT PATERNEL](https://open.spotify.com/album/3Lpk09crIfWNa05skISIUF) | 4:26 | 2023-09-01 |  |
 | [Titulaire](https://open.spotify.com/track/1t3g4YEWcJXuau9ZuCCkwB) | [Stone](https://open.spotify.com/artist/7MJR0VMo0Jp7eUd2mbs7vQ) | [Titulaire](https://open.spotify.com/album/0M3hYvMSfsp0Bopt8xODgH) | 2:18 | 2023-01-28 | 2023-04-22 |
 | [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 | 2022-07-29 | 2022-10-08 |
 | [TOUJOU LAKAY](https://open.spotify.com/track/53hOZGibisDj5z7Fq9ePFW) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Tows](https://open.spotify.com/artist/0PT0yTrzxUDE7WLZr96qej) | [TOUJOU LAKAY](https://open.spotify.com/album/5hWB7wmExm1ko9U914T8eL) | 3:07 | 2022-01-28 | 2022-02-12 |

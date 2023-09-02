@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,583 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,747 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 22 | [SAYONARA!! VIRUS](https://open.spotify.com/track/5WOQxzb3aX0K7p6f86X5EJ) | [kyuu](https://open.spotify.com/artist/3PGagIYZ350ogiX2RWUTt7), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [SAYONARA!! VIRUS](https://open.spotify.com/album/2JaHHYQFXbthVGeZEJHyU7) | 2:36 |
 | 23 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
 | 24 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
-| 25 | [Henceforth](https://open.spotify.com/track/57ogQzcfCwQW1YoBdfz4Wa) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/2RqPD5PUvE0buIQ74wpmFV) | 3:55 |
+| 25 | [Henceforth](https://open.spotify.com/track/0IrFbhdGbgz9NemUAzaNi1) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [And So Henceforth,](https://open.spotify.com/album/2vVnTKk2FkGP6oGiE8HpT7) | 3:54 |
 | 26 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 |
 | 27 | [Young Girl A \- one day After Another Remix](https://open.spotify.com/track/3rzVcHw0hwVgDEq5udhUJS) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Young Girl A \(one day After Another Remix\)](https://open.spotify.com/album/1olPBlVuFykQpy25lUxxOm) | 3:50 |
 | 28 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 50 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 |
 
-Snapshot ID: `MCxkMDZmYWUxZDVkNzY4MzE5MjZkY2QwMTM3YWYzZTRmN2JkYmQ5ZGY4`
+Snapshot ID: `MCxiMDIwNjQ2MzMyY2IxYjFjYzhmZWE5YjI3ZTU4YTAwYjdlM2U4Yzg0`

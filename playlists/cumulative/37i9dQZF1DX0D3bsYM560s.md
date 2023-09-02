@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-100 songs - 5 hr 42 min
+101 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2023-04-14 |  |
 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 | 2023-04-14 |  |
 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 | 2023-04-14 |  |
+| [No\-See\-Um Stomp](https://open.spotify.com/track/4ZLCJQIEzsldfX3YNj2V0n) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Avril Smith](https://open.spotify.com/artist/5pLEQhE7FwQ84khLW03dTw) | [The Butcher Shoppe EP](https://open.spotify.com/album/7IJHtzaBO8wAsroGvbA5ZN) | 2:58 | 2023-09-01 |  |
 | [Nothing to Lose](https://open.spotify.com/track/3rX3s25gWhcG47YOWJsDhe) | [Olivia Jo](https://open.spotify.com/artist/7EtlrfGDlCMzJNKHCYUepA), [Lou Reid](https://open.spotify.com/artist/6pLbG63bQVlbOyZGb8ldd6) | [Nothing to Lose](https://open.spotify.com/album/23PBI8ewt7XwbFK59azoiC) | 3:38 | 2023-08-04 |  |
 | [Odds of Getting Even](https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Odds of Getting Even](https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE) | 3:15 | 2023-05-15 |  |
 | [Old Songs Never Die](https://open.spotify.com/track/1IQWXHm4JHL3xpHYrlawtR) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:34 | 2023-04-14 |  |

@@ -4,7 +4,7 @@
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-47 songs - 2 hr 17 min
+48 songs - 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2023-05-31 |  |
 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 | 2023-05-31 |  |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2023-05-31 |  |
-| [Goal](https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Goal](https://open.spotify.com/album/3eGBwixVuMykpeIRP6CoZB) | 2:37 | 2023-05-31 |  |
+| [Goal](https://open.spotify.com/track/2yYwQWgkmEWEivKeLGODRK) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Crackito, vol\. 1](https://open.spotify.com/album/5Z0HoUBlTxKxoJaMNcKHW8) | 2:37 | 2023-05-31 |  |
+| [Goal](https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Goal](https://open.spotify.com/album/3eGBwixVuMykpeIRP6CoZB) | 2:37 | 2023-05-31 | 2023-09-02 |
 | [Joli](https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SOIXVNT3 \- Part\. 3](https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n) | 2:36 | 2023-05-31 |  |
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-05-31 |  |
 | [KYLL](https://open.spotify.com/track/1VYTP4prOc62xQe1KWf3S5) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KYLL](https://open.spotify.com/album/0iaSXjvJQx0AAVoOeaBt44) | 3:20 | 2023-05-31 |  |

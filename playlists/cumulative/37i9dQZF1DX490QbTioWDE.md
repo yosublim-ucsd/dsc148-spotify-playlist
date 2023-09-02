@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno, Big One & Rusherking.
 
-353 songs - 22 hr 41 min
+354 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Como Le Digo](https://open.spotify.com/track/4nH1lpWkgzQPpTYPPjWKaI) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:13 | 2021-12-24 | 2022-07-29 |
 | [Como Me Duele Perderte](https://open.spotify.com/track/2W8kUtFezyRlruEbbRp3fR) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Como Me Duele Perderte](https://open.spotify.com/album/7xmEvlYgWQwu4RrfZAVSzQ) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Como Si No Importara](https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Como Si No Importara](https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu) | 1:47 | 2022-01-07 | 2023-04-15 |
-| [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 | 2021-12-24 |  |
+| [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 | 2021-12-24 | 2023-09-02 |
 | [Corazón en Bandeja de Té](https://open.spotify.com/track/6JAqFBKUiAff3hYZafk8HI) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Corazón en Bandeja de Té](https://open.spotify.com/album/52vYmKaGgaXJ5gXFOG0dnP) | 3:09 | 2023-05-05 | 2023-05-13 |
 | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero \(En Vivo\)](https://open.spotify.com/album/1P3h9bf0TZNzLarS1G6CsX) | 3:06 | 2023-08-18 |  |
 | [Costumbres](https://open.spotify.com/track/6gCcOzq4uy8VQktaBzx7wy) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Costumbres](https://open.spotify.com/album/4jX7jBxxmd04LdZB35Hg2r) | 3:30 | 2023-02-17 | 2023-02-25 |
@@ -167,7 +167,7 @@
 | [Los Que Quieran Bailar / Hasta Volverme Loco / Eres Mí Condena \- En Vivo](https://open.spotify.com/track/2QE1uJUwGHsQPqJPgoMgsm) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Aquí y Ahora \(En Vivo\)](https://open.spotify.com/album/3zURDmdkMgq7fWMwcX9u0d) | 5:29 | 2022-01-14 | 2022-05-29 |
 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 |  |
 | [Luna En Capricornio](https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Luna En Capricornio](https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe) | 2:59 | 2022-03-18 | 2023-04-28 |
-| [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 | 2021-12-24 |  |
+| [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 | 2021-12-24 | 2023-09-02 |
 | [Manos de Tijera \- En Vivo](https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Manos de Tijera \(En Vivo\)](https://open.spotify.com/album/3Hl655PnrXY7j3hC35xN75) | 4:18 | 2021-12-24 |  |
 | [Mañana sin vos](https://open.spotify.com/track/0yDCUzTHRAmNSnMeCLPSgi) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/5SoB5nPoVk5AOia9c6Uux7) | 3:07 | 2023-04-24 |  |
 | [Mañana Sin Vos](https://open.spotify.com/track/4QfmLUhVYZgykeLHBYLbVf) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Con Toda la Fuerza](https://open.spotify.com/album/2p0R3kADOsiFUc8gsTlmmq) | 3:07 | 2022-01-10 | 2022-07-15 |
@@ -281,6 +281,7 @@
 | [Secretos](https://open.spotify.com/track/6QhePdHMNM4772Muezdb30) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Secretos](https://open.spotify.com/album/1pwYqkz7KDk3EUOqNM8gT8) | 3:38 | 2023-03-24 | 2023-04-12 |
 | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/track/7ePWUXHm4XtfDn1g1pVRqe) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Session 922: Titi Me Preguntó / La Bachata / Quedate](https://open.spotify.com/album/2RtP8G6cGBrMGaYR3HZiqv) | 4:20 | 2022-09-16 | 2022-12-03 |
 | [Si Faltas Tú](https://open.spotify.com/track/5qg6DJXbQTPTGGF5Ft94Oa) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Cuarteto Premium](https://open.spotify.com/album/5Bzeyk1auK1ebXzNZRnXvz) | 2:59 | 2022-06-03 | 2022-09-23 |
+| [Si Me Dices Que Si \(Estadio Vélez\)](https://open.spotify.com/track/1bfjDohijZVRKHWT53QNFk) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Si Me Dices Que Si \(Estadio Vélez\)](https://open.spotify.com/album/5MFQ2u5jkOxOmZ2IsrK3pf) | 2:52 | 2023-09-01 |  |
 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 | 2022-09-23 |  |
 | [Si Te Vas de Mí \- Live](https://open.spotify.com/track/2gmLkti9beAsOfdX1mKF92) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Si Te Vas de Mí \(Live\)](https://open.spotify.com/album/7HLwOoPCfutbsgxruJ0Bmc) | 3:00 | 2022-01-07 | 2022-07-21 |
 | [Si Tu No Estas](https://open.spotify.com/track/3pgPOehuHA8I85GN7YfpiR) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Si Tu No Estás](https://open.spotify.com/album/45lk2mZV4w5IKtcvdmErAU) | 2:28 | 2023-01-13 | 2023-02-03 |
@@ -296,7 +297,7 @@
 | [Soy Cordobés](https://open.spotify.com/track/1jJ6OaUu1suh9XLERl2cf6) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Soy Cordobés](https://open.spotify.com/album/2jLMR6wpMR1OX3GSgr0qOD) | 5:14 | 2022-01-10 | 2022-07-20 |
 | [Sumando tus besos](https://open.spotify.com/track/6fYXEHXMxrDDg8T40RBLNC) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Sumando tus besos](https://open.spotify.com/album/6lKP8WaDmigCdLwzQr7DDE) | 3:23 | 2023-04-07 | 2023-04-12 |
 | [Tacones Rojos](https://open.spotify.com/track/1hruRExTo7lFCTIGk7GrZq) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Tacones Rojos](https://open.spotify.com/album/3gep9fCirIKgMPYFkxJN5B) | 3:04 | 2021-12-24 | 2022-07-29 |
-| [Tacones Rojos](https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Tacones Rojos](https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r) | 3:04 | 2022-07-22 | 2023-08-19 |
+| [Tacones Rojos](https://open.spotify.com/track/5rZQYQVNMw1yz3zs3VTTBD) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Tacones Rojos](https://open.spotify.com/album/2vipfyylc4YxP4J2tgf23r) | 3:04 | 2022-07-22 |  |
 | [Te extraño](https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [Te extraño](https://open.spotify.com/album/35rMChRz2BVYaCkEa2gY8b) | 3:03 | 2022-10-28 | 2022-11-12 |
 | [Te Felicito](https://open.spotify.com/track/2fFCL1cbivwt9v9jerCgmf) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Te Felicito](https://open.spotify.com/album/4l0209Du1kilXZ4RojUfIJ) | 2:32 | 2022-08-05 | 2022-10-04 |
 | [Te Mentiría](https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [25 \- Veinticinco](https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2) | 3:37 | 2022-07-22 |  |

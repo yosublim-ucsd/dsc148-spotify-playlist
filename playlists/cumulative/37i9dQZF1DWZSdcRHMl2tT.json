@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176616,
       "name": "Affection",
       "url": "https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 160094,
       "name": "Captive",
       "url": "https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 170160,
       "name": "David's House",
       "url": "https://open.spotify.com/track/3C2jaCNb0zckFTRiogJrmW"
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 153414,
       "name": "electric sea",
       "url": "https://open.spotify.com/track/6OCwm4xb1Yni3mT9uugLB4"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 228001,
       "name": "Eridani",
       "url": "https://open.spotify.com/track/5QkMlAxHmZG33OGA81oWSa"
@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 252672,
       "name": "Forest Spirit",
       "url": "https://open.spotify.com/track/3Y0InfIgRhpHbxFiAmPtkm"
@@ -3403,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "Limestone",
+        "url": "https://open.spotify.com/album/3Svuxoaa5s4lMOr72x3KWD"
+      },
+      "artists": [
+        {
+          "name": "Faux Facet",
+          "url": "https://open.spotify.com/artist/7tG7d82cOk5x0WkNAL2TZk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Limestone",
+      "url": "https://open.spotify.com/track/5qpafrgoeAb7Hff4KkhUAZ"
+    },
+    {
+      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/1lPu8vPvymLsCC5xH2DF10"
       },
@@ -4308,7 +4326,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 267750,
       "name": "On Call",
       "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 220909,
       "name": "Rotary",
       "url": "https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV"
@@ -5234,7 +5252,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 167329,
       "name": "Sashimi",
       "url": "https://open.spotify.com/track/4XYmRagdOyH4mwTmgizaUh"
@@ -5530,7 +5548,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176000,
       "name": "Sleep & Pluck",
       "url": "https://open.spotify.com/track/5PDibz01bDnKUlVd7VhNpE"
@@ -5602,7 +5620,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 196636,
       "name": "Snowmen's League",
       "url": "https://open.spotify.com/track/25dn9ZZrJ6WaaCMT52rmjS"
@@ -6380,7 +6398,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 133868,
       "name": "Time To Shine",
       "url": "https://open.spotify.com/track/24Hacii5L2jxfNsiFc27xA"
@@ -6560,7 +6578,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 227142,
       "name": "under the moon",
       "url": "https://open.spotify.com/track/42pudwLPmQT4AnegS85Yz4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,118 likes - 118 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,466 likes - 118 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 105 | [Summer Air](https://open.spotify.com/track/4zHbzMPCg3tovIILIa7dsB) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Summer Air](https://open.spotify.com/album/5bcHkau6y7drfSvfnTwMsv) | 3:03 |
 | 106 | [I Was Wrong \- Robin Schulz Remix](https://open.spotify.com/track/4RNpfZR9Zm7efzuMghkPKb) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [I Was Wrong \(Remixes\)](https://open.spotify.com/album/5k8iqv5tY2xuPLspfa9xBY) | 3:40 |
 | 107 | [Could Be Something](https://open.spotify.com/track/7BWnOZxDYTClsfK4In4Kyi) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:33 |
-| 108 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 |
-| 109 | [Silence](https://open.spotify.com/track/6MdHVJhh0cQomfFevROFuJ) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ) | 3:41 |
+| 108 | [Silence](https://open.spotify.com/track/6MdHVJhh0cQomfFevROFuJ) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ) | 3:41 |
+| 109 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 |
 | 110 | [What I Might Do](https://open.spotify.com/track/4Rnfx020sYy3YoxvA3oMS2) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [DJ Central Groove Vol, 15](https://open.spotify.com/album/0vJgZZgkoZE372ZjV6a38c) | 3:14 |
 | 111 | [Rockabye \(feat\. Sean Paul & Anne\-Marie\) \- Thomas Rasmus Chill Mix](https://open.spotify.com/track/122AOGwKIrI40hLGYRwirG) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Thomas Rasmus](https://open.spotify.com/artist/6WmpHA7d0S6aRf9H2WzION) | [Rockabye \(feat\. Sean Paul & Anne\-Marie\) \[Remixes\]](https://open.spotify.com/album/37fZHLKGbcQE79BhxMCMWc) | 3:38 |
 | 112 | [Let You Love Me \- Möwe Remix](https://open.spotify.com/track/4M0pT9kNYndhyPw15ZDR8C) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy) | [Let You Love Me \(Möwe Remix\)](https://open.spotify.com/album/4OAnWD1IinbLW6ZTKehAh2) | 3:06 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 117 | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/album/6HnspnDTGO0iGliX6OuCTd) | 4:04 |
 | 118 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MCxiYjU5NWM3OTkwNzZiZGZlYjVhMmM5ZWU0YTI5MjkwMTJhOTg3YTVh`
+Snapshot ID: `MCxkNjQ0ZDFiNWYwOGM1N2FlYWJhOWJhZWZhMjA3MDM4YTZmZjE0ZWM0`

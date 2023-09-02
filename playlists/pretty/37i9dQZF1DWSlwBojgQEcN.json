@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1790732,
+  "num_followers": 1790867,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDllYzg4NTljYjZkMGYyOThjMzgxMDg0YTIzOTRmMjY3MTk5OGY3",
+  "snapshot_id": "MCxlMTc2OTViMTdhNjIwYWMwODJkYTJhZTJmYjgyYzY3MDYxZDVjMWE1",
   "tracks": [
     {
       "added_at": "2023-08-21 22:20:13",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-08-21 22:20:13",
       "album": {
+        "name": "Spotify Sessions London",
+        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Take Me to Church - Live From Spotify London",
+      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
+    },
+    {
+      "added_at": "2023-08-21 22:20:13",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 256875,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl"
-    },
-    {
-      "added_at": "2023-08-21 22:20:13",
-      "album": {
-        "name": "Spotify Sessions London",
-        "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Take Me to Church - Live From Spotify London",
-      "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
     },
     {
       "added_at": "2023-08-21 22:20:13",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-08-21 22:20:13",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2023-08-21 22:20:13",
-      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2023-08-21 22:20:13",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2023-08-21 22:20:13",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-08-21 22:20:13",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "We'll Make It Through",
-      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
-    },
-    {
-      "added_at": "2023-08-21 22:20:13",
-      "album": {
         "name": "Wildewoman",
         "url": "https://open.spotify.com/album/5zts6zQSKFKcko1WRdBAez"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2023-08-21 22:20:13",
       "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "We'll Make It Through",
+      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
+    },
+    {
+      "added_at": "2023-08-21 22:20:13",
+      "album": {
         "name": "Highway Woman",
         "url": "https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI"
       },
@@ -1391,26 +1391,6 @@
       "duration_ms": 228093,
       "name": "Highway Woman",
       "url": "https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v"
-    },
-    {
-      "added_at": "2023-08-21 22:20:13",
-      "album": {
-        "name": "Halfway (Acoustic) feat. Hotel Fiction",
-        "url": "https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        },
-        {
-          "name": "Hotel Fiction",
-          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Halfway (Acoustic) feat. Hotel Fiction",
-      "url": "https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo"
     },
     {
       "added_at": "2023-08-21 22:20:13",
@@ -1447,6 +1427,26 @@
     {
       "added_at": "2023-08-21 22:20:13",
       "album": {
+        "name": "Halfway (Acoustic) feat. Hotel Fiction",
+        "url": "https://open.spotify.com/album/3LkMO7M2naqTPwNIEOvuFr"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        },
+        {
+          "name": "Hotel Fiction",
+          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Halfway (Acoustic) feat. Hotel Fiction",
+      "url": "https://open.spotify.com/track/66YHDx66wNm8bjuvWHeQOo"
+    },
+    {
+      "added_at": "2023-08-21 22:20:13",
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-08-21 22:20:13",
       "album": {
-        "name": "Immune",
-        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 210165,
-      "name": "Immune",
-      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
-    },
-    {
-      "added_at": "2023-08-21 22:20:13",
-      "album": {
         "name": "Isbells",
         "url": "https://open.spotify.com/album/4JGBEo8cKdsNT27JNQZ33F"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 235720,
       "name": "Reunite",
       "url": "https://open.spotify.com/track/3stIYspWCgBe0JxbQvkKsv"
+    },
+    {
+      "added_at": "2023-08-21 22:20:13",
+      "album": {
+        "name": "Immune",
+        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
     },
     {
       "added_at": "2023-08-21 22:20:13",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 171383,
+  "num_followers": 171481,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODY5M2U4YzlmZWVjOTcxZDdlNDIyNzYxYmYzZGM3NWQ1MmQ4ZTYw",
+  "snapshot_id": "MCxmOTQxZWUzNGUwMWQ2ZTMzNGE3OTQxMDdhYjk1NTA3YjA1Y2Y5MGVm",
   "tracks": [
     {
       "added_at": "2021-02-02 01:24:47",
@@ -771,6 +771,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/7cVxbZREoOPYMAgTyPR4jz"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Ta' Pillao",
+      "url": "https://open.spotify.com/track/7bNcX3QJYa9zHvseMSSTed"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Sergio Vargas y Los Hijos del Rey",
         "url": "https://open.spotify.com/album/6lHfWJOhMIa8SBUqnNLgsv"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 282697,
       "name": "Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/7Er4UIZLdbJNX6hUP7dLFl"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/7cVxbZREoOPYMAgTyPR4jz"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Ta' Pillao",
-      "url": "https://open.spotify.com/track/7bNcX3QJYa9zHvseMSSTed"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -939,18 +939,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "La Cartita",
-        "url": "https://open.spotify.com/album/4qHNVd7iBV63jkK59bQ1Qa"
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
       "artists": [
         {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
         }
       ],
-      "duration_ms": 291735,
-      "name": "Soy Dominicano",
-      "url": "https://open.spotify.com/track/5vRpffaM7gmz2iCGOKTZ4V"
+      "duration_ms": 259519,
+      "name": "Cobarde, Cobarde",
+      "url": "https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -971,18 +971,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
+        "name": "La Cartita",
+        "url": "https://open.spotify.com/album/4qHNVd7iBV63jkK59bQ1Qa"
       },
       "artists": [
         {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
         }
       ],
-      "duration_ms": 259519,
-      "name": "Cobarde, Cobarde",
-      "url": "https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI"
+      "duration_ms": 291735,
+      "name": "Soy Dominicano",
+      "url": "https://open.spotify.com/track/5vRpffaM7gmz2iCGOKTZ4V"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Siempre Yo",
-        "url": "https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG"
-      },
-      "artists": [
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
-        }
-      ],
-      "duration_ms": 192932,
-      "name": "Siervo de Amor",
-      "url": "https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Merengue Passion",
         "url": "https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 270013,
       "name": "Noches de Fantas\u00eda",
       "url": "https://open.spotify.com/track/2f2k0KjxqB9p1e6scnkRh9"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Siempre Yo",
+        "url": "https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG"
+      },
+      "artists": [
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+        }
+      ],
+      "duration_ms": 192932,
+      "name": "Siervo de Amor",
+      "url": "https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "El Maestro Con Sus 16 Exitos",
-        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Gotas De Pena",
-      "url": "https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Buscando Tus Besos",
         "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 256092,
       "name": "Dame Veneno",
       "url": "https://open.spotify.com/track/7a4f6P95wEvMyHmksWgpDU"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "El Maestro Con Sus 16 Exitos",
+        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Gotas De Pena",
+      "url": "https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Besos Callejeros",
+      "url": "https://open.spotify.com/track/5QwFJzpcejFaSyHjKwN7qx"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Con Fuerza!",
         "url": "https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 288200,
       "name": "Que? Aha!",
       "url": "https://open.spotify.com/track/7zFnaskZB4uWrfZijnZDFK"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 226946,
-      "name": "Besos Callejeros",
-      "url": "https://open.spotify.com/track/5QwFJzpcejFaSyHjKwN7qx"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengues Clasicos",
-        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
+        "name": "16 Exitos de Sandy Reyes",
+        "url": "https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi"
       },
       "artists": [
         {
-          "name": "Nando Galan",
-          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
         }
       ],
-      "duration_ms": 267200,
-      "name": "Faltaste A La Cita",
-      "url": "https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg"
+      "duration_ms": 245933,
+      "name": "Enamorar",
+      "url": "https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "16 Exitos de Sandy Reyes",
-        "url": "https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi"
+        "name": "Merengues Clasicos",
+        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
       },
       "artists": [
         {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+          "name": "Nando Galan",
+          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
         }
       ],
-      "duration_ms": 245933,
-      "name": "Enamorar",
-      "url": "https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x"
+      "duration_ms": 267200,
+      "name": "Faltaste A La Cita",
+      "url": "https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/2C6hgkhy5dfcLlMENGzeAP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Legrand",
-          "url": "https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe"
-        }
-      ],
-      "duration_ms": 304922,
-      "name": "Colegiala",
-      "url": "https://open.spotify.com/track/0RQ5LT7539YOXzTMEacF7V"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Es Mejor Decir Adios",
         "url": "https://open.spotify.com/album/2bNVUO6TyN1hZvN8TOEi0s"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 317492,
       "name": "De Que Manera Te Olvido",
       "url": "https://open.spotify.com/track/0wM04UVM5yqnZYgfmW4Kyo"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/2C6hgkhy5dfcLlMENGzeAP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Legrand",
+          "url": "https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe"
+        }
+      ],
+      "duration_ms": 304922,
+      "name": "Colegiala",
+      "url": "https://open.spotify.com/track/0RQ5LT7539YOXzTMEacF7V"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengues Clasicos Vol 2",
-        "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
+        "name": "Ineditos",
+        "url": "https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1"
       },
       "artists": [
         {
-          "name": "La Patrulla 15",
-          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
         }
       ],
-      "duration_ms": 375320,
-      "name": "Yo me siento enamorao",
-      "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
+      "duration_ms": 294607,
+      "name": "Adolescente Tu",
+      "url": "https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Ineditos",
-        "url": "https://open.spotify.com/album/4KgURbQPHQi1qOn2tY9Ra1"
-      },
-      "artists": [
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
-        }
-      ],
-      "duration_ms": 294607,
-      "name": "Adolescente Tu",
-      "url": "https://open.spotify.com/track/4SYDVdaVe7JoGP9eh1wewN"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 259519,
       "name": "La Loba",
       "url": "https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Merengues Clasicos Vol 2",
+        "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
+      },
+      "artists": [
+        {
+          "name": "La Patrulla 15",
+          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+        }
+      ],
+      "duration_ms": 375320,
+      "name": "Yo me siento enamorao",
+      "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Con Mucho Swing",
-        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 313808,
-      "name": "Cobarde Cobarde",
-      "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Caricias",
         "url": "https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 214254,
       "name": "Un Sobrinito de Champagne",
       "url": "https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Con Mucho Swing",
+        "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
+      },
+      "artists": [
+        {
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
+        }
+      ],
+      "duration_ms": 313808,
+      "name": "Cobarde Cobarde",
+      "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
     },
     {
       "added_at": "2021-02-02 01:24:47",

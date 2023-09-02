@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-522 songs - 1 day 7 hr 25 min
+523 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Hanoï Café](https://open.spotify.com/track/7f0MMJGwQKtt4ZPu0Y6Vwu) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami \- EP](https://open.spotify.com/album/5AuC9w0bmEFtdgLkg7Jrz8) | 3:14 | 2022-03-30 | 2022-04-19 |
 | [Happy](https://open.spotify.com/track/6Xodd3wwjgU8FRqIX5fkgH) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Mark Foster](https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV) | [Mecury Rising](https://open.spotify.com/album/4d2j7pkXqc2EmAVOqgPQWU) | 2:48 | 2022-03-30 |  |
 | [He Can Only Hold Her](https://open.spotify.com/track/3eVo0wD4kGwF3gshtecZso) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:46 | 2022-03-30 | 2022-10-04 |
-| [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 | 2022-01-21 |  |
+| [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 | 2022-01-21 | 2023-09-02 |
 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2022-03-30 | 2023-03-25 |
 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1bTzErckylA7bBIrBfOgRI) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Hold On \(I Was Wrong\)](https://open.spotify.com/album/1sGQGH1CSRn0888zYxz8EB) | 3:43 | 2022-03-30 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 | 2021-12-16 | 2022-07-29 |
@@ -354,6 +354,7 @@
 | [Palladium](https://open.spotify.com/track/3j3vtKJrih52kOC88jfOkB) | [Ronesh](https://open.spotify.com/artist/7xtZSl7LM8fNiUir2UZiPK) | [Stone Groove](https://open.spotify.com/album/2usKtboTSPUPsHztdWAlfm) | 1:42 | 2021-12-16 | 2022-07-29 |
 | [Paradise \- Boehm Remix](https://open.spotify.com/track/5VUl17rW74R67xbxOppPl8) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [Paradise \(Boehm Remix\)](https://open.spotify.com/album/1pNKxOEbz4mHqoiHV4Lr7Y) | 3:17 | 2022-03-30 | 2022-04-21 |
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2021-12-16 |  |
+| [Perfect Day](https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Perfect Day](https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H) | 4:01 | 2023-08-29 |  |
 | [Periodically Double or Triple](https://open.spotify.com/track/58PkblZg918Ll5jYYllHIn) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Popular Songs](https://open.spotify.com/album/20od2Wb9d393Pnp9cScsML) | 3:53 | 2022-03-30 | 2022-04-20 |
 | [Pick Up](https://open.spotify.com/track/5KgDztq0q1kEO4UXVDCrID) | [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x) | [22.02.85](https://open.spotify.com/album/2yix6ciimzalVAJKBnQd0t) | 3:37 | 2022-03-30 | 2022-04-18 |
 | [Pig](https://open.spotify.com/track/7lNv1uR1e9JndPOPxrx2fo) | [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt) | [Future Disc](https://open.spotify.com/album/1Nmf8lD3yED6aaYWwWOlWc) | 3:19 | 2021-12-16 | 2022-04-21 |

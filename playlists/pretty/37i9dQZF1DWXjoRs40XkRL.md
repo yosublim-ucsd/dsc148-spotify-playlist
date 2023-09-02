@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,191 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,236 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 74 | [Mann Bheetar](https://open.spotify.com/track/2yhih9jbMZKK9DqpwSTkgP) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:29 |
 | 75 | [Sunn Bhavara](https://open.spotify.com/track/5bYBUKAIs1F4DcdcNfbMgj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 4:23 |
 
-Snapshot ID: `MCxkZTg5NjcyOTU5MzM0OTU2NjNkNmUwMDlkMzhjNzY5YTE0NTg2YjVl`
+Snapshot ID: `MCxmZjJjMWFlOTk5YmEzNDc1MGZiNzRkYjg5MDcxY2Y1YWI4YTBjNGY4`

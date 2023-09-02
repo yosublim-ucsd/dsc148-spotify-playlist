@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 123970,
       "name": "Heisser Sand",
       "url": "https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z"
@@ -1244,6 +1244,24 @@
       "duration_ms": 196120,
       "name": "Monsta",
       "url": "https://open.spotify.com/track/3RM5RpRDDdST1njqOMG141"
+    },
+    {
+      "album": {
+        "name": "Morgen kickt der Kater",
+        "url": "https://open.spotify.com/album/6rmvDE7rJxD35UMJWdRnxz"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196764,
+      "name": "Morgen kickt der Kater",
+      "url": "https://open.spotify.com/track/0VB7FDKebXYVAkqZinFRxc"
     },
     {
       "album": {

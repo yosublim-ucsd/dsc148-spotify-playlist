@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
+    },
+    {
+      "album": {
         "name": "Pink Bloom!",
         "url": "https://open.spotify.com/album/4Zto4AuUoDr5PFEMINg2Dc"
       },
@@ -698,7 +716,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 263280,
       "name": "Good Disease",
       "url": "https://open.spotify.com/track/5pA39NQIP1nZgvFxV5Fi7S"
@@ -855,6 +873,46 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+    },
+    {
+      "album": {
+        "name": "Howl (Chill Mix)",
+        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197619,
+      "name": "Howl - Chill Mix",
+      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
+    },
+    {
+      "album": {
         "name": "DJ-Kicks EP",
         "url": "https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE"
       },
@@ -870,6 +928,24 @@
       "duration_ms": 275533,
       "name": "Hungboo - DJ-Kicks",
       "url": "https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm"
+    },
+    {
+      "album": {
+        "name": "I can share my love with you",
+        "url": "https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX"
+      },
+      "artists": [
+        {
+          "name": "Bassi Fox",
+          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216204,
+      "name": "I can share my love with you",
+      "url": "https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl"
     },
     {
       "album": {
@@ -1016,7 +1092,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 308000,
       "name": "It's up to Me",
       "url": "https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx"
@@ -1378,6 +1454,24 @@
       "duration_ms": 359706,
       "name": "M. Dupont",
       "url": "https://open.spotify.com/track/5PVGKs7sAoDdK0cvMDaKqR"
+    },
+    {
+      "album": {
+        "name": "A Mixtape by Anish Kumar",
+        "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252208,
+      "name": "Marabelle",
+      "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
     },
     {
       "album": {
@@ -1748,7 +1842,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
@@ -1958,7 +2052,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 347317,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/1z3roU3y19kIFTQDCBUeZ8"
@@ -2276,7 +2370,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 274640,
       "name": "The Child",
       "url": "https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K"

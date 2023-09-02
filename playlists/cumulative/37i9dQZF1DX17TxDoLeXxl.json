@@ -2491,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Summer Lover (North Woods)",
+        "url": "https://open.spotify.com/album/1XWILmOgNlZoKqNhRz1RfF"
+      },
+      "artists": [
+        {
+          "name": "Harbor & Home",
+          "url": "https://open.spotify.com/artist/2zwTFhb1SlPSuER7CMNOiV"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Summer Lover (North Woods)",
+      "url": "https://open.spotify.com/track/2mR4jiV2CFlm9ioWpkGIKp"
+    },
+    {
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },

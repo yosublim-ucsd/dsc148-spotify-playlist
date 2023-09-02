@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-275 songs - 13 hr 26 min
+277 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Degrees](https://open.spotify.com/track/7MKGzP89oekcEczUyKdjSs) | [Pocket Nine](https://open.spotify.com/artist/50EEE2w7CNIP7RDQuewOPU) | [Degrees](https://open.spotify.com/album/5hKWCcrzBHkmEdFnSSAmeR) | 2:29 | 2023-07-06 |  |
 | [detour](https://open.spotify.com/track/3cH2o1jJ13v2U1o1nbGUNW) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [detour](https://open.spotify.com/album/3W42O1LosXXhBD1d5N5TQH) | 2:57 | 2022-06-24 |  |
 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 | 2021-11-11 | 2022-05-20 |
+| [Dizzy Street](https://open.spotify.com/track/3bweBh2zXCHPwQyOTgA07S) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sidewalk](https://open.spotify.com/album/4LJKxdM1lAvuVLs0LxlqS6) | 3:53 | 2023-09-01 |  |
 | [Dream Repeat](https://open.spotify.com/track/04evXU0FfGzNOQR8WLdhPw) | [Hiro Lam](https://open.spotify.com/artist/2mZ6IwBhZqvfxcCtAwz25L) | [Dream Repeat](https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o) | 3:57 | 2021-11-11 |  |
 | [drift](https://open.spotify.com/track/0vvtzmmvWQRP9VmCoZBHxn) | [lola dreams](https://open.spotify.com/artist/5b2IjxR1EQiDcay0RSzgNY) | [drift](https://open.spotify.com/album/5ywDwMQPjZl3ixzfCZHVaG) | 2:34 | 2021-11-11 | 2022-05-20 |
 | [drop the ball](https://open.spotify.com/track/6672eTNp29KIwkCHn0Ggyl) | [You're Good](https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR) | [drop the ball](https://open.spotify.com/album/7I7DErezRt4ezOAM1GfWpw) | 3:29 | 2022-06-17 |  |
@@ -141,6 +142,7 @@
 | [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 | 2022-07-15 |  |
 | [Little Miss Universe](https://open.spotify.com/track/1Ec6Duf5AmAmPGFwEzJkv4) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Little Miss Universe](https://open.spotify.com/album/5IHkFNd44rqOD7cF4jMid1) | 3:23 | 2022-05-20 | 2022-09-09 |
 | [Looped\-tape excesses](https://open.spotify.com/track/5jXitTj0rgRXOIsxJb6AxE) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Looped\-tape excesses](https://open.spotify.com/album/3qnZ5AacXwJJcnAsPpyOth) | 3:32 | 2023-02-17 |  |
+| [Lotus Sunset](https://open.spotify.com/track/2hExpSS1RhXGbwLxNkN9kl) | [Purple Waves](https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1) | [Lotus Sunset](https://open.spotify.com/album/309fHqqPE7jrXrnydkaaDK) | 2:12 | 2023-09-01 |  |
 | [Lounge Joint](https://open.spotify.com/track/3SkVZHNHUVDzelIarOrgDe) | [Minor Keyz](https://open.spotify.com/artist/3vmtpFNZmk6ZfJd2sGDJDp) | [The Weekend](https://open.spotify.com/album/1LLNpIVJt4wHbxaoKwUyeE) | 1:21 | 2021-11-11 | 2022-04-15 |
 | [Lucky Indigo](https://open.spotify.com/track/7hBV6H6Yi5KMcNAxrWfxN2) | [Ayimi](https://open.spotify.com/artist/6QTs7zcBWJY3Hst7yKkc2e) | [Lucky Indigo](https://open.spotify.com/album/5xldzhflovUqTs5lKCfhxG) | 3:05 | 2021-11-11 |  |
 | [Lujo](https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI) | [DJ Duboise](https://open.spotify.com/artist/4rrvVP1Aeax1bAcLYpCBCN) | [Lujo](https://open.spotify.com/album/1oaJFXlAaPf1seL59yGGb7) | 2:37 | 2021-11-11 | 2023-05-27 |

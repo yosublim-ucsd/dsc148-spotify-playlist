@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,293 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,301 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 22 | [The Irish Rover \(feat\. The Dubliners\)](https://open.spotify.com/track/2bi81jmDAmBJ4LeVmfyaVG) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Very Best of The Pogues](https://open.spotify.com/album/3wRRu2P6cndiyru88yCXnL) | 4:08 |
 | 23 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
 | 24 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
-| 25 | [Boys in the Better Land](https://open.spotify.com/track/0iJX82OGewFWpyRtB8zzo4) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 5:00 |
+| 25 | [Boys In the Better Land](https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 5:00 |
 | 26 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 |
 | 27 | [Back Home in Derry](https://open.spotify.com/track/3rbU2EuVBNjjBW5OYKb7No) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [Ride On](https://open.spotify.com/album/5Zah4fLbDN48as0KGmywh1) | 3:47 |
 | 28 | [The Rocky Road To Dublin](https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [The High Kings](https://open.spotify.com/album/4EDaQ3qQ8vglXgSi5sQm2A) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 | 79 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 |
 | 80 | [Nothing Compares 2 U \- Live](https://open.spotify.com/track/0s4iYgAV4SZF1Xli9PmE74) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [¡Released! The Human Rights Concerts \- An Embrace Of Hope](https://open.spotify.com/album/19JdXPQrKwjmL2rH2AfFs7) | 5:30 |
 
-Snapshot ID: `MCxhYTcxNTA1MmY0N2E2YjYwMWM0YTI1MzAxY2M5ODg4MjlhNDc4Zjlj`
+Snapshot ID: `MCwzZDI5MDE5YjkzYTc4ODdiYjBjZDU3ZTNkYmFiZmJjY2Q4NzhkNjYw`

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-562 songs - 21 hr 47 min
+563 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [In a Hood Near You](https://open.spotify.com/track/3xLMFWoTmUzkaIEbnxKEpm) | [IGARASHI KANTA](https://open.spotify.com/artist/2r3Cnp9cRn8MEUEuvol6J0) | [In a Hood Near You](https://open.spotify.com/album/2ilQzlGwERypBa2oJ7AZ9e) | 1:40 | 2021-05-12 | 2022-09-24 |
 | [INCOMING](https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [INCOMING](https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F) | 2:20 | 2022-05-13 |  |
 | [Insomnia](https://open.spotify.com/track/2Vp6rFLNuJp8ZOFPbuuGC5) | [Save Haku](https://open.spotify.com/artist/2K30tfm9DyDVeW7n3eXGza) | [Insomnia](https://open.spotify.com/album/72HSK8QUAUQN8cL9JINOp4) | 2:27 | 2021-08-27 | 2022-06-04 |
-| [Intrusive Thoughts](https://open.spotify.com/track/6FkmFtOV8I2ygYPZyeibqc) | [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [Intrusive Thoughts](https://open.spotify.com/album/2RSWURwG8u9S1kiS3dui9M) | 2:18 | 2023-07-28 |  |
+| [Intrusive Thoughts](https://open.spotify.com/track/6FkmFtOV8I2ygYPZyeibqc) | [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [Intrusive Thoughts](https://open.spotify.com/album/2RSWURwG8u9S1kiS3dui9M) | 2:18 | 2023-07-28 | 2023-09-02 |
 | [Japan](https://open.spotify.com/track/39QSBh0Oz2OsnjAtjCQ3JH) | [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [Japan](https://open.spotify.com/album/0nlmIPxCvBNODxnr5hk8gG) | 1:43 | 2021-10-15 | 2022-05-14 |
 | [JUDAS](https://open.spotify.com/track/2kW9lB6yMbpsEUKaKP1nR6) | [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [JUDAS](https://open.spotify.com/album/0QyVIrggMGABwjt79ICTdd) | 1:57 | 2023-03-10 | 2023-04-19 |
 | [JUDAS](https://open.spotify.com/track/2fDvxV1N7SxQYbWNrN7YJl) | [SAY3AM](https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu) | [JUDAS](https://open.spotify.com/album/3bhcjWFGnBUqvrHmNr5e6c) | 1:57 | 2023-03-10 |  |
@@ -322,6 +322,7 @@
 | [MORTAL](https://open.spotify.com/track/0I7I4kUnGVqoxemDmYcysN) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [MORTAL](https://open.spotify.com/album/5vg1cPV2HG0c987ofDZlc4) | 2:23 | 2022-07-08 | 2022-08-06 |
 | [Most Wanted](https://open.spotify.com/track/6kA9g6M1SoDBUGuy3iuC3D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [Most Wanted](https://open.spotify.com/album/30ei2lHJtrhRFX3rcPamzL) | 2:01 | 2023-01-06 | 2023-02-11 |
 | [MOZART PHONK](https://open.spotify.com/track/4uA4FfwW15P8PguZ1uOlpl) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [MOZART PHONK](https://open.spotify.com/album/1fmKvCpuWKniXwgsALsoIT) | 1:13 | 2023-02-10 | 2023-07-08 |
+| [Mtg \- Coração](https://open.spotify.com/track/4nyMoK6gePLzCJybQl4O2F) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Mtg \- Coração](https://open.spotify.com/album/4LsthlcTRWkcsfRRn9yxYC) | 1:53 | 2023-09-01 |  |
 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 | 2023-06-30 |  |
 | [MTG \- REBOLA NO MEU C4RALHO](https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc) | [DJ LA BEAT](https://open.spotify.com/artist/7x17bGSbbPvPv9YOhPhMch) | [MTG \- REBOLA NO MEU C4RALHO](https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p) | 3:27 | 2023-04-11 |  |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-05-13 |  |

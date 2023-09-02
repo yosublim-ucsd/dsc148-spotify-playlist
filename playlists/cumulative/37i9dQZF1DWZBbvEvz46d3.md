@@ -4,7 +4,7 @@
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-84 songs - 5 hr 18 min
+85 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Im Wiecej Ciebie Tym Mniej](https://open.spotify.com/track/3o27KMyW0hyzCsWZr8Mxes) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ) | [Puls](https://open.spotify.com/album/17OqmEqHKm76hZ1z9n5LeF) | 4:44 | 2023-02-03 |  |
 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róze Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 | 2023-02-03 |  |
 | [Jesteś lekiem na całe zło \- 1994](https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs) | [Krystyna Prońko](https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y) | [Osobista kolekcja 2](https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh) | 4:40 | 2023-02-14 |  |
-| [Jutro możemy być szczęśliwi](https://open.spotify.com/track/7zIYJMuU8iF4m5Tp0yKJ3l) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB), [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kwiat Jabłoni i goście: Wolne serca](https://open.spotify.com/album/0kA5rE2tsWsTOp6cX1gAW0) | 4:19 | 2023-02-03 |  |
+| [Jutro możemy być szczęśliwi](https://open.spotify.com/track/7zIYJMuU8iF4m5Tp0yKJ3l) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB), [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kwiat Jabłoni i goście: Wolne serca](https://open.spotify.com/album/0kA5rE2tsWsTOp6cX1gAW0) | 4:19 | 2023-02-03 | 2023-09-02 |
 | [Kamień z Napisem Love](https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU) | [Enej](https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0) | [Paparanoja](https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be) | 3:07 | 2023-02-03 |  |
 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 | 2023-02-03 |  |
 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [Kontrast](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 | 2023-02-03 |  |
@@ -60,6 +60,7 @@
 | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg) | [Bitamina](https://open.spotify.com/artist/2EJzUdaDAwfqcjpQcRAYdQ) | [Niech no tylko zakwitną jabłonie](https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb) | 2:37 | 2023-02-03 | 2023-08-26 |
 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 3:43 | 2023-02-03 |  |
 | [Nikt tak pięknie nie mówił, że się boi miłości](https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux) | [Pidżama Porno](https://open.spotify.com/artist/0qibngGI3EFCen6abY5hqY) | [Bułgarskie centrum](https://open.spotify.com/album/30EQdPcM7Lf3IuKBw2WCau) | 6:14 | 2023-02-03 |  |
+| [Nim Zajdzie Słońce](https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Nim Zajdzie Słońce](https://open.spotify.com/album/5WnfW3ixclewUIAMAFfiDO) | 2:27 | 2023-09-01 |  |
 | [O nich, o Tobie](https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [O nich, o Tobie](https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r) | 2:27 | 2023-02-03 |  |
 | [O Pani!](https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Momenty](https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr) | 2:58 | 2023-02-03 |  |
 | [O Sobie Samym](https://open.spotify.com/track/01FN979nyz1gmdsfWZv5OL) | [Robert Gawlinski](https://open.spotify.com/artist/32qNyW2sjyjjPDQamC2f9O) | [Solo](https://open.spotify.com/album/1UaJL8ydW6w4VL5ECw27ew) | 3:02 | 2023-02-03 | 2023-08-20 |

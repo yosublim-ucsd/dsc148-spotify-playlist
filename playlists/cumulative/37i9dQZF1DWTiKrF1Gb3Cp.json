@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 185840,
       "name": "Asi La Navegamos",
       "url": "https://open.spotify.com/track/7K6GYIQnXC9bxmVT9bhvpU"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 255440,
       "name": "El G.O.A.T.",
       "url": "https://open.spotify.com/track/3XFZZBTWUvClRpmXG1NV0D"
@@ -836,6 +836,24 @@
       "duration_ms": 183353,
       "name": "El Ni\u00f1o Malo",
       "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
+    },
+    {
+      "album": {
+        "name": "EL TAMBORRR",
+        "url": "https://open.spotify.com/album/4rP62gJhxZ4MgmJXFM6PPR"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181138,
+      "name": "EL TAMBORRR",
+      "url": "https://open.spotify.com/track/3h54tgQexhhDd7NcNQDNXe"
     },
     {
       "album": {
@@ -1044,6 +1062,32 @@
       "duration_ms": 254000,
       "name": "Fe",
       "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
+    },
+    {
+      "album": {
+        "name": "Feria en el Sobre",
+        "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194100,
+      "name": "Feria en el Sobre",
+      "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
     },
     {
       "album": {
@@ -2336,7 +2380,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 281052,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/60hha07HcgmqYb89l9o4NQ"
@@ -2470,6 +2514,28 @@
       "duration_ms": 150517,
       "name": "Toretto",
       "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
+    },
+    {
+      "album": {
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     },
     {
       "album": {

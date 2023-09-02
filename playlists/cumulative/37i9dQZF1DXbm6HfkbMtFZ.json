@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
@@ -6482,6 +6482,24 @@
       "duration_ms": 132746,
       "name": "Passion",
       "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
+    },
+    {
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241663,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
     },
     {
       "album": {

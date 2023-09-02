@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-92 songs - 5 hr 35 min
+94 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,10 @@
 | [Driving Like A Dream Car Should](https://open.spotify.com/track/5yeaDXxrodUEbYGxfDXZej) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl) | [Driving Like A Dream Car Should](https://open.spotify.com/album/0PUtR0ic8SMHYtj6CF77cQ) | 3:07 | 2023-04-27 | 2023-05-01 |
 | [Eyes On The Road](https://open.spotify.com/track/3EMW8uImDU4SfrtNMleX7v) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Eyes On The Road](https://open.spotify.com/album/59ZMGrtibbHBmCM1QnFhue) | 3:10 | 2023-04-27 | 2023-05-01 |
 | [Factory](https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Factory](https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u) | 3:20 | 2023-08-17 |  |
+| [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-09-01 |  |
 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 | 2023-02-23 |  |
 | [Feel Like Going Home \(feat\. The Southern Aces & Jw Roy\)](https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s) | [Malford Milligan](https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz), [The Southern Aces](https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Life Will Humble You](https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ) | 4:48 | 2023-04-27 | 2023-04-30 |
-| [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 |  |
+| [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2023-09-02 |
 | [Forever a Prisoner](https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP), [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Forever a Prisoner](https://open.spotify.com/album/489krjRSaaFyODbOscNedG) | 3:19 | 2023-08-31 |  |
 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 | 2023-04-27 | 2023-09-01 |
 | [Gravel Road](https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Wandering Soul](https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv) | 2:32 | 2023-06-01 |  |
@@ -45,6 +46,7 @@
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2023-02-23 |  |
 | [Home Is Where...](https://open.spotify.com/track/3joE5kBQ4R85LrU8NG4SdZ) | [John Engel](https://open.spotify.com/artist/3HMnypHJS8kCT5JeKsEmzZ) | [Home Is Where...](https://open.spotify.com/album/5P2b8CbIX0kBW2vRLdx5wo) | 4:39 | 2023-02-23 | 2023-04-28 |
 | [I Feel for You](https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Feel for You](https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb) | 3:03 | 2023-02-23 | 2023-06-01 |
+| [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-01 |  |
 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 | 2023-04-27 |  |
 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 | 2023-02-23 | 2023-04-29 |
 | [Into The Wild](https://open.spotify.com/track/2Fu4lrs00YKBQ1sIHUT4Kl) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Into The Wild](https://open.spotify.com/album/10JOoOnHzsKLifj0g1DTJy) | 2:45 | 2023-08-24 |  |
@@ -78,7 +80,7 @@
 | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/track/1PDGJwXHeE6cMQaZjLXNTX) | [Jasper Schalks](https://open.spotify.com/artist/1rVfa0RepB2c2WIQeaetbL) | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/album/0Ccia2X6qrLwws03GhJNvK) | 5:58 | 2023-06-22 | 2023-06-30 |
 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-02-23 | 2023-07-15 |
 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 | 2023-02-23 | 2023-06-23 |
-| [The Longest Journey](https://open.spotify.com/track/6OjJ5LKp4HX7IvQ5alO34f) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/0kttObNMrwBQFyDGBKiuSW) | 3:48 | 2023-08-31 |  |
+| [The Longest Journey](https://open.spotify.com/track/6OjJ5LKp4HX7IvQ5alO34f) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/0kttObNMrwBQFyDGBKiuSW) | 3:48 | 2023-08-31 | 2023-09-02 |
 | [The Way I Love You Now \- Bluefinger Version](https://open.spotify.com/track/5PSKr3GOMG58k5SoI2ebQo) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [The Way I Love You Now](https://open.spotify.com/album/4AIG9wuEswkHUeQHcIZazL) | 4:09 | 2023-07-06 |  |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2023-02-23 |  |
 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 | 2023-06-09 |  |

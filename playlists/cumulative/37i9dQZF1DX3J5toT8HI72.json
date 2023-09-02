@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182111,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO"
+    },
+    {
+      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
       },
@@ -496,7 +514,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 349573,
       "name": "Dan\u00e7ando",
       "url": "https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx"

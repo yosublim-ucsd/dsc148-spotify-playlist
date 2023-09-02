@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "If I Tried",
+        "url": "https://open.spotify.com/album/0vp88bPsCQ66QG8eyqST33"
+      },
+      "artists": [
+        {
+          "name": "Zumaia",
+          "url": "https://open.spotify.com/artist/30w51iPwkBwWcs6ZzrrxsH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "If I Tried",
+      "url": "https://open.spotify.com/track/7uhpIuXpKa6cMWe5uRD6aV"
+    },
+    {
+      "album": {
         "name": "Indi",
         "url": "https://open.spotify.com/album/3eFlBkbtH9AiyEXXr0YBeT"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 167543,
       "name": "Rude",
       "url": "https://open.spotify.com/track/28LJlaqXAzbuvrdUtmRA5X"

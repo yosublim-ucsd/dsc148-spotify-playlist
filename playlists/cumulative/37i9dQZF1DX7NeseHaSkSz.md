@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7NeseHaSkSz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7NeseHaSkSz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7NeseHaSkSz)
 
-### [Secret Temple of Dreams](https://open.spotify.com/playlist/37i9dQZF1DX7NeseHaSkSz)
+### [Temple of Dreams](https://open.spotify.com/playlist/37i9dQZF1DX7NeseHaSkSz)
 
-> From deep in the woods you hear the soft sounds of a calm Indian flute..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
+> Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-73 songs - 5 hr 4 min
+76 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,14 @@
 | [aashaavaan](https://open.spotify.com/track/0JMeYwyjasPj4oWmM8gib3) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [gaharaee](https://open.spotify.com/album/7A6os5n1BsA9uRBFhDYrIo) | 4:08 | 2023-08-10 |  |
 | [Agileoria](https://open.spotify.com/track/5kSBQY4fMxuTcpwJiKbVLt) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Agileoria](https://open.spotify.com/album/3OEyW7gmMUY4AoN487KBPj) | 2:57 | 2023-08-18 |  |
 | [Ancient](https://open.spotify.com/track/2pqaeRYZYAEQYdYReWtznY) | [Música Relajante](https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR) | [Ancient](https://open.spotify.com/album/0n2r2jpxNNpTmqEhiKHyZc) | 3:43 | 2023-08-10 |  |
+| [Anupam Rahasya](https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Anupam Rahasya](https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec) | 4:37 | 2023-09-01 |  |
 | [Asanas](https://open.spotify.com/track/59iI6ZQuRub6BEWTYaKk6B) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Asanas](https://open.spotify.com/album/36zJILS0SwVeEIN4yyRYmu) | 4:50 | 2023-08-18 |  |
 | [Back to Sinharaja](https://open.spotify.com/track/6zWvomaeagWa6yO80CwumF) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/2uaXLSDaFPx6oBRuq06rqc) | 2:37 | 2023-08-10 |  |
 | [Breathe Deep](https://open.spotify.com/track/1IbaKAjgt3jCUgeb3MxKiM) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Breathe Deep](https://open.spotify.com/album/6TQhNqh95efIgkLWcBn0kf) | 3:14 | 2023-08-10 |  |
 | [Calm Garden](https://open.spotify.com/track/3TuoN9z8tuHuL8p6djZqVU) | [Wyomings](https://open.spotify.com/artist/0VngMz1xp49mw2SXS7J2lw) | [Calm Garden](https://open.spotify.com/album/4Qyc0q57a7ZzBRHJ4ARzMU) | 3:19 | 2023-08-10 |  |
 | [Chamatkaar](https://open.spotify.com/track/6In0Sx3f6PXObPLNpLSApI) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Chamatkaar](https://open.spotify.com/album/3tXfRYws7LW07XnNr721J0) | 4:29 | 2023-08-10 |  |
+| [Chandani Raton Mein](https://open.spotify.com/track/6asVMkyVVuugyzM2YIuoKI) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Chandani Raton Mein](https://open.spotify.com/album/0IXxPh8WDsjAAf5txhRvCB) | 4:11 | 2023-09-01 |  |
+| [Chitimacha](https://open.spotify.com/track/1ubfw6bzIPF1H8SPBIzjKH) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Chitimacha](https://open.spotify.com/album/6SK3ao5UZ1Axoj5o00W3Cb) | 3:15 | 2023-09-01 |  |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2023-08-10 |  |
 | [Dawn Of Day](https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Dawn Of Day](https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe) | 3:10 | 2023-08-10 |  |
 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 | 2023-08-10 |  |

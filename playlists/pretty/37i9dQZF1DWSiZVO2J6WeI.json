@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 775738,
+  "num_followers": 775769,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmM3MjNjMTk2ODM5YTcxZmNkNTI0MThkMTJlOGZmZWIwNzUyNjMy",
+  "snapshot_id": "MCxjYWQxNDhkMDUxNWY2MGM3ZmFlY2Q3YzE2NDEyNDZhMzQ1ZTAxODc2",
   "tracks": [
     {
       "added_at": "2023-08-24 15:10:34",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Begynnelse",
-        "url": "https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW"
-      },
-      "artists": [
-        {
-          "name": "Ester Ackerman",
-          "url": "https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg"
-        }
-      ],
-      "duration_ms": 190777,
-      "name": "Tillsammans",
-      "url": "https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Prana",
         "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 157724,
       "name": "Ocean Breath",
       "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Begynnelse",
+        "url": "https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW"
+      },
+      "artists": [
+        {
+          "name": "Ester Ackerman",
+          "url": "https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg"
+        }
+      ],
+      "duration_ms": 190777,
+      "name": "Tillsammans",
+      "url": "https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Southward Bound",
-        "url": "https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Wings",
-          "url": "https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ"
-        }
-      ],
-      "duration_ms": 154423,
-      "name": "Southward Bound (432 Hz)",
-      "url": "https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Serene Clarity",
         "url": "https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 139643,
       "name": "Serene Clarity",
       "url": "https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Southward Bound",
+        "url": "https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Wings",
+          "url": "https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ"
+        }
+      ],
+      "duration_ms": 154423,
+      "name": "Southward Bound (432 Hz)",
+      "url": "https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Zeppelin See",
-        "url": "https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa"
-      },
-      "artists": [
-        {
-          "name": "Montbretia",
-          "url": "https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Zeppelin See",
-      "url": "https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Deep Sleep",
         "url": "https://open.spotify.com/album/2QSH3idzrtq7TUnpN0dBxw"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 157333,
       "name": "Deep Sleep",
       "url": "https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Zeppelin See",
+        "url": "https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa"
+      },
+      "artists": [
+        {
+          "name": "Montbretia",
+          "url": "https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Zeppelin See",
+      "url": "https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Eudaimonia",
-        "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 185895,
-      "name": "Eudaimonia",
-      "url": "https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "As it is At Night",
         "url": "https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 135964,
       "name": "As It Is At Night",
       "url": "https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Eudaimonia",
+        "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 185895,
+      "name": "Eudaimonia",
+      "url": "https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Cloudbed",
-        "url": "https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL"
-      },
-      "artists": [
-        {
-          "name": "Ceri Rocha",
-          "url": "https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP"
-        }
-      ],
-      "duration_ms": 163437,
-      "name": "Cloudbed",
-      "url": "https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Clarity Frequency",
         "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 152318,
       "name": "Eternal Frequencies",
       "url": "https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Cloudbed",
+        "url": "https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL"
+      },
+      "artists": [
+        {
+          "name": "Ceri Rocha",
+          "url": "https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP"
+        }
+      ],
+      "duration_ms": 163437,
+      "name": "Cloudbed",
+      "url": "https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy"
-      },
-      "artists": [
-        {
-          "name": "Eriao",
-          "url": "https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Sobre las Nubes",
         "url": "https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 177600,
       "name": "Sobre las Nubes",
       "url": "https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy"
+      },
+      "artists": [
+        {
+          "name": "Eriao",
+          "url": "https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Stay Safe",
         "url": "https://open.spotify.com/album/6D3qaysSHYi8dvpwslqB9A"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 212000,
       "name": "Gold Coast Australia",
       "url": "https://open.spotify.com/track/6BNTFiV9i392ZnBLp4gpC2"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "528 Hz Clarity Vibrations",
+        "url": "https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC"
+      },
+      "artists": [
+        {
+          "name": "Pan Galactic Vibration",
+          "url": "https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER"
+        }
+      ],
+      "duration_ms": 132624,
+      "name": "528 Hz Clarity Vibrations",
+      "url": "https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Osceola",
         "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 206000,
       "name": "Binaural Emotions",
       "url": "https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
-        "name": "528 Hz Clarity Vibrations",
-        "url": "https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC"
-      },
-      "artists": [
-        {
-          "name": "Pan Galactic Vibration",
-          "url": "https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER"
-        }
-      ],
-      "duration_ms": 132624,
-      "name": "528 Hz Clarity Vibrations",
-      "url": "https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Tallkrona",
-        "url": "https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz"
-      },
-      "artists": [
-        {
-          "name": "Luna S.",
-          "url": "https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Tallkrona",
-      "url": "https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "432 Hz Healing Frequencies",
         "url": "https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 196800,
       "name": "432 Hz Peace",
       "url": "https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Tallkrona",
+        "url": "https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz"
+      },
+      "artists": [
+        {
+          "name": "Luna S.",
+          "url": "https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Tallkrona",
+      "url": "https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Partly Cloudy",
-        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
-      },
-      "artists": [
-        {
-          "name": "Gazebo Clouds",
-          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "Stars Above",
-      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Rugare",
         "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 188691,
       "name": "Rugare",
       "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Partly Cloudy",
+        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
+      },
+      "artists": [
+        {
+          "name": "Gazebo Clouds",
+          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
+      },
+      "artists": [
+        {
+          "name": "Osterous",
+          "url": "https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
         "name": "Atmospheres For Yoga And Meditation",
         "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 217000,
       "name": "Inevitably - Deep Sleep Edit",
       "url": "https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/3FMdumsEZZbW3pEUwL9k5m"
-      },
-      "artists": [
-        {
-          "name": "Osterous",
-          "url": "https://open.spotify.com/artist/5hWATAqtCxxnFEVmU268YR"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Bertrand of the Ringing",
-        "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
-      },
-      "artists": [
-        {
-          "name": "Star Patterns",
-          "url": "https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Ceremonial Stone",
-      "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Peaceful Drones",
         "url": "https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 172069,
       "name": "Peaceful Drones",
       "url": "https://open.spotify.com/track/1WBfurgMWL2sDqdXuXXXVw"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Bertrand of the Ringing",
+        "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
+      },
+      "artists": [
+        {
+          "name": "Star Patterns",
+          "url": "https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Ceremonial Stone",
+      "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "Brise Apaisante",
-        "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
-      },
-      "artists": [
-        {
-          "name": "Cornlie Sourd",
-          "url": "https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY"
-        }
-      ],
-      "duration_ms": 201219,
-      "name": "Brise Apaisante",
-      "url": "https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Understanding Yourself",
         "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 226250,
       "name": "Enlightened",
       "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "Brise Apaisante",
+        "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
+      },
+      "artists": [
+        {
+          "name": "Cornlie Sourd",
+          "url": "https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY"
+        }
+      ],
+      "duration_ms": 201219,
+      "name": "Brise Apaisante",
+      "url": "https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo"
     },
     {
       "added_at": "2023-08-24 15:10:34",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-08-24 15:10:34",
       "album": {
-        "name": "inteira",
-        "url": "https://open.spotify.com/album/6aL6SraoK8X0ZmXQg1YBvp"
-      },
-      "artists": [
-        {
-          "name": "Gereo Luna",
-          "url": "https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru"
-        }
-      ],
-      "duration_ms": 169424,
-      "name": "inteira",
-      "url": "https://open.spotify.com/track/6lkVud7wBdmLPYOKFisPB0"
-    },
-    {
-      "added_at": "2023-08-24 15:10:34",
-      "album": {
         "name": "Beyond Stillness",
         "url": "https://open.spotify.com/album/4BI7KuAaWTzwtWo3uCO0c4"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 136041,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/3jmU2oX5JSzv8QzYSTJgxN"
+    },
+    {
+      "added_at": "2023-08-24 15:10:34",
+      "album": {
+        "name": "inteira",
+        "url": "https://open.spotify.com/album/6aL6SraoK8X0ZmXQg1YBvp"
+      },
+      "artists": [
+        {
+          "name": "Gereo Luna",
+          "url": "https://open.spotify.com/artist/6K0fHaGkCN3DGCD3tRT5Ru"
+        }
+      ],
+      "duration_ms": 169424,
+      "name": "inteira",
+      "url": "https://open.spotify.com/track/6lkVud7wBdmLPYOKFisPB0"
     },
     {
       "added_at": "2023-08-24 15:10:34",

@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-107 songs - 5 hr 59 min
+108 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Backyard Lullaby](https://open.spotify.com/track/2p8mjCnBQfoecW5rQxj8lr) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Noah Gordon](https://open.spotify.com/artist/3SgE8veHiqVK2xezARDQPH) | [\#Beast](https://open.spotify.com/album/5FXEyIqi2llnS1CPvpz14X) | 3:27 | 2023-04-21 |  |
 | [Backyard Lullaby](https://open.spotify.com/track/3A1DKJEl8D6tRmr4Fnssz0) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Noah Gordon](https://open.spotify.com/artist/3SgE8veHiqVK2xezARDQPH) | [\#Beast](https://open.spotify.com/album/4BvrkvRdx6JjDpTFDqDSi6) | 3:27 | 2023-03-17 | 2023-05-18 |
 | [Big Trucks](https://open.spotify.com/track/5ooRDQU9vc9x0c7mO1Exw1) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Adam Calhoun](https://open.spotify.com/artist/4fZ8AuVP6Y8mLmCoybfKpC), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [Savages](https://open.spotify.com/album/6C2HnjRUd6azJaiawibKUP) | 4:16 | 2023-03-17 |  |
+| [Big Yeah](https://open.spotify.com/track/4oI6htwIqt3S7RgzGluAhk) | [HoodBillies](https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Big Yeah](https://open.spotify.com/album/23sXgNRgVIst2eBQbrbFre) | 2:13 | 2023-09-01 |  |
 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 | 2023-03-17 |  |
 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 | 2023-03-17 |  |
 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 | 2023-03-17 |  |

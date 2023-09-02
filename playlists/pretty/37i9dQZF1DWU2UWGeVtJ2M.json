@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 152659,
+  "num_followers": 152723,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzE3NmFjNTA4MzYxMjQxMWIwNWU0YTQyNzcwYmUwZWE1M2EwN2Vl",
+  "snapshot_id": "MCw3MTMyM2NkZWRmYzVjNmIzMDNlNTlhNTY5ZTJmOTZlNGE4ZTRkMzRh",
   "tracks": [
     {
       "added_at": "2023-08-28 04:16:44",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-08-28 04:16:44",
       "album": {
-        "name": "Watching Movies with the Sound Off (10th Anniversary)",
-        "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 264217,
-      "name": "The Star Room (OG Version) - Bonus Track",
-      "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
-    },
-    {
-      "added_at": "2023-08-28 04:16:44",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2023-08-28 04:16:44",
+      "album": {
+        "name": "Watching Movies with the Sound Off (10th Anniversary)",
+        "url": "https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 264217,
+      "name": "The Star Room (OG Version) - Bonus Track",
+      "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
     },
     {
       "added_at": "2023-08-28 04:16:44",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-28 04:16:44",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2023-08-28 04:16:44",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 185991,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2023-08-28 04:16:44",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2023-08-28 04:16:44",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-28 04:16:44",
       "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
-    },
-    {
-      "added_at": "2023-08-28 04:16:44",
-      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2023-08-28 04:16:44",
+      "album": {
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2023-08-28 04:16:44",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-28 04:16:44",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
-    },
-    {
-      "added_at": "2023-08-28 04:16:44",
-      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/6Aj5Kces1cuu0pJwQTk1DF"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
+    },
+    {
+      "added_at": "2023-08-28 04:16:44",
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2023-08-28 04:16:44",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-28 04:16:44",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2023-08-28 04:16:44",
-      "album": {
         "name": "Oasis Sky",
         "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 202991,
       "name": "Inkeri",
       "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+    },
+    {
+      "added_at": "2023-08-28 04:16:44",
+      "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2023-08-28 04:16:44",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-08-28 04:16:44",
       "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "added_at": "2023-08-28 04:16:44",
+      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2023-08-28 04:16:44",
       "album": {
-        "name": "Wavvy",
-        "url": "https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0"
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
       },
       "artists": [
         {
-          "name": "Lav",
-          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 187546,
-      "name": "Wavvy",
-      "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2023-08-28 04:16:44",
@@ -1463,22 +1479,6 @@
       "duration_ms": 132931,
       "name": "roundabout",
       "url": "https://open.spotify.com/track/4My5qxutluZnhCiSz4mY92"
-    },
-    {
-      "added_at": "2023-08-28 04:16:44",
-      "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2023-08-28 04:16:44",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-08-28 04:16:44",
       "album": {
-        "name": "Tears can be so soft",
-        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+        "name": "Gone 2 Long",
+        "url": "https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "PRETTYMUCH",
+          "url": "https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1"
         }
       ],
-      "duration_ms": 311928,
-      "name": "Tears can be so soft",
-      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
+      "duration_ms": 195013,
+      "name": "Gone 2 Long",
+      "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
     },
     {
       "added_at": "2023-08-28 04:16:44",

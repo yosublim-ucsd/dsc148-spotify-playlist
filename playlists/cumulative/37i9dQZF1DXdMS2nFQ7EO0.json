@@ -3805,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "Tambor",
+        "url": "https://open.spotify.com/album/25JI1EXm2T6NQTIeYlpOVd"
+      },
+      "artists": [
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Tambor",
+      "url": "https://open.spotify.com/track/2ZoAuTpYHBf9dXlAU9YQTk"
+    },
+    {
+      "album": {
         "name": "TARAKA (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3"
       },

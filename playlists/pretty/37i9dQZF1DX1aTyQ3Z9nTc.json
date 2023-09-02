@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 127515,
+  "num_followers": 127591,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDRlYWZjN2IyMmEyYTI0NzlkNmViOTgwZWIxZTY4ZWRkYzNjNDk5",
+  "snapshot_id": "MCwxM2Q0YWRmNzk5ZDE1NTAxYTBjNmU0NDI0OGUzZmU5Mzg5MjFmY2Y0",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2023-06-09 05:15:38",
       "album": {
-        "name": "SATIN",
-        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
         }
       ],
-      "duration_ms": 173458,
-      "name": "ON 10",
-      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
+      "duration_ms": 193901,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
     },
     {
       "added_at": "2023-06-16 06:53:32",
@@ -509,20 +509,20 @@
       "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
-      "added_at": "2023-06-09 05:15:38",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+        "name": "SATIN",
+        "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
       "artists": [
         {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 193901,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
+      "duration_ms": 173458,
+      "name": "ON 10",
+      "url": "https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK"
     },
     {
       "added_at": "2022-08-05 04:16:42",
@@ -857,24 +857,20 @@
       "url": "https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2023-08-25 17:07:43",
       "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         }
       ],
-      "duration_ms": 187938,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+      "duration_ms": 190200,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -897,20 +893,24 @@
       "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
     },
     {
-      "added_at": "2023-08-25 17:07:43",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "UPSIDE DOWN",
-        "url": "https://open.spotify.com/album/435sa84NSMTcIzBeSN178q"
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         }
       ],
-      "duration_ms": 190200,
-      "name": "UPSIDE DOWN",
-      "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
+      "duration_ms": 187938,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
-    },
-    {
       "added_at": "2022-09-23 04:08:19",
       "album": {
         "name": "CROSSOVER (Deluxe)",
@@ -1291,6 +1275,22 @@
       "duration_ms": 177483,
       "name": "day to day",
       "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1369,20 +1369,20 @@
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2022-07-29 04:11:59",
       "album": {
-        "name": "Worlds Away",
-        "url": "https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9"
+        "name": "Miss The Days",
+        "url": "https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK"
       },
       "artists": [
         {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
         }
       ],
-      "duration_ms": 174077,
-      "name": "Worlds Away",
-      "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
+      "duration_ms": 220650,
+      "name": "Miss The Days",
+      "url": "https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p"
     },
     {
       "added_at": "2023-04-07 21:25:17",
@@ -1405,20 +1405,20 @@
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
     },
     {
-      "added_at": "2022-07-29 04:11:59",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Miss The Days",
-        "url": "https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK"
+        "name": "Worlds Away",
+        "url": "https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9"
       },
       "artists": [
         {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
         }
       ],
-      "duration_ms": 220650,
-      "name": "Miss The Days",
-      "url": "https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p"
+      "duration_ms": 174077,
+      "name": "Worlds Away",
+      "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
     },
     {
       "added_at": "2023-08-04 15:55:51",
@@ -1493,26 +1493,6 @@
       "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
     },
     {
-      "added_at": "2023-06-16 06:53:32",
-      "album": {
-        "name": "Aint Mine (feat. Lay Bankz)",
-        "url": "https://open.spotify.com/album/78U18GMv2NiqgMTHeu0QcH"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 156014,
-      "name": "Aint Mine (feat. Lay Bankz)",
-      "url": "https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "never worry",
@@ -1531,6 +1511,26 @@
       "duration_ms": 186123,
       "name": "Sumthin Crazy (with Rochelle Jordan)",
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+    },
+    {
+      "added_at": "2023-06-16 06:53:32",
+      "album": {
+        "name": "Aint Mine (feat. Lay Bankz)",
+        "url": "https://open.spotify.com/album/78U18GMv2NiqgMTHeu0QcH"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 156014,
+      "name": "Aint Mine (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw"
     },
     {
       "added_at": "2022-09-09 04:08:54",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 237929,
-      "name": "Already",
-      "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 158373,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 237929,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1657,6 +1657,22 @@
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
     },
     {
+      "added_at": "2022-07-29 04:11:59",
+      "album": {
+        "name": "PHASE",
+        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
+      },
+      "artists": [
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "2MANYTHINGS",
+      "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
+    },
+    {
       "added_at": "2023-06-30 04:31:23",
       "album": {
         "name": "BURNA FONE",
@@ -1673,20 +1689,20 @@
       "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
     },
     {
-      "added_at": "2022-07-29 04:11:59",
+      "added_at": "2022-07-30 02:24:25",
       "album": {
-        "name": "PHASE",
-        "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
       "artists": [
         {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 193000,
-      "name": "2MANYTHINGS",
-      "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
+      "duration_ms": 231987,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/00ncxi6KW6Ly1Ts0pOH8si"
     },
     {
       "added_at": "2022-08-26 04:23:37",
@@ -1751,22 +1767,6 @@
       "duration_ms": 284606,
       "name": "All Along (Kaytranada Remix)",
       "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 231987,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/00ncxi6KW6Ly1Ts0pOH8si"
     },
     {
       "added_at": "2022-07-30 02:24:25",

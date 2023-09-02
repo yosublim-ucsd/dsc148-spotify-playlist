@@ -5337,6 +5337,32 @@
     },
     {
       "album": {
+        "name": "Latex Gloves",
+        "url": "https://open.spotify.com/album/4KSSTRoBSZNdEFeVHUZpMB"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198486,
+      "name": "Latex Gloves",
+      "url": "https://open.spotify.com/track/74sE79ReizotiesesgUm90"
+    },
+    {
+      "album": {
         "name": "Latin Grammys",
         "url": "https://open.spotify.com/album/7kLL9GB9GdIpG20fxxDPtA"
       },
@@ -8482,7 +8508,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 170000,
       "name": "SentRock",
       "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"

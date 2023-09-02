@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,011 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,056 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 35 | [Breathe \(feat\. RZA\) \- René LaVice Dark D&B Remix](https://open.spotify.com/track/1acpIlnD71Anfcy2RXZkm3) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v) | [Breathe \(feat\. RZA\) \[René LaVice Dark D&B Remix\]](https://open.spotify.com/album/6dmrmMHEwhSDb593XSxc4M) | 4:35 |
 | 36 | [You & I](https://open.spotify.com/track/0laSPpzgD2rNatLXQwTyM2) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Essence](https://open.spotify.com/album/3F4ar2rzrcFUzxRSSVoTD9) | 3:57 |
 | 37 | [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 |
-| 38 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 |
-| 39 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
+| 38 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
+| 39 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 |
 | 40 | [Ultralight](https://open.spotify.com/track/70E2owQEeqORuzov0L3t6y) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Ultralight](https://open.spotify.com/album/4Trb8G5jJdMYJurZrsORHI) | 3:43 |
 | 41 | [Us](https://open.spotify.com/track/0gsSAPhBj4l9BdvqjLWxrh) | [Tesen](https://open.spotify.com/artist/0Z1k9vyIR05I1clIoH1wKP) | [Us / When the Lights Go](https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE) | 4:31 |
 | 42 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 52 | [Let You Go](https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2) | [Bare Up](https://open.spotify.com/artist/731c0zg6gLrYvZf5PCSoBC) | [Let You Go EP](https://open.spotify.com/album/5hzj4p5miYpDAEARk3g78D) | 3:44 |
 | 53 | [Void](https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 5:27 |
 | 54 | [Money Moves \- Remix](https://open.spotify.com/track/2hTkKz0ylLXhaEwOdEJxrR) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Skamma](https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU), [J Wilz](https://open.spotify.com/artist/16TZaFyJcaVRRfxznuLE2n), [LOAD B](https://open.spotify.com/artist/19N4NQloPOR4JgS0s11hbF), [Weejii](https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw), [Blu Bomma](https://open.spotify.com/artist/4goT9h8GZ7ZKiyw9MxyJDh), [Kinetik](https://open.spotify.com/artist/0LE12w6fWcmvb9eooXtpFl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Money Moves \(The Remixes\)](https://open.spotify.com/album/6XyppXwfyf3t1MzIr6qxl9) | 4:24 |
-| 55 | [Cool Out Son \- Benny Page & Isaac Maya Remix \- Edit](https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [Cool Out Son](https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4) | 3:28 |
+| 55 | [Hazard](https://open.spotify.com/track/1qZZyFjwlAnb3RRYOO7y8Z) | [JMullaUK](https://open.spotify.com/artist/79ACLCWpSfLNDGbCBzMK3T), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7), [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG) | [Hazard](https://open.spotify.com/album/59cjLdF8QxClRxM5S6s8a8) | 4:08 |
 
-Snapshot ID: `MCxkYzc1YWIxY2JkYWFmOTdhNGE4Y2UyMTE3OGQ1NmRmNzgzNGJlNTZh`
+Snapshot ID: `MCxmMjgzMjJjNjlkYTMxN2IzNTE1MTFhOTFkOGE5NTJiYWFhNzJlMjFl`

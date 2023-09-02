@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "What's new in Rock this week. Cover: YUNGBLUD",
+  "description": "What's new in Rock this week. Cover: ThxSoMch",
   "name": "Ready to Rock",
   "tracks": [
+    {
+      "album": {
+        "name": "103",
+        "url": "https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245812,
+      "name": "103",
+      "url": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+    },
     {
       "album": {
         "name": "18",
@@ -431,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Alright Alright",
+        "url": "https://open.spotify.com/album/10YxBkSYU1H0rMtlLq2c8u"
+      },
+      "artists": [
+        {
+          "name": "Ghost Woman",
+          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288639,
+      "name": "Alright Alright",
+      "url": "https://open.spotify.com/track/7bWD2zWQGcJjwHnJPi17uk"
+    },
+    {
+      "album": {
         "name": "Ambulance",
         "url": "https://open.spotify.com/album/4MzAmsn2lpwi0NkYtXlJdZ"
       },
@@ -742,7 +778,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 232518,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/5RtsGhljyNOEL2pVEkiy3w"
@@ -854,6 +890,24 @@
       "duration_ms": 144676,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/1v0PrbGuumgytx0OTUbE06"
+    },
+    {
+      "album": {
+        "name": "Blood & Fire",
+        "url": "https://open.spotify.com/album/27Otg8SYC2BhPkLD3pqbG3"
+      },
+      "artists": [
+        {
+          "name": "The Heavy",
+          "url": "https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Blood & Fire",
+      "url": "https://open.spotify.com/track/3TWjjl0gp332SPLMxlmWET"
     },
     {
       "album": {
@@ -1056,6 +1110,24 @@
       "duration_ms": 168000,
       "name": "bubble boi",
       "url": "https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm"
+    },
+    {
+      "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/0IHo9Z1H5vlLINGbtN2ALE"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/7xCQbRkgXIZKzIrB8yrG6v"
     },
     {
       "album": {
@@ -1687,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/06HreThIz90gKClFT9sz0v"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262240,
+      "name": "DANSE MACABRE",
+      "url": "https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ"
+    },
+    {
+      "album": {
         "name": "Dear Illusion",
         "url": "https://open.spotify.com/album/0zxAtn3zFoZy51Uf6HAAGA"
       },
@@ -1738,7 +1828,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 143780,
       "name": "Debilitate (feat. Pussy Riot)",
       "url": "https://open.spotify.com/track/4lLSGmYY0E8ZGu2SzpmkAB"
@@ -2052,7 +2142,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202707,
       "name": "Echo",
       "url": "https://open.spotify.com/track/7b4mhO3cQVhpFosu17DsSv"
@@ -2769,6 +2859,24 @@
     },
     {
       "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6EIeFIxDn5mM9Z2AEYfh9t"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199860,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/18qLKmBYHFZpJdqdOVCeoM"
+    },
+    {
+      "album": {
         "name": "Guess Who's Back",
         "url": "https://open.spotify.com/album/4bfZCNIZkasFV5Aa1LurE0"
       },
@@ -3093,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
         "name": "hot girls in hell",
         "url": "https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y"
       },
@@ -3356,7 +3482,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 273997,
       "name": "Isumagijunnaitaungituq (The Unforgiven)",
       "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
@@ -3374,7 +3500,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 200955,
       "name": "It gets better",
       "url": "https://open.spotify.com/track/3rAvPLr1Z7Tbvzaz1XLn0N"
@@ -3590,7 +3716,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186807,
       "name": "Kilayear",
       "url": "https://open.spotify.com/track/126canhgsCDhZur9dJhN5S"
@@ -4686,7 +4812,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 145874,
       "name": "Napalm!",
       "url": "https://open.spotify.com/track/3RIgGojBi8VbkiC8abzd2G"
@@ -5252,7 +5378,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 260228,
       "name": "Peace Jam",
       "url": "https://open.spotify.com/track/1iKMc4nv8k48g762N3NTVz"
@@ -6107,6 +6233,24 @@
     },
     {
       "album": {
+        "name": "Back To The Water Below",
+        "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207849,
+      "name": "Shiner In The Dark",
+      "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
+    },
+    {
+      "album": {
         "name": "Should've Known",
         "url": "https://open.spotify.com/album/3miEwxBcJvBLqda3nwhSXD"
       },
@@ -6262,7 +6406,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173808,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/7oPx8sHqaifEvFlqQ48CB2"
@@ -6338,6 +6482,24 @@
       "duration_ms": 217639,
       "name": "Spell",
       "url": "https://open.spotify.com/track/4Un8vcXds1r5WuRknRlycI"
+    },
+    {
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168221,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
     },
     {
       "album": {
@@ -6875,6 +7037,24 @@
     },
     {
       "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/3HSeYM1oYsWAh5274IB4VG"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201706,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/6kPnfNvwdhdmMSeQn3JGim"
+    },
+    {
+      "album": {
         "name": "They'll Just Love You (feat. Poppy & Danny Elfman)",
         "url": "https://open.spotify.com/album/5zryXm1YMVVqalObTXXQI1"
       },
@@ -6894,7 +7074,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 242933,
       "name": "They'll Just Love You (feat. Poppy & Danny Elfman)",
       "url": "https://open.spotify.com/track/2JhJYs96INURqXbVi0reKJ"

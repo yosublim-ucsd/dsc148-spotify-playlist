@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29377,
+  "num_followers": 29389,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWNiZGFlNTI2OGVkMzZlYzg3MWI3YWY2YzZkZDY0M2UzMTliN2Rj",
+  "snapshot_id": "MCxhMzg5YjM4NDZkZDZmYTU4MTQwYzA4MTIyZGQ3MTI1MWJhMzE1YzY4",
   "tracks": [
     {
       "added_at": "2023-08-03 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Fr\u00e5n Fest Till Arrest",
-        "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
-      },
-      "artists": [
-        {
-          "name": "Gatans Lag",
-          "url": "https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
-      "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Sista Dansen",
         "url": "https://open.spotify.com/album/1wXD1Pkuf56DSvkQE3kFQz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 199160,
       "name": "Psykopaten",
       "url": "https://open.spotify.com/track/2NXA45aJcDNJ8zdE9LB4YO"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Fr\u00e5n Fest Till Arrest",
+        "url": "https://open.spotify.com/album/1qhDJcBNvhcdyWABmvD35a"
+      },
+      "artists": [
+        {
+          "name": "Gatans Lag",
+          "url": "https://open.spotify.com/artist/1DbBWYISy3xIJBHlenLGj2"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
+      "url": "https://open.spotify.com/track/6kbvbAKoFDtOjbxfTPTFGp"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Docent D\u00f6d (Mini-LP)",
-        "url": "https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT"
-      },
-      "artists": [
-        {
-          "name": "Docent D\u00f6d",
-          "url": "https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM"
-        }
-      ],
-      "duration_ms": 147520,
-      "name": "Solglas\u00f6gon",
-      "url": "https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N"
-    },
-    {
-      "added_at": "2023-08-03 22:00:00",
-      "album": {
         "name": "Pengar Har Inga \u00d6gon",
         "url": "https://open.spotify.com/album/1ueBZ7RDpKS1kv4VYTaZRY"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 154226,
       "name": "Johanna",
       "url": "https://open.spotify.com/track/2ekTSYW68ShERRzsPBbRaF"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Docent D\u00f6d (Mini-LP)",
+        "url": "https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT"
+      },
+      "artists": [
+        {
+          "name": "Docent D\u00f6d",
+          "url": "https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM"
+        }
+      ],
+      "duration_ms": 147520,
+      "name": "Solglas\u00f6gon",
+      "url": "https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
-        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
+        "name": "[emo]",
+        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
       },
       "artists": [
         {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
         }
       ],
-      "duration_ms": 211640,
-      "name": "39 Steg",
-      "url": "https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I"
+      "duration_ms": 192362,
+      "name": "Simpel Matematik",
+      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
     },
     {
       "added_at": "2023-08-03 22:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "[emo]",
-        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
+        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
+        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
       "artists": [
         {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
         }
       ],
-      "duration_ms": 192362,
-      "name": "Simpel Matematik",
-      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
+      "duration_ms": 211640,
+      "name": "39 Steg",
+      "url": "https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I"
     },
     {
       "added_at": "2023-08-03 22:00:00",

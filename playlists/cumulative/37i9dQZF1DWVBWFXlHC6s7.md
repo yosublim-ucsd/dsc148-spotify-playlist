@@ -4,7 +4,7 @@
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-55 songs - 3 hr 24 min
+57 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baby](https://open.spotify.com/track/17OzfblzUJ5XHBeBUb95av) | [Quinteto Ternura](https://open.spotify.com/artist/6KKYUjIV0oZTEWC8GPYehw) | [Quinteto Ternura](https://open.spotify.com/album/0veoGWuGVvpPgmvVw9jGZd) | 2:55 | 2023-01-20 |  |
 | [Bananeira \(Remastered\)](https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago \(Remastered\)](https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU) | 2:53 | 2023-01-20 |  |
 | [Bate Macumba](https://open.spotify.com/track/2xERJL8ZJxTVUU5Pdo7YJ4) | [Nu Azeite](https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE) | [Vem pro Mar](https://open.spotify.com/album/6KM6hXviSBq4erdXgVPAvX) | 4:13 | 2023-01-20 |  |
+| [Batebca](https://open.spotify.com/track/7GxzwWe1sMhvoLpgs7wUVM) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Déjà Vu](https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ) | 5:47 | 2023-09-01 |  |
 | [Bicicleta](https://open.spotify.com/track/6Ox8Zj7kJbqg05Jt7ljFwY) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Bicicleta / Beta Menina \- Single](https://open.spotify.com/album/20ObPCdWc08A2cNdc7mlP4) | 3:49 | 2023-01-20 |  |
 | [Casa forte](https://open.spotify.com/track/7ulVAlO3bUBZQXZQqLOSMP) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 2:22 | 2023-01-20 |  |
 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 | 2023-01-20 |  |
@@ -25,7 +26,7 @@
 | [Côco do Macaco](https://open.spotify.com/track/063q4X3EdUKyLVfGo4PSF0) | [Sócrates E As Garotas](https://open.spotify.com/artist/4816McLygy1Or3arIFVN5u) | [Côco do Macaco](https://open.spotify.com/album/5lfewZ1HFVHwm6yQbZmErN) | 3:29 | 2023-01-20 | 2023-07-01 |
 | [De alegria raiou o dia](https://open.spotify.com/track/7IFwTykJguQpyDoAu9hj5a) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ) | [Pra que vou recordar](https://open.spotify.com/album/0kwhUml3QMwRaA2LsWN0my) | 3:38 | 2023-01-20 |  |
 | [E O Espetáculo Continua](https://open.spotify.com/track/0mNK2GQOs0Y8TFFQo4Fr1q) | [Roupa Nova](https://open.spotify.com/artist/2poCUrtJvVVgfA2hgri1IS) | [Roupa Nova \(1981\)](https://open.spotify.com/album/4fB4jcW0KgBhVsO1l8lJ8P) | 3:20 | 2023-01-20 |  |
-| [Esperar pra Ver](https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 2:07 | 2023-06-30 |  |
+| [Esperar pra Ver](https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 2:07 | 2023-06-30 | 2023-09-02 |
 | [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 | 2023-01-20 | 2023-07-09 |
 | [Estou Livre](https://open.spotify.com/track/4wQsadZBQqUX0uFXPHylcN) | [Tony Bizarro](https://open.spotify.com/artist/4Eev3uY6rsEe2XheMKXWZX) | [Estou Livre \(Remixes\)](https://open.spotify.com/album/031gLsHm36Z8lqjY7ZOAyY) | 4:00 | 2023-01-20 |  |
 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 | 2023-01-20 |  |
@@ -33,7 +34,7 @@
 | [Funk\-se quem puder](https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Extra](https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD) | 3:11 | 2023-01-20 |  |
 | [Funky Tamborim](https://open.spotify.com/track/4pcOMeLJhj0k8EhowA1K0d) | [Tania Maria](https://open.spotify.com/artist/26DN8VRVU1IRg0AFgUfMZO) | [The Colors Of Latin Jazz: Soul Sauce!](https://open.spotify.com/album/5cBIcSfpcGNMSRMdggfTMl) | 3:16 | 2023-01-20 |  |
 | [Galo\-Galã](https://open.spotify.com/track/2VKOQs0nCyUJye7HTjn1lY) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Galo\-Galã](https://open.spotify.com/album/73LqcG5XBBmqn5bHaOu7KY) | 3:00 | 2023-08-25 |  |
-| [Ginga](https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:01 | 2023-01-20 |  |
+| [Ginga](https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:01 | 2023-01-20 | 2023-09-02 |
 | [Guarde Minha Voz](https://open.spotify.com/track/4KOQk1FhOOIfuHMZahP5Wa) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/2tHPCtLKccEl3VYmQxq6Cp) | 3:11 | 2023-01-20 |  |
 | [Hora De União](https://open.spotify.com/track/5ruF1Y5naexriqC9dBxrtS) | [Lady Zu](https://open.spotify.com/artist/7lzdAzDICLFGLq6rFFy7ji), [Toto Mugabe](https://open.spotify.com/artist/0mV7Zy0WEGQyTSnfgxWI3H) | [Fêmea Brasileira](https://open.spotify.com/album/2qdXb0ZST1ewcz7ChAdTF6) | 3:31 | 2023-01-20 |  |
 | [I Love You](https://open.spotify.com/track/7BtHSp6LBcnwB1kZItzxv0) | [Sandro Becker](https://open.spotify.com/artist/1w1OvUZS64uxOfV8yBZQJR) | [Sandro Becker](https://open.spotify.com/album/4CSbRoBJMyLc49gBelKvFB) | 2:55 | 2023-01-20 |  |
@@ -54,6 +55,7 @@
 | [Pra Swingar](https://open.spotify.com/track/7nIDbz4sFSzDE043XTgh0A) | [Som Nosso De Cada Dia](https://open.spotify.com/artist/2awoASImOFH85QIP4TO8xo) | [Som Nosso](https://open.spotify.com/album/4oLIkebSsHW8ztOzoJlh9K) | 2:28 | 2023-01-20 |  |
 | [Rio Babilônia](https://open.spotify.com/track/6Qboev0nak6rFFprgiUYTV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Dádiva](https://open.spotify.com/album/31key2nJ7sjZMiNTFLCiGX) | 4:56 | 2023-01-20 |  |
 | [Se você for a salvador](https://open.spotify.com/track/4SC06muayGtoMEpQjRFUs0) | [Brylho](https://open.spotify.com/artist/7nf2NtawdimyqcLZkCrvHb) | [Brylho](https://open.spotify.com/album/20CZdrYcOB20e4gt16OpNY) | 3:45 | 2023-01-20 |  |
+| [Sem Essa](https://open.spotify.com/track/2Rprdj1SMhNKMG1Barkggm) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Déjà Vu](https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ) | 3:34 | 2023-09-01 |  |
 | [Sossego](https://open.spotify.com/track/08XDypkeVbvjZkVBEkORmT) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brasilian Fiesta](https://open.spotify.com/album/2YVjdkQrpF8tCDA69jql8t) | 3:42 | 2023-01-20 |  |
 | [Sucesso Sexual](https://open.spotify.com/track/1oZJavFgtyWB6sDrjxp8SZ) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [A Vida É Mesmo Assim](https://open.spotify.com/album/2eds2m7S6XeralhbluMYa3) | 3:17 | 2023-01-20 |  |
 | [Suspira](https://open.spotify.com/track/1qNxA7OrDL6goGPUHJQSzD) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Suspira](https://open.spotify.com/album/0eVReGkyVanuKovMwN9lve) | 5:38 | 2023-06-30 |  |

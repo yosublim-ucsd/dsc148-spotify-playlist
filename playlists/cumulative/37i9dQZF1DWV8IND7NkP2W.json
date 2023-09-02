@@ -8597,6 +8597,28 @@
     },
     {
       "album": {
+        "name": "Rainbowtime Boy",
+        "url": "https://open.spotify.com/album/5xrmWCCYOJnDQgBB2dRqF8"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149735,
+      "name": "Rainbowtime Boy",
+      "url": "https://open.spotify.com/track/5sA0YSGNDKCV6rf4WLMCwD"
+    },
+    {
+      "album": {
         "name": "Rainbowtime \u306e\u5c11\u5e74",
         "url": "https://open.spotify.com/album/5xDJyL2yCMHRnIYtkmHLws"
       },
@@ -8612,7 +8634,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 149735,
       "name": "Rainbowtime \u306e\u5c11\u5e74",
       "url": "https://open.spotify.com/track/0xenlRTiDOY6tXRRwQYCcF"

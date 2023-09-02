@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,804 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,810 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 49 | [Dream](https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw) | [Lu+Fi](https://open.spotify.com/artist/3xFvlpW2g6u4m9MEsGr5Hl) | [Dream](https://open.spotify.com/album/7EdonZTj4jX986R521QplF) | 2:45 |
 | 50 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 |
 
-Snapshot ID: `MCw3YmUxYzNiMDJmNDU0NDI5YzViZjY0M2I2MDk1YzM0NGVhYjQyMWI0`
+Snapshot ID: `MCxjMTNhZGQxMjRlOTZmMjI4MmQ1ZDBkNGZjNzcxNmNhNWM0NDcyY2Uz`

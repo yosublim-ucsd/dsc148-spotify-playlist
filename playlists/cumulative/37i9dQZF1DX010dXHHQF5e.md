@@ -4,7 +4,7 @@
 
 > 
 
-351 songs - 18 hr 36 min
+352 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2023-03-23 |  |
 | [Sweet And Lovely](https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Sweet And Lovely](https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex) | 3:30 | 2023-03-23 |  |
 | [Sweet Dreams](https://open.spotify.com/track/1VqEgVFBYgZPbx7wQYKGqY) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Sweet Dreams](https://open.spotify.com/album/0q8gPe14lThzUj7859i7MZ) | 3:31 | 2023-03-23 |  |
-| [Sweet Or Sweeter](https://open.spotify.com/track/3kBBNUhkrZjBarERXoJTzt) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Sweet Or Sweeter](https://open.spotify.com/album/3ukwljFKcXQugyW40NvzSZ) | 1:59 | 2023-05-11 |  |
+| [Sweet Or Sweeter](https://open.spotify.com/track/3kBBNUhkrZjBarERXoJTzt) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Sweet Or Sweeter](https://open.spotify.com/album/3ukwljFKcXQugyW40NvzSZ) | 1:59 | 2023-05-11 | 2023-09-02 |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-03-23 |  |
 | [Teach Me Tonight](https://open.spotify.com/track/6elLwegs9pgjtGXmIxwcc7) | [Dan Eifler](https://open.spotify.com/artist/78SnoNKuvk2IpHtOojhf9T) | [Teach Me Tonight](https://open.spotify.com/album/4KepWEHEQFDYfvJR4SebwZ) | 4:04 | 2023-06-08 | 2023-06-12 |
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2023-03-23 |  |
@@ -329,6 +329,7 @@
 | [time remembered](https://open.spotify.com/track/7vglqLr2HwKFWXMjZ1DN4c) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 2:55 | 2023-06-08 | 2023-07-23 |
 | [Time Will Tell](https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Time Will Tell](https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg) | 2:39 | 2023-03-23 |  |
 | [Too Young To Go Steady](https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [Too Young To Go Steady](https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe) | 3:39 | 2023-04-20 |  |
+| [Two Sleepy People](https://open.spotify.com/track/7udQZdxalcTkCugZmyRCxr) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Two Sleepy People](https://open.spotify.com/album/3REMUdSTgxqfTquLsbt8km) | 2:52 | 2023-08-31 |  |
 | [Uncovered](https://open.spotify.com/track/5Z3PHF1ZTunKCQR47AwSMd) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Uncovered](https://open.spotify.com/album/5gX3IA4EQOELEVnpOa4YYH) | 2:29 | 2023-05-11 |  |
 | [Unforgettable](https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Unforgettable](https://open.spotify.com/album/5E4LIM4elfmb0vKJShZP7X) | 1:57 | 2023-03-23 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2023-03-23 |  |

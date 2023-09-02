@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 163914,
+  "num_followers": 163996,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGY2M2Y2MDI4MDU5MDY5ZTVlYjkxNzBlZWYxZTNjMTM0ODVjOWRl",
+  "snapshot_id": "MCxjMzIyMmJhMGM5MGU4NzgyOGM3MzNmMDUyNzU5MDViMDc0MTBkZjI1",
   "tracks": [
     {
       "added_at": "2023-04-05 03:09:18",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
-      "added_at": "2022-09-07 01:02:18",
-      "album": {
-        "name": "Fairy Rust",
-        "url": "https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR"
-      },
-      "artists": [
-        {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
-        }
-      ],
-      "duration_ms": 157179,
-      "name": "Sour Sun",
-      "url": "https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8"
-    },
-    {
       "added_at": "2022-09-21 00:47:37",
       "album": {
         "name": "The world within our bedrooms",
@@ -281,6 +265,22 @@
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
+      "added_at": "2022-09-07 01:02:18",
+      "album": {
+        "name": "Fairy Rust",
+        "url": "https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "duration_ms": 157179,
+      "name": "Sour Sun",
+      "url": "https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8"
+    },
+    {
       "added_at": "2023-06-29 00:04:58",
       "album": {
         "name": "Asa De Menino Chapter 2",
@@ -295,6 +295,30 @@
       "duration_ms": 98115,
       "name": "Asa De Menino Chapter 2",
       "url": "https://open.spotify.com/track/7Ctmgg8dk0cSiFersf7nwZ"
+    },
+    {
+      "added_at": "2022-09-29 00:57:24",
+      "album": {
+        "name": "Meditations on Crime",
+        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "Gang Gang Dance",
+          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
+        },
+        {
+          "name": "Harper Simon",
+          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Crime Seed",
+      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
       "added_at": "2022-08-31 04:34:22",
@@ -361,30 +385,6 @@
       "url": "https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc"
     },
     {
-      "added_at": "2022-09-29 00:57:24",
-      "album": {
-        "name": "Meditations on Crime",
-        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
-      },
-      "artists": [
-        {
-          "name": "Meditations on Crime",
-          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
-        },
-        {
-          "name": "Gang Gang Dance",
-          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
-        },
-        {
-          "name": "Harper Simon",
-          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Crime Seed",
-      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
       "added_at": "2023-06-07 23:32:59",
       "album": {
         "name": "Spotify Singles",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
-      "added_at": "2022-01-14 00:51:04",
-      "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Mouth Full of Glass",
@@ -451,22 +435,6 @@
       "duration_ms": 215583,
       "name": "Garter Snake",
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
-      "added_at": "2022-10-05 14:12:30",
-      "album": {
-        "name": "All Through The Day",
-        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
-      },
-      "artists": [
-        {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "All Through The Day",
-      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
       "added_at": "2022-08-02 14:49:54",
@@ -485,6 +453,22 @@
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
     },
     {
+      "added_at": "2022-10-05 14:12:30",
+      "album": {
+        "name": "All Through The Day",
+        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
+      },
+      "artists": [
+        {
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+    },
+    {
       "added_at": "2022-07-15 05:42:04",
       "album": {
         "name": "Arkhon",
@@ -499,6 +483,22 @@
       "duration_ms": 204262,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
+    },
+    {
+      "added_at": "2022-01-14 00:51:04",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2023-06-07 02:51:46",
@@ -867,18 +867,18 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
       },
       "artists": [
         {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
         }
       ],
-      "duration_ms": 258420,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
     },
     {
       "added_at": "2023-01-03 01:09:50",
@@ -919,18 +919,18 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
       },
       "artists": [
         {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
         }
       ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
+      "duration_ms": 258420,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
       "added_at": "2022-08-31 05:00:32",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
     },
     {
-      "added_at": "2023-03-31 19:12:14",
-      "album": {
-        "name": "Follow the Cyborg",
-        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
-      },
-      "artists": [
-        {
-          "name": "Miss Grit",
-          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Nothing's Wrong",
-      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Centre",
@@ -1191,6 +1175,22 @@
       "duration_ms": 280404,
       "name": "Aplomb",
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
+    },
+    {
+      "added_at": "2023-03-31 19:12:14",
+      "album": {
+        "name": "Follow the Cyborg",
+        "url": "https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "duration_ms": 229183,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
     },
     {
       "added_at": "2023-01-07 04:00:59",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"
     },
     {
+      "added_at": "2023-06-02 00:41:12",
+      "album": {
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1347,22 +1363,6 @@
       "duration_ms": 285898,
       "name": "Follow the Cyborg",
       "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
-    },
-    {
-      "added_at": "2023-06-02 00:41:12",
-      "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1625,6 +1625,22 @@
       "url": "https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p"
     },
     {
+      "added_at": "2022-02-09 04:03:27",
+      "album": {
+        "name": "Unfamiliar Minds",
+        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
+      },
+      "artists": [
+        {
+          "name": "Elena Seti\u00e9n",
+          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -1663,22 +1679,6 @@
       "duration_ms": 160000,
       "name": "Two minutes",
       "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
-    },
-    {
-      "added_at": "2022-02-09 04:03:27",
-      "album": {
-        "name": "Unfamiliar Minds",
-        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
-      },
-      "artists": [
-        {
-          "name": "Elena Seti\u00e9n",
-          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
       "added_at": "2023-03-31 19:24:48",

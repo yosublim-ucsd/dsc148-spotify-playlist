@@ -1499,6 +1499,32 @@
     },
     {
       "album": {
+        "name": "Still Alone",
+        "url": "https://open.spotify.com/album/6yuKeb3lMCXGSqnDfRIU86"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        },
+        {
+          "name": "Airsand",
+          "url": "https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC"
+        },
+        {
+          "name": "TuraniQa",
+          "url": "https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196038,
+      "name": "Still Alone - Radio Mix",
+      "url": "https://open.spotify.com/track/1Tdm1UZvAGhuftWElWq1SX"
+    },
+    {
+      "album": {
         "name": "Supermodel",
         "url": "https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5"
       },
@@ -1692,6 +1718,24 @@
       "duration_ms": 180480,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4xF3hjfUUEAOQESZmBwbnv"
+    },
+    {
+      "album": {
+        "name": "Tugudu",
+        "url": "https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mota",
+          "url": "https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Tugudu",
+      "url": "https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9"
     },
     {
       "album": {

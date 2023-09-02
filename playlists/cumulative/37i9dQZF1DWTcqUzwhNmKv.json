@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Asking Alexandria on top of the biggest Metal playlist.",
+  "description": "Polaris on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 138709,
       "name": "Disappoint Me",
       "url": "https://open.spotify.com/track/4D5UuP96X7cXNzQ1YzqQiF"
@@ -2190,6 +2190,24 @@
       "duration_ms": 275205,
       "name": "Doomswitch",
       "url": "https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX"
+    },
+    {
+      "album": {
+        "name": "Doubt Me",
+        "url": "https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Doubt Me",
+      "url": "https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0"
     },
     {
       "album": {
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 239291,
       "name": "Inhumane",
       "url": "https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG"
@@ -4050,6 +4068,24 @@
       "duration_ms": 267744,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6syEBcinz3tRLPwM9Kdemo"
+    },
+    {
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
     },
     {
       "album": {
@@ -4927,6 +4963,24 @@
     },
     {
       "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268269,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
+    },
+    {
+      "album": {
         "name": "NO HELP",
         "url": "https://open.spotify.com/album/65SYISbipzVUmmoeAzsYtP"
       },
@@ -5588,7 +5642,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 343120,
       "name": "Post Traumatic Blues",
       "url": "https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL"
@@ -5776,6 +5830,24 @@
       "duration_ms": 472922,
       "name": "Reckoning",
       "url": "https://open.spotify.com/track/4xcfmHe5mRVzPA0tdKJltA"
+    },
+    {
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/5vVQSRjTqOTI6Ek6SmHqa9"
+      },
+      "artists": [
+        {
+          "name": "Woe, Is Me",
+          "url": "https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/6clolEOVLaSpg3mVelSzEa"
     },
     {
       "album": {
@@ -7030,7 +7102,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 198107,
       "name": "Sunshine!",
       "url": "https://open.spotify.com/track/5UZvBguQtkxJfgYrMZcRhe"
@@ -7786,7 +7858,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 220765,
       "name": "The Void",
       "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"

@@ -4,15 +4,16 @@
 
 > Música ideal para tomar el té y relajar.
 
-91 songs - 5 hr 33 min
+93 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 Y 6](https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Giros](https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm) | 2:58 | 2023-08-18 |  |
+| [A la Distancia](https://open.spotify.com/track/0KH6xMLizlGJe0VXSjXYBn) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2agLg7JdXzVDGYIJBjuUMU) | 2:54 | 2023-09-01 |  |
 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 | 2023-08-18 |  |
 | [A Primera Vista](https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [A Roar Of Southern Clouds](https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz) | 3:05 | 2023-08-18 |  |
 | [Agua Marfil](https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Usted Señalemelo](https://open.spotify.com/album/3xHEcjPRuQwvkkG1EogH8S) | 4:11 | 2023-08-18 |  |
-| [Al Vacío](https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Catalina García de Monsieur Periné, Flor de Toloache](https://open.spotify.com/artist/02cfFgG5C1GSyRYBwY6WYp) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 4:49 | 2023-08-18 |  |
+| [Al Vacío](https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Catalina García de Monsieur Periné, Flor de Toloache](https://open.spotify.com/artist/02cfFgG5C1GSyRYBwY6WYp) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 4:49 | 2023-08-18 | 2023-09-02 |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2023-08-18 |  |
 | [Algum Ritmo](https://open.spotify.com/track/5EVv8M3vhByFLLqT1dkdGd) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo](https://open.spotify.com/album/4v4NXk4pD9IcbquIVSJvcV) | 3:35 | 2023-08-18 |  |
 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 | 2023-08-18 |  |
@@ -66,7 +67,7 @@
 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 | 2023-08-18 |  |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2023-08-18 |  |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2023-08-18 |  |
-| [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2023-08-18 |  |
+| [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 | 2023-08-18 | 2023-09-02 |
 | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Ojos Noche \(feat\. Carla Morrison\)](https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV) | 4:14 | 2023-08-18 |  |
 | [Para Siempre](https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Para Siempre](https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ) | 3:21 | 2023-08-18 |  |
 | [pequena](https://open.spotify.com/track/2wx2CPCAjGOnYH18MVbcb1) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [pequena](https://open.spotify.com/album/6Jf6qOxMnq36H3s9HdHgOJ) | 2:42 | 2023-08-18 |  |
@@ -95,6 +96,7 @@
 | [Tu Nombre y el Mío](https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 2:42 | 2023-08-18 |  |
 | [Umbrella \- Acoustic Version](https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Umbrella \(Acoustic Version\)](https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6) | 2:58 | 2023-08-18 |  |
 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 | 2023-08-18 |  |
+| [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-09-01 |  |
 | [Wild Roses](https://open.spotify.com/track/7f8iBUiwio1oX5lAFwC5xI) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [FEVER DREAM](https://open.spotify.com/album/3jk6oyfKCny48ZYb1CPjLa) | 4:02 | 2023-08-18 |  |
 | [Ya mi mama me decía](https://open.spotify.com/track/4qFkP6Kyhw3WDOSKqJaZbP) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Cantera](https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW) | 3:11 | 2023-08-18 |  |
 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2023-08-18 |  |

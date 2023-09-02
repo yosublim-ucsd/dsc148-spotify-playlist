@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 103403,
+  "num_followers": 103506,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTkzYTA3NWU2MGZkMzUzNDhhOGEzZWIxNTk3OWZjMDQzZGQ1M2Yy",
+  "snapshot_id": "MCxjMDg0MDYxYmVjZTE0YTYyZjI3YmQ4MjUxMDYyNDA2NTdiOGRkNmUy",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "F*CKED UP!",
-        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "F*CKED UP!",
-      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Hald deg fast",
         "url": "https://open.spotify.com/album/1g3bKt16foB6q1quIvBawh"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 201178,
       "name": "Hald deg fast",
       "url": "https://open.spotify.com/track/3RCG0v2Z1sDvZLYdFtAPbQ"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "F*CKED UP!",
+        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "F*CKED UP!",
+      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
-        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 186692,
-      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
-      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "PIGA & DR\u00c4NG",
         "url": "https://open.spotify.com/album/2hv4vzbU53T6bjOSv0vpm0"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 229433,
       "name": "Berre i natt",
       "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
+        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
+      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Raggen m\u00e5ste g\u00e5",
+        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 131571,
+      "name": "Raggen m\u00e5ste g\u00e5",
+      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "TANTE",
         "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 133714,
       "name": "TANTE",
       "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Raggen m\u00e5ste g\u00e5",
-        "url": "https://open.spotify.com/album/3G2aieDiN6qhTZyvHGJhGF"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 131571,
-      "name": "Raggen m\u00e5ste g\u00e5",
-      "url": "https://open.spotify.com/track/3IhR0OCASlmyMHAx8HAKdr"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1275,18 +1275,26 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Splitter Pine (Remastered 2015)",
-        "url": "https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee"
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
       "artists": [
         {
-          "name": "Dumdum Boys",
-          "url": "https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 267773,
-      "name": "Splitter Pine",
-      "url": "https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c"
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbla\u030a",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

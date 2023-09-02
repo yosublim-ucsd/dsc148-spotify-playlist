@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Sech
 
-192 songs - 11 hr 11 min
+194 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Jiggiri](https://open.spotify.com/track/1eB4AigLRMLBzikAzHyyDx) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Jiggiri](https://open.spotify.com/album/4P9Mu330irhIpz3EdK8gFC) | 6:04 | 2023-03-17 | 2023-03-29 |
 | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/track/4MULhpFgyate8oE1KGCSd0) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [JIGGIRI FREESTYLE, Vol\. 1](https://open.spotify.com/album/0rTt6YkFCoU9DlP92ih8Mk) | 6:04 | 2022-11-25 | 2023-03-25 |
 | [Jockey](https://open.spotify.com/track/01SMtfSbJlcxUdJvOofMOx) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Jockey](https://open.spotify.com/album/5whLdXZ586HK7NyNwItLtT) | 3:41 | 2022-03-11 | 2022-06-25 |
+| [Judas](https://open.spotify.com/track/6AgaV6iDCGiAi652RC30Dc) | [Cletz](https://open.spotify.com/artist/2sxyHfIyLF701bJNuBFHZB), [Akanni](https://open.spotify.com/artist/0wgIOP9UaikBczBsamAyFh), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Judas](https://open.spotify.com/album/1MRSV0bNEPRbEIlcjsZU3J) | 2:55 | 2023-09-01 |  |
 | [Kiwi Fresa](https://open.spotify.com/track/2sHDyVva4IgO7ETfuhfV3z) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv) | [Kiwi Fresa](https://open.spotify.com/album/53rwtTyWs43mW083vNbrLH) | 2:06 | 2022-07-01 | 2022-07-30 |
 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 | 2023-03-13 |  |
 | [LA DUEÑA](https://open.spotify.com/track/2FgTQUokrDl1OsHorgfPyc) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [PM Beatz](https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BAD GYAL RIDDIM](https://open.spotify.com/album/0Sl66un5vjC2a2KerGwlJ7) | 1:20 | 2023-02-10 | 2023-03-14 |
@@ -169,6 +170,7 @@
 | [Sin Waze](https://open.spotify.com/track/4Q7PAq0JYYX4XRFCIXHYlR) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:05 | 2023-06-20 |  |
 | [SINALOA](https://open.spotify.com/track/3DN5cqnNcrhZ8udxcywiG8) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SINALOA](https://open.spotify.com/album/2HfGfq6diPlFqvpkdDaZFi) | 3:18 | 2022-03-11 | 2022-05-28 |
 | [Soledad](https://open.spotify.com/track/2UaGRcWZNrVk78tKACcKBW) | [Flama](https://open.spotify.com/artist/0lhXYjnd2XC8SeyT0opzNg), [Almirante](https://open.spotify.com/artist/5mAHxelC3fjWyFkBH13fMt), [MANDU SINCE 21](https://open.spotify.com/artist/1dR4BAjv5vHo8fw5zHSUSg) | [Soledad](https://open.spotify.com/album/5AH0PMDZmbGJJhYLpqjtqY) | 4:08 | 2022-07-22 | 2022-08-13 |
+| [SOLO](https://open.spotify.com/track/1DLgitT2xDHYSGYmX0ceGb) | [Sir Boss](https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [SOLO](https://open.spotify.com/album/0CyP950kEm900Gpbjozmak) | 3:45 | 2023-09-01 |  |
 | [Solteros Y Solteras](https://open.spotify.com/track/6P9itUCn2yhB7NV9TMs7Jo) | [RVS](https://open.spotify.com/artist/6ZAaL51t20ryEyzYYwb3OM), [Toledo](https://open.spotify.com/artist/2edDMZSglhNmjytJPdkSbZ) | [Ya Casi Lo Borro](https://open.spotify.com/album/2ic9gNGgD7CY70CFiKEBew) | 2:47 | 2022-08-12 | 2022-09-03 |
 | [Soy Yo](https://open.spotify.com/track/6VkoloMNT2p5O6HNW1OMTD) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [Soy Yo](https://open.spotify.com/album/1JReYuNTR8YkQTtrrJHoze) | 2:37 | 2023-05-05 | 2023-05-20 |
 | [Story](https://open.spotify.com/track/3N1VjV2pcBUmg2Z0mj95S9) | [La Mentalidad](https://open.spotify.com/artist/51KqN9h3QK7MGvcWzDzQR3), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk) | [Story](https://open.spotify.com/album/0PWBpz6cOOFp3ys5CWyeu1) | 3:50 | 2022-06-24 | 2022-07-09 |

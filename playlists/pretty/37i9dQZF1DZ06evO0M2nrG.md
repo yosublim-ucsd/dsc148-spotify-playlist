@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,260 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,280 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 41 | [La Muñeca](https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Muñeca](https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ) | 3:18 |
 | 42 | [Por Vos](https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Por Vos](https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP) | 2:45 |
 | 43 | [Colorao](https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Colorao](https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ) | 3:18 |
-| 44 | [Vine a Buscarte](https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 |
-| 45 | [Yo Te Quiero Más \(feat\. Mike Bahía\) \- Remix](https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Te Quiero Más \(feat\. Mike Bahía\) \[Remix\]](https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A) | 3:04 |
-| 46 | [Sola Bonita](https://open.spotify.com/track/7tCdtaWLd8SJlCq9wsjGVO) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Soy](https://open.spotify.com/album/5sAHeZ8Zw6ufw2vC7D6h3f) | 3:03 |
-| 47 | [Noche en Hawaii](https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK) | [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Noche en Hawaii](https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM) | 2:57 |
+| 44 | [Yo Te Quiero Más \(feat\. Mike Bahía\) \- Remix](https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Te Quiero Más \(feat\. Mike Bahía\) \[Remix\]](https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A) | 3:04 |
+| 45 | [Vine a Buscarte](https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 |
+| 46 | [Noche en Hawaii](https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK) | [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Noche en Hawaii](https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM) | 2:57 |
+| 47 | [Sola Bonita](https://open.spotify.com/track/7tCdtaWLd8SJlCq9wsjGVO) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Soy](https://open.spotify.com/album/5sAHeZ8Zw6ufw2vC7D6h3f) | 3:03 |
 | 48 | [Magdalena](https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Magdalena](https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn) | 3:18 |
 | 49 | [Tarde](https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tarde](https://open.spotify.com/album/5tkNolbHmwahGRepiHrold) | 3:31 |
 | 50 | [Tú Tienes Razón \(feat\. Mike Bahía\) \- Versión Urbana](https://open.spotify.com/track/22ZDZQspD6nmT9krDjb8zO) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tú Tienes Razón \- EP](https://open.spotify.com/album/0C0BMCxF9Xc4Dz5k7cSIWd) | 3:17 |
 
-Snapshot ID: `MjgyMjQ3NjMsMDAwMDAwMDAwMjZlMTA2MWJjODNhZDEyYzliODUyM2MzZWM3OTFlYg==`
+Snapshot ID: `MjgyMjYxNDcsMDAwMDAwMDBiNGY3MGY1Y2M1ZDg5MDk3YzFmODc5OTUzYWZjMDgwNQ==`

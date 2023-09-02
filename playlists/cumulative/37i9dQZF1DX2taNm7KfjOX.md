@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Big Thief
 
-520 songs - 1 day 8 hr 29 min
+521 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Break Me Open](https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc) | 3:03 | 2022-06-24 | 2023-05-20 |
 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 | 2022-06-24 | 2023-04-15 |
 | [Bride](https://open.spotify.com/track/6IG4Z0sKhLG7MaXOgPCaa8) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Bride](https://open.spotify.com/album/28owF5FXqCYlH1nfT09uVU) | 3:49 | 2022-04-13 | 2022-07-22 |
+| [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 | 2023-09-01 |  |
 | [Brisbane](https://open.spotify.com/track/5dM2L19MdawMyQw3nSUsFQ) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Brisbane](https://open.spotify.com/album/5gpHY3opXOnjD074pF2JKR) | 3:17 | 2022-04-13 | 2022-07-05 |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-04-28 |  |
 | [Bud](https://open.spotify.com/track/5q9FAPRXpXyy6xI2hgq8I7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Bud](https://open.spotify.com/album/0So4agcAlpswj4ZsG1oJfa) | 3:35 | 2022-04-13 | 2022-04-20 |
@@ -382,7 +383,7 @@
 | [Savior Complex](https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 4:01 | 2021-10-22 | 2022-04-22 |
 | [Say It Ain't So](https://open.spotify.com/track/1REohUFAzDBfIqPwL1CjUQ) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Say It Ain't So](https://open.spotify.com/album/22DE5yz0XPuClO8A0P6tyJ) | 3:43 | 2022-04-13 | 2022-04-25 |
 | [Second Sun](https://open.spotify.com/track/6M9pAYUbeZw1P492xk1TIm) | [Jodie Nicholson](https://open.spotify.com/artist/3UKeJqND3iyFxGOUPLq9Be) | [Second Sun](https://open.spotify.com/album/5cmMIs2vDV7WfNKdRBGaak) | 5:00 | 2021-10-22 | 2022-04-21 |
-| [Seed \- In Bloom](https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi), [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Seed \(In Bloom\)](https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB) | 2:37 | 2023-08-04 |  |
+| [Seed \- In Bloom](https://open.spotify.com/track/6dqSEB3o1HZ7dmBgUbJy4e) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi), [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Seed \(In Bloom\)](https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB) | 2:37 | 2023-08-04 | 2023-09-02 |
 | [Selene](https://open.spotify.com/track/5qD71BEybvU6SE214zXCeq) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Selene](https://open.spotify.com/album/6oaFJJyQIAVeD8vGbRu15A) | 4:38 | 2022-04-13 | 2022-04-18 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2022-06-24 |  |
 | [She Burns](https://open.spotify.com/track/4MbeEkEuBRe6l5ksYXqNXb) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [She Burns](https://open.spotify.com/album/2cKw7mUmiiLmDPDxdsW0zS) | 3:49 | 2021-10-22 | 2022-07-26 |

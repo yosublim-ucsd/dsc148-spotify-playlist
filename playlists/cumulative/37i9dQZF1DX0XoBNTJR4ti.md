@@ -4,7 +4,7 @@
 
 > A collection of family\-friendly stories in five minutes or less.
 
-39 songs - 2 hr 33 min
+40 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Champion Daddy Pig](https://open.spotify.com/track/5iMgLwRqO1EpALBabpQmvp) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Champion Daddy Pig](https://open.spotify.com/album/4drhK7QL3MvfBRd2WRuvIL) | 4:40 | 2021-12-03 |  |
 | [Chicken Licken](https://open.spotify.com/track/6abzjmJziIfTl7UkOcZG8k) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 2](https://open.spotify.com/album/11fiyuFsAYvKBIzv8uSrVB) | 5:25 | 2021-12-03 |  |
 | [Cinderella](https://open.spotify.com/track/6TUS7KrPsLHyrbHdKQcuK4) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 3](https://open.spotify.com/album/4glSOhrOYAV235TuVlsGkf) | 5:00 | 2021-12-03 |  |
-| [Eat Your Vegetables! \- Story](https://open.spotify.com/track/4DD2o7YxJUTgN2oikRdhL2) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Story Time with Little Baby Bum, Vol\. 1](https://open.spotify.com/album/3e7dcDIRVZFdXHrFR6psl9) | 3:14 | 2021-12-03 |  |
+| [Eat Your Vegetables](https://open.spotify.com/track/0hmFZDawypCbYscxE78tVe) | [Moonbug Story Time](https://open.spotify.com/artist/05GWFF4TH8RTJQf8V4RGg5) | [Classic Bedtime Stories](https://open.spotify.com/album/4DcZEZQp6xa3uZQlkk6awM) | 3:14 | 2021-12-03 |  |
+| [Eat Your Vegetables! \- Story](https://open.spotify.com/track/4DD2o7YxJUTgN2oikRdhL2) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Story Time with Little Baby Bum, Vol\. 1](https://open.spotify.com/album/3e7dcDIRVZFdXHrFR6psl9) | 3:14 | 2021-12-03 | 2023-09-02 |
 | [Eat Your Vegetables! \- Story](https://open.spotify.com/track/7xNsgiWVy4XZeLayzRgHi5) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Story Time with Little Baby Bum, Vol\. 1](https://open.spotify.com/album/1GHo6KlmEFUER7cCpvO0rv) | 3:14 | 2021-12-03 | 2022-09-03 |
 | [Fox In Socks \- Fast Version](https://open.spotify.com/track/5ofJLCVuxIwH0dCUDbMBvD) | [Dr\. Seuss](https://open.spotify.com/artist/4mi47OiK1uIz0TygMvYgW2) | [Dr\. Seuss Presents Fox In Sox, Horton Hatches the Egg & Other Stories](https://open.spotify.com/album/60hEQENR7JBkF1G69v0AkT) | 3:43 | 2021-12-03 |  |
 | [Goldilocks](https://open.spotify.com/track/2wmO0cO96FvkiqhS3mpewh) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Kids Storytime with Pancake Manor](https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx) | 4:06 | 2021-12-03 |  |

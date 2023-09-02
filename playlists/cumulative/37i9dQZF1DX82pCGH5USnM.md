@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-731 songs - 1 day 17 hr 43 min
+732 songs - 1 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [Swoosh](https://open.spotify.com/track/2d5fQd2dmrPfWd0CCqelkP) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Swoosh](https://open.spotify.com/album/3WUfj10ZPtllBAqGRsnQGu) | 3:02 | 2020-10-27 | 2022-06-24 |
 | [Symbiosis](https://open.spotify.com/track/1ZdsZcijEFam8ABkebkKZX) | [Jiungsu](https://open.spotify.com/artist/3QXLTPHUZakK8KDFCBS43I) | [Symbiosis](https://open.spotify.com/album/7umm0ZxYJpYBeKZsuqvRnC) | 2:40 | 2021-01-15 | 2021-03-25 |
 | [tagada](https://open.spotify.com/track/0dZF0uYtRqO8jiomWHPaaI) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [tagada](https://open.spotify.com/album/47wnVoEyYSQHT1zKMbJkAN) | 2:26 | 2022-05-20 | 2022-05-27 |
+| [Take Off](https://open.spotify.com/track/1vqF90KZkj53yZdmoJZohR) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Take Off](https://open.spotify.com/album/2dc9D5lE95QfpD2ZOIsTEI) | 2:35 | 2023-09-01 |  |
 | [Takes Two](https://open.spotify.com/track/4t0Jd9SUVvCqDmZ08lqXcx) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Vibes Vol\. 2](https://open.spotify.com/album/0xuDJrCDAVY3HPmoArJ2dj) | 3:51 | 2023-01-13 |  |
 | [Taking Polaris](https://open.spotify.com/track/4PkVCSor0FoPx1X2FGJ9gR) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Taking Polaris EP](https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP) | 4:43 | 2021-03-18 | 2021-09-22 |
 | [Talk Lines](https://open.spotify.com/track/4PoR5o9KrxitDT6gXwHTiQ) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Talk Lines](https://open.spotify.com/album/5fVn1HrAPRaZrKandc6KtL) | 3:51 | 2020-11-11 | 2021-04-21 |

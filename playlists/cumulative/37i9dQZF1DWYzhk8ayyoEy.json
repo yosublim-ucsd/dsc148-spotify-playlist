@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Yes We Can",
+        "url": "https://open.spotify.com/album/6EmU5AYldF504VZZMIGfra"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Yes We Can",
+      "url": "https://open.spotify.com/track/4mY4eTuEvnWNNNlS3QXLkg"
+    },
+    {
+      "album": {
         "name": "You Are Not Alone",
         "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
       },

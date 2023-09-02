@@ -4,7 +4,7 @@
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-134 songs - 7 hr 20 min
+135 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Excitement](https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Excitement](https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu) | 4:43 | 2021-11-12 |  |
 | [Favorite Bitch \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2KBRNUt33CrlaFPEz4bQYs) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:56 | 2021-11-12 | 2022-07-29 |
 | [Fe](https://open.spotify.com/track/5Fk3eM6RkgWA3R9jF1gkI1) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Fe](https://open.spotify.com/album/4lsrSJug6xGdyLN6ue1IXQ) | 3:19 | 2021-11-12 | 2022-07-29 |
+| [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/track/17wZ58uIxULAVELzhEURni) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Flatline \(feat\. Kenny Mason\)](https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx) | 4:00 | 2023-09-01 |  |
 | [Flex \(feat\. Juice WRLD\)](https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:43 | 2021-11-12 |  |
 | [Flow Pe$ado](https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Flow Pe$ado](https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX) | 2:53 | 2021-11-12 | 2022-12-13 |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2021-11-12 |  |
@@ -64,7 +65,7 @@
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2021-11-12 |  |
 | [Life's A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 | 2021-11-12 |  |
 | [Lion Eyes](https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lion Eyes](https://open.spotify.com/album/6LP3eNouezRT5SsEviDcr3) | 1:52 | 2021-11-12 |  |
-| [LOAD IT UP](https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [LOAD IT UP](https://open.spotify.com/album/77Mak8ARcb9Jwkl1D0tFfA) | 2:57 | 2021-11-12 |  |
+| [LOAD IT UP](https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [LOAD IT UP](https://open.spotify.com/album/77Mak8ARcb9Jwkl1D0tFfA) | 2:57 | 2021-11-12 | 2023-09-02 |
 | [Lock It Up \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 2:50 | 2021-11-12 |  |
 | [Los Bo](https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Los Bo](https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD) | 3:59 | 2021-11-12 |  |
 | [Los Dioses](https://open.spotify.com/track/7oHsIIDKbEJlFULg1HF0pP) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 4:38 | 2021-11-12 |  |

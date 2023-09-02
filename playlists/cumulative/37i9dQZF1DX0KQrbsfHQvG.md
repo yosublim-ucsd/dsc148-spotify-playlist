@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-149 songs - 8 hr 26 min
+150 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 | 2020-08-19 | 2022-08-25 |
 | [Music in My Head](https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu) | [KillRadio](https://open.spotify.com/artist/3ClupI4Qihar6Edme6SMFr) | [Election Year](https://open.spotify.com/album/4pT7zvZRbbZa20c3JVbIAI) | 3:23 | 2021-04-16 | 2022-06-01 |
 | [N.I.G.G.a\. \(Not OK\)](https://open.spotify.com/track/3GgT9XmJMThUxcRYaI58Kg) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Cat & Mouse](https://open.spotify.com/album/5qEZVA8hye6yQrSXZY5WGO) | 3:54 | 2022-01-14 | 2022-05-31 |
-| [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 | 2022-07-01 |  |
+| [National Anthem](https://open.spotify.com/track/0A216B18ZRLYOrFVBeFbt4) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [STAINS](https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG) | 2:27 | 2022-07-01 | 2023-09-02 |
 | [National Anthem](https://open.spotify.com/track/17DPxC2PVZH80od1vFvW2t) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [National Anthem](https://open.spotify.com/album/7pqXY4C7TOgZPfaz9q4Kxt) | 2:28 | 2020-08-19 | 2022-07-29 |
 | [None Of The Above](https://open.spotify.com/track/0qochh4sUrYpilQZKTtutC) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/3Ubxq3xl0xzgKTyetggqbm) | 3:34 | 2020-08-19 | 2022-07-27 |
 | [None Of The Above](https://open.spotify.com/track/5x7gLFdQd10xz3AIzg7hgj) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:34 | 2022-07-01 | 2023-08-31 |
@@ -119,6 +119,7 @@
 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 | 2020-08-19 |  |
 | [Riot!](https://open.spotify.com/track/0RLasXfUaq0alAJVYhQ9s8) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:24 | 2020-08-19 | 2022-08-25 |
 | [Riot!](https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:24 | 2022-07-01 |  |
+| [Rise](https://open.spotify.com/track/66bz5iH5p8zBSbgvs84ygh) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/1BRJvLviuSqyFpInvec0lk) | 3:53 | 2023-06-23 |  |
 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 | 2020-08-19 | 2023-08-31 |
 | [Rise Up](https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Rise Up](https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a) | 3:50 | 2020-08-19 |  |
 | [Save Us](https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Save Us](https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT) | 2:21 | 2020-10-23 | 2023-05-07 |

@@ -2552,6 +2552,24 @@
     {
       "album": {
         "name": "Survive",
+        "url": "https://open.spotify.com/album/240wcU9g5CJ8M1iaQTLIZN"
+      },
+      "artists": [
+        {
+          "name": "ENMY",
+          "url": "https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171486,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/0hZw4WGvobBufZ2rveQST8"
+    },
+    {
+      "album": {
+        "name": "Survive",
         "url": "https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9"
       },
       "artists": [
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 171486,
       "name": "Survive",
       "url": "https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x"

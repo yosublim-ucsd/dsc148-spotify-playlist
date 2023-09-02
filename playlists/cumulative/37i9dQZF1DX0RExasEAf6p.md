@@ -4,11 +4,12 @@
 
 > To: You, From: Anna <3
 
-51 songs - 2 hr 52 min
+52 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 | 2023-07-26 |  |
+| [A Strange Kind Of Beautiful](https://open.spotify.com/track/0ttVAF5zheWZoLI3pURxWS) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:32 | 2023-07-26 |  |
+| [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 | 2023-07-26 | 2023-09-02 |
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2023-07-26 |  |
 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-07-26 |  |
 | [Boys Like You](https://open.spotify.com/track/3MZeBZsYFViZ5OchHkv7NM) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Boys Like You](https://open.spotify.com/album/4lze7H8TQqIqnrRT9Sc351) | 3:27 | 2023-07-26 |  |

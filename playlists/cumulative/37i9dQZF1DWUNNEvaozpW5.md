@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Rulo y la contrabanda.
 
-323 songs - 20 hr 58 min
+324 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [De cuando no había nacido](https://open.spotify.com/track/7sTAeb1In1O0sH1eEiFoYP) | [Jose Ignacio Lapido](https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8) | [A primera sangre](https://open.spotify.com/album/1aNwDBOJSEOILJ26OyN8t5) | 4:16 | 2023-04-06 | 2023-04-25 |
 | [Defraudado](https://open.spotify.com/track/0vhKUN7WInezHciwBPcmEI) | [Isma Romero](https://open.spotify.com/artist/5tGFnFD0dIxKMG8uuR9p89) | [Defraudado](https://open.spotify.com/album/3lDm6WNV7sD7dCFiRmhyo5) | 3:36 | 2023-07-13 | 2023-07-28 |
 | [Deja Vu](https://open.spotify.com/track/75EtQp5j0rwRQXq0pgEkR7) | [Txetxu Altube](https://open.spotify.com/artist/6zZS2CK5lSm75bu2j43a2u) | [Deja Vu](https://open.spotify.com/album/2tOxAwd9CZt6rSHAiCFyGB) | 3:48 | 2023-05-04 | 2023-06-02 |
+| [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 | 2023-08-31 |  |
 | [Dentro De La Ley](https://open.spotify.com/track/113AF9qdjqcBHaOABYca6S) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [A Todo Que Sí](https://open.spotify.com/album/7LXLPz8rJAGS1fxWVBSQjS) | 2:48 | 2022-05-19 | 2022-07-25 |
 | [Deseando ver la luz](https://open.spotify.com/track/2fX6lNgkU7QkQF86s2x8OJ) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [Deseando ver la luz](https://open.spotify.com/album/40OhE5LijpvgkRcJFvD5tx) | 4:44 | 2023-02-23 | 2023-03-10 |
 | [Devil Came to Me](https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 4:36 | 2022-07-21 |  |
@@ -230,7 +231,7 @@
 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 | 2023-05-25 | 2023-06-23 |
 | [Nunca Me Despedí](https://open.spotify.com/track/37O7x9O4QdXM1ODCDw1Dgl) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Nunca Me Despedí](https://open.spotify.com/album/18SGnUI9y1q7Iwi8GsVD3q) | 3:10 | 2022-05-19 | 2022-05-27 |
 | [P\*\#% Cantautor](https://open.spotify.com/track/5vEE3mNVCgHvcFH9nI4TgU) | [Se ha perdido un niño](https://open.spotify.com/artist/3hBFtHSUfUl6qa3NdDnUbL) | [P\*\#% Cantautor](https://open.spotify.com/album/27OhREemhxU6SiqOPON0mP) | 3:12 | 2023-01-12 | 2023-01-27 |
-| [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 | 2022-05-19 |  |
+| [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 | 2022-05-19 | 2023-09-02 |
 | [Pajaros de Barro](https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 4:06 | 2022-05-19 |  |
 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 | 2022-05-26 |  |
 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 | 2022-06-16 | 2022-06-18 |

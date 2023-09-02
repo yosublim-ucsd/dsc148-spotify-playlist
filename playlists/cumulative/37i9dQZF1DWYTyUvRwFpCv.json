@@ -683,6 +683,24 @@
     },
     {
       "album": {
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203619,
+      "name": "Paloma Negra - En Vivo",
+      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
+    },
+    {
+      "album": {
         "name": "Paloma Negra (Live)",
         "url": "https://open.spotify.com/album/3OS6PLSZWePt0jDDq35M8C"
       },
@@ -694,7 +712,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 189986,
       "name": "Paloma Negra - Live",
       "url": "https://open.spotify.com/track/7qeQeyEcYWISbz3DIHT1ke"

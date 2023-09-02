@@ -4,7 +4,7 @@
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Zatox
 
-536 songs - 1 day 5 hr 30 min
+537 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Burn It Down](https://open.spotify.com/track/7Bh0sxD0BTkq0PtexKICB3) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Burn It Down](https://open.spotify.com/album/6vRb3xiVIvUN7VunCfQ3aQ) | 2:51 | 2023-01-12 | 2023-04-07 |
 | [Burn The Place Up](https://open.spotify.com/track/3JFlEtsbsAb74sz7rkB4kW) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [Burn The Place Up](https://open.spotify.com/album/2cAAQ0ANoKN9V3Ze3vKQjN) | 3:07 | 2023-08-04 |  |
 | [Burning Love](https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Critical Mass](https://open.spotify.com/artist/5anwTbhEWgbOnZUs2GbuB9) | [Burning Love](https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP) | 3:39 | 2022-12-08 | 2023-02-10 |
+| [Can Can](https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a) | [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Can Can](https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi) | 2:08 | 2023-09-01 |  |
 | [Carry On](https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM) | [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [Carry On](https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o) | 2:34 | 2023-01-12 | 2023-04-21 |
 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 | 2022-12-15 | 2023-02-24 |
 | [Catch Me If You Can](https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/1cXegml0Di3ZWtZn13OaBt) | 2:25 | 2023-01-12 | 2023-04-21 |

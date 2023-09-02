@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-265 songs - 15 hr 58 min
+266 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Escándalo](https://open.spotify.com/track/4EhRKeEN4RE7AWaI9pWXQ5) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Duelo de Sonoras](https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY) | 4:48 | 2022-06-07 |  |
 | [Estupido \(feat\. Janeth Guadalupe\)](https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Janeth Guadalupe](https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq) | [Tonto Carino](https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6) | 4:59 | 2021-10-19 | 2022-06-08 |
 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 | 2021-10-19 | 2022-06-08 |
+| [Fiesta](https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Ni Juana la Cubana](https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw) | 2:51 | 2022-12-07 |  |
 | [Fiesta](https://open.spotify.com/track/2d2na9fb1qaC5Aj5CtKqsS) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [20 Éxitos Bailables](https://open.spotify.com/album/3hlwZKYlm2oKtviUzbYJ5i) | 2:52 | 2022-06-07 | 2022-07-29 |
 | [Fiesta](https://open.spotify.com/track/3JzsuJd0ZkxxRxTwVokRnO) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [20 Éxitos Bailables](https://open.spotify.com/album/0iaD5gNCR3LNMkXpNYBizV) | 2:52 | 2022-07-19 | 2022-10-09 |
 | [Flor del Río](https://open.spotify.com/track/6B91idlI85dgcjfP2lHKe3) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Los Grandes Éxitos de los Grandes Grupos](https://open.spotify.com/album/5wpdSJcSJ99JbsxBtqrmGt) | 2:50 | 2022-07-19 | 2023-07-26 |
@@ -257,7 +258,7 @@
 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 | 2021-10-19 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2022-07-19 |  |
 | [Una hoja en blanco](https://open.spotify.com/track/18B1N1bw2A1v4FABZQzrsa) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [La fuerza del amor](https://open.spotify.com/album/2tYNffVWlffaeMgveN2bh3) | 4:24 | 2022-12-07 |  |
-| [Una Ráfaga De Amor](https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Soplando Fuerte / Un Fenómeno Natural](https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC) | 3:02 | 2022-12-07 |  |
+| [Una Ráfaga De Amor](https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Soplando Fuerte / Un Fenómeno Natural](https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC) | 3:02 | 2022-12-07 | 2023-09-02 |
 | [Una Ráfaga de Amor](https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:03 | 2022-07-19 | 2023-03-13 |
 | [Una y Mil Veces](https://open.spotify.com/track/4FhMTZKmjbkIR9bazv8bFv) | [Los Forasteros](https://open.spotify.com/artist/6qBJpxk1RBoWp8XeYy8BmU) | [Cumbia Romántica](https://open.spotify.com/album/5tvgwdhzYB1qmYXZdGNXm0) | 4:31 | 2022-07-19 | 2022-11-13 |
 | [Usted Que Haria](https://open.spotify.com/track/0l9S0ufiXdSXWGF4br3uZs) | [Sonido Condor](https://open.spotify.com/artist/4IVjseASdZdJJujgEilnEp) | [100% Poblano](https://open.spotify.com/album/52tQuXHttcfzw6ELaSMIvL) | 2:52 | 2021-10-19 | 2022-07-29 |

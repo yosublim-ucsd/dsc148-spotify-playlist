@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Poolside
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,727 likes - 76 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,770 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 69 | [Take a Chance](https://open.spotify.com/track/5YKHh24xKQNW7XT29gNIRp) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Take a Chance](https://open.spotify.com/album/5FGc2Uy94y4BVsRSkxmOkZ) | 3:23 |
 | 70 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 71 | [Dummy – Chrome Sparks Remix](https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Dummy – Chrome Sparks Remix](https://open.spotify.com/album/1evFsTho9g2jaaIBwX5i5L) | 3:46 |
-| 72 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
-| 73 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
-| 74 | [Tell Me](https://open.spotify.com/track/7MCaMjjCH3TulSw4hIG3xx) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Prestige](https://open.spotify.com/album/3vAzZOMM1BvxtVfKjyQI78) | 3:57 |
-| 75 | [You Knew \- Edit](https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 2:55 |
-| 76 | [LOSER](https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [LOSER](https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA) | 3:44 |
+| 72 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 |
+| 73 | [Tell Me](https://open.spotify.com/track/7MCaMjjCH3TulSw4hIG3xx) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Prestige](https://open.spotify.com/album/3vAzZOMM1BvxtVfKjyQI78) | 3:57 |
+| 74 | [You Knew \- Edit](https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 2:55 |
+| 75 | [LOSER](https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [LOSER](https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA) | 3:44 |
 
-Snapshot ID: `MCw4N2NiZmRjZmZjMWVkOTEwNTFlMzAzYjYzYmZhMzRkMDJjYTI1NTU4`
+Snapshot ID: `MCwzNTJjNjM4NWI4ZjkxOGNhMmYxNjQwOGY3NWYwNzk5M2ZmMmRjOTQ3`

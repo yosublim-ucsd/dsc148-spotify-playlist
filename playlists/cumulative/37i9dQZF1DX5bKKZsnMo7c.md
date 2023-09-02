@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Cody Fry
 
-273 songs - 14 hr 52 min
+275 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Proud](https://open.spotify.com/track/14bkozr2M41OUMW7pGXQbF) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [Proud](https://open.spotify.com/album/3eUxBO0HdQrauuHaitTlsv) | 3:19 | 2023-04-12 | 2023-04-18 |
 | [putting a spin on somebody that i used to know](https://open.spotify.com/track/7oG6YAqkuBHBZ0qgtDhOAm) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [putting a spin on somebody that i used to know](https://open.spotify.com/album/0CCl0omkYtDTAYZ5dhy4W0) | 4:16 | 2022-05-17 | 2022-12-10 |
 | [Queen of Ears](https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Queen of Ears](https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA) | 3:06 | 2022-11-18 | 2022-11-30 |
-| [Rain](https://open.spotify.com/track/4HXX2HJnSoY8oIU3PG5aba) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Rain](https://open.spotify.com/album/2NtDCptgC5zLfJjj7dgXAf) | 3:09 | 2023-05-12 |  |
+| [Rain](https://open.spotify.com/track/4HXX2HJnSoY8oIU3PG5aba) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Rain](https://open.spotify.com/album/2NtDCptgC5zLfJjj7dgXAf) | 3:09 | 2023-05-12 | 2023-09-02 |
 | [reaching](https://open.spotify.com/track/3dQzkQ4fsMV0iCHLB3hfDk) | [Jonny West](https://open.spotify.com/artist/3WZbnaao6ao4diqMVvDJXk) | [reaching](https://open.spotify.com/album/2RZGsosH7OptbzEzYFzmsU) | 2:16 | 2022-07-22 | 2022-12-10 |
 | [recruitment season](https://open.spotify.com/track/618GzvMV0w1jBFF5A1g4pW) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [recruitment season](https://open.spotify.com/album/4ghTndeiaG0GgSHGP3aabY) | 3:38 | 2023-01-13 | 2023-02-17 |
 | [Riot](https://open.spotify.com/track/2JVYdQafLX5jbr6IlQ1KIx) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Comedy](https://open.spotify.com/album/40B9hxxs81k4rykZo0eF77) | 3:27 | 2023-04-12 |  |
@@ -234,6 +234,7 @@
 | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/album/4MFqzRvRBP8dPr1ffjT0J4) | 2:30 | 2023-04-28 |  |
 | [Smitten](https://open.spotify.com/track/4ECcVxvtmcKyemj7GLu8V0) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Smitten](https://open.spotify.com/album/1nBm5rHMr2g9dqIU98OmcT) | 2:29 | 2022-05-17 | 2022-08-06 |
 | [Smitten / vulnerable](https://open.spotify.com/track/40BNw8gYwlfSp9eUsfzG8K) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 3:52 | 2022-05-17 | 2022-12-10 |
+| [Snow Angel](https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n) | 3:35 | 2023-09-01 |  |
 | [Soft Boy](https://open.spotify.com/track/1GqlrKuFFZwOKhULYTTeag) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Soft Boy](https://open.spotify.com/album/7nTQSfMt2TSeUR0xOxjBG4) | 2:17 | 2022-10-06 |  |
 | [Someone On The Internet](https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Someone On The Internet](https://open.spotify.com/album/7iy5XSdRsFVU2X25eEAhPX) | 3:02 | 2023-02-02 | 2023-02-17 |
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-05-17 | 2023-06-21 |
@@ -249,7 +250,8 @@
 | [The Place To Be](https://open.spotify.com/track/2Y8D1aBfSngGN41XnOwydy) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [The Place To Be](https://open.spotify.com/album/6L31U4bZtscOccwZbnIvXm) | 3:28 | 2022-09-16 | 2022-12-10 |
 | [The Red Means I Love You](https://open.spotify.com/track/3FD23QWCO0aP7fzKXHCDE8) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Sunset on Summerville](https://open.spotify.com/album/6IA6npG3aDtFpcVwNNBT9r) | 3:53 | 2022-09-16 |  |
 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 | 2022-05-17 | 2022-10-06 |
-| [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 | 2023-07-21 |  |
+| [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 | 2023-07-21 |  |
+| [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 | 2023-07-21 | 2023-09-02 |
 | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/track/3E4gPkcqnyaAnv1nrdukwp) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Henry D'Arthenay](https://open.spotify.com/artist/25Dx0mB7FWXFxNjsYVfcCL) | [The View From Halfway Down \- Spotify Singles](https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj) | 3:50 | 2022-05-27 | 2022-06-11 |
 | [The Widow](https://open.spotify.com/track/5meJWQuHyHDsOjWF8AtSDe) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Frances the Mute](https://open.spotify.com/album/30iqYID1JMBXLVFfErwTSd) | 5:50 | 2022-05-25 | 2022-06-02 |
 | [There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet](https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:16 | 2022-05-17 | 2022-06-15 |

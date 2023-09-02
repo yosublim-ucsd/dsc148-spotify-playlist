@@ -217,6 +217,32 @@
     },
     {
       "album": {
+        "name": "Big Yeah",
+        "url": "https://open.spotify.com/album/23sXgNRgVIst2eBQbrbFre"
+      },
+      "artists": [
+        {
+          "name": "HoodBillies",
+          "url": "https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Krizz Kaliko",
+          "url": "https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133899,
+      "name": "Big Yeah",
+      "url": "https://open.spotify.com/track/4oI6htwIqt3S7RgzGluAhk"
+    },
+    {
+      "album": {
         "name": "Blacked Out",
         "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
       },

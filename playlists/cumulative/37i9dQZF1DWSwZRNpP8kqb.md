@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-141 songs - 8 hr 18 min
+142 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Campo Afuera](https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG) | [Paola Arias](https://open.spotify.com/artist/5qZQs9TjnHu0KrGsRa1zIt), [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Uno Más 6](https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf) | 2:23 | 2022-09-06 |  |
 | [Canción del Jangadero](https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS) | [Patricia Gómez](https://open.spotify.com/artist/5kWUnk8ne4Gi2bzrwk95vc), [Mariano Peresón](https://open.spotify.com/artist/3mcRXU6lVquKxkjYh20oIf) | [Canción del Jangadero](https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS) | 5:11 | 2022-01-14 | 2022-09-07 |
 | [Canto Enamorado](https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Enamorado](https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ) | 3:04 | 2022-01-14 |  |
+| [Carnavaleando de Sol a Sol](https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Mi Camino](https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD) | 2:56 | 2023-09-01 |  |
 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [CARNAVALITO DEL DUENDE](https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ) | 2:52 | 2023-04-21 |  |
 | [Chacarera De Un Triste](https://open.spotify.com/track/1Fy3NTZvDisJEACyUIpt1p) | [Natalia Barrionuevo](https://open.spotify.com/artist/3HsEpr0lLwltdTesdpkyfC) | [Folk](https://open.spotify.com/album/52oH9mSQNhPl2TskvtDrOM) | 2:36 | 2022-09-06 |  |
 | [Chacarera del Santiagueño](https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn) | [Hilda Herrera](https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI) | [La Diablera](https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS) | 2:11 | 2022-01-14 | 2023-06-29 |
@@ -42,7 +43,7 @@
 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 | 2022-01-14 |  |
 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 | 2022-06-10 | 2022-09-03 |
 | [Diez Noches de Desvelo](https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [El Amor Es Así](https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ) | 2:56 | 2022-07-08 |  |
-| [Dime](https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2023-05-26 |  |
+| [Dime](https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2023-05-26 | 2023-09-02 |
 | [Disfruto \(En Vivo, Teatro Provincial J.C.Saravia \- Salta\)](https://open.spotify.com/track/1JG6hhiK0IY5KgpYBRTG5u) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [En Vivo, Teatro Provincial J.C.Saravia \- Salta \(Pt\. 3\)](https://open.spotify.com/album/3jzgWB3dDYbzk5QED3TcGy) | 3:06 | 2022-02-25 | 2022-07-29 |
 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 | 2022-01-14 | 2022-09-26 |
 | [Dos Orillas](https://open.spotify.com/track/3Y6KGtonkRMyUFUMnsOJEs) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Dos Orillas](https://open.spotify.com/album/0sZ3ncuCq1cPki4PutsLAd) | 3:21 | 2022-01-14 | 2023-07-03 |

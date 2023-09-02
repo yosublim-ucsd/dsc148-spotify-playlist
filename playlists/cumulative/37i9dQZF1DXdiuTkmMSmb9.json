@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "The More The Better",
+        "url": "https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "King of Pop",
+      "url": "https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf"
+    },
+    {
+      "album": {
         "name": "Koko",
         "url": "https://open.spotify.com/album/0VVhDZXIHATBwfpkmRaLtF"
       },

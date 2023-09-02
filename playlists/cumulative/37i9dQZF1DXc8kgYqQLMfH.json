@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 113656,
       "name": "Bax Glax",
       "url": "https://open.spotify.com/track/4EsEVVF81gV1ilOSltLFbP"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 158372,
       "name": "Beach Walk",
       "url": "https://open.spotify.com/track/1AlH84yWyMBZbJvsGUabG8"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 118806,
       "name": "best friend",
       "url": "https://open.spotify.com/track/2LInrKUW2wKbcSybdChB93"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 106501,
       "name": "Consult",
       "url": "https://open.spotify.com/track/6XzmE9jEekd5iNZDTBprtT"
@@ -6017,6 +6017,28 @@
     },
     {
       "album": {
+        "name": "Fluff",
+        "url": "https://open.spotify.com/album/7qnaVlVTffLYXPSaQzLkiB"
+      },
+      "artists": [
+        {
+          "name": "Hanses",
+          "url": "https://open.spotify.com/artist/6wwQjgTWrlZBFU4PcloxaR"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113354,
+      "name": "Fluff",
+      "url": "https://open.spotify.com/track/54LKiXE5UIdFzDgKsbLacL"
+    },
+    {
+      "album": {
         "name": "Flutes And Guitars",
         "url": "https://open.spotify.com/album/5pAUgxWDgu6CqJ1GEOasGq"
       },
@@ -6573,6 +6595,28 @@
     },
     {
       "album": {
+        "name": "Gardening On Mars",
+        "url": "https://open.spotify.com/album/7HSs5riFuaFuhqXm914Gb0"
+      },
+      "artists": [
+        {
+          "name": "BluntOne",
+          "url": "https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110435,
+      "name": "Gardening On Mars",
+      "url": "https://open.spotify.com/track/79i8XMKhu0RGMFV9ppZF8n"
+    },
+    {
+      "album": {
         "name": "Gelato Afternoon",
         "url": "https://open.spotify.com/album/7r9Cgz0UCb6gqwGkakCTWX"
       },
@@ -6726,6 +6770,28 @@
       "duration_ms": 196483,
       "name": "Golden Gardens",
       "url": "https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/1xi605kHdMrLZzXZQsMdc6"
+      },
+      "artists": [
+        {
+          "name": "BNMO",
+          "url": "https://open.spotify.com/artist/0K93FFKHhvSVG654YlexpR"
+        },
+        {
+          "name": "WOOLFSON",
+          "url": "https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/2JWwwEa2Hz5FxhU0XWXLLs"
     },
     {
       "album": {
@@ -7134,7 +7200,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 188000,
       "name": "Heavy Rain",
       "url": "https://open.spotify.com/track/2XYQdu0pvVvv0sxo1mZsUP"
@@ -8875,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "Kyalami",
+        "url": "https://open.spotify.com/album/0QOvz1G0ajW226aJNXkHkl"
+      },
+      "artists": [
+        {
+          "name": "Montreux Stay-Behinds",
+          "url": "https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Kyalami",
+      "url": "https://open.spotify.com/track/0DE2JFzYVR4byph3SilATs"
+    },
+    {
+      "album": {
         "name": "Kyma",
         "url": "https://open.spotify.com/album/1TzHL2UQNOcr4Doi1iNi0W"
       },
@@ -9034,7 +9118,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 135833,
       "name": "Late but calm",
       "url": "https://open.spotify.com/track/4oWsy1FsUhuBmf5kFs2Jwi"
@@ -10046,7 +10130,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 157894,
       "name": "Lovely Night",
       "url": "https://open.spotify.com/track/4nCrAxvmNdPntO37lCdFkh"
@@ -12044,6 +12128,28 @@
       "duration_ms": 132145,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/40n2oIBFPLM8H1FfBO1EfN"
+    },
+    {
+      "album": {
+        "name": "night sky",
+        "url": "https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Kanzas-City",
+          "url": "https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106400,
+      "name": "night sky",
+      "url": "https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4"
     },
     {
       "album": {
@@ -14751,6 +14857,28 @@
     },
     {
       "album": {
+        "name": "One Element",
+        "url": "https://open.spotify.com/album/7f8A1M2fY4u7SibnDgYO1N"
+      },
+      "artists": [
+        {
+          "name": "Lemongrass",
+          "url": "https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk"
+        },
+        {
+          "name": "Roberto Bronco",
+          "url": "https://open.spotify.com/artist/5HlpkSATa4mHlEcjv1MegV"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92562,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/3GNKg8aQHtdx24BOTt2XZh"
+    },
+    {
+      "album": {
         "name": "Semester",
         "url": "https://open.spotify.com/album/4WvZPXhQMUz94Cf6AvTgZ9"
       },
@@ -15643,6 +15771,24 @@
     },
     {
       "album": {
+        "name": "soft",
+        "url": "https://open.spotify.com/album/4SSDjMU6FNAmkV50GF5f6X"
+      },
+      "artists": [
+        {
+          "name": "$affie",
+          "url": "https://open.spotify.com/artist/3m63AiBD7p1QAVi95d03te"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "soft",
+      "url": "https://open.spotify.com/track/1ZfHwFcjHYxic6tiMnXwcG"
+    },
+    {
+      "album": {
         "name": "soft as water",
         "url": "https://open.spotify.com/album/3zTZU3TilA1Q470zDoxets"
       },
@@ -16042,7 +16188,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 138082,
       "name": "Staring Out The Window",
       "url": "https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9"
@@ -16300,6 +16446,28 @@
       "duration_ms": 141333,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/4qrCkRPyWcwF49CL17TPgn"
+    },
+    {
+      "album": {
+        "name": "summer haze",
+        "url": "https://open.spotify.com/album/0tRV2enItxLhyTrMHRYS2V"
+      },
+      "artists": [
+        {
+          "name": "Majid Unpeek",
+          "url": "https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224634,
+      "name": "summer haze",
+      "url": "https://open.spotify.com/track/5BKszK7QI1EjeEB7SgoQVh"
     },
     {
       "album": {
@@ -16716,6 +16884,24 @@
       "duration_ms": 109500,
       "name": "Tadar",
       "url": "https://open.spotify.com/track/3bbzTSD6TSfjbn6kiWOogR"
+    },
+    {
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/45KoVoEqDqMBArWzy78lfO"
+      },
+      "artists": [
+        {
+          "name": "Floating Anarchy",
+          "url": "https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121379,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4uLHZisb2folVt5JJam396"
     },
     {
       "album": {
@@ -17490,7 +17676,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 132537,
       "name": "Time's Memories",
       "url": "https://open.spotify.com/track/6MEdygUrQQcTBonYYMhb7g"
@@ -18734,6 +18920,24 @@
       "duration_ms": 179258,
       "name": "Watercolors",
       "url": "https://open.spotify.com/track/1lVIlYryHB4FeYdHGLoGna"
+    },
+    {
+      "album": {
+        "name": "Waterdrops",
+        "url": "https://open.spotify.com/album/7GeRBSqW9GZRVXrJzWXwu6"
+      },
+      "artists": [
+        {
+          "name": "Starlies",
+          "url": "https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "Waterdrops",
+      "url": "https://open.spotify.com/track/6L2KTK95SrQS5i9ABx4UPI"
     },
     {
       "album": {

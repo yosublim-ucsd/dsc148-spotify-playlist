@@ -1,13 +1,33 @@
 {
-  "description": "Featuring that new vintage. Cover: Jon Batiste",
-  "num_followers": 414114,
+  "description": "Featuring that new vintage. Cover: Sarah Kang",
+  "num_followers": 414157,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjI2NTI1ZDMzNDI5OGRmNTFkZTIzZmFjMGJlYTFiYmM4ZDJmYTFi",
+  "snapshot_id": "MCw2MDk4NzhkYmUzMTgxYTBhZjk3M2Y2MzZmZDRjMzlhNWQzNDdhZGE1",
   "tracks": [
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "duration_ms": 178346,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
@@ -23,6 +43,38 @@
       "duration_ms": 210100,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1H4fnvmxwS2CoJMrZu44mb"
+    },
+    {
+      "added_at": "2023-08-11 04:01:00",
+      "album": {
+        "name": "i'm confident that i'm insecure",
+        "url": "https://open.spotify.com/album/3BOQyggLEixg4CLYgheD3X"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "i'm confident that i'm insecure",
+      "url": "https://open.spotify.com/track/2vcJAWazBGDeUIbzdU0zV8"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "TAKE ME HOME (Wait Till Dawn) - EP",
+        "url": "https://open.spotify.com/album/3GauA9rLPf2AIVMVv9pysi"
+      },
+      "artists": [
+        {
+          "name": "WYATT",
+          "url": "https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM"
+        }
+      ],
+      "duration_ms": 217652,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/3LiU0TOvZTzf3qJXXF5bEJ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -41,20 +93,20 @@
       "url": "https://open.spotify.com/track/3zoXDAiViLi1eysasfw5GB"
     },
     {
-      "added_at": "2023-08-11 04:01:00",
+      "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "i'm confident that i'm insecure",
-        "url": "https://open.spotify.com/album/3BOQyggLEixg4CLYgheD3X"
+        "name": "SOS I'm In Love",
+        "url": "https://open.spotify.com/album/1TfVvdnyv7VlZ0I2Xz2Zhk"
       },
       "artists": [
         {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+          "name": "Maddie Poppe",
+          "url": "https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk"
         }
       ],
-      "duration_ms": 161533,
-      "name": "i'm confident that i'm insecure",
-      "url": "https://open.spotify.com/track/2vcJAWazBGDeUIbzdU0zV8"
+      "duration_ms": 171133,
+      "name": "SOS I'm In Love",
+      "url": "https://open.spotify.com/track/3kF70w7IlIRSHll56WSJeH"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -109,6 +161,22 @@
       "url": "https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN"
     },
     {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "duration_ms": 224925,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/5cXcykFgbrLw1nwpSYjVJF"
+    },
+    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "Be More",
@@ -139,26 +207,6 @@
       "duration_ms": 175567,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/7EPtycDSH6iVx1a3Adgy9x"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Hopeless Romantic, Pt. 1",
-        "url": "https://open.spotify.com/album/2SbZ3ohaiBoFvCofVE18h0"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
-        },
-        {
-          "name": "Cy Leo",
-          "url": "https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "Adventure with You",
-      "url": "https://open.spotify.com/track/7eEBjmN52u18OZUATiUGFD"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -455,22 +503,6 @@
       "duration_ms": 183167,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Only Girl",
-        "url": "https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "Only Girl",
-      "url": "https://open.spotify.com/track/17fL4slDQP8YopAZHWyiR3"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1625,22 +1657,6 @@
       "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "HAPPY FOR YOU",
-        "url": "https://open.spotify.com/album/1xcp0GpRqjGpgnjRVFjeKW"
-      },
-      "artists": [
-        {
-          "name": "RIVER",
-          "url": "https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "HAPPY FOR YOU",
-      "url": "https://open.spotify.com/track/77LUIy19BGRJWjVsXnX7ee"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Turn the Radio Up",
@@ -1659,22 +1675,6 @@
       "duration_ms": 199605,
       "name": "Turn the Radio Up (feat. Jewel)",
       "url": "https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Hard Days Love",
-        "url": "https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X"
-      },
-      "artists": [
-        {
-          "name": "Lily Moore",
-          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
-        }
-      ],
-      "duration_ms": 223559,
-      "name": "Hard Days Love",
-      "url": "https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO"
     },
     {
       "added_at": "2023-03-31 04:01:00",

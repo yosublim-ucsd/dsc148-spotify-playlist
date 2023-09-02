@@ -4,7 +4,7 @@
 
 > pov: the playlist to the bat mitzvah you were so NOT invited to, curated by Sammi Cohen.
 
-175 songs - 10 hr 41 min
+176 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2023-08-29 |  |
 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2022-07-07 | 2023-05-23 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-04-14 | 2022-07-08 |
+| [Hang the Moon \(from the Netflix Film "You Are So Not Invited To My Bat Mitzvah"\)](https://open.spotify.com/track/0Pxm4E8rNg65Z2G5I9W7TQ) | [Sadie](https://open.spotify.com/artist/2PfSnNh32J94ADXP7o2NTR) | [Hang the Moon \(from the Netflix Film "You Are So Not Invited To My Bat Mitzvah"\)](https://open.spotify.com/album/4G7wLx9pM4g8F3ScbueQpb) | 3:37 | 2023-09-01 |  |
 | [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 | 2023-08-29 |  |
 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 | 2023-08-29 |  |
 | [hurts 2 hate somebody](https://open.spotify.com/track/4kogvO1p1DILtlDNyQtIYN) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [hurts 2 hate somebody](https://open.spotify.com/album/1qRPUP3VBOSdZcHfR6VfN8) | 3:03 | 2023-05-22 | 2023-08-30 |

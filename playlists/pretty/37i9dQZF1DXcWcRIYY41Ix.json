@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Gato e\u2019 Monte.",
-  "num_followers": 115878,
+  "num_followers": 115900,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjNkYjU5Y2NjODMxYjA4NDk1ZDIwYWU0MDYxOWI3OWUxN2IzMjlm",
+  "snapshot_id": "MCxkMDZiZDk1ZmI5MDMwZDJkZTU0ZjZmYTgxYTMyMjA1NzM5ODlhOTgz",
   "tracks": [
     {
       "added_at": "2023-08-18 12:43:48",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "El Perd\u00f3n (feat. Mon Laferte)",
         "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 169145,
       "name": "El Perd\u00f3n (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Sof\u00e1",
-        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 264053,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Alitas de mar (feat. Juanito Makand\u00e9)",
-        "url": "https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw"
-      },
-      "artists": [
-        {
-          "name": "Tu Otra Bonita",
-          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
-        },
-        {
-          "name": "Juanito Makand\u00e9",
-          "url": "https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "Alitas de mar (feat. Juanito Makand\u00e9)",
-      "url": "https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "El Viejo Comunista",
         "url": "https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 297000,
       "name": "El Viejo Comunista",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Alitas de mar (feat. Juanito Makand\u00e9)",
+        "url": "https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw"
+      },
+      "artists": [
+        {
+          "name": "Tu Otra Bonita",
+          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+        },
+        {
+          "name": "Juanito Makand\u00e9",
+          "url": "https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "Alitas de mar (feat. Juanito Makand\u00e9)",
+      "url": "https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Hace rato",
+      "url": "https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 188769,
       "name": "La Aguja",
       "url": "https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Hace rato",
-      "url": "https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Un Golpe de Suerte",
         "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 269932,
       "name": "Un Golpe de Suerte",
       "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
-        "name": "La Vuelta a Casa",
-        "url": "https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI"
-      },
-      "artists": [
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
-        }
-      ],
-      "duration_ms": 210272,
-      "name": "Luci\u00e9rnagas",
-      "url": "https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
         "name": "Inmensamente Fr\u00e1gil",
         "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 219967,
       "name": "Inmensamente Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
+        "name": "La Vuelta a Casa",
+        "url": "https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI"
+      },
+      "artists": [
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
+        }
+      ],
+      "duration_ms": 210272,
+      "name": "Luci\u00e9rnagas",
+      "url": "https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o"
     },
     {
       "added_at": "2023-08-18 12:43:48",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-08-18 12:43:48",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 229901,
+      "name": "Mareas",
+      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
+    },
+    {
+      "added_at": "2023-08-18 12:43:48",
+      "album": {
         "name": "Tabaibas",
         "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 240576,
       "name": "Me Voy a Valpara\u00edso",
       "url": "https://open.spotify.com/track/2jc4itS66QfIHkUJGGX5gR"
-    },
-    {
-      "added_at": "2023-08-18 12:43:48",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/3kPLwdeutDLV0Kv9kkkNzj"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 229901,
-      "name": "Mareas",
-      "url": "https://open.spotify.com/track/5HE1CDk1VyRn6zAbhNaugB"
     },
     {
       "added_at": "2023-08-18 12:43:48",

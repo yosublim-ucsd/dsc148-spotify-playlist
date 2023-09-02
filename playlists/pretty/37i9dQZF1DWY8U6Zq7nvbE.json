@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs and pop covers right now.",
-  "num_followers": 1134534,
+  "num_followers": 1134570,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjFkYWNjNDZlNWM1ZmQwM2E0NjVkYmNkZDhkMjJjYjllODE2Y2Vh",
+  "snapshot_id": "MCwyYWNlMTkxYWYyMTg2NDAxODdhYzg3MGY2Y2YwNDQ5NDhmM2Q2NDIx",
   "tracks": [
     {
       "added_at": "2023-08-31 14:40:35",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Stay Awake with Me (acoustic)",
-        "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
-      },
-      "artists": [
-        {
-          "name": "Dan Owen",
-          "url": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Made to Love You",
-      "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 165697,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Stay Awake with Me (acoustic)",
+        "url": "https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ"
+      },
+      "artists": [
+        {
+          "name": "Dan Owen",
+          "url": "https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Made to Love You",
+      "url": "https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Chasing Cars (Acoustic)",
-        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 221762,
-      "name": "Chasing Cars (Acoustic)",
-      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 182952,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Chasing Cars (Acoustic)",
+      "url": "https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Ruin My Life (Piano Version)",
-        "url": "https://open.spotify.com/album/3DXqU4NZEv2xORVGJx1bEq"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Ruin My Life - Piano Version",
-      "url": "https://open.spotify.com/track/4Fxj5bX8ZlTGw42BIkFwng"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "No Air",
         "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 199114,
       "name": "No Air",
       "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Ruin My Life (Piano Version)",
+        "url": "https://open.spotify.com/album/3DXqU4NZEv2xORVGJx1bEq"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Ruin My Life - Piano Version",
+      "url": "https://open.spotify.com/track/4Fxj5bX8ZlTGw42BIkFwng"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Used To Love (Acoustic Version)",
-        "url": "https://open.spotify.com/album/21ysWUeoQEhTtNuPggWbQt"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 211308,
-      "name": "Used To Love - Acoustic Version",
-      "url": "https://open.spotify.com/track/3diDPfrvqfnXcCIYzU11eP"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 148015,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Used To Love (Acoustic Version)",
+        "url": "https://open.spotify.com/album/21ysWUeoQEhTtNuPggWbQt"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 211308,
+      "name": "Used To Love - Acoustic Version",
+      "url": "https://open.spotify.com/track/3diDPfrvqfnXcCIYzU11eP"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Break My Heart (Piano Acoustic)",
-        "url": "https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB"
-      },
-      "artists": [
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Break My Heart - Piano Acoustic",
-      "url": "https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/3GV2TdiVjl8E5XXBEuiiyX"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 164466,
       "name": "Meant To Be - Acoustic",
       "url": "https://open.spotify.com/track/4x4YYSx3fdhM5tSmDCcJY0"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Break My Heart (Piano Acoustic)",
+        "url": "https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Break My Heart - Piano Acoustic",
+      "url": "https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Better Break My Heart",
-        "url": "https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32"
-      },
-      "artists": [
-        {
-          "name": "Rhys",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Better Break My Heart - Acoustic version",
-      "url": "https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/4puw9Hf1Unj7Kasb1ZAxso"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 164228,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/4HyBPhQQodPLaf5solOIDN"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Better Break My Heart",
+        "url": "https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Better Break My Heart - Acoustic version",
+      "url": "https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2179,6 +2179,22 @@
       "duration_ms": 153379,
       "name": "Habits (Stay High) - Acoustic",
       "url": "https://open.spotify.com/track/51mEBRXAf292tpAVZ3HW8b"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm"
+      },
+      "artists": [
+        {
+          "name": "Sighting",
+          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
+        }
+      ],
+      "duration_ms": 223625,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2211,22 +2227,6 @@
       "duration_ms": 173200,
       "name": "Mad Love - Acoustic",
       "url": "https://open.spotify.com/track/3wl6QxubZaEFHvp05XpcuF"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Anti-Hero",
-        "url": "https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm"
-      },
-      "artists": [
-        {
-          "name": "Sighting",
-          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
-        }
-      ],
-      "duration_ms": 223625,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2415,18 +2415,34 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Empty Love",
-        "url": "https://open.spotify.com/album/3FGRYomaxqKCqrVmCr80db"
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
       },
       "artists": [
         {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+          "name": "seaiiana",
+          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
         }
       ],
-      "duration_ms": 210456,
-      "name": "Empty love",
-      "url": "https://open.spotify.com/track/2cBR3mLD9GnhyMSydDz6Go"
+      "duration_ms": 181111,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Other Ways",
+        "url": "https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 272154,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2447,18 +2463,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Cupid",
-        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
+        "name": "Empty Love",
+        "url": "https://open.spotify.com/album/3FGRYomaxqKCqrVmCr80db"
       },
       "artists": [
         {
-          "name": "seaiiana",
-          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
         }
       ],
-      "duration_ms": 181111,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
+      "duration_ms": 210456,
+      "name": "Empty love",
+      "url": "https://open.spotify.com/track/2cBR3mLD9GnhyMSydDz6Go"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2475,22 +2491,6 @@
       "duration_ms": 168778,
       "name": "As Long As I Break Your Heart",
       "url": "https://open.spotify.com/track/4frOdq5O12jE2YUh4XF4pJ"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Other Ways",
-        "url": "https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 272154,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2563,18 +2563,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Somebody (Acoustic)",
-        "url": "https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh"
+        "name": "I ain't worried",
+        "url": "https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza"
       },
       "artists": [
         {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "middle of june",
+          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
         }
       ],
-      "duration_ms": 168758,
-      "name": "Somebody - Acoustic",
-      "url": "https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax"
+      "duration_ms": 168095,
+      "name": "I ain't worried",
+      "url": "https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2595,18 +2595,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "I ain't worried",
-        "url": "https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza"
+        "name": "Somebody (Acoustic)",
+        "url": "https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh"
       },
       "artists": [
         {
-          "name": "middle of june",
-          "url": "https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm"
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
         }
       ],
-      "duration_ms": 168095,
-      "name": "I ain't worried",
-      "url": "https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj"
+      "duration_ms": 168758,
+      "name": "Somebody - Acoustic",
+      "url": "https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2659,6 +2659,38 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "How to save a life - Acoustic version",
+        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 207824,
+      "name": "How to save a life - Acoustic version",
+      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Cooped up - Acoustic",
+        "url": "https://open.spotify.com/album/5xhwO1iOyHUsXF9kIO6YEU"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "duration_ms": 161456,
+      "name": "Cooped up - Acoustic",
+      "url": "https://open.spotify.com/track/0r8QmsNCerrYlA5gZn3wcl"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Strangers EP Unplugged",
         "url": "https://open.spotify.com/album/139IHc8keqLycMck1EvMTz"
       },
@@ -2695,34 +2727,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Cooped up - Acoustic",
-        "url": "https://open.spotify.com/album/5xhwO1iOyHUsXF9kIO6YEU"
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
       },
       "artists": [
         {
-          "name": "POOL KIDS",
-          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+          "name": "Roberta Loki",
+          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
         }
       ],
-      "duration_ms": 161456,
-      "name": "Cooped up - Acoustic",
-      "url": "https://open.spotify.com/track/0r8QmsNCerrYlA5gZn3wcl"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "How to save a life - Acoustic version",
-        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 207824,
-      "name": "How to save a life - Acoustic version",
-      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
+      "duration_ms": 256730,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2739,22 +2755,6 @@
       "duration_ms": 129991,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/2TfGvs7TY0NB1lblUVVFXy"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
-      },
-      "artists": [
-        {
-          "name": "Roberta Loki",
-          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
-        }
-      ],
-      "duration_ms": 256730,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2987,6 +2987,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG"
+      },
+      "artists": [
+        {
+          "name": "New Years Project",
+          "url": "https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu"
+        }
+      ],
+      "duration_ms": 184402,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "i get high (feat. Joy Oladokun)",
         "url": "https://open.spotify.com/album/0ajUz0nm6V1J4BLTX7h9Md"
       },
@@ -3003,22 +3019,6 @@
       "duration_ms": 123807,
       "name": "i get high (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/1wq96gZHLUWNRwlevS99ru"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/6bKocfbVt1JCv4GNEQBGjG"
-      },
-      "artists": [
-        {
-          "name": "New Years Project",
-          "url": "https://open.spotify.com/artist/2GY2ioDVVpd3NwPwevr5Bu"
-        }
-      ],
-      "duration_ms": 184402,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/0SA2U0sQmB52EJpCCtFxGi"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -3267,22 +3267,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "HIGHEST IN THE ROOM",
-        "url": "https://open.spotify.com/album/6xElOEltTrQ9AaULllcMxI"
-      },
-      "artists": [
-        {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
-        }
-      ],
-      "duration_ms": 158846,
-      "name": "HIGHEST IN THE ROOM",
-      "url": "https://open.spotify.com/track/4anqzBjFjQENRM1LpuQUjD"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3"
       },
@@ -3295,6 +3279,22 @@
       "duration_ms": 187409,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "HIGHEST IN THE ROOM",
+        "url": "https://open.spotify.com/album/6xElOEltTrQ9AaULllcMxI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+        }
+      ],
+      "duration_ms": 158846,
+      "name": "HIGHEST IN THE ROOM",
+      "url": "https://open.spotify.com/track/4anqzBjFjQENRM1LpuQUjD"
     },
     {
       "added_at": "2023-08-31 14:40:35",

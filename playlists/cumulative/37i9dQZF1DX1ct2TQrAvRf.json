@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hip-Hop from India. Cover- KING",
+  "description": "Best of Hip-Hop from India. Cover- MC Square",
   "name": "RAP 91",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 193663,
       "name": "CHUSAMBA",
       "url": "https://open.spotify.com/track/73N5AghXPjYtAoS6RIYPZd"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163404,
       "name": "Gunehgar",
       "url": "https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 198857,
       "name": "Kohinoor",
       "url": "https://open.spotify.com/track/6SNFuJXjkgauo3Kg9XJcj6"
@@ -1246,6 +1246,28 @@
       "duration_ms": 144000,
       "name": "Kya Bolti Public",
       "url": "https://open.spotify.com/track/5pbabJiM6eIIm1x3pWBnbl"
+    },
+    {
+      "album": {
+        "name": "Laado",
+        "url": "https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148615,
+      "name": "Laado",
+      "url": "https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n"
     },
     {
       "album": {
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 150857,
       "name": "Rap Ka Mausam",
       "url": "https://open.spotify.com/track/46gjSGy1qoGyK7sjv1wbkZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,041 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,065 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 44 | [Porque tú lo sabrías](https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Porque tú lo sabrías](https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0) | 3:11 |
 | 45 | [Bloque](https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Bloque](https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8) | 2:43 |
 | 46 | [Como si nada](https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Como si nada](https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN) | 3:16 |
-| 47 | [Muchas gracias por venir](https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Muchas gracias por venir](https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5) | 3:22 |
+| 47 | [La Broma De Mis Sueños](https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [La Broma De Mis Sueños](https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt) | 2:53 |
 | 48 | [Entre Tú y Yo](https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [Entre Tú y Yo](https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva) | 3:19 |
-| 49 | [La Broma De Mis Sueños](https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [La Broma De Mis Sueños](https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt) | 2:53 |
+| 49 | [Muchas gracias por venir](https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Muchas gracias por venir](https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5) | 3:22 |
 | 50 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
 
-Snapshot ID: `MCwwYjA4MzY3NDI2NTM4YmIxZjQwZDU2ZTM3ZjMzYWNiODk4MzEzYWNk`
+Snapshot ID: `MCxlOGMxYjYxYzQxZmEzNjYxYzZiZmFmNTg1OWFjZjNhMjg2NzI1Mzg3`

@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-72 songs - 4 hr 17 min
+76 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 | 2021-05-13 |  |
 | [Buen Fantasma](https://open.spotify.com/track/7dnVu3VTbBp37jsoQ1WbxE) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Buen Fantasma](https://open.spotify.com/album/2jlATWZpSabSiPbgKsl3Ps) | 3:49 | 2023-07-28 |  |
 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 | 2021-05-13 |  |
+| [Cerro del Sombrero](https://open.spotify.com/track/1TpVwMxBjabLcwfNWAgVT9) | [URSS Bajo el Árbol](https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY) | [Ciclo](https://open.spotify.com/album/1P4mO4yPsmKWCUDIHmaWxw) | 4:06 | 2023-09-01 |  |
 | [Crimen](https://open.spotify.com/track/4rl7tALHULBjGV7V5gdtaS) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Crimen](https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i) | 4:00 | 2022-08-13 |  |
 | [Cuando Pase El Temblor](https://open.spotify.com/track/1oEKw4f4pihhfAkl6pHAVt) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Cuando Pase El Temblor](https://open.spotify.com/album/3t8lnRw3jMofkqoEogBO3d) | 4:56 | 2021-05-13 |  |
 | [De Musica Ligera](https://open.spotify.com/track/4t4WLbLGtGF8SLat7erPRI) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [De Musica Ligera](https://open.spotify.com/album/2WBqtI7ilp1ldg2eBIpMLO) | 3:10 | 2021-05-13 |  |
@@ -52,6 +53,7 @@
 | [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/track/5M6ynbvTfCI5Mx9uuRXQPs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/album/7FTJJ78m4tTXycEApfGT1o) | 4:14 | 2021-05-13 |  |
 | [Lobo Hombre En París](https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Lobo Hombre En París](https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5) | 3:05 | 2021-05-13 |  |
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2021-05-13 |  |
+| [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 | 2023-09-01 |  |
 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 | 2021-05-13 |  |
 | [Lárgueme](https://open.spotify.com/track/2pGELYVHsXOR5OwIIXmakP) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [El propio junte](https://open.spotify.com/artist/453BRGxqa4IYKVhNP3Bv7v) | [Lárgueme](https://open.spotify.com/album/5Cm08nSsQpVAJyQueHapAo) | 3:25 | 2023-07-21 |  |
 | [Mala Vida](https://open.spotify.com/track/6YPVWJkwsO3DgMDR0aPQc0) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Mala Vida](https://open.spotify.com/album/74fKOeEpG9lrN5AAWGqIit) | 2:07 | 2021-05-13 |  |
@@ -68,7 +70,9 @@
 | [Nuestro Amor](https://open.spotify.com/track/0qqaTcKnDSa779ZiauSryr) | [Rojoazul](https://open.spotify.com/artist/0RLx3pe3KWaETFKzbvvtWv) | [Nuestro Amor](https://open.spotify.com/album/4lCrBv0SbaUDLIWjpUpdKe) | 3:34 | 2023-02-24 |  |
 | [Nueva Inglaterra](https://open.spotify.com/track/0bej3tCSLcs4CQXPKuJwG8) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Aurora](https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of) | 3:21 | 2023-03-31 |  |
 | [Oye Mi Amor](https://open.spotify.com/track/5p1RdRVrH5uXL7xKF2lWby) | [Anabel](https://open.spotify.com/artist/12IF5EUgrWK8dnnlLQaaTx) | [Oye Mi Amor](https://open.spotify.com/album/66PCDbgVKriCpWIEVtP3GY) | 3:15 | 2021-05-13 |  |
+| [Para Siempre Joven](https://open.spotify.com/track/2Uv1xKRSxG7Z5XUoEKAVIt) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Macha](https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz) | [Para Siempre Joven](https://open.spotify.com/album/5umvuDuDhHfv6mrfwKtqm7) | 3:21 | 2023-09-01 |  |
 | [Pobre De Ti](https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Pobre De Ti](https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX) | 3:50 | 2021-05-13 |  |
+| [poco a poquito](https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [poco a poquito](https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b) | 2:48 | 2023-09-01 |  |
 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 | 2021-05-13 |  |
 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 | 2021-05-13 |  |
 | [Rubén Darío](https://open.spotify.com/track/1vskUVln9JuRuFGf3rrDdZ) | [Ray Coyote](https://open.spotify.com/artist/37PhbUQE6PD7dg6wnHqFth) | [Ray Coyote II: Ojos De La Sierra](https://open.spotify.com/album/50QIvqQyh7MhRxso4qIqIP) | 3:16 | 2023-02-24 |  |

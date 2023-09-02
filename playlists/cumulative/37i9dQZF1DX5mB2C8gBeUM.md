@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Jessie Murph
+> Country gone wild! You never know what you're gonna get\. Cover: Alana Springsteen
 
-384 songs - 19 hr 20 min
+387 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,8 @@
 | [Dear West Virginia \(feat\. Brad Paisley and The West Virginia University Choir\)](https://open.spotify.com/track/4wwqujbK9v1epIoFqBaCTO) | [Huey Mack](https://open.spotify.com/artist/5l5JD2LJPnIoVeco82Tk4q), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [The West Virginia University Choir](https://open.spotify.com/artist/7rmjkDIRonGlQqlT9PCG9M) | [The Cozy Bar](https://open.spotify.com/album/1DkIpoAvMaYZblxnERQdje) | 3:10 | 2022-10-28 | 2023-02-02 |
 | [Delorean](https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:39 | 2022-01-21 |  |
 | [Depression](https://open.spotify.com/track/0yxPUMQsHJXThYjYMoIJU5) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Depression](https://open.spotify.com/album/6O8efloF476sH5FzVzLYSw) | 4:09 | 2022-10-21 |  |
+| [DiCaprio](https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [DiCaprio](https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM) | 3:06 | 2023-09-01 |  |
+| [Die A Redneck](https://open.spotify.com/track/10XXGAiyvIw44pztev49XJ) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Die A Redneck](https://open.spotify.com/album/6bGSdECWT9XLnvxKQwk3XO) | 3:25 | 2023-09-01 |  |
 | [Different Man](https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:55 | 2022-09-09 |  |
 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2022-03-25 |  |
 | [DOIN' MY BEST](https://open.spotify.com/track/2XZ2iNsKb70iobqOYqcnpw) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:37 | 2022-09-23 | 2023-08-02 |
@@ -148,6 +150,7 @@
 | [Good Love](https://open.spotify.com/track/7awWHJGz3y1Ttvf4ugslKb) | [Matt Freedman](https://open.spotify.com/artist/5umTrwJc1kCpROdrQUQkNK) | [Good Love](https://open.spotify.com/album/6PCSw31b7LaKVYEOydUIXC) | 2:35 | 2021-12-10 | 2023-02-02 |
 | [Good Riddance](https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [Good Riddance](https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz) | 2:22 | 2022-09-01 |  |
 | [Good Vibes Only](https://open.spotify.com/track/3Xnf9l8bZHtXxQf0CajdXh) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [The Colonel](https://open.spotify.com/album/0lHlQncYmvSo7TujyIz7ZQ) | 2:37 | 2021-12-10 | 2022-02-26 |
+| [goodbye looks good on you \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/4K3tnAfDLPZPvc3lzsrjoq) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [TWENTY SOMETHING: Messing It Up](https://open.spotify.com/album/1Uyc48o6p2Dv1RfyZYztFS) | 2:51 | 2023-09-01 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
 | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/track/3Hj2VfZMpov5Z9KiKv22Cx) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/album/38uTO3DOjGERyVb9ug1R1U) | 3:38 | 2021-12-10 | 2022-06-04 |
 | [hail mary](https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [hail mary](https://open.spotify.com/album/66ffihcpI4EZbBw8XlkPkR) | 2:30 | 2021-12-31 | 2022-07-02 |

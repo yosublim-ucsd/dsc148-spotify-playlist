@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-104 songs - 5 hr 42 min
+105 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Hypnagogia Wakefull Dreams](https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Hypnagogia Wakefull Dreams](https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv) | 2:18 | 2023-08-22 |  |
 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 | 2023-08-22 |  |
 | [Icebreaker](https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR) | [loophole](https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE) | [Royal Sessions](https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6) | 5:15 | 2023-08-22 |  |
-| [In The Sky: Expansion](https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [In The Sky: Expansion](https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6) | 6:24 | 2023-08-25 |  |
+| [In The Sky: Expansion](https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [In The Sky: Expansion](https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6) | 6:24 | 2023-08-25 | 2023-09-02 |
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2023-08-22 | 2023-08-26 |
 | [Inside Out](https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 5:21 | 2023-08-22 |  |
 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 | 2023-08-22 |  |
@@ -104,6 +104,7 @@
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2023-08-22 |  |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2023-08-22 |  |
 | [Valencia](https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ) | 2:28 | 2023-08-22 |  |
+| [Verdant](https://open.spotify.com/track/6eopX3Kongrg9P751naBpe) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj) | [Verdant](https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t) | 2:26 | 2023-08-31 |  |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-08-22 |  |
 | [Waiting](https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Waiting](https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC) | 3:01 | 2023-08-22 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 2:11 | 2023-08-22 |  |

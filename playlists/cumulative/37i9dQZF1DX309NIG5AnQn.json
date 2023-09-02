@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Bitcha",
+        "url": "https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214738,
+      "name": "Bitcha",
+      "url": "https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE"
+    },
+    {
+      "album": {
         "name": "Blanco & Negro",
         "url": "https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO"
       },
@@ -546,6 +564,24 @@
       "duration_ms": 187500,
       "name": "Chica Gotika",
       "url": "https://open.spotify.com/track/68y3JRBvaHyXLt826P5mx7"
+    },
+    {
+      "album": {
+        "name": "Chica Violeta",
+        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386900,
+      "name": "Chica Violeta",
+      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
     },
     {
       "album": {
@@ -1380,6 +1416,42 @@
       "duration_ms": 200275,
       "name": "Escurridiza",
       "url": "https://open.spotify.com/track/5wLMgRfTU6darBQ2X1DkeN"
+    },
+    {
+      "album": {
+        "name": "Esquivando Balas",
+        "url": "https://open.spotify.com/album/1NhBolRE4fM0wvkOSyfDR3"
+      },
+      "artists": [
+        {
+          "name": "Club de Haters",
+          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143088,
+      "name": "Esquivando Balas",
+      "url": "https://open.spotify.com/track/5t2EkXoDiCZA9VuHhlPQ7o"
+    },
+    {
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200664,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr"
     },
     {
       "album": {
@@ -2828,6 +2900,24 @@
       "duration_ms": 175542,
       "name": "SSS",
       "url": "https://open.spotify.com/track/65oZKir6ny5i3WSfvb0sYu"
+    },
+    {
+      "album": {
+        "name": "Su Forma de Mirar",
+        "url": "https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb"
+      },
+      "artists": [
+        {
+          "name": "Tomates En Verano",
+          "url": "https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290793,
+      "name": "Su Forma de Mirar",
+      "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
     },
     {
       "album": {

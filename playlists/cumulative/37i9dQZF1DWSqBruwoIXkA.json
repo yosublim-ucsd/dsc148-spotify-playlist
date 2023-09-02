@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heartbreak is the national anthem, we sing it proudly! Cover: Alexander Stewart",
+  "description": "Heartbreak is the national anthem, we sing it proudly! Cover: Rene\u00e9 Rapp",
   "name": "sad hour",
   "tracks": [
     {
@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 148706,
       "name": "Faulty Wiring",
       "url": "https://open.spotify.com/track/3tWmCPgwQ4rOn4vABsBLqO"
@@ -4554,6 +4554,28 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "album": {
@@ -6574,7 +6596,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 175916,
       "name": "MUST BE NICE",
       "url": "https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al"
@@ -7226,7 +7248,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 197142,
       "name": "pain's my only home",
       "url": "https://open.spotify.com/track/4YGh99Jth1t1pOmVQL5eiq"
@@ -7850,6 +7872,24 @@
       "duration_ms": 189714,
       "name": "Saw It Coming",
       "url": "https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma"
+    },
+    {
+      "album": {
+        "name": "Second to Last",
+        "url": "https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nealon",
+          "url": "https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Second to Last",
+      "url": "https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap"
     },
     {
       "album": {
@@ -8980,6 +9020,24 @@
       "duration_ms": 198533,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
+    },
+    {
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168978,
+      "name": "Tummy Hurts",
+      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
     },
     {
       "album": {

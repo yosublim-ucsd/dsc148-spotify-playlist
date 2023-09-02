@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover - Rules Ranjan",
-  "num_followers": 40215,
+  "num_followers": 40235,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWFmMjhhYzEyNDc1ZTFiNTM1YmJlMzg3Y2NmZjkzZDExMDBhNzNj",
+  "snapshot_id": "MCw3OTc3YzAxNzc0NjUzYTk2YjM1MDJkN2YyMzVlYzU2ZTc1NDEyMGJm",
   "tracks": [
     {
       "added_at": "2023-08-30 10:44:11",
@@ -91,22 +91,26 @@
     {
       "added_at": "2023-08-30 10:44:11",
       "album": {
-        "name": "Aradhya (From \"Kushi\") (Telugu)",
-        "url": "https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo"
+        "name": "Kushi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7vXKYGRf5LOBEMGRqxCTY7"
       },
       "artists": [
         {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
           "name": "Chinmayi",
           "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
         }
       ],
       "duration_ms": 282222,
-      "name": "Aradhya (From \"Kushi\") (Telugu)",
-      "url": "https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD"
+      "name": "Aradhya",
+      "url": "https://open.spotify.com/track/6lasSS71iXy8IVGpcmmIEy"
     },
     {
       "added_at": "2023-08-30 10:44:11",

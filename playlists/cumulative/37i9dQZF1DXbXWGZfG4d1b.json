@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 185002,
       "name": "ACUARIOS",
       "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Bitcha",
+        "url": "https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Desbats",
+          "url": "https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214738,
+      "name": "Bitcha",
+      "url": "https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE"
+    },
+    {
+      "album": {
         "name": "Blanco & Negro",
         "url": "https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO"
       },
@@ -1277,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Chica Violeta",
+        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386900,
+      "name": "Chica Violeta",
+      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
+    },
+    {
+      "album": {
         "name": "Terror en el Autocine",
         "url": "https://open.spotify.com/album/4gLSIduqoBapUBLdmk85WZ"
       },
@@ -1494,7 +1530,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 228506,
       "name": "Conf\u00edn Dorado",
       "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
@@ -2346,7 +2382,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 209241,
       "name": "El Disparo",
       "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
@@ -3082,6 +3118,24 @@
       "duration_ms": 244488,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/3pLfxTtaTzmCnvvXIz6w22"
+    },
+    {
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200664,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/6asMMsmhA6YXxu7YrYI8vr"
     },
     {
       "album": {
@@ -6024,7 +6078,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 187874,
       "name": "NO ME ATRAE",
       "url": "https://open.spotify.com/track/2AvLjHKuiQYgiuJ299t3NP"
@@ -8080,6 +8134,24 @@
       "duration_ms": 302521,
       "name": "Soy del R\u00edo",
       "url": "https://open.spotify.com/track/7AiqcYIPa3avpgW26fNFdA"
+    },
+    {
+      "album": {
+        "name": "Su Forma de Mirar",
+        "url": "https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb"
+      },
+      "artists": [
+        {
+          "name": "Tomates En Verano",
+          "url": "https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290793,
+      "name": "Su Forma de Mirar",
+      "url": "https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT"
     },
     {
       "album": {

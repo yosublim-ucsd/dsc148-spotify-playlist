@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New, leftfield, and for the real hip-hop stans! Cover: tobi lou",
+  "description": "New, leftfield, and for the real hip-hop stans! Cover: Ben Reilly",
   "name": "Alternative Hip-Hop",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 40760,
       "name": "26",
       "url": "https://open.spotify.com/track/66DwyG7AFFtvFiqTj4eK3w"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 183629,
       "name": "Binoculars (feat. Royce The Choice)",
       "url": "https://open.spotify.com/track/1dYikxHAT9iE3H4fd5MIgl"
@@ -2233,6 +2233,32 @@
     },
     {
       "album": {
+        "name": "Cola Coca",
+        "url": "https://open.spotify.com/album/0YQLSmkXGy4eQ0v5qjlFnk"
+      },
+      "artists": [
+        {
+          "name": "Dilip",
+          "url": "https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2"
+        },
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103392,
+      "name": "Cola Coca",
+      "url": "https://open.spotify.com/track/5lO9Bvj181OsaRUhPFDhII"
+    },
+    {
+      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -2818,6 +2844,28 @@
       "duration_ms": 211087,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui"
+    },
+    {
+      "album": {
+        "name": "Die Today",
+        "url": "https://open.spotify.com/album/5mkPnpc6Ueoa5hdb1aXYmY"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178676,
+      "name": "Die Today",
+      "url": "https://open.spotify.com/track/2AVrcU1B8cpy66ycCnkYvv"
     },
     {
       "album": {
@@ -3879,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Fuck Em Up Moses",
+        "url": "https://open.spotify.com/album/5LxED8zuZ1X7XUMdQS60E6"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "Fuck Em Up Moses",
+      "url": "https://open.spotify.com/track/4tH1p1TYEtXkLNtPDPHnvI"
+    },
+    {
+      "album": {
         "name": "FYM",
         "url": "https://open.spotify.com/album/5q98hlinh0vj498DYwqPSK"
       },
@@ -4303,6 +4369,32 @@
     },
     {
       "album": {
+        "name": "BlakkBoyz present Half Doin Dope/Van Gogh",
+        "url": "https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208928,
+      "name": "Half Doin Dope (with BabyTron feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/1J0O3RqCeoMcXbayQZDZXL"
+    },
+    {
+      "album": {
         "name": "HANDS UP!",
         "url": "https://open.spotify.com/album/0sewRJupZ1zkzYo6h3X388"
       },
@@ -4412,6 +4504,24 @@
       "duration_ms": 193208,
       "name": "Headshots (4r Da Locals)",
       "url": "https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R"
+    },
+    {
+      "album": {
+        "name": "E3",
+        "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "heartache blues",
+      "url": "https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu"
     },
     {
       "album": {
@@ -4853,6 +4963,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Be In Love, But I Don't Wanna Be Alone",
+        "url": "https://open.spotify.com/album/78nImjHu9SijmNwWEccFQn"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "I Don't Wanna Be In Love, But I Don't Wanna Be Alone",
+      "url": "https://open.spotify.com/track/0Cy1cXdjWDZogM5YVk0EDI"
+    },
+    {
+      "album": {
         "name": "DIRTIESTNASTIEST$UICIDE",
         "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
       },
@@ -4872,6 +5000,24 @@
       "duration_ms": 145842,
       "name": "I Dream of Chrome",
       "url": "https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im"
+    },
+    {
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38"
+      },
+      "artists": [
+        {
+          "name": "Pote Baby",
+          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126473,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi"
     },
     {
       "album": {
@@ -6322,7 +6468,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 180000,
       "name": "Meteorite",
       "url": "https://open.spotify.com/track/7sxBQrsxHmJ2r5Hw7dISK6"
@@ -6704,6 +6850,28 @@
       "duration_ms": 149973,
       "name": "My Band",
       "url": "https://open.spotify.com/track/7kjL2AZTuJCXTaOeFvHT1v"
+    },
+    {
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/0A0St4FG3HCn0jVfeF31Do"
+      },
+      "artists": [
+        {
+          "name": "FLEE",
+          "url": "https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178065,
+      "name": "MY BODY (feat. Tony Shhnow)",
+      "url": "https://open.spotify.com/track/0fGWctmuhqsr4YkxcKacio"
     },
     {
       "album": {
@@ -7133,6 +7301,28 @@
     },
     {
       "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/38VElclB7ox9roQRFq7yq6"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155226,
+      "name": "November",
+      "url": "https://open.spotify.com/track/6KLz3dlWkK58oinCPrQUl1"
+    },
+    {
+      "album": {
         "name": "Aft\u00ebrLyfe",
         "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
       },
@@ -7550,7 +7740,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 201557,
       "name": "Parkour",
       "url": "https://open.spotify.com/track/1Guj49apIeoq7N1ZWnTFCS"
@@ -7638,7 +7828,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173320,
       "name": "PERFECT TIMING",
       "url": "https://open.spotify.com/track/5vUWJOXPJAa3hjAqRlVBo9"
@@ -8290,6 +8480,24 @@
       "duration_ms": 162436,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao"
+    },
+    {
+      "album": {
+        "name": "Rando",
+        "url": "https://open.spotify.com/album/0P3dUxAJt3pqhkKgaToEmD"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96522,
+      "name": "Rando",
+      "url": "https://open.spotify.com/track/6Wo5QX4i3imhftyKOYUZjI"
     },
     {
       "album": {
@@ -9946,7 +10154,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147745,
       "name": "Tally (with Denzel Curry)",
       "url": "https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo"
@@ -10000,7 +10208,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 167785,
       "name": "TELL ME IM RIGHT",
       "url": "https://open.spotify.com/track/1uzFvVB88sZEhWu5hidve9"
@@ -10040,7 +10248,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 143000,
       "name": "Tell Shyanne",
       "url": "https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi"
@@ -10106,7 +10314,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 164742,
       "name": "TESLA",
       "url": "https://open.spotify.com/track/4NQfLaqLd1Fms4UTkkTj7J"
@@ -10494,7 +10702,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176642,
       "name": "Top Bitch!",
       "url": "https://open.spotify.com/track/6sLbiIlmRhL3alS0P9vJuI"
@@ -10834,7 +11042,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 155690,
       "name": "WA\\VE",
       "url": "https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f"
@@ -10918,7 +11126,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168026,
       "name": "Wanna See",
       "url": "https://open.spotify.com/track/75yWv8THGXrm33F0Xf9ZHa"
@@ -11431,6 +11639,36 @@
     },
     {
       "album": {
+        "name": "Woke Up and Asked Siri How I'm Gonna Die",
+        "url": "https://open.spotify.com/album/5hKMFGdqaeJEbxpghERhsF"
+      },
+      "artists": [
+        {
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161087,
+      "name": "Woke Up and Asked Siri How I'm Gonna Die",
+      "url": "https://open.spotify.com/track/5YAgSjM22pJzOOwN7261Uh"
+    },
+    {
+      "album": {
         "name": "WOKEUPTHINKINBOUT / HIDDEN VOICES",
         "url": "https://open.spotify.com/album/5YvxEnP5o1gFq3tynqsPBf"
       },
@@ -11686,6 +11924,28 @@
       "duration_ms": 224250,
       "name": "You Say",
       "url": "https://open.spotify.com/track/1nYkPnHvRwA6n9LbJAMFlK"
+    },
+    {
+      "album": {
+        "name": "You Thought (feat. Janelle Mon\u00e1e)",
+        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "You Thought (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
     },
     {
       "album": {

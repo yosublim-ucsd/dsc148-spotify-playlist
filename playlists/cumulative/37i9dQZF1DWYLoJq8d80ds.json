@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176615,
+      "name": "Carnavaleando de Sol a Sol",
+      "url": "https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic"
+    },
+    {
+      "album": {
         "name": "Carnavalito Quebrade\u00f1o",
         "url": "https://open.spotify.com/album/703lwyIO4f3qt09zdAUcv9"
       },
@@ -1541,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "La Wasappera",
+        "url": "https://open.spotify.com/album/0UFRvUGt4Mhpb4Xdyfb1PE"
+      },
+      "artists": [
+        {
+          "name": "La Cantada",
+          "url": "https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134452,
+      "name": "La Wasappera",
+      "url": "https://open.spotify.com/track/2E0dGSoOrh0fGdLkbSgELi"
+    },
+    {
+      "album": {
         "name": "Las Ideas",
         "url": "https://open.spotify.com/album/6F7O6j8zpyVM0ARSOctBJW"
       },
@@ -1646,7 +1682,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 134374,
       "name": "Lo Juje\u00f1o",
       "url": "https://open.spotify.com/track/74WFDFXIP58qhGYkklkH20"
@@ -2266,7 +2302,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 198507,
       "name": "Si No Te Vuelvo a Ver",
       "url": "https://open.spotify.com/track/47DVLnnCOWVKvOkCz9RA1y"
@@ -2812,7 +2848,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 119484,
       "name": "Vuelve La Llama",
       "url": "https://open.spotify.com/track/5ji0BDOEcT5ITZHsrWfMGX"

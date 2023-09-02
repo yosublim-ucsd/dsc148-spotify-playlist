@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-591 songs - 1 day 18 hr 50 min
+592 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Arabesque Breakin' Suite \- Live at Jam PDM](https://open.spotify.com/track/1DZrA46ffYRT7tplL5kk99) | [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [Arabesque Breakin' Suite \(Live at Jam PDM\)](https://open.spotify.com/album/1qgkuxxjPDX4k7VzGnWhz1) | 3:04 | 2021-10-06 | 2022-07-05 |
 | [Aruenda](https://open.spotify.com/track/5QVFbvZjqNFT8gpQEKCqey) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Telenova](https://open.spotify.com/album/6G5bsMmEOoqAfaJleAMcRn) | 3:20 | 2023-05-22 |  |
 | [Ascensión](https://open.spotify.com/track/0HddcExCVtmIDJmrU811VC) | [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Ascensión](https://open.spotify.com/album/13SKT7r4ye3ndcOFOzB19p) | 3:22 | 2022-06-08 | 2022-07-28 |
-| [Asiko \(In a Silent Mix\) \- Motor City Drum Ensemble Remix](https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Dekmantel 10 Years 10.2](https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF) | 7:23 | 2021-10-06 |  |
+| [Asiko \(In a Silent Mix\) \- Motor City Drum Ensemble Remix](https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Dekmantel 10 Years 10.2](https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF) | 7:23 | 2021-10-06 | 2023-09-02 |
 | [Atlantic Oscillations](https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE) | 5:51 | 2021-10-06 | 2022-07-29 |
 | [Atlantic Oscillations](https://open.spotify.com/track/4c0MBMraTqhHafXnATV1st) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/7m3CyxNH2qJ5COtYLC7PPp) | 5:51 | 2021-10-06 | 2022-09-02 |
 | [Atlantic Oscillations](https://open.spotify.com/track/6B48flYjBKnKObVOYlcTle) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/0Xfv1090bD2UFe8i7R9MDy) | 5:51 | 2023-08-31 |  |
@@ -575,6 +575,7 @@
 | [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-06 |  |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-06 | 2022-04-17 |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2021-10-06 | 2022-04-17 |
+| [Xiu](https://open.spotify.com/track/1kFiQRJFAaRZntgGZ2cfHN) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Yellow River Blue](https://open.spotify.com/album/1rJZa2XZIhS4ihaI5lvrgl) | 4:25 | 2023-09-01 |  |
 | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/track/1WfRCBqkSWqXF7rPKBJ0dr) | [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/album/3HKXTTI6SAABiaBMr40hwm) | 3:34 | 2021-10-06 | 2022-11-20 |
 | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/track/27wExVJvVvg69dNNKflelY) | [Najib Alhoush](https://open.spotify.com/artist/3PAatZgj07isuZxGqo60ua) | [Ya Aen Daly \(Habibi Funk 015\)](https://open.spotify.com/album/2LsR3Jk5iERNx788rrSMPj) | 3:34 | 2023-08-31 |  |
 | [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 | 2022-09-07 | 2022-10-01 |

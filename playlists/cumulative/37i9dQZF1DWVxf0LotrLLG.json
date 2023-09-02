@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Maluma",
+  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: DEKKO",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -1491,6 +1491,28 @@
     },
     {
       "album": {
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "Check It",
+      "url": "https://open.spotify.com/track/4o8Y6HsCCMyYFTAAYbSgqQ"
+    },
+    {
+      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
       },
@@ -2703,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
+    },
+    {
+      "album": {
         "name": "EADDA9223",
         "url": "https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg"
       },
@@ -3250,6 +3290,28 @@
     {
       "album": {
         "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166570,
+      "name": "EN ALTAVOZ",
+      "url": "https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4"
+    },
+    {
+      "album": {
+        "name": "El Comienzo",
         "url": "https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b"
       },
       "artists": [
@@ -3264,7 +3326,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 166570,
       "name": "EN ALTAVOZ",
       "url": "https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr"
@@ -3380,6 +3442,24 @@
       "duration_ms": 318058,
       "name": "Esta canci\u00f3n",
       "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
+    },
+    {
+      "album": {
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141889,
+      "name": "Estilo de Vida",
+      "url": "https://open.spotify.com/track/1muTEUeGKeiS6PlVHFBIWq"
     },
     {
       "album": {
@@ -4663,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132788,
+      "name": "La Que Yo Amo",
+      "url": "https://open.spotify.com/track/57G0Wqaly1Sdm4S5QL3i0w"
+    },
+    {
+      "album": {
         "name": "Oversize",
         "url": "https://open.spotify.com/album/2EyTkM97uYQBLMht5Fw7tu"
       },
@@ -4770,6 +4868,28 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
+    },
+    {
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246593,
+      "name": "LAGUNA",
+      "url": "https://open.spotify.com/track/0JLKzgJT62z3jNWsDt6znJ"
     },
     {
       "album": {
@@ -6473,6 +6593,32 @@
     },
     {
       "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Montano",
+          "url": "https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191561,
+      "name": "No Te Creas Tanto",
+      "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
+    },
+    {
+      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
       },
@@ -6506,6 +6652,24 @@
       "duration_ms": 180003,
       "name": "No Te Sientes Igual",
       "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
+    },
+    {
+      "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204241,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/6yz5kgsK94UQbn7hYSSwWi"
     },
     {
       "album": {
@@ -9557,6 +9721,28 @@
     },
     {
       "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218883,
+      "name": "UN DESEO",
+      "url": "https://open.spotify.com/track/2ECSDcH0Fk1yRO5KkVZwKn"
+    },
+    {
+      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -10150,6 +10336,32 @@
       "duration_ms": 199828,
       "name": "Wazap",
       "url": "https://open.spotify.com/track/5eQum43TOkG3skanDMqObs"
+    },
+    {
+      "album": {
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Hydro",
+          "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "White Socks",
+      "url": "https://open.spotify.com/track/2sEBxymOvbJIDHOfnZFzCS"
     },
     {
       "album": {

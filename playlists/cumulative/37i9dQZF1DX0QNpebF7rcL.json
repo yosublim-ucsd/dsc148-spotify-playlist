@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 229594,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/5HyNNoCfx2vph4CCiPYY2N"
@@ -3967,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Writing On The Wall",
+        "url": "https://open.spotify.com/album/3g8mmWEgsQs1H15zMnxTKX"
+      },
+      "artists": [
+        {
+          "name": "Coco Montoya",
+          "url": "https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259092,
+      "name": "Save It For The Next Fool",
+      "url": "https://open.spotify.com/track/4U9jHh7OSiDErr0OTW2FzO"
+    },
+    {
+      "album": {
         "name": "Set Sail part I",
         "url": "https://open.spotify.com/album/3OJbGjocuiUDxneta5rkSh"
       },
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 220869,
       "name": "Sneakin\u2019 Around",
       "url": "https://open.spotify.com/track/57vWrMA0mvme9Ko0jrvEDH"
@@ -5716,6 +5734,24 @@
       "duration_ms": 274066,
       "name": "You Don't Know the Blues",
       "url": "https://open.spotify.com/track/4omYnAPibSJVlUrc0vg9dN"
+    },
+    {
+      "album": {
+        "name": "You Got It (And I Need It)",
+        "url": "https://open.spotify.com/album/1WpFHd5j9wvcV0mMZnhz0o"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199966,
+      "name": "You Got It (And I Need It)",
+      "url": "https://open.spotify.com/track/71bUNFk68LUA5Y0HURe94Y"
     },
     {
       "album": {

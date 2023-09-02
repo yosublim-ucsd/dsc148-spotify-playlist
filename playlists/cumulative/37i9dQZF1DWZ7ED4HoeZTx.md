@@ -4,7 +4,7 @@
 
 > Your chill anime soundtrack.
 
-75 songs - 5 hr 18 min
+76 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [FULL MOON…!](https://open.spotify.com/track/7K1tMixfZFxdUh8wjj8aha) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.3\)](https://open.spotify.com/album/2Fj6DhkX6JQFEAcay7jzAc) | 3:38 | 2023-07-06 |  |
 | [Garnet](https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [Hanako Oku Best \~ My Letters \~](https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq) | 5:20 | 2023-01-05 | 2023-01-18 |
 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2023-01-05 |  |
-| [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 | 2023-03-07 |  |
+| [Hann Kemur I Kvold](https://open.spotify.com/track/0gStMkeGEZGAHusrp3oixi) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnus Johann](https://open.spotify.com/artist/3WUBOQWgRGWHn4tcUypekj), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann Kemur I Kvold](https://open.spotify.com/album/0J05c8KUza1pa5bzomJRAt) | 5:44 | 2023-03-07 | 2023-09-02 |
 | [Hann kemur í kvöld](https://open.spotify.com/track/03rC7s5CTZXLfsKpJxl39H) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW), [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2) | [Hann kemur í kvöld](https://open.spotify.com/album/3bEKyiLUiaG3KUQ4ruMUHz) | 5:44 | 2023-03-07 | 2023-03-09 |
 | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw) | 5:50 | 2023-01-05 | 2023-08-23 |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2023-01-05 |  |
@@ -42,6 +42,7 @@
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-05-11 |  |
 | [Platinum](https://open.spotify.com/track/6e8wPXQkg6uvx6bahAEzc0) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 2](https://open.spotify.com/album/7wa8VtCkuH1de2C3mGYcfI) | 4:32 | 2023-02-07 | 2023-02-22 |
 | [rebind](https://open.spotify.com/track/29TrJvPHW8SuL9Y7wg72Ui) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [rebind](https://open.spotify.com/album/0xaMjXAT0lpUKlZ3zV691n) | 4:42 | 2023-01-10 | 2023-02-04 |
+| [ROBO](https://open.spotify.com/track/0FzeGgNmk8ZQIkMynJU5Pp) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ROBO](https://open.spotify.com/album/1mlPgMKIp1OIfCRuUR8Q4q) | 3:52 | 2023-09-01 |  |
 | [san francisco \- 181 ver](https://open.spotify.com/track/2BS9rjwYHkDLEbJoW1VwKX) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY), [MIDICRONICA 716](https://open.spotify.com/artist/7ErgIz6RK3oPeYp3wdVj0m), [894](https://open.spotify.com/artist/5PD9jnqnPTo1q1Fr6k619f) | [san francisco](https://open.spotify.com/album/3t4mUdDIEws8fSRxt1GHOk) | 3:26 | 2023-03-08 | 2023-03-09 |
 | [san francisco \- 181 ver](https://open.spotify.com/track/2wdmqQqUjGrZsjVvPzU0Qi) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY), [MIDICRONICA 716](https://open.spotify.com/artist/7ErgIz6RK3oPeYp3wdVj0m), [894](https://open.spotify.com/artist/5PD9jnqnPTo1q1Fr6k619f) | [san francisco](https://open.spotify.com/album/5U0ePkRQnzYpglXS6glqO9) | 3:26 | 2023-03-09 | 2023-07-07 |
 | [secret base \~君がくれたもの\~ \(10 years after Ver.\)](https://open.spotify.com/track/4rPmTBTX1wobDkGYXKvcGR) | [本間芽衣子（CV.茅野愛衣）](https://open.spotify.com/artist/6Ft6iUd8wRclZv2vqqwJ1u), [安城鳴子（CV.戸松 遥）](https://open.spotify.com/artist/4Yk6VO0E6sRSsHQ48l71V6), [鶴見知利子（CV.早見沙織）](https://open.spotify.com/artist/1auIZlPiXupfHjk1B3nm74) | [secret base \~君がくれたもの\~](https://open.spotify.com/album/3QfuS80shCRvZHSzRfpEHU) | 5:52 | 2023-01-05 |  |

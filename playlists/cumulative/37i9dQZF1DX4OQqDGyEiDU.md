@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-518 songs - 1 day 5 hr 39 min
+519 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,8 +67,9 @@
 | [Hanataba](https://open.spotify.com/track/6H42G7PmewVxTBQv7ruF3P) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Hanataba](https://open.spotify.com/album/4OW2aF9K7CREPKQscfW6m3) | 2:30 | 2023-05-18 |  |
 | [Hand in Hand](https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hand in Hand](https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d) | 5:12 | 2022-07-19 | 2022-07-24 |
 | [HappyCoaster](https://open.spotify.com/track/5iyY8j4qo5k9Yjdj68YmmT) | [emon\(Tes.\)](https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG) | [HappyCoaster](https://open.spotify.com/album/3KH8WAYRAyNd40Yiu8nRss) | 4:32 | 2022-07-05 | 2022-07-07 |
+| [Henceforth](https://open.spotify.com/track/0IrFbhdGbgz9NemUAzaNi1) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [And So Henceforth,](https://open.spotify.com/album/2vVnTKk2FkGP6oGiE8HpT7) | 3:54 | 2023-08-31 |  |
 | [Henceforth](https://open.spotify.com/track/4gLC5fds3QR3w7f5TmuNjh) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/1rlYATigfdlT3euu2Lgniz) | 3:55 | 2022-06-09 | 2022-07-29 |
-| [Henceforth](https://open.spotify.com/track/57ogQzcfCwQW1YoBdfz4Wa) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/2RqPD5PUvE0buIQ74wpmFV) | 3:55 | 2022-07-26 |  |
+| [Henceforth](https://open.spotify.com/track/57ogQzcfCwQW1YoBdfz4Wa) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/2RqPD5PUvE0buIQ74wpmFV) | 3:55 | 2022-07-26 | 2023-09-02 |
 | [HERO](https://open.spotify.com/track/1xpv91J8U0dmQK9m9Bi0Bb) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [HERO](https://open.spotify.com/album/0k5kcZQo3CeTdpSQ2GQvIl) | 2:30 | 2022-06-30 | 2022-07-15 |
 | [HERO \(feat\. 初音ミク\)](https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミク「マジカルミライ 2023」OFFICIAL ALBUM](https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR) | 3:24 | 2023-07-20 | 2023-08-09 |
 | [HITO Mania](https://open.spotify.com/track/5m9rwQVcChWF3TsKXlJfgE) | [Sasuke Haraguchi](https://open.spotify.com/artist/0lpGYhSy3qM3uvWAYF4fTf) | [HITO Mania](https://open.spotify.com/album/0oHrJBLx50GEEpYmnw6rEt) | 2:07 | 2023-08-24 |  |

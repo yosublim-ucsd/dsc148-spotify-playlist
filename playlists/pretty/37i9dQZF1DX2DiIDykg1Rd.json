@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNThiM2IyYTU3OWM2NDI3YjQ4YTFlYTVhYjEwZTc5NzBkN2JiYzFi",
+  "snapshot_id": "MCwwZTA2NjZkMjQ0MmQwYTlmNTBkOGYxYmM0OGU5MzVkZDJmYzc3NjJm",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 136071,
+      "name": "Paint The Sky Red",
+      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 415613,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 136071,
-      "name": "Paint The Sky Red",
-      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
     },
     {
       "added_at": "2023-01-01 05:00:00",

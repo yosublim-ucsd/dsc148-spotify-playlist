@@ -1,47 +1,15 @@
 {
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Madd",
-  "num_followers": 112870,
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Draganov",
+  "num_followers": 112968,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDU4MzRkY2UzNTIwYjI1NDk5ODljZGU3NWZmZTdkYWU4NmM1YTM5",
+  "snapshot_id": "MCwyNGU4OWZjMzMzMWY3OTMxMTkxY2E5ZDk1OTBlOGQwY2U5MWUyZWVj",
   "tracks": [
     {
-      "added_at": "2023-08-31 18:25:36",
-      "album": {
-        "name": "Lost Chapter - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1"
-      },
-      "artists": [
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "Lost Chapter - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6"
-    },
-    {
-      "added_at": "2023-08-31 18:25:36",
-      "album": {
-        "name": "Yeah ho v4",
-        "url": "https://open.spotify.com/album/2sZqUzLCEM3H4oh1ahKbdI"
-      },
-      "artists": [
-        {
-          "name": "Dollypran",
-          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
-        }
-      ],
-      "duration_ms": 289714,
-      "name": "Yeah ho v4",
-      "url": "https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC"
-    },
-    {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4"
@@ -57,7 +25,39 @@
       "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
+      "album": {
+        "name": "Yeah ho v4",
+        "url": "https://open.spotify.com/album/2sZqUzLCEM3H4oh1ahKbdI"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "duration_ms": 289714,
+      "name": "Yeah ho v4",
+      "url": "https://open.spotify.com/track/7fm4eB0yki6Dn4eqJg7DfC"
+    },
+    {
+      "added_at": "2023-09-01 12:04:07",
+      "album": {
+        "name": "Lost Chapter - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2yySEOcOZ3rzcwMGyoZSN1"
+      },
+      "artists": [
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "Lost Chapter - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2vbZJ54b6rtogxbGDb11q6"
+    },
+    {
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "I HATE SUMMER",
         "url": "https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "ZOK",
         "url": "https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb"
@@ -89,7 +89,31 @@
       "url": "https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
+      "album": {
+        "name": "JOUJ MIZAN",
+        "url": "https://open.spotify.com/album/4GYRFzg6eT9WcyAkegwmdp"
+      },
+      "artists": [
+        {
+          "name": "HKZ Production",
+          "url": "https://open.spotify.com/artist/6JDjrFsoGyhwiTI36dFra6"
+        },
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        },
+        {
+          "name": "Diib",
+          "url": "https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "JOUJ MIZAN",
+      "url": "https://open.spotify.com/track/0J4y5Eq182zXfVERO8fqTD"
+    },
+    {
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Free Mami",
         "url": "https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k"
@@ -109,7 +133,7 @@
       "url": "https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "X TAPE CHROMOSOME",
         "url": "https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF"
@@ -129,7 +153,7 @@
       "url": "https://open.spotify.com/track/7xTEBwt68HK6rTa59gTXRZ"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Drouba",
         "url": "https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM"
@@ -157,7 +181,7 @@
       "url": "https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "B\u00c9N\u00c9F",
         "url": "https://open.spotify.com/album/56XtuYPUNEnKikBj9TPJaO"
@@ -177,7 +201,7 @@
       "url": "https://open.spotify.com/track/2p3hMCV4KnpS5w19gaeOR5"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "HOWLS",
         "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
@@ -197,7 +221,7 @@
       "url": "https://open.spotify.com/track/6VUtXun31L5rzAI8Ri9lKC"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Denbi Ana",
         "url": "https://open.spotify.com/album/6aQ0rQWbW94FLbCui79SfB"
@@ -217,7 +241,7 @@
       "url": "https://open.spotify.com/track/7nPSqRB6nc9sf5cqSTJKzx"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Before Iceberg",
         "url": "https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW"
@@ -233,7 +257,7 @@
       "url": "https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Lmektoub",
         "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
@@ -257,7 +281,7 @@
       "url": "https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "POUFA",
         "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
@@ -273,7 +297,7 @@
       "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "I HATE SUMMER",
         "url": "https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt"
@@ -293,7 +317,7 @@
       "url": "https://open.spotify.com/track/0KSNoWPksTnUbKivbxpVhc"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "VISA",
         "url": "https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly"
@@ -309,7 +333,7 @@
       "url": "https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "HOWLS",
         "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
@@ -329,7 +353,7 @@
       "url": "https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Plainte",
         "url": "https://open.spotify.com/album/5NxEKY0xegcPpCduoPiOf1"
@@ -349,7 +373,7 @@
       "url": "https://open.spotify.com/track/7yh3z0Ly5uTIrnLQvbg59X"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Metamorphose",
         "url": "https://open.spotify.com/album/36tEw2LCtzCcHT4ATz7fy6"
@@ -365,7 +389,7 @@
       "url": "https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Lmektoub",
         "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
@@ -381,7 +405,7 @@
       "url": "https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "X TAPE CHROMOSOME",
         "url": "https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF"
@@ -405,7 +429,7 @@
       "url": "https://open.spotify.com/track/3rXQbN6yonMWT3jdwULWPB"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG"
@@ -421,7 +445,7 @@
       "url": "https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Oui Mr",
         "url": "https://open.spotify.com/album/0XZbt2PWXdvGNIfezWU3rM"
@@ -437,7 +461,7 @@
       "url": "https://open.spotify.com/track/4o49sZiYtgf89SzQ1MzpEB"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "7bss Tmout",
         "url": "https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2"
@@ -453,7 +477,7 @@
       "url": "https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "WILI",
         "url": "https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1"
@@ -469,7 +493,7 @@
       "url": "https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "GHETTO STAR",
         "url": "https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ"
@@ -489,7 +513,7 @@
       "url": "https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Lmektoub",
         "url": "https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB"
@@ -509,7 +533,7 @@
       "url": "https://open.spotify.com/track/18mE2O1ogNq2OFW71jfyS0"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "HABITUS",
         "url": "https://open.spotify.com/album/49JVpdUTrQcenJDv5cakM9"
@@ -525,7 +549,7 @@
       "url": "https://open.spotify.com/track/0ZxZXNK4vC6WFitavjSKYT"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "ALLO A!",
         "url": "https://open.spotify.com/album/0CLztZoZhcixutnjLgmOVh"
@@ -541,7 +565,7 @@
       "url": "https://open.spotify.com/track/7GcZtYytvc65hhts3BKYlu"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -557,7 +581,7 @@
       "url": "https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "HKZ GANG V2",
         "url": "https://open.spotify.com/album/7zCD2W5LfZ1h68oM33gACn"
@@ -573,7 +597,7 @@
       "url": "https://open.spotify.com/track/055mtpjA761fk09YyAXAoF"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Iori 5",
         "url": "https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb"
@@ -589,7 +613,7 @@
       "url": "https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/3WgER7dzaBeJSUkmLuLuhX"
@@ -609,7 +633,7 @@
       "url": "https://open.spotify.com/track/1ummIm7Y59PnBJ39Q7oMox"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "HOWLS",
         "url": "https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd"
@@ -625,7 +649,7 @@
       "url": "https://open.spotify.com/track/7jsvjOtuzYXeYl8m90S5BA"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "SME3NI",
         "url": "https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb"
@@ -641,7 +665,7 @@
       "url": "https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "MIXDEEP",
         "url": "https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym"
@@ -657,23 +681,7 @@
       "url": "https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
-      "album": {
-        "name": "LILA",
-        "url": "https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx"
-      },
-      "artists": [
-        {
-          "name": "SCOOL BOY",
-          "url": "https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV"
-        }
-      ],
-      "duration_ms": 164050,
-      "name": "LILA",
-      "url": "https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW"
-    },
-    {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Dexter",
         "url": "https://open.spotify.com/album/5hU57XeQXFA5CxDanMMuMI"
@@ -689,7 +697,7 @@
       "url": "https://open.spotify.com/track/5anrH8SzdtPP1fMz3eOBvS"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "FTA",
         "url": "https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO"
@@ -709,7 +717,7 @@
       "url": "https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Omerta",
         "url": "https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC"
@@ -725,7 +733,7 @@
       "url": "https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Trap Roumi V2",
         "url": "https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly"
@@ -741,7 +749,7 @@
       "url": "https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Dawk Lya",
         "url": "https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP"
@@ -757,7 +765,7 @@
       "url": "https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Wayli",
         "url": "https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE"
@@ -773,7 +781,7 @@
       "url": "https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "BREDA",
         "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
@@ -789,7 +797,7 @@
       "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Denbi",
         "url": "https://open.spotify.com/album/1QRWjgco5Vo4HeJVr2ffEr"
@@ -805,7 +813,7 @@
       "url": "https://open.spotify.com/track/7t6gPk6jiSye8IVrfAPqOV"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Badi 7efyan",
         "url": "https://open.spotify.com/album/3t1nl0L9oxhZwm12EQijip"
@@ -821,7 +829,7 @@
       "url": "https://open.spotify.com/track/0jCo4rohuFfNSXSluXaw8i"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "IMPOLIS",
         "url": "https://open.spotify.com/album/1P3TKXMtmi3zKLPCYzNUYU"
@@ -845,7 +853,7 @@
       "url": "https://open.spotify.com/track/2zJCocfV6VTMDQScL4XUVN"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "INARA",
         "url": "https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq"
@@ -861,7 +869,7 @@
       "url": "https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt"
@@ -877,7 +885,7 @@
       "url": "https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG"
     },
     {
-      "added_at": "2023-08-31 18:25:36",
+      "added_at": "2023-09-01 12:04:07",
       "album": {
         "name": "M3a L3echrane",
         "url": "https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk"

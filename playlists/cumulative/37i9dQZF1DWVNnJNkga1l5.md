@@ -2,9 +2,9 @@
 
 ### [Cocina con Pop](https://open.spotify.com/playlist/37i9dQZF1DWVNnJNkga1l5)
 
-> Temazos inolvidables para darle un toque dulce a tus comidas.
+> Canciones inolvidables para darle un toque dulce a tus comidas.
 
-148 songs - 9 hr 57 min
+150 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-08-29 |  |
 | [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 | 2022-05-17 |  |
 | [Cruz de Navajas](https://open.spotify.com/track/73JlqLGG7TKKqKa8F80vPd) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre El Cielo Y El Suelo](https://open.spotify.com/album/63ndRW1N0SGkK7Az9CTrxF) | 5:02 | 2021-10-05 | 2022-07-29 |
+| [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 | 2023-09-01 |  |
 | [Cuidarte el Alma](https://open.spotify.com/track/5HTAYvTUfz7Q7SBPLZl9nu) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:11 | 2021-10-05 | 2022-07-29 |
 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 | 2023-02-25 |  |
 | [Depende](https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:25 | 2022-05-17 | 2023-01-26 |
@@ -81,9 +82,10 @@
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/10dtkq3WqY3Mtqewv4AbJt) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Grandes Canciones](https://open.spotify.com/album/4Vf9ae9vO5v8G07GBJX7Uh) | 5:34 | 2021-10-05 | 2022-07-21 |
 | [Mi Historia Entre Tus Dedos \- Remastered 2020](https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g) | [Gianluca Grignani](https://open.spotify.com/artist/0H1InhXaXQPL1aj0mvHemU) | [Destino Paraiso \- 25th Anniversary Edition \(Remastered\)](https://open.spotify.com/album/2gOsQbi07TN9EkLv0kybkt) | 5:08 | 2022-05-17 |  |
 | [Morena mía](https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Sereno](https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv) | 4:51 | 2021-10-05 |  |
-| [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 | 2021-10-05 |  |
+| [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 | 2021-10-05 | 2023-09-02 |
 | [Mío](https://open.spotify.com/track/3TBbvhVEG29MdQc3goHcJ8) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Gran Pop Hits](https://open.spotify.com/album/6AqOtbw0uYF1nTluGWzNaO) | 3:46 | 2021-10-05 | 2022-07-28 |
 | [N5](https://open.spotify.com/track/2HQWMYkuy8Rm0uweatfe8F) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:34 | 2023-08-29 |  |
+| [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2023-09-01 |  |
 | [No Basta](https://open.spotify.com/track/5j4co4C0AbPZX8cH5iXGqe) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Extranjero](https://open.spotify.com/album/53MZly9b14Z2LQp6mLtAdr) | 4:33 | 2021-10-05 | 2022-07-29 |
 | [No Hace Falta](https://open.spotify.com/track/7FZ9pYYBFVQhEWSwqmyB68) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Celebridades\- Mijares](https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf) | 4:28 | 2021-10-05 | 2022-07-28 |
 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 | 2021-10-05 |  |
@@ -108,7 +110,7 @@
 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 | 2022-05-17 |  |
 | [Secretos](https://open.spotify.com/track/1MH7CE7NBhn3kdmFEfeBhn) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Amor Infinito](https://open.spotify.com/album/7JOaaaN8g6NnPUcDSGsHxZ) | 3:54 | 2021-10-05 | 2022-07-15 |
 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 | 2021-10-05 |  |
-| [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 | 2022-05-17 |  |
+| [Si Me Dejas Ahora](https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Si Me Dejas Ahora](https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc) | 4:32 | 2022-05-17 | 2023-09-02 |
 | [Si Me Dejas Ahora](https://open.spotify.com/track/5PrGKIdXRTMBj3OmMOe5w9) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [20 Auténticos Éxitos Originales \- José José](https://open.spotify.com/album/1UNi8P7bmTY2JnxzCWMqYe) | 4:33 | 2021-10-05 | 2022-07-29 |
 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 | 2021-10-05 | 2023-08-30 |
 | [Simplemente Amigos](https://open.spotify.com/track/2w3hRh03IPv1ueQ15V1XU3) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel Todos Sus Exitos](https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo) | 3:46 | 2021-10-05 | 2022-02-18 |

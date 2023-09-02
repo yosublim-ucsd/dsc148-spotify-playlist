@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-682 songs - 1 day 15 hr 30 min
+685 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Chasing Your Dream \- Acoustic](https://open.spotify.com/track/2r6NcQOLzErMjFVCNxZeuy) | [Chase Bell](https://open.spotify.com/artist/57Y3Yk8FH0HglxHzvuCQn5), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Chasing Your Dream \(Acoustic\)](https://open.spotify.com/album/1FrG7V5tZ7J7hVWwiLEI5R) | 2:12 | 2023-08-04 |  |
 | [Checklist](https://open.spotify.com/track/5Aswt4tzP6hF8SZJQkpW3S) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Checklist](https://open.spotify.com/album/7G5lBCJJtG3RTnIbuvEo5Z) | 3:12 | 2022-05-06 | 2022-07-29 |
 | [Chin Up](https://open.spotify.com/track/3oDIsWtp8eCHFEd6Rub3fm) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Chin Up](https://open.spotify.com/album/5EVVPoXeuCyYN8dhjGZ9dx) | 4:25 | 2021-08-04 | 2022-03-30 |
-| [Circles](https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Circles](https://open.spotify.com/album/0sFP5ZqmdCGwNUstW9oGIR) | 3:14 | 2023-02-10 |  |
+| [Circles](https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Circles](https://open.spotify.com/album/0sFP5ZqmdCGwNUstW9oGIR) | 3:14 | 2023-02-10 | 2023-09-02 |
 | [Clear](https://open.spotify.com/track/4sHqUPk9CFg2LkA1nmO1Ld) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Clear](https://open.spotify.com/album/57Bk5gJNNwT9pOqQjf85fY) | 2:38 | 2022-12-09 | 2023-07-15 |
 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 | 2021-08-04 | 2022-09-03 |
 | [Close To The Edge](https://open.spotify.com/track/5cKXWL2gO6VUwMey396Uqu) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Close To The Edge](https://open.spotify.com/album/0l1BGa8KszhTBMsXBpxPK2) | 2:48 | 2023-07-14 |  |
@@ -159,6 +159,7 @@
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2022-10-28 | 2023-07-08 |
 | [Different in My Mind](https://open.spotify.com/track/4IXgNDKg9vjKrVPHtFLrWJ) | [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Different in My Mind](https://open.spotify.com/album/3RLhUqat4saK5RRHi3xZ56) | 4:02 | 2022-06-17 | 2022-06-25 |
 | [Dirty Nikes](https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:18 | 2021-08-04 | 2022-05-03 |
+| [Distance](https://open.spotify.com/track/4XBdvip0omItMcq8fkbey6) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Distance](https://open.spotify.com/album/1rx6ln0XAM0F8hXVCKjMFN) | 2:40 | 2023-09-01 |  |
 | [Domino](https://open.spotify.com/track/00Z9EPuVs8hpWTn6Cd6wfR) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/0WGo4dh01tJd286InYutkB) | 4:03 | 2021-08-04 | 2022-04-20 |
 | [Don't Be So Hard On Yourself](https://open.spotify.com/track/35w6sOAI3DDG4UqeWqkQJT) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Abington Grove](https://open.spotify.com/album/5C14IfR0VeIhLeYT2f2GOy) | 3:54 | 2023-02-17 |  |
 | [Don't Fade \- Single Version](https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Don't Fade](https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx) | 3:10 | 2022-02-11 | 2023-01-28 |
@@ -266,7 +267,7 @@
 | [Hold You](https://open.spotify.com/track/1cXhJOnf6n1Ed7kbdFd4hq) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB) | 4:42 | 2022-02-11 | 2022-07-27 |
 | [Home](https://open.spotify.com/track/7smPGXPTC7rfvvYBs624hl) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Home](https://open.spotify.com/album/14UiFDriC8i4y7WxqCd2sz) | 2:30 | 2022-04-08 | 2022-07-27 |
 | [Home For My Heart](https://open.spotify.com/track/1PGc9smXkDk2I7v8zsI0GB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Home For My Heart](https://open.spotify.com/album/51XNz5aKjz3NjAZNQY40bp) | 2:38 | 2023-03-10 | 2023-06-10 |
-| [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2023-01-13 |  |
+| [Home Movies](https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Home Movies](https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt) | 3:16 | 2023-01-13 | 2023-09-02 |
 | [Honey, I](https://open.spotify.com/track/1QfwkymZqi0qfwU8SXjzWH) | [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV) | [Honey, I](https://open.spotify.com/album/65X1glJxmpe9Ak0CZV9qI1) | 2:33 | 2021-08-04 | 2022-03-26 |
 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 | 2021-08-04 | 2022-08-13 |
 | [Hood of My Car](https://open.spotify.com/track/2NBStpICFAoI4SVKOPHSwN) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Hood of My Car](https://open.spotify.com/album/7DrPyPTfc6sH09KTdtw7Zk) | 5:08 | 2021-08-04 | 2022-07-28 |
@@ -343,7 +344,7 @@
 | [Lady in the Darkest Hour](https://open.spotify.com/track/0vx0HNWpitK8Y5L53ZY1C1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lady in the Darkest Hour](https://open.spotify.com/album/7DuLlRk308fbnlPKEDqbUY) | 4:35 | 2022-04-01 | 2022-04-20 |
 | [Lady Like](https://open.spotify.com/track/33UI8dgfkDOf32DWBH1GL0) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/3l0QTUgr0CKXgpQb9PAdmH) | 3:14 | 2021-08-04 | 2022-04-02 |
 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2021-08-04 | 2022-08-13 |
-| [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-03 |  |
+| [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-03 | 2023-09-02 |
 | [last request](https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [last request](https://open.spotify.com/album/5FTXpQ9VirW7NG2Ee2gXvD) | 3:00 | 2022-07-08 | 2022-07-30 |
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2021-08-04 | 2022-09-03 |
 | [Last Train To London \(I Won't Look Back\)](https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0) | 3:52 | 2023-04-28 |  |
@@ -466,6 +467,7 @@
 | [Passerby](https://open.spotify.com/track/77Tvvh0cG3KIfDsnp7hOA9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:08 | 2021-08-05 | 2022-04-21 |
 | [Paul Newman Daytona Rolex](https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy) | 3:21 | 2021-08-04 | 2022-07-29 |
 | [Pavement](https://open.spotify.com/track/21DTeeLwvvGlb3OFrd9rTT) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Pavement](https://open.spotify.com/album/7hjH77qbvXv66TWSWlUco7) | 3:16 | 2021-08-04 | 2022-07-28 |
+| [Payback](https://open.spotify.com/track/3R6SiwQlQDsEGN514Am6xD) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Payback](https://open.spotify.com/album/35azufJoqJ4BMzZGUUdSwr) | 3:44 | 2023-09-01 |  |
 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 | 2021-08-04 | 2022-04-02 |
 | [Permanent](https://open.spotify.com/track/1rSOFCuQXMtLu5bvv9qSW7) | [Fiona Harte](https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs) | [Permanent](https://open.spotify.com/album/6urzP9MMxIwXN6JjT29LNJ) | 3:33 | 2022-04-22 | 2022-05-05 |
 | [Personal Song](https://open.spotify.com/track/1xqNkstcBAKALh5lKazyAr) | [KAYAM](https://open.spotify.com/artist/0Ei023SskGVjbZaGLMYQ9W) | [Personal Song](https://open.spotify.com/album/2Rj5UFmikkjNrduFVvYq7z) | 5:28 | 2023-01-20 | 2023-02-18 |
@@ -688,6 +690,7 @@
 | [You Make Me Feel This Way](https://open.spotify.com/track/3WP8SQMQ6fzlE3kitho7X6) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets](https://open.spotify.com/album/6aOPINvqY1tVRMpBWQsujr) | 3:28 | 2022-09-09 | 2023-03-11 |
 | [You Might Not Like Her](https://open.spotify.com/track/0BqWEdlRUTCsYlLO5jMItB) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/7ueHZMvIaONsn3w56NMMtF) | 3:22 | 2022-06-17 | 2023-04-15 |
 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 | 2022-06-17 | 2022-10-13 |
+| [You're So You](https://open.spotify.com/track/2PBkxni7Zk4wpaZ8FSHHlF) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [You're So You](https://open.spotify.com/album/0iaGPkg7MNQGfVqk2A60I5) | 2:40 | 2023-09-01 |  |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-27 | 2022-07-11 |
 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 | 2022-05-20 | 2023-01-28 |
 

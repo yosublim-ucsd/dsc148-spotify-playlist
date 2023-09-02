@@ -1,18 +1,34 @@
 {
-  "description": "Where it all started. Cover: Cam'Ron",
-  "num_followers": 341477,
+  "description": "Where it all started. Cover: Jay-Z",
+  "num_followers": 341780,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTg3YjA0ZDdjNDJiZDczMDY0YjAzYzE0YjE5ZTNjY2Q4M2NkZDJi",
+  "snapshot_id": "MCxjNTRmZGFmN2YyN2Y5ZjllM2M4MTJmMmM1MWQ2NDIwNDEwMjk2MWY3",
   "tracks": [
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
       "artists": [
         {
@@ -20,12 +36,12 @@
           "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Juicy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
@@ -73,7 +89,47 @@
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Amil",
+          "url": "https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "duration_ms": 309773,
+      "name": "Can I Get A...",
+      "url": "https://open.spotify.com/track/4LGMSdeKOUoy5Wf75Je0Hl"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -93,27 +149,7 @@
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Confessions Of Fire",
-        "url": "https://open.spotify.com/album/2pIL8lbz2cz2Zg2Da3p9DF"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Horse & Carriage (feat. Mase)",
-      "url": "https://open.spotify.com/track/2IwuXiEjBo1vlHluE0mxQV"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
@@ -141,7 +177,39 @@
       "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "The Love Movement",
+        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
@@ -161,75 +229,39 @@
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
-        "name": "N.O.R.E",
-        "url": "https://open.spotify.com/album/1aFS9Pa88Gl3QH1gNNVyzR"
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
       "artists": [
         {
-          "name": "Noreaga",
-          "url": "https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO"
-        },
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Cam'Ron",
-          "url": "https://open.spotify.com/artist/6f8Z5hf3WFDKHWh2MgfeMR"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Nature",
-          "url": "https://open.spotify.com/artist/6hOMsNrEKV7FzQpypeZGf5"
-        },
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
         }
       ],
-      "duration_ms": 312106,
-      "name": "Banned From TV",
-      "url": "https://open.spotify.com/track/3Z1FMx6MCNgPKRWUcCUAAE"
+      "duration_ms": 206493,
+      "name": "Definition",
+      "url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "The Love Movement",
-        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
@@ -249,43 +281,7 @@
       "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Capital Punishment",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
-      },
-      "artists": [
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Twinz (feat. Fat Joe)",
-      "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
@@ -301,23 +297,7 @@
       "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
@@ -341,23 +321,23 @@
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
@@ -373,7 +353,23 @@
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Blackout!",
         "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
@@ -393,23 +389,7 @@
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Poverty's Paradise (25th Anniversary - Remastered)",
         "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
@@ -425,7 +405,7 @@
       "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Return to the 36 Chambers: The Dirty Version",
         "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
@@ -441,7 +421,23 @@
       "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
@@ -457,7 +453,7 @@
       "url": "https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
@@ -485,7 +481,7 @@
       "url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
@@ -505,7 +501,27 @@
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Capital Punishment",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Twinz (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/6x7ohjhYzzmCglAT4TD9T9"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/2lXJr5BkUPZpQUV2ZGN1Wv"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Midnight Marauders",
         "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/6DPrhGVJ1WTZvM9fKptnGe"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Conspiracy (PA)",
         "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Liquid Swords",
         "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Lifestylez Ov Da Poor & Dangerous",
         "url": "https://open.spotify.com/album/7xvBUHu5jJ7X0wdRHudLFD"
@@ -613,7 +629,23 @@
       "url": "https://open.spotify.com/track/6JI5wNWYdBw68GZjOMmgK5"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 333906,
+      "name": "Lost Ones",
+      "url": "https://open.spotify.com/track/71XhXay6rKPZCVAaDtFlSR"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Return of the Boom Bap",
         "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
@@ -629,7 +661,23 @@
       "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Whos The Man ? Soundtrack",
+        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Party And Bullshit",
+      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
@@ -657,23 +705,7 @@
       "url": "https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Whos The Man ? Soundtrack",
-        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Party And Bullshit",
-      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Tical",
         "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
@@ -729,23 +761,7 @@
       "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "The Dynasty: Roc La Familia",
-        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "I Just Wanna Love U (Give It 2 Me)",
-      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Illadelph Halflife",
         "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Life Story",
         "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
@@ -777,23 +793,7 @@
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "How's It Goin' Down",
-      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Return to the 36 Chambers: The Dirty Version",
         "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
@@ -809,7 +809,63 @@
       "url": "https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "How's It Goin' Down",
+      "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Tical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 309946,
+      "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
+      "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
+      "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Loungin (Who Do Ya Luv) - Remix",
+      "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
+    },
+    {
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Illmatic XX",
         "url": "https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE"
@@ -825,7 +881,7 @@
       "url": "https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Flava In Ya Ear Remix",
         "url": "https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL"
@@ -857,47 +913,7 @@
       "url": "https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Tical (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 309946,
-      "name": "I'll Be There For You/You're All I Need To Get By - Puff Daddy Mix",
-      "url": "https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        },
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Loungin (Who Do Ya Luv) - Remix",
-      "url": "https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Liquid Swords",
         "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE"
     },
     {
-      "added_at": "2023-06-29 23:37:21",
+      "added_at": "2023-09-01 04:09:48",
       "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
@@ -927,38 +943,6 @@
       "duration_ms": 195106,
       "name": "Beware",
       "url": "https://open.spotify.com/track/0fpVsdhxofrLCZL1CWETxa"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "Stop Being Greedy",
-      "url": "https://open.spotify.com/track/6904O7JrAxFybd4yu3Sz2V"
-    },
-    {
-      "added_at": "2023-06-29 23:37:21",
-      "album": {
-        "name": "Diplomatic Immunity",
-        "url": "https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk"
-      },
-      "artists": [
-        {
-          "name": "The Diplomats",
-          "url": "https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi"
-        }
-      ],
-      "duration_ms": 249040,
-      "name": "Dipset Anthem",
-      "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
     }
   ],
   "unique_name": "I Love My East Coast Classics",

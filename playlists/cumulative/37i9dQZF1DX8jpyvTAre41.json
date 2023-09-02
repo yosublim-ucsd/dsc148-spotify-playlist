@@ -764,7 +764,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
@@ -1446,6 +1446,24 @@
       "duration_ms": 262226,
       "name": "Brother the Cloud",
       "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
+    },
+    {
+      "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/0IHo9Z1H5vlLINGbtN2ALE"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/7xCQbRkgXIZKzIrB8yrG6v"
     },
     {
       "album": {
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 189928,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
@@ -4588,6 +4606,24 @@
       "duration_ms": 193333,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os"
+    },
+    {
+      "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "album": {
@@ -9831,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168221,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
       },
@@ -10214,7 +10268,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 157611,
       "name": "Swap Places",
       "url": "https://open.spotify.com/track/58AT3seTr9rPaHReoAeiaL"

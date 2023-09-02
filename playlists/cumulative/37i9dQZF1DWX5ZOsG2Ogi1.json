@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Perreo del bueno! Cover: Sech",
+  "description": "\u00a1Perreo del bueno! Cover: KAROL G & Peso Pluma",
   "name": "Puro Perreo",
   "tracks": [
     {
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202239,
       "name": "CLI CLAN - (Remix)",
       "url": "https://open.spotify.com/track/7MAa9K8YxffUkgfjyhzIm1"
@@ -2752,6 +2752,24 @@
       "duration_ms": 271514,
       "name": "Ella Fuma",
       "url": "https://open.spotify.com/track/4IYxcqhcFFJ025qfWJeulF"
+    },
+    {
+      "album": {
+        "name": "Ella Hace Vino",
+        "url": "https://open.spotify.com/album/2TKEmeQD9nxDVxkiKQ8OFt"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158314,
+      "name": "Ella Hace Vino",
+      "url": "https://open.spotify.com/track/6ANymFCKuM24XvNxaHksH9"
     },
     {
       "album": {
@@ -6468,7 +6486,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 190211,
       "name": "Otra Botella",
       "url": "https://open.spotify.com/track/2bXFM7qP61YdQjHb6obdJL"
@@ -8730,6 +8748,28 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+    },
+    {
+      "album": {
+        "name": "SQ LITO",
+        "url": "https://open.spotify.com/album/05e97jCxn4v6Ljq7uirzHk"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199654,
+      "name": "SQ LITO",
+      "url": "https://open.spotify.com/track/6xGn94pu3u5xDpEDbrbDbn"
     },
     {
       "album": {

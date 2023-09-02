@@ -670,7 +670,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 193103,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 286758,
       "name": "Dientes",
       "url": "https://open.spotify.com/track/74cqgSQGf1qznCiWyqu7w5"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 188933,
       "name": "Discoman\u00eda",
       "url": "https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q"
@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Inhabitable",
+        "url": "https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167240,
+      "name": "Inhabitable",
+      "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
+    },
+    {
+      "album": {
         "name": "Insatisfecho",
         "url": "https://open.spotify.com/album/67677bOS0mEinGuIto707S"
       },
@@ -2052,6 +2070,24 @@
       "duration_ms": 239346,
       "name": "Lo que Quieras de M\u00ed",
       "url": "https://open.spotify.com/track/2wLzfdCL6lVmUXySZlPVwa"
+    },
+    {
+      "album": {
+        "name": "LOTO",
+        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166493,
+      "name": "LOTO",
+      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
     },
     {
       "album": {
@@ -2428,6 +2464,24 @@
       "duration_ms": 224999,
       "name": "No",
       "url": "https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy"
+    },
+    {
+      "album": {
+        "name": "No Digas Nada",
+        "url": "https://open.spotify.com/album/11oUQbgiKOlQopjkZhvp5Z"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "No Digas Nada",
+      "url": "https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL"
     },
     {
       "album": {

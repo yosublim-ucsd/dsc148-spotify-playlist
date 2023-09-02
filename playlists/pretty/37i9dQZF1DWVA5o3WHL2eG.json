@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: AYLIVA",
-  "num_followers": 28527,
+  "num_followers": 28533,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj",
+  "snapshot_id": "MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz",
   "tracks": [
     {
       "added_at": "2023-08-08 06:06:22",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-08-08 06:06:22",
       "album": {
+        "name": "Blue Crystal Water",
+        "url": "https://open.spotify.com/album/5gKvHIv45f5W2tsxc9w11J"
+      },
+      "artists": [
+        {
+          "name": "PRESSYES",
+          "url": "https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "Blue Crystal Water",
+      "url": "https://open.spotify.com/track/0ZAuzWS5Yc8EcXSba0JzBh"
+    },
+    {
+      "added_at": "2023-08-08 06:06:22",
+      "album": {
         "name": "Day Dreamer",
         "url": "https://open.spotify.com/album/5k2mlBsJxmj7qEHfhW7EBb"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 143076,
       "name": "Sternzeichen",
       "url": "https://open.spotify.com/track/623c56JxgDCMlrcyMdN6aw"
-    },
-    {
-      "added_at": "2023-08-08 06:06:22",
-      "album": {
-        "name": "Blue Crystal Water",
-        "url": "https://open.spotify.com/album/5gKvHIv45f5W2tsxc9w11J"
-      },
-      "artists": [
-        {
-          "name": "PRESSYES",
-          "url": "https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Blue Crystal Water",
-      "url": "https://open.spotify.com/track/0ZAuzWS5Yc8EcXSba0JzBh"
     },
     {
       "added_at": "2023-08-08 06:06:22",

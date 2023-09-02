@@ -818,7 +818,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 384973,
       "name": "In The Sky: Expansion",
       "url": "https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7"
@@ -2026,6 +2026,24 @@
       "duration_ms": 148491,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd"
+    },
+    {
+      "album": {
+        "name": "Verdant",
+        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
+      },
+      "artists": [
+        {
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146437,
+      "name": "Verdant",
+      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
     },
     {
       "album": {

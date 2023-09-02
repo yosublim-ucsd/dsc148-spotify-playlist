@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Harold L\u00f3pez-Nussa",
+  "description": "New jazz for open minds. Cover: Kiefer",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 322520,
       "name": "August Again",
       "url": "https://open.spotify.com/track/3oIBOfMJVSCUIAl8BF9eFf"
@@ -5451,6 +5451,24 @@
     },
     {
       "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272124,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
+    },
+    {
+      "album": {
         "name": "Dora's Lullaby / Chemical X",
         "url": "https://open.spotify.com/album/5Bk3ujnGeeumSvN4F5ffx5"
       },
@@ -7064,7 +7082,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 281946,
       "name": "From The Top",
       "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
@@ -11840,6 +11858,24 @@
       "duration_ms": 187904,
       "name": "Mama Genso (Single Version)",
       "url": "https://open.spotify.com/track/4BrJDQtYkikWJVgywOjShf"
+    },
+    {
+      "album": {
+        "name": "Manunae",
+        "url": "https://open.spotify.com/album/50REVna2w4qIf5lmZGHUi5"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292384,
+      "name": "Manunae",
+      "url": "https://open.spotify.com/track/7rQbINkpTf8wkm7Rz7EmL2"
     },
     {
       "album": {
@@ -23555,6 +23591,24 @@
     },
     {
       "album": {
+        "name": "\u30be\u30a6",
+        "url": "https://open.spotify.com/album/6UB20HtWFVLxBDD2HgZare"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "\u30be\u30a6",
+      "url": "https://open.spotify.com/track/4xcYpxA5603bWGjlZfN56p"
+    },
+    {
+      "album": {
         "name": "\u591c\u7a7a\u304b\u3089\u306e\u6765\u8a2a\u8005",
         "url": "https://open.spotify.com/album/2AzD81GRzNTh234cFXEwgm"
       },
@@ -23602,7 +23656,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168000,
       "name": "\u67b6\u7a7a\u90fd\u5e02",
       "url": "https://open.spotify.com/track/1WR0Ow20xUHfXvYhKRHQYr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > Música para insubordinados\. Vondré en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,582 likes - 83 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,614 likes - 83 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 31 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 |
 | 32 | [Outro](https://open.spotify.com/track/3HFtCewZzBRxOESSqk1nVn) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 3:08 |
 | 33 | [i/O](https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 3:15 |
-| 34 | [Viva la Muerte](https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Viva la Muerte \(Viva 2021\)](https://open.spotify.com/album/2sV9w7wqsnQ49uI43EnSc4) | 3:18 |
+| 34 | [Viva la Muerte](https://open.spotify.com/track/2TDIBx2Za2zvHO0pEpXD4g) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 3:19 |
 | 35 | [Verde Pastel](https://open.spotify.com/track/1CWFgWVLWJEJ8JM0hBaGd7) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Limonada Rosa](https://open.spotify.com/album/3Gb7PPDBOwE7fXZqKhSVXI) | 2:13 |
 | 36 | [Algo Bien](https://open.spotify.com/track/7ny19tle78dtsBq4JXTNjt) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Algo Bien](https://open.spotify.com/album/4JbqoyE0SeNc6FNi64WEe8) | 3:14 |
 | 37 | [Viernes](https://open.spotify.com/track/6PyM3fAtL74EHBNMwbaGSH) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Deseo Querer](https://open.spotify.com/album/15xRUHTZm2vIDwZzqFEpEe) | 1:18 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 73 | [Niebla](https://open.spotify.com/track/6yWpmaYnTJYeRfnrwb0OCQ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0zh9o0s4qA7kfE7O2AEmMr) | 2:43 |
 | 74 | [Revolución en 32 versos](https://open.spotify.com/track/2IpIhUpVuQTsIseaQ4z7G0) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [Revolución en 32 versos](https://open.spotify.com/album/6hIwZvUQkppY4xBoxjwXWs) | 2:47 |
 | 75 | [Clarita \- En Vivo](https://open.spotify.com/track/0xXy1xcDSbAtiF8PJg8LKJ) | [La Muerte De...](https://open.spotify.com/artist/0HRghElI5OBUiatdsMNQAM) | [Clarita \(En Vivo\)](https://open.spotify.com/album/2tlfU2R8OXoR1WHXKnFqCC) | 5:26 |
-| 76 | [La Fórmula Secreta](https://open.spotify.com/track/4eQ49BwmjeomcAMVEd4tmu) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [La Fórmula Secreta](https://open.spotify.com/album/5xQIz329pjuvjdGpaYFFRU) | 3:59 |
+| 76 | [La Fórmula Secreta](https://open.spotify.com/track/5FlOc0UbRPAaSHFyfBSjFC) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 3:59 |
 | 77 | [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 |
 | 78 | [ser feliz](https://open.spotify.com/track/4unFzO0xTe39Ni2sd0EXEI) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [ser feliz](https://open.spotify.com/album/55c6HMx99ZGqkCoyAeN6hF) | 3:40 |
 | 79 | [La Pausa del Mundo](https://open.spotify.com/track/7cyO9d1l0jbytDniOqjtt9) | [El Universo](https://open.spotify.com/artist/2xGTBCrbaFoUdXGCqqJm8i) | [La Pausa del Mundo](https://open.spotify.com/album/2br0xYm6FKv8DQtXEhLQTl) | 4:50 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 82 | [Panteón](https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 1:35 |
 | 83 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 |
 
-Snapshot ID: `MCw1ZjcyMTM3MmM5ODNhMTExNDlkNzQ3ODJlZjYwMjg1OGEzZDlmMWE3`
+Snapshot ID: `MCw1ZGU0MDRiZmYwMDQ1NzlkNmE2NGYxZWY1MTk2MWZmYTk4YTBlNDNh`

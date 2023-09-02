@@ -4,7 +4,7 @@
 
 > Music blasting, faith on swole\.  Get your beast mode on!  Guest Curated by <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=ee8a724b019b4d6d">KB</a>
 
-457 songs - 22 hr 56 min
+458 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Flashy](https://open.spotify.com/track/2AHoi03XAHDv5df9AJjLYs) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Flashy](https://open.spotify.com/album/6xbofFdMv6ZQCUTHs8CyIi) | 2:28 | 2022-10-01 | 2022-10-05 |
 | [Fo' Rilly Flow](https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz) | [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Fo' Rilly Flow](https://open.spotify.com/album/4NYHAo56V6kokxfU2w80VF) | 2:54 | 2022-02-04 |  |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2022-03-23 | 2022-04-21 |
-| [Fomo](https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Fomo](https://open.spotify.com/album/6nxKmkJaErcYxUifCLY4Kv) | 2:30 | 2022-04-30 |  |
+| [Fomo](https://open.spotify.com/track/5Ja76bp5YMG6VueTslLKY1) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM) | [Fomo](https://open.spotify.com/album/6nxKmkJaErcYxUifCLY4Kv) | 2:30 | 2022-04-30 | 2023-09-02 |
 | [Forever](https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk) | [Forever](https://open.spotify.com/album/6Y3FWXwfalkRuK7lU73dmC) | 2:29 | 2022-07-17 |  |
 | [Free Indeed](https://open.spotify.com/track/5pNmR0MvE9gIgUtSRztigH) | [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [Free Indeed](https://open.spotify.com/album/1KZqdnvhw3QTDTSXQFgR13) | 3:07 | 2023-08-11 |  |
 | [Freedom \- Amapiano](https://open.spotify.com/track/1RfHFStdEXyJWorqSQmMUU) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Denga](https://open.spotify.com/album/1RLgrGJKZ9jRVIXyNoGiGZ) | 4:23 | 2022-02-04 | 2022-04-30 |
@@ -314,6 +314,7 @@
 | [PLAN PLAN](https://open.spotify.com/track/0EbDu1P2IOei9r3WlrECMp) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [PLAN PLAN](https://open.spotify.com/album/2xNO3xacBP2uF3qH5OSacX) | 2:48 | 2023-08-11 |  |
 | [Please](https://open.spotify.com/track/5TCAzaYt4Sem3GBIz84kCt) | [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Please](https://open.spotify.com/album/6HE02Rkx6slJ3lCdTmHlpL) | 3:00 | 2022-09-03 | 2022-11-05 |
 | [Poison](https://open.spotify.com/track/1jTheEoZrLEr54mXZRJpLC) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Poison](https://open.spotify.com/album/0bzSZYw44KNZrwpildyXgk) | 2:51 | 2022-04-30 | 2022-05-29 |
+| [Potential](https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw) | [Drika Will](https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly) | [Potential](https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2) | 3:16 | 2023-08-11 |  |
 | [Power Rangers](https://open.spotify.com/track/2GUwW9Mqp7cuMmoJp4WIfY) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe), [Sage](https://open.spotify.com/artist/0FqvthTRYBBBHLglDvc95x) | [Power Rangers](https://open.spotify.com/album/3ZfBrSpdyDPzw7gkLzkDjg) | 3:45 | 2022-03-11 | 2022-03-24 |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2023-08-11 |  |
 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 | 2022-08-06 |  |

@@ -2,9 +2,9 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS! Cover: Chris Stapleton
+> Country Music that ROCKS! Cover: Lakeview
 
-284 songs - 16 hr 24 min
+286 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Last Thing I Remember](https://open.spotify.com/track/1AbTzIzTbqu1GJsERdlsO3) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Last Thing I Remember](https://open.spotify.com/album/3pAkHifq83S5S9ptOS5p36) | 2:34 | 2023-05-05 | 2023-08-13 |
 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 | 2021-11-01 |  |
 | [Lightning Bugs and Rain](https://open.spotify.com/track/0NBaQcjwg7ROSc8qosY5Fj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 3:11 | 2021-11-01 | 2022-02-05 |
+| [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 | 2023-09-01 |  |
 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 | 2023-08-21 |  |
 | [Lone Wolf](https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [&](https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF) | 3:40 | 2022-08-26 | 2023-06-08 |
 | [Long Gone](https://open.spotify.com/track/3SNixPZICjFelFeoMG8jt4) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Long Gone](https://open.spotify.com/album/5G67R5epM9ihMK9U6jEDlG) | 4:01 | 2022-06-17 | 2022-07-09 |
@@ -182,6 +183,7 @@
 | [On the Run](https://open.spotify.com/track/4Kt1bb3fWGhgRsoRgZCAJ8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [On the Run](https://open.spotify.com/album/7GNCgw56WhQtEoAiQzny55) | 3:45 | 2021-11-01 | 2022-03-26 |
 | [One Hell of an Angel](https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [One Hell of an Angel](https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF) | 3:31 | 2022-08-26 | 2023-01-21 |
 | [Out of the Blue](https://open.spotify.com/track/5oR3HK1s3V8eOjwZWSVjQr) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Out of the Blue](https://open.spotify.com/album/5UMROMw2d3KYIjuhEkm9Oy) | 4:24 | 2021-11-01 | 2022-07-29 |
+| [Outlaws & Outsiders](https://open.spotify.com/track/2C2ExKriHRkD9qNilogjXn) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Who I Am](https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU) | 3:17 | 2023-09-01 |  |
 | [Outlaws & Outsiders](https://open.spotify.com/track/4NJjWHBLbon4OjbCfVMWkh) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Who I Am](https://open.spotify.com/album/1AmO83yyDpjLjQuPdMsf3Y) | 3:17 | 2021-11-01 | 2023-09-01 |
 | [Over Me By Now](https://open.spotify.com/track/2KLAl3FGKwh0jxbxR7jYWI) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Manchester](https://open.spotify.com/album/4u7tys2Fn3FDS5gVUJEJWB) | 2:41 | 2023-06-02 |  |
 | [Over Me By Now](https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Over Me By Now](https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW) | 2:41 | 2022-08-26 | 2022-10-25 |
@@ -242,7 +244,7 @@
 | [The Devil Is an Angel](https://open.spotify.com/track/1NrHorXOBOduKQ0QbLH5VS) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [The Devil Is An Angel](https://open.spotify.com/album/1BJYIhTmHlup1sXCE9Wnot) | 2:22 | 2021-11-01 | 2022-05-07 |
 | [The Future's Neon](https://open.spotify.com/track/1zmmVJZk7YKJ9oUZrYwgAx) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [The Future's Neon](https://open.spotify.com/album/3grVGFPEhjfRXfCUz65T2X) | 2:25 | 2022-02-11 | 2022-07-10 |
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-11-01 | 2022-01-22 |
-| [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 | 2022-06-10 |  |
+| [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 | 2022-06-10 | 2023-09-02 |
 | [Them Boots](https://open.spotify.com/track/1inAmPzZBNjKr7nU8cGbjT) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [South of Somewhere](https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly) | 2:35 | 2023-06-02 |  |
 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 | 2022-02-11 |  |
 | [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 | 2021-11-05 | 2023-03-16 |
@@ -268,7 +270,7 @@
 | [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2022-12-09 | 2023-05-19 |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-05-12 |  |
 | [Welcome to the South](https://open.spotify.com/track/3fgVZPySJ6fbCIm4r2PitX) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Welcome to the South](https://open.spotify.com/album/5JFFYGoY1O0LjR5NDod3XA) | 3:08 | 2021-11-01 | 2022-09-03 |
-| [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 | 2021-11-01 |  |
+| [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 | 2021-11-01 | 2023-09-02 |
 | [What Else Is New](https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions Unplugged](https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5) | 2:50 | 2021-11-01 | 2022-10-30 |
 | [What I Believe](https://open.spotify.com/track/24XgPPXmXoloTUDmmpu7A0) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [Greatest Thing](https://open.spotify.com/album/5B8XnkkUztbD9NqQKkCFVA) | 3:09 | 2021-12-31 | 2022-05-07 |
 | [When I Hear Your Name](https://open.spotify.com/track/2gMaUDwmEVQe5lJqXCR0zU) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Broken Heartland](https://open.spotify.com/album/0TUS3VFkxFIvdUaranQAWC) | 3:30 | 2022-08-26 | 2022-12-06 |

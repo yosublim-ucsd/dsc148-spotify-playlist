@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 31722,
+  "num_followers": 31799,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWYwMjQ5MzIzNWRjNjJjMDk4M2IwN2M1YjkxNjIwZDA3MTg1Yzg2",
+  "snapshot_id": "MCxmNzc4YWY2ZTViZWYyNTg3ODA4NWIxNTA4YWU3ZTg5MWYyNTJlM2Q4",
   "tracks": [
     {
       "added_at": "2023-08-31 23:59:00",
@@ -55,6 +55,26 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "SGJAZZ, Vol. 2",
+        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
+      },
+      "artists": [
+        {
+          "name": "SGJAZZ",
+          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
+        },
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "duration_ms": 321546,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Yesterday's Price",
         "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
       },
@@ -79,26 +99,6 @@
       "duration_ms": 315561,
       "name": "Yesterday's Price",
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "SGJAZZ, Vol. 2",
-        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
-      },
-      "artists": [
-        {
-          "name": "SGJAZZ",
-          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
-        },
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
-        }
-      ],
-      "duration_ms": 321546,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Comedown",
-        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
-      },
-      "artists": [
-        {
-          "name": "Jazzbois",
-          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
-        }
-      ],
-      "duration_ms": 159228,
-      "name": "Comedown",
-      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Extra Careless",
         "url": "https://open.spotify.com/album/32IDleorcUx73pIkV3IBeR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 170451,
       "name": "Extra Careless",
       "url": "https://open.spotify.com/track/08TvszYfAO8OYcpizm5R82"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Comedown",
+        "url": "https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        }
+      ],
+      "duration_ms": 159228,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Yves",
+        "url": "https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI"
+      },
+      "artists": [
+        {
+          "name": "Sinj Clarke",
+          "url": "https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q"
+        }
+      ],
+      "duration_ms": 319669,
+      "name": "Yves",
+      "url": "https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Vinyl And Me",
         "url": "https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Yves",
-        "url": "https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI"
+        "name": "limonene",
+        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
       },
       "artists": [
         {
-          "name": "Sinj Clarke",
-          "url": "https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q"
+          "name": "Jfab",
+          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
         }
       ],
-      "duration_ms": 319669,
-      "name": "Yves",
-      "url": "https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2"
+      "duration_ms": 176727,
+      "name": "limonene",
+      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -823,22 +839,6 @@
       "duration_ms": 154666,
       "name": "Dilla Impresses Me",
       "url": "https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "limonene",
-        "url": "https://open.spotify.com/album/6SSMQdids0Iixj0xzSFFrJ"
-      },
-      "artists": [
-        {
-          "name": "Jfab",
-          "url": "https://open.spotify.com/artist/7jqOx7roPoSzHGnNWBFVqW"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "limonene",
-      "url": "https://open.spotify.com/track/3Apg6aI4J5OxeiF032ttYY"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Is This Jazz?",
-        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 181855,
-      "name": "Is This Jazz?",
-      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Sun Drops",
         "url": "https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 184500,
       "name": "Sun Drops",
       "url": "https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Is This Jazz?",
+        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Is This Jazz?",
+      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1044,13 +1044,13 @@
           "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
         },
         {
-          "name": "Yasper",
-          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
         }
       ],
-      "duration_ms": 139451,
-      "name": "The Banquet",
-      "url": "https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO"
+      "duration_ms": 223475,
+      "name": "Dr. Disclosure",
+      "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Saturnine",
-        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 293298,
-      "name": "Saturnine",
-      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Remote Planet",
         "url": "https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 162000,
       "name": "Remote Planet",
       "url": "https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Saturnine",
+        "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 293298,
+      "name": "Saturnine",
+      "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1176,13 +1176,13 @@
           "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
         },
         {
-          "name": "Slug",
-          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
         }
       ],
-      "duration_ms": 223475,
-      "name": "Dr. Disclosure",
-      "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
+      "duration_ms": 139451,
+      "name": "The Banquet",
+      "url": "https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "713",
-        "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
-      },
-      "artists": [
-        {
-          "name": "James Francies",
-          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "713",
-      "url": "https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "out and about with my love at the weekend",
         "url": "https://open.spotify.com/album/6K8UbVR79JVTMD5blpendd"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 139023,
       "name": "out and about with my love at the weekend",
       "url": "https://open.spotify.com/track/3ik0mKAt5Hq76jXPZYOI0Z"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "713",
+        "url": "https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf"
+      },
+      "artists": [
+        {
+          "name": "James Francies",
+          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "713",
+      "url": "https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Chris Holm \u00b7 \u00d8yvind Blomstr\u00f8m \u00b7 Kim \u00c5ge Furuhaug",
-        "url": "https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        },
-        {
-          "name": "Kim \u00c5ge Furuhaug",
-          "url": "https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Langeland Frukt & Tobakk",
-      "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Old Royalty",
         "url": "https://open.spotify.com/album/1CcGRi6bwh4NQjSZmJhkzg"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 153044,
       "name": "Old Royalty",
       "url": "https://open.spotify.com/track/2DcG3Xwrjv0XRLQVlJjXqM"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Chris Holm \u00b7 \u00d8yvind Blomstr\u00f8m \u00b7 Kim \u00c5ge Furuhaug",
+        "url": "https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        },
+        {
+          "name": "Kim \u00c5ge Furuhaug",
+          "url": "https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Langeland Frukt & Tobakk",
+      "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Verdant",
+        "url": "https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t"
+      },
+      "artists": [
+        {
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        }
+      ],
+      "duration_ms": 146437,
+      "name": "Verdant",
+      "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Instrumentals JID009",
         "url": "https://open.spotify.com/album/1pgEGAlSKQqofycTIjSW4g"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 181289,
       "name": "Sunflowers - Instrumental",
       "url": "https://open.spotify.com/track/4QbGLxnTppGc8Ezpj7sPz7"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "In The Sky: Expansion",
-        "url": "https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        }
-      ],
-      "duration_ms": 384973,
-      "name": "In The Sky: Expansion",
-      "url": "https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7"
     }
   ],
   "unique_name": "Jazzy Beats",

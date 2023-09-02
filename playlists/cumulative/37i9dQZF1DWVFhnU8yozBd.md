@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-138 songs - 12 hr 46 min
+140 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Eyes Of My Mind](https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Eyes Of My Mind](https://open.spotify.com/album/0WaYnVmCtKMrDTWffsSKb2) | 9:12 | 2023-01-09 |  |
 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 | 2023-08-11 |  |
 | [Glints](https://open.spotify.com/track/4HaqphXEt6efmGX8yTsFmB) | [Frits Wentink](https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D) | [Rarely Pure, Never Simple](https://open.spotify.com/album/40F68tBDpXPfyk4438lwxB) | 5:54 | 2023-01-09 |  |
-| [Gone](https://open.spotify.com/track/7gD34yrgA8gFLsMtPCNWMm) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Contours](https://open.spotify.com/artist/0DivrXwznd1NcQbRh86cQO) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 5:36 | 2023-01-09 |  |
+| [Gone](https://open.spotify.com/track/76DBGyR69bKbLdt7mhsUPy) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Contours](https://open.spotify.com/artist/0DivrXwznd1NcQbRh86cQO) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 5:36 | 2023-08-11 |  |
+| [Gone](https://open.spotify.com/track/7gD34yrgA8gFLsMtPCNWMm) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Contours](https://open.spotify.com/artist/0DivrXwznd1NcQbRh86cQO) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 5:36 | 2023-01-09 | 2023-09-02 |
 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 | 2023-01-09 |  |
 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 | 2023-01-09 |  |
 | [Hafi Deo](https://open.spotify.com/track/35MRd8ShKOIqbfklIgeaSb) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Mangase / Hafi Deo](https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq) | 9:30 | 2023-01-09 |  |
@@ -91,7 +92,8 @@
 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 | 2023-01-09 |  |
 | [Nices Wölkchen](https://open.spotify.com/track/78WXbs2VMEGYXoGPyokKXZ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Amygdala](https://open.spotify.com/album/4W6mTFGMa5Zc4lWp7sOifv) | 5:31 | 2023-01-09 |  |
 | [Novel Approach \- Original Mix](https://open.spotify.com/track/1ZVuafFHVV7Eskk86g29ue) | [Corbi](https://open.spotify.com/artist/4iVQCY2ZfLkMwvK0CCMWNe) | [Novel Approach](https://open.spotify.com/album/3yO6bho7YLHzpvBeDnVTMx) | 6:40 | 2023-01-09 | 2023-08-12 |
-| [OAR003\-B \- Original Mix](https://open.spotify.com/track/0t5Rr3zaALBh7yI2kGhYyl) | [Oni Ayhun](https://open.spotify.com/artist/6pybt7x9B6bbxxlgcCtNMW) | [OAR003](https://open.spotify.com/album/5HmbBurWPTN7z44Q5H5N0T) | 11:14 | 2023-01-09 |  |
+| [OAR003\-B](https://open.spotify.com/track/7qnDy4qBwsPkTeoVv06BYS) | [Oni Ayhun](https://open.spotify.com/artist/6pybt7x9B6bbxxlgcCtNMW), [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [OAR003](https://open.spotify.com/album/3zBBlW9H75fq7IGpnaqsXA) | 11:14 | 2023-08-11 |  |
+| [OAR003\-B \- Original Mix](https://open.spotify.com/track/0t5Rr3zaALBh7yI2kGhYyl) | [Oni Ayhun](https://open.spotify.com/artist/6pybt7x9B6bbxxlgcCtNMW) | [OAR003](https://open.spotify.com/album/5HmbBurWPTN7z44Q5H5N0T) | 11:14 | 2023-01-09 | 2023-09-02 |
 | [Oedo 808](https://open.spotify.com/track/29vBqbsSx0PaDc7e8SZwqm) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 5:28 | 2023-01-09 |  |
 | [Oh My! \- Manoo Remix](https://open.spotify.com/track/71CSKlJiSSyCRPt2Mwj8Tb) | [Palamino](https://open.spotify.com/artist/1pibWq0cn7dLBBBAFW6Xef), [Manoo](https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz) | [Nite Grooves Presents Eclectic Dub Grooves, Vol\. 2](https://open.spotify.com/album/7jibuWf0mSIwsOaT2bFyiH) | 7:46 | 2023-01-09 | 2023-08-12 |
 | [Oi \- Sofia Kourtesis Remix](https://open.spotify.com/track/6KebNoEtQ4ZYiea7S4m00h) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Oi \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/46tOcV48XPP42wkr7pwYsy) | 3:01 | 2023-01-09 |  |

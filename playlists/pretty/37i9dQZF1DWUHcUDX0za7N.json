@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM?si=iyU8ZgF1TN6hxaTEXBD7CQ\"> Cheque </a> ",
-  "num_followers": 24845,
+  "num_followers": 24904,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODllYjU3NjYzYjg2NDY1ZWQ0ZDNjMjQ5NmJkNDY2Yzc2YzUzNWJj",
+  "snapshot_id": "MCw3ODM4MTdhMGIxMzE3N2Y5YTY5MTRiYmY4MDhjMWQ1YTk0ZDc4ZjI0",
   "tracks": [
     {
       "added_at": "2023-08-31 22:59:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 153174,
-      "name": "Account Balance",
-      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 153174,
+      "name": "Account Balance",
+      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -743,22 +743,6 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1003,6 +987,26 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Bad Persin",
         "url": "https://open.spotify.com/album/1AK98K9ZlG6MozLWxNR2uX"
       },
@@ -1051,22 +1055,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
-        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         },
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
         }
       ],
-      "duration_ms": 186906,
-      "name": "My Bro",
-      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+      "duration_ms": 190714,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Vawulence",
-        "url": "https://open.spotify.com/album/7FnaCUETrQaDL8xQaSbgKq"
+        "name": "Humble Cry",
+        "url": "https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
         }
       ],
-      "duration_ms": 190714,
-      "name": "Vawulence",
-      "url": "https://open.spotify.com/track/7e6gADAwdYOyDyaR5mge0T"
+      "duration_ms": 161502,
+      "name": "Humble Cry",
+      "url": "https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1131,22 +1131,6 @@
       "duration_ms": 178775,
       "name": "PARA",
       "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Humble Cry",
-        "url": "https://open.spotify.com/album/0HAgykkVb3jNd5UFdzIsKI"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        }
-      ],
-      "duration_ms": 161502,
-      "name": "Humble Cry",
-      "url": "https://open.spotify.com/track/0iWD2VVQiNnUvYG74mBw4c"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1279,26 +1263,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
       },
@@ -1315,6 +1279,26 @@
       "duration_ms": 201897,
       "name": "Family",
       "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1359,6 +1343,34 @@
       "duration_ms": 161118,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
     }
   ],
   "unique_name": "Naija Bars ",

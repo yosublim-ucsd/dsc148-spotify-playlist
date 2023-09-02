@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Analysis Paralysis",
+        "url": "https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118140,
+      "name": "Guilty Conscience",
+      "url": "https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq"
+    },
+    {
+      "album": {
         "name": "ANALYSIS PARALYSIS",
         "url": "https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj"
       },
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 118140,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5"
@@ -3966,6 +3984,24 @@
     {
       "album": {
         "name": "In Person",
+        "url": "https://open.spotify.com/album/6KgpYWJFy4KtEXiGqGpHyz"
+      },
+      "artists": [
+        {
+          "name": "Zoe Moon",
+          "url": "https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207017,
+      "name": "In Person",
+      "url": "https://open.spotify.com/track/3XMrGKQKcrH5vzf00Jxw87"
+    },
+    {
+      "album": {
+        "name": "In Person",
         "url": "https://open.spotify.com/album/7DcV93rZBpU6R1v8Qm9Tc5"
       },
       "artists": [
@@ -3976,7 +4012,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 207017,
       "name": "In Person",
       "url": "https://open.spotify.com/track/6VSIeXguQQFWomYqBP9ECD"

@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 291963,
+  "num_followers": 292114,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzVlN2I5ZmY5NDBlMDEyNjFiN2Y2NzAxY2M3NDY0YzNjYTk2MTRi",
+  "snapshot_id": "MCxjOWE4YWMzMWViZGZiMWVkOGFhMmM4ZDk2YTllMTk0MWY4ZjBlMGY0",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Infinite Skies",
-        "url": "https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2"
+        "name": "Back By Popular Demand",
+        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
       },
       "artists": [
         {
-          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
-          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+          "name": "Proux",
+          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
         }
       ],
-      "duration_ms": 157988,
-      "name": "Cupcake Break",
-      "url": "https://open.spotify.com/track/1fIZVfx61wPISv5WJ1lJQh"
+      "duration_ms": 110313,
+      "name": "Funk Express",
+      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Infinite Skies",
+        "url": "https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30c9\u30ed\u30b9MERCURY",
+          "url": "https://open.spotify.com/artist/5wZqTIE3Pav4n1ZjgGXapN"
+        }
+      ],
+      "duration_ms": 157988,
+      "name": "Cupcake Break",
+      "url": "https://open.spotify.com/track/1fIZVfx61wPISv5WJ1lJQh"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Kanji Title",
         "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 199262,
       "name": "Radiant Memories",
       "url": "https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Back By Popular Demand",
-        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
-      },
-      "artists": [
-        {
-          "name": "Proux",
-          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
-        }
-      ],
-      "duration_ms": 110313,
-      "name": "Funk Express",
-      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "I Chose Wrong",
         "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 172000,
       "name": "I Chose Wrong",
       "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Now That I Have You",
+        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
+      },
+      "artists": [
+        {
+          "name": "Mere Notilde",
+          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "Unlimited",
+      "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Disco Soul",
         "url": "https://open.spotify.com/album/52D8ESbEYlQw75nStkEone"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 269752,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Now That I Have You",
-        "url": "https://open.spotify.com/album/3hHM3Ydv4PItQmZauDRiS4"
-      },
-      "artists": [
-        {
-          "name": "Mere Notilde",
-          "url": "https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO"
-        }
-      ],
-      "duration_ms": 174159,
-      "name": "Unlimited",
-      "url": "https://open.spotify.com/track/6whYojZCfYHKbmTCwdZQ76"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 132486,
+      "name": "FIGHT! 2",
+      "url": "https://open.spotify.com/track/45DdNOqLCNfdgOCUJEsypo"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Summer 99",
         "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 138666,
       "name": "keep down flyday",
       "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1587,6 +1587,38 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Dance Dance Cochayuyo!",
+        "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
+      },
+      "artists": [
+        {
+          "name": "Cabro Artico",
+          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Dance Dance Cochayuyo!",
+      "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Future Funk 2022",
         "url": "https://open.spotify.com/album/0nu5yAaKCXZXZ6y0bhAxoL"
       },
@@ -1619,18 +1651,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dance Dance Cochayuyo!",
-        "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
+        "name": "Monstruo Japon\u00e9s",
+        "url": "https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP"
       },
       "artists": [
         {
-          "name": "Cabro Artico",
-          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        },
+        {
+          "name": "Rubimente",
+          "url": "https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4"
+        },
+        {
+          "name": "Schizo Forg",
+          "url": "https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0"
         }
       ],
-      "duration_ms": 167889,
-      "name": "Dance Dance Cochayuyo!",
-      "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
+      "duration_ms": 250344,
+      "name": "Monstruo Japon\u00e9s",
+      "url": "https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1667,30 +1707,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Monstruo Japon\u00e9s",
-        "url": "https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP"
-      },
-      "artists": [
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        },
-        {
-          "name": "Rubimente",
-          "url": "https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4"
-        },
-        {
-          "name": "Schizo Forg",
-          "url": "https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0"
-        }
-      ],
-      "duration_ms": 250344,
-      "name": "Monstruo Japon\u00e9s",
-      "url": "https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Bae 5",
         "url": "https://open.spotify.com/album/08bVHdOFE6ulzWZf3qbeiN"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 161314,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/29ZQPtWGbifq9z4O8nJqfv"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     }
   ],
   "unique_name": "Future Funk",

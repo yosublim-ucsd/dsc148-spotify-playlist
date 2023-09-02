@@ -2,9 +2,9 @@
 
 ### [Classic Artists New Music](https://open.spotify.com/playlist/37i9dQZF1DWX3wsvr7czQx)
 
-> Icons only\. Cover: Michael Bolton
+> Icons only\. Cover: Duran Duran
 
-90 songs - 5 hr 50 min
+92 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Brand New Day](https://open.spotify.com/track/10j6yneyjo8szVHBij2nVm) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Brand New Day](https://open.spotify.com/album/345VHvecrNrNs7SWlTJqPj) | 3:56 | 2021-10-22 | 2022-04-29 |
 | [Break The Man](https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Break The Man](https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf) | 3:55 | 2022-01-14 | 2022-02-26 |
 | [Dancin' in the Aisles](https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dancin' in the Aisles](https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd) | 3:26 | 2021-10-22 |  |
+| [DANSE MACABRE](https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/06HreThIz90gKClFT9sz0v) | 4:22 | 2023-09-01 |  |
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-01-21 |  |
 | [Dippin My Feet](https://open.spotify.com/track/0hb9885MfdqibhnFysxCon) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Dippin My Feet](https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy) | 3:13 | 2023-06-23 |  |
 | [Disconnected](https://open.spotify.com/track/1Lu7PmT0qjWn7oRPC08gMp) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Disconnected](https://open.spotify.com/album/4T93DNv8Icl7KKPh6CDn1h) | 4:54 | 2023-02-03 | 2023-03-18 |
@@ -95,6 +96,7 @@
 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 | 2023-04-28 |  |
 | [Whatever She Wants](https://open.spotify.com/track/658sx2DDcxQFawG7EELEpC) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Whatever She Wants](https://open.spotify.com/album/3iAI36xSp4CxNOuddYICXX) | 3:02 | 2023-05-05 | 2023-06-17 |
 | [When You Danced With Me](https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voyage](https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY) | 2:50 | 2021-11-05 |  |
+| [Where Do We Go From Here?](https://open.spotify.com/track/3GIIWN4clCuforFuVsS768) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [Where Do We Go From Here?](https://open.spotify.com/album/0kScLT4hNA8lPemoLxRz40) | 3:13 | 2023-09-01 |  |
 | [Where Is Our Love Song \(feat\. Gary Clark Jr.\)](https://open.spotify.com/track/7d41wCresuSZFzFh2VRnd2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Where Is Our Love Song](https://open.spotify.com/album/3rgaqrCj7z4EdOwuDTTjBi) | 3:37 | 2021-10-22 | 2022-08-13 |
 | [Why Can't We Live Together](https://open.spotify.com/track/7fjju295nRrFMwK7bunuEL) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Why Can't We Live Together](https://open.spotify.com/album/3fGr7K47n7t7OYckvx3gpr) | 3:44 | 2023-03-17 |  |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2021-11-05 |  |

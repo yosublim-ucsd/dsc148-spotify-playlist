@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,711 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,045 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 57 | [Key To Happiness](https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [All In One](https://open.spotify.com/artist/7MXDSgITltdRMyBikZiaEx), [Dantra](https://open.spotify.com/artist/7jReU323puI26T1mx4ryaG) | [Key To Happiness](https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw) | 5:55 |
 | 58 | [Crossroads \(Remix\)](https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Rexalted](https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya) | [Crossroads](https://open.spotify.com/album/6KslRrpR7Bao2FZskC5MWI) | 5:43 |
 | 59 | [Dark Oscillator](https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW) | [Audiomatic](https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV) | [Dark Oscillator](https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF) | 6:19 |
-| 60 | [Transparent](https://open.spotify.com/track/0GoFoDacevapONRmdyTmgh) | [Jason Nawty](https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA), [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Transparent](https://open.spotify.com/album/0xS7jOcqVLx6WgAFdapjSw) | 4:17 |
-| 61 | [Silence](https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Silence](https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub) | 7:32 |
-| 62 | [Crash & Burn](https://open.spotify.com/track/2BaYYrCKr6Uv8Vs1TD0xHS) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Crash & Burn](https://open.spotify.com/album/2bF58OdXln8I3ZqpAxGDjS) | 3:08 |
-| 63 | [Behind](https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [Behind](https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt) | 4:33 |
+| 60 | [Silence](https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Silence](https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub) | 7:32 |
+| 61 | [Transparent](https://open.spotify.com/track/0GoFoDacevapONRmdyTmgh) | [Jason Nawty](https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA), [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Transparent](https://open.spotify.com/album/0xS7jOcqVLx6WgAFdapjSw) | 4:17 |
+| 62 | [Behind](https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [Behind](https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt) | 4:33 |
+| 63 | [Crash & Burn](https://open.spotify.com/track/2BaYYrCKr6Uv8Vs1TD0xHS) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Crash & Burn](https://open.spotify.com/album/2bF58OdXln8I3ZqpAxGDjS) | 3:08 |
 | 64 | [Falling Into The Darkness](https://open.spotify.com/track/4jZnHTXCNzmu1fklBFveJe) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Jodie Poye](https://open.spotify.com/artist/6CclapVC4PKNda06Rjrprv) | [Falling Into The Darkness](https://open.spotify.com/album/4Y3ZBubnX08Oz6eVTYEFeX) | 5:57 |
 | 65 | [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 |
 | 66 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 69 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
 | 70 | [Nasty](https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Max Tase](https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m) | [Nasty](https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG) | 3:39 |
 | 71 | [Road to You](https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Psycho Cat](https://open.spotify.com/artist/6lJSb6YH8I0BxXqaPJ8qdp) | [Road to You](https://open.spotify.com/album/40St0blvPq3jpP7j5NSSXX) | 4:44 |
-| 72 | [Gotcha](https://open.spotify.com/track/2JqYDo6wWxZ0TszJ2FXnzg) | [Cosmonet](https://open.spotify.com/artist/29fIOE8ckNq96NbZlktZ7a) | [Gotcha](https://open.spotify.com/album/4tx4U1vNTaDZNRAhifW4Vv) | 6:39 |
-| 73 | [Altaria](https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Altaria](https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc) | 2:47 |
+| 72 | [Altaria](https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Altaria](https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc) | 2:47 |
+| 73 | [Gotcha](https://open.spotify.com/track/2JqYDo6wWxZ0TszJ2FXnzg) | [Cosmonet](https://open.spotify.com/artist/29fIOE8ckNq96NbZlktZ7a) | [Gotcha](https://open.spotify.com/album/4tx4U1vNTaDZNRAhifW4Vv) | 6:39 |
 | 74 | [Social Animal](https://open.spotify.com/track/7qzE2vuPPew5aZN7lnU5tw) | [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Social Animal](https://open.spotify.com/album/6AQM34fMEVRzeDfV1eaYcw) | 4:01 |
 | 75 | [Way Down](https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is) | [Cloud7](https://open.spotify.com/artist/1v58vTDfehAnHXZ3pvvkbs) | [Way Down](https://open.spotify.com/album/6k5XMwU0mIwIgRmCZVKKwI) | 6:19 |
 
-Snapshot ID: `MCxiMGVhZWE0MzBhMmQ0NWI3NmYyMjllOThkMWIxZDlmZTljYzUwN2U5`
+Snapshot ID: `MCxmZWI4YzU2YjAwZWIwODY4ZjAxYzBkODljNDczNWYyYzE0MjcyZGIw`

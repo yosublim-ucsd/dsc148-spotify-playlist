@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,387 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,615 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 36 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
 | 37 | [Dream In The Street](https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s) | [池田典代](https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M) | [ドリームインザストリート](https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH) | 4:58 |
 | 38 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
-| 39 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
-| 40 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
+| 39 | [GATSBY WOMAN](https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [BEST COLLECTION 〜MOON YEARS〜](https://open.spotify.com/album/4KiV0b6zN4dDIXYBsvYVcw) | 4:26 |
+| 40 | [Silly Crush](https://open.spotify.com/track/44MAe7e2MbOPLnP3XWC8ie) | [Masaki Matsubara](https://open.spotify.com/artist/5pDFSAj0BZHUN8Uw2C5VhA) | [Painted Woman](https://open.spotify.com/album/0mZOYr5JOK30XDTzaYSQFw) | 4:11 |
 | 41 | [MIDNIGHT DRIVER](https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/3jaNik4jYyepujb5xplAYo) | 7:44 |
 | 42 | [Ocean Side](https://open.spotify.com/track/6eyiIH5DfjHkqRQMZvdLUV) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [OCEAN SIDE](https://open.spotify.com/album/0luQvYcktzmxqbeCZ9owhw) | 4:38 |
 | 43 | [土曜の夜はパラダイス](https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [VITAMIN E・P・O](https://open.spotify.com/album/6IpND4kv199toWznRRTqrW) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 49 | [Junjou](https://open.spotify.com/track/3Eyujq7o2Uhi5pDOdkRZ4Q) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Air Kiss](https://open.spotify.com/album/0HPFK3PQpRl1bU3Maptq78) | 3:31 |
 | 50 | [真珠のピアス](https://open.spotify.com/track/6D51xQYMQkh6LFOFlp3Gad) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 5:44 |
 
-Snapshot ID: `MCxhZDIxNTEzYzM0MGIzYjFhNmZlYzFkM2JlMDhhOTNmZjljNDQ0MzVh`
+Snapshot ID: `MCw2NWQ4M2JjMWUxMzExYzA4NDE2ZGNmNzA1NWU4MzMzODdhOTJiMDA4`

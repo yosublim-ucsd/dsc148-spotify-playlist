@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 411428,
       "name": "Coca\u00edna",
       "url": "https://open.spotify.com/track/64idia5DEqsgb4z1sSP68t"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184954,
       "name": "Curvas Finas",
       "url": "https://open.spotify.com/track/6yQ58h9qNLLjWfGEFLLd0Q"
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "AGL",
+        "url": "https://open.spotify.com/album/2W5bmF4OOyHXQSp1M1bAgG"
+      },
+      "artists": [
+        {
+          "name": "Mirim",
+          "url": "https://open.spotify.com/artist/1zWKOtdpMainVsbeOR6kk6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153499,
+      "name": "FILME",
+      "url": "https://open.spotify.com/track/12jzQkI3F5VNdVgByUX0PW"
+    },
+    {
+      "album": {
         "name": "Fim",
         "url": "https://open.spotify.com/album/7gua9NskGvji2pRWFjSbk1"
       },
@@ -1556,6 +1574,32 @@
       "duration_ms": 192031,
       "name": "Geme Bem Baixinho",
       "url": "https://open.spotify.com/track/1h6wqa0AMxKa6PV2ThkLTB"
+    },
+    {
+      "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Good Vibe",
+      "url": "https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv"
     },
     {
       "album": {
@@ -1930,10 +1974,36 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 185310,
       "name": "Lux\u00faria",
       "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
+    },
+    {
+      "album": {
+        "name": "Lux\u00faria",
+        "url": "https://open.spotify.com/album/5lOrUR8mzRNcUbpLuqSKpi"
+      },
+      "artists": [
+        {
+          "name": "Yunk Drey",
+          "url": "https://open.spotify.com/artist/0XcOtCLUZ9C4eLazOKyWMU"
+        },
+        {
+          "name": "rarefireboy",
+          "url": "https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8"
+        },
+        {
+          "name": "St.Borges",
+          "url": "https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170160,
+      "name": "Lux\u00faria",
+      "url": "https://open.spotify.com/track/7bH4a6hrLW8jUZHGQsi0Fs"
     },
     {
       "album": {
@@ -2322,6 +2392,32 @@
       "duration_ms": 212250,
       "name": "Na Sua Rota",
       "url": "https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y"
+    },
+    {
+      "album": {
+        "name": "Ningu\u00e9m Ama Ningu\u00e9m",
+        "url": "https://open.spotify.com/album/5pNjfoqyUbZi2msTjdxPWM"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115949,
+      "name": "Ningu\u00e9m Ama Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/1z2JhprrpIx3Frjh59NXud"
     },
     {
       "album": {
@@ -2788,7 +2884,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186947,
       "name": "Priv\u00ea",
       "url": "https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce"

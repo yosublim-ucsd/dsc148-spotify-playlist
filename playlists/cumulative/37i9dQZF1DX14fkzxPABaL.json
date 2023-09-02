@@ -1741,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "lento",
+        "url": "https://open.spotify.com/album/1Jb2Q2QQVjqUAMq7mbRkLU"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196956,
+      "name": "lento",
+      "url": "https://open.spotify.com/track/0YvDSab87x0r3nTExxhztv"
+    },
+    {
+      "album": {
         "name": "Ley De Gravedad",
         "url": "https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg"
       },
@@ -2812,6 +2830,24 @@
       "duration_ms": 193800,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
+    },
+    {
+      "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
     },
     {
       "album": {

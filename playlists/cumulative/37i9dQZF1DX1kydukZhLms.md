@@ -4,7 +4,7 @@
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-285 songs - 1 day 0 hr 18 min
+286 songs - 1 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,9 +115,9 @@
 | [I Died For You](https://open.spotify.com/track/4A05kx59z5t6wcX4QXEcCx) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [The Dark Saga](https://open.spotify.com/album/0o0y3WO98mcRODpng4VcXN) | 3:47 | 2022-04-15 | 2022-07-29 |
 | [I Don't Care](https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ) | 3:57 | 2022-04-15 |  |
 | [I Don't Care](https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF) | 3:57 | 2022-04-15 | 2022-09-17 |
-| [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/2VxIt3hX5h0Pkzu5rgocZr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Greatest Hits \(Deluxe\)](https://open.spotify.com/album/1rYGs8nrxS83rEAasgyl5E) | 4:56 | 2023-02-06 |  |
+| [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/2VxIt3hX5h0Pkzu5rgocZr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Greatest Hits \(Deluxe\)](https://open.spotify.com/album/1rYGs8nrxS83rEAasgyl5E) | 4:56 | 2023-02-06 | 2023-09-02 |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG) | 4:58 | 2022-04-15 | 2022-07-29 |
-| [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 | 2023-01-03 | 2023-08-21 |
+| [I Don't Want To Miss A Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 4:59 | 2023-01-03 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-04-15 | 2023-01-13 |
 | [I Never Cry](https://open.spotify.com/track/7y5mfSJLUmPYmrI5hcCWnT) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Alice Cooper Goes to Hell](https://open.spotify.com/album/040ZtZ1HRgoHRruJtI4IAh) | 3:44 | 2022-04-15 | 2022-11-13 |
 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 | 2022-04-15 |  |
@@ -230,7 +230,7 @@
 | [Tallulah](https://open.spotify.com/track/3G80CgLA7ziD8i40s6uKQN) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Silence](https://open.spotify.com/album/491aVcQHmKwGjVego5VI15) | 5:20 | 2022-04-15 | 2023-01-04 |
 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 | 2022-04-15 |  |
 | [The Ballad](https://open.spotify.com/track/5dZqQns5MwVcbvNqkgocWI) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 6:08 | 2022-04-15 | 2022-07-26 |
-| [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 | 2022-04-15 |  |
+| [The Ballad Of Jayne](https://open.spotify.com/track/0gTEvnqaTPmrDvzbKZtQuw) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Cocked And Loaded](https://open.spotify.com/album/6z9hERB98aCzCYx180xaMW) | 4:34 | 2022-04-15 | 2023-09-02 |
 | [The Ballad Of Mary 2010](https://open.spotify.com/track/1vN8c6WwvYnLQzDBiySvor) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [The Ballad Of Mary](https://open.spotify.com/album/0QH1EzI2foX4ql9iH2afYb) | 5:01 | 2022-04-15 | 2022-07-27 |
 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/3LnePh1mlduj28bGZRFUQS) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/3hZrkR9D98fHIaazzOtmNT) | 3:09 | 2022-04-15 | 2022-07-09 |
 | [The Bard's Song \- In the Forest \- Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond \(Remastered 2007\)](https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS) | 3:09 | 2022-04-15 |  |
@@ -293,5 +293,6 @@
 | [You're All I Need](https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:35 | 2022-04-15 | 2022-07-29 |
 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 | 2022-04-15 |  |
 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 | 2022-04-15 | 2023-08-31 |
+| [Zombie](https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 4:14 | 2023-02-06 |  |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

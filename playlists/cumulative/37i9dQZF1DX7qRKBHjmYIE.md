@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo\. Freshly picked every week\. ✨ Cover: Cuco & Aleman
+> De aquí y de allá \~ un poquito de todo\. Freshly picked just for you\. ✨ Cover: Cuco & Aleman
 
-522 songs - 1 day 4 hr 7 min
+524 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-02-09 | 2023-02-17 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2022-01-24 | 2022-07-23 |
 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 | 2023-02-17 | 2023-03-29 |
+| [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-01 |  |
 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 | 2022-10-27 | 2023-01-11 |
 | [Blu](https://open.spotify.com/track/2qPc3RreHTFZF24GJP1L5A) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Mundos Paralelos](https://open.spotify.com/album/4AabL56MTUUk3khEB3rzxA) | 3:59 | 2023-02-02 | 2023-03-09 |
 | [Blue](https://open.spotify.com/track/07pEbfPpD6FvyWr6BsQrAG) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Don't Go Tellin' Your Momma](https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm) | 2:25 | 2022-07-20 | 2022-10-15 |
@@ -81,7 +82,7 @@
 | [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-03 | 2022-08-25 |
 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-07-22 | 2023-02-17 |
 | [Callan](https://open.spotify.com/track/7d3birJKfYhkf3ryMhEVok) | [Mariposa](https://open.spotify.com/artist/73s1DKnwRgdsXm6a3tQEsV) | [Callan](https://open.spotify.com/album/1Hm6ifGyeI4npjiFZ0mjxt) | 3:09 | 2021-12-02 | 2022-01-25 |
-| [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 | 2023-08-25 |  |
+| [Canto a la Imaginación](https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Canto a la Imaginación](https://open.spotify.com/album/3rR9YROCAzy8a7NzbNZt9H) | 3:01 | 2023-08-25 | 2023-09-02 |
 | [Can’t Hold You Down](https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 2:39 | 2023-02-17 | 2023-04-21 |
 | [Caramelo](https://open.spotify.com/track/0Ycy8YyLzDbN8DDCPCJCRW) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Mezz](https://open.spotify.com/artist/7Ga1glq0ZzxN4ycf1dNbyx), [RIAH](https://open.spotify.com/artist/7CYZd5syYy0SKmS2bWz0sg) | [Caramelo](https://open.spotify.com/album/1bRHpYrUrYObwmICKEGl30) | 2:39 | 2023-08-25 |  |
 | [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 | 2021-12-02 | 2022-01-29 |
@@ -318,6 +319,7 @@
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2022-07-22 | 2023-02-17 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2022-01-24 | 2022-07-28 |
 | [MOVE!](https://open.spotify.com/track/1oJtEFSyTnUgajiY1R3uRY) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [MOVE!](https://open.spotify.com/album/5FqWHUJSDN3ElenK311n8p) | 2:34 | 2021-12-02 | 2022-05-26 |
+| [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-01 |  |
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-04 | 2023-08-26 |
 | [MURDA](https://open.spotify.com/track/15LPlMO5f4ushkaUFcUe4m) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [MURDA](https://open.spotify.com/album/3EVrkc8tnxutwuTw8NPLT3) | 2:31 | 2021-12-02 | 2022-01-25 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-07-20 | 2022-10-28 |
@@ -494,7 +496,7 @@
 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 | 2023-02-17 | 2023-03-09 |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-02-09 | 2023-02-17 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-08 | 2023-02-03 |
-| [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 | 2023-08-25 |  |
+| [VCR](https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5) | [Atomic Rose](https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI) | [VCR](https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb) | 3:35 | 2023-08-25 | 2023-09-02 |
 | [Veneno \- A COLORS SHOW](https://open.spotify.com/track/3NQNJcX6jLyiZfNWKVcgyH) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno \- A COLORS SHOW](https://open.spotify.com/album/1nnRPpAwjfhtXUGYkqsFWZ) | 2:39 | 2021-12-02 | 2022-07-23 |
 | [Veo Luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [Veo Luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 | 2023-08-25 |  |
 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 | 2021-12-02 | 2022-05-26 |

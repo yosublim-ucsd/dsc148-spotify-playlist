@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Haikaiss",
+  "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Zudizilla",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163627,
       "name": "Ambicioso",
       "url": "https://open.spotify.com/track/4TbmRs8sJVW6FuBS826Rnp"
@@ -4095,6 +4095,28 @@
     },
     {
       "album": {
+        "name": "No Peace",
+        "url": "https://open.spotify.com/album/62yEHD9vP3ZnEubFqzwzUN"
+      },
+      "artists": [
+        {
+          "name": "Sid",
+          "url": "https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "No Peace",
+      "url": "https://open.spotify.com/track/1tAZSqk1xDwRBnWRuB95Kq"
+    },
+    {
+      "album": {
         "name": "Flow Da Pele",
         "url": "https://open.spotify.com/album/0bWWTVcKQ258Ur1cuxRY7V"
       },
@@ -4402,7 +4424,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173333,
       "name": "N\u00f4made VI",
       "url": "https://open.spotify.com/track/1V5nrvPDmynT2kJMJwo5FR"
@@ -4853,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Passo a Passo",
+        "url": "https://open.spotify.com/album/5Ly837cXTtttBDOHdfB365"
+      },
+      "artists": [
+        {
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Passo a Passo",
+      "url": "https://open.spotify.com/track/1qgEtkH0gho4vFdSVeu8L3"
+    },
+    {
+      "album": {
         "name": "Pegando o Visual",
         "url": "https://open.spotify.com/album/14DB9jnbK1r6C21fpWwNAk"
       },
@@ -4970,7 +5010,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 239077,
       "name": "Pierrot e Colombina",
       "url": "https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw"
@@ -6000,6 +6040,24 @@
       "duration_ms": 266797,
       "name": "Sem Serifa",
       "url": "https://open.spotify.com/track/3RJ705rFIqUook9nitZCm4"
+    },
+    {
+      "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103820,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx"
     },
     {
       "album": {

@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "Aladim",
+        "url": "https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145588,
+      "name": "Aladim",
+      "url": "https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB"
+    },
+    {
+      "album": {
         "name": "Alasca",
         "url": "https://open.spotify.com/album/69Sxc4uQUdJ6bgi2f2gZlD"
       },
@@ -542,7 +564,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182709,
       "name": "BRINCA COM A...",
       "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
@@ -655,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Campo De Morango",
+        "url": "https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
+    },
+    {
+      "album": {
         "name": "Quem Me Conhece Sabe",
         "url": "https://open.spotify.com/album/4zu11ms7NSVOfTqmMGWz26"
       },
@@ -720,7 +760,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 144896,
       "name": "deu pra sentir?",
       "url": "https://open.spotify.com/track/0NILfuLrTeAxhdDRFRsOcG"
@@ -874,7 +914,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 177564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
@@ -900,6 +940,36 @@
       "duration_ms": 177564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk"
+    },
+    {
+      "album": {
+        "name": "F\u00f3rmula",
+        "url": "https://open.spotify.com/album/1ncmgUI98E7illDvzbQNt0"
+      },
+      "artists": [
+        {
+          "name": "Carlos do Complexo",
+          "url": "https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "F\u00f3rmula",
+      "url": "https://open.spotify.com/track/6L7popTiDKKLHafG3X0ZSF"
     },
     {
       "album": {
@@ -1158,7 +1228,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 169714,
       "name": "Macetada",
       "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
@@ -1180,6 +1250,42 @@
       "duration_ms": 206341,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/1jTJ4Al2gI1mTLuSkj0kIj"
+    },
+    {
+      "album": {
+        "name": "MAU",
+        "url": "https://open.spotify.com/album/2piVGhoJU97oTfBEDeuVa9"
+      },
+      "artists": [
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175102,
+      "name": "MAU",
+      "url": "https://open.spotify.com/track/4yle1g6x5ZvZAGFTPcIM42"
+    },
+    {
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
     },
     {
       "album": {
@@ -1318,7 +1424,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 158571,
       "name": "NOITE DE CA\u00c7A",
       "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
@@ -1340,6 +1446,28 @@
       "duration_ms": 150909,
       "name": "N\u00e3o Tenta",
       "url": "https://open.spotify.com/track/5Jc73Nw398c5Jbs1sTTP65"
+    },
+    {
+      "album": {
+        "name": "O Tempo N\u00e3o P\u00e1ra",
+        "url": "https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR"
+      },
+      "artists": [
+        {
+          "name": "Reddy Allor",
+          "url": "https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174478,
+      "name": "O Tempo N\u00e3o P\u00e1ra",
+      "url": "https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv"
     },
     {
       "album": {
@@ -1504,7 +1632,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 136162,
       "name": "Pesadona",
       "url": "https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL"
@@ -1530,6 +1658,32 @@
       "duration_ms": 142722,
       "name": "Pitbull Sem Coleira",
       "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
+    },
+    {
+      "album": {
+        "name": "POC",
+        "url": "https://open.spotify.com/album/3Rf6Coo8PdnTeLm68H9RMp"
+      },
+      "artists": [
+        {
+          "name": "Felipe Mar",
+          "url": "https://open.spotify.com/artist/7tMtZSKTF28bqfqZWmbZSA"
+        },
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "POC",
+      "url": "https://open.spotify.com/track/22PMhCJsxuF1nJTESwunxg"
     },
     {
       "album": {
@@ -1716,7 +1870,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 185167,
       "name": "So Dumb",
       "url": "https://open.spotify.com/track/5A1xlxgPzHoq4G03uc7kCS"

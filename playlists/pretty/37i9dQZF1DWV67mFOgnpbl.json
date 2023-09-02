@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 342346,
+  "num_followers": 342563,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWZmOGIzNzlkZjA0ZjkxYWQ2Yzk5MDVkYzI4NjkxNmYwYTA5NTcy",
+  "snapshot_id": "MCw4NWNlZTg1NmM2Y2JlMzVmMWNlYmNjNTE2Yjk2YmNmYjdmNjBhMzZi",
   "tracks": [
     {
       "added_at": "2023-01-19 13:21:13",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-01-19 13:21:13",
       "album": {
+        "name": "N.A.T.I.O.N.",
+        "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Killing Me Slowly",
+      "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
+    },
+    {
+      "added_at": "2023-01-19 13:21:13",
+      "album": {
         "name": "Beat It",
         "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 194868,
       "name": "Anti-Everything",
       "url": "https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB"
-    },
-    {
-      "added_at": "2023-01-19 13:21:13",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/3hjZjdVy4Bw28GNWUVwgU1"
-      },
-      "artists": [
-        {
-          "name": "Shining",
-          "url": "https://open.spotify.com/artist/370lLcSfFuzXFatC0DFLel"
-        }
-      ],
-      "duration_ms": 212940,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/31SU2q3fE2HRnwbGjfx63T"
     }
   ],
   "unique_name": "Party Hard",

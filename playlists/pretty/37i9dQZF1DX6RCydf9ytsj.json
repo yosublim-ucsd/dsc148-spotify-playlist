@@ -1,12 +1,12 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 572595,
+  "num_followers": 572902,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTUzMTM5NzkwOGE1NmI1N2VhMDM4OTlhMjNkNjI2YjMxZjU2Njk1",
+  "snapshot_id": "MCxkYjFiZGUxMTFkYjY3YTgzODI2Yjc5ZGI1MzkxN2M2NzgxNjY3MDRk",
   "tracks": [
     {
       "added_at": "2023-08-21 19:29:52",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
-      },
-      "artists": [
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Who's Gonna Fill Their Shoes",
         "url": "https://open.spotify.com/album/0SRwLRes0ubEsYsjM9F5uL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 150520,
       "name": "The One I Loved Back Then (The Corvette Song)",
       "url": "https://open.spotify.com/track/0RbaD2rw0HmpfflXFH9DKu"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
+      "duration_ms": 163106,
+      "name": "Common Man",
+      "url": "https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/22qEaAJ03kdo8L2qge5Chc"
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 163106,
-      "name": "Common Man",
-      "url": "https://open.spotify.com/track/7qYQBg8ljLvLfWPOajfo6u"
+      "duration_ms": 167426,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 240373,
-      "name": "All My Rowdy Friends (Have Settled Down)",
-      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "The Essential Waylon Jennings",
         "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 286120,
       "name": "I Ain't Living Long Like This",
       "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 240373,
+      "name": "All My Rowdy Friends (Have Settled Down)",
+      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Drivin' My Life Away - 2009 Remaster",
+      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 164653,
       "name": "Born To Boogie",
       "url": "https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Drivin' My Life Away - 2009 Remaster",
-      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
+        "name": "Finally!",
+        "url": "https://open.spotify.com/album/7oIo2ejv5J3PuUOomEAPIf"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 206973,
+      "name": "Only One You",
+      "url": "https://open.spotify.com/track/2KrbGmJsKa6xVtwYtQVGkg"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
         "name": "80s Ladies",
         "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 183453,
       "name": "My Heroes Have Always Been Cowboys",
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
-        "name": "Finally!",
-        "url": "https://open.spotify.com/album/7oIo2ejv5J3PuUOomEAPIf"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 206973,
-      "name": "Only One You",
-      "url": "https://open.spotify.com/track/2KrbGmJsKa6xVtwYtQVGkg"
     },
     {
       "added_at": "2023-08-21 19:29:52",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-08-21 19:29:52",
       "album": {
-        "name": "Smooth Sailin'",
-        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Do You Wanna Go To Heaven",
-      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
-    },
-    {
-      "added_at": "2023-08-21 19:29:52",
-      "album": {
         "name": "Greatest Hits--\"Songs from an Aging Sex Bomb\"",
         "url": "https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 245733,
       "name": "Do Ya'",
       "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
+    },
+    {
+      "added_at": "2023-08-21 19:29:52",
+      "album": {
+        "name": "Smooth Sailin'",
+        "url": "https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Do You Wanna Go To Heaven",
+      "url": "https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm"
     },
     {
       "added_at": "2023-08-21 19:29:52",

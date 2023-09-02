@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Bajre Da Sitta",
+        "url": "https://open.spotify.com/album/5pTWvR0ZJVcOPftzZlsFIH"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169081,
+      "name": "Bajre Da Sitta",
+      "url": "https://open.spotify.com/track/2f7svG4r68phbVQpu0EPu0"
+    },
+    {
+      "album": {
         "name": "Bajre Da Sitta - Single",
         "url": "https://open.spotify.com/album/0l6n0qKap0pqC3NJROpB7z"
       },
@@ -162,7 +180,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 178200,
       "name": "Bajre Da Sitta",
       "url": "https://open.spotify.com/track/7xC3WCYXbpCGuTsjGswxjB"
@@ -584,10 +602,28 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 217254,
       "name": "Laung Gawacha",
       "url": "https://open.spotify.com/track/7mgGEXpbBMCOHgIUqdfARm"
+    },
+    {
+      "album": {
+        "name": "Laung Gawacha",
+        "url": "https://open.spotify.com/album/2hv0zzhDs3mJ6GZekwpaPc"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222254,
+      "name": "Laung Gawacha",
+      "url": "https://open.spotify.com/track/1aEfxP8CyCSDQeqRFlzBKb"
     },
     {
       "album": {

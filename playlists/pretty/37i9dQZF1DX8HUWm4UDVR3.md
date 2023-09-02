@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Anaïs MVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,397 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,461 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 39 | [Amour de vacances](https://open.spotify.com/track/4JMho5csY0dkiVxhC5rxcY) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Amour de vacances](https://open.spotify.com/album/5OwhMbwUQcTDHHEt1XKsEm) | 2:51 |
 | 40 | [Mexico](https://open.spotify.com/track/0eNAdxp91MiBmI7sHPsJJG) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mexico](https://open.spotify.com/album/6pVxwt4I2528nKeP5MHq0I) | 3:07 |
 
-Snapshot ID: `MCw3NjdjZjYzYTQ0MmRlOTgxZDNhNmI1ZTc4NWQyMjNlOWYzZjkzMWU3`
+Snapshot ID: `MCwyMGQ0Zjc0YmMyZWVmZDU1YTI2MTY0OGJmNzdkMjFiNWQwZmQyNmM3`

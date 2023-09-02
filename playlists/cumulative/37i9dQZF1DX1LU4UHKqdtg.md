@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-718 songs - 1 day 15 hr 18 min
+720 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 | 2023-02-15 |
 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-15 | 2023-07-12 |
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-06 | 2023-02-03 |
+| [Cheese](https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Cheese](https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj) | 3:26 | 2023-09-01 |  |
 | [Cherish](https://open.spotify.com/track/0GABq6cuB9kugOVuCREeN8) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Cherish](https://open.spotify.com/album/2ZsdFGDJlvsEFOEY1GkMht) | 3:24 | 2022-06-19 | 2022-08-10 |
 | [CHERRY \-Japanese ver.\-](https://open.spotify.com/track/4L7CEFGWkFlifYNk1gY2MI) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [CHERRY \-Japanese ver.\-](https://open.spotify.com/album/3NSuUNKnOXfOkA5FpMCmRQ) | 3:33 | 2021-12-23 | 2022-01-17 |
 | [Cheshire](https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHESHIRE](https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm) | 3:02 | 2022-11-30 | 2023-08-11 |
@@ -397,6 +398,7 @@
 | [MAVERICK](https://open.spotify.com/track/5uVgfUQLv2ZCgdx0t9vawz) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3RD SINGLE ALBUM \[MAVERICK\]](https://open.spotify.com/album/40Vv3OErf3nP8Cg1UmAKV8) | 3:28 | 2021-12-23 | 2022-01-04 |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-16 | 2022-12-30 |
 | [memeM](https://open.spotify.com/track/2fjBCcElSYOt5LN9GeuB5P) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [memeM](https://open.spotify.com/album/0cu9atEEYjquZCh3qTMgza) | 2:52 | 2022-03-30 | 2022-06-29 |
+| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-09-01 |  |
 | [Memu Aagamu](https://open.spotify.com/track/4C81bkQ2tkMmYk4bGFCrv5) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [Memu Aagamu](https://open.spotify.com/album/3c7ooAYb67kWlfNC3DpMjh) | 2:47 | 2022-08-23 | 2022-10-26 |
 | [Mirage](https://open.spotify.com/track/0pb1A3X512jNOVaHkEouMi) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Mirage](https://open.spotify.com/album/4NP4Pdd01qSNu9prVZQyCX) | 3:12 | 2023-02-21 | 2023-03-29 |
 | [Mirage of Flower](https://open.spotify.com/track/7h1BTRMJY5Lk0byMOt11A2) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Mirage of Flower](https://open.spotify.com/album/2WMCr4HvgWaGTF53m3ZKhY) | 4:25 | 2023-08-10 | 2023-08-19 |

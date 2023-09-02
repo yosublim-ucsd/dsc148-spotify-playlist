@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30496,
+  "num_followers": 30508,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjU1YTJkNTkwMzVkNWFmYmYwZGY2NTI4N2E4MDM2ZDVlMWQ2MWQ5",
+  "snapshot_id": "MCwwMDA1NjY1YzViNTkyMzNjNWE0Y2FmYTJjZGJjMzBjNWU5MzI5NDBi",
   "tracks": [
     {
       "added_at": "2023-08-21 16:25:57",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 298061,
-      "name": "Mary, You Were Wrong",
-      "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Because of a Flower",
         "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 421463,
       "name": "Suite Pour L'invisible",
       "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 298061,
+      "name": "Mary, You Were Wrong",
+      "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Frozen Passages",
-        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
-      },
-      "artists": [
-        {
-          "name": "Poemme",
-          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "a path between the clouds",
-      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Frozen Passages",
+        "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
+      },
+      "artists": [
+        {
+          "name": "Poemme",
+          "url": "https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "a path between the clouds",
+      "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "a journey...",
-        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "A Journey",
-      "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
         "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "a journey...",
+        "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "A Journey",
+      "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Fountainhead",
-        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
-      },
-      "artists": [
-        {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
-        }
-      ],
-      "duration_ms": 405570,
-      "name": "fountainhead",
-      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Penelope Three",
         "url": "https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/70QhYy1IM2lzMfsprIQ8nJ"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Fountainhead",
+        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
+      },
+      "artists": [
+        {
+          "name": "Courtney Swain",
+          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
+        }
+      ],
+      "duration_ms": 405570,
+      "name": "fountainhead",
+      "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
-      },
-      "artists": [
-        {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
-        }
-      ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Epistasis",
-        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
-      },
-      "artists": [
-        {
-          "name": "Maria w Horn",
-          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
-        }
-      ],
-      "duration_ms": 571000,
-      "name": "Epistasis",
-      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Anomi",
         "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 231618,
       "name": "Night Changes Many Thoughts",
       "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Epistasis",
+        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
+      },
+      "artists": [
+        {
+          "name": "Maria w Horn",
+          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
+        }
+      ],
+      "duration_ms": 571000,
+      "name": "Epistasis",
+      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
     },
     {
       "added_at": "2023-08-21 16:25:57",

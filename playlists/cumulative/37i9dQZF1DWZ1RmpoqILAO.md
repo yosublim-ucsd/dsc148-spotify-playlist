@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Slow Pulp
 
-152 songs - 10 hr 6 min
+153 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All My Thoughts](https://open.spotify.com/track/1hZ8HcjYNAn14cuGSRZT1K) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Practice](https://open.spotify.com/album/0pvTFpzVYUErZJTeDO7opu) | 3:45 | 2023-03-03 |  |
 | [Angels Bowling](https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [Angels Bowling](https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV) | 2:18 | 2023-02-23 | 2023-07-15 |
 | [Ashes](https://open.spotify.com/track/0OVAeW31O5lvcjtfTLIGrK) | [Kelley McRae](https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle) | [Ashes](https://open.spotify.com/album/5QWoRFLjMx1SwW4fJaGoCT) | 4:00 | 2023-03-24 |  |
-| [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2023-02-23 |  |
+| [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2023-02-23 | 2023-09-02 |
 | [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 | 2023-08-11 |  |
 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 | 2023-07-28 |  |
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-02-23 |  |
@@ -83,7 +83,7 @@
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-08-04 |  |
 | [I Know You're Wrong](https://open.spotify.com/track/25SJcZXOn89sHTfP3g5tsu) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [New Music and Big Pop](https://open.spotify.com/album/5z2BTKi7FQnonynrYUvyEF) | 2:03 | 2023-06-16 |  |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2023-02-23 |  |
-| [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2023-02-23 |  |
+| [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2023-02-23 | 2023-09-02 |
 | [Ingrid](https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:13 | 2023-02-23 | 2023-07-15 |
 | [It's Alive!](https://open.spotify.com/track/6yFefXwRZGvqqt9R6Xc879) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [It's Alive!](https://open.spotify.com/album/3lwc2UXhl9kklsEkzw1cI4) | 3:24 | 2023-06-09 |  |
 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 | 2023-08-08 |  |
@@ -136,6 +136,7 @@
 | [Summer Windows](https://open.spotify.com/track/1KGQwsicpxAnfNmOvubfAP) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Summer Windows](https://open.spotify.com/album/5baT0B05D6yDJFgKdTvjB6) | 3:21 | 2023-08-11 |  |
 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 | 2023-02-23 |  |
 | [Sunset Song](https://open.spotify.com/track/32AeyVrhv4GBXX9CqCp9J3) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Jack Symes & the River House](https://open.spotify.com/album/2WR2L77NLqrX0wr3MnXjwW) | 3:57 | 2023-06-09 |  |
+| [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 | 2023-09-01 |  |
 | [Take My Heart](https://open.spotify.com/track/4xIItS5RIFO0JtAlIDBIzb) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/60DTLJMVuo2iDezOWMl8QI) | 2:53 | 2023-08-18 |  |
 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 | 2023-02-23 |  |
 | [The Natural](https://open.spotify.com/track/2Jq7MZGZaoZXOLfm2rGr1i) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [The Natural](https://open.spotify.com/album/3Or3QqOXWcbOSwj4RiYzMy) | 3:50 | 2023-03-24 |  |
@@ -155,7 +156,7 @@
 | [Voicemail](https://open.spotify.com/track/1BhIBuQqcc797NM9gwJWwE) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Place to Land](https://open.spotify.com/album/55pfu2IeDDtlhtKuFl1krR) | 3:11 | 2023-02-23 |  |
 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 | 2023-06-30 |  |
 | [Weekday/Anything](https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 6:00 | 2023-04-28 | 2023-07-15 |
-| [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 | 2023-02-23 |  |
+| [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 | 2023-02-23 | 2023-09-02 |
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2023-02-23 |  |
 | [Yosemite](https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:06 | 2023-05-19 |  |
 | [You Can't Stay The Same](https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 3:35 | 2023-06-16 |  |

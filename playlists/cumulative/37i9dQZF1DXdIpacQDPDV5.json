@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 241586,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/0HHQK3hnRPKHJZzIPcNE3M"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 199015,
       "name": "Better Times",
       "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
@@ -2054,6 +2054,32 @@
       "duration_ms": 120959,
       "name": "Body Mind Soul (with Benny Benassi feat. Kyle Reynolds)",
       "url": "https://open.spotify.com/track/4eaEUmyOmuIkDslaf7xw0f"
+    },
+    {
+      "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
     },
     {
       "album": {
@@ -3194,7 +3220,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 125793,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/65YiCW1XCs3Py2bwxgFxEd"
@@ -3606,6 +3632,28 @@
       "duration_ms": 181676,
       "name": "Deep Inside Of Me",
       "url": "https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A"
+    },
+    {
+      "album": {
+        "name": "Deep Of The Night (feat. Darla Jade)",
+        "url": "https://open.spotify.com/album/09ZAbS57fE8S5uFkK1Ceax"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Deep Of The Night (feat. Darla Jade)",
+      "url": "https://open.spotify.com/track/1CGMLxm11Fu1gYE0PNJgpJ"
     },
     {
       "album": {
@@ -5165,6 +5213,28 @@
     },
     {
       "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/3eQCNq9SwQ6BB1bOMzOSYt"
+      },
+      "artists": [
+        {
+          "name": "Noche",
+          "url": "https://open.spotify.com/artist/0mnOvl550DlpNOKzb0y07F"
+        },
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221441,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/6EDjHSFBLotYoArki6ghKo"
+    },
+    {
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/7EWOw8JTdNAE0ceq6Wh0uy"
       },
@@ -5444,7 +5514,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 282000,
       "name": "Feel The Rush",
       "url": "https://open.spotify.com/track/2Q7OKBLfhKkWlo6BA1D9nq"
@@ -5776,6 +5846,24 @@
       "duration_ms": 169672,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
+    },
+    {
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/4bfLExHNoTVZhmpdJPyLUQ"
+      },
+      "artists": [
+        {
+          "name": "DiRTY RADiO",
+          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/11BhlNPxHSFl2vz0sIgrqQ"
     },
     {
       "album": {
@@ -8845,6 +8933,24 @@
     },
     {
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "album": {
         "name": "Jolene (Destructo Remix)",
         "url": "https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi"
       },
@@ -10156,6 +10262,24 @@
       "duration_ms": 196075,
       "name": "Lose My Mind (feat. Taylor Moody)",
       "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
+    },
+    {
+      "album": {
+        "name": "Lose This Feeling",
+        "url": "https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146996,
+      "name": "Lose This Feeling",
+      "url": "https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF"
     },
     {
       "album": {
@@ -12242,7 +12366,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 207500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/34xBhUgjCTUxe1BuypLL0X"
@@ -12370,7 +12494,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 145200,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
@@ -16006,7 +16130,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
@@ -17360,6 +17484,24 @@
       "duration_ms": 192614,
       "name": "Temptation (feat. Elise LeGrow)",
       "url": "https://open.spotify.com/track/5nz5inh9IXoP7wwi2hi8kO"
+    },
+    {
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
     },
     {
       "album": {

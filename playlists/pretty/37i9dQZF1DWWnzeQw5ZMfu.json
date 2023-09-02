@@ -1,15 +1,15 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
-  "num_followers": 60183,
+  "num_followers": 60250,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2RlYmNhYWI2ZDU4YWU3M2QxNmM1ZjQ3YjNkNGM1M2Y4N2E5MmEx",
+  "snapshot_id": "MCwwYjdkY2RjZjM5N2FkZDExYTgxYzYwYTU3OGEwOWRhMWYwMDUzYmM4",
   "tracks": [
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "mine (Live From The Belasco)",
         "url": "https://open.spotify.com/album/1AMJ7zubViKtgMM0oSc0uO"
@@ -25,23 +25,27 @@
       "url": "https://open.spotify.com/track/4fsliuqbTlP2eHebr8ntJW"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Imagine Dragons Live in Vegas",
-        "url": "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0"
+        "name": "Yours Truly (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 243923,
-      "name": "Bones - Live in Vegas",
-      "url": "https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd"
+      "duration_ms": 213694,
+      "name": "The Way - Live from London (feat. Mac Miller)",
+      "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "ilomilo (Live From The Film - Billie Eilish: The World\u2019s A Little Blurry)",
         "url": "https://open.spotify.com/album/2AyexmwyUy1nZfBadyewL7"
@@ -57,7 +61,7 @@
       "url": "https://open.spotify.com/track/4EYiIACD4vGzOmiKYzRdkW"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "HOMECOMING: THE LIVE ALBUM",
         "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
@@ -73,7 +77,23 @@
       "url": "https://open.spotify.com/track/10OaEuICuFoKLq48NoMblA"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Imagine Dragons Live in Vegas",
+        "url": "https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 243923,
+      "name": "Bones - Live in Vegas",
+      "url": "https://open.spotify.com/track/0l9xTt0WwTpwSQCOb1zphd"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/2E5avcbynGtL6rVHQihEdR"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live 2012",
         "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "BLACKPINK 2021 'THE SHOW' LIVE",
         "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
@@ -121,39 +141,23 @@
       "url": "https://open.spotify.com/track/6V3dOOUiPg53wUf83tBLR8"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+        "name": "Yours Truly (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 319226,
-      "name": "Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN"
+      "duration_ms": 295544,
+      "name": "Honeymoon Avenue - Live from London",
+      "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "The Man (Live From Paris)",
-        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "The Man - Live From Paris",
-      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
@@ -169,7 +173,39 @@
       "url": "https://open.spotify.com/track/2BVTAPMmaDoADdH4AtEQPr"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Slow Dancing in a Burning Room - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "The Man (Live From Paris)",
+        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "The Man - Live From Paris",
+      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Cassy O' (EP)",
         "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Spotify Sessions London",
         "url": "https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Leave The Door Open (Live)",
         "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
@@ -225,7 +261,7 @@
       "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/25wTebB8ECapFHWRPywpYR"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "k bye for now (swt live)",
         "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
@@ -261,23 +297,7 @@
       "url": "https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "One Night Only",
         "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live At Knebworth",
         "url": "https://open.spotify.com/album/1S543Bgkd1pzNtqHrDp5bq"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/2EU5LDgtGnh8RTz7VGlGoR"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
@@ -341,26 +361,10 @@
       "url": "https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "BLACKPINK 2021 'THE SHOW' LIVE",
-        "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 191820,
-      "name": "Kill This Love - Live",
-      "url": "https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
       },
       "artists": [
         {
@@ -368,12 +372,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Don't Start Now (Live in LA Remix)",
         "url": "https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx"
@@ -389,7 +393,23 @@
       "url": "https://open.spotify.com/track/7d9aNPQ3idYpe9zjQHSLwQ"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "BLACKPINK 2021 'THE SHOW' LIVE",
+        "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 191820,
+      "name": "Kill This Love - Live",
+      "url": "https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Infinite Disco",
         "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Serious Hits...Live! (2019 Remaster)",
         "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
@@ -501,7 +521,23 @@
       "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
@@ -517,23 +553,7 @@
       "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 312138,
-      "name": "betty - Live from the 2020 Academy of Country Music Awards",
-      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "The Feeling of Falling Upwards (Live from The Royal Albert Hall)",
         "url": "https://open.spotify.com/album/7u1CQclaB8RUyOfn4gTPlY"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/64IHMtwaJFXLpTPzRJPM30"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "MTV Unplugged EP",
         "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live 1976 - 1998: Tonight's the Night",
         "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
@@ -581,7 +601,23 @@
       "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
@@ -597,7 +633,7 @@
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "C\u00e9line... Une seule fois / Live 2013",
         "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
@@ -613,7 +649,7 @@
       "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
@@ -629,7 +665,7 @@
       "url": "https://open.spotify.com/track/7t5YIq57DS5djsaZJm1iyM"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Hurts So Good (Live From The Studio)",
         "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
@@ -645,7 +681,7 @@
       "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "One Night Only",
         "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
@@ -661,7 +697,7 @@
       "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Gloria (Special Edition)",
         "url": "https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW"
@@ -677,7 +713,7 @@
       "url": "https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
         "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/7IdznjcKCOWhydUH02Istz"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Shakira Oral Fixation Tour (Live)",
         "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
@@ -729,7 +765,7 @@
       "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
@@ -745,23 +781,7 @@
       "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Elton 60 - Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Your Song - Live At Madison Square Garden",
-      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live 2013 at The O2 Arena, London",
         "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
@@ -777,55 +797,23 @@
       "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+        "name": "Elton 60 - Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 334813,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
-      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
+      "duration_ms": 249666,
+      "name": "Your Song - Live At Madison Square Garden",
+      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Alicia Keys - VH1 Storytellers",
-        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
-      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Shakira In Concert: El Dorado World Tour",
-        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 340880,
-      "name": "She Wolf - El Dorado World Tour Live",
-      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
@@ -845,7 +833,39 @@
       "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 334813,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
+      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Alicia Keys - VH1 Storytellers",
+        "url": "https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Empire State of Mind (Part II) Broken Down - Live at Metropolis Studios, New York, NY - May 2013",
+      "url": "https://open.spotify.com/track/63kqWV4uJovbh830PAwC1J"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
         "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
@@ -861,7 +881,23 @@
       "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Shakira In Concert: El Dorado World Tour",
+        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 340880,
+      "name": "She Wolf - El Dorado World Tour Live",
+      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live in Dortmund",
         "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
@@ -877,7 +913,7 @@
       "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Stark Naked and Absolutely Live",
         "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
@@ -893,23 +929,7 @@
       "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Havana (Live)",
-        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 248572,
-      "name": "Havana - Live",
-      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
@@ -925,7 +945,23 @@
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Havana (Live)",
+        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 248572,
+      "name": "Havana - Live",
+      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Progress Live",
         "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
@@ -941,7 +977,7 @@
       "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live Friday The 13th",
         "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
@@ -957,7 +993,7 @@
       "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg"
@@ -973,7 +1009,7 @@
       "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Best Song Ever (From THIS IS US)",
         "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
@@ -989,23 +1025,7 @@
       "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "On the Road to Nashville (Live)",
-        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "A Little Respect - Live in Nashville",
-      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
@@ -1021,7 +1041,23 @@
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "On the Road to Nashville (Live)",
+        "url": "https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk"
+      },
+      "artists": [
+        {
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "A Little Respect - Live in Nashville",
+      "url": "https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
@@ -1037,7 +1073,7 @@
       "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "All of Me (Live)",
         "url": "https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2"
@@ -1053,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
@@ -1069,7 +1105,7 @@
       "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Pompeii / Come As You Are (MTV Unplugged)",
         "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
@@ -1085,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
         "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
@@ -1101,7 +1137,7 @@
       "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
@@ -1117,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "A New Day...Live In Las Vegas",
         "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
@@ -1133,7 +1169,7 @@
       "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
@@ -1149,7 +1185,7 @@
       "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "7 Years (Later) [Live]",
         "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
@@ -1165,7 +1201,7 @@
       "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Warwick Avenue (Live)",
         "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
@@ -1181,7 +1217,7 @@
       "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
@@ -1197,7 +1233,7 @@
       "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Soul Live",
         "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
@@ -1213,7 +1249,7 @@
       "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
@@ -1229,7 +1265,7 @@
       "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live \u00e0 Paris",
         "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
@@ -1245,7 +1281,7 @@
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Spiceworld (25th Anniversary)",
         "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
@@ -1261,7 +1297,7 @@
       "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
@@ -1277,7 +1313,7 @@
       "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "BADLANDS (Live From Webster Hall)",
         "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
@@ -1293,7 +1329,7 @@
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
@@ -1309,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0B71GPn23vB1BapkFfYlEp"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
         "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
@@ -1325,7 +1361,7 @@
       "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "New Rules (Live)",
         "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
@@ -1341,7 +1377,7 @@
       "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "The Rarities",
         "url": "https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0"
@@ -1357,7 +1393,7 @@
       "url": "https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Tina Live",
         "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
@@ -1373,7 +1409,7 @@
       "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Whitney Houston Live: Her Greatest Performances",
         "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
@@ -1389,43 +1425,7 @@
       "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "BADLANDS (Live From Webster Hall)",
-        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 197996,
-      "name": "Roman Holiday - Live From Webster Hall",
-      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Olivia's Live Hits",
-        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
-          "name": "The Sydney Orchestra",
-          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Physical - Live",
-      "url": "https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
@@ -1445,7 +1445,43 @@
       "url": "https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "BADLANDS (Live From Webster Hall)",
+        "url": "https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 197996,
+      "name": "Roman Holiday - Live From Webster Hall",
+      "url": "https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "The Sydney Orchestra",
+          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Physical - Live",
+      "url": "https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "How Can I Sleep With Your Voice In My Head",
         "url": "https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH"
@@ -1461,7 +1497,7 @@
       "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
@@ -1477,7 +1513,7 @@
       "url": "https://open.spotify.com/track/0XWBckKjEzcsC1Tf10TFno"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "LM5 - EP",
         "url": "https://open.spotify.com/album/4H9aW9bRNBV49fusgFUBGz"
@@ -1497,7 +1533,7 @@
       "url": "https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "The Confessions Tour",
         "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
@@ -1513,23 +1549,7 @@
       "url": "https://open.spotify.com/track/0JeP4JsmR8CzQY3anExYgQ"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
-        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 413776,
-      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
-      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Stadium Rockers",
         "url": "https://open.spotify.com/album/7agGSP1myDt3SSIdKUuT1y"
@@ -1545,7 +1565,23 @@
       "url": "https://open.spotify.com/track/7cRALp7nd7xwj75UAHx8Sr"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 413776,
+      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Spiceworld (25th Anniversary)",
         "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
@@ -1561,7 +1597,7 @@
       "url": "https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "Fanatic Live from Caesars Colosseum",
         "url": "https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC"
@@ -1577,23 +1613,23 @@
       "url": "https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Make You Feel My Love (Live at Hotel Cafe)",
-      "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
     },
     {
-      "added_at": "2023-08-18 04:01:00",
+      "added_at": "2023-09-01 18:59:58",
       "album": {
         "name": "The Confessions Tour",
         "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
@@ -1607,38 +1643,6 @@
       "duration_ms": 590120,
       "name": "Hung Up - Live",
       "url": "https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 312211,
-      "name": "Fastlove - Live",
-      "url": "https://open.spotify.com/track/2cM4093hKmkWTF0Rc5OdJa"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Viva Forever",
-        "url": "https://open.spotify.com/album/1opVmZV2FM8CTGpbTaepqJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 266418,
-      "name": "Say You'll Be There - Live From Abdi \u0130pek\u00e7i Arena, Istanbul, Turkey/1997",
-      "url": "https://open.spotify.com/track/05GA2KEnd9MysHPKJacrId"
     }
   ],
   "unique_name": "Pop Live",

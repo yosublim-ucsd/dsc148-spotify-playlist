@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked every week. \u2728 Cover: Cuco & Aleman",
+  "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked just for you. \u2728 Cover: Cuco & Aleman",
   "name": "Mixto",
   "tracks": [
     {
@@ -1005,6 +1005,28 @@
     },
     {
       "album": {
+        "name": "Besos Ricos",
+        "url": "https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187715,
+      "name": "Besos Ricos",
+      "url": "https://open.spotify.com/track/1AeVenKA9w42gepptaabsD"
+    },
+    {
+      "album": {
         "name": "best damn thing",
         "url": "https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5"
       },
@@ -1406,7 +1428,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 181413,
       "name": "Canto a la Imaginaci\u00f3n",
       "url": "https://open.spotify.com/track/3vhG3Y8ZZwJiaaUOTmXnhV"
@@ -6069,6 +6091,24 @@
     },
     {
       "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -9520,7 +9560,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 215974,
       "name": "VCR",
       "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"

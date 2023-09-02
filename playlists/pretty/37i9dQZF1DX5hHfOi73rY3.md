@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,103 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,201 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 27 | [Be Sharp Say Nowt](https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc) | 3:48 |
 | 28 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 |
 | 29 | [Chunky](https://open.spotify.com/track/5SB73InpxuEQ20qEWhOQFV) | [Format:B](https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux) | [Chunky](https://open.spotify.com/album/79oalwUgqtwuzWPNYDMEEH) | 2:38 |
-| 30 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
-| 31 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 |
+| 30 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 |
+| 31 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
 | 32 | [Time](https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:20 |
 | 33 | [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 |
 | 34 | [Something Special \- Original Mix](https://open.spotify.com/track/0PQ591KWqZcslQeph3BRs5) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Back In Flight School](https://open.spotify.com/album/6GgrlO0KZDDgZDyjRkGOAj) | 4:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 |
 | 50 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
 
-Snapshot ID: `MCwyMjc5MWZmMzdkMzdlMTExNWM2NDA4ZjI4NWVmOTBlYjFmYTg1NDYz`
+Snapshot ID: `MCw4ZjA0NTc4ZmM0MDMwMmU0Njk4M2FmZjFhMDgyNTU1ZTVmYjA2NThi`

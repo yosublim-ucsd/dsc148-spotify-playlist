@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-06",
-  "description": "La nueva generaci\u00f3n del Afrobeat con un toque latino. Rels B en portada  ",
-  "name": "calorcito afrobeat ",
+  "description": "La nueva ola del Afrobeats con un toque latino. Feid en portada  ",
+  "name": "calorcito afrobeats",
   "tracks": [
     {
       "album": {
@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "album": {
         "name": "Caluroso",
         "url": "https://open.spotify.com/album/6fzkQq1aMApqW5UWdJ9UTv"
       },
@@ -472,6 +494,24 @@
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "album": {
+        "name": "DESDE EL IPHONE",
+        "url": "https://open.spotify.com/album/57XyDqDWBjzOsyyXgUN4VC"
+      },
+      "artists": [
+        {
+          "name": "Nino Augustine",
+          "url": "https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128906,
+      "name": "DESDE EL IPHONE",
+      "url": "https://open.spotify.com/track/4Cf0UM9DGWCOWgwTnAZpIx"
     },
     {
       "album": {
@@ -961,6 +1001,46 @@
     },
     {
       "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132788,
+      "name": "La Que Yo Amo",
+      "url": "https://open.spotify.com/track/57G0Wqaly1Sdm4S5QL3i0w"
+    },
+    {
+      "album": {
+        "name": "Lagos",
+        "url": "https://open.spotify.com/album/4pDSiXX8F8BT8zwgWuaaiu"
+      },
+      "artists": [
+        {
+          "name": "Flori del Pino",
+          "url": "https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V"
+        },
+        {
+          "name": "Briills",
+          "url": "https://open.spotify.com/artist/5IV61MOkv5i5JK0F327AyS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136842,
+      "name": "Lagos",
+      "url": "https://open.spotify.com/track/6U4CdtoVCMKf4IWmzuwdJl"
+    },
+    {
+      "album": {
         "name": "Get Layd",
         "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
       },
@@ -1104,6 +1184,24 @@
       "duration_ms": 257368,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n"
+    },
+    {
+      "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/2rMC64D7fMYnbvb128n9fS"
+      },
+      "artists": [
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147003,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/1tCqYrrr3uaFW6SSBTlIXY"
     },
     {
       "album": {
@@ -1564,6 +1662,24 @@
       "duration_ms": 170803,
       "name": "Planta",
       "url": "https://open.spotify.com/track/6o8OWwhykrBl2MbpLJ0Nle"
+    },
+    {
+      "album": {
+        "name": "Por La Forma En Que Me Miras",
+        "url": "https://open.spotify.com/album/7y3u55UCDkR0Naaq2A0Xir"
+      },
+      "artists": [
+        {
+          "name": "Jhosy",
+          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193411,
+      "name": "Por La Forma En Que Me Miras",
+      "url": "https://open.spotify.com/track/4UfehNZcYmHX8ctXwiOB89"
     },
     {
       "album": {
@@ -2282,6 +2398,28 @@
       "duration_ms": 176750,
       "name": "TIEMPO",
       "url": "https://open.spotify.com/track/1edqC2vmpdQJeur3Qyn0qQ"
+    },
+    {
+      "album": {
+        "name": "Toke",
+        "url": "https://open.spotify.com/album/01DkGyi00AkLWBe2DNSoky"
+      },
+      "artists": [
+        {
+          "name": "Roazter",
+          "url": "https://open.spotify.com/artist/3hncPoEEkUNszgGGwjlxIa"
+        },
+        {
+          "name": "Mole",
+          "url": "https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Toke",
+      "url": "https://open.spotify.com/track/6PS1RodeppDBBDo4Y7Y5b9"
     },
     {
       "album": {

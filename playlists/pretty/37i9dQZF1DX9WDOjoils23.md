@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,690 likes - 35 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,699 likes - 35 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 34 | [Raat Chanani Maen Turan](https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 4:08 |
 | 35 | [Ae Athra Ishq Naeen Saun Denda](https://open.spotify.com/track/5gAL3TaMNhdPtbHuKKQ1zo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Ishq, Vol\. 60](https://open.spotify.com/album/12DmmUr9v0FeVDR8RaOXZM) | 15:25 |
 
-Snapshot ID: `MCwxMWRkYjdhNDNkNTkzZDUyOGI4YjY1YWMxYTY2N2M3YzU0NGY3ZDc2`
+Snapshot ID: `MCxjYTZhYzZmMjAzZDcwM2RmMDI3ZThmYWQwYzJhZGUzZjQwZDk2YjQw`

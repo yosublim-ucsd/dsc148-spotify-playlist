@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-228 songs - 14 hr 2 min
+229 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Banjo in the Hollow](https://open.spotify.com/track/3aJtHHAiq4HGM1FPtMDbLy) | [The Dillards](https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS) | [Back Porch Bluegrass](https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea) | 1:54 | 2021-12-03 | 2022-07-23 |
 | [Barnimal](https://open.spotify.com/track/50IXyYkgyLE16O6ohs4r4g) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Barnimal](https://open.spotify.com/album/4lkmYqnCy8FqImQMTnlO6o) | 2:23 | 2023-03-17 |  |
 | [Battersea Skillet Liquor](https://open.spotify.com/track/0Ca4WeIIiJrgapaPF1j2WK) | [Damien O'Kane](https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK), [Ron Block](https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ) | [Banjophony](https://open.spotify.com/album/24ml3GJq31D5xL5IqKENzH) | 4:17 | 2021-12-03 | 2022-10-16 |
-| [Battersea Skillet Liquor](https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F) | [Damien O'Kane](https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK), [Ron Block](https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ) | [Banjophony](https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW) | 4:17 | 2022-10-07 |  |
+| [Battersea Skillet Liquor](https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F) | [Damien O'Kane](https://open.spotify.com/artist/0rDGOgOmsA1itxFEhFfZCK), [Ron Block](https://open.spotify.com/artist/3f8ULbojWlnxQqju3KELZZ) | [Banjophony](https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW) | 4:17 | 2022-10-07 | 2023-09-02 |
 | [Because](https://open.spotify.com/track/7j3xgodkcgpvPTFzW5PD1b) | [DAVID GRISMAN QUINTET](https://open.spotify.com/artist/5Biyy105DovS7aMHiU1HRL) | [DGQ\-20](https://open.spotify.com/album/6mIdzt6CpkT7T4I3MsBHTW) | 3:09 | 2021-12-03 | 2022-07-20 |
 | [Big Bug Shuffle](https://open.spotify.com/track/5WVP8Xj7p7oDYaXNhM359r) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Russ Barenberg](https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD) | [Skip, Hop And Wobble](https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt) | 3:43 | 2021-12-03 | 2022-07-23 |
 | [Big Country \- Instrumental](https://open.spotify.com/track/7N3SAicdAPqwRXu7luvNl2) | [Mike Marshall](https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Uncommon Ritual](https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx) | 4:00 | 2021-12-03 |  |
@@ -138,6 +138,7 @@
 | [Missing Vassar](https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Kentucky Thunder](https://open.spotify.com/artist/7wYEs2F2dHz3VuIJdYqn7K) | [Instrumentals](https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ) | 4:25 | 2021-12-03 |  |
 | [Mississippi Sawyer](https://open.spotify.com/track/2dbYoWs0IsUVcz9OeaHJJW) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Mississippi Sawyer](https://open.spotify.com/album/2EjxC0BmdIoRkp4DbCCU1h) | 2:35 | 2021-12-03 | 2022-07-28 |
 | [Monroe's Hornpipe](https://open.spotify.com/track/0uVLFiXalgRPbVLLmt8FBO) | [The Bluegrass Album Band](https://open.spotify.com/artist/0n0pcmxYdOHk1fl5gvWGiU) | [The Bluegrass Album, Vol\. 6: Bluegrass Instrumentals](https://open.spotify.com/album/6n0tC8JJxY5xK3ewJf07ZD) | 3:00 | 2021-12-03 | 2022-07-23 |
+| [Moon in Motion 1](https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh), [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp) | [Moon in Motion 1](https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp) | 4:09 | 2023-09-01 |  |
 | [Moonbeam](https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp) | [Waterhouse](https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S) | [Moonbeam](https://open.spotify.com/album/1VTipkjGNb0kofaMblqkT2) | 3:04 | 2021-12-03 | 2023-07-07 |
 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 | 2021-12-03 |  |
 | [Mountains Quake](https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Leave Some Things Behind](https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd) | 2:01 | 2023-01-13 |  |

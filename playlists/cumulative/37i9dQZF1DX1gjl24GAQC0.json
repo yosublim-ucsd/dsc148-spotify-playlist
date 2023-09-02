@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover:\bVANNER) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: \bCRAVITY) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -1632,6 +1632,24 @@
       "duration_ms": 189226,
       "name": "Cheeky",
       "url": "https://open.spotify.com/track/5zAMY2u5sRYyd8wLjlbTep"
+    },
+    {
+      "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr"
     },
     {
       "album": {
@@ -7030,7 +7048,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 191826,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di"

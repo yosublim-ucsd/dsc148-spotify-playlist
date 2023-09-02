@@ -592,7 +592,7 @@
     {
       "album": {
         "name": "Rockdown",
-        "url": "https://open.spotify.com/album/6HOKssxsvisKWmkxE8eoX6"
+        "url": "https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8"
       },
       "artists": [
         {
@@ -607,6 +607,28 @@
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 148404,
+      "name": "35\u00b0C",
+      "url": "https://open.spotify.com/track/2JNDQGte1PNUZaxV8wp5MB"
+    },
+    {
+      "album": {
+        "name": "Rockdown",
+        "url": "https://open.spotify.com/album/6HOKssxsvisKWmkxE8eoX6"
+      },
+      "artists": [
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
       "duration_ms": 148404,
       "name": "35\u2103",
       "url": "https://open.spotify.com/track/3ajfJAsLfIdwH2rSav7aD5"
@@ -23522,7 +23544,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174222,
-      "name": "Keep Going Up (feat. Nelly Furtado & Justin Timberlake)",
+      "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
       "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
     },
     {
@@ -24254,6 +24276,24 @@
       "duration_ms": 154040,
       "name": "Last Days",
       "url": "https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg"
+    },
+    {
+      "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "album": {
@@ -29963,7 +30003,7 @@
     },
     {
       "album": {
-        "name": "Both Banks",
+        "name": "Both Banks - GQ REMIX EP",
         "url": "https://open.spotify.com/album/3DK9yg1gyazkD70e8gMkGN"
       },
       "artists": [
@@ -29972,16 +30012,16 @@
           "url": "https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp"
         },
         {
-          "name": "DJ Shoe",
-          "url": "https://open.spotify.com/artist/24GIU5UQqReGCr1OJsi0gl"
+          "name": "DJ GQ",
+          "url": "https://open.spotify.com/artist/5rlW5h3q9dTaNgRAk64RgZ"
+        },
+        {
+          "name": "DJ SCRATCH NICE",
+          "url": "https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY"
         },
         {
           "name": "COVAN",
           "url": "https://open.spotify.com/artist/1ujnYUV1P8PbLH2O1qpjeL"
-        },
-        {
-          "name": "DJ GQ",
-          "url": "https://open.spotify.com/artist/5rlW5h3q9dTaNgRAk64RgZ"
         }
       ],
       "date_added": "2023-08-31",

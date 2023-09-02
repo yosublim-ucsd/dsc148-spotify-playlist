@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192207,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
+    },
+    {
+      "album": {
         "name": "Sting",
         "url": "https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet"
       },
@@ -1605,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "End Of Us",
+        "url": "https://open.spotify.com/album/4zeUvrcjEQx4wv4phJSjVK"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "End Of Us",
+      "url": "https://open.spotify.com/track/2SYl3bvRgD7lLWh7r5I4Cy"
+    },
+    {
+      "album": {
         "name": "All Rise (Deluxe)",
         "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
       },
@@ -1728,7 +1764,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 174539,
       "name": "Fast Times",
       "url": "https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4"
@@ -3511,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "maybe i'm the problem now",
+        "url": "https://open.spotify.com/album/1nwXyhEXX10bzlqlryz9ZC"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "maybe i'm the problem now",
+      "url": "https://open.spotify.com/track/7lLkBTZRJrfGkZ6AMmjVD9"
+    },
+    {
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -4968,7 +5022,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
@@ -5336,7 +5390,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163821,
       "name": "Thinking Bout Ya",
       "url": "https://open.spotify.com/track/5XJJxc2t9gUsyi80KCcs4M"

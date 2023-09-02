@@ -1151,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "MADAME",
+        "url": "https://open.spotify.com/album/6nwJDmta15pOlC1Ne7wfrW"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "M.E.R.L.O.T",
+          "url": "https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148628,
+      "name": "MADAME",
+      "url": "https://open.spotify.com/track/53xkDo7dg0zC4QKb2wuwtz"
+    },
+    {
+      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/0SR5JsqwgUC0QxrR1dzBVO"
       },

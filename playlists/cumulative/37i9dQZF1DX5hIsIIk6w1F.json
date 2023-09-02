@@ -397,6 +397,32 @@
     },
     {
       "album": {
+        "name": "Aki Voy a Estar :)",
+        "url": "https://open.spotify.com/album/6Aed30bK93y3Ev64gYENrL"
+      },
+      "artists": [
+        {
+          "name": "Santi Valencia",
+          "url": "https://open.spotify.com/artist/4Cf4Xv9y3CV23K63A1p8MX"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132942,
+      "name": "Aki Voy a Estar :)",
+      "url": "https://open.spotify.com/track/4rQsIXQcv99uTxjxSVpGoh"
+    },
+    {
+      "album": {
         "name": "AMIGA DATE CUENTA",
         "url": "https://open.spotify.com/album/15e00RGSgvmgPfovIgtCAa"
       },
@@ -941,6 +967,28 @@
     },
     {
       "album": {
+        "name": "Bbsita",
+        "url": "https://open.spotify.com/album/5okTnA5DUdqOZJYXN3jfh6"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "ITHAN NY",
+          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160875,
+      "name": "Bbsita",
+      "url": "https://open.spotify.com/track/6vzVzatgmgrgPvMEsC5YrO"
+    },
+    {
+      "album": {
         "name": "Be Con Be",
         "url": "https://open.spotify.com/album/1ATLAeJxPEB9aqqNGO5JgL"
       },
@@ -1102,7 +1150,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 156794,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2gsBqAZ2RMeox4gzhZCFSI"
@@ -2192,7 +2240,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 209361,
       "name": "DEJA TU SHOW",
       "url": "https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0"
@@ -8110,7 +8158,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179190,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/0DfOXlt6uochARULQqBajf"
@@ -9526,6 +9574,28 @@
       "duration_ms": 227129,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/4M2zTsuNHFkxg4CNafKclc"
+    },
+    {
+      "album": {
+        "name": "SQ LITO",
+        "url": "https://open.spotify.com/album/05e97jCxn4v6Ljq7uirzHk"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199654,
+      "name": "SQ LITO",
+      "url": "https://open.spotify.com/track/6xGn94pu3u5xDpEDbrbDbn"
     },
     {
       "album": {

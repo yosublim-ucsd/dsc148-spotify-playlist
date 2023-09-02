@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 162870,
       "name": "About U",
       "url": "https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj"
@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
       "url": "https://open.spotify.com/track/5iqJxUWNrhrQvsA7bIXede"
@@ -3096,9 +3096,9 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 230680,
-      "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
+      "name": "I WANT YOU BUT YOU'LL NEVER KNOW... (feat. DRAM and Alex Isley)",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
     },
     {
@@ -4012,6 +4012,24 @@
       "duration_ms": 143000,
       "name": "Love&Adoration",
       "url": "https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV"
+    },
+    {
+      "album": {
+        "name": "Loveloca",
+        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Loveloca",
+      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
     },
     {
       "album": {

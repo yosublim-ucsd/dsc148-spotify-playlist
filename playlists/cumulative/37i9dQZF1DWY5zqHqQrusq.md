@@ -4,14 +4,14 @@
 
 > Chill, take a long walk and clear your mind
 
-58 songs - 3 hr 17 min
+59 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alive Again](https://open.spotify.com/track/3wrUpaoR6jm1Z99kxuUyGk) | [Sandra Solit](https://open.spotify.com/artist/040yz8zntFdRJqeOynxEBl) | [Alive Again](https://open.spotify.com/album/6q4Lu34c463AMK6sV4IgPG) | 3:36 | 2022-11-11 |  |
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2022-11-11 |  |
 | [Asali](https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Love Language](https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa) | 3:03 | 2022-11-11 |  |
-| [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 | 2022-11-11 |  |
+| [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 | 2022-11-11 | 2023-09-02 |
 | [Bright Outside](https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/66dHkOodHx6Bnm566qPrwx) | 2:12 | 2022-11-11 | 2023-04-16 |
 | [Bright Outside](https://open.spotify.com/track/4cuhSC70d2pVMkgiQXQNd9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/0rTeZFpcIKYjfp3sMLsiDM) | 2:12 | 2022-11-11 |  |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-11-11 |  |
@@ -65,6 +65,7 @@
 | [Turn It Off](https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [TURN IT OFF](https://open.spotify.com/album/4ylxBzU0yxcLNsDGkBQnVS) | 3:42 | 2022-11-11 |  |
 | [Uko Poa](https://open.spotify.com/track/1DJgI3D1o5k4dnktOJFG2e) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Short Versions, Long Stories](https://open.spotify.com/album/05QYtF6561A9EfIMipAFcS) | 1:36 | 2022-11-11 |  |
 | [Wait](https://open.spotify.com/track/7zbQtW2Xb7NADsW6Yw6dIM) | [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Shorts \-EP](https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu) | 2:25 | 2022-11-11 |  |
+| [Who I Am](https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Konke](https://open.spotify.com/album/443uREi4EtPJTxpKgGJVG4) | 2:41 | 2023-09-01 |  |
 | [Wild Trip](https://open.spotify.com/track/5LH9sGAsEtE2ysKdKG7ZRh) | [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx), [MacKinlay](https://open.spotify.com/artist/3TpmxDMVmH67u6PfT0Wz7f) | [Wild Trip](https://open.spotify.com/album/3evi4QPow2u205Fx8MyW0I) | 4:18 | 2022-11-11 |  |
 
 \*This playlist was first scraped on 2022-11-16. Prior content cannot be recovered.

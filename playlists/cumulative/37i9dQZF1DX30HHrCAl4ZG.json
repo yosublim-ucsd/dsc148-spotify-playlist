@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All new indie rock. Featuring new music by Bakar.",
+  "description": "The best indie rock right now. Featuring new music by Dominic Fike. ",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -13303,6 +13303,24 @@
     },
     {
       "album": {
+        "name": "No Alarm",
+        "url": "https://open.spotify.com/album/3RaDZbG5MjzIy51v5Fd9F1"
+      },
+      "artists": [
+        {
+          "name": "Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "No Alarm",
+      "url": "https://open.spotify.com/track/1NfpDQQerZvnm1NF1p4V4p"
+    },
+    {
+      "album": {
         "name": "Don't Fuck With Vol. 01",
         "url": "https://open.spotify.com/album/6UfRphyaQTsZAYnV5zklXR"
       },
@@ -18279,6 +18297,24 @@
     },
     {
       "album": {
+        "name": "The Freedom to Fuck Off",
+        "url": "https://open.spotify.com/album/2vym6dm3afTUtwAj48681k"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242906,
+      "name": "The Freedom to Fuck Off",
+      "url": "https://open.spotify.com/track/2DTRZKLOfm8BQOdNljrF7K"
+    },
+    {
+      "album": {
         "name": "The Kiss Of Venus (Dominic Fike)",
         "url": "https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv"
       },
@@ -21190,6 +21226,24 @@
       "duration_ms": 258213,
       "name": "Zum Herz",
       "url": "https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4"
+    },
+    {
+      "album": {
+        "name": "zzz",
+        "url": "https://open.spotify.com/album/4gklfgELi4bE9MhaPe9PDF"
+      },
+      "artists": [
+        {
+          "name": "60 juno",
+          "url": "https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "zzz",
+      "url": "https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG"
     },
     {
       "album": {

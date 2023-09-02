@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,897 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,006 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 50 | [Rendezvous \(with Miraa May\)](https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Rendezvous \(with Miraa May\)](https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios) | 2:30 |
 | 51 | [Believe \(feat\. Fredwave & Jeshi\)](https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Believe \(feat\. Fredwave & Jeshi\)](https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL) | 3:28 |
 | 52 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 |
-| 53 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 |
-| 54 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 |
+| 53 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 |
+| 54 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 |
 | 55 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 | 56 | [People](https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [People](https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV) | 2:54 |
 | 57 | [FVR105 \- p\-rallel Remix](https://open.spotify.com/track/5F4jNQAtcorOBctGgpcjNh) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Bone Slim](https://open.spotify.com/artist/5VoreVetRqMEFui6KpGdt2), [Lorenzorsv](https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FVR105 \(p\-rallel Remix\)](https://open.spotify.com/album/6LMCxZc1m2uTJ1ZSNwgjYz) | 3:13 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 60 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
 | 61 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
 | 62 | [It's Nice to Be Alive](https://open.spotify.com/track/2vVMA6goXUgJSKcnnQrgin) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g) | 3:25 |
-| 63 | [Boy Blue](https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Pleasure \(Now & Forever\)](https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn) | 4:06 |
-| 64 | [Deep Blue](https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY) | 3:16 |
+| 63 | [Deep Blue](https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY) | 3:16 |
+| 64 | [Boy Blue](https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Pleasure \(Now & Forever\)](https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn) | 4:06 |
 | 65 | [Above](https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Above](https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv) | 3:05 |
 | 66 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
 | 67 | [Gravitate](https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Gravitate](https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb) | 5:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Black Qualls \- Single Version](https://open.spotify.com/track/2dh4Ff65vPJmRkc4Xw2K4w) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM) | [Black Qualls \(Single Version\)](https://open.spotify.com/album/2DW7xZRqOhta0mMUKAWs3V) | 3:16 |
 | 70 | [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 |
 
-Snapshot ID: `MCw4NmE1YWQ4OTZmZTU1MmYwNjM5MzU1MzgxMmFhN2EzMDBhOTdjMDU4`
+Snapshot ID: `MCwwMjU3MDZiMDA4MDk4YjhlMGRlZjE0ZDMzN2ZlNGZlMmQ2NDRmYTZj`

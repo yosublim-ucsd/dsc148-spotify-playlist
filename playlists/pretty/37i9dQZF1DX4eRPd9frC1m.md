@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > DIESEL celebrates his GORILLA WARFARE album release by taking over Hype with his favorite aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,573,685 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,573,914 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 |
 | 75 | [Wake Up](https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Wake Up](https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw) | 5:16 |
 
-Snapshot ID: `MCwwYTM3OWQxMzQ2Nzc4NWVjMjQ1NjNmNTUyN2IzOGU2M2JlMmI3MGM1`
+Snapshot ID: `MCw1Y2RiNmI3MGJjOGQ5ZmJiOWY2NGM0NDcyY2Q3YzNlYmU3NTY1YjQ2`

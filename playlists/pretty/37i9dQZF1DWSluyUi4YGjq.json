@@ -1,13 +1,45 @@
 {
-  "description": "Gazing at pedals, soaring celestially high. quannnic on cover.",
-  "num_followers": 108877,
+  "description": "Gazing at pedals, soaring celestially high. Slowdive on cover.",
+  "num_followers": 109217,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2VkNTIwMmYxZDhhZmM3ZjM3NzVkNWIxYzRjNzk3YzgwYzQxMDNh",
+  "snapshot_id": "MCxkYmExODk3Y2EzNjQ2NDM1ZDUxMmZhMzMyMzcxYzEyYWE1MTU3MzA4",
   "tracks": [
+    {
+      "added_at": "2023-09-01 13:51:56",
+      "album": {
+        "name": "alife",
+        "url": "https://open.spotify.com/album/19OeyMtNFdpRQIi6lipkdm"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 273492,
+      "name": "alife",
+      "url": "https://open.spotify.com/track/4eo4ZeP3LOjUwnQeUKM2Wu"
+    },
+    {
+      "added_at": "2023-05-25 03:01:47",
+      "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
+    },
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
@@ -25,10 +57,10 @@
       "url": "https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1"
     },
     {
-      "added_at": "2023-08-11 16:31:35",
+      "added_at": "2023-09-01 13:51:56",
       "album": {
-        "name": "highschool",
-        "url": "https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F"
+        "name": "forest green",
+        "url": "https://open.spotify.com/album/10avrb3XzKDttFJte6w2gR"
       },
       "artists": [
         {
@@ -36,41 +68,9 @@
           "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
         }
       ],
-      "duration_ms": 207177,
-      "name": "highschool",
-      "url": "https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB"
-    },
-    {
-      "added_at": "2023-08-23 04:00:00",
-      "album": {
-        "name": "Lips",
-        "url": "https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        }
-      ],
-      "duration_ms": 310773,
-      "name": "Lips",
-      "url": "https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "brainrot",
-        "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 132111,
-      "name": "brainrot",
-      "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+      "duration_ms": 207102,
+      "name": "forest green",
+      "url": "https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO"
     },
     {
       "added_at": "2023-07-19 14:26:49",
@@ -89,20 +89,52 @@
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
     },
     {
-      "added_at": "2023-05-25 03:01:47",
+      "added_at": "2023-09-01 13:51:56",
       "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
       },
       "artists": [
         {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
         }
       ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
+      "duration_ms": 168221,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "brainrot",
+        "url": "https://open.spotify.com/album/1b7N3MUAHOq7vsjelQ8VDj"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 132111,
+      "name": "brainrot",
+      "url": "https://open.spotify.com/track/0YRO8UVYzlPLBzt9UbsZ4L"
+    },
+    {
+      "added_at": "2023-09-01 13:51:56",
+      "album": {
+        "name": "iwanttttt222",
+        "url": "https://open.spotify.com/album/2lcYvb7m5KvefTPg2aSQzb"
+      },
+      "artists": [
+        {
+          "name": "93FEETOFSMOKE",
+          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "iwanttttt222",
+      "url": "https://open.spotify.com/track/2B6DUfDiyUjmS3n6r3JFpe"
     },
     {
       "added_at": "2023-08-11 16:31:35",
@@ -137,6 +169,90 @@
       "url": "https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp"
     },
     {
+      "added_at": "2023-09-01 13:51:56",
+      "album": {
+        "name": "its you",
+        "url": "https://open.spotify.com/album/4UYnEe3BwrggAaH5Qs9qje"
+      },
+      "artists": [
+        {
+          "name": "sodistilled",
+          "url": "https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "its you",
+      "url": "https://open.spotify.com/track/1Rgb55W0TNZThWOW7Qby8a"
+    },
+    {
+      "added_at": "2023-08-23 04:00:00",
+      "album": {
+        "name": "Lips",
+        "url": "https://open.spotify.com/album/7Kvgk3FSRAKFKVZrvhNjmy"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 310773,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/05SEi2EuY93D6UHHUSNZGc"
+    },
+    {
+      "added_at": "2023-08-11 16:31:35",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 268122,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4"
+    },
+    {
+      "added_at": "2023-05-09 01:15:11",
+      "album": {
+        "name": "Into You / Void In Blue",
+        "url": "https://open.spotify.com/album/5C3EWz8nPYZQ0zxbDt750r"
+      },
+      "artists": [
+        {
+          "name": "Glare",
+          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
+        }
+      ],
+      "duration_ms": 216170,
+      "name": "Blank - Remastered",
+      "url": "https://open.spotify.com/track/7xXFPKo0us7h8kHCKV9S9B"
+    },
+    {
+      "added_at": "2023-09-01 13:51:56",
+      "album": {
+        "name": "ABOUTYOU",
+        "url": "https://open.spotify.com/album/41cisIqeCEVTKl3jJgXzd6"
+      },
+      "artists": [
+        {
+          "name": "YOUNGX777",
+          "url": "https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh"
+        },
+        {
+          "name": "betterluckmason",
+          "url": "https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz"
+        }
+      ],
+      "duration_ms": 123807,
+      "name": "ABOUTYOU",
+      "url": "https://open.spotify.com/track/7FkqDr0d8OSXfRT8vVjKEk"
+    },
+    {
       "added_at": "2023-01-12 03:12:54",
       "album": {
         "name": "pushing daisies",
@@ -169,22 +285,6 @@
       "url": "https://open.spotify.com/track/18jxW8sLv8VwBAZJWKOez7"
     },
     {
-      "added_at": "2023-05-09 01:15:11",
-      "album": {
-        "name": "Into You / Void In Blue",
-        "url": "https://open.spotify.com/album/5C3EWz8nPYZQ0zxbDt750r"
-      },
-      "artists": [
-        {
-          "name": "Glare",
-          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
-        }
-      ],
-      "duration_ms": 216170,
-      "name": "Blank - Remastered",
-      "url": "https://open.spotify.com/track/7xXFPKo0us7h8kHCKV9S9B"
-    },
-    {
       "added_at": "2023-08-04 04:01:00",
       "album": {
         "name": "afraid",
@@ -199,22 +299,6 @@
       "duration_ms": 161748,
       "name": "afraid",
       "url": "https://open.spotify.com/track/481A0KvGKhzGsQHM1RlODQ"
-    },
-    {
-      "added_at": "2023-08-11 16:31:35",
-      "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/3Bdi9ZTTSMOAZFvRIny7xp"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 268122,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/55stf0i4B9KxBNfasksfx4"
     },
     {
       "added_at": "2023-08-11 16:31:35",
@@ -247,6 +331,22 @@
       "duration_ms": 232537,
       "name": "skin in the game",
       "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
+    },
+    {
+      "added_at": "2023-09-01 13:51:56",
+      "album": {
+        "name": "Slide Back",
+        "url": "https://open.spotify.com/album/3CvQz6P3BnFbPjOQa7cxQV"
+      },
+      "artists": [
+        {
+          "name": "Phantom Youth",
+          "url": "https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Slide Back",
+      "url": "https://open.spotify.com/track/4C2nwt9F6B0T1HMBzOjrhV"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -295,22 +395,6 @@
       "duration_ms": 203294,
       "name": "life imitates life",
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "phantasea pharm",
-        "url": "https://open.spotify.com/album/4N11sevcaIze3Q6xG6wIfL"
-      },
-      "artists": [
-        {
-          "name": "cumgirl8",
-          "url": "https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6"
-        }
-      ],
-      "duration_ms": 240716,
-      "name": "dead pixels",
-      "url": "https://open.spotify.com/track/0YxJXh7N2N5gJdmsRlEFX4"
     },
     {
       "added_at": "2023-07-26 17:08:40",
@@ -523,26 +607,6 @@
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {
-        "name": "Seafoam Walls on Audiotree Live",
-        "url": "https://open.spotify.com/album/0ZDABzfMWnxiBxem8S1Eac"
-      },
-      "artists": [
-        {
-          "name": "Seafoam Walls",
-          "url": "https://open.spotify.com/artist/38sXpZuO83ogEnlGr3zC90"
-        },
-        {
-          "name": "Audiotree",
-          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
-        }
-      ],
-      "duration_ms": 281698,
-      "name": "You Can't Have Your Cake and Ego Too (Happy Birthday) - Audiotree Live version",
-      "url": "https://open.spotify.com/track/3uF3pwjo99lnmOcFy3Ve1w"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
         "name": "Scapa Flow",
         "url": "https://open.spotify.com/album/4aFQWkk0HOEz3zjxzj207N"
       },
@@ -621,22 +685,6 @@
       "url": "https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Wait to Pleasure (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2WSCMIIjNRdYTGvko0E6xS"
-      },
-      "artists": [
-        {
-          "name": "No Joy",
-          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
-        }
-      ],
-      "duration_ms": 369278,
-      "name": "Beauty - Bonus Track",
-      "url": "https://open.spotify.com/track/3uROaybnOXpcvQrv47ChcN"
-    },
-    {
       "added_at": "2023-07-26 16:09:21",
       "album": {
         "name": "daze",
@@ -651,22 +699,6 @@
       "duration_ms": 181333,
       "name": "daze",
       "url": "https://open.spotify.com/track/66TIegJdKMYXuYSxaPIR4A"
-    },
-    {
-      "added_at": "2023-06-20 17:08:59",
-      "album": {
-        "name": "kisses",
-        "url": "https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 237434,
-      "name": "kisses",
-      "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -765,22 +797,6 @@
       "url": "https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu"
     },
     {
-      "added_at": "2023-07-17 18:56:29",
-      "album": {
-        "name": "An Object In Motion",
-        "url": "https://open.spotify.com/album/3mTGLl8U9ZyNA1CnbHISgD"
-      },
-      "artists": [
-        {
-          "name": "Drab Majesty",
-          "url": "https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO"
-        }
-      ],
-      "duration_ms": 362523,
-      "name": "The Skin And The Glove",
-      "url": "https://open.spotify.com/track/5OWzC2szdxlxz1Pbx4Lj9n"
-    },
-    {
       "added_at": "2023-04-14 23:09:55",
       "album": {
         "name": "Dreamer",
@@ -843,26 +859,6 @@
       "duration_ms": 147716,
       "name": "do you remember",
       "url": "https://open.spotify.com/track/6KJhZ4BtNLf3CltLYF6iaT"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "opulence",
-        "url": "https://open.spotify.com/album/4unvyQIFGrxef7XfP8LTwA"
-      },
-      "artists": [
-        {
-          "name": "1o",
-          "url": "https://open.spotify.com/artist/3QV5J8rTggkI5nDFTX4tRh"
-        },
-        {
-          "name": "95TOYO",
-          "url": "https://open.spotify.com/artist/2Eqs4USh38cpKuxYBcvO2Z"
-        }
-      ],
-      "duration_ms": 197903,
-      "name": "feel around",
-      "url": "https://open.spotify.com/track/3hyYSTIJ01w3FfJNymTtlN"
     },
     {
       "added_at": "2023-05-09 01:15:11",
@@ -1635,22 +1631,6 @@
       "duration_ms": 152760,
       "name": "Sour Punch",
       "url": "https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD"
-    },
-    {
-      "added_at": "2023-01-12 03:08:14",
-      "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl"
-      },
-      "artists": [
-        {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-        }
-      ],
-      "duration_ms": 267491,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp"
     }
   ],
   "unique_name": "Shoegaze Now",

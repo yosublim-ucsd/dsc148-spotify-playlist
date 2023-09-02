@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Silent Planet
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,695 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,861 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 66 | [Talk to Me](https://open.spotify.com/track/4QOuEQBmCJJJhYTkrE5Zy2) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Talk to Me](https://open.spotify.com/album/78jDD0o4blFWZTpo9tHWoh) | 3:16 |
 | 67 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 |
 | 68 | [My Everything](https://open.spotify.com/track/1Zsy3xy9TvYELEGg1js4yw) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:53 |
-| 69 | [Silver Bullet](https://open.spotify.com/track/0wqeXCzidJo3h8jG01OMoT) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/1syKhS52gQ9bxzdZlN9IOC) | 3:13 |
+| 69 | [Silver Bullet](https://open.spotify.com/track/60bdGD4lCqGQJFR3wRtFlJ) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/2uOLiz6dTIJleJI1IyClll) | 3:13 |
 | 70 | [Backs Against The Wall](https://open.spotify.com/track/6NYw02xyrpx1a1IrojCTjv) | [Dead Like Juliet](https://open.spotify.com/artist/3C4EFbyH1KqzTt3gcF0tor) | [Stand Defiant](https://open.spotify.com/album/7vA92vIHNCcJHyl4SY4sZc) | 3:39 |
 | 71 | [Negative](https://open.spotify.com/track/77VOSQS7TnAd07ZtUTtHry) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Negative](https://open.spotify.com/album/0jXvfiBh58VrpCm1fy0ONH) | 3:04 |
 | 72 | [A.D.D](https://open.spotify.com/track/7v0Pll0A9YnsiyYpzIRXDy) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [ABEYANCE](https://open.spotify.com/album/3xfgmxlu04MqGcp3b0APBH) | 3:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 84 | [NEVERBLOOM](https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x) | [DEADSKIN](https://open.spotify.com/artist/4a4jP87ETErMj9iUJHI507) | [NEVERBLOOM](https://open.spotify.com/album/7GxPF1osJdbgpN9TYn6HEi) | 4:10 |
 | 85 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 
-Snapshot ID: `MCxhYWE2ZTZjMThiNGI1NDkyMTIxMjcxMjNhMjBlMzg3ZTU3YWIyM2Vk`
+Snapshot ID: `MCxhMWZkYWNlZTBlMjdjMzhlZWVlYTAwOWRlM2RlZGRiMzkxOGIyZDVk`

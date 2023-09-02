@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Smooth joints. Cover: Charlotte Day Wilson, Snoh Aalegra",
+  "description": "Smooth joints. Cover: Jorja Smith",
   "name": "BUTTER",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 205813,
       "name": "Advantage",
       "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
@@ -490,10 +490,40 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 141555,
       "name": "Again",
       "url": "https://open.spotify.com/track/47cZOrEp9js0X3E6tQt5b4"
+    },
+    {
+      "album": {
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/7yMDpRZXhpBEtyOiijp5dF"
+      },
+      "artists": [
+        {
+          "name": "Wajatta",
+          "url": "https://open.spotify.com/artist/0Yh5vHNrVsgQ9UEcj8Rqss"
+        },
+        {
+          "name": "John Tejada",
+          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        },
+        {
+          "name": "March Adstrum",
+          "url": "https://open.spotify.com/artist/17QXSCKQaFewEbnWkBAy6T"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/6x7R7NFpStoExYmIGnvpbN"
     },
     {
       "album": {
@@ -690,6 +720,24 @@
       "duration_ms": 145346,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0qK81UQieeWpsCPFLvHNWO"
+    },
+    {
+      "album": {
+        "name": "All That It Takes",
+        "url": "https://open.spotify.com/album/3wa9fWGjyNivpUSjuZQyo3"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210100,
+      "name": "All That It Takes",
+      "url": "https://open.spotify.com/track/1W6VVJIEWhWZP6E0e6zNX8"
     },
     {
       "album": {
@@ -1632,7 +1680,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186540,
       "name": "Be My Summer",
       "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
@@ -2336,6 +2384,28 @@
       "duration_ms": 153237,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/3XOfn7YTzgGE6ZncyxNVyv"
+    },
+    {
+      "album": {
+        "name": "Blue Voyage",
+        "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "REIA",
+          "url": "https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254080,
+      "name": "Blue Voyage",
+      "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
     },
     {
       "album": {
@@ -3075,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "Caught Me Running",
+        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194906,
+      "name": "Caught Me Running",
+      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
+    },
+    {
+      "album": {
         "name": "We Go Again",
         "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
       },
@@ -3738,7 +3826,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
@@ -3890,7 +3978,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 141611,
       "name": "crying through my teeth - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7"
@@ -5409,6 +5497,24 @@
     },
     {
       "album": {
+        "name": "Falling or flying",
+        "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
+    },
+    {
+      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/09LkmkPDgqObq6mmmEbXQQ"
       },
@@ -5696,7 +5802,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 247915,
       "name": "Feelings Don't Feel (feat. Mick Jenkins)",
       "url": "https://open.spotify.com/track/4XghGOKbaaXArMGfHPMM3V"
@@ -6356,7 +6462,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 216466,
       "name": "Forever In A Song",
       "url": "https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ"
@@ -7328,7 +7434,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 159933,
       "name": "Got To Be Good",
       "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
@@ -8894,10 +9000,28 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 241932,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS"
+    },
+    {
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1vt7X7XyjmXidzZqmL8Sz2"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153851,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5K0kxnRaObm0I8ocGBE0pA"
     },
     {
       "album": {
@@ -9928,7 +10052,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
@@ -10586,7 +10710,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 222457,
       "name": "Mango Butter",
       "url": "https://open.spotify.com/track/2biRwgdbRj553k78fgoz86"
@@ -11638,7 +11762,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184385,
       "name": "Naked - Feat. Leven Kali",
       "url": "https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU"
@@ -11780,7 +11904,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173226,
       "name": "New Potential",
       "url": "https://open.spotify.com/track/1wyuwXGn0gPzCPxiPDmNHc"
@@ -12374,7 +12498,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 315733,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/5rebri0zyAov1vW9faM3wy"
@@ -12868,6 +12992,24 @@
       "duration_ms": 152070,
       "name": "Palace - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3jrgL6no3hHPkuFwg9FcOa"
+    },
+    {
+      "album": {
+        "name": "Palmwine Riddim",
+        "url": "https://open.spotify.com/album/4bZ9chhQU2vfLjEqtA5EPw"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Palmwine Riddim",
+      "url": "https://open.spotify.com/track/1GjKddJU8jWhigwtocBith"
     },
     {
       "album": {
@@ -16092,7 +16234,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186130,
       "name": "Strawberry Skies",
       "url": "https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC"
@@ -16636,7 +16778,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 359851,
       "name": "Tank And The Bangas (feat. Rapsody, Kota the Friend, Orleans Big, Dee-1, Alex Isley) - Remix",
       "url": "https://open.spotify.com/track/3uUH1IlD2e2UWgVVUII9KS"
@@ -17172,6 +17314,28 @@
       "duration_ms": 185142,
       "name": "The Same",
       "url": "https://open.spotify.com/track/7cd8udHR0TP4MDe3p0uNOF"
+    },
+    {
+      "album": {
+        "name": "The Scoop",
+        "url": "https://open.spotify.com/album/5FXBcLDHhBdf7l4p1NGTyX"
+      },
+      "artists": [
+        {
+          "name": "The Oscillators",
+          "url": "https://open.spotify.com/artist/3Cj6tmijjMrk6aXKeaZDeQ"
+        },
+        {
+          "name": "Golden Rules",
+          "url": "https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "The Scoop",
+      "url": "https://open.spotify.com/track/2lxVLpDLvgUhBYK7A7GcM8"
     },
     {
       "album": {
@@ -17724,6 +17888,24 @@
       "duration_ms": 230739,
       "name": "Tony Sendo",
       "url": "https://open.spotify.com/track/4PVO1lMwWCeEFliqd1KEYs"
+    },
+    {
+      "album": {
+        "name": "Too Far Gone",
+        "url": "https://open.spotify.com/album/4LF1dh1JpPXG3s0qMDKz8M"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298666,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/0MfBK6khABMHCzIh5JkqJq"
     },
     {
       "album": {
@@ -18792,7 +18974,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 183786,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
@@ -19623,6 +19805,28 @@
     },
     {
       "album": {
+        "name": "You Thought (feat. Janelle Mon\u00e1e)",
+        "url": "https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "You Thought (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
+    },
+    {
+      "album": {
         "name": "Your New Girl",
         "url": "https://open.spotify.com/album/0hht2so1IZLMXveLLX1NaU"
       },
@@ -19652,7 +19856,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 250002,
       "name": "Zenzero",
       "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"

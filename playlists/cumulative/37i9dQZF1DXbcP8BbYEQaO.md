@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-560 songs - 1 day 7 hr 33 min
+562 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Good Nights \(feat\. Mascolo\)](https://open.spotify.com/track/08Kj0lvbsqAxzeUOBYZRL6) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [Life of a Wallflower, Vol\. 1](https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2) | 2:45 | 2021-06-26 | 2021-11-16 |
 | [Good Time \- Bright Light Bright Light Remix](https://open.spotify.com/track/4YAmOTejshVDYM2kaVJzmK) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [THEIR VERSIONS](https://open.spotify.com/album/6j6E8QjZqtdM4ts263uEB6) | 4:59 | 2023-01-13 | 2023-01-21 |
 | [Goodbye](https://open.spotify.com/track/7ugxl0JmzLzfKQwzcdyWcr) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Goodbye](https://open.spotify.com/album/7ucPVCRtolBzcgcGW3WD5g) | 2:48 | 2021-07-04 | 2022-01-22 |
-| [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 | 2023-05-26 |  |
+| [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 | 2023-05-26 | 2023-09-02 |
 | [Growing on Me](https://open.spotify.com/track/503a5QlhcxNE79QYPspRGh) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [The Kick](https://open.spotify.com/album/2IXCvUDkW26YzxCizZ9b6n) | 3:09 | 2022-04-16 | 2022-05-20 |
 | [Hallucinogenics \- Japanese Wallpaper & Winona Oak Remix](https://open.spotify.com/track/1AEpQvwq5ChyCIKF7kZK5F) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Hallucinogenics \(Japanese Wallpaper & Winona Oak Remix\)](https://open.spotify.com/album/05CbF1IuykrdARnwteDJh8) | 3:40 | 2020-11-18 | 2021-07-10 |
 | [Handstand](https://open.spotify.com/track/6fcZVY3WjwKxVKlKFu84rF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:25 | 2023-03-10 | 2023-07-08 |
@@ -422,7 +422,7 @@
 | [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 | 2020-10-13\* | 2021-10-16 |
 | [Same Room](https://open.spotify.com/track/48yUhAZGJb5WGSclZK1RAF) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Same Room](https://open.spotify.com/album/4Du5FOKBRQoDJHt2fHU4vI) | 3:53 | 2020-10-13\* | 2021-06-19 |
 | [Saturday Nights](https://open.spotify.com/track/7vGGAJBkHKxKtOnGjQduDV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/4UNwL1B7JoymNUiTFJa52B) | 3:29 | 2020-10-13\* | 2021-11-19 |
-| [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 | 2022-04-16 |  |
+| [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 | 2022-04-16 | 2023-09-02 |
 | [Save Me](https://open.spotify.com/track/0B4Jl6HsG9hS3Q2vOfV9Kf) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/0aYqbPXUoilLlYD7GZVvhf) | 3:18 | 2022-04-08 | 2022-08-30 |
 | [Saw You In a Dream](https://open.spotify.com/track/6XwfbweA3ppZC6sI6GzC1G) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In a Dream](https://open.spotify.com/album/1qHy2NzNvx582iAqkCk7Uu) | 3:28 | 2020-10-13\* | 2021-06-19 |
 | [Say You're In Love](https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Say You're In Love](https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL) | 4:00 | 2021-10-02 | 2022-10-19 |
@@ -481,6 +481,7 @@
 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 | 2021-10-16 | 2022-12-10 |
 | [temporary](https://open.spotify.com/track/2UZ23yylRr0sZKZAhhWW6b) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [temporary](https://open.spotify.com/album/1XrHmJ63bL7Rhnn6RNIA2d) | 3:12 | 2023-01-20 | 2023-02-18 |
 | [Tennis Club](https://open.spotify.com/track/2I4QyfxbaYASskhchbxsDw) | [Talltale](https://open.spotify.com/artist/47bwOR6s1vZymFYFCfgsrZ) | [Tennis Club](https://open.spotify.com/album/2sPSj9hpO9Aw5TAZDzLX1i) | 3:21 | 2021-11-19 | 2021-11-20 |
+| [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 | 2023-09-01 |  |
 | [that friend](https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [that friend](https://open.spotify.com/album/33BfwbhA9EgZZfDCZEj7Bh) | 3:00 | 2021-07-04 | 2022-03-09 |
 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 | 2022-10-21 |  |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-16 | 2022-10-23 |
@@ -565,6 +566,7 @@
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-28 |  |
 | [you were good to me \- shallou remix](https://open.spotify.com/track/4yQluMXsIRql36ErBHux2f) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [you were good to me \(shallou remix\)](https://open.spotify.com/album/64g22dqguD1J36xZssN3fe) | 3:49 | 2020-11-18 | 2021-06-19 |
 | [Your Shirt](https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Shirt](https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb) | 3:50 | 2021-06-26 | 2022-01-08 |
+| [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 | 2023-09-01 |  |
 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 | 2022-05-06 | 2022-07-12 |
 | [Yuck](https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:18 | 2022-04-16 |  |
 | [¿QUIÉN TE MANDA?](https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [¿QUIÉN TE MANDA?](https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb) | 3:38 | 2023-02-17 | 2023-02-25 |

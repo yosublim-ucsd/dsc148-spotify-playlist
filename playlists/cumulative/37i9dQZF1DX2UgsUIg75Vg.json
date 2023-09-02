@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Leon Thomas",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Victoria Mon\u00e9t",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 188800,
       "name": "(I Get So) Emotional",
       "url": "https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a"
@@ -733,6 +733,28 @@
     },
     {
       "album": {
+        "name": "As You Are - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "As You Are - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
+    },
+    {
+      "album": {
         "name": "Astrology Joint",
         "url": "https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds"
       },
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 260669,
       "name": "Black Anime",
       "url": "https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL"
@@ -3421,6 +3443,28 @@
     },
     {
       "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
+    },
+    {
+      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
       },
@@ -4196,6 +4240,24 @@
       "duration_ms": 162188,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
+      "album": {
+        "name": "Falling or flying",
+        "url": "https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS"
     },
     {
       "album": {
@@ -6472,7 +6534,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 211819,
       "name": "Index",
       "url": "https://open.spotify.com/track/7eq5eMVUs1lJGqPNfbnGBg"
@@ -6882,7 +6944,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
@@ -8538,7 +8600,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 212967,
       "name": "Moral Conscience",
       "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY"
@@ -9926,6 +9988,24 @@
       "duration_ms": 182066,
       "name": "Passport - \u30b7\u30f3\u30b0\u30eb\u7248",
       "url": "https://open.spotify.com/track/4DkSghl14yN70T0RX5pe9x"
+    },
+    {
+      "album": {
+        "name": "I Came Home Late",
+        "url": "https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1T5r41gQq6SKGKKvlZCpmR"
     },
     {
       "album": {
@@ -11571,6 +11651,24 @@
     },
     {
       "album": {
+        "name": "Bet That",
+        "url": "https://open.spotify.com/album/7mmBqDdCZwqn4g30GAuteH"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144320,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/6Fcn31PmGZhYMIiEuJvkcn"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl"
       },
@@ -11922,6 +12020,24 @@
       "duration_ms": 312341,
       "name": "Soul Caliber",
       "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
+    },
+    {
+      "album": {
+        "name": "LOVE / HATE Pt. 1",
+        "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131614,
+      "name": "Soul Lovers",
+      "url": "https://open.spotify.com/track/0TyOXgKUhETRgIIpttQWaS"
     },
     {
       "album": {
@@ -13838,7 +13954,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 283313,
       "name": "Until The End Of Time - Spotify Singles",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"

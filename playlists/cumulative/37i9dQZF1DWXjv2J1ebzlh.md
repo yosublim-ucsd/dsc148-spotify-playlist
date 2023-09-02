@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,111 songs - 5 day 22 hr 23 min
+2,112 songs - 5 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,8 @@
 | [Colombia Tierra Querida](https://open.spotify.com/track/5NEDwXgOuKtNHw4YDWj2ii) | [San Fernando Orquesta De Lucho Bermúdez](https://open.spotify.com/artist/7vxj9CKdnIfdIMZxVcaHmU), [Matilde Diaz](https://open.spotify.com/artist/6BYugBzyLzfRpEbwnSLBzH) | [San Fernando Orquesta de Lucho Bermúdez](https://open.spotify.com/album/67MVoV4IG7vcmfFkR4CLa5) | 2:35 | 2022-07-27 |  |
 | [Colombia, Tierra Querida](https://open.spotify.com/track/3SyTjPWTTrvICpD4KQ3d7Y) | [Lucho Bermudez Y Su Orquesta](https://open.spotify.com/artist/61LaEbyQgx9ULU3VnH6YCo) | [La Authéntica Cumbia Colombiana](https://open.spotify.com/album/6yghSTUsauzYGfGmpGc73m) | 2:38 | 2022-06-09 |  |
 | [Com Mais De 30](https://open.spotify.com/track/5vSyBKGgP8DwErMptrUmL7) | [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Jesus Cristo](https://open.spotify.com/album/472hbvx6EDV9RxKEvZz9Ae) | 2:42 | 2023-05-17 |  |
-| [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 | 2022-07-27 |  |
+| [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 | 2022-07-27 | 2023-09-02 |
+| [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 | 2023-08-31 |  |
 | [Come On Home](https://open.spotify.com/track/7oPAhwuLEVVzT53jXffG7B) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/7HYCL8wBWPZD5gl6BZRmEF) | 5:18 | 2022-06-09 | 2022-07-29 |
 | [Commotion](https://open.spotify.com/track/00S8FkdSM5NMcvMTx2KOhn) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5) | 2:55 | 2022-06-09 | 2022-07-29 |
 | [Commotion](https://open.spotify.com/track/1iM56axnhLRRV4T9Q9yzyw) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y) | 2:55 | 2023-03-17 |  |
@@ -661,7 +662,7 @@
 | [El Condor Pasa](https://open.spotify.com/track/3xedzwiMNof2jaIkcKQBVw) | [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:41 | 2022-06-09 |  |
 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 | 2022-07-12 |  |
 | [El Cuchipe](https://open.spotify.com/track/2HicXaPMCToQwInYIIeQuY) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:57 | 2022-07-12 |  |
-| [El Cumbanchero](https://open.spotify.com/track/1RdRQO0vu4sfc8UuqLKLL9) | [Sabu](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [Palo Congo](https://open.spotify.com/album/0yPE5s2h0XF9Umc6ENEKE8) | 5:39 | 2022-06-09 |  |
+| [El Cumbanchero](https://open.spotify.com/track/1RdRQO0vu4sfc8UuqLKLL9) | [Sabu](https://open.spotify.com/artist/4kDbYSOmQtrNDmAjftw8Xf) | [Palo Congo](https://open.spotify.com/album/0yPE5s2h0XF9Umc6ENEKE8) | 5:39 | 2022-06-09 |  |
 | [El Despertar](https://open.spotify.com/track/7cg3eUDMETxFBlxI65FJaH) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Los Darts](https://open.spotify.com/artist/2e57Rvt0jZWYdbJJZgXScn) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 4:28 | 2022-07-27 |  |
 | [El Despertar](https://open.spotify.com/track/1FL5mtgvNtJeHqm0ZkkMGt) | [Los Darts](https://open.spotify.com/artist/2e57Rvt0jZWYdbJJZgXScn) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1ADKGt7i1rGDNPjiZscJV4) | 4:28 | 2022-06-09 | 2022-07-29 |
 | [El Diablo](https://open.spotify.com/track/5JXTjnYJd1STK0BWh3FIBS) | [Compay Quinto](https://open.spotify.com/artist/3ZjBjzEP0zWUcwUOsyKAoQ) | [El Diablo](https://open.spotify.com/album/5Z4w9G3XAfA3zw0LOq7SEY) | 2:47 | 2022-06-09 |  |

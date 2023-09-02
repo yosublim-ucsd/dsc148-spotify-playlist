@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1271178,
+  "num_followers": 1271612,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmE2MGEzMDUxZjkzMjZmMGM5ZTE5ZTYyN2EzNjc4MTY3ZDQ0Y2Nm",
+  "snapshot_id": "MCxkNzA4NmJiZDg1MDhlMzliOWQ5ZmVhNTc0NWNlOGFiYWY0MTI2ZGNi",
   "tracks": [
     {
       "added_at": "2023-06-16 17:56:50",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "El Poder De La Cumbia",
         "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 194560,
       "name": "20 Rosas",
       "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207516,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -451,6 +435,22 @@
       "duration_ms": 204680,
       "name": "Besar Tu Piel",
       "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207516,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Conga Y Timbal",
-        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 219559,
-      "name": "Conga Y Timbal",
-      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 277028,
       "name": "El Amor de la Nena",
       "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Conga Y Timbal",
+        "url": "https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 219559,
+      "name": "Conga Y Timbal",
+      "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
+        "name": "La Monjita Voladora - Cumbia Sonidera",
+        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Toca Recio",
+          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+        }
+      ],
+      "duration_ms": 249768,
+      "name": "La Monjita Voladora - Cumbia Sonidera",
+      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
         "name": "Dile, Cuentale",
         "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "La Monjita Voladora - Cumbia Sonidera",
-        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
       },
       "artists": [
         {
-          "name": "Grupo Toca Recio",
-          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
         }
       ],
-      "duration_ms": 249768,
-      "name": "La Monjita Voladora - Cumbia Sonidera",
-      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -815,22 +831,6 @@
       "duration_ms": 196637,
       "name": "Cumbia Yemaya",
       "url": "https://open.spotify.com/track/14CUTkk5h1JfIg6InMMgxS"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "El Verde De Tus Ojos - Remix",
-      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Oro Puro: \u00c9xitos",
         "url": "https://open.spotify.com/album/21g7e1NwMiTJMr6G38h0hA"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 211760,
       "name": "Int\u00e9ntalo T\u00fa",
       "url": "https://open.spotify.com/track/7tc8n0EmYbjoiouaxYTlyV"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "El Verde De Tus Ojos - Remix",
+      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Sin Mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
-      },
-      "artists": [
-        {
-          "name": "Mexikolombia",
-          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
-        }
-      ],
-      "duration_ms": 196597,
-      "name": "Al\u00e9jate de Mi",
-      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Palabras No",
         "url": "https://open.spotify.com/album/6nyVwXMNI2h6NdbpKB11av"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 249234,
       "name": "Palabras No",
       "url": "https://open.spotify.com/track/75LiifjwTF6cpyVILANf4q"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Sin Mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/2FoP3XV69oKsMxfK5oJkRX"
+      },
+      "artists": [
+        {
+          "name": "Mexikolombia",
+          "url": "https://open.spotify.com/artist/0OYcok9V194Ul8EiD6ph9T"
+        }
+      ],
+      "duration_ms": 196597,
+      "name": "Al\u00e9jate de Mi",
+      "url": "https://open.spotify.com/track/2elSQMWeHJCiMCmwAUf43W"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 245055,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
         "name": "Como un Dulce Poema, Vol. 3",
         "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 290089,
       "name": "Donde Estas?",
       "url": "https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 245055,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Dejame Pensar",
-        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
       },
       "artists": [
         {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
         }
       ],
-      "duration_ms": 277455,
-      "name": "Dejame Pensar",
-      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
+      "duration_ms": 331000,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1171,34 +1171,34 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/1o6ilxYuAIaNYwjssSCAcS"
+        "name": "Dejame Pensar",
+        "url": "https://open.spotify.com/album/21edwS4PjbYCYBwWBvQMYF"
       },
       "artists": [
         {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "duration_ms": 331000,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1f4FWujFH5ouqxPACbiSgJ"
+      "duration_ms": 277455,
+      "name": "Dejame Pensar",
+      "url": "https://open.spotify.com/track/70uHRAF2e3JyTYaCCULZM5"
     },
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Lo Mas Ka-Bron Sonidero",
-        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
+        "name": "Cumbias y Bachatas Vol.2",
+        "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
       },
       "artists": [
         {
-          "name": "Kual",
-          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
+          "name": "Grupo Ternura Dinastia Toxqui",
+          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
         }
       ],
-      "duration_ms": 300906,
-      "name": "Soy Maraquero",
-      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
+      "duration_ms": 253236,
+      "name": "El Fantasma del Amor",
+      "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Cumbias y Bachatas Vol.2",
-        "url": "https://open.spotify.com/album/2VKXFDOa49Xj9Bby34QqxJ"
+        "name": "Lo Mas Ka-Bron Sonidero",
+        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
       },
       "artists": [
         {
-          "name": "Grupo Ternura Dinastia Toxqui",
-          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
+          "name": "Kual",
+          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
         }
       ],
-      "duration_ms": 253236,
-      "name": "El Fantasma del Amor",
-      "url": "https://open.spotify.com/track/7sQTaMi77raGv1nTPhLRcZ"
+      "duration_ms": 300906,
+      "name": "Soy Maraquero",
+      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
-        "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
-      },
-      "artists": [
-        {
-          "name": "Alquimia La Sonora Del XXI",
-          "url": "https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS"
-        }
-      ],
-      "duration_ms": 366503,
-      "name": "Pa' La Paloma",
-      "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q"
       },
@@ -1923,18 +1907,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "El Angel Del Amor",
-        "url": "https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU"
+        "name": "\u00c9xitos de la Sonora Matancera: Pa' la Paloma",
+        "url": "https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ"
       },
       "artists": [
         {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
+          "name": "Alquimia La Sonora Del XXI",
+          "url": "https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS"
         }
       ],
-      "duration_ms": 272471,
-      "name": "Te Vas Con El o Te Vas Conmigo",
-      "url": "https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr"
+      "duration_ms": 366503,
+      "name": "Pa' La Paloma",
+      "url": "https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1955,18 +1939,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "No Mientas Mas",
-        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
+        "name": "El Angel Del Amor",
+        "url": "https://open.spotify.com/album/3weW5AD4k5a6hgnNktMXUU"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 234605,
-      "name": "No Mientas Mas",
-      "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
+      "duration_ms": 272471,
+      "name": "Te Vas Con El o Te Vas Conmigo",
+      "url": "https://open.spotify.com/track/1LSxKDa7iwKI9aHDdfH5Jr"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1983,6 +1967,22 @@
       "duration_ms": 313740,
       "name": "Dos en Uno",
       "url": "https://open.spotify.com/track/6z9FyLFLp1lLeRg3h0hPPU"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "No Mientas Mas",
+        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 234605,
+      "name": "No Mientas Mas",
+      "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
     },
     {
       "added_at": "2023-06-16 17:56:50",

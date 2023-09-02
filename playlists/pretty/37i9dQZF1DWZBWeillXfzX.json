@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19767,
+  "num_followers": 19795,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz",
+  "snapshot_id": "MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -623,8 +623,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -771,8 +771,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Defenestrator",
-        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 428577,
-      "name": "Chief's Blues",
-      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
     },
     {
       "added_at": "2020-10-21 17:37:12",

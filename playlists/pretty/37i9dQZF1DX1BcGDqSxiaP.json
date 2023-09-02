@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 19481,
+  "num_followers": 19499,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWZkN2YyOTRlODQ0ODU0Yzc2MDg2ZWNmMzA5Njk2NmQwNTU3ZTY2",
+  "snapshot_id": "MCw1MzZkNjU2ODIyMzg5ODE5N2YzZTlhODQ0ODg2N2ZlZGNhOTlhZGUw",
   "tracks": [
     {
       "added_at": "2023-05-17 15:52:13",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+        "name": "The Alligator Records Years",
+        "url": "https://open.spotify.com/album/3FochREiG9hH1jXXa6pSK7"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Roomful Of Blues",
+          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
         }
       ],
-      "duration_ms": 308093,
-      "name": "The Fool You're Looking For",
-      "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
+      "duration_ms": 199573,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/3W776OrIMoHnOyeujcILdt"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "The Alligator Records Years",
-        "url": "https://open.spotify.com/album/3FochREiG9hH1jXXa6pSK7"
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
       },
       "artists": [
         {
-          "name": "Roomful Of Blues",
-          "url": "https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L"
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 199573,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/3W776OrIMoHnOyeujcILdt"
+      "duration_ms": 308093,
+      "name": "The Fool You're Looking For",
+      "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
     },
     {
       "added_at": "2023-05-17 15:52:13",

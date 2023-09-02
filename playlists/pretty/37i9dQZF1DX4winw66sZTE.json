@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13676,
+  "num_followers": 13748,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjdjMThlYzNhYmFhYzQwMWM5ODM5MzMxODBiMzQwNDUyMDQzNTc5",
+  "snapshot_id": "MCw1MWNiNzIxNGUwY2E1YzhlYzZlYWU3MDljZDAwM2FkYTQ3YzBkMDgy",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -179,6 +179,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "The Wonder Years",
+        "url": "https://open.spotify.com/album/3svp0TRDC5MMUAPNMimAi1"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 199873,
       "name": "DALLA DALLA",
       "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "The Wonder Years",
-        "url": "https://open.spotify.com/album/3svp0TRDC5MMUAPNMimAi1"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2UuKZDzjZ7cVMOvpmuAMYj"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The Boys - The 3rd Album",
-        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "The Boys",
-      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "NCT 2018 EMPATHY",
         "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 214035,
       "name": "The 7th Sense",
       "url": "https://open.spotify.com/track/6BdchFAP4TUZUceAsAEb5U"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "The Boys - The 3rd Album",
+        "url": "https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "The Boys",
+      "url": "https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "My Love From the Star \ubcc4\uc5d0\uc11c \uc628 \uadf8\ub300 (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 243323,
-      "name": "Every moment of you \ub108\uc758 \ubaa8\ub4e0 \uc21c\uac04",
-      "url": "https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Girl's Day Love Second Album",
         "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 200705,
       "name": "Something",
       "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "My Love From the Star \ubcc4\uc5d0\uc11c \uc628 \uadf8\ub300 (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 243323,
+      "name": "Every moment of you \ub108\uc758 \ubaa8\ub4e0 \uc21c\uac04",
+      "url": "https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 193321,
       "name": "200%",
       "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Only One - The 7th Album",
-        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+        "name": "COLLECTION",
+        "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 217085,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
+      "duration_ms": 225373,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "COLLECTION",
-        "url": "https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade"
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
       },
       "artists": [
         {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 225373,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb"
+      "duration_ms": 217085,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Electric Shock - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Electric Shock",
-      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Secret Garden",
-        "url": "https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 220099,
-      "name": "NoNoNo",
-      "url": "https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "To Anyone",
         "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
@@ -1371,6 +1339,38 @@
       "duration_ms": 217560,
       "name": "Bad Girl Good Girl",
       "url": "https://open.spotify.com/track/1EkLacfCJIJcHkJvxlkJKE"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Electric Shock - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Electric Shock",
+      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 220099,
+      "name": "NoNoNo",
+      "url": "https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
-      },
-      "artists": [
-        {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Why So Lonely",
         "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 206706,
       "name": "Why So Lonely",
       "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Yanghwa BRDG",
         "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 206266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1603,22 +1619,6 @@
       "duration_ms": 207026,
       "name": "BERMUDA TRIANGLE",
       "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2021-03-01 03:07:22",

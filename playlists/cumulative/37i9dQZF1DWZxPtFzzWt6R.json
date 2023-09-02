@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Suellen Lima",
+  "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
   "name": "Sertanejo Religioso",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 298028,
       "name": "A B\u00fassola",
       "url": "https://open.spotify.com/track/03g4XkJDK5LRzWpEFbbx82"
@@ -146,6 +146,24 @@
       "duration_ms": 200562,
       "name": "A Terra e o Lavrador",
       "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+    },
+    {
+      "album": {
+        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239728,
+      "name": "Adorador por Excel\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
     },
     {
       "album": {
@@ -388,10 +406,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 166340,
       "name": "Duas Vezes Mais",
       "url": "https://open.spotify.com/track/2UxerwRMfxlSTBcKhWdUhA"
+    },
+    {
+      "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272695,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
     },
     {
       "album": {
@@ -482,10 +518,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 203155,
       "name": "Eu Joguei",
       "url": "https://open.spotify.com/track/2BeWABTa85hccN2RCZnJLp"
+    },
+    {
+      "album": {
+        "name": "Eu N\u00e3o T\u00f4 Preocupado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151388,
+      "name": "Eu N\u00e3o T\u00f4 Preocupado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z"
     },
     {
       "album": {
@@ -677,6 +731,28 @@
     },
     {
       "album": {
+        "name": "Nascer de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239791,
+      "name": "Nascer de Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
+    },
+    {
+      "album": {
         "name": "No C\u00e9u N\u00e3o Entra Pecado",
         "url": "https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt"
       },
@@ -764,6 +840,24 @@
       "duration_ms": 156343,
       "name": "O Melhor de Deus",
       "url": "https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi"
+    },
+    {
+      "album": {
+        "name": "Triunfo de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336796,
+      "name": "O Pr\u00f3digo Vai Voltar",
+      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
     },
     {
       "album": {
@@ -947,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+    },
+    {
+      "album": {
         "name": "Surpresas",
         "url": "https://open.spotify.com/album/4Xd5WSqlGucQbmi9qfn214"
       },
@@ -1052,7 +1164,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 214494,
       "name": "T\u00f4 Te Querendo Demais",
       "url": "https://open.spotify.com/track/6s6d0KG0tFYr1WKMRnnF8q"
@@ -1128,7 +1240,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 206000,
       "name": "\u00c9 S\u00f3 Vit\u00f3ria (Ao Vivo)",
       "url": "https://open.spotify.com/track/2J1eAoUK8bEv1dw1HEZVeJ"
@@ -1146,7 +1258,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 319139,
       "name": "\u00c9s Tudo Que Eu Preciso",
       "url": "https://open.spotify.com/track/2rfL4HexD0Z2bcoYWZfRXD"

@@ -361,6 +361,32 @@
     },
     {
       "album": {
+        "name": "Alone (Stephan Jolk Remix)",
+        "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "Alone - Stephan Jolk Remix",
+      "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
+    },
+    {
+      "album": {
         "name": "Amantes amentes",
         "url": "https://open.spotify.com/album/5YHrmNOofPTzVx4st7Bkn7"
       },
@@ -5827,6 +5853,28 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "PHEA",
+          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165961,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"
+    },
+    {
+      "album": {
         "name": "Kamino",
         "url": "https://open.spotify.com/album/768NEGmqF9l6Wwl29ixWqR"
       },
@@ -11070,7 +11118,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 391577,
       "name": "Unfold Me",
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
@@ -11802,7 +11850,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 324313,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"

@@ -2,16 +2,16 @@
 
 ### [Hipster K' Pack](https://open.spotify.com/playlist/37i9dQZF1DWXfgmQDgebb6)
 
-> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: 알레프\)
+> Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: 예빛\(Yebit\)\)
 
-319 songs - 17 hr 49 min
+320 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24hour \(feat\. Ja Mezz\)](https://open.spotify.com/track/2V6XaeK3xFzkLvxcuRc5Dh) | [ALT](https://open.spotify.com/artist/2zOevuLrvNQ7BLD5hXUqrb), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [월요일에 만든 앨범](https://open.spotify.com/album/4f6F0WhyVESbxoNYpDTgJ2) | 2:33 | 2022-06-13 | 2022-07-04 |
 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 | 2022-05-27 |  |
 | [3M](https://open.spotify.com/track/3aGC8ZMyeY67mY58teyDhx) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/469dXmC2yUOjk5UsyYHLX0) | 2:42 | 2022-05-27 | 2022-07-28 |
-| [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 | 2022-07-08 |  |
+| [3M](https://open.spotify.com/track/6s7AEFVwYpsafr86GYmPvg) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [3M](https://open.spotify.com/album/5H1CeTpbsftOFwlsIQthql) | 2:42 | 2022-07-08 | 2023-09-02 |
 | [777MOON \(Feat\. D\-Hack\)](https://open.spotify.com/track/0kW6m2qeol7QYoH9psIukp) | [DJ MIU](https://open.spotify.com/artist/1LLEkxsHQUep2jjDmRBDyJ), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [777MOON](https://open.spotify.com/album/31S0LHcMowyOLeZcHqAcDF) | 2:58 | 2023-05-02 | 2023-06-09 |
 | [?](https://open.spotify.com/track/6kfwGHY3NnomOV3H9V4Fod) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [?!](https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc) | 2:24 | 2022-05-27 | 2022-07-28 |
 | [ahhhh!](https://open.spotify.com/track/0geKjVzgIl2u3uYuDK2aAL) | [Noogi](https://open.spotify.com/artist/0qTiUGFdEu8yRwmwHvMizq) | [ahhhh!](https://open.spotify.com/album/2B27lXYV4HidrCn3kGkaqO) | 2:52 | 2022-05-27 | 2022-07-26 |
@@ -295,6 +295,7 @@
 | [We all want to go back 바다로 가는 꿈을 꿔 \- Aquarium Ver.](https://open.spotify.com/track/4BC60RJaDwBZp6PpPXNnek) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Dreams can be real 이룰 수 있는 꿈](https://open.spotify.com/album/56JPytGxCxX9IX4zlfUUyB) | 2:55 | 2022-05-27 | 2022-06-28 |
 | [We Happy ;\)](https://open.spotify.com/track/2vwDeUnJJ4Yh9nvQgUAJBP) | [TE RIM](https://open.spotify.com/artist/5OsS1U94vUondgy1HELh1T) | [Saint Experi Vol\. 1 SAINT EXPERI Vol.1](https://open.spotify.com/album/5soISDn48YSAMyB8CX67x7) | 3:21 | 2023-02-20 | 2023-03-18 |
 | [We will be alright](https://open.spotify.com/track/75alK8vHbnOuAIeHpAdNeN) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Lay down](https://open.spotify.com/album/4AR46u6XLHDXcdu39PHC40) | 3:27 | 2022-05-27 | 2022-07-27 |
+| [What's wrong with me?](https://open.spotify.com/track/6TakheWewVFeIWbDppiTXb) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [What's wrong with me?](https://open.spotify.com/album/0Yy2PBAivdv6vIvwQY3VRF) | 2:56 | 2023-09-01 |  |
 | [Wheels \(feat\. SUZANNE, THAMA\)](https://open.spotify.com/track/0jiHdyS0BKii0dfulX67Fp) | [GLOWCEAN](https://open.spotify.com/artist/49uFRuBtpme0FabjsLzvWc), [SUZANNE](https://open.spotify.com/artist/0NMJPa0Btok67TyE8Vxngc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [ESSENCE](https://open.spotify.com/album/5WFTXJX4bgnt9wlJjPSI2d) | 3:48 | 2022-05-27 | 2022-07-27 |
 | [White BM](https://open.spotify.com/track/3LDMnVMx0Fw0ZiACLRrZPK) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu) | [White BM](https://open.spotify.com/album/0GFtMSnGLQFWyByeinsZet) | 2:31 | 2023-01-25 | 2023-02-21 |
 | [White the wilds](https://open.spotify.com/track/1bF5PdCcQPPi30hO6lfubH) | [muscoda](https://open.spotify.com/artist/0PFrzocEGd0JUKSkZvyYs8) | [White the wilds](https://open.spotify.com/album/64Bgsvemjrzdwpq7tYiL4G) | 4:28 | 2022-06-18 | 2022-07-25 |

@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
-  "num_followers": 1506,
+  "num_followers": 1526,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjRkZjY2NmUwODUzY2M1NjE1ZDAxOTI3ZDRiNjliY2YxMjM1OWVl",
+  "snapshot_id": "MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Funimate (Prod. by Ernesto Losa)",
         "url": "https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 195918,
       "name": "Funimate - Prod. by Ernesto Losa",
       "url": "https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
     },
     {
       "added_at": "2023-08-18 04:00:00",

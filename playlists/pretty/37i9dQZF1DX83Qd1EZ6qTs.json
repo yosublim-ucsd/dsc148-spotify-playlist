@@ -1,12 +1,12 @@
 {
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Anuradha Pal",
-  "num_followers": 4350,
+  "num_followers": 4379,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGM0YTc4YjYyODg1MzFiY2Q4MjEyMTIyZjIzYTQ5MmViMmU3YzEx",
+  "snapshot_id": "MCxiNGNmMmRlYjdlMDA2MTc2Yjk1NjM3NzY4N2MzZWRkZjI3M2IwMjdh",
   "tracks": [
     {
       "added_at": "2023-08-18 00:32:33",
@@ -51,6 +51,22 @@
       "duration_ms": 326666,
       "name": "Tabla Breath",
       "url": "https://open.spotify.com/track/1xCGBNquEBWEYeliECZqki"
+    },
+    {
+      "added_at": "2023-09-01 05:19:16",
+      "album": {
+        "name": "Tabla Tonic",
+        "url": "https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Tabla Tonic",
+      "url": "https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q"
     },
     {
       "added_at": "2023-06-25 05:14:29",
@@ -239,22 +255,6 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Ustad Alla Rakha - The Multifaceted Genius",
-        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
-      },
-      "artists": [
-        {
-          "name": "Alla Rakha",
-          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
-        }
-      ],
-      "duration_ms": 640906,
-      "name": "Tabla",
-      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
         "name": "Magnificent Indian Drums",
         "url": "https://open.spotify.com/album/1cka9ySaQBsB7HDtKkUvtU"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 358755,
       "name": "Tabla Magic",
       "url": "https://open.spotify.com/track/2qDM7VAHTWUIiwY3ocvaz0"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
+        "name": "Ustad Alla Rakha - The Multifaceted Genius",
+        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
+      },
+      "artists": [
+        {
+          "name": "Alla Rakha",
+          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
+        }
+      ],
+      "duration_ms": 640906,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -383,18 +399,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Tabla Teental Kayda (Instrumental)",
-        "url": "https://open.spotify.com/album/2KK1CB9xmlZCxzIH56llYI"
+        "name": "Indian Tabla Meditations",
+        "url": "https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE"
       },
       "artists": [
         {
-          "name": "Aryan Gohariya",
-          "url": "https://open.spotify.com/artist/6H4EMQVeJtpdTVfcNm6WbR"
+          "name": "Music Of Tabla",
+          "url": "https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4"
         }
       ],
-      "duration_ms": 326034,
-      "name": "Tabla Teental Kayda - Instrumental",
-      "url": "https://open.spotify.com/track/7s3BAzAXgYfJ72R6HXhBhi"
+      "duration_ms": 272718,
+      "name": "Mumbai",
+      "url": "https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -415,18 +431,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Indian Tabla Meditations",
-        "url": "https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE"
+        "name": "Tabla Teental Kayda (Instrumental)",
+        "url": "https://open.spotify.com/album/2KK1CB9xmlZCxzIH56llYI"
       },
       "artists": [
         {
-          "name": "Music Of Tabla",
-          "url": "https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4"
+          "name": "Aryan Gohariya",
+          "url": "https://open.spotify.com/artist/6H4EMQVeJtpdTVfcNm6WbR"
         }
       ],
-      "duration_ms": 272718,
-      "name": "Mumbai",
-      "url": "https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF"
+      "duration_ms": 326034,
+      "name": "Tabla Teental Kayda - Instrumental",
+      "url": "https://open.spotify.com/track/7s3BAzAXgYfJ72R6HXhBhi"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -525,22 +541,6 @@
       "url": "https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB"
     },
     {
-      "added_at": "2023-07-19 10:41:33",
-      "album": {
-        "name": "Get Recharged!!!",
-        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
-      },
-      "artists": [
-        {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
-        }
-      ],
-      "duration_ms": 408888,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
-    },
-    {
       "added_at": "2023-07-06 10:56:11",
       "album": {
         "name": "CHAKRA",
@@ -559,6 +559,22 @@
       "duration_ms": 952999,
       "name": "Summing Up",
       "url": "https://open.spotify.com/track/4KRv0WDi7tK9mOjDH8TeNH"
+    },
+    {
+      "added_at": "2023-07-19 10:41:33",
+      "album": {
+        "name": "Get Recharged!!!",
+        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "duration_ms": 408888,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "The World's Musical Traditions, Vol. 10: Tabla Tarang--Melody on Drums",
-        "url": "https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ"
-      },
-      "artists": [
-        {
-          "name": "Kamalesh Maitra",
-          "url": "https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51"
-        }
-      ],
-      "duration_ms": 588133,
-      "name": "Raag Bhupal Todi",
-      "url": "https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
         "name": "The Sound of Indian Tabla",
         "url": "https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Recharge Plus",
-        "url": "https://open.spotify.com/album/5FMe1RbNL7ckc9AThaEB4k"
+        "name": "The World's Musical Traditions, Vol. 10: Tabla Tarang--Melody on Drums",
+        "url": "https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ"
       },
       "artists": [
         {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+          "name": "Kamalesh Maitra",
+          "url": "https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51"
         }
       ],
-      "duration_ms": 479217,
-      "name": "Cloud Nine",
-      "url": "https://open.spotify.com/track/74JXYwu7XbyiHVYhOnTZZX"
+      "duration_ms": 588133,
+      "name": "Raag Bhupal Todi",
+      "url": "https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -743,6 +743,22 @@
       "duration_ms": 232533,
       "name": "Balinese Fantasy (feat. Dana Pandey, Mickey Hart, Syed Arshad, Vince Delgado, Aushim Chaudhuri & Anthony Hindson)",
       "url": "https://open.spotify.com/track/4gX8zohTKh60fGL3jZgxHV"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
+        "name": "Recharge Plus",
+        "url": "https://open.spotify.com/album/5FMe1RbNL7ckc9AThaEB4k"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "duration_ms": 479217,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/74JXYwu7XbyiHVYhOnTZZX"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -831,22 +847,6 @@
       "duration_ms": 771373,
       "name": "Tabla",
       "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
-        "name": "Pacifying Morning - Blissful Yoga Magic Rhythms",
-        "url": "https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Sound Clubb",
-          "url": "https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Uttam Tabla - Original Mix",
-      "url": "https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD"
     }
   ],
   "unique_name": "ECHO : Tabla Rhythms",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Senndy e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,380 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,373 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 44 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |
 | 45 | [PATY](https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [PATY](https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO) | 1:49 |
 | 46 | [Ceder](https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Ceder](https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS) | 3:17 |
-| 47 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
-| 48 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
+| 47 | [Imaginar](https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [Imaginar](https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x) | 2:20 |
+| 48 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 |
 | 49 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 50 | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Cara, Hoje É Meu Aniversário](https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD) | 2:01 |
 | 51 | [Deixar na B](https://open.spotify.com/track/3KYHgasdHqKROkh17t1LT9) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Deixar na B](https://open.spotify.com/album/4INsklfCI6hFcmWBc2MkF3) | 2:09 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 65 | [Visão de Onça \- Spotify Singles](https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Visão de Onça \- Spotify Singles](https://open.spotify.com/album/068AREijgAvQQuZkiAfap3) | 2:21 |
 | 66 | [Ruas Perigosas](https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Ruas Perigosas](https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV) | 3:15 |
 | 67 | [Vênus](https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Vênus](https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx) | 2:57 |
-| 68 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
-| 69 | [convoca \(Prod\. Maikinho\)](https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:02 |
+| 68 | [convoca \(Prod\. Maikinho\)](https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:02 |
+| 69 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 70 | [Trem Bala](https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Eldorado Music](https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8) | [Trem Bala](https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42) | 1:56 |
 | 71 | [Santana Amarelo](https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ) | [Santana Amarelo](https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P) | 3:03 |
 | 72 | [Vai Com Calma](https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7) | [SH1FT](https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t) | [Vai Com Calma](https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Contrai](https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Martinnz](https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw) | [Contrai](https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm) | 3:00 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5`
+Snapshot ID: `MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj`

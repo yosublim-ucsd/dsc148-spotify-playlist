@@ -4,7 +4,7 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Luis7Lunes
 
-86 songs - 4 hr 41 min
+87 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Embrujo](https://open.spotify.com/track/1nfgedLEIR61luO1vkeKo3) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Embrujo](https://open.spotify.com/album/7qwAOX3k3Fr2Zt20q5MNg0) | 3:01 | 2023-05-26 |  |
 | [Estrapgos](https://open.spotify.com/track/0NayxfCD9umqeRlllJHO2y) | [Crew Peligrosos](https://open.spotify.com/artist/0Coet47KeEkkmyD64KeW2g), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Estrapgos](https://open.spotify.com/album/4k8WeuQ4oAzj07EymJ7NwQ) | 4:07 | 2023-05-26 |  |
 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 | 2023-05-26 |  |
-| [frutiño](https://open.spotify.com/track/4QP4LwWOI0ZptrJv0oG8xB) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [frutiño](https://open.spotify.com/album/3UfT1lFbmSdWQzMB8kLY9G) | 3:15 | 2023-05-26 |  |
+| [frutiño](https://open.spotify.com/track/3hDU4KpyHbpZfbkGf6YorE) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [back to lo básico](https://open.spotify.com/album/4rrhaxUtoUqJjShPKM5h4x) | 3:15 | 2023-08-11 |  |
+| [frutiño](https://open.spotify.com/track/4QP4LwWOI0ZptrJv0oG8xB) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [frutiño](https://open.spotify.com/album/3UfT1lFbmSdWQzMB8kLY9G) | 3:15 | 2023-05-26 | 2023-09-02 |
 | [Fría la Casa](https://open.spotify.com/track/1NE2xioYBSOEZ5jhu1NJDC) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Cheche Cole](https://open.spotify.com/artist/1vTh9OJHlNi1sYgUTsqYVI), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Fría la Casa](https://open.spotify.com/album/1HPZPN2hFFNvgF9h1GvCxy) | 2:31 | 2023-05-26 |  |
 | [Hierba Mala](https://open.spotify.com/track/0O0EHS42NLO9beCdP0m2VJ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Hierba Mala](https://open.spotify.com/album/3OS70FhPdphV5p6ii238CE) | 3:54 | 2023-06-30 |  |
 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 | 2023-05-26 |  |

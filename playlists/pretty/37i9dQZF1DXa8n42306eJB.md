@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,289 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,446 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 67 | [Lonely Days \(with J Boog\)](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 |
 | 68 | [Good Time](https://open.spotify.com/track/4RzIZS83SMXWrSGsP7XPiS) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Trouble](https://open.spotify.com/album/6Ex5buL9V8s8gEZuejwBfU) | 3:24 |
 | 69 | [Holiday](https://open.spotify.com/track/5a4eC0DnfGg0sDUbSFXOr7) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/1B8Hkj3q7xaPgbHQe1Ndse) | 3:15 |
-| 70 | [Jah Rastafari](https://open.spotify.com/track/3XJy1qvLFMV42kL0lf73Po) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Jah Rydem](https://open.spotify.com/album/0ZNNCpmGRNiKsIs7xFdcqV) | 4:00 |
+| 70 | [Jah Rastafari](https://open.spotify.com/track/2EYh1D0vwuMKmkYxdykhX9) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Jah Rydem](https://open.spotify.com/album/5WBK4BSzfbRFtg2SJ1or9N) | 4:00 |
 | 71 | [One More Try](https://open.spotify.com/track/7MHme1xL7GpZYNsRf69CFG) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf), [Stanley T](https://open.spotify.com/artist/2jNmaMmdk0tMMY0jxuqXQN) | [One More Try](https://open.spotify.com/album/3283HXjZnm2knf0KhUcVaD) | 3:09 |
 | 72 | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/track/1FyKp56vQSgm98NBdvs1fA) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/album/66oMqt96CJRCKQl3RpyTO1) | 3:19 |
 | 73 | [Sunshine Girl](https://open.spotify.com/track/4RjHalDdUreXDJSJLo44lK) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Peetah Morgan](https://open.spotify.com/artist/6TP4fQvAG9uXcPgHEpPriw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:37 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 75 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 76 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCxiNTk2ZmQzNGZkODJjNTg0YWU1MGE1OGUwODNmMWQ0Zjc3YTExMDFk`
+Snapshot ID: `MCw5NDU1Y2VlYjhhZmM0ZGMxZTc3ODc3ODhhMzk3YjhjMzRhN2M3OTQ5`

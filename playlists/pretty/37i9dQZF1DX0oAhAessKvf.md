@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,194 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,259 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,15 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 39 | [Quieren Chorizo](https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:24 |
 | 40 | [Perros y Gatas](https://open.spotify.com/track/3wS1njCO85Eo9iQ6gs7740) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Exitos](https://open.spotify.com/album/2TfyOwS5WUBjviqlduUbzZ) | 3:45 |
 | 41 | [La Química](https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Sin Parar](https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v) | 3:26 |
-| 42 | [Maniatica Sexual](https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy) | [Lito y Polaco](https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
-| 43 | [Tu Amor Es un Crimen](https://open.spotify.com/track/7pvpmxMwwOAQcpoVDSfLip) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:05 |
+| 42 | [Tu Amor Es un Crimen](https://open.spotify.com/track/7pvpmxMwwOAQcpoVDSfLip) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:05 |
+| 43 | [Maniatica Sexual](https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy) | [Lito y Polaco](https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF) | [Sandunguero](https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV) | 2:57 |
 | 44 | [Voltio \(Live\)](https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA) | [No Fear Live](https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f) | 3:01 |
 | 45 | [Mujeres](https://open.spotify.com/track/0rLJYPOKXUe2TfngVgH0eB) | [Dj Joe](https://open.spotify.com/artist/3mOpXyQgTwyCxIjz9EEIFN) | [Fatal Fantassy](https://open.spotify.com/album/5KjlY2iLyL9qaexUbxTGeo) | 2:52 |
 | 46 | [Puerto Rico Todos Quieren Fumar](https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp) | [Grupo Nizze](https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm) | [Playero 38 Special Edition](https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha) | 2:21 |
 | 47 | [Playero Street Mix 2 Radio Version](https://open.spotify.com/track/1iyS2ur2NqtiwQTSWHZq5Q) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU), [Blanco](https://open.spotify.com/artist/2R2C8r0t9p98AnGzUnOLAe), [Chesina](https://open.spotify.com/artist/4drWsJ0fgeZ4fcMJ8MR8Zr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Mexicano](https://open.spotify.com/artist/62U9TXZx2SxvIoxXHtHlzR), [Micol y Manuel](https://open.spotify.com/artist/7nuJDLQzYGL3L1OJiCw5qp), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [Underground Reggaeton "The Best Of Radio Version", Vol\. 1](https://open.spotify.com/album/0GHlZQPbwecsZ30EiAihMc) | 4:33 |
 | 48 | [Donde Mi No Vengas](https://open.spotify.com/track/3dsbpGfTrORNIo1aVCyS1q) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [Playero Dj Presenta Exitos '95 / 17Th Anniversary \(Underground Reggaeton Edition\)](https://open.spotify.com/album/1Sd1MeGVmcy4OHZq1svbdm) | 2:04 |
-| 49 | [Brutalidad](https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:03 |
-| 50 | [Liza Love](https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR) | [Frankie Boy](https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:41 |
+| 49 | [Liza Love](https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR) | [Frankie Boy](https://open.spotify.com/artist/7qoo1AvP85FXmN8cEwnBqN) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 1:41 |
+| 50 | [Brutalidad](https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl) | [Ruben Sam](https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v) | [Playero Dj Live](https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig) | 2:03 |
 | 51 | [Soy El Mas Sensual](https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1) | [Renato](https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn) | [Soy El Mas Sensual \- Renato Classics](https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q) | 3:30 |
 | 52 | [Reggae Respect \- Live](https://open.spotify.com/track/6RyawEEdxTWMFtwRBpfFV3) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Gran Omar](https://open.spotify.com/artist/0Fb7RqTb9p5NCJx5yOTKJe) | [Live](https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ) | 2:13 |
 | 53 | [Wild Gilbert](https://open.spotify.com/track/5PKdhX6Gvqg7tnV6xB4MMp) | [Lovindeer](https://open.spotify.com/artist/2BHBhGqqA96TeKQB3Hrzcx) | [Jamaica Land of the People](https://open.spotify.com/album/2LOKPTo1YbmstOsqGURysV) | 6:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 74 | [El Trenecito](https://open.spotify.com/track/7IscZjDuApOs2gIFw9XaFp) | [Impacto Mc](https://open.spotify.com/artist/1KHgy3AlIpLFkeEyRwC6Qs) | [Golosa](https://open.spotify.com/album/6T2JoTSWxQhqIzcauJivm3) | 3:14 |
 | 75 | [Alza la Mano Si Te Gusta Fumar](https://open.spotify.com/track/0m6giBF179ViIADfkXcLkQ) | [The Noise](https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8), [Baby J](https://open.spotify.com/artist/0CXKthoKqF82onOw8RB6pA) | [The Beginning](https://open.spotify.com/album/3nqohzl5qqylbTrIu3PIB7) | 3:10 |
 
-Snapshot ID: `MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh`
+Snapshot ID: `MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1`

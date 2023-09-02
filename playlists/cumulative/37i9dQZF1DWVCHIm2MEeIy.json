@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 196662,
       "name": "Beide alleine - Radio Edit",
       "url": "https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 385103,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f"
@@ -1790,6 +1790,24 @@
       "duration_ms": 408188,
       "name": "Esp\u00edritu de la Tierra",
       "url": "https://open.spotify.com/track/2Wrsk3l6kA2LBjs2V7krgx"
+    },
+    {
+      "album": {
+        "name": "Euphoria | Tanz der Planeten",
+        "url": "https://open.spotify.com/album/4DRNTwsmWHDch8Sizreid3"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452125,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/29bvDzVtefT0PDoC4BDUpQ"
     },
     {
       "album": {
@@ -2342,6 +2360,28 @@
       "duration_ms": 396843,
       "name": "Higher Dimension",
       "url": "https://open.spotify.com/track/4PYmuwsR4TcCXEr2PBhrXi"
+    },
+    {
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        },
+        {
+          "name": "Softee",
+          "url": "https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219750,
+      "name": "Highlight - Edit",
+      "url": "https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF"
     },
     {
       "album": {
@@ -3358,7 +3398,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 391875,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2"
@@ -5192,6 +5232,24 @@
       "duration_ms": 182400,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/0qT8WX3WC3Tz3zgH9rxVH1"
+    },
+    {
+      "album": {
+        "name": "The Gates Of Babylonia",
+        "url": "https://open.spotify.com/album/1WWuZ6jS4s45506fTQll3h"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389940,
+      "name": "The Gates Of Babylonia",
+      "url": "https://open.spotify.com/track/4JaCQuCXKEMo3jVDql5pqY"
     },
     {
       "album": {

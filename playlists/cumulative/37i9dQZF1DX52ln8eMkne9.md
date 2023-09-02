@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-302 songs - 22 hr 36 min
+303 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Behind Me](https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx) | 6:20 | 2023-02-16 |  |
 | [Behind Me](https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 6:20 | 2022-07-28 | 2022-09-01 |
 | [Better Things](https://open.spotify.com/track/5PJcygObRXafSPuYnND4kM) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Better Things](https://open.spotify.com/album/3VsxrCk2crY6hf8gnMBGm1) | 4:16 | 2021-12-17 | 2022-08-31 |
+| [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/51SL2r0y3w73bK1iCvi2nN) | [Johanna Linnea Jakobsson](https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/67s4gPfQRUR1z2CfN1BrGW) | 6:43 | 2023-08-30 |  |
 | [Bewitched, Bothered, And Bewildered](https://open.spotify.com/track/0gE63HwMeWgK30ONO4witM) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 7:03 | 2021-12-17 | 2023-02-23 |
 | [Black Coffee](https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 5:59 | 2022-09-13 |  |
 | [Blame It On My Youth \(with Paul Weston & His Orchestra\)](https://open.spotify.com/track/3M6oAV6Mc88W9mQsVYyEIF) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 3:39 | 2021-12-17 | 2023-02-16 |
@@ -103,7 +104,7 @@
 | [Guess Who I Saw Today](https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:09 | 2022-09-22 | 2023-04-27 |
 | [Happy Little Sunshine Beam](https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [One Evening in July](https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01) | 4:56 | 2022-08-30 |  |
 | [Hate is the Basis \(of Love\)](https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:33 | 2023-01-17 |  |
-| [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 |  |
+| [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 | 2023-09-02 |
 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 | 2021-12-17 |  |
 | [How Long](https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [Colours](https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O) | 4:35 | 2022-02-18 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 | 2022-02-18 |  |

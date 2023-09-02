@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Jawan
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,838 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,915 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/track/6aQIGqAo9PxRKjUkhYtR6R) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Hayyoda \(From "Jawan"\)](https://open.spotify.com/album/3JiVWzoQqLwmH8DcayvdQ6) | 3:20 |
-| 2 | [Aradhya](https://open.spotify.com/track/21FnxXYNEPSjcX08tR0M8W) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Kushi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7BwZ2CnYpBBHRQiUI8TQkJ) | 4:42 |
+| 2 | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/track/0H419AjRA2CY6RtjNT1q1l) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/4BlgOYbwSOCeJueIHUG9wp) | 4:42 |
 | 3 | [Oru Vari Kadhai \- From "Lucky Man"](https://open.spotify.com/track/1UsusaXKRJBiCEsWmIfBiY) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Balaji Venugopal](https://open.spotify.com/artist/2AgNfl8BFrDlCLKeZgBZli) | [Lucky Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7009toCxzwwQuicgXAvvzR) | 3:14 |
 | 4 | [Nenjame Nenjame](https://open.spotify.com/track/5gpjup3L76P6ZNMu44eCyG) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Maamannan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pMOd6mZQQDi7hz6NYOKL0) | 6:50 |
 | 5 | [Vannarapettayila \(From "Maaveeran"\)](https://open.spotify.com/track/19pRrxOQCRg8j0uQxe2d0V) | [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Vannarapettayila \(From "Maaveeran"\)](https://open.spotify.com/album/1HcB2vrrODInH3wZOXSY9k) | 3:28 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 50 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 |
 | 51 | [Summa Surrunu](https://open.spotify.com/track/1BlBjCEUiAmKyBMy9Liukz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Etharkkum Thunindhavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eWiif4iU60XSSada84hhw) | 3:46 |
 
-Snapshot ID: `MCxmMzEwNjYzMDY3YTRiZDczNmYzNTA2NWY2NDRkYjM3Y2M4YzM1Y2Rl`
+Snapshot ID: `MCxiOTdmOTY4OTY0NDMwNDk3NTliYjU5YjlkNzgyYjY4NDlmMzE5MmRi`

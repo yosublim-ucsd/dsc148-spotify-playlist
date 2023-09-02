@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 258720,
       "name": "Ai de Mim",
       "url": "https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf"
@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182111,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO"
+    },
+    {
+      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -1250,6 +1268,28 @@
       "duration_ms": 218532,
       "name": "Desculpa o Exagero",
       "url": "https://open.spotify.com/track/6UlCJWjcObqoxgKnFMN5WD"
+    },
+    {
+      "album": {
+        "name": "Destino e Verdade",
+        "url": "https://open.spotify.com/album/5gfGcAFlWZhoxt7X7FRDQe"
+      },
+      "artists": [
+        {
+          "name": "Conrado Pera",
+          "url": "https://open.spotify.com/artist/69kv07xFTjUnlXnWON5vMB"
+        },
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230527,
+      "name": "Destino e Verdade",
+      "url": "https://open.spotify.com/track/1gxTYhtlVJF9ECG4VhTUQl"
     },
     {
       "album": {
@@ -1868,7 +1908,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 149576,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT"

@@ -4,7 +4,7 @@
 
 > Your ultimate easy\-listening soundtrack for the summer months.
 
-243 songs - 14 hr 54 min
+244 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [True Colors](https://open.spotify.com/track/2Njmt8D9yOBjeR6RgYcfaI) | [Jules Larson](https://open.spotify.com/artist/66fOsZEHm1oSOEGov5KxxW) | [Let's Stay Young](https://open.spotify.com/album/7khzx0fwqW3he3pyjRJ2II) | 3:46 | 2022-09-16 | 2022-11-26 |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2022-11-25 | 2023-03-01 |
 | [Turn Me On](https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 2:34 | 2022-11-25 | 2023-03-01 |
-| [Us](https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh) | 3:03 | 2023-06-02 |  |
+| [Us](https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/5H62A6LN8NeKBt4rB2K8Bq) | 3:03 | 2023-06-06 |  |
+| [Us](https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh) | 3:03 | 2023-06-02 | 2023-09-02 |
 | [Us Against the World](https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 3:59 | 2022-11-25 | 2023-03-01 |
 | [Use Somebody](https://open.spotify.com/track/1NKJRajwlF57EtkRK4DzNi) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up \(Louder\)](https://open.spotify.com/album/75EDt9qc7jTgyoi8K4SyJn) | 3:08 | 2022-11-25 | 2023-03-01 |
 | [Use Somebody \- Acoustic](https://open.spotify.com/track/5lZVXDJI3PnnYxBNwNXQgH) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Use Somebody \(Acoustic\)](https://open.spotify.com/album/3MsCfv21nw36leTfdiZSkV) | 2:52 | 2022-11-25 | 2023-03-01 |

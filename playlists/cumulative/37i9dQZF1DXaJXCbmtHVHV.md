@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> Top country hits you know and love! Cover: Jordan Davis
+> Top country hits you know and love! Cover: Brothers Osborne
 
 252 songs - 13 hr 37 min
 

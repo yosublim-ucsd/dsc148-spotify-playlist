@@ -2,7 +2,7 @@
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Dilated Peoples
+> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Black Star
 
 138 songs - 9 hr 16 min
 

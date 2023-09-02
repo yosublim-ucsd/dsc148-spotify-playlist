@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "Bendita Entre as Mulheres",
+        "url": "https://open.spotify.com/album/11jiBAg01XrtrklducwdUJ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mantovani",
+          "url": "https://open.spotify.com/artist/3VJMa20Mfb44VqpLj8a4xr"
+        },
+        {
+          "name": "Keciane Lima",
+          "url": "https://open.spotify.com/artist/4kBDadVgAVG0jcEJGMvFT3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208511,
+      "name": "Bendita Entre as Mulheres",
+      "url": "https://open.spotify.com/track/2UtdCK3fpZgIAxJ4Nr0qAF"
+    },
+    {
+      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -875,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Exaltado",
+        "url": "https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280851,
+      "name": "Exaltado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82"
+    },
+    {
+      "album": {
         "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
         "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
       },
@@ -974,7 +1014,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 262707,
       "name": "Gra\u00e7as Pai",
       "url": "https://open.spotify.com/track/6pri33zFFO8My7Y8YYEiPw"
@@ -1309,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Maria Vem",
+        "url": "https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK"
+      },
+      "artists": [
+        {
+          "name": "Liah Soares",
+          "url": "https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240513,
+      "name": "Maria Vem",
+      "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
+    },
+    {
+      "album": {
         "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
         "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
       },
@@ -1374,7 +1432,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 243371,
       "name": "Meu Jeito de Arrumar",
       "url": "https://open.spotify.com/track/6Aup2MCHinKld8gJVCWqBE"
@@ -1600,7 +1658,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 203189,
       "name": "Nosso General",
       "url": "https://open.spotify.com/track/68TNC5h0T9ykt0zIqKVrsG"

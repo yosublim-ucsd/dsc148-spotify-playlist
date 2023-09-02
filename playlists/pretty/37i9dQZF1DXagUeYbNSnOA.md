@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Priscilla Félix\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,085 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,090 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 22 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
 | 23 | [Mal Marzo](https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Pulsión](https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2) | 2:25 |
 | 24 | [TUYO](https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [TUYO](https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ) | 3:09 |
-| 25 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
-| 26 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |
+| 25 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |
+| 26 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 | 27 | [La Vida No Quiso](https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [La Vida No Quiso](https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz) | 3:36 |
-| 28 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |
-| 29 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 |
+| 28 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 |
+| 29 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 |
 | 30 | [SOL](https://open.spotify.com/track/1uEv6M3Ry3CGvvUVgPJYjQ) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [SOL](https://open.spotify.com/album/7t2eAbzB3o19k1wUZdwXGj) | 2:49 |
 | 31 | [Mercurio](https://open.spotify.com/track/4A6Xvi8gu5xBDw8oKrintA) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mercurio](https://open.spotify.com/album/11o8WvVx0QdodULqx6bmYY) | 2:03 |
 | 32 | [Secuela](https://open.spotify.com/track/43XwC379JnUYhLhqVfpIls) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Secuela](https://open.spotify.com/album/6lLNACOJ7QWeOUgKQdGUXP) | 2:42 |
-| 33 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 |
-| 34 | [Quién de los Dos?](https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3) | [Quién de los Dos?](https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD) | 3:30 |
+| 33 | [Quién de los Dos?](https://open.spotify.com/track/1WBGCcudqtHXZnhWrgj4Ux) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3) | [Quién de los Dos?](https://open.spotify.com/album/2mdqWQ24e2vx8qjEq7CbwD) | 3:30 |
+| 34 | [Anime](https://open.spotify.com/track/35tZgFGkFS4NPCsFp1QgxO) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD) | [Anime](https://open.spotify.com/album/6bGD7XoL6BegobJzTXtzkR) | 2:39 |
 | 35 | [Estás Aquí](https://open.spotify.com/track/48bK7pREsOWZC7Y8Jl78zu) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Estás Aquí](https://open.spotify.com/album/7nY3pbZRnpn74B2EjV3c9n) | 3:58 |
 | 36 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 |
 | 37 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 39 | [DTB](https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [DTB](https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU) | 3:05 |
 | 40 | [la piedad](https://open.spotify.com/track/4WRT9VV9YcsdMJEFJbHX8J) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [peek!](https://open.spotify.com/album/33BXeFZabK1YWgJCKfGeF8) | 3:38 |
 | 41 | [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 |
-| 42 | [Patio de Adelante](https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa) | [Playa Gótica](https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz) | [Patio de Adelante](https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj) | 3:56 |
-| 43 | [Lento](https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR) | [Lento](https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm) | 3:28 |
+| 42 | [Lento](https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR) | [Lento](https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm) | 3:28 |
+| 43 | [Patio de Adelante](https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa) | [Playa Gótica](https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz) | [Patio de Adelante](https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj) | 3:56 |
 | 44 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 |
 | 45 | [Tantas cosas que decir](https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS) | [4 x el desamor](https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr) | 3:01 |
 | 46 | [Intermodal](https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Intermodal](https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
 | 50 | [Sad Brillo](https://open.spotify.com/track/70D1DWrZqhxtiBNCs9LC8d) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Sad Brillo](https://open.spotify.com/album/4eN5vemrQsubJb5HVFPHbv) | 3:02 |
 
-Snapshot ID: `MCw2NDg3MWM3MmY1OTE2ZDRlMjNjNTQ4MmMxNGI0Y2RmM2QxOGE1NDE0`
+Snapshot ID: `MCw5ZGI5NjRkNTA2MWM1NWUyMDk0ZTEwYWM4MTE0Zjk2NTkwNmFlMWE3`

@@ -1,13 +1,89 @@
 {
-  "description": "Strictly for the streets. Cover: Gucci Mane",
-  "num_followers": 1186041,
+  "description": "Strictly for the streets. Cover: Gunna",
+  "num_followers": 1186158,
   "original_name": "Out The Mud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjVhZmYyZWUwY2I3MDg2ZjZmZTAwOTg5ZjU3NDIzM2E0ODhmMzVj",
+  "snapshot_id": "MCw2YzUwMmE5Mzg4NDEzOTRjZWVhZDAyZTc5NjlmNmJlMmVjNmE1YTJl",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 120707,
+      "name": "FREE DOGGY (FEAT. 42 DUGG)",
+      "url": "https://open.spotify.com/track/4fSvurzElRi0jYgmqReno0"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Got Me Hot",
+        "url": "https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "duration_ms": 170748,
+      "name": "Got Me Hot",
+      "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 142451,
+      "name": "Keep It Low (feat. Future)",
+      "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Bonecrusher (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/3tb85w0VG9SO5mTZR3Gxmd"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 205769,
+      "name": "Bonecrusher (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/3DmurtaoUILQC8e4XMPW4K"
+    },
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
@@ -45,40 +121,140 @@
       "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
-      "added_at": "2023-06-30 04:01:00",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "First Day Out (Freestyle)",
-        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
+        "name": "Gangsta Lean",
+        "url": "https://open.spotify.com/album/0dy9A6nscVVldqXuWDgREB"
       },
       "artists": [
         {
-          "name": "Rundown Spaz",
-          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
         }
       ],
-      "duration_ms": 142739,
-      "name": "First Day Out (Freestyle)",
-      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
+      "duration_ms": 129160,
+      "name": "Gangsta Lean",
+      "url": "https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9"
     },
     {
-      "added_at": "2023-07-28 04:25:24",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+        "name": "Can\u2019t Go To Jail",
+        "url": "https://open.spotify.com/album/45sHVXRiTHH5o4KkIGiQld"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
         }
       ],
-      "duration_ms": 246133,
-      "name": "MELTDOWN (feat. Drake)",
-      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+      "duration_ms": 118904,
+      "name": "Can\u2019t Go To Jail",
+      "url": "https://open.spotify.com/track/1Xq5iwsvGxJ7SOaX5LdQc3"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "Peaches & Eggplants (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Presidential Rolex",
+        "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Presidential Rolex",
+      "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "No Fake Love",
+        "url": "https://open.spotify.com/album/0tJu26afSbkWTDgBABZeEV"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "duration_ms": 146976,
+      "name": "No Fake Love",
+      "url": "https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Blac Sheep 2",
+        "url": "https://open.spotify.com/album/5NTVmrFFTFpEQ75W69UbHW"
+      },
+      "artists": [
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/47PMDlcWhtw5Wg3dfXK49H"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
+        "url": "https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "duration_ms": 129593,
+      "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
+      "url": "https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -105,80 +281,24 @@
       "url": "https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-07-28 04:25:24",
       "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Peaches & Eggplants (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 120707,
-      "name": "FREE DOGGY (FEAT. 42 DUGG)",
-      "url": "https://open.spotify.com/track/4fSvurzElRi0jYgmqReno0"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 142451,
-      "name": "Keep It Low (feat. Future)",
-      "url": "https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "F*ck U Thought",
-        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "F*ck U Thought",
-      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
+      "duration_ms": 246133,
+      "name": "MELTDOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -197,20 +317,20 @@
       "url": "https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Presidential Rolex",
-        "url": "https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx"
+        "name": "First Day Out (Freestyle)",
+        "url": "https://open.spotify.com/album/0qGQiQTv8KPSgdK5K2hz1u"
       },
       "artists": [
         {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
         }
       ],
-      "duration_ms": 148706,
-      "name": "Presidential Rolex",
-      "url": "https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe"
+      "duration_ms": 142739,
+      "name": "First Day Out (Freestyle)",
+      "url": "https://open.spotify.com/track/7AtQxohgEu5dRYdcY4gB6G"
     },
     {
       "added_at": "2023-08-16 06:10:37",
@@ -263,26 +383,6 @@
       "duration_ms": 146623,
       "name": "No Amiris",
       "url": "https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
-        "url": "https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        }
-      ],
-      "duration_ms": 129593,
-      "name": "A MOMENT WITH GOTTI (FEAT. YO GOTTI)",
-      "url": "https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK"
     },
     {
       "added_at": "2023-07-28 04:25:24",
@@ -625,22 +725,6 @@
       "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "No Fake Love",
-        "url": "https://open.spotify.com/album/0tJu26afSbkWTDgBABZeEV"
-      },
-      "artists": [
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        }
-      ],
-      "duration_ms": 146976,
-      "name": "No Fake Love",
-      "url": "https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg"
-    },
-    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Summer's Mine",
@@ -869,42 +953,6 @@
       "url": "https://open.spotify.com/track/7jwRq3gjpzHFuPNwSPLhBi"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Hood Rats (with Sukihana)",
-        "url": "https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Sukihana",
-          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
-        }
-      ],
-      "duration_ms": 175125,
-      "name": "Hood Rats (with Sukihana)",
-      "url": "https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Go Li Rye",
-        "url": "https://open.spotify.com/album/02WIswjyW1B4EDbzx7bmaD"
-      },
-      "artists": [
-        {
-          "name": "Li Rye",
-          "url": "https://open.spotify.com/artist/1QudwWfbchyvkMXva3wdqn"
-        }
-      ],
-      "duration_ms": 132112,
-      "name": "Rental Cars (RADARADA)",
-      "url": "https://open.spotify.com/track/5m9aOUiVR4oJE9T53QEda1"
-    },
-    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Swing My Doe (feat. BiC Fizzle)",
@@ -1099,38 +1147,6 @@
       "duration_ms": 170267,
       "name": "Bent",
       "url": "https://open.spotify.com/track/6ulEymrJ2Azx1uo3YHSE5w"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/4fxxMbrE7LqBA0AKY7gT4A"
-      },
-      "artists": [
-        {
-          "name": "Lil Zay Osama",
-          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
-        }
-      ],
-      "duration_ms": 139775,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5fra6mUVp8jq3DZ01mJPXb"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Who Is Fatt",
-        "url": "https://open.spotify.com/album/0Yp9JLAZRcOgHNQj0s0c5X"
-      },
-      "artists": [
-        {
-          "name": "YTB Fatt",
-          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
-        }
-      ],
-      "duration_ms": 110079,
-      "name": "Pimp Problems",
-      "url": "https://open.spotify.com/track/46yfBnOHB1Nhxn4rtVAJ25"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1331,26 +1347,6 @@
       "duration_ms": 166032,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Sun Up / Sun Down",
-        "url": "https://open.spotify.com/album/35QTFJiXPklVTsbRaVarI8"
-      },
-      "artists": [
-        {
-          "name": "DeeBaby",
-          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
-        },
-        {
-          "name": "Radistarz",
-          "url": "https://open.spotify.com/artist/5iMSKRaSXzdjqyeok8GtM2"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Sun Up / Sun Down",
-      "url": "https://open.spotify.com/track/7z1KycCf3qBqmfbaagBS0F"
     },
     {
       "added_at": "2023-04-28 04:01:00",

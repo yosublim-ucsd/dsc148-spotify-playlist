@@ -311,6 +311,42 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192207,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2tRAORKJBCRQjWslC1xJ5w"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159061,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/6eLq9zMQ2iykSYmQSKyNGU"
+    },
+    {
+      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB"
       },
@@ -784,6 +820,24 @@
       "duration_ms": 238639,
       "name": "Anywhere Away from Here (Rag\u2019n\u2019Bone Man & P!nk)",
       "url": "https://open.spotify.com/track/5gjATWO1EIhrCP1CQ2GWg8"
+    },
+    {
+      "album": {
+        "name": "as good a reason",
+        "url": "https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169721,
+      "name": "as good a reason",
+      "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
     },
     {
       "album": {
@@ -2003,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/0IHo9Z1H5vlLINGbtN2ALE"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/7xCQbRkgXIZKzIrB8yrG6v"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79"
       },
@@ -2300,6 +2372,24 @@
       "duration_ms": 174319,
       "name": "Cheers To New Beginnings",
       "url": "https://open.spotify.com/track/6Y2Rj0pnuo9rS9iz1cOKjr"
+    },
+    {
+      "album": {
+        "name": "Children of the Sky (a Starfield song)",
+        "url": "https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207611,
+      "name": "Children of the Sky (a Starfield song)",
+      "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
     },
     {
       "album": {
@@ -3084,7 +3174,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 217535,
       "name": "Devil In Your Eyes",
       "url": "https://open.spotify.com/track/2XhpBpMVmsYF0kn9UuyYdn"
@@ -3528,7 +3618,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 116511,
       "name": "drive faster",
       "url": "https://open.spotify.com/track/7hdes67sicWJ4oR1zVchuQ"
@@ -3572,6 +3662,24 @@
       "duration_ms": 180000,
       "name": "Driving",
       "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
+    },
+    {
+      "album": {
+        "name": "Driving To Nowhere",
+        "url": "https://open.spotify.com/album/3ElAgzbgtbzweDHr2snige"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Driving To Nowhere",
+      "url": "https://open.spotify.com/track/7bI0nfpRuGN5BUW23Auw26"
     },
     {
       "album": {
@@ -4042,7 +4150,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 136307,
       "name": "Everybody\u2019s Lonely",
       "url": "https://open.spotify.com/track/11Oz14NCrbx7sOLNoGEEa9"
@@ -8706,7 +8814,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 272021,
       "name": "Made Of Love",
       "url": "https://open.spotify.com/track/33uyQzDxVrCo7p7SaPfo15"
@@ -8959,6 +9067,24 @@
     },
     {
       "album": {
+        "name": "maybe i'm the problem now",
+        "url": "https://open.spotify.com/album/1nwXyhEXX10bzlqlryz9ZC"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "maybe i'm the problem now",
+      "url": "https://open.spotify.com/track/7lLkBTZRJrfGkZ6AMmjVD9"
+    },
+    {
+      "album": {
         "name": "Maybe Next Time",
         "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
       },
@@ -9060,7 +9186,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 219800,
       "name": "Middle Ground",
       "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
@@ -12309,6 +12435,24 @@
     },
     {
       "album": {
+        "name": "Sometimes You Lose Before You Win",
+        "url": "https://open.spotify.com/album/17CJhGkrhZomJmYP0WSFrK"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209026,
+      "name": "Sometimes You Lose Before You Win",
+      "url": "https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB"
+    },
+    {
+      "album": {
         "name": "FREAK",
         "url": "https://open.spotify.com/album/2ah42Cbj9lGQPo5wyeqYEL"
       },
@@ -12713,6 +12857,24 @@
     },
     {
       "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/6gpNZaAhggcDoW6PIPWtll"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6zxovpxhuNQwQBVv52gioP"
+    },
+    {
+      "album": {
         "name": "Technicolor Bliss",
         "url": "https://open.spotify.com/album/6UXlrgExMZR7Mgvgl790t7"
       },
@@ -12944,7 +13106,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 252500,
       "name": "The Future",
       "url": "https://open.spotify.com/track/4mNmzr1SRJ4HoeeGXvDOfV"
@@ -13280,7 +13442,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 230931,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA"
@@ -14526,7 +14688,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 200173,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK"
@@ -14544,7 +14706,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147360,
       "name": "When It All Falls Down",
       "url": "https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> Wes kadung sayang lalu ditinggal rabi 😢
+> Sedihe koyo ngene, nggak bahaya ta? 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,282 likes - 54 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,758 likes - 54 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 53 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 | 54 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
 
-Snapshot ID: `MCwwOGNiNjY0ODgxYjY0NjFiYWVhZWUwMTA1NDFlMDQxYjhhZjQ0OTRk`
+Snapshot ID: `MCw4MGRhNGU1NmE3MjE2YmZiNzhmZDc2ZDYwMWMxNmUwYzdiYjMxMTdh`

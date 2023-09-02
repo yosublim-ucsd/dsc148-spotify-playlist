@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-637 songs - 1 day 8 hr 30 min
+638 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Losing U \(feat\. Daylight\)](https://open.spotify.com/track/1rsn0LRt5IpGp9a2KC5bTW) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Daylight](https://open.spotify.com/artist/66bRetZ7cnvkGzNmFqE9Ws) | [Losing U \(feat\. Daylight\)](https://open.spotify.com/album/2MPjUrXc98DsMXGGiiK9jy) | 3:37 | 2022-01-14 | 2022-04-21 |
 | [Lost in Paradise](https://open.spotify.com/track/5hmazYiClGr40DkRXMku9s) | [Üm](https://open.spotify.com/artist/7FDZlaJrJ6jAXpDNttNJfs) | [Lost in Paradise](https://open.spotify.com/album/5nEHbW8rdL0T6mIg9jQnoJ) | 3:18 | 2022-04-01 |  |
 | [Lost With You](https://open.spotify.com/track/6ZrxtRGWbN5MZCwDBkhJkP) | [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Taye](https://open.spotify.com/artist/5KglBmg3ivkpxNMwDVTvXa) | [Lost With You](https://open.spotify.com/album/5no9W6sB050P0d8Xw1xIkP) | 3:16 | 2022-01-14 |  |
+| [Lost Without Your Love](https://open.spotify.com/track/6cmj7ekB4rAjIv4T1HXadO) | [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX), [Kimbo](https://open.spotify.com/artist/2Kb9FvBUAZE5fyXOMhxmOA) | [Lost Without Your Love](https://open.spotify.com/album/2UrgGKofRKdTKP6KdtqgEy) | 2:21 | 2023-08-25 |  |
 | [Love](https://open.spotify.com/track/35rWU6zabyoVbcTOIZ4WLU) | [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT) | [Love](https://open.spotify.com/album/734Wod5Q6qnIqOcnz2fVwG) | 2:31 | 2022-11-11 | 2022-12-16 |
 | [Love In California](https://open.spotify.com/track/7hPwgTYYLfqKQ3T6KgeC2K) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [José Lucas](https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP), [Bloke & Bird](https://open.spotify.com/artist/4DVAVxb23QtgmBspCLi10c) | [Love In California](https://open.spotify.com/album/3uec87fKWLQJHVx0azTTgj) | 2:55 | 2022-09-23 | 2022-12-09 |
 | [Love Is In The Air](https://open.spotify.com/track/2hlcoDVWYEfoNspgPuUvvT) | [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Love Is In The Air](https://open.spotify.com/album/0gEpZTXReW2piRCNQ2GtM9) | 2:41 | 2022-04-01 | 2022-07-27 |
@@ -439,7 +440,7 @@
 | [Passing Clouds](https://open.spotify.com/track/3jCTivI1jcDKREf1KKbhM6) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/06WTLNXbFeMrujjCJ0CT8P) | 2:32 | 2022-11-11 | 2023-06-18 |
 | [Perfect Strangers](https://open.spotify.com/track/1Te8WIfLudxjHTr66BL0JK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Perfect Strangers](https://open.spotify.com/album/3unvtEoEI6Ga2FMKotI20p) | 3:16 | 2022-04-01 | 2022-04-19 |
 | [Photograph](https://open.spotify.com/track/2bq2Ipl9FvcHHoQlPBPFPw) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Photograph](https://open.spotify.com/album/67NJrGFImrOr9joaz0GZXG) | 2:54 | 2022-09-23 | 2023-01-14 |
-| [Place to Go](https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Place to Go](https://open.spotify.com/album/2GPq2njeplRF9QnuASHO98) | 3:03 | 2022-05-13 |  |
+| [Place to Go](https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Place to Go](https://open.spotify.com/album/2GPq2njeplRF9QnuASHO98) | 3:03 | 2022-05-13 | 2023-09-02 |
 | [Pocketful of Sunshine](https://open.spotify.com/track/4wY5xcMsdYBGphuO4vEao1) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN) | [Pocketful of Sunshine](https://open.spotify.com/album/5M5dIzCCOQI84JA5ONuIRN) | 2:29 | 2023-08-04 |  |
 | [Praise You \(Chill Mix\) \- Extended Mix](https://open.spotify.com/track/4MQH3f29tWW0P0DE6SgOlb) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Michael Meaco](https://open.spotify.com/artist/3k9TFkTMa17cpLQLGKxQXV) | [Praise You](https://open.spotify.com/album/0bbF23nbT2Dexsuiok1Yro) | 3:21 | 2022-01-14 | 2022-05-29 |
 | [Probably Paradise](https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS) | [Luvine](https://open.spotify.com/artist/4mxVvkFC2mmOJ5QXBdRSDy), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Probably Paradise](https://open.spotify.com/album/1XPGR76SriABi9I1b794RV) | 2:03 | 2022-06-17 |  |

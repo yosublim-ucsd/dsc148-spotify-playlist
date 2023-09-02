@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jux & Jay Melody
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,085 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,146 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Dear Ex](https://open.spotify.com/track/3aZTvjlq5maf7UF61SVlEF) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Dear Ex](https://open.spotify.com/album/64gX9zSmA9yb7wvWsl1ebI) | 4:10 |
 | 70 | [Lonely](https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:12 |
 
-Snapshot ID: `MCwwODI4ZjJmZDlkMDA4YzVkMzlkMzAwZDZmNzAzNmIyZTVlYjIyNzRi`
+Snapshot ID: `MCwyYjcwZDFiMWE4MTBkMTk5N2JjYzZkNTk4OTZhYWUyMzJjN2MxZDgx`

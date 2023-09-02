@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Michele BI en portada.",
-  "num_followers": 93779,
+  "num_followers": 93824,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzRhM2YxY2Q5YjA3NDJmZjE2ZDZmOTZjNDA2MTFmZWNlMjA4ZmZj",
+  "snapshot_id": "MCxhNDA1ZTRkNDA1MTA2YzM4YzFmYTBmYzFkZmI2NDQ2YTVmMmIyZDFj",
   "tracks": [
     {
       "added_at": "2023-07-28 16:33:48",
@@ -159,8 +159,8 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -295,8 +295,8 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 185153,
-      "name": "Te Dejo",
-      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
+      },
+      "artists": [
+        {
+          "name": "Jessica Ballesteros",
+          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
+        }
+      ],
+      "duration_ms": 168711,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
+    },
+    {
       "added_at": "2023-07-28 16:33:48",
       "album": {
         "name": "Vivir Sin Ti ( Version Acustica )",
@@ -813,20 +829,20 @@
       "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
     },
     {
-      "added_at": "2023-08-04 06:00:00",
+      "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/3j8lPWgsLaxqylpLU0qsAF"
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
       },
       "artists": [
         {
-          "name": "Jessica Ballesteros",
-          "url": "https://open.spotify.com/artist/1Rq2kGkkTmWsoPlrB8baSE"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 168711,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/1E5eyzEex0ZjD4x8Z3ZSdD"
+      "duration_ms": 162320,
+      "name": "Prefiero Tomar",
+      "url": "https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -843,22 +859,6 @@
       "duration_ms": 203251,
       "name": "Que Le Vamos A Hacer",
       "url": "https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
-        "name": "Bordado a Mano",
-        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 162320,
-      "name": "Prefiero Tomar",
-      "url": "https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB"
     },
     {
       "added_at": "2023-08-04 06:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 No Vienes?",
-        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
       },
       "artists": [
         {
-          "name": "Vicky Terrazas",
-          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 215346,
-      "name": "\u00bfPor Qu\u00e9 No Vienes?",
-      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
+      "duration_ms": 183106,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
+        "name": "\u00bfPor Qu\u00e9 No Vienes?",
+        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
         }
       ],
-      "duration_ms": 183106,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
+      "duration_ms": 215346,
+      "name": "\u00bfPor Qu\u00e9 No Vienes?",
+      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Quiero Abrazarte Tanto",
-        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 211741,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "Soy de Parral",
         "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 205825,
       "name": "Soy de Parral",
       "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Quiero Abrazarte Tanto",
+        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 211741,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Volver\u00e9 A Amar",
-        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
-      },
-      "artists": [
-        {
-          "name": "Valentina Elizalde",
-          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "Volver\u00e9 A Amar",
-      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "Volumen 2",
         "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
       },
@@ -1423,22 +1407,18 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
+        "name": "Volver\u00e9 A Amar",
+        "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
       "artists": [
         {
-          "name": "Marilyn Pati\u00f1o",
-          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
-        },
-        {
-          "name": "Lady Yuliana",
-          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+          "name": "Valentina Elizalde",
+          "url": "https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1"
         }
       ],
-      "duration_ms": 205840,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
+      "duration_ms": 240680,
+      "name": "Volver\u00e9 A Amar",
+      "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
+        },
+        {
+          "name": "Lady Yuliana",
+          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
         "name": "No Te Fui Suficiente",
         "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Al Cabo Que Ni Queria",
-        "url": "https://open.spotify.com/album/3zhdLWeV87b7IqOcZe0NIx"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 158380,
-      "name": "Al Cabo Que Ni Queria",
-      "url": "https://open.spotify.com/track/1ybpptCc0y0OD0039yhyZm"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "\u00cdntimamente",
         "url": "https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 186750,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Padilla",
+          "url": "https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv"
+        }
+      ],
+      "duration_ms": 175770,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc"
+        "name": "Al Cabo Que Ni Queria",
+        "url": "https://open.spotify.com/album/3zhdLWeV87b7IqOcZe0NIx"
       },
       "artists": [
         {
-          "name": "Nicole Padilla",
-          "url": "https://open.spotify.com/artist/1nKgKBoclIzq2uiBRz3VAv"
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
         }
       ],
-      "duration_ms": 175770,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt"
+      "duration_ms": 158380,
+      "name": "Al Cabo Que Ni Queria",
+      "url": "https://open.spotify.com/track/1ybpptCc0y0OD0039yhyZm"
     },
     {
       "added_at": "2023-07-28 16:33:48",

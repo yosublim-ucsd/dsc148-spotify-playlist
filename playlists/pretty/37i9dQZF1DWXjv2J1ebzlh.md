@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,681 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,733 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 3 | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0) | 3:43 |
 | 4 | [The Coffee Cola Song](https://open.spotify.com/track/6qBkgf34enQ1CdaXDy46yr) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music 1975 \- 1982](https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz) | 5:05 |
 | 5 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 |
-| 6 | [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 |
+| 6 | [Come on Home](https://open.spotify.com/track/1FhP3mymDoN2hX5p57uTnu) | [Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimited](https://open.spotify.com/album/0STgCf0eno2mvc48tbckNt) | 5:18 |
 | 7 | [Bananeira](https://open.spotify.com/track/7z3VFSZIVskVQ3UJK6AOTZ) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago](https://open.spotify.com/album/5ePDapcpcssBfsIpU3iJPZ) | 2:52 |
 | 8 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 |
 | 9 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
@@ -1119,7 +1119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1109 | [Paint It Black](https://open.spotify.com/track/3w2F2Pb2Kv0ZzeGD7SfB30) | [Africa](https://open.spotify.com/artist/4bszODJhbxkwHlq0Inh6VU) | [Music From “Lil Brown” \- Remastered](https://open.spotify.com/album/1xe6dsE1l6EvVoxNJhzB14) | 7:28 |
 | 1110 | [Life On Mars?](https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge](https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD) | 3:29 |
 | 1111 | [Canto al Fuego](https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Matanza](https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq) | 6:08 |
-| 1112 | [El Cumbanchero](https://open.spotify.com/track/1RdRQO0vu4sfc8UuqLKLL9) | [Sabu](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [Palo Congo](https://open.spotify.com/album/0yPE5s2h0XF9Umc6ENEKE8) | 5:39 |
+| 1112 | [El Cumbanchero](https://open.spotify.com/track/1RdRQO0vu4sfc8UuqLKLL9) | [Sabu](https://open.spotify.com/artist/4kDbYSOmQtrNDmAjftw8Xf) | [Palo Congo](https://open.spotify.com/album/0yPE5s2h0XF9Umc6ENEKE8) | 5:39 |
 | 1113 | [Eso Si No e Na \(Salve\)](https://open.spotify.com/track/3UoKCIofzBcvHNsKf7ebgH) | [Isidoro Flores Y Su Cuarteto](https://open.spotify.com/artist/4DKjs2IFfS1y7ju8dV2n99), [Vinicio Franco](https://open.spotify.com/artist/11ntbyXsNwVqgHxI8Q6jhB), [Tilito Vázquez](https://open.spotify.com/artist/3ogsabTUxSnnLEULneGA2q), [Don Santiago](https://open.spotify.com/artist/0KibNMmUplwYFiy2hF4apw) | [Como la Piña, Merengues](https://open.spotify.com/album/4Oefv8PxynzIgXCUY0dC0p) | 2:32 |
 | 1114 | [Dziwny weekend](https://open.spotify.com/track/4aO5ueFOBGTf4eJEH5xTVe) | [Breakout](https://open.spotify.com/artist/58QcZdfYvMMR3ErdgytWy7) | [70a](https://open.spotify.com/album/259BjcEILuwwegA3dVZBZ5) | 4:14 |
 | 1115 | [Pentatonik](https://open.spotify.com/track/5XtP1YXbpi2JSMH7KJGj4d) | [Cuasares](https://open.spotify.com/artist/0TohlPrSlxJlU6yUjMk4A1) | [Afro\-Progresivo](https://open.spotify.com/album/5wNiuBVAabdpOQzw6xRPbh) | 2:29 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxjZWE3NmM2Mzc1ZmY4M2FlMWIxYjA2MjFkNGQ5ODk4YzZlMzE4NTRm`
+Snapshot ID: `MCwwMjQwZGQ5MjE5MzdjNzJmZGE1MzRkYmI5N2M2ZjBkN2FmNTgxMGU1`

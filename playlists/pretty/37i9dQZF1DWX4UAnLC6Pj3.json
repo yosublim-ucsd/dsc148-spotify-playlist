@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Arrolladora Banda El Lim\u00f3n en portada.",
-  "num_followers": 1136466,
+  "num_followers": 1136661,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmZlYzM2MTI1ZTk4NjQ4YjE3ZTUzODNmMWI4MjM5MGUwNDA2ZmM2",
+  "snapshot_id": "MCwwOWU2MDIxNDY1ZDBlYzBjYWM2N2Q3ODUxNGUwOGJhMGUxMjY3ZDFi",
   "tracks": [
     {
       "added_at": "2023-08-25 06:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Belleza Pura",
-        "url": "https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5"
+        "name": "Nunca Dudes En Llamarme",
+        "url": "https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96"
       },
       "artists": [
         {
           "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 204453,
-      "name": "Belleza Pura",
-      "url": "https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt"
+      "duration_ms": 204160,
+      "name": "Nunca Dudes En Llamarme",
+      "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Nunca Dudes En Llamarme",
-        "url": "https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96"
+        "name": "Belleza Pura",
+        "url": "https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5"
       },
       "artists": [
         {
           "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Nunca Dudes En Llamarme",
-      "url": "https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu"
+      "duration_ms": 204453,
+      "name": "Belleza Pura",
+      "url": "https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Ajeno",
+        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 182080,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Ajeno",
-        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Prov\u00f3came",
-      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
+        "name": "Si Esta Botella Hablara",
+        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1651,22 +1655,18 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Si Esta Botella Hablara",
-        "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+      "duration_ms": 188000,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Mi Destino Es Ser Borracho",
-        "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 199552,
-      "name": "Mi Destino Es Ser Borracho",
-      "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "No Es Cierto Que Nunca Te Quise",
         "url": "https://open.spotify.com/album/62ROzJk7dyyExvGQXJZats"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 140063,
       "name": "No Es Cierto Que Nunca Te Quise",
       "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Mi Destino Es Ser Borracho",
+        "url": "https://open.spotify.com/album/5zv0ZwVrRDkWpr0XoXeVmt"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 199552,
+      "name": "Mi Destino Es Ser Borracho",
+      "url": "https://open.spotify.com/track/7KkHn5YqIgq4ZK42bDGm7O"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/50qG3psl4Jm5CxyfwNrLop"
-      },
-      "artists": [
-        {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Como Esos Amantes",
-      "url": "https://open.spotify.com/track/2grAlpt4rm5MxnNw0U6OLc"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "No Se Lo Deseo a Nadie",
         "url": "https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/50qG3psl4Jm5CxyfwNrLop"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Como Esos Amantes",
+      "url": "https://open.spotify.com/track/2grAlpt4rm5MxnNw0U6OLc"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -2099,6 +2099,22 @@
       "duration_ms": 210373,
       "name": "A La Inversa",
       "url": "https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Amor No Tiene Sexo",
+        "url": "https://open.spotify.com/album/32cveKCOFwSHsr27tQ8ZzB"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 182725,
+      "name": "Amor No Tiene Sexo",
+      "url": "https://open.spotify.com/track/3XnSWfa7yEAF5k5CfDAX4U"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -2167,22 +2183,6 @@
       "duration_ms": 177631,
       "name": "Me Equivoqu\u00e9 en Amarte",
       "url": "https://open.spotify.com/track/46i0h9eAuaj4cMCDKUYF2P"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Amor No Tiene Sexo",
-        "url": "https://open.spotify.com/album/32cveKCOFwSHsr27tQ8ZzB"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 182725,
-      "name": "Amor No Tiene Sexo",
-      "url": "https://open.spotify.com/track/3XnSWfa7yEAF5k5CfDAX4U"
     }
   ],
   "unique_name": "Banda 2023",

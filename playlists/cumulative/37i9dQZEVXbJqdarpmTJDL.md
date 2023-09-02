@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,264 songs - 2 day 19 hr 45 min
+1,265 songs - 2 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Jerry](https://open.spotify.com/track/0cUCiNBjRAVpczxdftQ2hA) | [Scar](https://open.spotify.com/artist/0RvMynE7qhIfAZdMHkA1Mq), [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Goons](https://open.spotify.com/album/07r0WakxR92LhYYIR7Kbnb) | 2:43 | 2022-04-21 | 2022-04-24 |
 | [Jet](https://open.spotify.com/track/1FaERnz6U0LZ2AHI5JZytO) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Jet](https://open.spotify.com/album/0Ux7BDqd9Ub4lzNga1jLaM) | 3:59 | 2022-01-14 | 2022-05-14 |
 | [JET II](https://open.spotify.com/track/457R4xC0mHC4pkYqaGOY2D) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [JET II](https://open.spotify.com/album/2jEGfT3J0Ys4hGDoiHR0dp) | 3:22 | 2023-01-28 | 2023-02-22 |
+| [Jimmy Choo](https://open.spotify.com/track/1ETfPljlgGcoHzpAcagBAA) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Stripclub \- Jimmy Choo](https://open.spotify.com/album/2IsryOQ53jlJXySKSghYXW) | 2:39 | 2023-09-01 |  |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-06-28 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-24 | 2022-12-28 |
 | [Job Done](https://open.spotify.com/track/2O5JwXJ7MzWeD8zENEM8uY) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Skinny](https://open.spotify.com/artist/11Un22wL8sf52Wb5yIAqjG) | [ATHENA](https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc) | 3:32 | 2022-12-17 | 2022-12-19 |
@@ -1129,7 +1130,7 @@
 | [Ti Fovasai](https://open.spotify.com/track/5Gk1WhWoRgy9feTvLT9RWK) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale](https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G) | 4:18 | 2021-06-06 | 2021-10-17 |
 | [Ti Perimeneis](https://open.spotify.com/track/5myAiflrkMcI9XyCRHANHE) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 3:03 | 2021-06-20 | 2021-06-22 |
 | [Ti Zitas](https://open.spotify.com/track/357Ces27QaK6BQ3W6cZUeE) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ti Zitas](https://open.spotify.com/album/1DuLi4qFncYBLF6vbc9ecX) | 3:08 | 2022-03-30 | 2022-04-03 |
-| [Tik Tak](https://open.spotify.com/track/249Ccx4Udp9bMug0T505Vx) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Tik Tak](https://open.spotify.com/album/1fVCIQYct98eQTkqVqYobg) | 2:23 | 2023-02-03 |  |
+| [Tik Tak](https://open.spotify.com/track/249Ccx4Udp9bMug0T505Vx) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Tik Tak](https://open.spotify.com/album/1fVCIQYct98eQTkqVqYobg) | 2:23 | 2023-02-03 | 2023-09-02 |
 | [Tik Tak \- Mad VMA Version](https://open.spotify.com/track/3kT7DwQt6A9xr6jXpHL4O8) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Tik Tak \(Mad VMA Version\)](https://open.spotify.com/album/2LOoF5U9HTm0nwXR5vypFm) | 3:35 | 2023-07-08 | 2023-07-10 |
 | [TIL FURTHER NOTICE](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 | 2023-07-29 | 2023-07-31 |
 | [Tilefono](https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Tilefono](https://open.spotify.com/album/33YsXsjLwzvwNhBoniCTyC) | 3:11 | 2022-04-20 | 2022-08-26 |

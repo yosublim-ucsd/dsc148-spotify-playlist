@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Walk the bridge between indie and folk. Cover: Delaney Bailey",
+  "description": "Walk the bridge between indie and folk. Cover: Briston Maroney",
   "name": "Folk Arc",
   "tracks": [
     {
@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Cubic Zirconia",
+        "url": "https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244218,
+      "name": "Cubic Zirconia",
+      "url": "https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ"
+    },
+    {
+      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173599,
       "name": "everything\u2019s been going so well",
       "url": "https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb"
@@ -5891,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217293,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+    },
+    {
+      "album": {
         "name": "Mess Esque",
         "url": "https://open.spotify.com/album/3FxizRBHvFR28BC4yYGMih"
       },
@@ -7078,7 +7114,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 262350,
       "name": "Witch Hazel",
       "url": "https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e"

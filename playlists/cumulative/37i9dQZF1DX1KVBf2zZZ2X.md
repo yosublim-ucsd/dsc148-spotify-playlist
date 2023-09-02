@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-86 songs - 3 hr 47 min
+94 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,17 +17,22 @@
 | [April Showers](https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [The Perfect Morning](https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB) | 2:48 | 2023-03-03 |  |
 | [Arbores Unwind](https://open.spotify.com/track/1syN4lEn1qC83MPXxoZJSu) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Arbores Unwind](https://open.spotify.com/album/6scPgV33F1GZbWZs5uqHga) | 2:15 | 2023-07-21 |  |
 | [At Dawn](https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:14 | 2023-03-03 |  |
+| [Aventura](https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Aventura](https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs) | 2:38 | 2023-09-01 |  |
+| [Balcons Verdoyants](https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Balcons Verdoyants](https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq) | 3:25 | 2023-09-01 |  |
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-03-03 |  |
 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 | 2023-03-03 |  |
 | [Before I Wake Up](https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Before I Wake Up](https://open.spotify.com/album/6Om4dd5U9FDfdaqPWbfpzU) | 2:51 | 2023-03-03 |  |
 | [Boreal Forest](https://open.spotify.com/track/3km5eq3PiyetKEGn9MQMS2) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Exploring Nature](https://open.spotify.com/album/5uFY3CuxlrXS4BorPrSLfV) | 2:06 | 2023-04-13 |  |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-03-03 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-03-03 |  |
+| [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 |  |
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-03-03 |  |
+| [Calming Birds](https://open.spotify.com/track/6Er9bq9dt39Xmv8heRUxUO) | [Aziz Kirkin](https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS) | [Calming Birds](https://open.spotify.com/album/3gQmWlR1BiBnVl1xmGxQIm) | 2:04 | 2023-09-01 |  |
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-03-03 |  |
 | [Carpology](https://open.spotify.com/track/5eTwZHtaPzrRoVtyOUMgx1) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Carpology](https://open.spotify.com/album/2HVhkzOKtK1M5yvbRfZdek) | 2:03 | 2023-03-03 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-03-03 |  |
 | [Cucurbita](https://open.spotify.com/track/3N1HAd8IP2Iv6fJMeuL4q8) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Cucurbita](https://open.spotify.com/album/2obGcH5exzGCZdlO3oDnFL) | 1:25 | 2023-07-06 | 2023-07-22 |
+| [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 | 2023-09-01 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-03-03 |  |
 | [Eosphoros T.Merula](https://open.spotify.com/track/5engCD94A1A16P51xvAFiP) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros T.Merula](https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC) | 2:14 | 2023-03-03 |  |
 | [Estebania Se Acurruca](https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Estebania Se Acurruca](https://open.spotify.com/album/66HQ6SFrna5kkzGdtJGPj4) | 2:52 | 2023-03-03 |  |
@@ -41,6 +46,7 @@
 | [Honeydew](https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Honeydew](https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y) | 2:00 | 2023-03-03 |  |
 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 | 2023-03-03 |  |
 | [Hygrometer](https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Hygrometer](https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C) | 2:26 | 2023-03-03 |  |
+| [In the forest](https://open.spotify.com/track/2HejAzyRkuWgcyyzp3KHOQ) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [In the forest](https://open.spotify.com/album/4SLjIZweBGdpwNO1xMixNZ) | 2:14 | 2023-09-01 |  |
 | [Jours Heureux](https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Jours Heureux](https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ) | 1:49 | 2023-03-03 |  |
 | [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 | 2023-03-03 |  |
 | [Lily's Arrival](https://open.spotify.com/track/0KdOX4bbKodh8fWhbUgRLe) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Lily's Arrival](https://open.spotify.com/album/2lmh2HkpKRGJBjVLNf7D8Z) | 2:58 | 2023-03-03 |  |
@@ -52,6 +58,7 @@
 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 | 2023-07-06 |  |
 | [Morning Sun](https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Sun](https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj) | 2:47 | 2023-07-21 |  |
 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 | 2023-03-03 |  |
+| [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 | 2023-09-01 |  |
 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 | 2023-03-03 |  |
 | [New Roads](https://open.spotify.com/track/35TmvWc9fwb2NwPZsHQOq5) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:10 | 2023-03-03 |  |
 | [Noche De Otoño](https://open.spotify.com/track/4BiQv316kzweNWOmAxGFor) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noche De Otoño](https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO) | 3:25 | 2023-03-03 |  |
@@ -79,6 +86,7 @@
 | [Secunda Carmina](https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Secunda Carmina](https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG) | 3:23 | 2023-07-21 |  |
 | [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 |  |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-03-03 |  |
+| [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 | 2023-09-01 |  |
 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 | 2023-03-03 |  |
 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 | 2023-03-03 |  |
 | [Song Of The Willow](https://open.spotify.com/track/2qauTYzfcc16QprcwV8put) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Song Of The Willow](https://open.spotify.com/album/4grcPo21FAY8jbe6y3JMk5) | 2:18 | 2023-03-03 |  |

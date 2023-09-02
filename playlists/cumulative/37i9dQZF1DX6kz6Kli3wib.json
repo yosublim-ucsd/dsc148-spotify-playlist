@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "The Sidewalk",
+        "url": "https://open.spotify.com/album/4LJKxdM1lAvuVLs0LxlqS6"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233239,
+      "name": "Dizzy Street",
+      "url": "https://open.spotify.com/track/3bweBh2zXCHPwQyOTgA07S"
+    },
+    {
+      "album": {
         "name": "Dream Repeat",
         "url": "https://open.spotify.com/album/1fUGc9LxW52P90f49TYT0o"
       },
@@ -2396,6 +2414,24 @@
       "duration_ms": 212967,
       "name": "Looped-tape excesses",
       "url": "https://open.spotify.com/track/5jXitTj0rgRXOIsxJb6AxE"
+    },
+    {
+      "album": {
+        "name": "Lotus Sunset",
+        "url": "https://open.spotify.com/album/309fHqqPE7jrXrnydkaaDK"
+      },
+      "artists": [
+        {
+          "name": "Purple Waves",
+          "url": "https://open.spotify.com/artist/0KJ2P4KrAgSoL8dg3Bpoc1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132409,
+      "name": "Lotus Sunset",
+      "url": "https://open.spotify.com/track/2hExpSS1RhXGbwLxNkN9kl"
     },
     {
       "album": {

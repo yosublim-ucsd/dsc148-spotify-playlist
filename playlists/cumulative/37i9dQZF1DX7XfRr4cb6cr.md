@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-230 songs - 19 hr 45 min
+231 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dead People's Things](https://open.spotify.com/track/26slB6pfz5F8T723pMq32K) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5e3JPH2QTLpZA0ply1f98Z) | 18:35 | 2022-07-22 |  |
 | [Devolve](https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [The All in Every This](https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9) | 8:31 | 2022-01-21 |  |
 | [Disregarding Time](https://open.spotify.com/track/6z5Wi1WMciQrg9v9J1Wz9X) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Folding, A Study](https://open.spotify.com/album/6wiGtb9WnjxZWTe2XFq3Bk) | 5:07 | 2022-12-30 | 2023-08-29 |
+| [Distant Sun](https://open.spotify.com/track/2dKFafH1SkummNxPHVNRSC) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Distant Sun](https://open.spotify.com/album/5iQpyU13TrYymWLXCYZS8L) | 2:46 | 2023-09-01 |  |
 | [En Bas Tu Vois](https://open.spotify.com/track/7lvr6IFQGQPEBlV9aWBKKv) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [En Bas Tu Vois](https://open.spotify.com/album/0DFXWb2ufqNIGnm6LnjFMm) | 12:47 | 2022-07-08 | 2023-02-01 |
 | [Ending Theme](https://open.spotify.com/track/3xkWegiABp4TsIMpT41Qhg) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Unfinished](https://open.spotify.com/album/092PUhslAi3ldIwtlPiQ98) | 3:43 | 2022-01-21 |  |
 | [Enerhodar](https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX), [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [II](https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI) | 4:27 | 2022-05-06 |  |
@@ -136,7 +137,7 @@
 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 | 2022-02-04 |  |
 | [North](https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 3:17 | 2022-01-21 |  |
 | [Northern Light](https://open.spotify.com/track/3sxJ6w5OL3fdu1vxRhlrCR) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 2:32 | 2022-01-21 | 2022-07-29 |
-| [Northern Light](https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM) | 2:32 | 2023-04-21 |  |
+| [Northern Light](https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/7sXPjvU04sPL4TA7m40wUM) | 2:32 | 2023-04-21 | 2023-09-02 |
 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-28 |  |
 | [notes of a crocodile](https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [fragments](https://open.spotify.com/album/67EzhMUZJBwTnXpnnSY6Jx) | 1:29 | 2022-01-21 |  |
 | [Nuuk \(Air\)](https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/039YorrtuXDmdZHXhryqJc) | 4:50 | 2022-01-21 | 2022-10-08 |

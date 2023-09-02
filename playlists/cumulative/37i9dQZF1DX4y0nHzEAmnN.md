@@ -4,7 +4,7 @@
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-65 songs - 2 hr 17 min
+66 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 | 2020-04-22 | 2023-08-08 |
 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 | 2020-04-22 |  |
 | [Leche Con Pan](https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 2:35 | 2020-04-22 |  |
-| [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 | 2020-04-22 |  |
+| [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 | 2020-04-22 | 2023-09-02 |
+| [Let's Get Ready!](https://open.spotify.com/track/5rmOdU3gZptrnflhfPedCM) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 2:05 | 2023-03-17 |  |
 | [Limpieza](https://open.spotify.com/track/7J2rR7aAu9pTiIzbf0sEUM) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a Cantar con Barney](https://open.spotify.com/album/5EYY9ObFTzLmcLhxJ6xcO4) | 0:34 | 2020-04-22 | 2022-07-29 |
 | [Limpieza](https://open.spotify.com/track/3yG4U2GnmSH04Li8aXGFiE) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 0:34 | 2020-04-22 |  |
 | [Me Cepillo los Dientes](https://open.spotify.com/track/7dnUMfeqo6PsZi56AZJN4k) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a Cantar con Barney](https://open.spotify.com/album/5EYY9ObFTzLmcLhxJ6xcO4) | 1:52 | 2020-04-22 | 2022-07-29 |

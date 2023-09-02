@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,658 likes - 28 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,667 likes - 28 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 | 7 | [Seeti Maar Ke](https://open.spotify.com/track/5NiLpcsWJnKqftntyvyyEV) | [Geeta Zaildar](https://open.spotify.com/artist/78rdC4FvVaOJmEgfjlUi4a), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Shartan \(Seeti Maar Ke\)](https://open.spotify.com/album/0D6ZUI004iUbOCzeOPDWX6) | 4:48 |
 | 8 | [Multan](https://open.spotify.com/track/2Qr6caRtWpQitY0t7qjsxi) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Multan](https://open.spotify.com/album/0QQwhLBFDqjzMiWYcQaiNi) | 4:05 |
 | 9 | [Jeeeju](https://open.spotify.com/track/1X0JotKLOpb3sC89s620aK) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Harish Verma](https://open.spotify.com/artist/6JfYDFQWMlAMizvlVIMdFX) | [Jeeeju \- Single](https://open.spotify.com/album/3cXErCpIhNdqibrsVyPBTm) | 3:14 |
-| 10 | [Laung Gawacha](https://open.spotify.com/track/7mgGEXpbBMCOHgIUqdfARm) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha \- Single](https://open.spotify.com/album/1mO4qPhqz1SPVTgvHve7ak) | 3:37 |
+| 10 | [Laung Gawacha](https://open.spotify.com/track/1aEfxP8CyCSDQeqRFlzBKb) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha](https://open.spotify.com/album/2hv0zzhDs3mJ6GZekwpaPc) | 3:42 |
 | 11 | [Baari Baari Barsi](https://open.spotify.com/track/2xCdRazgyBUYtPtEaxrFw3) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Miss Pooja \- Kudi Punjab Di](https://open.spotify.com/album/5MV1TtROzY1r75MunvHdeY) | 3:41 |
 | 12 | [Desi Jatt](https://open.spotify.com/track/5xC73xyQ9Wiyn7IphIepjQ) | [Harjeet Heera](https://open.spotify.com/artist/4ij4nj6ZPn7T4FFE9knGCI), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Desi Jatt](https://open.spotify.com/album/7f8hL1HTI0j1J5DrAObD4v) | 4:29 |
 | 13 | [Bathinda](https://open.spotify.com/track/3PXMOjduIIgqtEKCa9JEML) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Best of Miss Pooja](https://open.spotify.com/album/7KOSz005q6xlD4bfCKcSw0) | 4:23 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 | 27 | [Chah Da Cup, Pt\. 2](https://open.spotify.com/track/0FfqoDtNVC7pSoyVz9MvaL) | [Babu Chandigarhia](https://open.spotify.com/artist/2chDSHehyzR81P7jIxq2nB), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Chah Da Cup 2](https://open.spotify.com/album/23iXMTjeU5SFld7PiX3Nnd) | 5:50 |
 | 28 | [Bulley Shah \- Unplugged](https://open.spotify.com/track/4BlL9VYXAYuXc1vNpz6Dc6) | [Silinder Pardesi](https://open.spotify.com/artist/7DAQ0MYm1LQ00GbF7OrtZO) | [Hey Soniye](https://open.spotify.com/album/5A7GfTsFQTO3yiOeJUC9HP) | 4:19 |
 
-Snapshot ID: `MCxjMzJlYTQ5MzVkNzNkN2NhMDk4MmJiNzZlMGFlOGNiM2FmMTlmMDI4`
+Snapshot ID: `MCw4MDRmZTQwODMxYjIxMDlhNGZmMjlkNmM3MThiZDY4ZDc1MWJlNTJi`

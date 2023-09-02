@@ -4,7 +4,7 @@
 
 > Louder, faster! Kickass metal tracks to drive you forward.
 
-235 songs - 16 hr 13 min
+236 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Annihilation](https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Annihilation](https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV) | 3:10 | 2021-03-29 | 2022-07-29 |
 | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:25 | 2021-03-29 |  |
 | [Another World](https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Another World](https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa) | 4:24 | 2021-03-29 | 2022-07-29 |
-| [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 | 2021-03-29 | 2023-05-14 |
+| [Archangel](https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Archangel](https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2) | 3:23 | 2021-03-29 |  |
 | [Archangel](https://open.spotify.com/track/63aGgWIoGfl3wxykzje8eJ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Manifest](https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa) | 3:23 | 2021-03-29 | 2023-01-02 |
 | [Armed To The Teeth](https://open.spotify.com/track/7CMBg4DxJSfDCcGDsRnzqM) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Ballistic, Sadistic](https://open.spotify.com/album/6aGmL5PVbZgU3QjnuwiohE) | 4:26 | 2021-03-29 | 2022-07-29 |
 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 | 2021-03-29 |  |
@@ -116,6 +116,7 @@
 | [I'm Not Right](https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:46 | 2021-03-29 | 2022-09-29 |
 | [I'm Not Right](https://open.spotify.com/track/6WjD2x0UB9p9dgoZmRsh0o) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [I'm Not Right](https://open.spotify.com/album/48e7WM5EplXyxwcpya1jhm) | 3:47 | 2021-03-29 | 2022-07-29 |
 | [Indestructible](https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 4:38 | 2021-03-29 |  |
+| [Inhumane](https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 3:59 | 2023-09-01 |  |
 | [Inside Out](https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Inside Out](https://open.spotify.com/album/3cOYrPug7OjbO2oPNe38eE) | 3:46 | 2021-03-29 | 2023-02-25 |
 | [Is There Anybody out There?](https://open.spotify.com/track/25xREK7GqfuUWvqEumOVK3) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody out There?](https://open.spotify.com/album/0IalnI5Z5nOfqOt9HusTCx) | 4:32 | 2021-03-29 | 2022-07-29 |
 | [Is There Anybody Out There?](https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Is There Anybody Out There?](https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G) | 4:32 | 2021-03-29 |  |
@@ -178,7 +179,7 @@
 | [Revolution Is My Name \- 2020 Terry Date Mix](https://open.spotify.com/track/2ZDpLMQHTZPEN05gQMPbDs) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing The Steel \- 20th Anniversary Deluxe Edition \(Terry Date Mix\)](https://open.spotify.com/album/5t6KIM8JLS1NQ46PWPrPtR) | 5:16 | 2021-03-29 | 2022-07-29 |
 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 | 2021-03-29 | 2023-08-31 |
 | [Rising Fire](https://open.spotify.com/track/5uEOhWDWr4gN9YMgZNVGRB) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Rising Fire](https://open.spotify.com/album/4gGtBcTbf80l1PNvhgJXnx) | 3:26 | 2021-03-29 | 2022-07-29 |
-| [Root](https://open.spotify.com/track/2jkZB94i573H134wKmsw2y) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:40 | 2023-02-18 |  |
+| [Root](https://open.spotify.com/track/2jkZB94i573H134wKmsw2y) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:40 | 2023-02-18 | 2023-09-02 |
 | [Runnin' Wild](https://open.spotify.com/track/1wXuogT7bvqnhuWzDBNOdV) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild](https://open.spotify.com/album/5e11cqb5L0C6s9RBasePB8) | 3:38 | 2021-10-12 | 2022-07-29 |
 | [Runnin' Wild](https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Runnin' Wild \(Special Edition\)](https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO) | 3:42 | 2021-10-12 |  |
 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 | 2021-03-29 | 2022-07-29 |
@@ -209,7 +210,7 @@
 | [The End of All We Know](https://open.spotify.com/track/28uXRxTn0ztyqUjtMtHYJa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Fracture](https://open.spotify.com/album/0m0oTvI6SHfVmYHuq4jU8p) | 4:12 | 2021-03-29 | 2022-08-30 |
 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 | 2021-03-29 | 2023-04-29 |
 | [The Nexus](https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki) | 3:16 | 2023-04-04 |  |
-| [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 | 2021-03-29 |  |
+| [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 | 2021-03-29 | 2023-09-02 |
 | [The Remedy](https://open.spotify.com/track/69ow35I1jI6gYI45H1Bw7e) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/5aaWL7zYiYR0421K3UTmX1) | 4:03 | 2021-03-29 | 2022-07-29 |
 | [The Signal Fire](https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/5k1IQPbz37ctTDrw4vbvtp) | 3:05 | 2021-03-29 |  |
 | [The Signal Fire \(feat\. Howard Jones\)](https://open.spotify.com/track/2Fup9XFE9sXWu9Qft2Q7ZB) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/6kkUp557e0o5k0dRBfohJZ) | 3:05 | 2021-03-29 | 2022-07-29 |

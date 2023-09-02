@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-196 songs - 22 hr 22 min
+197 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-09-01 |  |
 | [Brighter Days](https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days / Tin Roof](https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX) | 3:28 | 2022-06-09 | 2023-09-01 |
 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 | 2022-06-09 | 2023-06-01 |
+| [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-09-01 |  |
 | [Come & See](https://open.spotify.com/track/3Mvw1n1cbjNvyH4QRvaj09) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Come & See](https://open.spotify.com/album/2jt2SWpIkCZ8ECPo2Y9f6k) | 7:27 | 2022-10-14 | 2022-11-05 |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-25 |  |
 | [Confidence \- Live](https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:14 | 2022-06-09 | 2023-01-20 |
@@ -140,7 +141,7 @@
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-10-14 | 2022-11-05 |
 | [On my Mind](https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [On My Mind](https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr) | 3:46 | 2023-06-09 | 2023-06-16 |
 | [Only You Jesus](https://open.spotify.com/track/4FlcVpYoYw84TFQyIr7oH8) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:45 | 2022-10-14 | 2022-11-05 |
-| [Onwanwani](https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Onwanwani](https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3) | 5:57 | 2022-06-09 |  |
+| [Onwanwani](https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Onwanwani](https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3) | 5:57 | 2022-06-09 | 2023-09-02 |
 | [Onyedikagi](https://open.spotify.com/track/7HoUxUs2aHd6Jl57lxAA99) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Glowrie](https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF) | [Onyedikagi](https://open.spotify.com/album/3nM8ld6vFNii5Pp7i96I3J) | 4:57 | 2022-06-09 |  |
 | [Open Up](https://open.spotify.com/track/0vL8wJhWQhHNAJkGurqPF9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Open Up](https://open.spotify.com/album/5XH3M1XHCaAgfQzp53mcRi) | 10:30 | 2022-06-09 |  |
 | [Out Of My Belly](https://open.spotify.com/track/19OhFys7Cga8g5sHHSY7hE) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Out Of My Belly](https://open.spotify.com/album/5Ro7tNG0TSpe3E1ynWvKRx) | 6:20 | 2022-10-14 | 2022-11-05 |

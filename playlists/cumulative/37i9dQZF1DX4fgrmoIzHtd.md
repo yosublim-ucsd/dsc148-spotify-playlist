@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-138 songs - 13 hr 31 min
+139 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Chain of Command](https://open.spotify.com/track/5SmZpH8Aeq0EMwGTEa12ob) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b) | 4:40 | 2021-05-11 | 2023-06-14 |
 | [Chain of Command](https://open.spotify.com/track/5jhZFtAJf24UhxmBLd3T2z) | [Von Spar](https://open.spotify.com/artist/6rRQbKeGYpX8armrlaxWcn) | [Streetlife](https://open.spotify.com/album/0KrXmJifqUrtTnRRfoZGEg) | 4:40 | 2021-05-11 | 2022-11-21 |
 | [Change](https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Change](https://open.spotify.com/album/6XPbirRQZpjKJLMW8GhtkB) | 3:21 | 2023-02-03 |  |
-| [Claudi](https://open.spotify.com/track/5oVbaTDGaCgaaVYk2jHUdy) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 2:54 | 2023-02-03 |  |
+| [Claudi](https://open.spotify.com/track/3g8DDnbpzFbcYdZEOzhhdF) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 2:54 | 2023-06-13 |  |
+| [Claudi](https://open.spotify.com/track/5oVbaTDGaCgaaVYk2jHUdy) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 2:54 | 2023-02-03 | 2023-09-02 |
 | [Cowgirl \- Remastered](https://open.spotify.com/track/42l2BVWVXneXXbe7CO02ad) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(Super Deluxe / 20th Anniversary Remaster\)](https://open.spotify.com/album/6ZJGG6czB7KFJzoTbx4gif) | 8:29 | 2023-06-13 |  |
 | [Cross My Heart](https://open.spotify.com/track/7zBs7ICoezIZmsHBlGe2Gj) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Baby, the Stars Shine Bright](https://open.spotify.com/album/4I2Xj3T0kKwI2nofSPQKzn) | 3:35 | 2023-02-03 | 2023-06-14 |
 | [Cyclops \- Volen Sentir & Izhevski Remix](https://open.spotify.com/track/0fMzGl1UMV6NUPPbJsToEp) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71), [Quenum](https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l), [Izhevski](https://open.spotify.com/artist/5kgbdZjaH7REUaSXBV8lfH) | [The Remixes \(Part Two\)](https://open.spotify.com/album/1qZHDWztYjtJ1kLnPFHS1V) | 8:11 | 2023-06-13 |  |

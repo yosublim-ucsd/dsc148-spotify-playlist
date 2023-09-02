@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,882 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,553 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 2 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 |
 | 3 | [Lonely At The Top](https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:37 |
 | 4 | [Petit génie](https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Abou Debeing](https://open.spotify.com/artist/2jFnPm8VeSO19i6B8blXB5), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [Petit génie](https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD) | 3:37 |
-| 5 | [Tiki Taka](https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Tiki Taka](https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N) | 2:54 |
-| 6 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
-| 7 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 |
-| 8 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
-| 9 | [C'est toi](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 |
-| 10 | [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 |
+| 5 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 |
+| 6 | [Tiki Taka](https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Tiki Taka](https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N) | 2:54 |
+| 7 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
+| 8 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 |
+| 9 | [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 |
+| 10 | [C'est toi](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 |
 | 11 | [Chop Time, No Friend](https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Chop Time, No Friend](https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY) | 2:48 |
 | 12 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 |
 | 13 | [Jolene](https://open.spotify.com/track/5483pcvbfX7Ii7gO5JGUpF) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:55 |
@@ -56,6 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 46 | [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 |
 | 47 | [﻿﻿Anchovy](https://open.spotify.com/track/2YX36JGUeTOzGEwjsAQd1U) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Maverick](https://open.spotify.com/album/2gbx0YcLDduf3oqujoq1fI) | 2:24 |
 | 48 | [Bloqué \- Tableau n°2](https://open.spotify.com/track/1xD2uyZqKFAtP4sFb5azYt) | [Dr\. Yaro & La Folie](https://open.spotify.com/artist/7lR8WBYvyK9iTHuv5HwUpe) | [Bloqué \(Tableau n°2\)](https://open.spotify.com/album/5ZBphS1rQyDJgijNZWAjqr) | 2:32 |
-| 49 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
+| 49 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 |
+| 50 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 
-Snapshot ID: `MCxiZDZkZjk5NmE4ZDg4OGIzNzNiMmQxNWVkOGNmNDhkN2YzYjAzNWM1`
+Snapshot ID: `MCw2YTBhZWQxYmI3OGRjMDlmYjFkNzIxMmE0MmFjYzllZDZmNWI4YWVk`

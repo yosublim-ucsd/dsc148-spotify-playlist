@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-592 songs - 1 day 12 hr 28 min
+593 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [3000 Miles \(Baby Baby\)](https://open.spotify.com/track/3Xsmpypmc2DcxQBbmnnrB5) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [3000 Miles \(Baby Baby\)](https://open.spotify.com/album/6Z65cY2NlkT0q3wCILkHdx) | 2:22 | 2021-05-01 | 2022-07-29 |
 | [7\-21\-17\_substitute\_hifi\_v3](https://open.spotify.com/track/0GiYNY9eKlw0BpQMwXmr38) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Soul Trash](https://open.spotify.com/album/0ixqW4vlndPhWNsvDI4l8u) | 2:42 | 2022-05-06 | 2022-07-29 |
 | [9](https://open.spotify.com/track/6zPmJ8DI5vuB1G9WjVjMfU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Nine](https://open.spotify.com/album/7Kpv6XWZhGCwX6PSR4vWaX) | 5:14 | 2021-06-25 | 2022-05-04 |
-| [90s](https://open.spotify.com/track/0D83awqTEGIvhUvFIJ0f1A) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Who Are You When No One is Watching?](https://open.spotify.com/album/3p2GVM0RupOOyqtEqyjXtl) | 4:19 | 2023-05-25 |  |
+| [90s](https://open.spotify.com/track/0D83awqTEGIvhUvFIJ0f1A) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Who Are You When No One is Watching?](https://open.spotify.com/album/3p2GVM0RupOOyqtEqyjXtl) | 4:19 | 2023-05-25 | 2023-09-02 |
 | [90s](https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [90s](https://open.spotify.com/album/1zutONLr7EHPaNNMwNQ3oR) | 4:19 | 2022-11-17 | 2023-02-10 |
 | [A letter to my younger self](https://open.spotify.com/track/325e3Lkx4AodxGNsqHiaG4) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [A letter to my younger self](https://open.spotify.com/album/1CmENblofMYmtDtx6pPqDU) | 2:18 | 2020-12-21 | 2022-04-21 |
 | [A Million I's](https://open.spotify.com/track/4cfpzuThVTfTSFnImH9N3L) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [A Million I's](https://open.spotify.com/album/0bg1MfwDCjKx4qVCztxoV0) | 3:21 | 2023-05-25 | 2023-05-27 |
@@ -573,6 +573,7 @@
 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 | 2022-07-22 |  |
 | [Was It Something I Said](https://open.spotify.com/track/2YEnGQwfXZokCfRbTykYbo) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/038iHedcafxMeEWtzsrvye) | 3:42 | 2020-12-21 | 2022-07-29 |
 | [Wasted Acres](https://open.spotify.com/track/0IvQCuL8N4158edtz98LCL) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Painted Ruins](https://open.spotify.com/album/3QOXA8bqsml8CslUdgHXrW) | 2:52 | 2020-12-21 | 2022-04-19 |
+| [We Lost](https://open.spotify.com/track/0CQ7PrMiWtFD1fnDfZPg96) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [Lustmore](https://open.spotify.com/album/4gcQlf421a5ydYH65ncTrU) | 2:16 | 2023-08-18 |  |
 | [We Will Run](https://open.spotify.com/track/4oWOP5K36jNUkvMxm8q5Bl) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/4mloQGRqd4HvJw1KyRXI8F) | 3:43 | 2020-12-21 | 2022-04-18 |
 | [We're All Gonna Die](https://open.spotify.com/track/4ZfPkAW0O7h1sj7Akt18DU) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Die \- Single](https://open.spotify.com/album/5rUTt2ROxXzfgmMsEs8GOF) | 5:04 | 2020-12-21 | 2022-04-15 |
 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 | 2022-11-17 |  |

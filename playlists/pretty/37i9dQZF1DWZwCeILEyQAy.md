@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,415 likes - 85 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,500 likes - 85 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 29 | [Dont Tempt Me](https://open.spotify.com/track/3LGd9XTW9TBOBAiZj5lgVM) | [TeeCee Rou’Lette](https://open.spotify.com/artist/6CoZArC7g7pyLeYGoD8M0m), [The ATG](https://open.spotify.com/artist/1twmcEBMYuZFuO5E9Q4cdB) | [Dont Tempt Me](https://open.spotify.com/album/4zhNjWNxX0ygivVReWt5yZ) | 2:22 |
 | 30 | [Throw Dat](https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Throw Dat](https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK) | 2:18 |
 | 31 | [Where the Fun Niggas At?](https://open.spotify.com/track/36jKiym1viZatX0tHDGDxM) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Where the Fun Niggas At?](https://open.spotify.com/album/7BWW9riDewdKvAh0pz1Tza) | 2:44 |
-| 32 | [Thicc](https://open.spotify.com/track/6ib3lHR6RoCmJo1oF6JqyM) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 2:16 |
+| 32 | [Thicc](https://open.spotify.com/track/2cHhNW6Wcdrk4mFTZkqqKk) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Shades of Gloss](https://open.spotify.com/album/20LqQ2uXyi3Io5KMY0I95m) | 2:16 |
 | 33 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 |
 | 34 | [I Feel Like Rihanna](https://open.spotify.com/track/7N0nn3R07yj0CMwGWBT4co) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Tasty Raps Vol\. 2](https://open.spotify.com/album/4VCDBAu5RkPrEMjwpJi6Ff) | 4:03 |
 | 35 | [Wife](https://open.spotify.com/track/3rGbTqECbeFc82sdYGv3Pz) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Some Like It Hot](https://open.spotify.com/album/3i47bG7gXG3OurOD0fpIVX) | 3:31 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 64 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
 | 65 | [HOOD RAT SHIT](https://open.spotify.com/track/3kngaJLn8ch92TAI33kGtf) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Chenzehn](https://open.spotify.com/artist/4f6mzHylkFqgtpggUv7qdq) | [HOOD RAT SHIT](https://open.spotify.com/album/6XMm1PP7M1nUzXypot7Rut) | 2:42 |
 | 66 | [No Angels \(with Lola Brooke\)](https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:30 |
-| 67 | [Pop Dat \(feat\. Saucy Santana\)](https://open.spotify.com/track/1uDaVFW3HTV4jMaGrZfJEd) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 3:09 |
+| 67 | [Pop Dat \(feat\. Saucy Santana\)](https://open.spotify.com/track/4ojBRhPNM4AVLWcZbMjUay) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Shades of Gloss](https://open.spotify.com/album/20LqQ2uXyi3Io5KMY0I95m) | 3:09 |
 | 68 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 |
 | 69 | [Don’t Like \(feat\. Bigg Bagg Queezy\)](https://open.spotify.com/track/4pBZw3XkLPrzGPQlfvUyVR) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Bigg Bagg Queezy](https://open.spotify.com/artist/4QBSZiA6x0D1BQ2Gjd6gNF) | [Don't Like \(feat\. Bigg Bagg Queezy\)](https://open.spotify.com/album/0kWMYrV4MsyB31lAB9lwz7) | 3:13 |
 | 70 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 84 | [MAD](https://open.spotify.com/track/3RIfPynHjfJgChiUX6nDrg) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [MAD](https://open.spotify.com/album/6L0iHM0jM6pvsTZesuHBWO) | 2:46 |
 | 85 | [That's It](https://open.spotify.com/track/6rMjVOGsrCVxqzlNAQQ0oP) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [That's It](https://open.spotify.com/album/00o8yMI5PN6DtEVz1iTkDm) | 2:28 |
 
-Snapshot ID: `MCw5Yjc0MzcyYmM5MjFmZmQ4OTk1Nzk1MDNkMGRiMjA0MzJjZTk3Zjlh`
+Snapshot ID: `MCw5NTkxMDcyNGQ0NmI2ZWMxNDMzN2U4NjhjOWU4NGU5Njc0Nzc4Yzdm`

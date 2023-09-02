@@ -6765,6 +6765,28 @@
     },
     {
       "album": {
+        "name": "Lost Without Your Love",
+        "url": "https://open.spotify.com/album/2UrgGKofRKdTKP6KdtqgEy"
+      },
+      "artists": [
+        {
+          "name": "DT James",
+          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+        },
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/2Kb9FvBUAZE5fyXOMhxmOA"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141255,
+      "name": "Lost Without Your Love",
+      "url": "https://open.spotify.com/track/6cmj7ekB4rAjIv4T1HXadO"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/734Wod5Q6qnIqOcnz2fVwG"
       },
@@ -9322,7 +9344,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 183160,
       "name": "Place to Go",
       "url": "https://open.spotify.com/track/65yDkqOYwfkeIQYl8ayAGE"

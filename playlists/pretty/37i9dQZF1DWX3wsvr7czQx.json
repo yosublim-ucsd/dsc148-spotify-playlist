@@ -1,13 +1,45 @@
 {
-  "description": "Icons only. Cover: Michael Bolton",
-  "num_followers": 10628,
+  "description": "Icons only. Cover: Duran Duran",
+  "num_followers": 10648,
   "original_name": "Classic Artists New Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDNkYjUwYTdhMzJmMDVlZTRmODcxNDBkODc5ZDVlY2U5M2E5NTg0",
+  "snapshot_id": "MCxiYTUwMzRkNWIzZmEwMDgwZTEwMzExYjVhZTJmMDRhNzMxN2NjZjJh",
   "tracks": [
+    {
+      "added_at": "2023-09-01 04:42:58",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/06HreThIz90gKClFT9sz0v"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "DANSE MACABRE",
+      "url": "https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ"
+    },
+    {
+      "added_at": "2023-09-01 04:42:58",
+      "album": {
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/0kScLT4hNA8lPemoLxRz40"
+      },
+      "artists": [
+        {
+          "name": "Agnetha F\u00e4ltskog",
+          "url": "https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/3GIIWN4clCuforFuVsS768"
+    },
     {
       "added_at": "2023-08-04 04:01:00",
       "album": {

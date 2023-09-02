@@ -1,13 +1,37 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
-  "num_followers": 51603,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
+  "num_followers": 51633,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzMwY2U0ZjZhNzkwYzMzYmI5Mjg4Mzg4MWU4NDRmMTUzZDZjNjZm",
+  "snapshot_id": "MCw0ZTU3NzNlZTZmNjQwYzQ5ZjRmMjNmYmQ0ZDdjY2M1YjIwZjRiN2Yz",
   "tracks": [
+    {
+      "added_at": "2023-08-08 13:36:47",
+      "album": {
+        "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
+        "url": "https://open.spotify.com/album/7aufujMeIDsabPWzA3zyEO"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "duration_ms": 255643,
+      "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
+      "url": "https://open.spotify.com/track/4mfrhh7oSf1NAfLHUvQaMU"
+    },
     {
       "added_at": "2023-07-27 13:11:20",
       "album": {
@@ -93,6 +117,30 @@
       "url": "https://open.spotify.com/track/5Qse2Hicbl3nranNNyJ7WD"
     },
     {
+      "added_at": "2023-07-21 06:52:36",
+      "album": {
+        "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
+        "url": "https://open.spotify.com/album/5lWfcjjT9bJy3XsyKwR1yy"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+        },
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        }
+      ],
+      "duration_ms": 188639,
+      "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
+      "url": "https://open.spotify.com/track/19XKmDIjW4lgzkEXNAQPhH"
+    },
+    {
       "added_at": "2023-08-30 12:19:27",
       "album": {
         "name": "Ennene Manedevru (Title Track) [From \"Ennene Manedevru \"]",
@@ -115,6 +163,30 @@
       "duration_ms": 207750,
       "name": "Ennene Manedevru (Title Track) - From \"Ennene Manedevru \"",
       "url": "https://open.spotify.com/track/5aGQHFqwTj94cykDNqgJNf"
+    },
+    {
+      "added_at": "2023-09-01 12:37:34",
+      "album": {
+        "name": "Sanju Weds Geetha 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6q8i2wJfR8Lo61UtPChZSo"
+      },
+      "artists": [
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Shridhar V. Sambaram",
+          "url": "https://open.spotify.com/artist/3accQgt104DLSYOs7jkpyN"
+        },
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        }
+      ],
+      "duration_ms": 171429,
+      "name": "Nadi Nadi Endu Heege",
+      "url": "https://open.spotify.com/track/4hQy3zSi8FdePM7p0zRSCH"
     },
     {
       "added_at": "2023-08-30 12:19:27",
@@ -159,30 +231,6 @@
       "duration_ms": 208000,
       "name": "En Madbeku - From \"Suthradaari\"",
       "url": "https://open.spotify.com/track/63F1gfU8JKw2jitvvceLnA"
-    },
-    {
-      "added_at": "2023-08-08 13:36:47",
-      "album": {
-        "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
-        "url": "https://open.spotify.com/album/7aufujMeIDsabPWzA3zyEO"
-      },
-      "artists": [
-        {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        }
-      ],
-      "duration_ms": 255643,
-      "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
-      "url": "https://open.spotify.com/track/4mfrhh7oSf1NAfLHUvQaMU"
     },
     {
       "added_at": "2023-08-30 12:19:27",
@@ -581,30 +629,6 @@
       "url": "https://open.spotify.com/track/6dkwAgCYwzVxr0KhA681tP"
     },
     {
-      "added_at": "2023-07-21 06:52:36",
-      "album": {
-        "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
-        "url": "https://open.spotify.com/album/5lWfcjjT9bJy3XsyKwR1yy"
-      },
-      "artists": [
-        {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
-        },
-        {
-          "name": "MC Bijju",
-          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
-        },
-        {
-          "name": "Keerthan Holla",
-          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
-        }
-      ],
-      "duration_ms": 188639,
-      "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
-      "url": "https://open.spotify.com/track/19XKmDIjW4lgzkEXNAQPhH"
-    },
-    {
       "added_at": "2023-08-08 13:36:47",
       "album": {
         "name": "Bharjari Gandu (Original Motion Picture Soundtrack)",
@@ -823,8 +847,8 @@
     {
       "added_at": "2023-07-31 06:01:51",
       "album": {
-        "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
-        "url": "https://open.spotify.com/album/1ezMzS05FfeDJegZveRy8X"
+        "name": "Kushi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7efzbJBGvg9BoToMpkEVAz"
       },
       "artists": [
         {
@@ -832,17 +856,13 @@
           "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
         },
         {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
           "name": "V Nagendra Prasad",
           "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
         }
       ],
       "duration_ms": 210666,
-      "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
-      "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"
+      "name": "Kushi Title Song",
+      "url": "https://open.spotify.com/track/5S2WuucQADjOVF7NZ8ryzB"
     },
     {
       "added_at": "2023-08-03 08:24:36",

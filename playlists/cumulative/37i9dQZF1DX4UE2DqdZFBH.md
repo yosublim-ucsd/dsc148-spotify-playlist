@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-106 songs - 8 hr 45 min
+107 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Space Trip](https://open.spotify.com/track/5TyiSv9gMv17EZw3LxDafv) | [Ketan Mohite](https://open.spotify.com/artist/0g8F74eyvNS6cgmGEoXrPA), [Yadhunandan Nagaraj](https://open.spotify.com/artist/5i1uUQMGXoNSVeNHpT2Zaf), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2) | [Hope](https://open.spotify.com/album/6PVYVEqMnMn6QHZ0Vyh3XA) | 2:14 | 2022-06-10 |  |
 | [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 | 2022-06-10 |  |
 | [Swan Song](https://open.spotify.com/track/75eOXZRhZza077pvj5dmK9) | [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [Swan Song](https://open.spotify.com/album/6NTVsgQI5drqf97yKLFgnJ) | 4:02 | 2022-06-10 |  |
+| [Tabla Tonic](https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Tabla Tonic](https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK) | 3:23 | 2023-09-01 |  |
 | [Taj Mahal](https://open.spotify.com/track/4ar7UgwkIpRklX7ZXfKYUs) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW) | 0:40 | 2022-06-10 |  |
 | [Take Off](https://open.spotify.com/track/0fkugUgapvkQGQzEzb47ML) | [Submarine in Space](https://open.spotify.com/artist/6qlx9VJUxPLlp2hbh6WLqR) | [Wavelengths](https://open.spotify.com/album/3XnJNeNVQLSgr8f5JCYJ05) | 7:41 | 2022-06-10 |  |
 | [The Comeback Trail](https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe) | [The Emerging](https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N) | 6:42 | 2022-06-10 |  |

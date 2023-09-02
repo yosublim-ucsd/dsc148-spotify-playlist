@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 9760,
+  "num_followers": 9782,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2YxZTQ5OTJlOGIyN2MyMDZlMGUwOTc1ZjM2MmQ3NjYzYzljNWQy",
+  "snapshot_id": "MCxkMjkxYzhmNDZjZDg5MDMzM2Q4MjIwNjA5OTdmMTI2M2ExNzk0MGRj",
   "tracks": [
     {
       "added_at": "2023-08-24 02:22:14",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "CAKE",
         "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
         "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
       "artists": [
         {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
         }
       ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+      "duration_ms": 210840,
+      "name": "To My Friend",
+      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -563,18 +547,18 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "i and i",
-        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
       "artists": [
         {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
         }
       ],
-      "duration_ms": 178493,
-      "name": "i and i",
-      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -591,6 +575,22 @@
       "duration_ms": 219939,
       "name": "beautiful inside",
       "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "i and i",
+        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "i and i",
+      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "You don't have to say anything (I already know)",
         "url": "https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 265459,
       "name": "You don't have to say anything (I already know)",
       "url": "https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Lost Stars",
+      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
     },
     {
       "added_at": "2023-08-24 02:22:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "Willow Tree",
-        "url": "https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 279610,
-      "name": "Willow Tree",
-      "url": "https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -799,22 +783,6 @@
     {
       "added_at": "2023-08-24 02:22:14",
       "album": {
-        "name": "Mm Mm",
-        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Mm Mm - Acoustic Version",
-      "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
-    },
-    {
-      "added_at": "2023-08-24 02:22:14",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 207998,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "Willow Tree",
+        "url": "https://open.spotify.com/album/1LKOq183x8IFXn6KRcUd3B"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 279610,
+      "name": "Willow Tree",
+      "url": "https://open.spotify.com/track/5rT4CDlXDE0IHXCPspWjic"
+    },
+    {
+      "added_at": "2023-08-24 02:22:14",
+      "album": {
+        "name": "Mm Mm",
+        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Mm Mm - Acoustic Version",
+      "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
     },
     {
       "added_at": "2023-08-24 02:22:14",

@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 262727,
       "name": "Black Fins",
       "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
@@ -5664,7 +5664,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
@@ -7707,6 +7707,28 @@
     },
     {
       "album": {
+        "name": "WEEDKILLER",
+        "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255875,
+      "name": "Dying Star (feat. Ethel Cain)",
+      "url": "https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9"
+    },
+    {
+      "album": {
         "name": "Better Oblivion Community Center",
         "url": "https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj"
       },
@@ -9370,7 +9392,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186000,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/0BvZVtYs6d7FwMK9JlfXd0"
@@ -10448,7 +10470,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168798,
       "name": "Girl Supreme",
       "url": "https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB"
@@ -12811,6 +12833,24 @@
     },
     {
       "album": {
+        "name": "Hot in NY",
+        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118787,
+      "name": "Hot in NY",
+      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+    },
+    {
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z"
       },
@@ -14058,6 +14098,24 @@
       "duration_ms": 159129,
       "name": "I've Never Been To LA (Edit)",
       "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+    },
+    {
+      "album": {
+        "name": "Ice Slippin",
+        "url": "https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255920,
+      "name": "Ice Slippin",
+      "url": "https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ"
     },
     {
       "album": {
@@ -18517,6 +18575,28 @@
     },
     {
       "album": {
+        "name": "Moonlit Breakers (feat. Dijon)",
+        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
+      },
+      "artists": [
+        {
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+        },
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234681,
+      "name": "Moonlit Breakers (feat. Dijon)",
+      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "album": {
         "name": "Moonshine",
         "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
       },
@@ -19564,7 +19644,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
@@ -22962,7 +23042,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 216851,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
@@ -23258,7 +23338,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
@@ -24878,6 +24958,28 @@
       "duration_ms": 281258,
       "name": "Skinny Ape",
       "url": "https://open.spotify.com/track/3G69pyQGyx49kjsy9waiXf"
+    },
+    {
+      "album": {
+        "name": "Skipping Like A Stone (feat. Beck)",
+        "url": "https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283093,
+      "name": "Skipping Like A Stone (feat. Beck)",
+      "url": "https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2"
     },
     {
       "album": {
@@ -26520,10 +26622,6 @@
         {
           "name": "Portugal. The Man",
           "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
         },
         {
           "name": "Unknown Mortal Orchestra",

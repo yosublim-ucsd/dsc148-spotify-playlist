@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: White Shoes & The Couples Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,652 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,667 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Topstar](https://open.spotify.com/track/3YgYfnCjpnN0oSZv3bkaX7) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Topstar Collection](https://open.spotify.com/album/7GQQVzcfWoxWQzIcsG305K) | 3:01 |
+| 1 | [Topstar \- Remastered 2023](https://open.spotify.com/track/3YgYfnCjpnN0oSZv3bkaX7) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Topstar Collection \(Remastered 2023\)](https://open.spotify.com/album/7GQQVzcfWoxWQzIcsG305K) | 3:01 |
 | 2 | [Kuning](https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Nol Derajat](https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F) | 5:49 |
 | 3 | [Lari 100](https://open.spotify.com/track/73X5FjXQtQHPCnZGc8UJxd) | [The Sastro](https://open.spotify.com/artist/4RcRA0H94M5m9D97A5jLD0) | [Vol\. 1 \(Remastered\)](https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0) | 4:27 |
 | 4 | [Ribbons and Tie](https://open.spotify.com/track/6cX2vLd8kzTXkWUp7MUT8B) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Tinkerwish](https://open.spotify.com/album/2Rh5YARuoxIx4DIyeYPDMA) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 99 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 |
 | 100 | [Before Circus Over](https://open.spotify.com/track/6kXrYku6uidvZil7Qz2Oik) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/77KIsJT9Lc5upPsvvySDZx) | 4:56 |
 
-Snapshot ID: `MCwwMDFjMzczMTcxZDJkNjkyN2Y1MzVlZWE0NjAxYjcwYWQ2Y2I1MGFh`
+Snapshot ID: `MCw5NjUxZDE5YTk4M2M1ZTI2NWIyZTBkNjcxMWI1ODhhMDE1YmIwZTEz`

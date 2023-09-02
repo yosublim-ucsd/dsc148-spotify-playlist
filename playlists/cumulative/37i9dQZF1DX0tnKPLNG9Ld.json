@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 142333,
       "name": "A-Tisket, A-Tasket",
       "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173840,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/1m8WU15D9BGbtsgNE4XWuJ"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 198106,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 169373,
       "name": "Deed I Do",
       "url": "https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 155000,
       "name": "Destination Moon - 1997 Remaster",
       "url": "https://open.spotify.com/track/0pkIyrSYE0BRpw4nNsBlmq"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 283293,
       "name": "Didn't You",
       "url": "https://open.spotify.com/track/1ST1NsO69sL7rUZKdrLeQz"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147000,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 137893,
       "name": "Give Me The Simple Life",
       "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 145933,
       "name": "Happy Talk",
       "url": "https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 195106,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/3HYAO6bacg5rW3hVH2qoHF"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 164840,
       "name": "Love For Sale - 1959 Version",
       "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 149346,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/5EnAlrMmygDNpm6ReZC3ED"
@@ -1908,6 +1908,28 @@
       "duration_ms": 187040,
       "name": "Lulu's Back In Town",
       "url": "https://open.spotify.com/track/6YMbGEs68Nc9B17N5gmGXP"
+    },
+    {
+      "album": {
+        "name": "Mel Torm\u00e9 with the Marty Paich Dek-Tette (Remastered 2013)",
+        "url": "https://open.spotify.com/album/7jburawWwnKP2O2kGIbYp8"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Dek-tette",
+          "url": "https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185478,
+      "name": "Lulu's Back in Town",
+      "url": "https://open.spotify.com/track/5BaWh0PA2TqGv2WOj9VZgK"
     },
     {
       "album": {
@@ -2078,7 +2100,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179493,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ"
@@ -2136,7 +2158,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 130199,
       "name": "Ridin' High",
       "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
@@ -2336,7 +2358,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 144466,
       "name": "Taking A Chance On Love",
       "url": "https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A"
@@ -2644,7 +2666,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 245800,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176026,
       "name": "What a Little Moonlight Can Do (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/0uWaNJQHQty3YkfLtiJSpT"
@@ -2742,7 +2764,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147666,
       "name": "What A Little Moonlight Can Do - Remastered",
       "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"

@@ -86,7 +86,7 @@
     {
       "album": {
         "name": "Affection",
-        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
+        "url": "https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh"
       },
       "artists": [
         {
@@ -97,6 +97,24 @@
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/1lusH0zFDRV1ThaFYsUgfi"
+    },
+    {
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
       "duration_ms": 311000,
       "name": "Affection",
       "url": "https://open.spotify.com/track/4eVNSHRazoHgfYGv3AYFyZ"
@@ -950,10 +968,28 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 233000,
       "name": "Keep On Loving You",
       "url": "https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk"
+    },
+    {
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2021-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233010,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/5VYBergVrUDcb8QyEg70cF"
     },
     {
       "album": {

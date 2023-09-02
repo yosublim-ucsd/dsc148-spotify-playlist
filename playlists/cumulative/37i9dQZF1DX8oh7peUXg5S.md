@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-246 songs - 15 hr 48 min
+247 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [No Me Amenaces](https://open.spotify.com/track/7bM5C0Fr58bNzTrydYPAiH) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4) | [La Colección Definitiva](https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg) | 2:47 | 2022-06-09 | 2022-07-23 |
 | [No Me Canso](https://open.spotify.com/track/1OSCcrTT1lsTZ2GRs4hO59) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt) | [Universo Totémico \(Universo Abierto\)](https://open.spotify.com/album/54SuYbmBJPAvRzZP3sL175) | 4:38 | 2022-06-09 | 2022-07-03 |
 | [No Me Canso](https://open.spotify.com/track/1VPeUoMWXpYZgiVhqJTIOE) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt) | [Universo Abierto](https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM) | 4:38 | 2022-11-10 | 2023-02-19 |
-| [No Me Canso \(En Directo\)](https://open.spotify.com/track/3Fr0Xm46f8C2iIzTB6z7Ey) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt), [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [7300 Días, Pt\. 3 \(En Directo\)](https://open.spotify.com/album/53R1T85J5DBStrwnxsFzzE) | 4:54 | 2023-07-10 |  |
+| [No Me Canso \(En Directo\)](https://open.spotify.com/track/3Fr0Xm46f8C2iIzTB6z7Ey) | [Carlos Chaouen](https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt), [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [7300 Días, Pt\. 3 \(En Directo\)](https://open.spotify.com/album/53R1T85J5DBStrwnxsFzzE) | 4:54 | 2023-07-10 | 2023-09-02 |
 | [No olvidarme de olvidar \(feat\. Carlos Rivera\)](https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [En la memoria de la piel \(Deluxe Version\)](https://open.spotify.com/album/6y8CK0GDX37BxdQfXixXQt) | 4:07 | 2022-06-09 | 2022-08-12 |
 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 | 2022-06-09 |  |
 | [No Saben de Ti](https://open.spotify.com/track/6Rm7VmumaUGA1dAB2fWqf0) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe) | [Mi Pequeña Historia](https://open.spotify.com/album/3Z8ODAWZa7IjJkdk8EKgUz) | 3:57 | 2022-08-11 | 2023-03-25 |
@@ -197,6 +197,7 @@
 | [Risk](https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg) | [Tontxu](https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO) | [Se Vende](https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6) | 3:57 | 2022-06-09 | 2022-07-27 |
 | [Ropa de amor](https://open.spotify.com/track/1zB9jg73XJpkSLoiJEkyDW) | [Julio Bustamante](https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA), [Anna Franco](https://open.spotify.com/artist/3MwQeBBFChB0mcwDsvlsaU) | [Moriana](https://open.spotify.com/album/1f7IwlNepJ5uCGzkeMKFnJ) | 3:35 | 2022-12-22 | 2023-01-28 |
 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 | 2022-06-09 | 2022-07-26 |
+| [Saber Ganar](https://open.spotify.com/track/5opVu3ZoXotSwKuUz3tl92) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [Saber Ganar](https://open.spotify.com/album/51Mc2zutOwqGBnqUn04IQW) | 4:22 | 2023-09-01 |  |
 | [Sacar La Rabia](https://open.spotify.com/track/7GUs1PDaklqH7gUJdx6Kd7) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Sacar La Rabia](https://open.spotify.com/album/6OUnHuMoShQK0wdTpBICMh) | 3:53 | 2023-06-29 | 2023-07-28 |
 | [Salitre](https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:40 | 2022-06-30 | 2022-07-11 |
 | [Sanadoras Voluntades](https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Sanadoras Voluntades](https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa) | 2:44 | 2022-06-09 | 2022-07-24 |

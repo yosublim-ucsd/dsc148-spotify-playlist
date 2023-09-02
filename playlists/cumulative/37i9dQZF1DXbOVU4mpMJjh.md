@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-884 songs - 2 day 13 hr 36 min
+885 songs - 2 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [P.S\. I Love You](https://open.spotify.com/track/1cdNkKJhTzAWW5yMBlvc0v) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Detour Ahead](https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4) | 4:05 | 2023-08-18 |  |
 | [Parole Parole](https://open.spotify.com/track/1vN6YNWnQcZ2K6YxZruYZ2) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Parole Parole](https://open.spotify.com/album/10glt1hIgdPws9IDxVqeC3) | 4:36 | 2023-08-03 |  |
 | [Part of the moment](https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Part of the moment](https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19) | 2:50 | 2023-08-10 |  |
+| [Passing Time](https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Passing Time](https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL) | 3:05 | 2023-08-31 |  |
 | [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-10-13 |  |
 | [Pearl\-button](https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Pearl\-button](https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb) | 3:18 | 2023-03-09 |  |
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-20 |  |
@@ -726,7 +727,7 @@
 | [Sunday Waltz](https://open.spotify.com/track/2mRVnRNedKeSnDeI7crXrK) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 5:23 | 2022-04-14 | 2022-10-04 |
 | [Sweet And Lovely](https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Sweet And Lovely](https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I) | 3:04 | 2022-10-06 |  |
 | [Sweetness](https://open.spotify.com/track/3MU1qPFFyJQy1RbmpLH0mb) | [Roger Kellaway](https://open.spotify.com/artist/1NueKSreiFLxEJ1ml6nT8Q), [Jay Leonhart](https://open.spotify.com/artist/5qIlfIzgiSefp5rj8CtYK1), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [New Jazz Standards Vol 3](https://open.spotify.com/album/7gUF7bwjWoEvG8ycUOxPxz) | 6:59 | 2022-04-14 |  |
-| [Swift](https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Swift](https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw) | 3:24 | 2023-08-31 |  |
+| [Swift](https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6) | [Magnolia](https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx) | [Swift](https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw) | 3:24 | 2023-08-31 | 2023-09-02 |
 | [Take it Easy](https://open.spotify.com/track/1OtbM7rrVYpgXnMVkCCAcx) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Take It Easy](https://open.spotify.com/album/54n66QMZgLNyu9stND0PgQ) | 5:48 | 2022-04-14 | 2022-09-23 |
 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 | 2022-04-14 | 2022-05-03 |
 | [Tap on my Door](https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Tap on my Door](https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7) | 3:34 | 2022-10-27 |  |

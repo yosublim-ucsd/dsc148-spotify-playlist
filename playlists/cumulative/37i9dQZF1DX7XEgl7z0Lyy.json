@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 122971,
       "name": "2GOOD4U",
       "url": "https://open.spotify.com/track/24Wv2UuvcrTz2Lbl1o5efz"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 106826,
       "name": "Bag (azurreh mix) <3",
       "url": "https://open.spotify.com/track/0dUY7LFK25EqLLeSwDtAB9"
@@ -242,10 +242,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 111895,
       "name": "CHARDONNAY",
       "url": "https://open.spotify.com/track/1ELfye9x78mVvKgcKKaJVe"
+    },
+    {
+      "album": {
+        "name": "crystallize",
+        "url": "https://open.spotify.com/album/283UywJaDCdRfr9pjnUTEQ"
+      },
+      "artists": [
+        {
+          "name": "kyszenn",
+          "url": "https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121899,
+      "name": "crystallize",
+      "url": "https://open.spotify.com/track/6U7O0WPOWTQFh58pB9ZNTI"
     },
     {
       "album": {
@@ -339,6 +357,32 @@
     },
     {
       "album": {
+        "name": "do tonight",
+        "url": "https://open.spotify.com/album/6s8ugTv4KJAG2HtxFWhduM"
+      },
+      "artists": [
+        {
+          "name": "skypebf",
+          "url": "https://open.spotify.com/artist/3NHAjoEh2QxIFZmKEWxh61"
+        },
+        {
+          "name": "d3r",
+          "url": "https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG"
+        },
+        {
+          "name": "blood pup",
+          "url": "https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111085,
+      "name": "do tonight",
+      "url": "https://open.spotify.com/track/6uwVzUJ2WyoGb9iSqj1vvH"
+    },
+    {
+      "album": {
         "name": "ecstacy",
         "url": "https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q"
       },
@@ -350,7 +394,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 96028,
       "name": "ecstacy",
       "url": "https://open.spotify.com/track/2CIlKt4lRwAAUx5fYgCBxN"
@@ -572,7 +616,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 124015,
       "name": "I Know - PR1SVX Edit Sped Up",
       "url": "https://open.spotify.com/track/1CHGJtIsl2TcoWUR42jxjS"
@@ -696,7 +740,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 151879,
       "name": "khaos emerald",
       "url": "https://open.spotify.com/track/3KCK7509rDq8dPZ1Cm9bpY"
@@ -991,6 +1035,28 @@
     },
     {
       "album": {
+        "name": "noble 6 (feat. nuvfr)",
+        "url": "https://open.spotify.com/album/5eH4nQ7il4xlWpD0kirvQf"
+      },
+      "artists": [
+        {
+          "name": "removeface",
+          "url": "https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF"
+        },
+        {
+          "name": "Nuvfr",
+          "url": "https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123341,
+      "name": "noble 6 (feat. nuvfr)",
+      "url": "https://open.spotify.com/track/5sK8yQ6lyOe7sPrfWlIQLm"
+    },
+    {
+      "album": {
         "name": "OBSESSION",
         "url": "https://open.spotify.com/album/36EOTkSV05Ousfmuwj5rzI"
       },
@@ -1006,6 +1072,28 @@
       "duration_ms": 76781,
       "name": "OBSESSION",
       "url": "https://open.spotify.com/track/3KjtiCFg1dNCEXfkF4PKWE"
+    },
+    {
+      "album": {
+        "name": "OK WE SININ",
+        "url": "https://open.spotify.com/album/5FMPea4GvLcbEA1GMW5zKA"
+      },
+      "artists": [
+        {
+          "name": "gaptoothv4mp",
+          "url": "https://open.spotify.com/artist/7DIlL1MSilsc1jNsEsH2CJ"
+        },
+        {
+          "name": "knieyn",
+          "url": "https://open.spotify.com/artist/0DEmgXcgJqx7pAnJT8AAQV"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80377,
+      "name": "OK WE SININ",
+      "url": "https://open.spotify.com/track/3chuJrGz159KoAJ7wbDuGI"
     },
     {
       "album": {
@@ -1122,7 +1210,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 141176,
       "name": "Saffron Forest",
       "url": "https://open.spotify.com/track/2Dw26esVMltthp13n4YfNx"
@@ -1250,7 +1338,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 136433,
       "name": "stay_w_me",
       "url": "https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A"
@@ -1304,7 +1392,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 85520,
       "name": "THIRST FOR ME!",
       "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
@@ -1340,7 +1428,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 125057,
       "name": "true perspective",
       "url": "https://open.spotify.com/track/1uwiTdqmW7fwgsNNcSoqxN"
@@ -1380,6 +1468,24 @@
       "duration_ms": 61991,
       "name": "TURN BACK P3",
       "url": "https://open.spotify.com/track/5IYOaCf1kUbImJxFncErqC"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm"
+      },
+      "artists": [
+        {
+          "name": "axxturel",
+          "url": "https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122787,
+      "name": "U",
+      "url": "https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr"
     },
     {
       "album": {
@@ -1430,7 +1536,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163809,
       "name": "vampire love",
       "url": "https://open.spotify.com/track/6HcEJg4rcHWNEI0bD5Wvvp"
@@ -1598,7 +1704,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 73907,
       "name": "zone",
       "url": "https://open.spotify.com/track/275PIzY4ywV5EILyS5LYpe"

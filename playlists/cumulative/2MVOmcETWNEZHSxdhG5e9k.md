@@ -4,7 +4,7 @@
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-66 songs - 7 hr 39 min
+69 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Part of Me \- Original Mix](https://open.spotify.com/track/4k8Z6zQPbbJYo5ld0fXvSL) | [Gregory Esayan](https://open.spotify.com/artist/1EOqDTixfAxQjvX2uAuvMy), [Angel Falls](https://open.spotify.com/artist/5rFJL8YA8t1lv8lgjL7X2E) | [Part of Me](https://open.spotify.com/album/62rG5y4kCrfbYIowkunZWO) | 7:01 | 2021-03-23 |  |
 | [Point Nemo \- Original Mix](https://open.spotify.com/track/7AdUCqTinPTvw3ejzGycrg) | [Mark Moncrieff](https://open.spotify.com/artist/4K4hc4X2Dp2atIg6HBBmAd) | [Summer Melody 100: Sampler Part 3](https://open.spotify.com/album/5aPJsvcEJgC2RQIqL6NLbT) | 7:37 | 2021-12-14 |  |
 | [Progressive Soul](https://open.spotify.com/track/1XCbbMW6DwpKHIKAhQ7xSs) | [kalsy](https://open.spotify.com/artist/6vPghOkrVqxHkDHOV3l30R) | [Progressive Soul](https://open.spotify.com/album/6lWCbs8MxC0euSMUuNxR5x) | 10:35 | 2023-02-23 |  |
+| [Return to Paradise \- Nipika Remix](https://open.spotify.com/track/0lh6F43g0ZiLSCNIiPtuJo) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Nipika](https://open.spotify.com/artist/00xLgjFkwM6G1ufrFJGd7g) | [Return to Paradise \[The Remixes\]](https://open.spotify.com/album/1iPmSRRJEZyzA0J0OxS1mv) | 7:12 | 2023-09-01 |  |
 | [Rise](https://open.spotify.com/track/4Gs4NvoNjdLPi49TnVbx96) | [South Pole](https://open.spotify.com/artist/3vNPCpgA6iJvFoWQfP3Fli) | [Rise](https://open.spotify.com/album/7LUv6Pi8Bxz3tY4iLqPwyf) | 8:10 | 2019-07-05 |  |
 | [RueSaintMartin](https://open.spotify.com/track/31HGVpgj3htftDeluEfVXS) | [Mindset](https://open.spotify.com/artist/5QZlVXDfcM8DDuK3aywb6a) | [Elysees / RueSaintMartin](https://open.spotify.com/album/4GuiqLGT4CgTnitsWe8h4W) | 5:40 | 2021-03-23 |  |
 | [Sa Cova](https://open.spotify.com/track/2lwwdI3pJBfY7L1ivkGJ60) | [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Sa Cova](https://open.spotify.com/album/4skLoSvUK4kcKMWFUBNKsE) | 7:17 | 2019-07-05 |  |
@@ -57,6 +58,7 @@
 | [Seventh Kingdom \- Mindset Remix](https://open.spotify.com/track/1GwB6DcrYpJ8LkShKjrbO4) | [Tasadi](https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO), [Aryas](https://open.spotify.com/artist/4OwOvJEVmB35upiv10sse5), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Dance Allure Rome, Vol\. 1](https://open.spotify.com/album/55w5yEZHJQULnVDqaQhOd4) | 6:28 | 2021-03-23 |  |
 | [Something Useful \- Lesh Remix](https://open.spotify.com/track/3el0B32fMCE6mtKr6VHlBI) | [Phrakture](https://open.spotify.com/artist/4AlnXoFGT5zl3v85ScIOzK), [Maria Carmela](https://open.spotify.com/artist/3qEwkiGT65QSBhuMr0BwtJ), [Lesh](https://open.spotify.com/artist/00S6Yo4TScFQqqHB1N5eBh) | [Something Useful](https://open.spotify.com/album/7rsKKYhGeDRlymCfvtALZP) | 8:11 | 2023-02-23 |  |
 | [Stormwatch \(Chris Reece & Dinka Old Fashion Mix\)](https://open.spotify.com/track/6jyg6EghpRWzsyNYKBS4FJ) | [Helvetic Nerds](https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS) | [Taking You Higher \(Mix\)](https://open.spotify.com/album/0O48MkNuWGKZ0YOUhNq9BF) | 7:30 | 2021-03-23 |  |
+| [Stormwatch \- Chris Reece & Dinka Old Fashion Mix](https://open.spotify.com/track/77ijcYrPkK8OYaVuK0gDRu) | [Helvetic Nerds](https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS) | [Stormwatch](https://open.spotify.com/album/6tQyMZ4E1tO0cTROcWUtRC) | 8:22 | 2023-09-01 |  |
 | [Sunday Morning Sun](https://open.spotify.com/track/5FXSMA7Wr96CfLn6x7AyN4) | [Sunlight Project](https://open.spotify.com/artist/5LCi8fJi3KXdJOaAtVZy7t) | [Golden Shores \(2017 Sunlight Respray\) / Sunday Moning Sun EP](https://open.spotify.com/album/7q3bZIvVgG5HG9chP3np4H) | 6:41 | 2019-07-05 |  |
 | [Talamanca Beach \- James Woods Remix](https://open.spotify.com/track/6XCCnHfM4ve1yfgd3QibiL) | [James Woods](https://open.spotify.com/artist/5YeXBjCN7FLVoTLWu8dL6L), [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Talamanca Beach](https://open.spotify.com/album/1XQB9LHvFK3tXa0TaAvENU) | 7:06 | 2021-03-23 |  |
 | [Talamanca Beach \- Vitodito Remix](https://open.spotify.com/track/6rcdxRU4l2HMQWQeCYXEKT) | [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2), [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Talamanca Beach](https://open.spotify.com/album/1XQB9LHvFK3tXa0TaAvENU) | 7:18 | 2021-03-23 |  |
@@ -73,6 +75,7 @@
 | [Valencia \- Original Mix](https://open.spotify.com/track/5u7jgACtZ2DQuZbdqv6CDT) | [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Valencia \(Remixes\)](https://open.spotify.com/album/7MNSCAOe0XzXlnkevsTwLq) | 7:35 | 2023-02-23 |  |
 | [Wandering Streams](https://open.spotify.com/track/3t5ffnAzh6pesUNYKn9Dvk) | [Z8phyR](https://open.spotify.com/artist/03cOmqTQ8PbUeqBAClCHM7) | [Wanderin Streams](https://open.spotify.com/album/4imPKK9DvrdTT8oIJVNZBl) | 6:09 | 2021-03-23 |  |
 | [When Winter Comes \- Original Mix](https://open.spotify.com/track/3fSQth46qNodA9lF5M4B0I) | [Miroslav Vrlik](https://open.spotify.com/artist/07OQnOSosaMwXDVH06Fgvh), [Mark & Lukas](https://open.spotify.com/artist/5RO3il4O2kpXI6nAfLT9xr) | [When Winter Comes](https://open.spotify.com/album/1rmBw57WO6Rcx1lQu7b8Hv) | 6:31 | 2021-03-23 |  |
+| [Without You \- Talamanca Remix](https://open.spotify.com/track/36HizZHJizzPNislyyeqYc) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Without You Remixes](https://open.spotify.com/album/5TP036iONyqioBP1azdaCQ) | 7:03 | 2023-09-01 |  |
 | [You Are \- Mixed](https://open.spotify.com/track/3MgtQaRXeaaWoKHY7z0HbG) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Silk Music Showcase 06 \(Mixed by Jacob Henry & Tom Fall\)](https://open.spotify.com/album/2ijKsn3vCglQ34m7mB6EgD) | 5:59 | 2023-02-23 |  |
 
 \*This playlist was first scraped on 2023-02-23. Prior content cannot be recovered.

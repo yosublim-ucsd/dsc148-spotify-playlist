@@ -6,7 +6,7 @@
     "name": "Chris Lyons DJ",
     "url": "https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a"
   },
-  "snapshot_id": "NzYsNWQ2YjNkZjA1Y2JkZDZmMmMwZGViNzZiOGJjMmIzNjk4ZTE1MWY2Yw==",
+  "snapshot_id": "NzksZDc2OWQyYzM1ZjcyMGM4MTQ4NjQ3MzQ2NjUxNWU2ZDBiMDc0OTk3Yg==",
   "tracks": [
     {
       "added_at": "2019-07-04 14:01:50",
@@ -1203,6 +1203,62 @@
       "duration_ms": 572908,
       "name": "Azure - Roald Velden Remix",
       "url": "https://open.spotify.com/track/5SFE9nLsTSZi0rPPdF9rBj"
+    },
+    {
+      "added_at": "2023-09-01 07:39:50",
+      "album": {
+        "name": "Without You Remixes",
+        "url": "https://open.spotify.com/album/5TP036iONyqioBP1azdaCQ"
+      },
+      "artists": [
+        {
+          "name": "Blood Groove & Kikis",
+          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
+        },
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        }
+      ],
+      "duration_ms": 423750,
+      "name": "Without You - Talamanca Remix",
+      "url": "https://open.spotify.com/track/36HizZHJizzPNislyyeqYc"
+    },
+    {
+      "added_at": "2023-09-01 07:40:30",
+      "album": {
+        "name": "Return to Paradise [The Remixes]",
+        "url": "https://open.spotify.com/album/1iPmSRRJEZyzA0J0OxS1mv"
+      },
+      "artists": [
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        },
+        {
+          "name": "Nipika",
+          "url": "https://open.spotify.com/artist/00xLgjFkwM6G1ufrFJGd7g"
+        }
+      ],
+      "duration_ms": 432998,
+      "name": "Return to Paradise - Nipika Remix",
+      "url": "https://open.spotify.com/track/0lh6F43g0ZiLSCNIiPtuJo"
+    },
+    {
+      "added_at": "2023-09-01 07:41:10",
+      "album": {
+        "name": "Stormwatch",
+        "url": "https://open.spotify.com/album/6tQyMZ4E1tO0cTROcWUtRC"
+      },
+      "artists": [
+        {
+          "name": "Helvetic Nerds",
+          "url": "https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS"
+        }
+      ],
+      "duration_ms": 502616,
+      "name": "Stormwatch - Chris Reece & Dinka Old Fashion Mix",
+      "url": "https://open.spotify.com/track/77ijcYrPkK8OYaVuK0gDRu"
     }
   ],
   "unique_name": "Riding the Soundwave: the playlist",

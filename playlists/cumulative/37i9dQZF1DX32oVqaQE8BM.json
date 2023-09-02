@@ -1037,6 +1037,32 @@
     },
     {
       "album": {
+        "name": "Branching Spiral",
+        "url": "https://open.spotify.com/album/6TS4jjFcfJGCK8P94MsWeZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Houghten",
+          "url": "https://open.spotify.com/artist/1CsZ0ihKPWBDUERlQt8ekr"
+        },
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171717,
+      "name": "Branching Spiral",
+      "url": "https://open.spotify.com/track/5elH9TFqpMKCbnuNl2zjdx"
+    },
+    {
+      "album": {
         "name": "Breakups Are Hard",
         "url": "https://open.spotify.com/album/2cRJ1TWmG6e7cU91md5ymn"
       },
@@ -2090,6 +2116,24 @@
       "duration_ms": 140571,
       "name": "Do you love me back?",
       "url": "https://open.spotify.com/track/52KP1mPnCPEgdJOuWd5qHz"
+    },
+    {
+      "album": {
+        "name": "Do You Remember When",
+        "url": "https://open.spotify.com/album/6wWThvK9nYBMudQgF8tsEc"
+      },
+      "artists": [
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Do You Remember When",
+      "url": "https://open.spotify.com/track/6W4SQSfyiGpPAe5wkwnAHX"
     },
     {
       "album": {

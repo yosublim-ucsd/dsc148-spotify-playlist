@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "Pop para refrescarte los d\u00edas, featuring ARIA VEGA.",
+  "description": "Pop para refrescarte los d\u00edas, featuring Marc Segu\u00ed & Pablo Albor\u00e1n.",
   "name": "Crema Pop",
   "tracks": [
     {
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 204241,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/4oTiqed4Dp5gMfw0BUF4YD"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202126,
       "name": "Un d\u00eda m\u00e1s",
       "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
@@ -2230,6 +2230,32 @@
       "duration_ms": 211742,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/77BiLyjwM96hI2eogbI6dy"
+    },
+    {
+      "album": {
+        "name": "VERANO",
+        "url": "https://open.spotify.com/album/0HYqe8GG5tpXxiF2DQJpaI"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176654,
+      "name": "VERANO",
+      "url": "https://open.spotify.com/track/5PVTI870AxdKFFglwCY7m0"
     },
     {
       "album": {
@@ -2342,6 +2368,28 @@
       "duration_ms": 162746,
       "name": "\u00f3diame si quieres",
       "url": "https://open.spotify.com/track/3xWcHcH4ISXng1Y2IowtMm"
+    },
+    {
+      "album": {
+        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162816,
+      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3leseePdLQO"

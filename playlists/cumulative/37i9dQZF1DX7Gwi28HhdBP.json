@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw?si=PO2Z_KZ6Rny84J54tvSmlA\"> \u0639\u0628\u062f \u0627\u0644\u0628\u0627\u0633\u0637 \u062d\u0645\u0648\u062f\u0629 \u0648 <a href=\"https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=LROac5XuRleQt23P0C_VKg\"> \u0639\u0645\u0631 \u0643\u0645\u0627\u0644",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641:<a href=\"https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw\">  \u0645\u0635\u0637\u0641\u0649 \u062d\u062c\u0627\u062c </a>",
   "name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 202711,
       "name": "200 Geneh",
       "url": "https://open.spotify.com/track/1wqSkbsP06nef0ixR2HcNH"
+    },
+    {
+      "album": {
+        "name": "3amalna Ema",
+        "url": "https://open.spotify.com/album/3Udz2hgIlmKqxSW8c0mYJm"
+      },
+      "artists": [
+        {
+          "name": "Moustafa Hagag",
+          "url": "https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "3amalna Ema",
+      "url": "https://open.spotify.com/track/17JMZQiLWe3NxHGBv80ll3"
     },
     {
       "album": {
@@ -224,7 +242,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 206213,
       "name": "Abtal El Kalam",
       "url": "https://open.spotify.com/track/3Op5brYrFPZHljQcN1gB4W"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 264542,
       "name": "Ana El Donia",
       "url": "https://open.spotify.com/track/4kuvuv1J57AcF8H8yZIAl1"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 341315,
       "name": "Ana Mesh Arefny",
       "url": "https://open.spotify.com/track/5zEy0QZouNwg7ZtqSs6M54"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 230500,
       "name": "Bab ElTayaba",
       "url": "https://open.spotify.com/track/6va9QvsB4ERREtqlYlZ1kA"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 761457,
       "name": "Bent El Soltan",
       "url": "https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 243481,
       "name": "Bet Ya Helwa",
       "url": "https://open.spotify.com/track/4YF7Mrdj25M0rCtb3iiY43"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 278961,
       "name": "Daq El Hawa Daqa",
       "url": "https://open.spotify.com/track/0616KTViZeKjYJx1fM4Wzv"
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 232233,
       "name": "El Hantoor",
       "url": "https://open.spotify.com/track/4I2RAr4wKPPUOEQW58vjvM"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 257044,
       "name": "Etal tetkayef",
       "url": "https://open.spotify.com/track/5GNfSTV6ioiX3n9oIpyM6c"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 221705,
       "name": "Hob Meen",
       "url": "https://open.spotify.com/track/7gu14Vuorsw57sz5tHeG57"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 254912,
       "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633",
       "url": "https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 202004,
       "name": "\u0628\u0627\u0628 \u0627\u0644\u0634\u0639\u0631\u064a\u0647",
       "url": "https://open.spotify.com/track/1LvxnrYAgVPrmSl2U8lYqz"
@@ -3876,7 +3894,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186644,
       "name": "\u0642\u0634\u0637\u0647 \u0628\u0627\u0644\u0632\u0628\u0627\u062f\u064a \u0627\u0644\u0644\u064a\u062b\u064a \u0648\u0644\u0648\u0631\u062f\u064a\u0627\u0646\u0627",
       "url": "https://open.spotify.com/track/6uX3nXbXFbuFKNL9rPF0yv"
@@ -3992,7 +4010,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 369423,
       "name": "\u0645\u0628\u062d\u0628\u0634 \u0627\u0644\u0643\u0631\u0627\u0633\u0649",
       "url": "https://open.spotify.com/track/5ovYok6lObaJ9bdQJmQ1Ct"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 313775,
       "name": "\u0646\u0627\u0633 \u0631\u062e\u0627\u0635",
       "url": "https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu"

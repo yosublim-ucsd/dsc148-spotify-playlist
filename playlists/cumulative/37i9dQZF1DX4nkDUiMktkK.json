@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Broke Another Heart (Today)",
+        "url": "https://open.spotify.com/album/6uQOWLTG3pIg2LH57jFxi0"
+      },
+      "artists": [
+        {
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199766,
+      "name": "Broke Another Heart (Today)",
+      "url": "https://open.spotify.com/track/4aRiePemhJwCpCti5DEZSs"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },

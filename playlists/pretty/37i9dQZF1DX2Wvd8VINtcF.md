@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster\. Cover: Lido
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,552 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,577 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 16 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 17 | [RATTLESNAKE](https://open.spotify.com/track/23iX8tmk5th6Ydrtz6BeCd) | [P!NCH](https://open.spotify.com/artist/1jPCm4Q8uClWX205mz4FKV), [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [RATTLESNAKE](https://open.spotify.com/album/4XpL8x2d5RiJbSwPs2pA0D) | 2:59 |
 | 18 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 |
-| 19 | [WOMAN](https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Easton Fitz](https://open.spotify.com/artist/3B37wQRQpHi6JhIPQ5dAN9) | [ULTRAVIOLET](https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT) | 3:28 |
+| 19 | [WOMAN](https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [ULTRAVIOLET](https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT) | 3:28 |
 | 20 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 |
 | 21 | [Every Summer](https://open.spotify.com/track/1lz2s7GiXZcMypSpMCkjmJ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Nation](https://open.spotify.com/artist/03D2b6ATNCne8B3D251ncQ), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Every Summer](https://open.spotify.com/album/1HZWU6NhcwXiOu2Ki01kfm) | 1:51 |
 | 22 | [Ice Slippin](https://open.spotify.com/track/7BWN70acf9J6f37SCNNCCQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ice Slippin](https://open.spotify.com/album/3IEILQ7hY9Irwf9ipLanDv) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
 | 100 | [Freedom 2](https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Freedom 2](https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN) | 3:26 |
 
-Snapshot ID: `MCwzMWE1NzdlMDA3ODA5ZWJhYzk4NDk1NDdiNTg4Yjg5YmE0ZDhmNzhj`
+Snapshot ID: `MCw0MWFhM2IzYzEwYjQ2ZTAwMmFjMWVjYzJjZTgyNWI5NTllOWUzOGUx`

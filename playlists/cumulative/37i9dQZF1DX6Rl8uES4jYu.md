@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-396 songs - 22 hr 18 min
+397 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-07-30 | 2023-02-18 |
 | [Golden Ticket \(feat\. Masego & Common\)](https://open.spotify.com/track/31m0lsXwk8PllevpApeiK3) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Golden Ticket \(feat\. Masego & Common\)](https://open.spotify.com/album/4J8jDp5JKuQwQhlwvq0h0v) | 3:38 | 2021-09-21 | 2022-04-18 |
 | [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 | 2022-10-14 |  |
+| [Good Good](https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe \(Extended Edition\)](https://open.spotify.com/album/4xwLMnQG1UoZ4uP6DN8gG8) | 2:43 | 2023-09-01 |  |
 | [Good Mood](https://open.spotify.com/track/14Yvoau2QPIpHpI0uMJrOB) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Good Mood](https://open.spotify.com/album/4VPjKOf9J7LcqMv1gmp8GL) | 3:03 | 2022-01-14 | 2022-07-29 |
 | [Good Mood](https://open.spotify.com/track/3Kr8aPFBZ0Vs3ZcOyGBcGM) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Me](https://open.spotify.com/album/76O3m2z2IlxG5CKKjhzCGc) | 3:03 | 2022-01-21 |  |
 | [Good Morning \(Fabian Mazur Remix\)](https://open.spotify.com/track/3ogjbq2SnZ9GNcmwtUKgcC) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Good Morning \(Fabian Mazur Remix\)](https://open.spotify.com/album/0oNGLrTSixGmB1lVif4eLo) | 2:42 | 2020-11-13 | 2022-03-26 |
@@ -317,7 +318,7 @@
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-07-15 |  |
 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 | 2022-11-11 |  |
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-04-29 | 2022-07-29 |
-| [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 | 2022-05-06 |  |
+| [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 | 2022-05-06 | 2023-09-02 |
 | [Stuck!](https://open.spotify.com/track/2bCxs0Arx9MPoqtswwMTAB) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Stuck!](https://open.spotify.com/album/26zrjITVdBdjA0B6NMordJ) | 2:57 | 2023-03-31 |  |
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 |  |
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-03 |  |

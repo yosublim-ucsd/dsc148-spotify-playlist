@@ -2,7 +2,7 @@
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> Wes kadung sayang lalu ditinggal rabi 😢
+> Sedihe koyo ngene, nggak bahaya ta? 😢
 
 58 songs - 4 hr 48 min
 

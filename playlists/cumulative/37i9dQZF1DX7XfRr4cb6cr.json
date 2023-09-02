@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Distant Sun",
+        "url": "https://open.spotify.com/album/5iQpyU13TrYymWLXCYZS8L"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166306,
+      "name": "Distant Sun",
+      "url": "https://open.spotify.com/track/2dKFafH1SkummNxPHVNRSC"
+    },
+    {
+      "album": {
         "name": "En Bas Tu Vois",
         "url": "https://open.spotify.com/album/0DFXWb2ufqNIGnm6LnjFMm"
       },
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 152213,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/4WCWgH74F5Dmhvy2LEMeYc"

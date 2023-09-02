@@ -1,12 +1,12 @@
 {
   "description": "The coziest rooms produce the most comforting tunes. Cover: Spill Tab ",
-  "num_followers": 1093190,
+  "num_followers": 1093272,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGI2YTVhZGUzYTQxMzQxNmZiNTNhOWNlYjk4MDIyZDZhMTdiNmI4",
+  "snapshot_id": "MCw4ZWE4N2ZlZWY4NzYzNDdlMTJjYjAyMTI2MGRkMzlkMzNjZWNlYmY4",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 156342,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Joker & Rainbow",
+        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Coney Island",
-        "url": "https://open.spotify.com/album/0FYqjvkAX9ZF7q3xpg7Qzn"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "Coney Island",
-      "url": "https://open.spotify.com/track/4NBYId6eoacEMJDkhfTPG7"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "HEATWAVE",
         "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 219833,
       "name": "THE BOTTOM",
       "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Coney Island",
+        "url": "https://open.spotify.com/album/0FYqjvkAX9ZF7q3xpg7Qzn"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Coney Island",
+      "url": "https://open.spotify.com/track/4NBYId6eoacEMJDkhfTPG7"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Fit Me In",
-        "url": "https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 122298,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "MESS U MADE",
         "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Fit Me In",
+        "url": "https://open.spotify.com/album/0SANGYNvlcu8lP5DoJG3MZ"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 122298,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/2t9K0Ufe2FttNut9DPCoAW"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -997,22 +997,6 @@
       "url": "https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ"
     },
     {
-      "added_at": "2023-04-28 05:06:47",
-      "album": {
-        "name": "Blue Sea",
-        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
-      },
-      "artists": [
-        {
-          "name": "RICEWINE",
-          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
-        }
-      ],
-      "duration_ms": 195514,
-      "name": "Blue Sea",
-      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "July",
@@ -1027,6 +1011,22 @@
       "duration_ms": 193478,
       "name": "July",
       "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
+    },
+    {
+      "added_at": "2023-04-28 05:06:47",
+      "album": {
+        "name": "Blue Sea",
+        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
+      },
+      "artists": [
+        {
+          "name": "RICEWINE",
+          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+        }
+      ],
+      "duration_ms": 195514,
+      "name": "Blue Sea",
+      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 277312,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Stunning & Atrocious",
         "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 219682,
       "name": "Do U Mind? (Leave the Light On)",
       "url": "https://open.spotify.com/track/5b08M71kwPxYVixYCPGnnJ"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 277312,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/69ULhU2AqPoZXphQpI9h1X"
     },
     {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "1000 Summers",
+        "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "25MPH",
+      "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Dream Of You",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "1000 Summers",
-        "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "25MPH",
-      "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "an extended play",
         "url": "https://open.spotify.com/album/6A8wvaD6svtFhnuJ9DbrLF"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 298477,
       "name": "seabirds",
       "url": "https://open.spotify.com/track/2WFmx1unF0TjYnzHhDyICp"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "it's not feeling good anymore",
+        "url": "https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 145549,
+      "name": "it's not feeling good anymore",
+      "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1237,22 +1253,6 @@
       "url": "https://open.spotify.com/track/1yWym8tBDLf5iW61i2IVaf"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Lily",
-        "url": "https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W"
-      },
-      "artists": [
-        {
-          "name": "Francisco Martin",
-          "url": "https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE"
-        }
-      ],
-      "duration_ms": 204455,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "best of corook (so far)",
@@ -1267,6 +1267,22 @@
       "duration_ms": 166839,
       "name": "the dog",
       "url": "https://open.spotify.com/track/5HUW7EfyjG6sy6AnYUDGiA"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Lily",
+        "url": "https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W"
+      },
+      "artists": [
+        {
+          "name": "Francisco Martin",
+          "url": "https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE"
+        }
+      ],
+      "duration_ms": 204455,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1305,22 +1321,6 @@
       "url": "https://open.spotify.com/track/3LJSdGiN0nplg7A0EJMOVy"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Coyotes",
-        "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Coyotes",
-      "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
-    },
-    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Let's Start a Country",
@@ -1337,20 +1337,20 @@
       "url": "https://open.spotify.com/track/41KhQPE4YvR5DolLkzqPgp"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "it's not feeling good anymore",
-        "url": "https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy"
+        "name": "Coyotes",
+        "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
       },
       "artists": [
         {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
         }
       ],
-      "duration_ms": 145549,
-      "name": "it's not feeling good anymore",
-      "url": "https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK"
+      "duration_ms": 183800,
+      "name": "Coyotes",
+      "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
     },
     {
       "added_at": "2023-04-28 05:06:47",
@@ -1369,38 +1369,6 @@
       "url": "https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA"
     },
     {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "book of spells",
-        "url": "https://open.spotify.com/album/5IXRkQH2kjLCsXYLJRJSUC"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 108571,
-      "name": "book of spells",
-      "url": "https://open.spotify.com/track/7n8bTcvJbZbdTxT9aCDNQ4"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Yesterdays",
-        "url": "https://open.spotify.com/album/0788lCeRdmq1AAwa4Lx6bF"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 169134,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/5WIMzFD706brPJqjLkumg7"
-    },
-    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "Everything You've Always Wanted",
@@ -1415,6 +1383,22 @@
       "duration_ms": 190616,
       "name": "Everything You've Always Wanted",
       "url": "https://open.spotify.com/track/0lxFZBVq0k071RSSl4oCJa"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "book of spells",
+        "url": "https://open.spotify.com/album/5IXRkQH2kjLCsXYLJRJSUC"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 108571,
+      "name": "book of spells",
+      "url": "https://open.spotify.com/track/7n8bTcvJbZbdTxT9aCDNQ4"
     },
     {
       "added_at": "2023-07-07 18:32:34",
@@ -1453,20 +1437,36 @@
       "url": "https://open.spotify.com/track/6SYuMesj2XksZ056ogMqdw"
     },
     {
-      "added_at": "2023-04-17 19:26:13",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/4WjUW5sV61gIzwBuvy2Bwi"
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
       },
       "artists": [
         {
-          "name": "Alex Kehm",
-          "url": "https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU"
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
         }
       ],
-      "duration_ms": 225123,
-      "name": "i'm yours",
-      "url": "https://open.spotify.com/track/5zQsdone0i50L5BbjmrrBU"
+      "duration_ms": 181639,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/0788lCeRdmq1AAwa4Lx6bF"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 169134,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/5WIMzFD706brPJqjLkumg7"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/4XzChVB9r1xBGegWWpzzSh"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
-      },
-      "artists": [
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        }
-      ],
-      "duration_ms": 181639,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "love & doubt",
@@ -1515,6 +1499,38 @@
       "duration_ms": 175280,
       "name": "love & doubt",
       "url": "https://open.spotify.com/track/7pFeq7Itvy8BM68NIu5VUZ"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/4WjUW5sV61gIzwBuvy2Bwi"
+      },
+      "artists": [
+        {
+          "name": "Alex Kehm",
+          "url": "https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU"
+        }
+      ],
+      "duration_ms": 225123,
+      "name": "i'm yours",
+      "url": "https://open.spotify.com/track/5zQsdone0i50L5BbjmrrBU"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 150386,
+      "name": "I Like Me",
+      "url": "https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 150386,
-      "name": "I Like Me",
-      "url": "https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Coffee's on Me",
         "url": "https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Asthma",
-        "url": "https://open.spotify.com/album/7hPfdQW6kT0l2prcJsV7c8"
-      },
-      "artists": [
-        {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "Asthma",
-      "url": "https://open.spotify.com/track/3Dg3AZOd8xL6hQ3CHRB83h"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "What You Do To Me",
         "url": "https://open.spotify.com/album/3P2eHCVYVyfzYRlmG5I2qO"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 196868,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/0QuQCTJL4UXkDx111mXrbL"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Asthma",
+        "url": "https://open.spotify.com/album/7hPfdQW6kT0l2prcJsV7c8"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Asthma",
+      "url": "https://open.spotify.com/track/3Dg3AZOd8xL6hQ3CHRB83h"
     },
     {
       "added_at": "2023-04-17 19:26:13",

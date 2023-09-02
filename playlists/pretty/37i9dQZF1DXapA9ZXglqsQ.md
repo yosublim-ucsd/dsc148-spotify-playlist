@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,396 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,481 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 57 | [WAVE](https://open.spotify.com/track/0xqVGGeww9N3lKNNeppyU0) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ミニマリズム 2](https://open.spotify.com/album/1T3q09tNWjloYmlymnI12C) | 5:05 |
 | 58 | [バレエ音楽 春の祭典, 第 1部: 大地礼賛 序奏](https://open.spotify.com/track/2BtvbsT3y4QvCMnxY6YLy2) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Tokyo Symphony Orchestra](https://open.spotify.com/artist/7aEZ4wPWZg1X5NzZVt2Yre) | [ストラヴィンスキー:バレエ音楽「春の祭典」](https://open.spotify.com/album/6kI0HvxGtKbsVxyoBfCSgu) | 3:13 |
 | 59 | [TRI\-AD for Large Orchestra](https://open.spotify.com/track/4H0FAXrRBToxTL22u4lvHX) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [ミニマリズム 3](https://open.spotify.com/album/4FVZteYjRnxYYJmNiEogD7) | 11:28 |
-| 60 | [Friends \- Live](https://open.spotify.com/track/2mTnbwTikQfI9oTeM6W56D) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [WORKS II \~Orchestra Nights\~ \(Live\)](https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie) | 3:57 |
-| 61 | [Tango X.T.C\. \- Live](https://open.spotify.com/track/2WjQJbP0aYjc2k5r35bQif) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [WORKS II \~Orchestra Nights\~ \(Live\)](https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie) | 4:52 |
+| 60 | [Friends \- Live](https://open.spotify.com/track/2mTnbwTikQfI9oTeM6W56D) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [WORKS II ～Orchestra Nights～ \(Live\)](https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie) | 3:57 |
+| 61 | [Tango X.T.C\. \- Live](https://open.spotify.com/track/2WjQJbP0aYjc2k5r35bQif) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [WORKS II ～Orchestra Nights～ \(Live\)](https://open.spotify.com/album/1v3S0aoWq5xOFZPaOxWPie) | 4:52 |
 | 62 | [Birthday](https://open.spotify.com/track/4BbZirfjFACHy5GSVjKBM9) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [FREEDOM PIANO STORIES 4](https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV) | 4:13 |
 | 63 | [Symphonic Suite "Castle in the Sky": The Eternal Tree of Life](https://open.spotify.com/track/4YWsyVPhOMjPIt6qlL06A3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Symphonic Suite Castle in the Sky](https://open.spotify.com/album/48BlyQmPIQOZZbJq9UkFGJ) | 3:37 |
 
-Snapshot ID: `MCw3M2VhNjE0MzRjYjM4ZjU1NmE5NmRiNWQ2NDJhMDc4YmY1MmJiMGM4`
+Snapshot ID: `MCw3ZjVhM2I0ODY5NjliYjgzZTA0ZWE0NGE2OGQ4MGE0NDlmZGUyOWVk`

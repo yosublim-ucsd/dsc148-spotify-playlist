@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,278 likes - 101 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,402 likes - 101 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 30 | [Hon vill ha mig](https://open.spotify.com/track/2Cz4lkjCdohKfWEEmzMCOD) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Hon vill ha mig](https://open.spotify.com/album/1e1V1uzBnslJr81ZrPcXAq) | 2:19 |
 | 31 | [FREDAG](https://open.spotify.com/track/18w4dPCI2MqkIKpOBBJ9Bw) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [FREDAG](https://open.spotify.com/album/6vvY3I82CkO0lnpVsamuHM) | 2:01 |
 | 32 | [Garaget](https://open.spotify.com/track/180Z4qutDFApJynfvi8T5x) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Garaget](https://open.spotify.com/album/5wjNzkpZ8sgcoJiyRyEZGP) | 2:27 |
-| 33 | [STUPA I ETT DIKE \(IKVÄLL\)](https://open.spotify.com/track/5VVnrRV8VpJjGlRlQ0NKt7) | [BJØRNES](https://open.spotify.com/artist/0oSU27mh8UZ25AbZ3eC7YB), [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [RIK1](https://open.spotify.com/artist/0tfgeEc2MXa027PWx6BRNl) | [STUPA I ETT DIKE \(IKVÄLL\)](https://open.spotify.com/album/6kn7eJbPLKRP6EmFW2xnwd) | 2:46 |
+| 33 | [STUPA I ETT DIKE \(IKVÄLL\)](https://open.spotify.com/track/5VVnrRV8VpJjGlRlQ0NKt7) | [BJØRNES](https://open.spotify.com/artist/0oSU27mh8UZ25AbZ3eC7YB), [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [STUPA I ETT DIKE \(IKVÄLL\)](https://open.spotify.com/album/6kn7eJbPLKRP6EmFW2xnwd) | 2:46 |
 | 34 | [VÄRDELÖS](https://open.spotify.com/track/0nP2DjCKa5p1MzAZbRZYfB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [VÄRDELÖS](https://open.spotify.com/album/46CTCBtHEt05hgOPMf3gLB) | 2:05 |
 | 35 | [FAN VA BRA](https://open.spotify.com/track/53z8zSmUxSEF8NC7mr51ar) | [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [FAN VA BRA](https://open.spotify.com/album/0VkWk0kXYEiKPjk8udCcx5) | 3:10 |
 | 36 | [Dynamit](https://open.spotify.com/track/0kQ0nR6UWBVZvRRLpGSX3w) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [Dynamit](https://open.spotify.com/album/2JEyGskhrHPavF0s17Vfwc) | 1:52 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [SOL, VIND OCH SNAPS](https://open.spotify.com/track/6blrBpvFOwOCfYKDqH5bXn) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD), [Mr DUNK](https://open.spotify.com/artist/1JU1mufjlVqdr9iu5at4qt) | [SOL, VIND OCH SNAPS](https://open.spotify.com/album/0Sc3mpJhTycU8Ei59cP29z) | 2:50 |
 | 101 | [Sommartider](https://open.spotify.com/track/3zWnPMKWTht7rc8TtQEnW4) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [Sommartider](https://open.spotify.com/album/4pwWHYGgwzjqYFw1A4UknS) | 2:35 |
 
-Snapshot ID: `MCw1MjY5YmRhMzk1NDcwYTcwOGU5ZWI2YTJhYmNmNjhlZTQ4ODI0MTNi`
+Snapshot ID: `MCwwNDc1YWEwM2Y4ZGE1ODA2N2ZlZjVlNWU1OTczMGJmZDBjMGEwNWVj`

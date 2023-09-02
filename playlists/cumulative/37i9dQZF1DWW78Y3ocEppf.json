@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 180932,
       "name": "Come See Me - Pt. 2",
       "url": "https://open.spotify.com/track/1KqT67yoCwR71L3kp777Gk"
@@ -2240,6 +2240,28 @@
       "duration_ms": 140568,
       "name": "Do You Mind",
       "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
+    },
+    {
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
       "album": {
@@ -4646,7 +4668,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 219259,
       "name": "Indecisive (feat. Eric Bellinger)",
       "url": "https://open.spotify.com/track/4LjbpDmui3Br0VDsL1oRuH"
@@ -6772,6 +6794,32 @@
       "duration_ms": 149053,
       "name": "over and done",
       "url": "https://open.spotify.com/track/7gsKRrLsvTtOxcPb2GtGoI"
+    },
+    {
+      "album": {
+        "name": "Overdrive (feat. Eric Bellinger & OG Parker)",
+        "url": "https://open.spotify.com/album/2itcfzjxWZKdnfgisgLfCq"
+      },
+      "artists": [
+        {
+          "name": "Hylan Starr",
+          "url": "https://open.spotify.com/artist/4QqSN19btzq9AcjTKhuGYI"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180511,
+      "name": "Overdrive (feat. Eric Bellinger & OG Parker)",
+      "url": "https://open.spotify.com/track/6CJsJ9bQZrC3YJpMSHKfDr"
     },
     {
       "album": {

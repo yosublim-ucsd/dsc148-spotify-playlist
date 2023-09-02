@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-650 songs - 1 day 5 hr 14 min
+651 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,8 @@
 | [probably](https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [probably](https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul) | 2:18 | 2021-12-23 | 2022-07-24 |
 | [PROUD](https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [PROUD](https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj) | 1:58 | 2023-05-25 |  |
 | [Railroad](https://open.spotify.com/track/7EK6RTprVGNtPYaMfKsTiP) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Railroad](https://open.spotify.com/album/2eg6kie4NqCYI69REmQKc6) | 2:01 | 2021-12-23 | 2022-07-27 |
-| [Rainbowtime の少年](https://open.spotify.com/track/0xenlRTiDOY6tXRRwQYCcF) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime の少年](https://open.spotify.com/album/5xDJyL2yCMHRnIYtkmHLws) | 2:29 | 2023-08-31 |  |
+| [Rainbowtime Boy](https://open.spotify.com/track/5sA0YSGNDKCV6rf4WLMCwD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime Boy](https://open.spotify.com/album/5xrmWCCYOJnDQgBB2dRqF8) | 2:29 | 2023-08-31 |  |
+| [Rainbowtime の少年](https://open.spotify.com/track/0xenlRTiDOY6tXRRwQYCcF) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime の少年](https://open.spotify.com/album/5xDJyL2yCMHRnIYtkmHLws) | 2:29 | 2023-08-31 | 2023-09-02 |
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |
 | [Raining](https://open.spotify.com/track/2COYh59wnIaHLKjth7pM19) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Raining](https://open.spotify.com/album/1e4TMOBtDEiKHSLe0JtZFS) | 1:45 | 2022-01-13 | 2022-07-10 |
 | [Rainydays](https://open.spotify.com/track/6EanWbtCMZrDPgDza9DQBC) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [MY EMOTION](https://open.spotify.com/album/0LCgkMgJ97oKmX4HMIzckz) | 2:24 | 2021-12-23 | 2022-07-11 |

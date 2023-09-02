@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 450936,
+  "num_followers": 451299,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWMzODMzYTBiMmI2MTUyNjI1ZWMyYTc2NjI5Y2JmNTVkOGVmNDBh",
+  "snapshot_id": "MCxkNWM1ZDVmODA2MGMyZTNhOGZmMDczZGM1ZTc2YjJjYmE2YTBmMWYw",
   "tracks": [
     {
       "added_at": "2023-08-25 14:03:49",
@@ -575,26 +575,18 @@
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
-        "name": "LATI2",
-        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
       },
       "artists": [
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 204146,
-      "name": "LATI2",
-      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+      "duration_ms": 202440,
+      "name": "D\u00edganle",
+      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -615,22 +607,6 @@
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
-        "name": "Con la Misma Moneda",
-        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 202440,
-      "name": "D\u00edganle",
-      "url": "https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz"
-    },
-    {
-      "added_at": "2023-08-25 14:03:49",
-      "album": {
         "name": "No Me Arrepiento De Este Amor",
         "url": "https://open.spotify.com/album/2MllIhJKqsrBM7L4JhIE17"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 227373,
       "name": "No Me Arrepiento de Este Amor",
       "url": "https://open.spotify.com/track/51AzUb1mSE4WfbSBAi2OYo"
+    },
+    {
+      "added_at": "2023-08-25 14:03:49",
+      "album": {
+        "name": "LATI2",
+        "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "LATI2",
+      "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
-      },
-      "artists": [
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
-        }
-      ],
-      "duration_ms": 174869,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4"
-    },
-    {
-      "added_at": "2023-08-25 14:03:49",
-      "album": {
         "name": "Se Fue Viral",
         "url": "https://open.spotify.com/album/6cqT7Fd0LInvlAbR4RyABv"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 180213,
       "name": "Se Fue Viral",
       "url": "https://open.spotify.com/track/71q4nNysHdBhXQJI9qnhNd"
+    },
+    {
+      "added_at": "2023-08-25 14:03:49",
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 174869,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -1171,42 +1171,18 @@
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2023-08-25 14:03:49",
-      "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 139163,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/2TzyHTZtgQM5G9LrSIAkjj"
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -1235,34 +1211,42 @@
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
+      "duration_ms": 139163,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/2TzyHTZtgQM5G9LrSIAkjj"
     },
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -1279,6 +1263,22 @@
       "duration_ms": 192186,
       "name": "Llora me llama",
       "url": "https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V"
+    },
+    {
+      "added_at": "2023-08-25 14:03:49",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
+    },
+    {
+      "added_at": "2023-08-25 14:03:49",
+      "album": {
         "name": "El Maestro",
         "url": "https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 218431,
       "name": "Te Mentir\u00eda",
       "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
-    },
-    {
-      "added_at": "2023-08-25 14:03:49",
-      "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
-        "name": "Los Verdugos De La Mufa",
-        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
+        "name": "Messirve Mix 3",
+        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
       },
       "artists": [
         {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
+      "duration_ms": 447529,
+      "name": "Messirve Mix 3",
+      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -1563,6 +1563,22 @@
       "duration_ms": 243920,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
+    },
+    {
+      "added_at": "2023-08-25 14:03:49",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 195644,
+      "name": "Y Dime",
+      "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
     },
     {
       "added_at": "2023-08-25 14:03:49",
@@ -1599,6 +1615,22 @@
     {
       "added_at": "2023-08-25 14:03:49",
       "album": {
+        "name": "Los Verdugos De La Mufa",
+        "url": "https://open.spotify.com/album/5TZ3a5b6oKxNgIRkjfFTUO"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/3y4pf1iwp2L86I5ZuUOUr9"
+    },
+    {
+      "added_at": "2023-08-25 14:03:49",
+      "album": {
         "name": "Grandes \u00c9xitos Regrabados",
         "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
@@ -1627,38 +1659,6 @@
       "duration_ms": 169250,
       "name": "La Cola",
       "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
-    },
-    {
-      "added_at": "2023-08-25 14:03:49",
-      "album": {
-        "name": "Messirve Mix 3",
-        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 447529,
-      "name": "Messirve Mix 3",
-      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
-    },
-    {
-      "added_at": "2023-08-25 14:03:49",
-      "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 195644,
-      "name": "Y Dime",
-      "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
     },
     {
       "added_at": "2023-08-25 14:03:49",

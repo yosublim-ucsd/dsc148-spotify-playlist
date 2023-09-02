@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Rakhano
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,280 likes - 78 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,287 likes - 78 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 6 | [Yours](https://open.spotify.com/track/1DmZW4bNRPqi7HGzUDOVym) | [Waldi Kyzo](https://open.spotify.com/artist/4znBC67Mci043Ana2BospW) | [Yours](https://open.spotify.com/album/2v1VjA3LpvJGlrDmJoaxPL) | 3:27 |
 | 7 | [Fleeting Love](https://open.spotify.com/track/1aC4jhPQ1FXnmNkbgDrcMg) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Fleeting Love](https://open.spotify.com/album/3jmi7NBWGr3A4erdTPaRA6) | 2:36 |
 | 8 | [Labirin](https://open.spotify.com/track/1Sj8QTNt0le2C58oxkSFqe) | [Prjct Mncrgkn](https://open.spotify.com/artist/6JDoEV4UEvVnqTmxQRpgGF) | [Labirin](https://open.spotify.com/album/1rluBsYLjIwTZlMF3v3yLE) | 4:43 |
-| 9 | [Blow the Whistle](https://open.spotify.com/track/24RRqpStlW9SmjoV8PZvIF) | [Jayjax](https://open.spotify.com/artist/0aftJwMnCJvXJFD97brIal), [Onadio Leonardo](https://open.spotify.com/artist/5qjQDz7j160Q1YOtRkePp7) | [Blow the Whistle](https://open.spotify.com/album/6WdqgdOn43gjk1OsIvvxQJ) | 2:41 |
+| 9 | [Blow the Whistle](https://open.spotify.com/track/24RRqpStlW9SmjoV8PZvIF) | [JayJax](https://open.spotify.com/artist/4ZWY3Fm7SWsbLuYiIVta1g), [Onadio Leonardo](https://open.spotify.com/artist/5qjQDz7j160Q1YOtRkePp7) | [Blow the Whistle](https://open.spotify.com/album/6WdqgdOn43gjk1OsIvvxQJ) | 2:41 |
 | 10 | [I'm Not Okay](https://open.spotify.com/track/1CuAWIJKr7PVzYG8clrbcr) | [Metta Widya](https://open.spotify.com/artist/5fyXt9IYtJWM9gH8xwrbJu) | [I'm Not Okay](https://open.spotify.com/album/3K5pJ3nn5eSW2iKNHHoWnm) | 3:51 |
 | 11 | [I Love You](https://open.spotify.com/track/25qaxtrsWkVlS1H765MVhq) | [Navis Math](https://open.spotify.com/artist/5ySMSPdecnBzm12xGTzbHd) | [You Made This Easy](https://open.spotify.com/album/0b6V6mD9S2oAn6imU2QUA0) | 3:15 |
 | 12 | [Connection](https://open.spotify.com/track/4joAQpduyVvzozScpt3D8S) | [The Caño](https://open.spotify.com/artist/6NDva6MD0TxFarIzf3lGjs) | [Connection](https://open.spotify.com/album/5F3YSXloF9FA2SlgtawamF) | 3:50 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 77 | [Swerve](https://open.spotify.com/track/5o6kr5wE6BBCJILfo7CtPh) | [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI), [Bennett A.K.](https://open.spotify.com/artist/3rWJ2p34fbKzyADYqLVN0l) | [Swerve](https://open.spotify.com/album/3T3MrPLHy6omvBiCaajWfk) | 2:48 |
 | 78 | [Indah Hari Ini](https://open.spotify.com/track/1L1GKgE2xYq1VLtHV41rbX) | [Aidoaudio](https://open.spotify.com/artist/3aK5ilM0Hnfmawu33esnwS) | [Indah Hari Ini](https://open.spotify.com/album/1hS4BO7WEHyEL01xyRqLPK) | 3:02 |
 
-Snapshot ID: `MCwzMDc3YTE5YTIwYzY5MDE0N2UyNzM4ZjVlZWQ0OWJlNGExYjk4Y2Y3`
+Snapshot ID: `MCwwMjAzZmU4ZDNlOTBiY2M3NDg4ZjVlNDdkNjg4NDAwNjljNmUyM2Ex`

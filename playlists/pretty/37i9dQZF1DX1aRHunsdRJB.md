@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,903 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,916 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 56 | [Who Pay!? \(Big Bumpa\) \[feat\. Salty & Sekon Sta\]](https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8) | [Skorch Bun It](https://open.spotify.com/artist/7ylwp2wfBZGg6NhrqTKFqZ), [CoolBlaze](https://open.spotify.com/artist/7MfpWE7ToeVCeyyQdcEdkf), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out), [Sekon Sta](https://open.spotify.com/artist/6Q08wCr0QX7xdn58DFJKLZ) | [Baby Bells Riddim](https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY) | 3:47 |
 | 57 | [Rough Wine](https://open.spotify.com/track/7lpwFH6GQr6q6A3nZKPwBH) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Physique Riddim \(Soca 2018 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/3CIwIu98V54pWArwDuLvAG) | 3:23 |
 | 58 | [Sexin](https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Soca Virgin](https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05) | 3:05 |
-| 59 | [Wuk](https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB) | 3:01 |
-| 60 | [Yuh Bad \(No Stressing\)](https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Yuh Bad \(No Stressing\)](https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V) | 3:14 |
+| 59 | [Yuh Bad \(No Stressing\)](https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Yuh Bad \(No Stressing\)](https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V) | 3:14 |
+| 60 | [Wuk](https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB) | 3:01 |
 | 61 | [Wine](https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Toco Loco Riddim](https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R) | 3:04 |
 | 62 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
 | 63 | [Down in de Meat](https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp) | [Lednek](https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK) | [Smoke Mask Riddim](https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1) | 3:22 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Honda](https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF) | [Twani](https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh) | [Honda](https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1) | 3:33 |
 | 68 | [Soak Me Good](https://open.spotify.com/track/0IC3SSV31lfYGQ6thjYcoP) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The Jakson Bay Project](https://open.spotify.com/album/2Bsph4DDOen4CEGpesiBhl) | 3:19 |
 
-Snapshot ID: `MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw`
+Snapshot ID: `MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx`

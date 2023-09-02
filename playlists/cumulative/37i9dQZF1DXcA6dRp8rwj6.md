@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Doja Cat\)
 
-1,531 songs - 3 day 5 hr 58 min
+1,532 songs - 3 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,6 +734,7 @@
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-17 | 2023-04-28 |
 | [Last Days](https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Last Days](https://open.spotify.com/album/6uAmDDiWne5nh9ch1y4ZNy) | 2:34 | 2023-07-28 | 2023-09-01 |
 | [Last One Left \(with Roddy Ricch\)](https://open.spotify.com/track/0UO48o2FQlksTxH1o8m4kS) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Two\-Face Bang 2](https://open.spotify.com/album/5AqfTcATeonwu2i5yLV6Zy) | 3:15 | 2022-04-14 | 2022-06-03 |
+| [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-08-31 |  |
 | [Late Night Shawty](https://open.spotify.com/track/3j9ds7BpdjeyatIaViitnw) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Jakarta $lim](https://open.spotify.com/artist/3BCCUDxiZyk4oSfYb6n7TF) | [Late Night Shawty](https://open.spotify.com/album/0G6YVfS64r2b3PJCXeHXXu) | 2:28 | 2022-04-28 | 2022-05-27 |
 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2022-06-23 | 2022-07-29 |
 | [LATELY \(Feat\. Hoody\)](https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [LATELY](https://open.spotify.com/album/5TWPlHZkZ55l3zBaSrtSRk) | 3:51 | 2022-01-20 | 2022-01-28 |

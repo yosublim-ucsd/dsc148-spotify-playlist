@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,346 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,366 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 44 | [Bloody Moon](https://open.spotify.com/track/3x097zSgBwU3NlX9eFdRLk) | [GOSPELS OF JUDAS](https://open.spotify.com/artist/59BRLcy4SjxESP4kbUSuzk) | [25th Anniversary BEST ALBUM "GREATEST ANTHOLOGY"](https://open.spotify.com/album/2bT5vw23kS7odJDy32HSNd) | 5:39 |
 | 45 | [Born to be WILD](https://open.spotify.com/track/5ibgvjYvwzuA1guRMV1XuJ) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p) | [湘南乃風 〜2023〜](https://open.spotify.com/album/56fvIjP1swwRcNNTNPqJ2n) | 5:12 |
 | 46 | [意地桜2000 \- Full Spec Edition](https://open.spotify.com/track/28LKuw2CNTZ6y1xI6NDyhf) | [桐生 一馬\(黒田 崇矢\)](https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn) | [龍が如く極 オリジナルサウンドトラック](https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy) | 3:52 |
-| 47 | [故郷に錦を飾るべし \- Full Spec Edition](https://open.spotify.com/track/5tSE70eZAUF10eH9GBfKDl) | [永倉 新八\(小山 力也\)](https://open.spotify.com/artist/15WzGZ0yHJsBClOXh1hKt0) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH) | 3:58 |
+| 47 | [故郷に錦を飾るべし \- Full Spec Edition](https://open.spotify.com/track/5tSE70eZAUF10eH9GBfKDl) | [永倉新八\(小山力也\)](https://open.spotify.com/artist/2LMmRBb5yDz3rzu3oQTff8) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH) | 3:58 |
 | 48 | [阿修羅小町 \- Full Spec Edition](https://open.spotify.com/track/035uuOzl46CUtesB5WKvXg) | [幾松\(平野 綾\)](https://open.spotify.com/artist/4f0Me9tsZ725UiZdVoai1D) | [龍が如く 維新! オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH) | 4:02 |
-| 49 | [神室純恋歌 \~桐生&支静加\~](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
+| 49 | [神室純恋歌 ～桐生&支静加～](https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く4 伝説を継ぐもの オリジナルサウンドトラック \(Volume2\)](https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp) | 2:02 |
 | 50 | [Shiawase\-nara\-iiya \- Full Spec Edition](https://open.spotify.com/track/795netq7zSVvayTiDkbePw) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [Goro Majima Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc) | 6:30 |
 
-Snapshot ID: `MCw4YWRlZDQ1NDE3YzUxYWM2YWIwYTZjMzczNTM4MTdjNjhjMzk2Y2E1`
+Snapshot ID: `MCxjZjNkOTEzMzI5ZDY3NzIxNjk2YzFjOTFlMzA3YWJkOTYwODdmZGUy`

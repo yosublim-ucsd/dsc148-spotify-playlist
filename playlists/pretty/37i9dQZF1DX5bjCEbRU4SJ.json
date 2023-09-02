@@ -1,12 +1,12 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 564803,
+  "num_followers": 564843,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQ3NDAwOWViYTJjYWI4NmM0OTdkMGJkYWU3ODU0YzU5ZjA3N2Ex",
+  "snapshot_id": "MCw4ZDlkZTQ1NWE4YzgyMjY4NmVjYmZmNjM1Y2JjZTM1NmNjMDQzOWU0",
   "tracks": [
     {
       "added_at": "2018-12-11 21:48:39",
@@ -663,22 +663,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 232760,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2018-12-11 21:48:39",

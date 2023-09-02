@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/1P4mO4yPsmKWCUDIHmaWxw"
+      },
+      "artists": [
+        {
+          "name": "URSS Bajo el \u00c1rbol",
+          "url": "https://open.spotify.com/artist/0CdtlByOfGrD6VOvsJUKTY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246136,
+      "name": "Cerro del Sombrero",
+      "url": "https://open.spotify.com/track/1TpVwMxBjabLcwfNWAgVT9"
+    },
+    {
+      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/0z80h27AQ4HeBPrVpYTc2i"
       },
@@ -817,6 +835,24 @@
     },
     {
       "album": {
+        "name": "LOTO",
+        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166493,
+      "name": "LOTO",
+      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
+    },
+    {
+      "album": {
         "name": "Lucha De Gigantes",
         "url": "https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl"
       },
@@ -1113,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "Para Siempre Joven",
+        "url": "https://open.spotify.com/album/5umvuDuDhHfv6mrfwKtqm7"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        },
+        {
+          "name": "Macha",
+          "url": "https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201667,
+      "name": "Para Siempre Joven",
+      "url": "https://open.spotify.com/track/2Uv1xKRSxG7Z5XUoEKAVIt"
+    },
+    {
+      "album": {
         "name": "Pobre De Ti",
         "url": "https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX"
       },
@@ -1128,6 +1186,24 @@
       "duration_ms": 230684,
       "name": "Pobre De Ti",
       "url": "https://open.spotify.com/track/1BfG1GebmxE0OWl0lz1E3l"
+    },
+    {
+      "album": {
+        "name": "poco a poquito",
+        "url": "https://open.spotify.com/album/34OvzPhuB3LjqiXYv2jU0b"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "poco a poquito",
+      "url": "https://open.spotify.com/track/1Oqq5oMYoJQEes4ceR79yR"
     },
     {
       "album": {

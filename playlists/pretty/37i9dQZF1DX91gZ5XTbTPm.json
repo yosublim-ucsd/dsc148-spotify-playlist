@@ -1,32 +1,28 @@
 {
-  "description": "The Midwest is always on time. Cover: Babyface Ray",
-  "num_followers": 111522,
+  "description": "The Midwest is always on time. Cover: Sexyy Red",
+  "num_followers": 111585,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzdlMzk1YzIyNzFiZjVmMDIxNDNlOGEwZDQwZDQ3YzUxYTg0NGMz",
+  "snapshot_id": "MCw5Nzg4YWM0YmRjMmMyNjI3Y2M4Zjk1MWIyZDg1YWNjZTc1MTIxNjc3",
   "tracks": [
     {
-      "added_at": "2023-07-21 04:01:00",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
-        "url": "https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9"
+        "name": "Got Me Hot",
+        "url": "https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j"
       },
       "artists": [
         {
           "name": "SleazyWorld Go",
           "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
-      "url": "https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS"
+      "duration_ms": 170748,
+      "name": "Got Me Hot",
+      "url": "https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -65,6 +61,94 @@
       "url": "https://open.spotify.com/track/79rneIpoGKwhqE1MSaw4Ls"
     },
     {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "SkeeYee",
+      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "Ganger",
+        "url": "https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "Not a Drill",
+      "url": "https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Gorgeous Remix (feat. City Girls)",
+        "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 214468,
+      "name": "Gorgeous Remix (feat. City Girls)",
+      "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Irreplaceable",
+        "url": "https://open.spotify.com/album/6DxxUOlKRmiNOjbZNgxIYN"
+      },
+      "artists": [
+        {
+          "name": "Cash Kidd",
+          "url": "https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/6jhFFQtKBib4cICFEyf5Lv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "E3",
+        "url": "https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "heartache blues",
+      "url": "https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu"
+    },
+    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "No Amiris",
@@ -87,6 +171,70 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Perc & Sex",
+        "url": "https://open.spotify.com/album/5KYoGpsbHXoX6Oo0h08fAh"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 258220,
+      "name": "Perc & Sex",
+      "url": "https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Why Do It Feel Like I'm Losing You",
+        "url": "https://open.spotify.com/album/6nV5A2vlstzER5Aul45Ymn"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "duration_ms": 305142,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/16Oy2t41hPHbM8rjpdVGov"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "F*ck U Thought",
         "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
       },
@@ -99,22 +247,6 @@
       "duration_ms": 198000,
       "name": "F*ck U Thought",
       "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Ganger",
-        "url": "https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 224470,
-      "name": "Not a Drill",
-      "url": "https://open.spotify.com/track/4sOFr87ZnUKe15FKDb12Yl"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -197,24 +329,24 @@
       "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Caturday",
-        "url": "https://open.spotify.com/album/3Fv9b8VejFy3EktLiQorku"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/4QVtzRDsbRyMpxU9KUC0Fh"
       },
       "artists": [
         {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
         },
         {
-          "name": "FARADA",
-          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+          "name": "Justin Stone",
+          "url": "https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Caturday",
-      "url": "https://open.spotify.com/track/2vZLaJAbpGoCSI9sYoJq4c"
+      "duration_ms": 179991,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/10qjN7LKGHkp4fs5bByDZc"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -271,30 +403,6 @@
       "duration_ms": 175125,
       "name": "Hood Rats (with Sukihana)",
       "url": "https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Gorgeous Remix (feat. City Girls)",
-        "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 214468,
-      "name": "Gorgeous Remix (feat. City Girls)",
-      "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -411,30 +519,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Perc & Sex",
-        "url": "https://open.spotify.com/album/5KYoGpsbHXoX6Oo0h08fAh"
-      },
-      "artists": [
-        {
-          "name": "YN Jay",
-          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 258220,
-      "name": "Perc & Sex",
-      "url": "https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Little Spoon",
         "url": "https://open.spotify.com/album/2RkStwHeg6SZNylj11p3Jt"
       },
@@ -483,22 +567,6 @@
       "duration_ms": 168293,
       "name": "Phil Jackson",
       "url": "https://open.spotify.com/track/5myFWvWVb4ZZW91GiMgE8B"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "SkeeYee",
-      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -583,30 +651,6 @@
       "duration_ms": 226765,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm"
-      },
-      "artists": [
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Cheekychizzy",
-          "url": "https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -697,26 +741,6 @@
       "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Eastside Girl ft. Ty Dolla $ign",
-        "url": "https://open.spotify.com/album/12WAN5dyQIXdvFMnKRFU2P"
-      },
-      "artists": [
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Eastside Girl ft. Ty Dolla $ign",
-      "url": "https://open.spotify.com/track/2yMqblpcRSEOpiBQpKFo9N"
-    },
-    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Point Me 2 (with Cardi B)",
@@ -795,22 +819,6 @@
       "duration_ms": 205885,
       "name": "Wholeworldslatt (feat. Veeze)",
       "url": "https://open.spotify.com/track/3fyWuJpGOok9xs2TxniPIn"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Hopeless Island",
-        "url": "https://open.spotify.com/album/4EFEB8u3JIaK4wy4NEHcdR"
-      },
-      "artists": [
-        {
-          "name": "Bfb Da Packman",
-          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
-        }
-      ],
-      "duration_ms": 149448,
-      "name": "Hopeless Island",
-      "url": "https://open.spotify.com/track/6c0KBEx6B7qQDx53Y0FlQx"
     },
     {
       "added_at": "2023-07-28 04:00:00",

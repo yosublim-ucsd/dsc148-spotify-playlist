@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 53458,
+  "num_followers": 53502,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yzc4N2JlMWI4N2I2ZDU4MzBkNjBmMmFmOGM5NGVkOGYxZGU3NjNk",
+  "snapshot_id": "MCxlOGMwZmVkNWZiZTc0ZDYxYzZjMTMxYjRlOTFiYzY0MGY4ZTA4MGJm",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -87,6 +87,26 @@
       "duration_ms": 288973,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/5DwzpU2uM8nz7yIGze3P63"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Love Crash",
+        "url": "https://open.spotify.com/album/3tbZWfRBaLOcr2h5IDvW53"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montano",
+          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
+        },
+        {
+          "name": "Phil Denny",
+          "url": "https://open.spotify.com/artist/4pN9L2TSzYcFFS5FL4Hppz"
+        }
+      ],
+      "duration_ms": 229136,
+      "name": "Love Crash",
+      "url": "https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1527,22 +1547,6 @@
       "duration_ms": 224237,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montano",
-          "url": "https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF"
-        }
-      ],
-      "duration_ms": 374536,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -9366,10 +9366,36 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 151997,
       "name": "Turn Me On",
       "url": "https://open.spotify.com/track/2AvcOZ7djW97iYeHKVYRMk"
+    },
+    {
+      "album": {
+        "name": "Turn me on",
+        "url": "https://open.spotify.com/album/5zyxbPkMQoQK7xwoR8Wo7t"
+      },
+      "artists": [
+        {
+          "name": "\u0112ryz",
+          "url": "https://open.spotify.com/artist/2KctSDjeVSffJTNwWneepm"
+        },
+        {
+          "name": "E1even",
+          "url": "https://open.spotify.com/artist/6ZUFRCUC0WYMDXyPcIO9Gs"
+        },
+        {
+          "name": "Houndz",
+          "url": "https://open.spotify.com/artist/3Lj4bzBWjlgbacFh5rdghw"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151951,
+      "name": "Turn me on",
+      "url": "https://open.spotify.com/track/53SuLIP2uMIe7YCmi0ZALu"
     },
     {
       "album": {
@@ -9945,6 +9971,32 @@
     },
     {
       "album": {
+        "name": "Yeah (Sterbinszky & MYNEA Remix)",
+        "url": "https://open.spotify.com/album/7nIXwpltUmnFXvAcRe7aKx"
+      },
+      "artists": [
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Pule",
+          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
+        },
+        {
+          "name": "Marc Kiss",
+          "url": "https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/4ZnPoDx5x4iWLz2FXuHKYc"
+    },
+    {
+      "album": {
         "name": "Yeah",
         "url": "https://open.spotify.com/album/6YL8HIqfvjYdB07BJIsWTS"
       },
@@ -9968,7 +10020,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 137739,
       "name": "Yeah",
       "url": "https://open.spotify.com/track/525hCdMwYXzLAY8YVokr0v"

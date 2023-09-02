@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 287518,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 286746,
       "name": "Lost Tales",
       "url": "https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar"
@@ -5487,6 +5487,28 @@
     },
     {
       "album": {
+        "name": "Raga",
+        "url": "https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf"
+      },
+      "artists": [
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        },
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Raga",
+      "url": "https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G"
+    },
+    {
+      "album": {
         "name": "RAI",
         "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
       },
@@ -6464,6 +6486,36 @@
       "duration_ms": 261730,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/2g7ddQ7Mx0eHkIrzybmNUc"
+    },
+    {
+      "album": {
+        "name": "The Dream (feat. Martina Camargo)",
+        "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210156,
+      "name": "The Dream (feat. Martina Camargo)",
+      "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
     },
     {
       "album": {

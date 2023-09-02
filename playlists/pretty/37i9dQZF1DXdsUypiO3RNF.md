@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Harmonise to solfeggio frequencies of the heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,907 likes - 59 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,981 likes - 59 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 42 | [639 Hz \- Why The Rush](https://open.spotify.com/track/6Z0qDfxTsh8lqaEDWz52Zf) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 |
 | 43 | [elevated mood 639 Hz](https://open.spotify.com/track/41DIXfJhTfvguKD0YLbTlP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 2:51 |
 | 44 | [Schumann 432\-4 Expanding Heart Chakra](https://open.spotify.com/track/0aJTBHuJzLCXh2rAQQg6av) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Schumann 432Hz Chakra Drones](https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0) | 3:57 |
-| 45 | [639 Hz \- Clarity Solfeggio](https://open.spotify.com/track/5JCaiKzYZctFC3f6g5MNkj) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 2:37 |
+| 45 | [639 Hz \- Clarity Solfeggio](https://open.spotify.com/track/5JCaiKzYZctFC3f6g5MNkj) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 2:37 |
 | 46 | [639 Hz \- Soledad Tranquilo](https://open.spotify.com/track/0WsjYAdmOnywit1hutalKK) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Soledad Tranquilo](https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF) | 2:16 |
 | 47 | [Anahata](https://open.spotify.com/track/0YzFRiN9WcMXLuwNmA0czG) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Ben Tavera King & Native Flute Ensemble](https://open.spotify.com/artist/1Q22azjP5FFbyeWE3sYn4D) | [Healing Flute Chakras \(Native American & Indian Flute for Massage, Spa, Yoga & Relaxation\)](https://open.spotify.com/album/0AyNpOYY3hL5haZQlgTUra) | 1:03 |
 | 48 | [Liquid Movements 639 Hz](https://open.spotify.com/track/13UsfmT1Rvl9occSdq3cvz) | [Sarema](https://open.spotify.com/artist/1OF0ZCmjYDKSrSTGRgGdm0) | [Liquid Movements 639 Hz](https://open.spotify.com/album/0x5MaxILSt3kCpbjJPTZmz) | 2:40 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 58 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 |
 | 59 | [Soil of the Earth](https://open.spotify.com/track/015AC4rS3zaaM2iaM1wbpX) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Soil of the Earth](https://open.spotify.com/album/02U4NcvO35hnPWETMhAKSE) | 3:24 |
 
-Snapshot ID: `MCxiMzZiZWJkNGFmZDI5NzE1ZDhkNTI3M2EwOWYxZWM5NzdmYTMzNjA1`
+Snapshot ID: `MCxhZDEwNDQzYTExOWI0ZDUyZTQ2Zjg2MDcxMTJlN2VjZGNiOGMxNjQx`

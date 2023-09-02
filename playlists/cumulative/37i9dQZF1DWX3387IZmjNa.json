@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Rylo Rodriguez",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lil Tjay",
   "name": "B.A.E.",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 154181,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/1Cwv7OzGjvpHcCGxY1Nmvk"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184000,
       "name": "CRUISE CONTROL",
       "url": "https://open.spotify.com/track/6u9t5hY9AhTREcorbRIvkY"
@@ -1696,6 +1696,28 @@
       "duration_ms": 174474,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
+    },
+    {
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
       "album": {
@@ -2264,6 +2286,28 @@
       "duration_ms": 168273,
       "name": "Games Women Play",
       "url": "https://open.spotify.com/track/4XwVObmSna9zn4hOtWrptC"
+    },
+    {
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139994,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/0EWkHy6MFQxu5Hg6SPlEur"
     },
     {
       "album": {
@@ -7158,6 +7202,24 @@
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
+    },
+    {
+      "album": {
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT"
     },
     {
       "album": {

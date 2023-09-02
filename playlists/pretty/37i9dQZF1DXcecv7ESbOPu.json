@@ -1,12 +1,12 @@
 {
   "description": "\u00c4ntligen fredag! Lyssna p\u00e5 veckans hetaste nya releaser i New Music Friday!",
-  "num_followers": 199425,
+  "num_followers": 199501,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2ZjNmE1OGViOWYzMWUxZTEyNTYwZDNmYjM2ODRhODRiMjRiNzYx",
+  "snapshot_id": "MCwzMjQwZjBjNDVkNjZiZWM0MTVjZDk1ZGRhNzZiN2RlZDgxYjU1YWYx",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -71,6 +71,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Keep Going Up",
         "url": "https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c"
       },
@@ -89,7 +105,7 @@
         }
       ],
       "duration_ms": 174222,
-      "name": "Keep Going Up (feat. Nelly Furtado & Justin Timberlake)",
+      "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
       "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
     },
     {
@@ -645,6 +661,30 @@
       "url": "https://open.spotify.com/track/3sgkqN4taRWk71naI3v2o8"
     },
     {
+      "added_at": "2023-09-01 07:54:17",
+      "album": {
+        "name": "Ray Of Solar (Alex Wann & Sasson Remix)",
+        "url": "https://open.spotify.com/album/4LCdaNUBthKh1YeP7ouz7k"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Sasson (FR)",
+          "url": "https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Ray Of Solar - Alex Wann & Sasson Remix",
+      "url": "https://open.spotify.com/track/7kPUvwFtA9e1COxyyNrvpR"
+    },
+    {
       "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "One Last Time",
@@ -764,7 +804,7 @@
       "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
       },
       "artists": [
         {
@@ -774,7 +814,7 @@
       ],
       "duration_ms": 230906,
       "name": "Pocket Full of Rain",
-      "url": "https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm"
+      "url": "https://open.spotify.com/track/4eUnqT2pBqi6t2PHy3l3R2"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1428,7 +1468,7 @@
       "added_at": "2023-08-31 22:00:00",
       "album": {
         "name": "Daydream",
-        "url": "https://open.spotify.com/album/4Hj6MUwjdaNaLQt2llyfEp"
+        "url": "https://open.spotify.com/album/6icCppqsCxLn4px5S8juE3"
       },
       "artists": [
         {
@@ -1438,7 +1478,7 @@
       ],
       "duration_ms": 207070,
       "name": "Daydream",
-      "url": "https://open.spotify.com/track/7h4rgreOPd0b1klPpbK54E"
+      "url": "https://open.spotify.com/track/4ShHdg2TSGeIKJU0v34Cl2"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1539,6 +1579,22 @@
       "duration_ms": 168221,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Come See Me",
+        "url": "https://open.spotify.com/album/3GLElQsZ6fNRwNj0sRV0kj"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Come See Me",
+      "url": "https://open.spotify.com/track/1kCVncgHcTEICcK3fG63jR"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1771,6 +1827,34 @@
       "duration_ms": 178027,
       "name": "Moon",
       "url": "https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Copacetic",
+        "url": "https://open.spotify.com/album/31gC69P8oJah7H4uiEatua"
+      },
+      "artists": [
+        {
+          "name": "Waves_On_Waves",
+          "url": "https://open.spotify.com/artist/4l1KlqrM9fywoEDVKKiR9u"
+        },
+        {
+          "name": "Crimewave",
+          "url": "https://open.spotify.com/artist/3Shc59fDGVjTyCRldcR7o1"
+        },
+        {
+          "name": "Sonic Shades Of Blue",
+          "url": "https://open.spotify.com/artist/6mxOXO3DnVWBVcncG1dMx0"
+        },
+        {
+          "name": "Cinnamon Chasers",
+          "url": "https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B"
+        }
+      ],
+      "duration_ms": 290392,
+      "name": "Copacetic",
+      "url": "https://open.spotify.com/track/00sjy8DsrCwNWGFpvbHceE"
     },
     {
       "added_at": "2023-08-31 22:00:00",

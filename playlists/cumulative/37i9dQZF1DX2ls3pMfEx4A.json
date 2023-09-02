@@ -208,7 +208,7 @@
     {
       "album": {
         "name": "My First Album",
-        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+        "url": "https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn"
       },
       "artists": [
         {
@@ -219,6 +219,24 @@
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190880,
+      "name": "Bing Bong Zoo",
+      "url": "https://open.spotify.com/track/72lIFn0eGPHFj7qbRjtRfV"
+    },
+    {
+      "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
       "duration_ms": 190891,
       "name": "Bing Bong Zoo",
       "url": "https://open.spotify.com/track/2q4PnncxGIm1oVQzu6hS2d"

@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 68883,
+  "num_followers": 69000,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz",
+  "snapshot_id": "MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -655,8 +655,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
+        "name": "Gimme Some Neck",
+        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Outlaws",
-      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
+      "duration_ms": 153600,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -751,8 +751,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Gimme Some Neck",
-        "url": "https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9"
+        "name": "1234",
+        "url": "https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq"
+      "duration_ms": 242280,
+      "name": "Outlaws",
+      "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

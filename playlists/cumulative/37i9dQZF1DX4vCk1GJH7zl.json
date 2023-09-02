@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Children of the Sky (a Starfield song)",
+        "url": "https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207611,
+      "name": "Children of the Sky (a Starfield song)",
+      "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
+    },
+    {
+      "album": {
         "name": "Cole\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3iwSLqFgOSYRBTGd31T4rG"
       },
@@ -454,7 +472,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 268653,
       "name": "Damage Gets Done (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
@@ -650,6 +668,24 @@
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo",
+        "url": "https://open.spotify.com/album/5RYNUFoIu5TrAGccBTzn8Z"
+      },
+      "artists": [
+        {
+          "name": "Suhai",
+          "url": "https://open.spotify.com/artist/7qxYJsbJ6l2IgZbJyr1XBR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179263,
+      "name": "Incondicional - Ao Vivo",
+      "url": "https://open.spotify.com/track/0LLYWHqp4AgGnx4B2krt9x"
     },
     {
       "album": {
@@ -1185,6 +1221,28 @@
     },
     {
       "album": {
+        "name": "Rainha Do Luar (Acoustic)",
+        "url": "https://open.spotify.com/album/52Kl1OzGWBtNE9nCho2Uqn"
+      },
+      "artists": [
+        {
+          "name": "Edu Falaschi",
+          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174176,
+      "name": "Rainha Do Luar - Acoustic",
+      "url": "https://open.spotify.com/track/4TeG3MuhkWvYV0iBRkMvOF"
+    },
+    {
+      "album": {
         "name": "Se Voc\u00ea Quiser Voltar",
         "url": "https://open.spotify.com/album/4Na3ea1iiGnAmWQTVDbnTg"
       },
@@ -1218,7 +1276,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 166148,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
@@ -1378,7 +1436,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 178000,
       "name": "S\u00f3s - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3iaY9cVudnqLKDunk7YPbY"

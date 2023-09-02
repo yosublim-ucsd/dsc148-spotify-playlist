@@ -4,7 +4,7 @@
 
 > Salute's got the juice
 
-107 songs - 6 hr 51 min
+108 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Best of Me](https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Best of Me](https://open.spotify.com/album/4nNPzcNhJRIV2einl7IK4n) | 4:22 | 2023-08-03 |  |
 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 | 2023-06-08 |  |
 | [Bring It Down \- Extended Mix](https://open.spotify.com/track/3C34tFFGh1nd48ebJg0zMp) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Bring It Down](https://open.spotify.com/album/7HNdACEoJgHTjYDBc2XU1k) | 5:13 | 2023-06-08 |  |
+| [Broke Another Heart \(Today\)](https://open.spotify.com/track/4aRiePemhJwCpCti5DEZSs) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj) | [Broke Another Heart \(Today\)](https://open.spotify.com/album/6uQOWLTG3pIg2LH57jFxi0) | 3:19 | 2023-09-01 |  |
 | [Brown Eyes](https://open.spotify.com/track/3xml6i6LH5X83htaBFM3Zr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 2:31 | 2023-08-03 |  |
 | [Buzzkill](https://open.spotify.com/track/4p9ROZgApJpuFRKl2Ffhbu) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Buzzkill](https://open.spotify.com/album/67kT2zXqPMCGVAfpEf82yo) | 2:54 | 2023-06-08 |  |
 | [Cherry](https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 5:55 | 2023-06-08 |  |

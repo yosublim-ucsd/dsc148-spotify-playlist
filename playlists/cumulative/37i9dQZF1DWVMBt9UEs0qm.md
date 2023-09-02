@@ -4,11 +4,12 @@
 
 > Classic pop, rock and folk for a pleasant drive.
 
-84 songs - 5 hr 36 min
+85 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2019-06-11 |  |
+| [A Case of You](https://open.spotify.com/track/3UedPlgycMQuLwNf1kdzqP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Class of 1971](https://open.spotify.com/album/53dNzfHWFNzyX6UJhPI5Bd) | 4:23 | 2019-06-11 |  |
+| [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2019-06-11 | 2023-09-02 |
 | [A Case of You](https://open.spotify.com/track/47puzbYTZ8BDKrD2GnMQXi) | [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7), [cody06](https://open.spotify.com/artist/2UTGurWdxcnfsCAK0FopWO) | [A Case Of You](https://open.spotify.com/album/4GFyRjzWrfAFtj2fX6ebf6) | 4:24 | 2019-06-11 | 2023-02-25 |
 | [A Case of You \- Original](https://open.spotify.com/track/4hThwlnWP8w8coCt7l56Da) | [enessaresmi](https://open.spotify.com/artist/5hcdHrCRQ6hYXB2yT5mdpD), [Neverever](https://open.spotify.com/artist/5M3VY7TrFsUHKYCwQdbFTw), [Aytowén](https://open.spotify.com/artist/38DFKUlj1mjYr0MYOSxFNW), [Savaşş](https://open.spotify.com/artist/35qcu7CKQicWBv7yTIKrqD) | [A Case of You \(Original\)](https://open.spotify.com/album/0YwoCTGvgpe6fYNXHqwx4o) | 4:24 | 2019-06-11 | 2023-03-10 |
 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 | 2019-06-11 |  |

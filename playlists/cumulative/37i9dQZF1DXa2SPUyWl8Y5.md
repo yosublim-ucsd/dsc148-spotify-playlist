@@ -2,9 +2,9 @@
 
 ### [Beats to think to](https://open.spotify.com/playlist/37i9dQZF1DXa2SPUyWl8Y5)
 
-> Focus with deep techno and tech house.
+> Focus with melodic techno and tech house.
 
-353 songs - 1 day 15 hr 2 min
+355 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Broken](https://open.spotify.com/track/3vZ1Ezeg7M9HtmggoDujMD) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Broken Ep](https://open.spotify.com/album/2ouzgPQYohSjyHsLkaVBaj) | 6:17 | 2021-12-17 | 2022-07-28 |
 | [Bulgaria](https://open.spotify.com/track/4ImAumIt8m1cVSTixIf4sA) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Bulgaria](https://open.spotify.com/album/2xvZ1ID0mtazV02pfoDSqh) | 8:37 | 2019-05-27 | 2022-04-21 |
 | [Cafe Del Mar \(Tale Of Us Renaissance Remix\)](https://open.spotify.com/track/0FO09rQ0ACkUlLRT7jWFQF) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7) | [Cafe Del Mar \(Tale Of Us Renaissance Remix\)](https://open.spotify.com/album/5q9d2CUDRIF8jJBxzQWipC) | 8:35 | 2019-05-29 | 2019-12-23 |
+| [Café Del Mar \- Cosmic Boys Remix](https://open.spotify.com/track/69RBXp7bvMLTqN3FIcX5Zd) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Café Del Mar \(Cosmic Boys Remix\)](https://open.spotify.com/album/6iZRULp86iUN5DZm1Ts7Zn) | 6:21 | 2023-09-01 |  |
 | [Caibu](https://open.spotify.com/track/5iKDMweHmTI6jtuKPAjl6Q) | [SCB](https://open.spotify.com/artist/7wXzAJOG2A0jtJXh5VucxT) | [Caibu](https://open.spotify.com/album/6IDXHp36BBHPFzmsxCS2FU) | 5:53 | 2019-05-26\* | 2020-06-09 |
 | [Call Of The Sirens](https://open.spotify.com/track/0GZwhBjm89E6Omf396Qc6i) | [Jan Driver](https://open.spotify.com/artist/4V9KFnehXmCaeMWJS3p0MM) | [Call Of The Sirens](https://open.spotify.com/album/17ecZSHVCCvSPVIePKs43n) | 5:35 | 2019-05-26\* | 2019-09-27 |
 | [Catharsis](https://open.spotify.com/track/2AcO12sm24bpXnJBJBRXSd) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Catharsis](https://open.spotify.com/album/59Y2anAb8sMJ83IHr31Vdg) | 8:50 | 2019-05-26\* | 2020-06-04 |
@@ -204,7 +205,7 @@
 | [Moonface](https://open.spotify.com/track/3oWez555ACR3IptrEFYjmz) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Moonface/Zukunft](https://open.spotify.com/album/5Gelq7kJWuYIr0ATVgRbAU) | 7:47 | 2019-05-26\* | 2019-06-21 |
 | [Morning Horses \- Matchy Remix](https://open.spotify.com/track/3MkWZPDy53LjLqha8z4qcm) | [August Artier](https://open.spotify.com/artist/7eHbk4v9MWiOckV8O2Bs5Y), [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n) | [Morning Horses EP](https://open.spotify.com/album/10TfzqGA379QQX9DqikYxV) | 7:38 | 2019-07-20 | 2021-10-25 |
 | [Multi](https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Multi](https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi) | 2:57 | 2019-12-07 |  |
-| [Multiversum](https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [The Selador Showcase \- The Seventeenth Instalment](https://open.spotify.com/album/5fOPccNvJkKyuIxeZ0SAmW) | 7:13 | 2023-02-18 |  |
+| [Multiversum](https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [The Selador Showcase \- The Seventeenth Instalment](https://open.spotify.com/album/5fOPccNvJkKyuIxeZ0SAmW) | 7:13 | 2023-02-18 | 2023-09-02 |
 | [Mutation](https://open.spotify.com/track/58oYyiSqmTA2dzoM7AeCqq) | [Roemisch 111](https://open.spotify.com/artist/5s2PN6vRUKztZ3SCfLmj3V) | [Mutation](https://open.spotify.com/album/2p23hNbE2AeJPskkwkGQ6v) | 8:08 | 2022-08-12 | 2022-09-17 |
 | [Naive](https://open.spotify.com/track/4Qpc3gQZKV7kq22ETvM2DS) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Naive / Tristesse](https://open.spotify.com/album/2IpZmLL2HPfft6I6kSStV0) | 8:27 | 2019-05-26\* | 2021-12-21 |
 | [Namtar](https://open.spotify.com/track/2Xfcb3UDq4osSNXD4tcUtt) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Namtar](https://open.spotify.com/album/0LEttMZzw1Ub66CONc4DtW) | 7:06 | 2022-06-24 | 2022-07-25 |
@@ -245,6 +246,7 @@
 | [Plexus 3AM \- Nicole Moudaber Remix](https://open.spotify.com/track/2BvKeWYxJyIlKDXJLNPSKI) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Plexus 3AM \(Nicole Moudaber Remix\)](https://open.spotify.com/album/6bIMJjahQvksudbYdYNKiz) | 7:38 | 2020-09-09 | 2021-12-23 |
 | [Poetry](https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Künstlerische Freiheit II](https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs) | 6:37 | 2023-06-30 |  |
 | [Polymid](https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Mera](https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p) | 7:11 | 2020-01-13 | 2022-05-08 |
+| [Portal](https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Portal / Echoes](https://open.spotify.com/album/7evuenwoczpZ1eWE6DQeBw) | 3:27 | 2023-09-01 |  |
 | [Portside](https://open.spotify.com/track/6dXZbgCOlekQfanjgh8cwt) | [Robin Hirte](https://open.spotify.com/artist/0q4jQ2ducUDvYaE5vTZQqz) | [Portside](https://open.spotify.com/album/2gGHUg4VEgwRyWFx0eoyNs) | 7:29 | 2019-05-26\* | 2020-06-12 |
 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 | 2021-09-08 |  |
 | [Power Plant](https://open.spotify.com/track/2xDjls6fXW0JXwoZUvAVo7) | [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Dmitry Molosh](https://open.spotify.com/artist/762FYAqSeuqmgbL6qEAJr8) | [Power Plant](https://open.spotify.com/album/0FyvWhIb0g2tlvbDvROUEV) | 7:04 | 2019-11-08 | 2019-11-09 |
@@ -296,7 +298,7 @@
 | [Solid Maybe](https://open.spotify.com/track/1whJKLkSxF0q4glZhCFtpJ) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J) | [Solid Maybe](https://open.spotify.com/album/10ft9WCfq6YnUV2AQaCN13) | 8:26 | 2019-05-26\* | 2021-05-28 |
 | [Solitary Daze](https://open.spotify.com/track/5nbttXsM0PYqyASw0IQ1ux) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/6hNSBxIuFK9LB0rdXAln6s) | 7:43 | 2019-06-22 | 2019-06-28 |
 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 | 2020-06-29 | 2022-10-18 |
-| [Someone Else](https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE) | 6:18 | 2022-09-30 |  |
+| [Someone Else](https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE) | 6:18 | 2022-09-30 | 2023-09-02 |
 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 | 2020-02-19 |  |
 | [Space Chants](https://open.spotify.com/track/0ZykKpfjw56pAQnkvRIFZS) | [Spieltape](https://open.spotify.com/artist/6Et53z8rREv56kKxJi0an6), [Dave Pad](https://open.spotify.com/artist/4wTXdJW4CabMRwP9aGXO42) | [Space Chants](https://open.spotify.com/album/0XQ8IM2Rye1ODNPJ93AepE) | 6:57 | 2019-10-25 | 2022-04-20 |
 | [Spacemodulation](https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D) | 7:08 | 2022-06-24 |  |

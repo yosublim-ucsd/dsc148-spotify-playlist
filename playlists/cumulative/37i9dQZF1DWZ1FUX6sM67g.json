@@ -213,6 +213,28 @@
     },
     {
       "album": {
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+      },
+      "artists": [
+        {
+          "name": "ZABDIEL",
+          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193059,
+      "name": "AVENTURA",
+      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+    },
+    {
+      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
         "url": "https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC"
       },
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176000,
       "name": "Ens\u00e9\u00f1ame a Bailar",
       "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
@@ -1138,6 +1160,32 @@
       "duration_ms": 225914,
       "name": "Esc\u00fachame Mi Amor - (Versi\u00f3n Salsa)",
       "url": "https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN"
+    },
+    {
+      "album": {
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203590,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
     },
     {
       "album": {
@@ -1204,6 +1252,24 @@
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+    },
+    {
+      "album": {
+        "name": "Isabela",
+        "url": "https://open.spotify.com/album/1qo0xhpGBkq8VtzXbqtNzG"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Isabela",
+      "url": "https://open.spotify.com/track/07eTBiKqLWi7Q2eBbSjDuS"
     },
     {
       "album": {
@@ -1872,7 +1938,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 199277,
       "name": "Noche Primavera",
       "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
@@ -2018,6 +2084,32 @@
       "duration_ms": 155994,
       "name": "Pega\u00edto",
       "url": "https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8"
+    },
+    {
+      "album": {
+        "name": "Por Retenerte",
+        "url": "https://open.spotify.com/album/1dcxcjZiHUGWDUzX8T62E5"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/5NQVgyomgTIHmtxfTZfncp"
     },
     {
       "album": {
@@ -2686,7 +2778,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 180103,
       "name": "Usted Ya Perdi\u00f3",
       "url": "https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic"
@@ -2878,7 +2970,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179828,
       "name": "Yo No Fumo",
       "url": "https://open.spotify.com/track/79U0Bz4XoHMyjmwK2AlX2B"

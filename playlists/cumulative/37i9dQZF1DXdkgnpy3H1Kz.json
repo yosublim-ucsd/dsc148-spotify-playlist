@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "Gigantia EP",
+        "url": "https://open.spotify.com/album/5QxDIWuPMNGi941SRjktS2"
+      },
+      "artists": [
+        {
+          "name": "Boston 168",
+          "url": "https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326368,
+      "name": "Before Us",
+      "url": "https://open.spotify.com/track/35nQObHeEnyN9j2HQ6CbrB"
+    },
+    {
+      "album": {
         "name": "Belief Relief",
         "url": "https://open.spotify.com/album/04hSEIVPxLiV7eBc3rL2My"
       },
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 339940,
       "name": "Gigantia",
       "url": "https://open.spotify.com/track/2W0okYa253wH35AgMldHDT"
@@ -2496,7 +2514,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 346702,
       "name": "Hit By The Star",
       "url": "https://open.spotify.com/track/0ZRb5YBqrSWoCWDmjCg0Uk"
@@ -5436,6 +5454,24 @@
       "duration_ms": 292924,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/5kq9vEDdvBgLcD1IrOxlaW"
+    },
+    {
+      "album": {
+        "name": "Gigantia EP",
+        "url": "https://open.spotify.com/album/5QxDIWuPMNGi941SRjktS2"
+      },
+      "artists": [
+        {
+          "name": "Boston 168",
+          "url": "https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351805,
+      "name": "Sirio03",
+      "url": "https://open.spotify.com/track/1UeJrrbHECy3OZqjYZ7MeD"
     },
     {
       "album": {

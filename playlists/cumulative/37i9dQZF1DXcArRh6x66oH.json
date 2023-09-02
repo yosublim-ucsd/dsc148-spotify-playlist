@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Mad Man",
+        "url": "https://open.spotify.com/album/5qvuzIfBRmQP8XTi0jQWmR"
+      },
+      "artists": [
+        {
+          "name": "Eddie Flint",
+          "url": "https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172260,
+      "name": "Mad Man",
+      "url": "https://open.spotify.com/track/1i1GjxicCX9W9tBWwbFve5"
+    },
+    {
+      "album": {
         "name": "J.R. Carroll | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/72089SOlxYZ4GbnDxqaXgQ"
       },

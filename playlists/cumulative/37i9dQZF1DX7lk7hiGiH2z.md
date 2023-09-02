@@ -4,7 +4,7 @@
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-83 songs - 3 hr 46 min
+84 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Der Herbst ist da](https://open.spotify.com/track/3Opv4kjKgziQ8nePVtdpnf) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 1:32 | 2023-08-31 |  |
 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 | 2023-08-31 |  |
 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 | 2023-08-31 |  |
-| [Dickie, der dicke Delfin](https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:10 | 2023-06-28 |  |
+| [Dickie, der dicke Delfin](https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:10 | 2023-06-28 | 2023-09-02 |
 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 | 2023-08-31 |  |
 | [Die Herbstzeit ist da](https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Herbst ist da \- Die 25 schönsten Herbstlieder](https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg) | 3:29 | 2023-08-31 |  |
 | [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 | 2023-06-28 |  |
@@ -65,6 +65,7 @@
 | [Laubkonfetti \(Es ist Herbst\)](https://open.spotify.com/track/6DbyuyaKB7UdHeW8nERabR) | [Grünschnabel](https://open.spotify.com/artist/3AaffDghvkRRfHVb6T1zUO) | [Lazuli\. Kindermusik für die ganze Familie](https://open.spotify.com/album/2sfVRAR8rBKcxBKTFodFvb) | 3:17 | 2023-08-31 |  |
 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 | 2023-06-28 | 2023-09-01 |
 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 | 2023-08-31 |  |
+| [Mein kleiner Kürbis](https://open.spotify.com/track/1qfmntr0uLVqUJKrbzXrPi) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 3:59 | 2023-08-31 |  |
 | [Mit Kastanien und Eicheln](https://open.spotify.com/track/4X2FW4z1gGi1HmAJrtCcps) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Volker Rosin \- Liederbox Vol\. 1](https://open.spotify.com/album/6nud5wQAgOSW1dNAWWiNpK) | 1:50 | 2023-08-31 |  |
 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 | 2023-09-01 |
 | [Ohne dich hätt' ich mich nicht getraut](https://open.spotify.com/track/5dlhNyHb5S9AuixZqnPaNY) | [Christopher Annen](https://open.spotify.com/artist/2WWeCEF0kF9vHGlLlsHaRE) | [Unter meinem Bett 5](https://open.spotify.com/album/5JYmSMR3duFBHnSIKumZtG) | 4:13 | 2023-08-04 | 2023-08-31 |

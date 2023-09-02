@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Noa Sainz y Nsqk en portada.",
-  "num_followers": 103218,
+  "num_followers": 103272,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDYzMDM5YmMxZjUwNDlkNTBmYTc4OGI2OWE1Mzg3YzNlZjg5NTVj",
+  "snapshot_id": "MCw2YjA2NGJjMjBkYWVkYzlkOWM3NmFmZDMzN2I1NDBiNmM4YmQ4MDUy",
   "tracks": [
     {
       "added_at": "2023-08-04 18:27:18",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 192853,
       "name": "Vem Por Cima",
       "url": "https://open.spotify.com/track/1VeGot9OEjti5tUbd7VuLi"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
-        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
-      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
         "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+        "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 (Live Session)",
+        "url": "https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+      "duration_ms": 182000,
+      "name": "T\u00fa All\u00e1 y Yo Ac\u00e1 - Live Session",
+      "url": "https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1039,6 +1023,22 @@
       "duration_ms": 101466,
       "name": "Malib\u00fa",
       "url": "https://open.spotify.com/track/2qOasu3wsh6kR5QW2YCXC4"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1103,22 +1103,6 @@
       "duration_ms": 225882,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Mi Fantasma",
-        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 162391,
-      "name": "Mi Fantasma",
-      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 233105,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Mi Fantasma",
+        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 162391,
+      "name": "Mi Fantasma",
+      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
     },
     {
       "added_at": "2023-08-04 18:27:18",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-08-04 18:27:18",
       "album": {
-        "name": "Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
-      },
-      "artists": [
-        {
-          "name": "FERCHO",
-          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
-        }
-      ],
-      "duration_ms": 138485,
-      "name": "Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
-    },
-    {
-      "added_at": "2023-08-04 18:27:18",
-      "album": {
         "name": "A Mi Ritmo",
         "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
+    },
+    {
+      "added_at": "2023-08-04 18:27:18",
+      "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/2CkrTRjWLytC0Ihmm6GBQR"
+      },
+      "artists": [
+        {
+          "name": "FERCHO",
+          "url": "https://open.spotify.com/artist/5MkJLgGk2KS4XihPHuEXOU"
+        }
+      ],
+      "duration_ms": 138485,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
     },
     {
       "added_at": "2023-08-04 18:27:18",

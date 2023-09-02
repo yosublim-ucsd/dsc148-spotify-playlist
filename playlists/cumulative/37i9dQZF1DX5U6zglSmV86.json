@@ -499,6 +499,24 @@
     },
     {
       "album": {
+        "name": "La Bachona",
+        "url": "https://open.spotify.com/album/0kl7f5ss7mwh8zaJD6Ggye"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171177,
+      "name": "La Bachona",
+      "url": "https://open.spotify.com/track/7vZoJVfJ14jZJaHtiYcHyM"
+    },
+    {
+      "album": {
         "name": "Frenia",
         "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
       },
@@ -735,6 +753,32 @@
     },
     {
       "album": {
+        "name": "Merca Fina",
+        "url": "https://open.spotify.com/album/38SRE2yA5N9HEzxfzGemFW"
+      },
+      "artists": [
+        {
+          "name": "Lil Wacho",
+          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        },
+        {
+          "name": "Maxo IR",
+          "url": "https://open.spotify.com/artist/0PXfNy7XDVO9w2YCHYedBo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170054,
+      "name": "Merca Fina",
+      "url": "https://open.spotify.com/track/25r3SrosSfuUCRfgZoiUvS"
+    },
+    {
+      "album": {
         "name": "Montecarlo",
         "url": "https://open.spotify.com/album/1499LDt8XAKTpIPgtbn2zd"
       },
@@ -930,6 +974,32 @@
       "duration_ms": 178758,
       "name": "Pa Arriba",
       "url": "https://open.spotify.com/track/7eQMkuflKhCY1MDHriexeo"
+    },
+    {
+      "album": {
+        "name": "Padre Mio",
+        "url": "https://open.spotify.com/album/5UUpRXv3OuRcenjZ8zVqF8"
+      },
+      "artists": [
+        {
+          "name": "Kloen Mk",
+          "url": "https://open.spotify.com/artist/43AIKX9G0r38WjeNTAhcXG"
+        },
+        {
+          "name": "Diablo 868",
+          "url": "https://open.spotify.com/artist/0z5rDk0aERPmeBSyeQEzfC"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292571,
+      "name": "Padre Mio",
+      "url": "https://open.spotify.com/track/0cMtiFwU0UzdzDaeyP4CqP"
     },
     {
       "album": {

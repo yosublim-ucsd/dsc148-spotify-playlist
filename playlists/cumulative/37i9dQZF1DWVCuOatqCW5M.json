@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Sukriti Kakar & Prakriti Kakar",
+  "description": "New music from popular Hindi artists. Cover- Palak Muchhal",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -1253,6 +1253,32 @@
     },
     {
       "album": {
+        "name": "Baarish Bulao",
+        "url": "https://open.spotify.com/album/4eMJyXN9ImhaVekKDX5wZ7"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Avvy Ballagan",
+          "url": "https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "Baarish Bulao",
+      "url": "https://open.spotify.com/track/1JfHWPKzrd7vdsijFT1Txx"
+    },
+    {
+      "album": {
         "name": "Baarish Hai Jaanam",
         "url": "https://open.spotify.com/album/6NJD7Ghdg2a5CQxXGGQUZj"
       },
@@ -1320,6 +1346,24 @@
       "duration_ms": 207157,
       "name": "Baarishan Mohabbat Wali",
       "url": "https://open.spotify.com/track/6jYhJtCLz7tFIgtnD32Wnw"
+    },
+    {
+      "album": {
+        "name": "Baarishein Bulaayen",
+        "url": "https://open.spotify.com/album/2qrU7Hd2klXwYGku6ob0GI"
+      },
+      "artists": [
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237756,
+      "name": "Baarishein Bulaayen",
+      "url": "https://open.spotify.com/track/6iQWGHD3phtY3EnC1tefWh"
     },
     {
       "album": {
@@ -3148,7 +3192,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182105,
       "name": "Dil Bechara",
       "url": "https://open.spotify.com/track/1DxD7cihgQRytjJbKfMDgW"
@@ -5064,7 +5108,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 218863,
       "name": "Ik Tu Hi",
       "url": "https://open.spotify.com/track/4P0VvKpwG7mUeq9LUeilNq"
@@ -5870,7 +5914,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 259730,
       "name": "Jee Bhar Ke Tum\u2026",
       "url": "https://open.spotify.com/track/1Q2Hv8Gi6tyW6dmA9AXdjK"
@@ -6536,6 +6580,28 @@
     {
       "album": {
         "name": "Kasam Se",
+        "url": "https://open.spotify.com/album/6HnM6hiRAbIahYlLkguthy"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185648,
+      "name": "Kasam Se",
+      "url": "https://open.spotify.com/track/53XRfIgocnwDCIkpCEyqbU"
+    },
+    {
+      "album": {
+        "name": "Kasam Se",
         "url": "https://open.spotify.com/album/0WS4WspWlLkuHFLCHzyuvQ"
       },
       "artists": [
@@ -6672,7 +6738,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 206351,
       "name": "Kehne Ko Kya Raha",
       "url": "https://open.spotify.com/track/7L5CBrcioUFtE81kxLiuaC"
@@ -6906,6 +6972,48 @@
       "duration_ms": 218453,
       "name": "Khatam",
       "url": "https://open.spotify.com/track/0yYpk1ihHyyjRgZxz5EhIO"
+    },
+    {
+      "album": {
+        "name": "Khayaal Rakhna (feat. Salim Merchant, Sunidhi Chauhan, Vijay Prakash & Pawandeep Rajan)",
+        "url": "https://open.spotify.com/album/0YrsW2Jwi1Ce0Jb8DFM8S3"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shradha Pandit",
+          "url": "https://open.spotify.com/artist/7ux0pE6SAbMJPSPmuuBHUN"
+        },
+        {
+          "name": "Shivansh Jindal",
+          "url": "https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Pawandeep Rajan",
+          "url": "https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198046,
+      "name": "Khayaal Rakhna (feat. Salim Merchant, Sunidhi Chauhan, Vijay Prakash & Pawandeep Rajan)",
+      "url": "https://open.spotify.com/track/0KhXSC1fvcVwh2O3vugHPl"
     },
     {
       "album": {
@@ -8087,6 +8195,24 @@
     },
     {
       "album": {
+        "name": "Main Aur Tum",
+        "url": "https://open.spotify.com/album/7cJkTh3XGfUoRbGcmGUmoj"
+      },
+      "artists": [
+        {
+          "name": "Maddy Sharma",
+          "url": "https://open.spotify.com/artist/2xA2yHPINunPF0MvZq2sIQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89387,
+      "name": "Main Aur Tum",
+      "url": "https://open.spotify.com/track/2q44Xv6R12CrkTfeo9ltMr"
+    },
+    {
+      "album": {
         "name": "Main Jee Raha",
         "url": "https://open.spotify.com/album/6V3YDKWUsw02tBuCLgdJUX"
       },
@@ -8249,6 +8375,24 @@
     },
     {
       "album": {
+        "name": "Mann",
+        "url": "https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191015,
+      "name": "Mann",
+      "url": "https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM"
+    },
+    {
+      "album": {
         "name": "Mann Laage",
         "url": "https://open.spotify.com/album/6E5B3iItUC7SjMjLMlhDq4"
       },
@@ -8300,7 +8444,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 234014,
       "name": "Manzoor",
       "url": "https://open.spotify.com/track/2ie0dQ7yBvHcHZn8mJaOe9"
@@ -8807,6 +8951,28 @@
     },
     {
       "album": {
+        "name": "Meri Har Shaam",
+        "url": "https://open.spotify.com/album/0K6K6Lw09m1xvODd1EUym4"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246304,
+      "name": "Meri Har Shaam",
+      "url": "https://open.spotify.com/track/4yf4IjlCf9MdjyEhg0bblx"
+    },
+    {
+      "album": {
         "name": "Meri Zameen",
         "url": "https://open.spotify.com/album/773xkahhSThZ4vrhhTEtfC"
       },
@@ -9072,6 +9238,32 @@
       "duration_ms": 204642,
       "name": "Muskurana Tera - Unplugged Version",
       "url": "https://open.spotify.com/track/0JOjfYJcZSKRQU0ghAxoTA"
+    },
+    {
+      "album": {
+        "name": "Muskurayega",
+        "url": "https://open.spotify.com/album/1892Qln1rYhD8V6tT0ECJF"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn"
+        },
+        {
+          "name": "Yashraj Mukhate",
+          "url": "https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223548,
+      "name": "Muskurayega",
+      "url": "https://open.spotify.com/track/0AUyEpUEtwv3VdIDVanQg0"
     },
     {
       "album": {
@@ -9430,6 +9622,28 @@
       "duration_ms": 204499,
       "name": "Nazdeek Aa",
       "url": "https://open.spotify.com/track/6HGYF23ssfitIgMvewmXFM"
+    },
+    {
+      "album": {
+        "name": "Nazdeekiyaan",
+        "url": "https://open.spotify.com/album/3XquG8hyw4IF49L81hGRl3"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Anamta Khan",
+          "url": "https://open.spotify.com/artist/0dWbpUsiwtx4ai6mRj7ZFI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255319,
+      "name": "Nazdeekiyaan",
+      "url": "https://open.spotify.com/track/1uaNjFnOhNRIGeOsugMTyh"
     },
     {
       "album": {
@@ -10438,7 +10652,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 125777,
       "name": "Qissa",
       "url": "https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp"
@@ -11542,7 +11756,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 212167,
       "name": "Shahar Shahar Galliyan Galliyan",
       "url": "https://open.spotify.com/track/7oYBPF0HrOTuWCzVV5MShq"
@@ -11890,7 +12104,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 248518,
       "name": "Suno",
       "url": "https://open.spotify.com/track/5qFiQxDaZTpyPZAC8m1aVg"
@@ -12990,7 +13204,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 253973,
       "name": "Tu hi Manzil",
       "url": "https://open.spotify.com/track/0ixXycJADwhKdiuSrjlLpC"

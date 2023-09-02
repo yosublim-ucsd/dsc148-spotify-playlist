@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Crossing over like Allen I. Cover: Gunna",
+  "description": "Crossing over like Allen I. Cover: Burna Boy",
   "name": "Signed XOXO",
   "tracks": [
     {
@@ -2687,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
+    },
+    {
+      "album": {
         "name": "Denial",
         "url": "https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc"
       },
@@ -3017,6 +3035,28 @@
     },
     {
       "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
+    },
+    {
+      "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
@@ -3226,7 +3266,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182272,
       "name": "Eastside Girl ft. Ty Dolla $ign",
       "url": "https://open.spotify.com/track/2yMqblpcRSEOpiBQpKFo9N"
@@ -5917,6 +5957,24 @@
     },
     {
       "album": {
+        "name": "LIFE IN HELL",
+        "url": "https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187893,
+      "name": "LANCEY OR LANCEY",
+      "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
+    },
+    {
+      "album": {
         "name": "So Icy Gang: The ReUp",
         "url": "https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C"
       },
@@ -5936,6 +5994,24 @@
       "duration_ms": 188928,
       "name": "Large Amounts (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/1InZhRtKbFW3vE6VyJ4g5L"
+    },
+    {
+      "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "album": {
@@ -6664,7 +6740,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 135253,
       "name": "Make My Day (with David Guetta)",
       "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
@@ -6682,7 +6758,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 172892,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/1pi9osnCVKgqMuMrVfAcBM"
@@ -8422,7 +8498,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
@@ -9312,7 +9388,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 189011,
       "name": "RIOT (Rowdy Pipe'n)",
       "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
@@ -10533,6 +10609,28 @@
     },
     {
       "album": {
+        "name": "Street Sweeper (feat. Swae Lee)",
+        "url": "https://open.spotify.com/album/732QIKM3qkHhwZgxaZsBLZ"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160667,
+      "name": "Street Sweeper (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/2NqpZD00BADhsvldFVdO0j"
+    },
+    {
+      "album": {
         "name": "Stressed",
         "url": "https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8"
       },
@@ -11619,6 +11717,32 @@
     },
     {
       "album": {
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        },
+        {
+          "name": "Jehkai",
+          "url": "https://open.spotify.com/artist/0EqsIz6jZtqiwz76zMMDH6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176701,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/0hLE6bBJqvBtTsUsjkxAFO"
+    },
+    {
+      "album": {
         "name": "Talk More Soon",
         "url": "https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc"
       },
@@ -11870,7 +11994,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 146950,
       "name": "Used (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1TweDM3JC49LNeelLVg3yX"

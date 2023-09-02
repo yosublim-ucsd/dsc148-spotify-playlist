@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Caloncho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,421 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,456 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 |
 | 75 | [El Suéter](https://open.spotify.com/track/2bdY6ski2FX3zsLYZZGBIw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [El Suéter](https://open.spotify.com/album/3uxziGtlsgvgHtPQJg5CBx) | 2:59 |
 
-Snapshot ID: `MCw1YWY5NmE4ZjQzZGZjNTM2NGUwNzk5ZDRjODAyNWNhMTQzMzlmNDU0`
+Snapshot ID: `MCw5YWI0NTNmZTcwOGY5NTBmYTExNWNhZTEyMmUyOWY5YjEwYTZjZGIw`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-918 songs - 2 day 2 hr 50 min
+919 songs - 2 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-06 |
 | [9 5 \. s o u t h](https://open.spotify.com/track/4GSBObGq3DuiKFlytKBbEw) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/7amgMBFiedsknMot03NgQ4) | 3:16 | 2021-05-16 | 2021-05-17 |
 | [A Cara do Crime \(Nós Incomoda\)](https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [A Cara do Crime \(Nós Incomoda\)](https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga) | 5:02 | 2021-07-15 | 2022-02-26 |
-| [A Dona Aranha](https://open.spotify.com/track/2VRKmQbkOhmpmp5wShHQ1j) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:04 | 2023-08-31 |  |
+| [A Dona Aranha](https://open.spotify.com/track/2VRKmQbkOhmpmp5wShHQ1j) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:04 | 2023-08-31 | 2023-09-02 |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-25 | 2022-12-28 |
 | [A Keeper](https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:53 | 2022-06-18 | 2022-06-23 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-28 |
@@ -813,6 +813,7 @@
 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-07-29 | 2023-08-03 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-03-27\* | 2021-05-16 |
 | [Tengo](https://open.spotify.com/track/4lrvlZwLnLYlXLhP5dH7DV) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Tengo](https://open.spotify.com/album/5rVjky77bDIQXkKEmwjj9g) | 2:09 | 2023-08-10 | 2023-08-17 |
+| [Tengo](https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:09 | 2023-09-01 |  |
 | [Tequila \- A COLORS SHOW](https://open.spotify.com/track/5ZVoLA2YyuhP4JUUM3q72J) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \- A COLORS SHOW](https://open.spotify.com/album/0xe60KzRri1uvxoVSYm1GT) | 3:19 | 2021-03-27\* | 2021-04-11 |
 | [Teu Eternamente](https://open.spotify.com/track/4QvTKF2UL2L8EAyDkzXlKK) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/2c6j8Ewk519kAxemoQ92mF) | 2:55 | 2023-03-25 | 2023-04-02 |
 | [Texts Go Green](https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:08 | 2022-06-18 | 2022-06-24 |

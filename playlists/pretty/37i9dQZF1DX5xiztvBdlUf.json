@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 593980,
+  "num_followers": 594197,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTM5NzY2NDA0YTMwYTMzNTVmZmJjY2Q0NjBkZGVkZDNjNDFiNzFk",
+  "snapshot_id": "MCw3YjU3NTdiYzk0NmQyNjNlZDVhNzY4MTMyZjY3YzY1NjZkOTU2Nzhh",
   "tracks": [
     {
       "added_at": "2023-08-02 13:15:56",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
-        "name": "Altered Destiny",
-        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 185578,
-      "name": "Altered Destiny - Chill Mix",
-      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
         "name": "Caprice",
         "url": "https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 230839,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
+        "name": "Altered Destiny",
+        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 185578,
+      "name": "Altered Destiny - Chill Mix",
+      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
       "added_at": "2023-08-02 13:15:56",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
         "name": "Le Funk",
         "url": "https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 239106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Amanh\u00e3",
-      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
     },
     {
       "added_at": "2023-08-02 13:15:56",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
-        "name": "Better In The Dark",
-        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 352054,
-      "name": "Better In The Dark",
-      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
         "name": "Sign of the Times",
         "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 193403,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
+        "name": "Better In The Dark",
+        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 352054,
+      "name": "Better In The Dark",
+      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
     },
     {
       "added_at": "2023-08-02 13:15:56",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
         "name": "Laufen",
         "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 257709,
       "name": "Laufen",
       "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2023-08-02 13:15:56",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
         "name": "Howl (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 289156,
       "name": "Howl - Logic1000 Remix",
       "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
     },
     {
       "added_at": "2023-08-02 13:15:56",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-08-02 13:15:56",
       "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+    },
+    {
+      "added_at": "2023-08-02 13:15:56",
+      "album": {
         "name": "To Be Written",
         "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 393442,
       "name": "To Be Written - Lunar Plane Remix",
       "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
-    },
-    {
-      "added_at": "2023-08-02 13:15:56",
-      "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-08-02 13:15:56",

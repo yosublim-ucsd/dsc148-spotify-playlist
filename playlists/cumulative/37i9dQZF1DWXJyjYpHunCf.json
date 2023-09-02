@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "as good a reason",
+        "url": "https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169721,
+      "name": "as good a reason",
+      "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
+    },
+    {
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 169641,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/28vZIcjA9gDI7BYZnwDzNm"
@@ -4598,7 +4616,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 171800,
       "name": "The Worth Of The Wait",
       "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
@@ -5472,6 +5490,24 @@
       "duration_ms": 221031,
       "name": "You Make The World A Better Place",
       "url": "https://open.spotify.com/track/1OcX5myU73VFwUAanEvnnb"
+    },
+    {
+      "album": {
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     },
     {
       "album": {

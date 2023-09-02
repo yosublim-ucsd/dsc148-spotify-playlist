@@ -4,7 +4,7 @@
 
 > Listen to music from and inspired by You Are So Not Invited To My Bat Mitzvah, now streaming on Netflix.
 
-52 songs - 2 hr 7 min
+53 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Drop Off At Lydia's](https://open.spotify.com/track/6bSFiVittE8trLk25bDsFk) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 0:25 | 2023-08-25 |  |
 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 | 2023-08-25 |  |
 | [Ever Kissed Anyone?](https://open.spotify.com/track/0mGx4wZDQtyoyshRQQrPDa) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:16 | 2023-08-25 |  |
+| [Hang the Moon \(from the Netflix Film "You Are So Not Invited To My Bat Mitzvah"\)](https://open.spotify.com/track/0Pxm4E8rNg65Z2G5I9W7TQ) | [Sadie](https://open.spotify.com/artist/2PfSnNh32J94ADXP7o2NTR) | [Hang the Moon \(from the Netflix Film "You Are So Not Invited To My Bat Mitzvah"\)](https://open.spotify.com/album/4G7wLx9pM4g8F3ScbueQpb) | 3:37 | 2023-09-01 |  |
 | [Hebrew School](https://open.spotify.com/track/5mcnZMb6apSbkCthOgtRDs) | [Amanda Yamate](https://open.spotify.com/artist/01uLTa1JqRkIr7pEaXWYgJ), [Este Haim](https://open.spotify.com/artist/6YIPaonw4ZeE1OXUfmLNyc) | [You Are So Not Invited To My Bat Mitzvah \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl) | 1:30 | 2023-08-25 |  |
 | [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 | 2023-08-25 |  |
 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 | 2023-08-25 |  |

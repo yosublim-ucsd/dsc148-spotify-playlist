@@ -1,12 +1,12 @@
 {
   "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
-  "num_followers": 72626,
+  "num_followers": 72751,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTkyMTYyYjhlNDk5MDI4MTg2NDFkYjcxMTY3NDZhM2Y5MjZiY2I2",
+  "snapshot_id": "MCw3OGEzYjVhOGI3MzUzZjVhYjcyMzcyZDMzZWYxMTM0YmI1OGRmOGMz",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "The Dream Is Over",
         "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
       },
@@ -619,6 +635,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 300115,
+      "name": "Boys In the Better Land",
+      "url": "https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -647,22 +679,6 @@
       "duration_ms": 215253,
       "name": "It's Not Over Yet",
       "url": "https://open.spotify.com/track/0TRvSkiK0eQEejmiu4vBzi"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Joy as an Act of Resistance.",
-        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 228831,
-      "name": "Never Fight A Man With A Perm",
-      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -731,6 +747,22 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
+        "name": "Brutalism",
+        "url": "https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 207145,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
         "name": "Celebrity Mansions",
         "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
       },
@@ -763,50 +795,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Puppets",
-        "url": "https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw"
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
       },
       "artists": [
         {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 149028,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Men's Needs, Women's Needs, Whatever (Standard Version)",
-        "url": "https://open.spotify.com/album/0uf3G2hMRqZ0LOqv6QhZiL"
-      },
-      "artists": [
-        {
-          "name": "The Cribs",
-          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Men's Needs",
-      "url": "https://open.spotify.com/track/3qel23hQWhHT3qGewBQ0pE"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
-        "name": "Antidotes",
-        "url": "https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Two Steps, Twice",
-      "url": "https://open.spotify.com/track/2K1upo7TEAIMVd9D9FDhrx"
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8"
     }
   ],
   "unique_name": "Sticky Floors",

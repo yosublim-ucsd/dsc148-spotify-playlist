@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Tri\-State](https://open.spotify.com/playlist/37i9dQZF1DXc0hXKLIY8EX)
 
-> New York, Jersey, and Connecticut music breaking waves\. Cover:  Cover:  <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca?si=7fe08d8aa51e4821">A$AP Rocky</a>
+> New York, Jersey, and Connecticut music breaking waves\. Cover:  <a href="https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf?si=HnkORnFzR9KomL6aQeDbYg">Ice Spice</a>
 
 125 songs - 5 hr 50 min
 

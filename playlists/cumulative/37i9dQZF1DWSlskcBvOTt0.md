@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-488 songs - 2 day 0 hr 1 min
+489 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 | 2023-04-29 |
 | [Miombo \- Original](https://open.spotify.com/track/2Jyu4yhzCv25s2xtwLpq8P) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9) | [Miombo](https://open.spotify.com/album/5GtgbyB6ATyCEAryQrTiFE) | 7:01 | 2021-04-21 | 2022-06-29 |
 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-04-07 |  |
+| [MONTE](https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Arema Arega](https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C) | [MONTE](https://open.spotify.com/album/7FbQjXpnUM5ZlShOY0xHCt) | 5:21 | 2023-09-01 |  |
 | [Moogami](https://open.spotify.com/track/3eE1iKxmBVgsQK11Gk4WM9) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Moogami EP](https://open.spotify.com/album/7dFiAtaxK2FejRLMb9pAfW) | 9:01 | 2021-04-21 | 2022-07-16 |
 | [More & More \- No Vox Mix](https://open.spotify.com/track/0BV51sEynTVwGWq4PPQThN) | [Groovefella](https://open.spotify.com/artist/45ysl7gfRvC0FUIbmbXw9G) | [More & More](https://open.spotify.com/album/0mvLf6QrDCW3T4rkCNsyZ1) | 7:17 | 2021-04-21 | 2022-07-11 |
 | [More Than I Should Know](https://open.spotify.com/track/33gTKCdlC5OTe156GIiYVo) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [More Than I Should Know](https://open.spotify.com/album/30Ij9GnFU4AMFau8Pb6efo) | 3:38 | 2023-03-03 | 2023-07-15 |
@@ -338,7 +339,7 @@
 | [Palomita](https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Endup](https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6) | 8:03 | 2022-07-01 |  |
 | [Pamparis](https://open.spotify.com/track/7irDOF7IcDhfoQ14kFdpOu) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Pampa EP](https://open.spotify.com/album/10LQNgzRkFqvJwFhKOxTjB) | 8:11 | 2022-02-25 | 2022-07-27 |
 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 | 2022-03-11 | 2022-07-19 |
-| [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-11 |  |
+| [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-11 | 2023-09-02 |
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-08 |  |
 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 | 2021-05-07 | 2023-03-11 |
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |

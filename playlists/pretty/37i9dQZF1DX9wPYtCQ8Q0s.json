@@ -1,12 +1,12 @@
 {
   "description": "A batida certa para o seu treino.",
-  "num_followers": 348703,
+  "num_followers": 348740,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDc2MGM4NzE0YjEyMzM1ZDcxYWExMTI2ZDE0ZTlkNGE1MWJhMGFm",
+  "snapshot_id": "MCxmZjFmZTdhNjY0NTY5ZmZhNzBjNTA5ZDA1YTk2ZDFhMGJjZmU1YmJk",
   "tracks": [
     {
       "added_at": "2023-08-25 03:01:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 139741,
+      "name": "WHATS POPPIN",
+      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 139741,
-      "name": "WHATS POPPIN",
-      "url": "https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM"
     },
     {
       "added_at": "2023-08-25 03:01:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
         "name": "New English",
         "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 216247,
       "name": "Fight Night",
       "url": "https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
-        "name": "Collision Course (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
     }
   ],
   "unique_name": "Treino Hip-Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,035 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,214 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 64 | [Bad Guy \- Acoustic](https://open.spotify.com/track/5VAd4Y9jubrIq6J7TLyhCV) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Bad Guy \(Acoustic\)](https://open.spotify.com/album/6ty8JLccA81Mmzbk3FOhzi) | 2:41 |
 | 65 | [Digital \- Acústico](https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX) | [Pirredy](https://open.spotify.com/artist/1t06JeHvwnnglW4sw3Luhf) | [Digital \(Acústico\)](https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk) | 3:16 |
 | 66 | [Gold on the Ceiling \- BBC Session](https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Gold on the Ceiling \(BBC Session\)](https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt) | 3:48 |
-| 67 | [Conflitos \- Acústico](https://open.spotify.com/track/7fvhpffV4tyXlPZi1ywyqt) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [Conflitos \(Acústico\)](https://open.spotify.com/album/6ha8mzXCyPKldZDuwHuTnJ) | 3:23 |
-| 68 | [Shadow Man \- Unplugged & Somewhat Slightly Electric Mix](https://open.spotify.com/track/18wwNNbXchWt4jowT65YyY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Toy \(Toy:Box\)](https://open.spotify.com/album/0NFcvZO9xMAnYhPn3sfhBp) | 4:18 |
-| 69 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 |
-| 70 | [Ignorance \- Acoustic Version](https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [100 Greatest Acoustic Songs](https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH) | 3:40 |
-| 71 | [Já Vou Me Acostumar](https://open.spotify.com/track/46AU10i9KATIFs9dVAv5oI) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Já Vou Me Acostumar](https://open.spotify.com/album/6kkPACmXiwyKhK4axxpH2s) | 4:02 |
-| 72 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chorão: Marginal Alado](https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z) | 2:08 |
-| 73 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
+| 67 | [Shadow Man \- Unplugged & Somewhat Slightly Electric Mix](https://open.spotify.com/track/18wwNNbXchWt4jowT65YyY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Toy \(Toy:Box\)](https://open.spotify.com/album/0NFcvZO9xMAnYhPn3sfhBp) | 4:18 |
+| 68 | [O Segundo Sol \- Ao Vivo](https://open.spotify.com/track/6uRSXIUpUFAlsZC1r4pWW9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Cássia Eller Em Casa](https://open.spotify.com/album/6T6Vo6ACxuxdFRS3b3uKtY) | 4:17 |
+| 69 | [Ignorance \- Acoustic Version](https://open.spotify.com/track/6x9Sf1jBFcSeSvMEkdKbOz) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [100 Greatest Acoustic Songs](https://open.spotify.com/album/4744LKhHEUK88uQPtDc5AH) | 3:40 |
+| 70 | [O Coro Vai Come \- Ao Vivo](https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Chorão: Marginal Alado](https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z) | 2:08 |
+| 71 | [Canção Da Meia Noite](https://open.spotify.com/track/61g04v9KWwRSDeAHZADvxZ) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Outros](https://open.spotify.com/album/0CzqUT8e3oHcXOXWiSxyY0) | 4:02 |
+| 72 | [Welcome To The Sky \(Intro\) \- Ao Vivo](https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Acústico NYC \(Ao Vivo\) \[Versão Deluxe + Faixa Extra\]](https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN) | 1:05 |
+| 73 | [What's My Age Again? \- Acoustic](https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [What's My Age Again? \(Acoustic\)](https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr) | 2:26 |
 | 74 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Pop Brasil das Antigas](https://open.spotify.com/album/1hszah1arYRilCMPwvB6Ib) | 4:00 |
 | 75 | [Proibida Pra Mim \(Grazon\) \- Ao Vivo](https://open.spotify.com/track/1ChjgMHSdaPiWGSMmsIECN) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Acústico Nacional](https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm) | 2:31 |
 
-Snapshot ID: `MCw0YWM2MTFmNGRmNWU1NDBiYmVhM2U0MWVkOTk2YzVjZDEwYjg5Nzc4`
+Snapshot ID: `MCwxZGEzMDA3MmRiZDczYWIyNjdiMmI1MDZhZjUwNmRlNWQ4MjM5MTEx`

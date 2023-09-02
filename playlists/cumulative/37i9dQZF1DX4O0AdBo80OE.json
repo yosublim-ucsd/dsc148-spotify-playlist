@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "Coastin' (with Alem\u00e1n)",
+        "url": "https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244992,
+      "name": "Coastin' (with Alem\u00e1n)",
+      "url": "https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf"
+    },
+    {
+      "album": {
         "name": "Colibr\u00ed",
         "url": "https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P"
       },
@@ -796,7 +818,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 132222,
       "name": "EVEREST",
       "url": "https://open.spotify.com/track/497xqIv6ndofwfQ65sfXPP"
@@ -1044,6 +1066,28 @@
       "duration_ms": 222266,
       "name": "La Marcha De Los Tristes",
       "url": "https://open.spotify.com/track/5ZXPV5uBNUC7itJrVXoyUw"
+    },
+    {
+      "album": {
+        "name": "La Vida en Cholas",
+        "url": "https://open.spotify.com/album/5iOoQVQ9QxMtiYO3YVVeeu"
+      },
+      "artists": [
+        {
+          "name": "Bejo",
+          "url": "https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u"
+        },
+        {
+          "name": "Mabreezee",
+          "url": "https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "La Vida en Cholas",
+      "url": "https://open.spotify.com/track/1aNE07vqk6DcT4kG76qGUi"
     },
     {
       "album": {
@@ -1398,7 +1442,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 170306,
       "name": "Ni bien ni mal",
       "url": "https://open.spotify.com/track/6KUQvfFKLMF2fL3xFXoZbG"
@@ -1684,7 +1728,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 412134,
       "name": "Perfecto - Remix",
       "url": "https://open.spotify.com/track/680BOO124VxGj9DXEtCttL"
@@ -1768,7 +1812,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 199531,
       "name": "Por Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
@@ -2352,7 +2396,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176010,
       "name": "Tu Vaquero Espacial",
       "url": "https://open.spotify.com/track/4Aoateww5S7sAtrdpy1a6b"

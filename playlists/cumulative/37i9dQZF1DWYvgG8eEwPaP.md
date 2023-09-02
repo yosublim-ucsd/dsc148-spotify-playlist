@@ -4,7 +4,7 @@
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-43 songs - 3 hr 6 min
+44 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Jeeeju](https://open.spotify.com/track/1X0JotKLOpb3sC89s620aK) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Harish Verma](https://open.spotify.com/artist/6JfYDFQWMlAMizvlVIMdFX) | [Jeeeju \- Single](https://open.spotify.com/album/3cXErCpIhNdqibrsVyPBTm) | 3:14 | 2019-08-19 |  |
 | [Jeeeju](https://open.spotify.com/track/2HuNp9hrtekl32F5YGgoB0) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Harish Verma](https://open.spotify.com/artist/6JfYDFQWMlAMizvlVIMdFX) | [Miss Pooja \- Kudi Punjab Di](https://open.spotify.com/album/5MV1TtROzY1r75MunvHdeY) | 3:14 | 2019-08-19 | 2022-11-14 |
 | [Kabje Dilan De Utte](https://open.spotify.com/track/0oCs10Oiv3cYIWJroRX8b5) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Karma](https://open.spotify.com/artist/2B2pfYERxf39nlBE4Tj8Fw) | [Topper 2](https://open.spotify.com/album/5WdMXD6hfOtFXkqv2gdnW3) | 5:48 | 2019-08-19 |  |
-| [Laung Gawacha](https://open.spotify.com/track/7mgGEXpbBMCOHgIUqdfARm) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha \- Single](https://open.spotify.com/album/1mO4qPhqz1SPVTgvHve7ak) | 3:37 | 2019-08-19 |  |
+| [Laung Gawacha](https://open.spotify.com/track/7mgGEXpbBMCOHgIUqdfARm) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha \- Single](https://open.spotify.com/album/1mO4qPhqz1SPVTgvHve7ak) | 3:37 | 2019-08-19 | 2023-09-02 |
+| [Laung Gawacha](https://open.spotify.com/track/1aEfxP8CyCSDQeqRFlzBKb) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha](https://open.spotify.com/album/2hv0zzhDs3mJ6GZekwpaPc) | 3:42 | 2019-08-19 |  |
 | [Menu Tere Jeya](https://open.spotify.com/track/7oojiUzsQZz52EC36joBzT) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44) | [The Biggest UK Bhangra Hits, Vol\. 5](https://open.spotify.com/album/3cQ7UsnZzJI9NY2FLi8Dr8) | 4:17 | 2019-08-19 |  |
 | [Mera Mahi Tu Pateya](https://open.spotify.com/track/7LfMSGFnFIsEXl0qrCOns9) | [Lehmber Hussainpuri](https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Jeeti](https://open.spotify.com/artist/0yqLAqvEr9ZXO4faQUObL9) | [The Best Of](https://open.spotify.com/album/4qQpcuOPa0gf9u5FMfmCSe) | 4:34 | 2019-08-19 |  |
 | [Miss Pooja Boliyan](https://open.spotify.com/track/5WBWieyRiaNL3c8hJe9o0m) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [The Biggest Desi Hits, Vol.1](https://open.spotify.com/album/4sLPyGhZ7aSuX5o7NJEdmy) | 3:26 | 2019-08-19 |  |

@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Silent Planet
 
-735 songs - 1 day 22 hr 11 min
+736 songs - 1 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,8 @@
 | [Show Me Your God](https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Show Me Your God](https://open.spotify.com/album/6NNVcyPL17qA1ehI4ZgLnm) | 3:37 | 2022-12-02 | 2023-02-18 |
 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 | 2022-06-10 | 2023-02-18 |
 | [Silence Broken](https://open.spotify.com/track/4HcBbO8UMWfUyIv3IBrzYm) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Silence Broken](https://open.spotify.com/album/4KEtxaz1yu7otXRzhwBPY6) | 3:56 | 2022-03-03 | 2022-04-23 |
-| [Silver Bullet](https://open.spotify.com/track/0wqeXCzidJo3h8jG01OMoT) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/1syKhS52gQ9bxzdZlN9IOC) | 3:13 | 2023-03-31 |  |
+| [Silver Bullet](https://open.spotify.com/track/0wqeXCzidJo3h8jG01OMoT) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/1syKhS52gQ9bxzdZlN9IOC) | 3:13 | 2023-03-31 | 2023-09-02 |
+| [Silver Bullet](https://open.spotify.com/track/60bdGD4lCqGQJFR3wRtFlJ) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/2uOLiz6dTIJleJI1IyClll) | 3:13 | 2023-08-18 |  |
 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 | 2023-07-14 |  |
 | [Skin](https://open.spotify.com/track/4i19NWcezW6rXnwBJLY94E) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. I: Love](https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7) | 3:37 | 2022-01-14 | 2022-04-23 |
 | [Skin Crawl \(feat\. Brian “Head” Welch of Korn, Dan Weyandt of Zao, Bruce Fitzhugh of Living Sacrifice\)](https://open.spotify.com/track/05ExgiMCSDdT15nwhMf8ow) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Zao](https://open.spotify.com/artist/2vqfIznyoJDjhrbNAueQ6s), [Living Sacrifice](https://open.spotify.com/artist/0nxo4nAEYNbNpA8wwNvqXY) | [It’s Not Easy Being Human](https://open.spotify.com/album/1PQNS7uitlx8MAfVmHImtz) | 4:10 | 2022-04-01 | 2022-06-18 |

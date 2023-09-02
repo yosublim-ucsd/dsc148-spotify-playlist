@@ -4,7 +4,7 @@
 
 > Hoy es noche de...
 
-262 songs - 15 hr 40 min
+263 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Ella Quiere Beber \- Remix](https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Ella Quiere Beber \(Remix\)](https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG) | 3:39 | 2021-12-30 | 2023-02-11 |
 | [En La Cama \(feat\. Daddy Yankee\)](https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Exitos](https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB) | 2:37 | 2022-12-08 | 2023-02-11 |
 | [En La Disco Revela](https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [En La Disco Revela](https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b) | 3:03 | 2023-02-10 | 2023-02-25 |
-| [En Otra Vida](https://open.spotify.com/track/0rrarGZv1ByDl0aootANBf) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [De Vuelta Al Mundo](https://open.spotify.com/album/7aGYNNQwNDJC2q3XyQOeSs) | 3:52 | 2023-08-04 |  |
+| [En Otra Vida](https://open.spotify.com/track/0rrarGZv1ByDl0aootANBf) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [De Vuelta Al Mundo](https://open.spotify.com/album/7aGYNNQwNDJC2q3XyQOeSs) | 3:52 | 2023-08-04 | 2023-09-02 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2023-02-10 |  |
 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 | 2022-05-10 | 2023-02-11 |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2022-12-08 | 2023-02-11 |
@@ -162,6 +162,7 @@
 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 | 2022-04-06 | 2022-07-23 |
 | [Morado](https://open.spotify.com/track/35KmOEIUqAGn02t7n4qaIr) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:20 | 2022-04-06 | 2022-07-29 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-10 | 2023-02-11 |
+| [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-01 |  |
 | [Más Allá](https://open.spotify.com/track/4WTF4MkWJSEeWhTNk3ywPT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:25 | 2023-02-10 | 2023-08-13 |
 | [MÉTELE AL PERREO](https://open.spotify.com/track/4w6dsdn8DjKUeGWwxlRKrT) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [MÉTELE AL PERREO](https://open.spotify.com/album/6SsTT8rdqOsmYP9jAFAXFr) | 3:43 | 2022-04-06 | 2022-07-27 |
 | [Mírame \- Remix](https://open.spotify.com/track/7meQTf97i7gyAzeHTLIytv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Now Or Never](https://open.spotify.com/album/1BBjdKgGAqwdEvcvqBOGfT) | 6:17 | 2023-02-10 |  |

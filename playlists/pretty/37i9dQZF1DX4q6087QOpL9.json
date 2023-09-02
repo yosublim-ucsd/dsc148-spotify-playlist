@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 78016,
+  "num_followers": 78129,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWU1M2ZjODdlN2VlYTMxMWRjYzU5NTM0YWY1NmI0MzY5MWY1MGQ2",
+  "snapshot_id": "MCw2OGI0NWI4ZDM4YzRkMzliNWYxZjU0MThjYjFmMzE4MWE0OTE4MzEw",
   "tracks": [
     {
       "added_at": "2023-08-31 12:37:16",
@@ -343,30 +343,6 @@
     {
       "added_at": "2023-08-31 12:37:16",
       "album": {
-        "name": "Yoruba Soul Mixes - Rock Wit U",
-        "url": "https://open.spotify.com/album/3qZpsTAOl6b0S5OahuXqsd"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff",
-          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
-        },
-        {
-          "name": "Erro",
-          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 357746,
-      "name": "Rock Wit U - Yoruba Soul Mix - Dub",
-      "url": "https://open.spotify.com/track/2F5cjiDzORHGhca4dSandQ"
-    },
-    {
-      "added_at": "2023-08-31 12:37:16",
-      "album": {
         "name": "Edits by Mr. K",
         "url": "https://open.spotify.com/album/0cRgDZNg8D4w80HYA3wbkX"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 381419,
       "name": "Heaven (feat. Andreya Triana) - Danny Krivit Edit",
       "url": "https://open.spotify.com/track/5Re8DUUAt9ui1Yr6WdNwFm"
+    },
+    {
+      "added_at": "2023-08-31 12:37:16",
+      "album": {
+        "name": "Yoruba Soul Mixes - Rock Wit U",
+        "url": "https://open.spotify.com/album/3qZpsTAOl6b0S5OahuXqsd"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff",
+          "url": "https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn"
+        },
+        {
+          "name": "Erro",
+          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 357746,
+      "name": "Rock Wit U - Yoruba Soul Mix - Dub",
+      "url": "https://open.spotify.com/track/2F5cjiDzORHGhca4dSandQ"
     },
     {
       "added_at": "2023-08-31 12:37:16",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-08-31 12:37:16",
       "album": {
+        "name": "You're In My System",
+        "url": "https://open.spotify.com/album/1Scs2iEwQ3DrCW5JzYJ091"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Sylvester",
+          "url": "https://open.spotify.com/artist/0Gu9M2zSKGD9dvnFrnu3Xw"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
+        }
+      ],
+      "duration_ms": 351343,
+      "name": "You're In My System - Original Mix",
+      "url": "https://open.spotify.com/track/0ttcT1gEVaUy0Sat4jqnnd"
+    },
+    {
+      "added_at": "2023-08-31 12:37:16",
+      "album": {
         "name": "Diamond Life (feat. Julie McKnight)",
         "url": "https://open.spotify.com/album/1s5fbLVau2qXTVfhNJsewG"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 399653,
       "name": "The Way U Love Me",
       "url": "https://open.spotify.com/track/5u2Bf96SjyWMKSrqAu9jUD"
-    },
-    {
-      "added_at": "2023-08-31 12:37:16",
-      "album": {
-        "name": "You're In My System",
-        "url": "https://open.spotify.com/album/1Scs2iEwQ3DrCW5JzYJ091"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Sylvester",
-          "url": "https://open.spotify.com/artist/0Gu9M2zSKGD9dvnFrnu3Xw"
-        },
-        {
-          "name": "Lee Wilson",
-          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
-        }
-      ],
-      "duration_ms": 351343,
-      "name": "You're In My System - Original Mix",
-      "url": "https://open.spotify.com/track/0ttcT1gEVaUy0Sat4jqnnd"
     },
     {
       "added_at": "2023-08-31 12:37:16",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-08-31 12:37:16",
       "album": {
-        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
-        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Alana",
-          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
-        }
-      ],
-      "duration_ms": 391883,
-      "name": "Love Changes (feat. Alana) - Deep Mix",
-      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
-    },
-    {
-      "added_at": "2023-08-31 12:37:16",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 235066,
       "name": "Changes (feat. Haze)",
       "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
+    },
+    {
+      "added_at": "2023-08-31 12:37:16",
+      "album": {
+        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
+        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Alana",
+          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
+        }
+      ],
+      "duration_ms": 391883,
+      "name": "Love Changes (feat. Alana) - Deep Mix",
+      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2023-08-31 12:37:16",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-31 12:37:16",
       "album": {
-        "name": "Soul Fever",
-        "url": "https://open.spotify.com/album/6UFogsgPTmVZNueGL4pYVe"
-      },
-      "artists": [
-        {
-          "name": "Simbad ft. Steelo",
-          "url": "https://open.spotify.com/artist/7EemSjl9XAGrw9DTTMvi1J"
-        }
-      ],
-      "duration_ms": 426600,
-      "name": "Soul Fever (remix)",
-      "url": "https://open.spotify.com/track/56PrfjUISk1w1oORAxzRPZ"
-    },
-    {
-      "added_at": "2023-08-31 12:37:16",
-      "album": {
         "name": "Defined",
         "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 459696,
       "name": "I Shall Not Be Moved",
       "url": "https://open.spotify.com/track/5HhlBt20TqXAQEmI3wOB1p"
+    },
+    {
+      "added_at": "2023-08-31 12:37:16",
+      "album": {
+        "name": "Soul Fever",
+        "url": "https://open.spotify.com/album/6UFogsgPTmVZNueGL4pYVe"
+      },
+      "artists": [
+        {
+          "name": "Simbad ft. Steelo",
+          "url": "https://open.spotify.com/artist/7EemSjl9XAGrw9DTTMvi1J"
+        }
+      ],
+      "duration_ms": 426600,
+      "name": "Soul Fever (remix)",
+      "url": "https://open.spotify.com/track/56PrfjUISk1w1oORAxzRPZ"
     },
     {
       "added_at": "2023-08-31 12:37:16",
@@ -1367,6 +1367,46 @@
     {
       "added_at": "2023-08-31 12:37:16",
       "album": {
+        "name": "Never Saw You Coming",
+        "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Tsepo",
+          "url": "https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt"
+        },
+        {
+          "name": "DJ Spinna",
+          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
+        }
+      ],
+      "duration_ms": 508266,
+      "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
+      "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
+    },
+    {
+      "added_at": "2023-08-31 12:37:16",
+      "album": {
+        "name": "Defined",
+        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+        }
+      ],
+      "duration_ms": 342893,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
+    },
+    {
+      "added_at": "2023-08-31 12:37:16",
+      "album": {
         "name": "Kissing Strangers",
         "url": "https://open.spotify.com/album/5dOouQAVL4EmZ2TYfcpZyj"
       },
@@ -1403,46 +1443,6 @@
       "duration_ms": 406813,
       "name": "Bad Habit - feat. Lisa Millett",
       "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
-    },
-    {
-      "added_at": "2023-08-31 12:37:16",
-      "album": {
-        "name": "Defined",
-        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
-      },
-      "artists": [
-        {
-          "name": "Kenny Bobien",
-          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
-        }
-      ],
-      "duration_ms": 342893,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/6jgS3uCkTBLjdep4kCwq8W"
-    },
-    {
-      "added_at": "2023-08-31 12:37:16",
-      "album": {
-        "name": "Never Saw You Coming",
-        "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Tsepo",
-          "url": "https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt"
-        },
-        {
-          "name": "DJ Spinna",
-          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
-        }
-      ],
-      "duration_ms": 508266,
-      "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
-      "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
     },
     {
       "added_at": "2023-08-31 12:37:16",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-08-31 12:37:16",
       "album": {
-        "name": "I Got Rhythm (Remixes)",
-        "url": "https://open.spotify.com/album/59QaF98IvGfD6xHKn5E0To"
-      },
-      "artists": [
-        {
-          "name": "Soul Fuzion",
-          "url": "https://open.spotify.com/artist/3KKjVQbHpd2E5IQYrsNeLp"
-        }
-      ],
-      "duration_ms": 372480,
-      "name": "I Got Rhythm (Original Mix)",
-      "url": "https://open.spotify.com/track/4RxPV1yqEbkobZDy3yudgK"
-    },
-    {
-      "added_at": "2023-08-31 12:37:16",
-      "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 722920,
       "name": "Elle (Main Version)",
       "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
+    },
+    {
+      "added_at": "2023-08-31 12:37:16",
+      "album": {
+        "name": "I Got Rhythm (Remixes)",
+        "url": "https://open.spotify.com/album/59QaF98IvGfD6xHKn5E0To"
+      },
+      "artists": [
+        {
+          "name": "Soul Fuzion",
+          "url": "https://open.spotify.com/artist/3KKjVQbHpd2E5IQYrsNeLp"
+        }
+      ],
+      "duration_ms": 372480,
+      "name": "I Got Rhythm (Original Mix)",
+      "url": "https://open.spotify.com/track/4RxPV1yqEbkobZDy3yudgK"
     },
     {
       "added_at": "2023-08-31 12:37:16",

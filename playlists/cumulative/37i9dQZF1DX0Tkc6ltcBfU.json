@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "2 Name",
+        "url": "https://open.spotify.com/album/7q9D5uslB8VArX4M3Aq5CZ"
+      },
+      "artists": [
+        {
+          "name": "Jace!",
+          "url": "https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100169,
+      "name": "2 Name",
+      "url": "https://open.spotify.com/track/24CM98kAG2vgb0gYB58oso"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf"
       },
@@ -136,6 +154,24 @@
       "duration_ms": 166494,
       "name": "300 Blackout",
       "url": "https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA"
+    },
+    {
+      "album": {
+        "name": "305",
+        "url": "https://open.spotify.com/album/1rOalqAl62HMoEp9Oli5Rw"
+      },
+      "artists": [
+        {
+          "name": "Wacotron",
+          "url": "https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155028,
+      "name": "305",
+      "url": "https://open.spotify.com/track/3DQbJANnheUwHcOh36LKRt"
     },
     {
       "album": {
@@ -1669,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Black Truck",
+        "url": "https://open.spotify.com/album/4ZawUvODH9E2hA6UOLlUQy"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155380,
+      "name": "Black Truck",
+      "url": "https://open.spotify.com/track/3aOubX8YTVByNPQrqw6ZzK"
+    },
+    {
+      "album": {
         "name": "Black Visa",
         "url": "https://open.spotify.com/album/558YuTRXhHZk8RAq8wMm1i"
       },
@@ -1877,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Bonecrusher (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/3tb85w0VG9SO5mTZR3Gxmd"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205769,
+      "name": "Bonecrusher (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/3DmurtaoUILQC8e4XMPW4K"
+    },
+    {
+      "album": {
         "name": "BONNET (feat. Pooh Shiesty)",
         "url": "https://open.spotify.com/album/0ESXSTdLj8PYD4t5JMTDmJ"
       },
@@ -1950,7 +2026,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 159560,
       "name": "Booty Drop",
       "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
@@ -2451,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Go To Jail",
+        "url": "https://open.spotify.com/album/45sHVXRiTHH5o4KkIGiQld"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118904,
+      "name": "Can\u2019t Go To Jail",
+      "url": "https://open.spotify.com/track/1Xq5iwsvGxJ7SOaX5LdQc3"
+    },
+    {
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -2878,6 +2972,24 @@
       "duration_ms": 211569,
       "name": "Cold Gangsta",
       "url": "https://open.spotify.com/track/2bxvKs7Q0zqFqajnRcgxbv"
+    },
+    {
+      "album": {
+        "name": "Come See Me",
+        "url": "https://open.spotify.com/album/3GLElQsZ6fNRwNj0sRV0kj"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Come See Me",
+      "url": "https://open.spotify.com/track/1kCVncgHcTEICcK3fG63jR"
     },
     {
       "album": {
@@ -3412,6 +3524,28 @@
       "duration_ms": 121653,
       "name": "Diapers",
       "url": "https://open.spotify.com/track/3zXZcKgkvMcQpRZclhprxS"
+    },
+    {
+      "album": {
+        "name": "Die Today",
+        "url": "https://open.spotify.com/album/5mkPnpc6Ueoa5hdb1aXYmY"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178676,
+      "name": "Die Today",
+      "url": "https://open.spotify.com/track/2AVrcU1B8cpy66ycCnkYvv"
     },
     {
       "album": {
@@ -4472,7 +4606,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 271177,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0FnmE9EqmI43RBJVLZ0RMM"
@@ -5181,6 +5315,24 @@
     },
     {
       "album": {
+        "name": "Gangsta Lean",
+        "url": "https://open.spotify.com/album/0dy9A6nscVVldqXuWDgREB"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129160,
+      "name": "Gangsta Lean",
+      "url": "https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9"
+    },
+    {
+      "album": {
         "name": "Get Away",
         "url": "https://open.spotify.com/album/32FRll0ejOVNcspDDtUEqY"
       },
@@ -5649,6 +5801,24 @@
     },
     {
       "album": {
+        "name": "Ha Ha",
+        "url": "https://open.spotify.com/album/7poHvtpbpCyQPqJsqd7BWo"
+      },
+      "artists": [
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175416,
+      "name": "Ha Ha",
+      "url": "https://open.spotify.com/track/04nIar50ZE8iDeAFIjPgGt"
+    },
+    {
+      "album": {
         "name": "Ha Ha Ha Ha",
         "url": "https://open.spotify.com/album/2nI2NLgIRedSw5UnPPKiKF"
       },
@@ -5682,6 +5852,32 @@
       "duration_ms": 145245,
       "name": "Haitian Scarface",
       "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
+    },
+    {
+      "album": {
+        "name": "BlakkBoyz present Half Doin Dope/Van Gogh",
+        "url": "https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208928,
+      "name": "Half Doin Dope (with BabyTron feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/1J0O3RqCeoMcXbayQZDZXL"
     },
     {
       "album": {
@@ -7454,6 +7650,24 @@
       "duration_ms": 192000,
       "name": "Kareem (feat. NoLuck Jr.)",
       "url": "https://open.spotify.com/track/32QCIB6FGVp6moveD5SPKY"
+    },
+    {
+      "album": {
+        "name": "Kat Food",
+        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286579,
+      "name": "Kat Food",
+      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
     },
     {
       "album": {
@@ -9850,7 +10064,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176842,
       "name": "No Bars",
       "url": "https://open.spotify.com/track/4aJYaQide0vBqT3ErvVKvp"
@@ -10141,6 +10355,24 @@
     },
     {
       "album": {
+        "name": "Blac Sheep 2",
+        "url": "https://open.spotify.com/album/5NTVmrFFTFpEQ75W69UbHW"
+      },
+      "artists": [
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/47PMDlcWhtw5Wg3dfXK49H"
+    },
+    {
+      "album": {
         "name": "Kutt Dat Boy",
         "url": "https://open.spotify.com/album/4PVJ7qxtrnxDzF3xVcSgeV"
       },
@@ -10230,7 +10462,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 157280,
       "name": "Not Average",
       "url": "https://open.spotify.com/track/5c17nOEQCoClTIxTZW3PQZ"
@@ -13821,6 +14053,28 @@
     },
     {
       "album": {
+        "name": "Street Sweeper (feat. Swae Lee)",
+        "url": "https://open.spotify.com/album/732QIKM3qkHhwZgxaZsBLZ"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160667,
+      "name": "Street Sweeper (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/2NqpZD00BADhsvldFVdO0j"
+    },
+    {
+      "album": {
         "name": "Big Money",
         "url": "https://open.spotify.com/album/4ekzY1vQW95fqshfVqgEYS"
       },
@@ -14222,6 +14476,28 @@
       "duration_ms": 149903,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN"
+    },
+    {
+      "album": {
+        "name": "Talk To Em (feat. Veeze)",
+        "url": "https://open.spotify.com/album/6gGFoQNndkYJq5Dt5oK8fT"
+      },
+      "artists": [
+        {
+          "name": "BigWalkDog",
+          "url": "https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175006,
+      "name": "Talk To Em (feat. Veeze)",
+      "url": "https://open.spotify.com/track/74oeFXv2DcW9VEAAVmNNhv"
     },
     {
       "album": {

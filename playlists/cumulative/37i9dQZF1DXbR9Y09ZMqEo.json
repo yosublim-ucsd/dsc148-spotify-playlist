@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Hang the Moon (from the Netflix Film \"You Are So Not Invited To My Bat Mitzvah\")",
+        "url": "https://open.spotify.com/album/4G7wLx9pM4g8F3ScbueQpb"
+      },
+      "artists": [
+        {
+          "name": "Sadie",
+          "url": "https://open.spotify.com/artist/2PfSnNh32J94ADXP7o2NTR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "Hang the Moon (from the Netflix Film \"You Are So Not Invited To My Bat Mitzvah\")",
+      "url": "https://open.spotify.com/track/0Pxm4E8rNg65Z2G5I9W7TQ"
+    },
+    {
+      "album": {
         "name": "You Are So Not Invited To My Bat Mitzvah (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1gTxtkA8cZLys95UB3xUtl"
       },

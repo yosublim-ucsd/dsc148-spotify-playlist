@@ -1,12 +1,12 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 4858,
+  "num_followers": 4897,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWQzZDhlYTk5ZTM0Mzc0M2JlYTdkYTIxZDgyMzEyOGNkZGVmYTUx",
+  "snapshot_id": "MCw3OTNlODBlOGQ0YzAwMTYyNDIyNjE1Y2FmM2MwODQ1ZjIwYTg4MmMx",
   "tracks": [
     {
       "added_at": "2023-07-14 15:17:20",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
+        "name": "Floripa",
+        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
+      },
+      "artists": [
+        {
+          "name": "Ray Ben Rue",
+          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
+        }
+      ],
+      "duration_ms": 119998,
+      "name": "Floripa",
+      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
         "name": "Like Coconut From The Tree",
         "url": "https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 175156,
       "name": "Cat\u00e1 Surf",
       "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
-        "name": "Floripa",
-        "url": "https://open.spotify.com/album/5Hs4R5iwptvstaChO7D6Ce"
-      },
-      "artists": [
-        {
-          "name": "Ray Ben Rue",
-          "url": "https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv"
-        }
-      ],
-      "duration_ms": 119998,
-      "name": "Floripa",
-      "url": "https://open.spotify.com/track/6ZDo86HphrqZunbODFaQZm"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
+        "name": "Areca",
+        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        }
+      ],
+      "duration_ms": 119741,
+      "name": "Areca",
+      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
         "name": "Te Adoro",
         "url": "https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5"
       },
@@ -571,22 +591,18 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Areca",
-        "url": "https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR"
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
         }
       ],
-      "duration_ms": 119741,
-      "name": "Areca",
-      "url": "https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd"
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -607,22 +623,6 @@
       "duration_ms": 127586,
       "name": "Viento de Arrabal",
       "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
-      },
-      "artists": [
-        {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
-        }
-      ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
     },
     {
       "added_at": "2023-07-14 15:17:20",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-07-14 15:17:20",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
-    },
-    {
-      "added_at": "2023-07-14 15:17:20",
-      "album": {
         "name": "Primer Beso",
         "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 135000,
       "name": "Primer Beso",
       "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
+    },
+    {
+      "added_at": "2023-07-14 15:17:20",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
     },
     {
       "added_at": "2023-07-14 15:17:20",

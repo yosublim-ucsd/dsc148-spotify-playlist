@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 7 likes - 65 songs - 7 hr 31 min
+[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 7 likes - 68 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,8 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 | 63 | [You Are \- Mixed](https://open.spotify.com/track/3MgtQaRXeaaWoKHY7z0HbG) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Silk Music Showcase 06 \(Mixed by Jacob Henry & Tom Fall\)](https://open.spotify.com/album/2ijKsn3vCglQ34m7mB6EgD) | 5:59 |
 | 64 | [Heavens \- Mono Suono Remix](https://open.spotify.com/track/2ka92kGIMOysEdBY2td6iN) | [Alex Pich](https://open.spotify.com/artist/6Fg5tw2IVCqxHe0BbqLEpR) | [Heavens](https://open.spotify.com/album/4V5fwELDjeeLNHRRWjtvQW) | 7:35 |
 | 65 | [Azure \- Roald Velden Remix](https://open.spotify.com/track/5SFE9nLsTSZi0rPPdF9rBj) | [Japeboy](https://open.spotify.com/artist/4RuPokVKSl4vK1skbGONyJ), [Roald Velden](https://open.spotify.com/artist/1ezY8w6yikBekrZCUVYkLP) | [Azure](https://open.spotify.com/album/5rvsbHe2WSn0FOwE7BCswB) | 9:32 |
+| 66 | [Without You \- Talamanca Remix](https://open.spotify.com/track/36HizZHJizzPNislyyeqYc) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Without You Remixes](https://open.spotify.com/album/5TP036iONyqioBP1azdaCQ) | 7:03 |
+| 67 | [Return to Paradise \- Nipika Remix](https://open.spotify.com/track/0lh6F43g0ZiLSCNIiPtuJo) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Nipika](https://open.spotify.com/artist/00xLgjFkwM6G1ufrFJGd7g) | [Return to Paradise \[The Remixes\]](https://open.spotify.com/album/1iPmSRRJEZyzA0J0OxS1mv) | 7:12 |
+| 68 | [Stormwatch \- Chris Reece & Dinka Old Fashion Mix](https://open.spotify.com/track/77ijcYrPkK8OYaVuK0gDRu) | [Helvetic Nerds](https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS) | [Stormwatch](https://open.spotify.com/album/6tQyMZ4E1tO0cTROcWUtRC) | 8:22 |
 
-Snapshot ID: `NzYsNWQ2YjNkZjA1Y2JkZDZmMmMwZGViNzZiOGJjMmIzNjk4ZTE1MWY2Yw==`
+Snapshot ID: `NzksZDc2OWQyYzM1ZjcyMGM4MTQ4NjQ3MzQ2NjUxNWU2ZDBiMDc0OTk3Yg==`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: Nic Hanson",
+  "description": "The best of today's funk. Cover: Jafunk",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 196360,
       "name": "Aqua Girl - Jules Grant Remix",
       "url": "https://open.spotify.com/track/2ZDaTRSKYqzl561mnMF4k5"
@@ -720,6 +720,24 @@
       "duration_ms": 248834,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/6M4HWfNEezmFNO91YYWnwf"
+    },
+    {
+      "album": {
+        "name": "Body Weak (Diamond Cut)",
+        "url": "https://open.spotify.com/album/4QOSrIecDT4eeFYu3nrbqR"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Body Weak (Diamond Cut)",
+      "url": "https://open.spotify.com/track/1s0HuXwtPGA8PWVWQClUZq"
     },
     {
       "album": {
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 289522,
       "name": "Favorite Prize",
       "url": "https://open.spotify.com/track/2To1ZbSfpUMzqdmKhGFcuS"
@@ -3290,6 +3308,24 @@
       "duration_ms": 241762,
       "name": "I Did It For You",
       "url": "https://open.spotify.com/track/4xWLo3R0jjTVOdmtjC5MKI"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Be In Love, But I Don't Wanna Be Alone",
+        "url": "https://open.spotify.com/album/78nImjHu9SijmNwWEccFQn"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "I Don't Wanna Be In Love, But I Don't Wanna Be Alone",
+      "url": "https://open.spotify.com/track/0Cy1cXdjWDZogM5YVk0EDI"
     },
     {
       "album": {

@@ -838,10 +838,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 220851,
       "name": "L",
       "url": "https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb"
+    },
+    {
+      "album": {
+        "name": "Perspektif",
+        "url": "https://open.spotify.com/album/7KUfHZL0mIQunr64Tqy5mq"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220905,
+      "name": "L",
+      "url": "https://open.spotify.com/track/66SBpMfdxpe7B2UF0hq4DR"
     },
     {
       "album": {

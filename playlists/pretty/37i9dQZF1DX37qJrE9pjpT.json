@@ -1,15 +1,31 @@
 {
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Rosa Ree",
-  "num_followers": 1411,
+  "num_followers": 1424,
   "original_name": "Bongo Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWMyNThlMTg5NzRlODYxMDdjOWVjOWVjNGI3MjVkNjAyNjEzYjVh",
+  "snapshot_id": "MCw3ZWVmOGQ5NzJhMzU4ZDIwZDk2NzExNTMzZjdjMjQyMWZjMGU4ODEx",
   "tracks": [
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/02kQonHPOxEgq2a58uExZ3"
+      },
+      "artists": [
+        {
+          "name": "Fid Q",
+          "url": "https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK"
+        }
+      ],
+      "duration_ms": 115017,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1CoGvdlhU6yoX27qt1572K"
+    },
+    {
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Mama Omollo",
         "url": "https://open.spotify.com/album/1k0k3zRH1JdnoUUrPTjtKo"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6CLdAahXVBGgFVN0lnwN9b"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Putin",
         "url": "https://open.spotify.com/album/7Ieceym17LPKTFTBkPDxE2"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/7e9x1ZBopSmZE5hPdVDTbD"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "(STRESS FREE) KHALI MAJONZI",
         "url": "https://open.spotify.com/album/3ZKfEfyyly1eiHevgWENeP"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/1NSECJ25M3bai2rT9thl2F"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Bigman Circle",
         "url": "https://open.spotify.com/album/6hAm1D6ohuFfoBNo8YoLav"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/07oekwVYSeP83rz0uKTfJS"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Sessions 5",
         "url": "https://open.spotify.com/album/09QOXEdCD8Lt3yX5P3dHQF"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/1NSGCNsfJHFKRl702IXYDK"
     },
     {
-      "added_at": "2023-08-30 04:42:04",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Khali champlin/KASUKU",
         "url": "https://open.spotify.com/album/1zyRqHQkLh9rHJkwD3wyse"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/6OoNk1BMjQ8v7urbPgLdkJ"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Sweet One",
         "url": "https://open.spotify.com/album/0P9D6NdUurORu6Gk3w0fOW"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/4ykeDeK1VqRPrwhmhlSC4R"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "ORIGHT",
         "url": "https://open.spotify.com/album/3uozcnWR0UJO4Ilg6xqEm1"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/7mGUhdodjJtyTZobpLUANt"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Noma",
         "url": "https://open.spotify.com/album/4KaXlTUAGyMRbDakGCpCnC"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/5qNGorKpUoe3ZR9EKlsZ4q"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Mtafutaji II",
         "url": "https://open.spotify.com/album/2EUdEsUS8gJM9NH2QozqHv"
@@ -221,27 +237,7 @@
       "url": "https://open.spotify.com/track/2ITkqQOODTwRzdg5lOhZ85"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
-      "album": {
-        "name": "Bigman",
-        "url": "https://open.spotify.com/album/6l4m6lJBRYcglztCbr8PAX"
-      },
-      "artists": [
-        {
-          "name": "Fid Q",
-          "url": "https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 184799,
-      "name": "Bigman",
-      "url": "https://open.spotify.com/track/7d59EK9eqZJe33g6v7T6Ro"
-    },
-    {
-      "added_at": "2023-08-30 04:42:04",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Vita Vikali",
         "url": "https://open.spotify.com/album/0HhFRrvmTOPxm28oxjvw19"
@@ -261,7 +257,7 @@
       "url": "https://open.spotify.com/track/20GFlJ8bvqn9rVMY5VbSVz"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Show Time (Remix)",
         "url": "https://open.spotify.com/album/3MEYAjOsRLYIU52XT3z3uO"
@@ -281,7 +277,7 @@
       "url": "https://open.spotify.com/track/6s9K8UVvOQ47lnkzTj4xYx"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Funga Kazi",
         "url": "https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j"
@@ -301,7 +297,7 @@
       "url": "https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Kesho Njoo Dar",
         "url": "https://open.spotify.com/album/3X1Zk48cfTJrrCBp4vXYCq"
@@ -317,7 +313,7 @@
       "url": "https://open.spotify.com/track/4uIN98bcH2GA6ERDsfSn6h"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Vitu Vingi",
         "url": "https://open.spotify.com/album/09o8Ri7Y1ThTozxbeUpn6b"
@@ -333,7 +329,7 @@
       "url": "https://open.spotify.com/track/30Mrl3Y5T64ZK1usuQhhZt"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "NYANGUVA",
         "url": "https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL"
@@ -353,7 +349,7 @@
       "url": "https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "UTUH",
         "url": "https://open.spotify.com/album/0wi5BSocK9MiTuA9QwM7eS"
@@ -381,7 +377,7 @@
       "url": "https://open.spotify.com/track/0KAwOdbsU8OKuGf0ka8iVx"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Future Is Now",
         "url": "https://open.spotify.com/album/5VaHyRaWNiuUBHsFuQWOSY"
@@ -397,7 +393,7 @@
       "url": "https://open.spotify.com/track/5CUGnryFUGZlgamALD3Byz"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Tu Come",
         "url": "https://open.spotify.com/album/1QAR3X1YbOlc4G6gtYtywJ"
@@ -417,7 +413,7 @@
       "url": "https://open.spotify.com/track/0jOTg1Ic8NwzqMim1tEl7R"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/19JiTrv2ucRckXR9gyYpws"
@@ -433,7 +429,7 @@
       "url": "https://open.spotify.com/track/29JgTNh9OT8095ohykOeC0"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Enjoy",
         "url": "https://open.spotify.com/album/5CVH1q3LmJwUkczJ6mtBd6"
@@ -449,7 +445,7 @@
       "url": "https://open.spotify.com/track/2rmTN5WQoi1qVTgEpcunGO"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "HUJA BALEHE",
         "url": "https://open.spotify.com/album/0viy408sbHRu92XTCfDquZ"
@@ -465,7 +461,7 @@
       "url": "https://open.spotify.com/track/0bhy8dg5uvuN3UpBqLfgpA"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Tujirushe",
         "url": "https://open.spotify.com/album/448bK2eboESGeFB3QYqkkA"
@@ -485,7 +481,7 @@
       "url": "https://open.spotify.com/track/0YQxyebbH1upzt6dxwVzPK"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "PRAISE GOD",
         "url": "https://open.spotify.com/album/3V1KNGUw3RZNo3AX1rEoLm"
@@ -501,7 +497,7 @@
       "url": "https://open.spotify.com/track/2PFhoFM8hDwXyMXVxtTZm1"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Banyamulenge",
         "url": "https://open.spotify.com/album/4kHugvl7PUhRLPqAq6oZGU"
@@ -525,23 +521,7 @@
       "url": "https://open.spotify.com/track/522dMvpymut4pfbyneraOe"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR"
-      },
-      "artists": [
-        {
-          "name": "Ronald Mkiza",
-          "url": "https://open.spotify.com/artist/1mMBeutte2NZsxeqoNXaL1"
-        }
-      ],
-      "duration_ms": 228260,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ"
-    },
-    {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Rhythm of Love",
         "url": "https://open.spotify.com/album/2sU58myd0MkQRdg6MX9cSc"
@@ -561,7 +541,7 @@
       "url": "https://open.spotify.com/track/6JLvWeyCdrp5SY9s6nSEyG"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "My confession",
         "url": "https://open.spotify.com/album/3Ko0dCltdrkx3tEfDCzNim"
@@ -581,7 +561,23 @@
       "url": "https://open.spotify.com/track/2BGpZQQHGekYN2wvfFcxyL"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6bVAm6VNpL3EsTjagnHNdR"
+      },
+      "artists": [
+        {
+          "name": "Ronald Mkiza",
+          "url": "https://open.spotify.com/artist/1mMBeutte2NZsxeqoNXaL1"
+        }
+      ],
+      "duration_ms": 228260,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/21Jy2EJECcC8FQSKiiWmAJ"
+    },
+    {
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Sio Kwa Ubaya",
         "url": "https://open.spotify.com/album/1iZQP1UhukZKFSHI0Mo2LY"
@@ -601,7 +597,7 @@
       "url": "https://open.spotify.com/track/3iu6HFPMKLWJpJqmhLzzih"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "UGLYBEAST VOL III",
         "url": "https://open.spotify.com/album/5WsySNQ6Uy09QpdEcA63SS"
@@ -621,7 +617,7 @@
       "url": "https://open.spotify.com/track/1MCRjYXjDAR0KN8M53wEZF"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Culture Rap Series (C.R.S) Episode I",
         "url": "https://open.spotify.com/album/2sORkZ8eooWj1OIUXdCwab"
@@ -637,7 +633,7 @@
       "url": "https://open.spotify.com/track/0SzPFt8cZApjg8mVS5woac"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Hatuna Kesi",
         "url": "https://open.spotify.com/album/2BQXiotfASO146JznwXpYb"
@@ -661,7 +657,7 @@
       "url": "https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "O 2 the G Cypher",
         "url": "https://open.spotify.com/album/5UWkAkFSjlEDvMay2tBwUH"
@@ -713,7 +709,7 @@
       "url": "https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Ball",
         "url": "https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/3usAd7tI0dYP7KUH9s6wsL"
@@ -745,7 +741,7 @@
       "url": "https://open.spotify.com/track/77e741vkrVhgXSbfZvQx3L"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "BLESS",
         "url": "https://open.spotify.com/album/6POU9Kc9rWz3NU4KEnAddP"
@@ -765,7 +761,7 @@
       "url": "https://open.spotify.com/track/2VuA20x246Ayzil4Ng1NZ9"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Masihara (Remix)",
         "url": "https://open.spotify.com/album/78B68CTt9neYQq7Hc7T2vI"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/7fUBvdVv2VwG1OoSRaNgnJ"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Sheria",
         "url": "https://open.spotify.com/album/38m6hngM75WP607GjTp3k9"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/7L5iuyfHK4MWODhjCQEmby"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "TAKE ONE (EPISODE 1, PT. 2) [Radio Edit]",
         "url": "https://open.spotify.com/album/5H6JC4CL2W3rPd5k1FW9b3"
@@ -849,7 +845,7 @@
       "url": "https://open.spotify.com/track/49TWj4UjkgwzsZ2aklaf4r"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Long dayz",
         "url": "https://open.spotify.com/album/5Q0DUwjq4rO62SD35MJR8Y"
@@ -865,7 +861,7 @@
       "url": "https://open.spotify.com/track/3iSrds7rKPjoA2HP5LbzZd"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Mtu 3",
         "url": "https://open.spotify.com/album/43tG9iELXEZWUwgKZWTfs9"
@@ -897,7 +893,7 @@
       "url": "https://open.spotify.com/track/3g5ds74Gys0JaS4H9dUDy7"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Juu",
         "url": "https://open.spotify.com/album/0DsM8PuiTltnwfV2LDh7dV"
@@ -937,7 +933,7 @@
       "url": "https://open.spotify.com/track/30xdZTHmeJdy96L6WdI5Sq"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Love Bite",
         "url": "https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj"
@@ -957,7 +953,7 @@
       "url": "https://open.spotify.com/track/1Yq6tM4AzDJKcUC1ziv9O8"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "TAKE ONE. (EPISODE 1) [Radio Edit]",
         "url": "https://open.spotify.com/album/1W0W5eCgAXD2JtrLlS2bnz"
@@ -973,23 +969,7 @@
       "url": "https://open.spotify.com/track/164OfQPxYLyw6REpeCN8SF"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
-      "album": {
-        "name": "G E N E R A T I O N A L C U R S E S",
-        "url": "https://open.spotify.com/album/3dILSTrmz8JZDMXltQGYqS"
-      },
-      "artists": [
-        {
-          "name": "Leone",
-          "url": "https://open.spotify.com/artist/4Y2tMbo5x9mEaRYSHyiuwP"
-        }
-      ],
-      "duration_ms": 254615,
-      "name": "G E N E R A T I O N A L C U R S E S",
-      "url": "https://open.spotify.com/track/023cszAO7MmPwBU5u3uNfJ"
-    },
-    {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Makasia",
         "url": "https://open.spotify.com/album/0aqYnaWyJmbT2vBkUtO09c"
@@ -1005,7 +985,23 @@
       "url": "https://open.spotify.com/track/5MFbesCGzh06gWihcMf1m3"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
+      "album": {
+        "name": "G E N E R A T I O N A L C U R S E S",
+        "url": "https://open.spotify.com/album/3dILSTrmz8JZDMXltQGYqS"
+      },
+      "artists": [
+        {
+          "name": "Leone",
+          "url": "https://open.spotify.com/artist/4Y2tMbo5x9mEaRYSHyiuwP"
+        }
+      ],
+      "duration_ms": 254615,
+      "name": "G E N E R A T I O N A L C U R S E S",
+      "url": "https://open.spotify.com/track/023cszAO7MmPwBU5u3uNfJ"
+    },
+    {
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "Threesome Feat. Chemical & Frida Amani",
         "url": "https://open.spotify.com/album/6ZglJvIv5Mh9U1du5mbP16"
@@ -1029,7 +1025,7 @@
       "url": "https://open.spotify.com/track/7mzo7b3xVY0nWdQKOEIHNz"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "RONALDO",
         "url": "https://open.spotify.com/album/42Xy57VNRaKM9ycuz8ByCU"
@@ -1045,7 +1041,7 @@
       "url": "https://open.spotify.com/track/5ToRj9d8fINrXGGKZOT42q"
     },
     {
-      "added_at": "2023-08-28 11:27:43",
+      "added_at": "2023-09-01 10:02:13",
       "album": {
         "name": "S.V",
         "url": "https://open.spotify.com/album/3ntZ2rPZ93OhhYpc7DKULv"

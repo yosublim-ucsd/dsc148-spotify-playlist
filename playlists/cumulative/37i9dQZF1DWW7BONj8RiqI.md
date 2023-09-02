@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-324 songs - 17 hr 51 min
+325 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Carry On](https://open.spotify.com/track/60ZuGJ5WFYh8pfc020VsH4) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Get Soca 2020](https://open.spotify.com/album/5mauoHNfAZmxiNuPenCARh) | 3:57 | 2022-08-18 | 2022-11-13 |
 | [Catching Feelings](https://open.spotify.com/track/25RbB6uiQ5Egi1S8bdGlFK) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [In My Feelings](https://open.spotify.com/album/1XGkAbsSoYSzF7Lon0aGQv) | 3:07 | 2022-08-18 | 2022-10-05 |
 | [Catching Feelings](https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [In My Feelings](https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF) | 3:07 | 2022-08-18 | 2023-07-12 |
-| [Cheers to Life](https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [We Muzik \(Soca 2016 Trinidad and Tobago Carnival\), Vol\. 7](https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW) | 3:38 | 2023-02-21 |  |
+| [Cheers to Life](https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [We Muzik \(Soca 2016 Trinidad and Tobago Carnival\), Vol\. 7](https://open.spotify.com/album/3xEYJSimdJLjkjGm7euCjW) | 3:38 | 2023-02-21 | 2023-09-02 |
+| [Cheers to Life \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/track/06EIb21a68sdHTsKBvkKpT) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA) | [Cheers to Life \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/3TSHDuFiOyx49FinzyXPQm) | 3:36 | 2023-08-11 |  |
 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 | 2021-08-26 | 2023-07-12 |
 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 | 2023-05-15 |  |
 | [Coming Back Fuh Yuh](https://open.spotify.com/track/0btmu6nRf1fFcwAipBj9B6) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Hot Sun Riddim](https://open.spotify.com/album/3pPDSVI0PB9SZPpAiRLqw5) | 2:28 | 2022-08-18 | 2023-02-22 |

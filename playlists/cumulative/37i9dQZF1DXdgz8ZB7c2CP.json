@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 159375,
       "name": "all you'll get from me is my company",
       "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 272509,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 226908,
       "name": "Dummy \u2013 Chrome Sparks Remix",
       "url": "https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1"
@@ -4103,6 +4103,28 @@
     },
     {
       "album": {
+        "name": "Hand In The Fire (Killen Manjaro Remix)",
+        "url": "https://open.spotify.com/album/2FhuMlwjAzG8Tb23wjo08r"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Killen Manjaro",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191725,
+      "name": "Hand In The Fire - Killen Manjaro Remix",
+      "url": "https://open.spotify.com/track/4mr24lt1CSJMQTPFFVj4LS"
+    },
+    {
+      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -4610,7 +4632,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 134769,
       "name": "I Don't Know What To Say",
       "url": "https://open.spotify.com/track/4fei1adu1gwEfxlVJyX6LP"
@@ -4796,7 +4818,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 286034,
       "name": "I'll Be There for You",
       "url": "https://open.spotify.com/track/6TxceRnA4BeLn0XFRNbl5Y"
@@ -4858,6 +4880,28 @@
       "duration_ms": 264000,
       "name": "idio-savan",
       "url": "https://open.spotify.com/track/21kzMROplBP8MhBCmfYcSm"
+    },
+    {
+      "album": {
+        "name": "If Love Could Have Saved You",
+        "url": "https://open.spotify.com/album/6h00scGXHmjeGfQDWjy8A3"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181414,
+      "name": "If Love Could Have Saved You",
+      "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
     },
     {
       "album": {
@@ -5103,6 +5147,28 @@
     },
     {
       "album": {
+        "name": "JUMP OUT",
+        "url": "https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "JUMP OUT",
+      "url": "https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope (Me&U)",
         "url": "https://open.spotify.com/album/2TNaumC6KtDTgt80bdY3n5"
       },
@@ -5184,7 +5250,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 185656,
       "name": "Keep The Lights On",
       "url": "https://open.spotify.com/track/1ov61nQUSYIgQTfSiv2xwx"
@@ -5868,7 +5934,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 260868,
       "name": "Me + You - Chill Mix",
       "url": "https://open.spotify.com/track/0CgU7AKWdjR0bTxswhgxFH"
@@ -6594,7 +6660,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 154400,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/5jRIWngYH11xuX2HjQwacj"
@@ -6736,7 +6802,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 223714,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
@@ -7178,7 +7244,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184750,
       "name": "Reason (with Paige Cavell) - Pirapus Remix",
       "url": "https://open.spotify.com/track/1RWsxTQ7X5dsksGIZDto1l"
@@ -8346,7 +8412,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 280975,
       "name": "Social Jungle - Hippie Sabotage Remix",
       "url": "https://open.spotify.com/track/0MiWH0qt7s1NaLywTKAB7q"
@@ -9505,6 +9571,28 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
+    },
+    {
+      "album": {
         "name": "Monarch",
         "url": "https://open.spotify.com/album/0kg4xRCGlZF7mbOFj0afCa"
       },
@@ -9768,7 +9856,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 165500,
       "name": "VOODOO",
       "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"
@@ -10104,6 +10192,28 @@
       "duration_ms": 201456,
       "name": "We're Fine",
       "url": "https://open.spotify.com/track/7bxeNP77YS2eeamGdzmLiA"
+    },
+    {
+      "album": {
+        "name": "Weightless Feeling",
+        "url": "https://open.spotify.com/album/58ccjEHNsTV6laJe30KGD5"
+      },
+      "artists": [
+        {
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+        },
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Weightless Feeling",
+      "url": "https://open.spotify.com/track/0Ivhw3XCIjKKIq4clyKXwR"
     },
     {
       "album": {

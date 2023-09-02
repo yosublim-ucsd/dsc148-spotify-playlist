@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> All new indie rock\. Featuring new music by Bakar.
+> The best indie rock right now\. Featuring new music by Dominic Fike.
 
-1,156 songs - 2 day 14 hr 57 min
+1,159 songs - 2 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -733,6 +733,7 @@
 | [Nicotine](https://open.spotify.com/track/73CLiwzz9AopgAv3jnngyA) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Nicotine](https://open.spotify.com/album/7mUy0fH5Ad2Fg5KnCKRp9N) | 2:50 | 2022-06-10 | 2022-08-27 |
 | [Nightlight](https://open.spotify.com/track/1ydoX3Oa8caQOrbQatbATa) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Nightlight](https://open.spotify.com/album/2noUvSaD3LsoZAiWdPy9vK) | 3:24 | 2022-11-11 | 2022-11-15 |
 | [No](https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:36 | 2023-08-11 |  |
+| [No Alarm](https://open.spotify.com/track/1NfpDQQerZvnm1NF1p4V4p) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [No Alarm](https://open.spotify.com/album/3RaDZbG5MjzIy51v5Fd9F1) | 3:03 | 2023-09-01 |  |
 | [No Money No Honey](https://open.spotify.com/track/3oMEFW9FvfAyWZdt5T1AhR) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Don't Fuck With Vol\. 01](https://open.spotify.com/album/6UfRphyaQTsZAYnV5zklXR) | 4:00 | 2023-01-06 | 2023-04-01 |
 | [No More Excuses](https://open.spotify.com/track/1HybEopwfFZcAWz0C0sjsp) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [No More Excuses](https://open.spotify.com/album/0gTTJMJoKsDBZMOj66JISv) | 3:58 | 2022-07-29 | 2022-10-22 |
 | [No Proper Life](https://open.spotify.com/track/3m1qGLyr7OMyZLfTBKWT9S) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [No Proper Life](https://open.spotify.com/album/01iuegbl5telLk3B5Cl52p) | 2:45 | 2022-07-01 | 2022-10-08 |
@@ -1003,6 +1004,7 @@
 | [the dealer](https://open.spotify.com/track/1UZ1OcxlQYd28UoCnbNYCB) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:38 | 2022-12-16 | 2023-04-01 |
 | [The Dominoes](https://open.spotify.com/track/1xagIgxxNQre8ZhWjMTOdz) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [The Dominoes](https://open.spotify.com/album/4G8DoAVoxRS29Sdqic53B2) | 2:12 | 2022-11-18 | 2022-12-08 |
 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-05 | 2022-09-03 |
+| [The Freedom to Fuck Off](https://open.spotify.com/track/2DTRZKLOfm8BQOdNljrF7K) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [The Freedom to Fuck Off](https://open.spotify.com/album/2vym6dm3afTUtwAj48681k) | 4:02 | 2023-09-01 |  |
 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-06-07 | 2022-06-11 |
 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 | 2022-10-14 | 2023-03-04 |
 | [The Narcissist](https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:05 | 2023-08-18 |  |
@@ -1162,6 +1164,7 @@
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-06-11 | 2022-04-14 |
 | [Your Room](https://open.spotify.com/track/1Ys4oRpVBdVoU0VxSghpVa) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Your Room](https://open.spotify.com/album/2NE4Oqe55M7rQW7i2FMvzl) | 3:21 | 2023-07-21 |  |
 | [Zum Herz](https://open.spotify.com/track/3w0F6bkQdev902vrCxDHe4) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO), [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Zum Herz](https://open.spotify.com/album/0miVSp8X4tYSuxINhZRyO8) | 4:18 | 2022-07-29 | 2022-10-15 |
+| [zzz](https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [zzz](https://open.spotify.com/album/4gklfgELi4bE9MhaPe9PDF) | 2:57 | 2023-09-01 |  |
 | [‎maybe ‎i ‎should ‎have ‎read ‎the ‎instructions ‎first, ‎oh ‎well](https://open.spotify.com/track/2TM5Q0iKwAfpsYiSxISv8v) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎telephone ‎wires](https://open.spotify.com/album/5sEdWftSr0o2CN2dSg5y2q) | 2:42 | 2021-11-19 | 2022-04-10 |
 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 | 2023-03-17 | 2023-05-27 |
 

@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover:VANNER\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: CRAVITY\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-478 songs - 1 day 2 hr 52 min
+479 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Chained Up](https://open.spotify.com/track/0fp7yXkUbwmM8ML6sWu6HW) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Chained Up](https://open.spotify.com/album/0xV4AYgTAeT6JzGuXmki91) | 3:12 | 2022-04-04 | 2022-04-10 |
 | [Chance](https://open.spotify.com/track/2DfoKySsCsAABuPSgEbzcb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lord of Heroes OST Part 1](https://open.spotify.com/album/75ZMTjX52zVKPRXnHbwNve) | 3:43 | 2022-03-22 | 2022-04-15 |
 | [Cheeky](https://open.spotify.com/track/5zAMY2u5sRYyd8wLjlbTep) | [ENOi](https://open.spotify.com/artist/7nZr0bruX5BKXqb8LSe2U3) | [RED IN THE APPLE](https://open.spotify.com/album/26wrEDX1YtBq40f5wEtyeM) | 3:09 | 2022-03-30 | 2022-04-19 |
+| [Cheese](https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Cheese](https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj) | 3:26 | 2023-09-01 |  |
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2022-04-12 | 2022-07-25 |
 | [Chronograph](https://open.spotify.com/track/1qHBk92AaOQR4w5uzBfFGb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chronograph](https://open.spotify.com/album/0BZsGRXuCwTB0FpbuWLXCV) | 3:00 | 2022-03-22 | 2022-05-04 |
 | [Cinema](https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 4th EP Album ‘HELLO’ Chapter Ø\. Hello, Strange Dream](https://open.spotify.com/album/6uQFA464X4qBT7QOEmZlBm) | 3:12 | 2021-12-08 | 2022-07-29 |
@@ -393,7 +394,7 @@
 | [Snow Prince](https://open.spotify.com/track/3rCV8mltrSBeDbCrQ0fbWL) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Snow Prince \- MIRAE Special Single](https://open.spotify.com/album/0BiXOaI2DRmgTuhjGwlP45) | 3:25 | 2022-12-21 | 2023-01-06 |
 | [Sober](https://open.spotify.com/track/5e8JEJ9p9X62ktvppYMiPV) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [TURBULENCE](https://open.spotify.com/album/2rayiXZYDNBWeFrzmAvIV7) | 3:11 | 2022-03-31 | 2022-04-20 |
 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/0nP9JFMx8z5QNl5Ph8ExEa) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SOMEONE'S SOMEONE](https://open.spotify.com/album/3CFYV1F2RIDoHyinrBv8y5) | 2:21 | 2021-12-08 | 2022-07-29 |
-| [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-06-20 |  |
+| [SOS](https://open.spotify.com/track/3x9zIsVAQUNvU3J2tR58Di) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [REALIEZ](https://open.spotify.com/album/70ptf4PxBI5aZdXWPbxTs0) | 3:11 | 2023-06-20 | 2023-09-02 |
 | [SOSO](https://open.spotify.com/track/5r8b02M37428Axrmya9Nrv) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [CROSS](https://open.spotify.com/album/3oDUvgzEoNkQfC0UCWHIPD) | 3:18 | 2022-01-27 | 2022-05-25 |
 | [Sour & Sweet](https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [Sour & Sweet](https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET) | 2:27 | 2023-03-31 | 2023-08-25 |
 | [SPARK](https://open.spotify.com/track/7uUZ4nJhnKf7PQUcdUjxJM) | [JBJ95](https://open.spotify.com/artist/7G6wtLzZON7qJQ2Cw2kxVp) | [SPARK](https://open.spotify.com/album/4FsxA8z9EGHmnHnR2ogQOl) | 3:37 | 2021-12-08 | 2022-04-21 |

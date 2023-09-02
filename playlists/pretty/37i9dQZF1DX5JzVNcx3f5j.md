@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,200 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,226 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 8 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 |
 | 9 | [バクチ・ダンサー](https://open.spotify.com/track/6ucFUDwLvzlDkpKOC6vS2b) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [バクチ・ダンサー](https://open.spotify.com/album/00ixDln80gSiTu0jLoY0lJ) | 2:56 |
 | 10 | [Pray](https://open.spotify.com/track/72BvqApj5f7pFonrRPhVSh) | [Tommy heavenly6](https://open.spotify.com/artist/6ClPIi6VMHv2Q3OZ4R17wV) | [Pray](https://open.spotify.com/album/3SixCbIjL5D9cjo1DY2Ztg) | 4:32 |
-| 11 | [掟は破るためにこそある](https://open.spotify.com/track/5SbaL2zro0CrFle79S0bl5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 3](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:29 |
-| 12 | [闇夜の虫は光に集う](https://open.spotify.com/track/1Qq8krh80ZUNu7lyr91dUj) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 1:56 |
-| 13 | [万事屋ブルース](https://open.spotify.com/track/6kCoiLsg2QwIfPXSzmsYVc) | [灰津尾出男](https://open.spotify.com/artist/2dQHHzLiJ8K37oJFtAe6cG) | [銀魂 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 3:58 |
+| 11 | [掟は破るためにこそある](https://open.spotify.com/track/5SbaL2zro0CrFle79S0bl5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:29 |
+| 12 | [闇夜の虫は光に集う](https://open.spotify.com/track/1Qq8krh80ZUNu7lyr91dUj) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ２](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 1:56 |
+| 13 | [万事屋ブルース](https://open.spotify.com/track/6kCoiLsg2QwIfPXSzmsYVc) | [灰津尾出男](https://open.spotify.com/artist/2dQHHzLiJ8K37oJFtAe6cG) | [銀魂　オリジナル・サウンドトラック ２](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 3:58 |
 | 14 | [遠い匂い](https://open.spotify.com/track/1ZnCGRli0nf3lmEQrqCtF2) | [YO\-KING](https://open.spotify.com/artist/0ti4j9gpoZf2p1BKTeQjAL) | [遠い匂い](https://open.spotify.com/album/5dp5UrsT1TmsGWXvSQV7hj) | 3:54 |
 | 15 | [銀色の空](https://open.spotify.com/track/2QhNy6CIibtY4fsSw1HfH5) | [redballoon](https://open.spotify.com/artist/5Vy3sqkiOe2QlsbGQw0CPy) | [銀色の空](https://open.spotify.com/album/3c4fofZe3UKLaGqImuj9oj) | 3:37 |
 | 16 | [かさなる影](https://open.spotify.com/track/6uFNwD4hgDJ8Ecj8Au0MEU) | [HEARTS GROW](https://open.spotify.com/artist/0wyrrBOwzEYNIMp74rlAxw) | [かさなる影](https://open.spotify.com/album/3zhIK0cjGmmU2xBi6qpDno) | 4:48 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 19 | [MR.RAINDROP](https://open.spotify.com/track/64jRw9RTu30UeNwUVfVzO0) | [amplified](https://open.spotify.com/artist/0EIpm1tgR8JtKwwoa4zeBV) | [MR.RAINDROP](https://open.spotify.com/album/3bk8Z4nmTFSRKSohTZ1DGJ) | 2:40 |
 | 20 | [雪のツバサ](https://open.spotify.com/track/5DbIPyr5055bvt3WQvgDdD) | [redballoon](https://open.spotify.com/artist/5Vy3sqkiOe2QlsbGQw0CPy) | [雪のツバサ](https://open.spotify.com/album/4DFebufaqFB0Q1C2aReMDD) | 3:47 |
 | 21 | [キャンディ・ライン](https://open.spotify.com/track/5SqWdaJK7THG2mzklBHRRf) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [キャンディ・ライン](https://open.spotify.com/album/1gPbVlXY6gZlrarifZ06ru) | 4:06 |
-| 22 | [ダンボールの神様](https://open.spotify.com/track/5KVkHGtRyyWHbYmUSnMuxO) | [MADAO\(CV.立木文彦\)](https://open.spotify.com/artist/3QTIRIO2XNvpYNxS7CciX5) | [銀魂 オリジナル・サウンドトラック 4](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 3:30 |
+| 22 | [ダンボールの神様](https://open.spotify.com/track/5KVkHGtRyyWHbYmUSnMuxO) | [MADAO\(CV.立木文彦\)](https://open.spotify.com/artist/3QTIRIO2XNvpYNxS7CciX5) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 3:30 |
 | 23 | [余のチャームポイント](https://open.spotify.com/track/4fpJ9qZSXqt3kvCzLmU4G5) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:30 |
 | 24 | [糖分とらねぇとなぁー](https://open.spotify.com/track/5mfiZIpHI4kZnWJfxfRQTe) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:26 |
 | 25 | [修羅](https://open.spotify.com/track/3puQ1t1tYD0v2eEm52MLh7) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [修羅](https://open.spotify.com/album/5anfCliZWw7DP9tpzBHtEk) | 3:25 |
@@ -44,25 +44,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 34 | [ウォーアイニー](https://open.spotify.com/track/78WUlU70tL5wAdgf1Z78a7) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd), [BEAT CRUSADERS](https://open.spotify.com/artist/30W3lzQdQnTAtkvJ9Rx21l) | [ウォーアイニー](https://open.spotify.com/album/4LvZpXd0lwdTkvsBmQI2QH) | 4:02 |
 | 35 | [ヅラじゃない桂だァァ！！](https://open.spotify.com/track/4FTTYlFTVD9Om9JVz9vhRQ) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 1:38 |
 | 36 | [カトケン・サ・ン・バ！](https://open.spotify.com/track/1F23saqLVtFm5id2u5PrPu) | [カトケン\(CV.田中一成\)](https://open.spotify.com/artist/4ICFx7FpLoPlG9qhFQGMF5) | [銀魂　オリジナル・サウンドトラック](https://open.spotify.com/album/6PPpWEl9wZuj2Am68WOUfM) | 2:10 |
-| 37 | [かぶき町ブルース](https://open.spotify.com/track/2wvm5MjbOarZLkDWUCxraX) | [灰津尾出男](https://open.spotify.com/artist/2dQHHzLiJ8K37oJFtAe6cG) | [銀魂 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 1:09 |
-| 38 | [鉄を叩きながら てめーの魂を叩き上げろ](https://open.spotify.com/track/5RL3YwSu4XXPe84fLspU2l) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 2](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 2:37 |
+| 37 | [かぶき町ブルース](https://open.spotify.com/track/2wvm5MjbOarZLkDWUCxraX) | [灰津尾出男](https://open.spotify.com/artist/2dQHHzLiJ8K37oJFtAe6cG) | [銀魂　オリジナル・サウンドトラック ２](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 1:09 |
+| 38 | [鉄を叩きながら　てめーの魂を叩き上げろ](https://open.spotify.com/track/5RL3YwSu4XXPe84fLspU2l) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ２](https://open.spotify.com/album/4fudLJR0b4QJVtshkOYGzf) | 2:37 |
 | 39 | [ワンダフルデイズ](https://open.spotify.com/track/5OJoszBRioqAtvsdBYmUZ6) | [ONE☆DRAFT](https://open.spotify.com/artist/3x57ie4pExcYUjPJCOexrY) | [ワンダフルデイズ](https://open.spotify.com/album/3aMLeaNmJyhcd6ekjIx0ib) | 4:09 |
 | 40 | [サヨナラの空](https://open.spotify.com/track/491RzokUeboAds5Y7NIIIf) | [QWAI](https://open.spotify.com/artist/5vQ070VF0YVqcqBrLxMW21) | [サヨナラの空](https://open.spotify.com/album/6Jg5mPeJ75MGxOKouweZtM) | 4:14 |
 | 41 | [バランスドール](https://open.spotify.com/track/1EWaP7mX1IRFfF4gUwoVUj) | [Prague](https://open.spotify.com/artist/0KxIciZ1cJrk3N0xknsEnR) | [バランスドール](https://open.spotify.com/album/2cwAXc0xG1Ru0ZSKCrpDjj) | 4:22 |
 | 42 | [ジレンマ](https://open.spotify.com/track/2pwEooXHQzilXZAM55xw9U) | [ecosystem](https://open.spotify.com/artist/5JTsN4b4Zlk6NeUmuoJQ3E) | [ジレンマ](https://open.spotify.com/album/0wTP2uVUrTGHdOoSCZTFma) | 3:59 |
 | 43 | [アナグラ](https://open.spotify.com/track/4X2lry03FJXra7Cby2P47b) | [Kuroneko Chelsea](https://open.spotify.com/artist/52a7qtJbAU8YBI6fXYuIOz) | [アナグラ](https://open.spotify.com/album/4CGK4LyGLWqU8nvCRKLdGC) | 3:42 |
 | 44 | [ワンダーランド](https://open.spotify.com/track/4dB7fiLDdsiqQZhTOSFJQx) | [FLiP](https://open.spotify.com/artist/3la3LUjkuZS3glVUX7DLX1) | [ワンダーランド](https://open.spotify.com/album/71sttrnCys5L5M67IS3uOU) | 3:47 |
-| 45 | [決闘前には用を足せ](https://open.spotify.com/track/6d08nmXJ7XOb0GxfNWhdI3) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 3](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:16 |
-| 46 | [どんだけー!ギンタマン](https://open.spotify.com/track/6KKKx3W4YtOdwHBslAiSAU) | [Ko\-saku](https://open.spotify.com/artist/7KHGYuxI4FmyuoY2680SeN) | [銀魂 オリジナル・サウンドトラック 3](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 1:09 |
-| 47 | [私と仕事どっちが大事なのとかいう女にはジャーマンスープレックス](https://open.spotify.com/track/7mzSpIlzSf7dLCEZe2lz0U) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 3](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:45 |
+| 45 | [決闘前には用を足せ](https://open.spotify.com/track/6d08nmXJ7XOb0GxfNWhdI3) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:16 |
+| 46 | [どんだけー！ギンタマン](https://open.spotify.com/track/6KKKx3W4YtOdwHBslAiSAU) | [Ko\-saku](https://open.spotify.com/artist/7KHGYuxI4FmyuoY2680SeN) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 1:09 |
+| 47 | [私と仕事どっちが大事なのとかいう女にはジャーマンスープレックス](https://open.spotify.com/track/7mzSpIlzSf7dLCEZe2lz0U) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:45 |
 | 48 | [仲間](https://open.spotify.com/track/5ZRJHmKzMPqISDhePR0Sus) | [Good Coming](https://open.spotify.com/artist/14qZgbllMtsuA7tcgjrrsx) | [仲間](https://open.spotify.com/album/6GERyhh7eqn98FMCH3O1BW) | 4:41 |
 | 49 | [LET'S GO OUT](https://open.spotify.com/track/2OF6L0VtXidZPjnxzC8oeP) | [AMOYAMO](https://open.spotify.com/artist/3u0rT3LB96UI1rG55LS1Ov) | [LET'S GO OUT](https://open.spotify.com/album/0nZMDh5DvUJgMjLetOmiM1) | 4:23 |
 | 50 | [ムーンウォーク](https://open.spotify.com/track/0UbBl0B1qSHz7MNojsqagi) | [MONOBRIGHT](https://open.spotify.com/artist/1fA0ExNzbvrQiX84L8SqQk) | [ムーンウォーク](https://open.spotify.com/album/1rLEyhXHeDgITs9u7JoeXr) | 3:32 |
 | 51 | [サクラミツツキ](https://open.spotify.com/track/0cwscxZ2Q0zWlZNFWaScpN) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [サクラミツツキ](https://open.spotify.com/album/4YsJU6IX9XXGlYROsBTjqO) | 3:38 |
 | 52 | [エクスペクト](https://open.spotify.com/track/42NCQlMjrfK8lO1gLqpnSc) | [Page](https://open.spotify.com/artist/2pPiwirAzmTiGGi2PfG8qt) | [エクスペクト](https://open.spotify.com/album/2xh1ozWgJnVFAcm4vpYePy) | 3:52 |
 | 53 | [DAY×DAY](https://open.spotify.com/track/0uwZbT1hFg8c7A25I0wClS) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [DAY×DAY](https://open.spotify.com/album/550oeCHWYO8wh9Hh49PDhN) | 3:38 |
-| 54 | [どんだけー!小西マン](https://open.spotify.com/track/5AbcqHXOlO6jUwhKEb14rp) | [Ko\-saku](https://open.spotify.com/artist/7KHGYuxI4FmyuoY2680SeN) | [銀魂 オリジナル・サウンドトラック 3](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 1:10 |
-| 55 | [ハードボイルド同心 小銭形平次のテーマ壱](https://open.spotify.com/track/1BV0Qknxsm8zaQYlX25oxW) | [小銭形平次\(CV.石塚運昇\)](https://open.spotify.com/artist/7vZh1NQdV2G3srvR0Ca3Z7) | [銀魂 オリジナル・サウンドトラック 3](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 0:20 |
+| 54 | [どんだけー！小西マン](https://open.spotify.com/track/5AbcqHXOlO6jUwhKEb14rp) | [Ko\-saku](https://open.spotify.com/artist/7KHGYuxI4FmyuoY2680SeN) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 1:10 |
+| 55 | [ハードボイルド同心 小銭形平次のテーマ壱](https://open.spotify.com/track/1BV0Qknxsm8zaQYlX25oxW) | [小銭形平次\(CV.石塚運昇\)](https://open.spotify.com/artist/7vZh1NQdV2G3srvR0Ca3Z7) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 0:20 |
 | 56 | [DESTINY](https://open.spotify.com/track/509zVXuBtSpsHTQlxsIrcV) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [DESTINY](https://open.spotify.com/album/40wxXoU6DjUDVoxfFUUjOZ) | 4:08 |
 | 57 | [プライド革命](https://open.spotify.com/track/2UfQ8bejhARFxIOUCScLsD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:55 |
 | 58 | [最後までII](https://open.spotify.com/track/5Wnth7BblXc89BBirOQXOj) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [最後までII](https://open.spotify.com/album/47lqQu1ixkWHyvjj8LNWEP) | 4:21 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 60 | [グロリアスデイズ](https://open.spotify.com/track/0wsgQQJ4MVe9jvXwZ88XeC) | [THREE LIGHTS DOWN KINGS](https://open.spotify.com/artist/3IN5Twv2f6MM4yIyhwHIIo) | [グロリアスデイズ](https://open.spotify.com/album/4VjYWDTjfuIX4u5oPugu16) | 3:58 |
 | 61 | [KNOW KNOW KNOW](https://open.spotify.com/track/2BjrK3jm8zI80GcUAM43Wm) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [KNOW KNOW KNOW](https://open.spotify.com/album/0KTqFokIYKVvjp2AjuQjZu) | 3:22 |
 | 62 | [闇夜の虫は光に集う\~妖刀・紅桜\~](https://open.spotify.com/track/6Quvn9F1FSjezrl8z9A8q9) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [劇場版「銀魂 新訳紅桜篇」オリジナル・サウンドトラック](https://open.spotify.com/album/1WZcWJtOHVGjGhKCflhKSk) | 2:52 |
-| 63 | [茨ガキと薔薇ガキ](https://open.spotify.com/track/43NptdH7JkT1D8N48EeCmt) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 4](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:14 |
-| 64 | [お控えなすって!](https://open.spotify.com/track/0LpBRTBl7Z7PWtBf9vA9Mf) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 4](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:03 |
-| 65 | [ゆけ!カイエーン](https://open.spotify.com/track/08MEYNJ878h5sX2UODJyhr) | [singman](https://open.spotify.com/artist/3vKk3DDuHO0gabQsCvk7mL) | [銀魂 オリジナル・サウンドトラック 4](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 1:37 |
+| 63 | [茨ガキと薔薇ガキ](https://open.spotify.com/track/43NptdH7JkT1D8N48EeCmt) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:14 |
+| 64 | [お控えなすって！](https://open.spotify.com/track/0LpBRTBl7Z7PWtBf9vA9Mf) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:03 |
+| 65 | [ゆけ！カイエーン](https://open.spotify.com/track/08MEYNJ878h5sX2UODJyhr) | [singman](https://open.spotify.com/artist/3vKk3DDuHO0gabQsCvk7mL) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 1:37 |
 | 66 | [あっちむいて](https://open.spotify.com/track/77Re31uf26A9U1aPFBfMJE) | [Swimy](https://open.spotify.com/artist/2sUEUvyOBblaAJdcHnlLXV) | [あっちむいて](https://open.spotify.com/album/3ESy0UsKyNocfZ7xJTI4Dt) | 3:36 |
 | 67 | [カゲロウ](https://open.spotify.com/track/761XPKc6c7sGdQBjnL57OR) | [ЯeaL](https://open.spotify.com/artist/3kcuGX6Jv5AOsJQTQGxoYL) | [カゲロウ](https://open.spotify.com/album/5XGVpz7wE8JAf7zC3KTosC) | 4:02 |
 | 68 | [SILVER](https://open.spotify.com/track/4OlG9YwpUZhdkEmqY4ZJQ7) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [SILVER\(Special Edition\)](https://open.spotify.com/album/6GXNmghE39TBKUoFyaDtLZ) | 3:40 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 86 | [二百四十六勝、二百四十七敗](https://open.spotify.com/track/5LX24pCdgqUlSOxcImetIG) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:02 |
 | 87 | [在りし日](https://open.spotify.com/track/0bU5zspmMwLzT8DBvMGC5V) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 1:45 |
 
-Snapshot ID: `MCw4YTIyZmIzNTVkZThiNmQxM2FlM2M4ZjRkOTMyOWM4NjdhZGRmMmRi`
+Snapshot ID: `MCw0MGRjZGU0OTUzMmQyNjBiMzc3YTA4NTg1MjU4ZjdhMDg1ZDUwODJm`

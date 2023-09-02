@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-87 songs - 5 hr 31 min
+88 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-01-13 |  |
 | [Strawberry Soju](https://open.spotify.com/track/3Naqjihn2GJjOBZNeenivP) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Strawberry Soju](https://open.spotify.com/album/5ndnvMs3zF4hOcyT9NFHI9) | 2:51 | 2023-04-07 |  |
 | [Surrender](https://open.spotify.com/track/2lbfgYWkeW7rQRYlixgkAZ) | [Surahn](https://open.spotify.com/artist/7isf2onROC85pAnUK3wXAb) | [Surrender](https://open.spotify.com/album/2RknVcT1UWgRzNEJyRpLPn) | 4:38 | 2023-05-05 |  |
+| [Sway](https://open.spotify.com/track/0URET1QRXICvNhwgNn5OWD) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Sway](https://open.spotify.com/album/5j17Q40WrMCERsIFa9WCQh) | 2:40 | 2023-09-01 |  |
 | [Takeoff](https://open.spotify.com/track/6Rg1H1aIrg99gsOKCEEDjh) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Elevator Music for an Elevated Mood](https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB) | 4:07 | 2022-10-21 |  |
 | [The Dandelion](https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM) | 3:39 | 2022-10-21 | 2023-04-30 |
 | [The Dandelion](https://open.spotify.com/track/37nRhMFqggMLfWOpTL2vgZ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG) | 3:39 | 2022-10-21 |  |
@@ -92,7 +93,7 @@
 | [Why I Came To California](https://open.spotify.com/track/1uRf4FaOO13JB4GNUXBk4A) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/1FMPS7GufT7lpzGFbVsuks) | 4:39 | 2022-10-21 |  |
 | [Why I Came To California](https://open.spotify.com/track/6Cspj0PvUy7ItIGrmrun3u) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/2CC8WIGTkXQRTwmetCjp22) | 4:39 | 2022-10-21 | 2023-04-30 |
 | [Withorwithout](https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:25 | 2022-10-21 | 2023-04-09 |
-| [Without Sun](https://open.spotify.com/track/6lnZykjqn6BVvd3aBHHkXh) | [Swim Mountain](https://open.spotify.com/artist/0k03iT1wmiddzXpZD2spn7) | [If \(Deluxe Edition\)](https://open.spotify.com/album/3jf8VD6LvB13HzkQ3R4evy) | 4:22 | 2022-10-21 |  |
+| [Without Sun](https://open.spotify.com/track/6lnZykjqn6BVvd3aBHHkXh) | [Swim Mountain](https://open.spotify.com/artist/0k03iT1wmiddzXpZD2spn7) | [If \(Deluxe Edition\)](https://open.spotify.com/album/3jf8VD6LvB13HzkQ3R4evy) | 4:22 | 2022-10-21 | 2023-09-02 |
 | [Without You](https://open.spotify.com/track/28SHB4LMHD9ExTETbQIZfY) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y) | [Without You](https://open.spotify.com/album/3gAlDfcCFS4LEYtNTndsCx) | 3:10 | 2023-08-11 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-13 | 2023-07-01 |
 

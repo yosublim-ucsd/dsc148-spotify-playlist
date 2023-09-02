@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 371845,
+  "num_followers": 371889,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTUwNjVkYjIzNjdjMzkyM2ExMTYyNDUwMmNjMDEyODlkNGE0ZDMx",
+  "snapshot_id": "MCxiMzA1ZTZjMzgzZmMzYWY4OWExZTcyMzc2YmRkNzM0MWI0MDY2ZjJk",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
+        "name": "Giralunas, Un Homenaje a L.E.Aute",
+        "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 293146,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
+      "duration_ms": 336813,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Giralunas, Un Homenaje a L.E.Aute",
-        "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 336813,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
+      "duration_ms": 293146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Little Neon Limelight",
-        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 202401,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "S.O.B.",
         "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 247426,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Little Neon Limelight",
+        "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 202401,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/1Ww0HQhPiT0t9KRdzukr8T"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
-      },
-      "artists": [
-        {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "A Light That Never Dies",
         "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 173366,
       "name": "The Ballad of Johnny",
       "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "The Very Last Day",
-      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Alta Falls",
         "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 281893,
       "name": "Never Been a Captain",
       "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "The Very Last Day",
+      "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Side Pony",
+        "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "I Don't Care About You",
+      "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "My Back Was A Bridge For You To Cross",
         "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 295013,
       "name": "It Must Change",
       "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Side Pony",
-        "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "I Don't Care About You",
-      "url": "https://open.spotify.com/track/5sOhS3m45IPP9sUBXXlYGI"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Promenade Blue",
-        "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
-      },
-      "artists": [
-        {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
-        }
-      ],
-      "duration_ms": 233356,
-      "name": "Place Names",
-      "url": "https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "The Muse",
         "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 179253,
       "name": "Wastin' My Mind",
       "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Promenade Blue",
+        "url": "https://open.spotify.com/album/586oHuLtO05ObUhSmsWrJT"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 233356,
+      "name": "Place Names",
+      "url": "https://open.spotify.com/track/6NNCDDqsr4q1Ew2ube9Ujp"
     },
     {
       "added_at": "2023-08-25 04:00:00",

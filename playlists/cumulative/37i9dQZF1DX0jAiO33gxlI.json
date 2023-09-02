@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Planet Hemp",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: N.I.N.A, Mc Luanna",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -494,6 +494,24 @@
       "duration_ms": 163453,
       "name": "Algo \u00cdntimo",
       "url": "https://open.spotify.com/track/7e0DPzHixf5MyclQRCUkJa"
+    },
+    {
+      "album": {
+        "name": "Algoritmos",
+        "url": "https://open.spotify.com/album/4VSgdtcfdz8Yewj5SJfMBA"
+      },
+      "artists": [
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135338,
+      "name": "Algoritmos",
+      "url": "https://open.spotify.com/track/2yJVTB6XyFXFCA6FHxliM3"
     },
     {
       "album": {
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176000,
       "name": "F* F* M*",
       "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
@@ -4548,7 +4566,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 267428,
       "name": "Ins\u00f4nia 2",
       "url": "https://open.spotify.com/track/7tITqCiDuMqKfWhibaF8V7"
@@ -4936,6 +4954,32 @@
       "duration_ms": 170880,
       "name": "Jovem Como a Liberdade",
       "url": "https://open.spotify.com/track/1aHGqeearQlverxSG3sgcr"
+    },
+    {
+      "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
       "album": {
@@ -6406,7 +6450,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 183478,
       "name": "Nascido Pra Ser Rei",
       "url": "https://open.spotify.com/track/4ToiWhiO0NHjhaBjFz4JDf"
@@ -6978,6 +7022,52 @@
       "duration_ms": 311632,
       "name": "O Casamento",
       "url": "https://open.spotify.com/track/3V6feL88EALl8u7SLKQYfP"
+    },
+    {
+      "album": {
+        "name": "O Mundo Contra N\u00f3s",
+        "url": "https://open.spotify.com/album/0c36Sy2KhofMF4aGy8g4JB"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
+        },
+        {
+          "name": "DoisP",
+          "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
+        },
+        {
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        },
+        {
+          "name": "Malagueta mc",
+          "url": "https://open.spotify.com/artist/0DSySEdxjlahXmxW4x0fak"
+        },
+        {
+          "name": "MC FAEL",
+          "url": "https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313043,
+      "name": "O Mundo Contra N\u00f3s",
+      "url": "https://open.spotify.com/track/3OmaetxzaJ5MlfiVqP7vpm"
     },
     {
       "album": {
@@ -8199,6 +8289,24 @@
     },
     {
       "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/26LFRKCFnh2vI1EmXEW1FA"
+      },
+      "artists": [
+        {
+          "name": "patetacodigo43",
+          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362666,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/6KW1uQ50GNNcddHjSuIAQa"
+    },
+    {
+      "album": {
         "name": "Protocolo",
         "url": "https://open.spotify.com/album/5a2VRWNrrAvZ9Et65YOnPG"
       },
@@ -9286,6 +9394,66 @@
       "duration_ms": 173333,
       "name": "Sempre Bom",
       "url": "https://open.spotify.com/track/7mHQq512mOIGFbaAuMSVS1"
+    },
+    {
+      "album": {
+        "name": "Sempre Vigiando",
+        "url": "https://open.spotify.com/album/5aIaJUTj6LvBjmUPW9AlU0"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Laura Sette",
+          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "Sempre Vigiando",
+      "url": "https://open.spotify.com/track/3fpp2ctX7J8w2irjjtbDWg"
+    },
+    {
+      "album": {
+        "name": "Ser de Verdade",
+        "url": "https://open.spotify.com/album/5674z3uzvNg7BnQTmqTElf"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Vitinho Olimpo",
+          "url": "https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU"
+        },
+        {
+          "name": "THXLIS",
+          "url": "https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112721,
+      "name": "Ser de Verdade",
+      "url": "https://open.spotify.com/track/5krwI8ucTf9hvx8k1T1jhV"
     },
     {
       "album": {
@@ -10734,7 +10902,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 156521,
       "name": "Vim da Lama",
       "url": "https://open.spotify.com/track/3xEYmdp7hQKQBKOorimBs4"

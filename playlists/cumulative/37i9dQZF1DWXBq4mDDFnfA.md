@@ -4,7 +4,7 @@
 
 > Relax to the sound of classical guitar.
 
-46 songs - 3 hr 18 min
+47 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adelita](https://open.spotify.com/track/5NAskgmV5OCbHSu7y3dHcy) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [Soul of Spanish Guitar](https://open.spotify.com/album/4A9G71QsLJKKFK5ffodQfZ) | 2:10 | 2021-06-28 |  |
 | [An Idea](https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Zsófia Boros](https://open.spotify.com/artist/6T9wLNtkKE8Z5GusLK6v9c) | [En Otra Parte](https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW) | 2:38 | 2022-01-26 |  |
 | [Bach, JS: Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air \(Arr\. Yang for Guitar\)](https://open.spotify.com/track/7C0LbWtZgDYjmaSuz10AeD) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Bach Concertos](https://open.spotify.com/album/61b2J7MNTyjenILRadtoK0) | 4:03 | 2021-06-28 |  |
+| [Bachianinha No\. 1 \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/track/1FO2czopUN5qjFzZfXKExk) | [Paulinho Nogueira](https://open.spotify.com/artist/5ReVxzuREWusYE4ovnMbBn), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Bachianinha No\. 1 \(Arr\. for Guitar by Sérgio Assad\)](https://open.spotify.com/album/0y1JGIEV2FBpVJKJHY0k4b) | 3:20 | 2023-09-01 |  |
 | [Barrios Mangoré: Preludio en do menor](https://open.spotify.com/track/7Lyrk6z6Cik8y3zXsEevr5) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Thibaut García](https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t) | [El Bohemio \- Barrios: Preludio en do menor](https://open.spotify.com/album/2KTwajQx4QxyI9cDDGiNe4) | 2:16 | 2023-07-21 |  |
 | [Cancion de cuna](https://open.spotify.com/track/2WfTVYdHjDvFaaVLGN1wEO) | [Leo Brouwer](https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0), [Vicente Coves](https://open.spotify.com/artist/4T4Kpco9Elfm3HvFVVLJif) | [Latin\-American Music for Guitar](https://open.spotify.com/album/6mNnvVKDa9EMkRQNBSnbn6) | 4:42 | 2021-06-28 |  |
 | [Canciones Castellanas](https://open.spotify.com/track/3KgdTCMN9V5XPX7icisnyf) | [Regino Sáinz de la Maza](https://open.spotify.com/artist/4IDnRdiIVKS0ylECWh8t2V), [Franz Halász](https://open.spotify.com/artist/6u7TanQ3Tv1dx5RmaERfdV) | [Sáinz de la Maza: Guitar Music](https://open.spotify.com/album/3rMQ4eOWBraORsb3rCrN2z) | 5:20 | 2021-06-28 |  |

@@ -9049,6 +9049,24 @@
     },
     {
       "album": {
+        "name": "No Rush",
+        "url": "https://open.spotify.com/album/1Veqs4Rc2wtSCGCyMSpWKK"
+      },
+      "artists": [
+        {
+          "name": "Rucci LSE",
+          "url": "https://open.spotify.com/artist/0V5sg3BI0LPEIZNGFeo48V"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158384,
+      "name": "No Rush",
+      "url": "https://open.spotify.com/track/0juz5wNikbEqlzUi1fjyc6"
+    },
+    {
+      "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/4HEGO2kaQCPHJ0iMNBaMOz"
       },

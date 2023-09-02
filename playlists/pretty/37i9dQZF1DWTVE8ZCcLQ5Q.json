@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421380,
+  "num_followers": 421373,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
+  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Imaginar",
+        "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
+      },
+      "artists": [
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Imaginar",
+      "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Aquecimento",
         "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 123444,
       "name": "Aquecimento",
       "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Imaginar",
-        "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
-      },
-      "artists": [
-        {
-          "name": "Reid",
-          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Imaginar",
-      "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        }
+      ],
+      "duration_ms": 122666,
+      "name": "convoca (Prod. Maikinho)",
+      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Se Fecha",
         "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 137142,
       "name": "Se Fecha",
       "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        }
-      ],
-      "duration_ms": 122666,
-      "name": "convoca (Prod. Maikinho)",
-      "url": "https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7"
     },
     {
       "added_at": "2023-07-12 21:00:00",

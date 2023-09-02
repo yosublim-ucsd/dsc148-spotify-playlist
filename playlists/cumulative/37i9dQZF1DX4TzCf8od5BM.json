@@ -3463,6 +3463,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Doc McStuffins - The Doc and Bella Are In!",
+        "url": "https://open.spotify.com/album/1MCUqpnsjpG4d0KwQszJcr"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101034,
+      "name": "Time for Your Check Up (Bella Version)",
+      "url": "https://open.spotify.com/track/69kHflbAghcdkZbSeK7yeH"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Pupstruction",
         "url": "https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,800 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,883 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,16 +59,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 49 | [Everything Happens To Me \- Complete Take 2](https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 3:38 |
 | 50 | [I Cried For You](https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [The Complete Piano Duets](https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd) | 3:28 |
 | 51 | ['Round Midnight](https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Around Midnight](https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d) | 2:52 |
-| 52 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
-| 53 | [I Can't Get Started \- Remastered](https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:15 |
+| 52 | [I Can't Get Started \- Remastered](https://open.spotify.com/track/1koaigmrZEI4T0pu4PfM1P) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic \(Remastered\)](https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3) | 5:15 |
+| 53 | [Lover Man](https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 3:16 |
 | 54 | [There's No You](https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:47 |
 | 55 | [Where Are You? \- 1999 Remastered](https://open.spotify.com/track/1wVLaNc1qRgI56HWauLFee) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:30 |
 | 56 | [Beware My Heart](https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 5:08 |
 | 57 | [Who Can I Turn To \(When Nobody Needs Me\)](https://open.spotify.com/track/6wWkyosk7WllIpzUs5SliP) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Gentle Is My Love](https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA) | 2:42 |
 | 58 | [I'll Drown In My Tears](https://open.spotify.com/track/3EJ0pqOYSid9bVfyYy0zhm) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol.5 \(1956\-1958\)](https://open.spotify.com/album/53UuPjzjPZdVorCmDewJSI) | 3:11 |
 | 59 | [If I Knew Then \(What I Know Now\)](https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Swingin' Easy](https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju) | 2:33 |
-| 60 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
-| 61 | [I Wish I Knew](https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 4:53 |
+| 60 | [I Wish I Knew](https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 4:53 |
+| 61 | [That Old Feeling](https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:28 |
 | 62 | [If I Had You](https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [All For You \(A Dedication To The Nat King Cole Trio\)](https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg) | 4:57 |
 | 63 | [I Wish I Knew \- Remastered 2004](https://open.spotify.com/track/0xlZ3RGJnsopJc9dqq6Th2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:59 |
 | 64 | [I Think Of You \- Remastered](https://open.spotify.com/track/3ElzkGBZpbjVuyKWCAHuzw) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Where Are You? \(Remastered / Expanded Edition\)](https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1) | 3:04 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 82 | [Just One More Chance \- 1931 Single Version](https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 3:30 |
 | 83 | [I Won't Cry Anymore](https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Jimmy Carroll Orchestra](https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0) | [Music For Late Hours](https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF) | 3:25 |
 | 84 | [I'm Gonna Laugh You Right Out Of My Life \- Remastered](https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:40 |
-| 85 | [Blues In My Heart](https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [The Rockin' Chair Lady](https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC) | 3:09 |
-| 86 | [My Old Flame](https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 2:25 |
+| 85 | [My Old Flame](https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Swedish Sensation](https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh) | 2:25 |
+| 86 | [Blues In My Heart](https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [The Rockin' Chair Lady](https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC) | 3:09 |
 | 87 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 |
 | 88 | [No More](https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 3:11 |
 | 89 | [It's Easy to Remember](https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Smooth Songs](https://open.spotify.com/album/0bTi6NaKZTPdu3G2a4fePf) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70dqoLSWJrU.md) - [plain]
 | 99 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 |
 | 100 | [Cry You Out Of My Heart](https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [The War Years \(1941\-1947\)](https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH) | 2:45 |
 
-Snapshot ID: `MCxiZTY5OTIxMjc0NzMxNDJjNTM4MDcxZDgyZGI3NTA5MGExYzEwMmM4`
+Snapshot ID: `MCxlNjQ5NzI2ZDI2ZDEyY2NlZTA3Yzc0MTFiNmRjNjY3NDk2OWNkOTUw`

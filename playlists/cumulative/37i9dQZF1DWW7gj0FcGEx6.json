@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "She Came to Me - Julian and Tereza",
+        "url": "https://open.spotify.com/album/1mXYGxip1uPVytH6vgQyVL"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65000,
+      "name": "Dessner: Julian and Tereza",
+      "url": "https://open.spotify.com/track/7bwcAvIDCPtOpMLBamIpNC"
+    },
+    {
+      "album": {
         "name": "Trigonometry (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70"
       },
@@ -948,6 +970,24 @@
       "duration_ms": 95266,
       "name": "Dungeons and Dragons",
       "url": "https://open.spotify.com/track/30NS4OLaCDe0aJOPCcrF1J"
+    },
+    {
+      "album": {
+        "name": "Egwene al'Vere (from The Wheel of Time: Season 2, a Prime Video Original Series)",
+        "url": "https://open.spotify.com/album/6PDzQ3pZl8CRTcOMwk5gPU"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Egwene al'Vere - from The Wheel of Time: Season 2, a Prime Video Original Series",
+      "url": "https://open.spotify.com/track/25VaTouvJUmUkIccRJfTGG"
     },
     {
       "album": {
@@ -3637,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "The Deepest Breath (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/68fL0XFt0lru115Ro4TGwD"
+      },
+      "artists": [
+        {
+          "name": "Nainita Desai",
+          "url": "https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235270,
+      "name": "Stephen Trains Alessia",
+      "url": "https://open.spotify.com/track/1E3nN6LhvpqizoguRFfVhs"
+    },
+    {
+      "album": {
         "name": "The Good House (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1"
       },
@@ -4788,6 +4846,28 @@
       "duration_ms": 126427,
       "name": "Uncharted",
       "url": "https://open.spotify.com/track/403J2ArGAXfFE6H1Ip14zB"
+    },
+    {
+      "album": {
+        "name": "Liebes Kind (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123960,
+      "name": "Underneath",
+      "url": "https://open.spotify.com/track/2c6aqx1qoJYIy6jycbdQ9f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0EMU2v4In7YduH1ICRz6xr.md) - [plain]
 
 > ITZY&\#x27;s performance list of THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN
 
-[ITZYOfficial](https://open.spotify.com/user/annakimmy2018) - 2,264 likes - 24 songs - 1 hr 15 min
+[ITZYOfficial](https://open.spotify.com/user/annakimmy2018) - 2,265 likes - 24 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/0EMU2v4In7YduH1ICRz6xr.md) - [plain]
 | 3 | [SHOOT!](https://open.spotify.com/track/2xeaHUnzzT5Kc974OQt1kA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:19 |
 | 4 | [Voltage](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) | 3:41 |
 | 5 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 |
-| 6 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:06 |
+| 6 | [Blah Blah Blah](https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B) | 3:05 |
 | 7 | [ICY](https://open.spotify.com/track/2vdkN2NSQ5mxqNGg7sJUxs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:11 |
 | 8 | [Free Fall](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 |
 | 9 | [\#Twenty](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 2:54 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf?si=njpB4P2ZSRuv40Rv_uapqg\">Jordan Ward</a> ",
+  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=ff28a136fe734631\">Xenia Manasseh</a> ",
   "name": "RIPPLE EFFECT",
   "tracks": [
     {
@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "clouds",
+        "url": "https://open.spotify.com/album/5VuD11y75bgEeRgYiIM6pA"
+      },
+      "artists": [
+        {
+          "name": "HOAX",
+          "url": "https://open.spotify.com/artist/2B2EixNjepQtd6N3mDcNnh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "clouds",
+      "url": "https://open.spotify.com/track/1TL4KIt4eJqSN06PnXMWZu"
+    },
+    {
+      "album": {
         "name": "Co-Star",
         "url": "https://open.spotify.com/album/0FLajXxca41VLTunahQo9s"
       },
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 151959,
       "name": "COOKIE",
       "url": "https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP"
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147692,
       "name": "Cuz We Did",
       "url": "https://open.spotify.com/track/24EJjIh58hDXgCvpLjMCWZ"
@@ -1724,6 +1742,32 @@
       "duration_ms": 165485,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK"
+    },
+    {
+      "album": {
+        "name": "Dancehall Wave",
+        "url": "https://open.spotify.com/album/1wklZ9YGInMan9EUZ2j5t9"
+      },
+      "artists": [
+        {
+          "name": "Noise Cans",
+          "url": "https://open.spotify.com/artist/1ECKbPx4YhCU4SgKq8pfAc"
+        },
+        {
+          "name": "merchant",
+          "url": "https://open.spotify.com/artist/0UEupuqVP2mpTTyf6wcOBY"
+        },
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Dancehall Wave",
+      "url": "https://open.spotify.com/track/7gOSZTN5gyyXQPNYGhuWno"
     },
     {
       "album": {
@@ -1916,6 +1960,24 @@
       "duration_ms": 146413,
       "name": "Don Lemon",
       "url": "https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs"
+    },
+    {
+      "album": {
+        "name": "Don't Sit Right",
+        "url": "https://open.spotify.com/album/3jc2NUdhVwDlMIb8kfiTlG"
+      },
+      "artists": [
+        {
+          "name": "Norman North",
+          "url": "https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201656,
+      "name": "Don't Sit Right",
+      "url": "https://open.spotify.com/track/1QfmAWoMdCxEKDINcoo39m"
     },
     {
       "album": {
@@ -3799,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Bet That",
+        "url": "https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Left, Right, GO!",
+      "url": "https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c"
+    },
+    {
+      "album": {
         "name": "Beautiful Michi Girls",
         "url": "https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo"
       },
@@ -4057,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "Louisiana",
+        "url": "https://open.spotify.com/album/6bDQtQ9nztaLR5xFw2JiSm"
+      },
+      "artists": [
+        {
+          "name": "Reyna Roberts",
+          "url": "https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167843,
+      "name": "Louisiana",
+      "url": "https://open.spotify.com/track/6KXdlYA1REDyMeWUlLcVOt"
+    },
+    {
+      "album": {
         "name": "While You Wait",
         "url": "https://open.spotify.com/album/0ke9ejH3PxeXYhijwoXgi3"
       },
@@ -4072,6 +4170,24 @@
       "duration_ms": 156607,
       "name": "Love & War",
       "url": "https://open.spotify.com/track/1MBzLdsSsotZiVPZ54crZf"
+    },
+    {
+      "album": {
+        "name": "LOVE / HATE Pt. 1",
+        "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163014,
+      "name": "Love/Hate",
+      "url": "https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL"
     },
     {
       "album": {
@@ -5623,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "RISK, RISK, RISK!",
+        "url": "https://open.spotify.com/album/4c0WVlK8VGkZ0PBfSSiGoQ"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201296,
+      "name": "RISK, RISK, RISK!",
+      "url": "https://open.spotify.com/track/2FgFvtSuBAECcN7SJU5xMB"
+    },
+    {
+      "album": {
         "name": "RISKY",
         "url": "https://open.spotify.com/album/09iik9pLTXIQPV7bBnFvut"
       },
@@ -5678,7 +5812,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 178164,
       "name": "Running Back",
       "url": "https://open.spotify.com/track/6zwvwHMmXy9zCzNBR3FHwB"
@@ -6486,7 +6620,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 191413,
       "name": "the comedown",
       "url": "https://open.spotify.com/track/3oHfyJpmuR3OzV7fZRGeDK"
@@ -6624,7 +6758,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 155172,
       "name": "This City is a Graveyard - Sped Up",
       "url": "https://open.spotify.com/track/0y6Nglf5LNQgSHy8IyMvqi"
@@ -6754,7 +6888,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 203687,
       "name": "Toxic Ish",
       "url": "https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L"

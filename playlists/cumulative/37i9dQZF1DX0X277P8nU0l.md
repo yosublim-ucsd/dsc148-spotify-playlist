@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-137 songs - 7 hr 56 min
+138 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Chicago \(Take It Or Leave It\)](https://open.spotify.com/track/3ZMhHzlZKfbQTIiDPA5cJ2) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Chicago \(Take It Or Leave It\)](https://open.spotify.com/album/4uxEwckywQKv6NE2rjbHhE) | 3:12 | 2022-12-21 | 2023-01-20 |
 | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Orono](https://open.spotify.com/artist/0CqXZXwwLrqnlXqHrVm8ux), [Lennon](https://open.spotify.com/artist/3nPGCD8cnUmkXAmoQx2DbO) | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1) | 2:14 | 2023-02-27 |  |
 | [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 | 2023-04-07 |  |
-| [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-25 |  |
+| [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-25 | 2023-09-02 |
+| [Columbo](https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:33 | 2023-08-24 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
 | [Country Gyal](https://open.spotify.com/track/5TVL1BMpJeXiDxm74LWVBb) | [Chelsea Russell](https://open.spotify.com/artist/5pHdxXO9K1Od0ZKP7Sh6iD) | [Country Gyal](https://open.spotify.com/album/6bn8dl0EeKUP3HlEhkg5r6) | 3:21 | 2023-05-25 |  |
 | [Dark Side of the Moon](https://open.spotify.com/track/756BelaNgfNsSCCxfVjYaO) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [The Dark Side of the Moon](https://open.spotify.com/album/3EJsuw8416LPDleVbf37yj) | 2:57 | 2022-12-21 | 2023-03-25 |

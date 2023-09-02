@@ -4,7 +4,7 @@
 
 > Un surtido rico de canciones con sabor a México.
 
-267 songs - 14 hr 46 min
+268 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/5r2BZAr0eblp9p7SboOt3s) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Duetos, Mis Amigos, Mis Canciones](https://open.spotify.com/album/6y32AnLnhc4u6Xpm3H7uDd) | 3:43 | 2022-05-23 | 2022-07-29 |
 | [Déjenla Que Sea Feliz](https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH) | [Chacho Y Su Vagancia](https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6) | [Déjenla Que Sea Feliz](https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3) | 2:55 | 2023-08-08 |  |
 | [El Agua Clara](https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Y Es el Contacto ¡Raza!](https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X) | 2:48 | 2022-09-12 | 2023-08-09 |
+| [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2023-08-08 |  |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 | 2023-08-08 | 2023-09-01 |
 | [El Amor No Fue Pa´ Mí \- En Vivo](https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [El Amor No Fue Pa´ Mí \(En Vivo\)](https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX) | 3:46 | 2022-05-23 | 2022-09-01 |
 | [El Club De Los Dolidos](https://open.spotify.com/track/4A2n4Zss5KjRijiEC6mYas) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [El Club De Los Dolidos](https://open.spotify.com/album/7FWIe2JXLS20lAkOadKmbX) | 3:11 | 2022-08-31 | 2022-09-13 |
@@ -118,7 +119,7 @@
 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 | 2022-05-23 | 2023-08-09 |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 | 2022-05-23 |  |
 | [Me Dejé Ir Con Todo](https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 2:32 | 2023-02-24 |  |
-| [Me Estoy Acostumbrando A Ti](https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por El Amor De Siempre](https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC) | 3:46 | 2022-05-23 |  |
+| [Me Estoy Acostumbrando A Ti](https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por El Amor De Siempre](https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC) | 3:46 | 2022-05-23 | 2023-09-02 |
 | [Me Extraño](https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Extraño](https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1) | 3:11 | 2022-09-12 |  |
 | [Me Falta Un Pecado](https://open.spotify.com/track/0QhwvpguVpCNet2Ne9Ge42) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Me Falta Un Pecado](https://open.spotify.com/album/76JfsOgIreZQjJqBzFdcqc) | 3:11 | 2022-05-23 | 2022-09-13 |
 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 | 2022-05-23 |  |

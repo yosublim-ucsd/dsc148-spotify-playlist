@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 7915,
+  "num_followers": 7955,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmI1Nzk3MWQ1NjE1ZDg5MWZmMjE3OGU5MWJiZjYxYzA0Y2IzZTY4",
+  "snapshot_id": "MCxmMzY4MWMwZWY2YTk1N2Y3ODUzODMxMzBjNDQyYzE1MTQ5OGU3ODBm",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Dim",
+        "url": "https://open.spotify.com/album/7iczpIXMnMAhDSt7kMKG1y"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        }
+      ],
+      "duration_ms": 166592,
+      "name": "Dim",
+      "url": "https://open.spotify.com/track/0vAeNqXsZmFzMgRF486jcb"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "On Me (Remix) (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 135444,
       "name": "On Me (Remix) (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Dim",
-        "url": "https://open.spotify.com/album/7iczpIXMnMAhDSt7kMKG1y"
-      },
-      "artists": [
-        {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
-        }
-      ],
-      "duration_ms": 166592,
-      "name": "Dim",
-      "url": "https://open.spotify.com/track/0vAeNqXsZmFzMgRF486jcb"
     },
     {
       "added_at": "2022-10-01 20:31:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 
 > just turn on some rainy weather at will, with this backdrop of dripping drizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,695 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,736 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 | 24 | [Evening Sleepy Rain](https://open.spotify.com/track/66AEXwDpLz9Uwz3DWvMnUa) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain in the Woods](https://open.spotify.com/album/5U0KcCOfsryTk6AQnkwu4x) | 3:01 |
 | 25 | [Rainable](https://open.spotify.com/track/2w3HZGGOknK3juCyLzGBr0) | [Splash n' Dash](https://open.spotify.com/artist/3H8JEgORKc06mYrKIaFMPa) | [Rainable](https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ) | 2:50 |
 | 26 | [Mountain Thunderstorm](https://open.spotify.com/track/29XSvNdu4rTuvWgxeiMDM7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 |
-| 27 | [Sitting on the Porch During a Thunderstorm](https://open.spotify.com/track/3eauTrySTM6lllpECM7akg) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:48 |
-| 28 | [Clouds Dispersing](https://open.spotify.com/track/5bAkEjQbEIqZsuAcwNPBeP) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Rain In The City](https://open.spotify.com/album/4c9wDQS5nG07YRVzUsKdEN) | 3:22 |
-| 29 | [Goddess Of Thunder](https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:19 |
-| 30 | [Thunder And Drizzle \- Seamless](https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Residential Rain](https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v) | 2:48 |
+| 27 | [Clouds Dispersing](https://open.spotify.com/track/5bAkEjQbEIqZsuAcwNPBeP) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Rain In The City](https://open.spotify.com/album/4c9wDQS5nG07YRVzUsKdEN) | 3:22 |
+| 28 | [Sitting on the Porch During a Thunderstorm](https://open.spotify.com/track/3eauTrySTM6lllpECM7akg) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:48 |
+| 29 | [Thunder And Drizzle \- Seamless](https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Residential Rain](https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v) | 2:48 |
+| 30 | [Goddess Of Thunder](https://open.spotify.com/track/2NJISxdOO1keYuVzst55Jw) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:19 |
 | 31 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 |
 | 32 | [The Early Morning Rain](https://open.spotify.com/track/1BJM3u649m2wcX3myXFCA0) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Magical Rain](https://open.spotify.com/album/0N7CN9T0HZiudDEwOCYFLY) | 3:06 |
 | 33 | [Damp Camping](https://open.spotify.com/track/0a0ikMrb22bYbPyOoLvjNo) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Wet Terrain](https://open.spotify.com/album/3HUBias9HKd0fxmDMZX9lD) | 2:33 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 | 53 | [Cozy Rain](https://open.spotify.com/track/0N3S9OCA8PSqbzPhR8FmWu) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 |
 | 54 | [Rain Sounds From A Calm Night](https://open.spotify.com/track/2ylUNsTrDNBeto5E406xUW) | [In.The.Rain](https://open.spotify.com/artist/5SpbwDAd9v53dxou4gmL0r) | [In The Rain 2](https://open.spotify.com/album/4nYv5UM5K3sG4tjvbuNqlA) | 2:08 |
 | 55 | [Thunderstorm by Night](https://open.spotify.com/track/7jxbS7Dy2j5i4fXoHESKBQ) | [Earth Thunder Sounds 2021](https://open.spotify.com/artist/3t6LAQAbz3ps937v5Gnc8u) | [Thunder And Lightning Vol\. 2](https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe) | 2:10 |
-| 56 | [Soothing Rainstorm](https://open.spotify.com/track/4yGdvX8sK6y8OMEQZZi9c7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 |
-| 57 | [Sueño Rural](https://open.spotify.com/track/5lcDiS13pwBrN3kaWTO9pS) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Nubes Opus](https://open.spotify.com/album/2sHE3Kq75uajqwYacHBdOt) | 2:53 |
+| 56 | [Sueño Rural](https://open.spotify.com/track/5lcDiS13pwBrN3kaWTO9pS) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Nubes Opus](https://open.spotify.com/album/2sHE3Kq75uajqwYacHBdOt) | 2:53 |
+| 57 | [Soothing Rainstorm](https://open.spotify.com/track/4yGdvX8sK6y8OMEQZZi9c7) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:55 |
 | 58 | [Soft Rain](https://open.spotify.com/track/3PgYjMLCWnbwaav90tNud0) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:50 |
 | 59 | [Rain throughout the Day](https://open.spotify.com/track/2LdwiQegqzF99iBr0foZr0) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 |
 | 60 | [Nordic Drops](https://open.spotify.com/track/1Pj1RuUGYtwIRAx5KK4f5e) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:22 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdr85jQlDL6f.md) - [plain]
 | 67 | [Breeze Rain](https://open.spotify.com/track/7DT43PWmrMGgPLYlP1CIey) | [Wet Rain 3AM](https://open.spotify.com/artist/4IdG84VRCzsDUbDTaLZT2d) | [More Rain](https://open.spotify.com/album/0Q1B0Feeqyc8rwoDQ6CVK9) | 3:15 |
 | 68 | [Rain in April](https://open.spotify.com/track/4sCp0NnDBe1jk65h6vaQ8E) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Rain In April](https://open.spotify.com/album/06RODHgMWnkqDdWAT2cMkC) | 3:32 |
 | 69 | [Crispy Rain](https://open.spotify.com/track/04uytXigV9aexEvfwbxU0C) | [Van Hailin'](https://open.spotify.com/artist/5US0y9Gj4DHIetQZYaZOMT) | [Under The Weather](https://open.spotify.com/album/4wfVuP6MPS1LafpLbEjN6F) | 2:14 |
-| 70 | [Peaceful Rain](https://open.spotify.com/track/0FMtY31utCdCUgSw0m86Yn) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:25 |
+| 70 | [Window Siesta](https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM) | [Raindog](https://open.spotify.com/artist/1grnh5vd3P1gDqLQbU8MdM) | [Peaceful Weekend](https://open.spotify.com/album/4FGn0wRLgoqt4OXPkvMywa) | 2:42 |
 | 71 | [Wind Through the Trees on a Rainy Night on a Field](https://open.spotify.com/track/7kz4OkjwVcSHiiJuYrr2DJ) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:15 |
-| 72 | [Window Siesta](https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM) | [Raindog](https://open.spotify.com/artist/1grnh5vd3P1gDqLQbU8MdM) | [Peaceful Weekend](https://open.spotify.com/album/4FGn0wRLgoqt4OXPkvMywa) | 2:42 |
+| 72 | [Peaceful Rain](https://open.spotify.com/track/0FMtY31utCdCUgSw0m86Yn) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:25 |
 | 73 | [Sanur \(Rain\)](https://open.spotify.com/track/7kULnoSgYN5pv86XwmKmiA) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:50 |
-| 74 | [Rainy Street In Dublin](https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:38 |
-| 75 | [Rest In A Rainforest](https://open.spotify.com/track/3irHoiM1C9EUMbUhsXmcGe) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Rest In A Rainforest](https://open.spotify.com/album/6qaL64xAGf4ya89P94G97H) | 3:15 |
+| 74 | [Rest In A Rainforest](https://open.spotify.com/track/3irHoiM1C9EUMbUhsXmcGe) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Rest In A Rainforest](https://open.spotify.com/album/6qaL64xAGf4ya89P94G97H) | 3:15 |
+| 75 | [Rainy Street In Dublin](https://open.spotify.com/track/4IAsQO2w2UgSlyIKXMwkl6) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:38 |
 
-Snapshot ID: `MCw4ZTU0YzY0N2Q0NmFlMzQzZTQ3MDMwMDNlNWUzM2ViYTE5OGJjZDEy`
+Snapshot ID: `MCwyMmNiZmVhN2U1ODRiNGNmODI5N2I3YjkzYTVjOThmYzU2NzAyMjFm`

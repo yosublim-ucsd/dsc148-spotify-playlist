@@ -2,7 +2,7 @@
 
 ### [PURO SUCO DE BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aquele mexidão envolvente que o brasileiro ama / Foto: Mc Livinho
+> aquele mexidão envolvente que o brasileiro ama / Foto: Luan Pereira, MC Ryan SP, Mc Daniel
 
 136 songs - 6 hr 17 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 40302,
+  "num_followers": 40324,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWZhZTdiZmZkZWRmYWYwYjE1ZjgxOGIyMDM4ZjExYTMxNTMxMjNk",
+  "snapshot_id": "MCwyZjYyN2YzYzhmNzkwN2RhYjMwZDFkZjBhZDUzODAxMmJmZTRjODIw",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -543,22 +543,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Giblet Gravy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Songs For Distingu\u00e9 Lovers",
         "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 333200,
       "name": "Just One Of Those Things - Take 8 - Master Take",
       "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Blues Caravan",
-        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich And His Sextet",
-          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
-        }
-      ],
-      "duration_ms": 580573,
-      "name": "Caravan",
-      "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Buddy And Sweets",
@@ -751,6 +735,22 @@
       "duration_ms": 244706,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "duration_ms": 580573,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "Ruint",
-      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
@@ -855,6 +839,22 @@
       "duration_ms": 251640,
       "name": "Miss Fine",
       "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Ruint",
+      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Blues Caravan",
-        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich And His Sextet",
-          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "BR Blues",
-      "url": "https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Quiet",
@@ -1107,6 +1091,22 @@
       "duration_ms": 300306,
       "name": "Tulle",
       "url": "https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "BR Blues",
+      "url": "https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Lester Swings",
-        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Lester Swings",
-      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 333800,
       "name": "Moonlight (Claro de Luna)",
       "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Lester Swings",
+        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Lester Swings",
+      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Fred Astaire Sings & Swings Irving Berlin",
-        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
-      },
-      "artists": [
-        {
-          "name": "Fred Astaire",
-          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
-        }
-      ],
-      "duration_ms": 338826,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Giblet Gravy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 332733,
       "name": "What's New?",
       "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Fred Astaire Sings & Swings Irving Berlin",
+        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "duration_ms": 338826,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Flip Wails: The Best Of The Verve Years",
-        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
-      },
-      "artists": [
-        {
-          "name": "Flip Phillips",
-          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Singin' In The Rain",
-      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Lester Swings",
         "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 353026,
       "name": "Ad Lib Blues",
       "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Flip Wails: The Best Of The Verve Years",
+        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
+      },
+      "artists": [
+        {
+          "name": "Flip Phillips",
+          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Singin' In The Rain",
+      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
     },
     {
       "added_at": "2019-10-04 16:01:14",

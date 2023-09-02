@@ -1243,6 +1243,28 @@
     },
     {
       "album": {
+        "name": "Can Can",
+        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
+      },
+      "artists": [
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128812,
+      "name": "Can Can",
+      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
+    },
+    {
+      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/24KSJMqOVqscu18lS9KB4o"
       },

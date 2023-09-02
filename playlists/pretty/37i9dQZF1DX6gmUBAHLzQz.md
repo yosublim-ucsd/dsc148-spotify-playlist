@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,149 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,163 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 49 | [同じ地球のしあわせに](https://open.spotify.com/track/3BGeFbvcdmJVEO2w566uRD) | [えり from STAR☆ANIS](https://open.spotify.com/artist/6ZwHtbx1PROrUIPxNJPqtL) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS6](https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw) | 5:17 |
 | 50 | [STARDOM!](https://open.spotify.com/track/2QTw7OOyAmFjrVPd3nqsto) | [せな](https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd), [りえ](https://open.spotify.com/artist/2qUnKtWqhckozatgC7mEpM) | [アイカツ！シリーズ 10th Anniversary Album Vol.04「Rainbow Canvas」](https://open.spotify.com/album/1toLgIICtmqLpFrlybuV05) | 4:32 |
 
-Snapshot ID: `MCwyMzEwZjhiMmY5ZDJlZjQ3ZDcwNDQ4NGI5NGM0OGI0MTY0YmNlMTUx`
+Snapshot ID: `MCxlYTJmM2JlZTYzYjYzMGYyYjczN2MxMDBkZjU5YzUwYWM4M2Y2MWM2`

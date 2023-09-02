@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-187 songs - 9 hr 47 min
+188 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-05-11 | 2023-05-09 |
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-05-11 | 2023-05-09 |
 | [Tabasco](https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn) | [BASE](https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf) | [Tabasco](https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs) | 2:09 | 2022-04-07 | 2022-05-12 |
+| [Tambor](https://open.spotify.com/track/2ZoAuTpYHBf9dXlAU9YQTk) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Tambor](https://open.spotify.com/album/25JI1EXm2T6NQTIeYlpOVd) | 2:15 | 2023-09-01 |  |
 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 | 2023-05-08 |  |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2023-05-08 |  |
 | [Tengo Ganas De Ti \(feat\. Jeferson Miranda\)](https://open.spotify.com/track/4ZIeiVDTTYvbZE4BhehQv5) | [Antonio Sagrero](https://open.spotify.com/artist/5DAKth4Evz4tQcA6Lc1sVv), [Abbsolut](https://open.spotify.com/artist/6kb3XQy1RIqL58U53r46Bf), [Jose Blanco](https://open.spotify.com/artist/7L7ur1XM3DRiorgEQGto9k), [Jeferson Miranda](https://open.spotify.com/artist/4iwxOwHQxgKj6CdEMCz079) | [Tengo Ganas De Ti \(feat\. Jeferson Miranda\)](https://open.spotify.com/album/1NYZLGlVu2gisqlDamXJKK) | 5:01 | 2022-04-07 | 2022-05-12 |

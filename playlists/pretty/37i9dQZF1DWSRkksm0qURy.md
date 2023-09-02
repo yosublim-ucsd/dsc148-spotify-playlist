@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > Immersive sacral solfeggio frequencies
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,887 likes - 78 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,961 likes - 78 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 16 | [417 Hz \- Why The Rush](https://open.spotify.com/track/4kGgvet4UW9oOZKTlpY3ic) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 |
 | 17 | [Solfeggio Frequencies 417 Hz](https://open.spotify.com/track/1QXGDHadzECcysKNMZvOrN) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/7kzeMhrQC35t2RwRYyAWW1) | 2:40 |
 | 18 | [Sagebrush Steppe](https://open.spotify.com/track/5vuAtprbe8kjt9AICSgxn2) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Grass Waves](https://open.spotify.com/album/5JJ5XOFr3CPeAI2xuYjANv) | 3:26 |
-| 19 | [417 Hz \- Clarity Solfeggio](https://open.spotify.com/track/0vcQC2BXrMx8vZ3M7BAnow) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 4:01 |
+| 19 | [417 Hz \- Clarity Solfeggio](https://open.spotify.com/track/0vcQC2BXrMx8vZ3M7BAnow) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 4:01 |
 | 20 | [The Sacred \(417 Hz\)](https://open.spotify.com/track/4Ty6BpzqZfAEetSMV6cAn2) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Intentional Impact](https://open.spotify.com/album/6nuc9pLSPyY5gJ0XOU8t6L) | 3:25 |
 | 21 | [Changes 417 Hz](https://open.spotify.com/track/7gv2mCKOqGKBair4WZcos5) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:09 |
 | 22 | [In Stillness](https://open.spotify.com/track/3Ig6hAfTh8DMPDm4qdJvDD) | [Aksel Hvitfeldt](https://open.spotify.com/artist/5mDMUto7iSJACsjZ1JPSEr) | [In Stillness](https://open.spotify.com/album/7MuvrqjJrvErUhuFEe4xb9) | 2:42 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 77 | [Embracement \- 417 Hz](https://open.spotify.com/track/4lUDuLAGdCnhHTbwG7VPpN) | [Originem](https://open.spotify.com/artist/4B7JO2XuZz3Jivh8he8VWD) | [Origin of Us](https://open.spotify.com/album/4LHxyg0Xh4f0HRXZvQLRak) | 3:47 |
 | 78 | [Universal Energy Healing](https://open.spotify.com/track/08GAV65HlXdgVGIrA0JmGM) | [Healing Music Studio](https://open.spotify.com/artist/3slkAZjNjou8jXczSnZ51u) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/5EJ6ANuXXrCXfvUs6QvfqS) | 3:24 |
 
-Snapshot ID: `MCw1NWEyZDM2N2ZiYjJlN2M1NDBiYzY5YjRjNjQzMTlhMWMzNGI3ZDUx`
+Snapshot ID: `MCw2MTIxMDhlYmI5NjliOThlYTEzMGNhODAxMzFmMWQ1NWJhYWE1YTRk`

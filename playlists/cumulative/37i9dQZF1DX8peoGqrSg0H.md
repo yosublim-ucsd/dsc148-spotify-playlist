@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: JAOKHUN
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: War Wanarat
 
-371 songs - 22 hr 18 min
+373 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [So Big](https://open.spotify.com/track/6QB644JBem2AXeb3q4OLtT) | [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [Yours <3](https://open.spotify.com/album/3VUPo0U0ZShcYi1wmTipRr) | 3:04 | 2022-06-09 | 2022-06-17 |
 | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/track/5jVORmIjCd1TtTKARCDmKC) | [Kacha Nontanun](https://open.spotify.com/artist/0F2sO0QaLK1iakw7sR80xB) | [SPARE เมื่อไหร่ก็มานะ](https://open.spotify.com/album/2HaGQLrPaPdJMBdvnXFjLu) | 4:17 | 2022-06-09 | 2022-06-17 |
 | [SPIDERMAN](https://open.spotify.com/track/36ZiiKPdshTuQ1tj6eO92J) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [SPIDERMAN](https://open.spotify.com/album/2YzrYq11rFiivZ7jKck6Pk) | 2:48 | 2023-02-23 | 2023-03-10 |
-| [STOP!](https://open.spotify.com/track/6M2KvQJwWr8U7N9OfObbFP) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 3:51 | 2023-08-04 |  |
+| [STOP!](https://open.spotify.com/track/6M2KvQJwWr8U7N9OfObbFP) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Data Storage](https://open.spotify.com/album/2mQYy1FYHUEuQSrJPO6BDI) | 3:51 | 2023-08-04 | 2023-09-02 |
 | [Sugar](https://open.spotify.com/track/2KmI7WNZSwdCvED5YQGFOP) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Sugar](https://open.spotify.com/album/55TxK1Pst6fFWplVbRKuTQ) | 3:21 | 2023-02-02 | 2023-02-11 |
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2022-05-26 | 2022-10-27 |
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
@@ -86,6 +86,7 @@
 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 | 2022-05-26 | 2022-06-17 |
 | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/track/7EtCnq7brD1RU8ldqKWB0I) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [กลับก่อนนะ \(GOODBYE\)](https://open.spotify.com/album/2507HhYDLaRcCcJMX7lh8C) | 4:00 | 2022-05-26 | 2022-12-09 |
 | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [กลับมาคบกันเถอะ \(Please Please\)](https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH) | 3:28 | 2022-10-04 |  |
+| [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/track/2dSX5yD0y88IiRBqrVkOWH) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [กลับไปไม่รู้จักกัน \(Original Soundtrack "องศาสูญ"\)](https://open.spotify.com/album/7kKdaEyJr5OlvMWjZ1nqir) | 4:04 | 2023-09-01 |  |
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-08-25 | 2022-09-24 |
 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 | 2022-05-26 | 2022-07-23 |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-05-25 |  |
@@ -125,6 +126,7 @@
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-10 |  |
 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2022-05-26 | 2023-04-20 |
 | [จาดาดา \(JADADA\)](https://open.spotify.com/track/0KnqCih8gZebEwtXfAxu4A) | [BIZCUITBEER](https://open.spotify.com/artist/6LbLXtLErcsT15O3dEqPyM) | [จาดาดา \(JADADA\)](https://open.spotify.com/album/3a28ry6dCtibdepifhAodi) | 2:48 | 2022-08-11 | 2022-08-19 |
+| [จำลอง](https://open.spotify.com/track/5mCDuTHo8As0AOttQZ6WKS) | [War Wanarat](https://open.spotify.com/artist/3jDWLrSLvyA7MpfA4DshiJ), [FHERO](https://open.spotify.com/artist/71YhEh6Jh1Y7N0hkTMOGpY) | [จำลอง](https://open.spotify.com/album/6vMcdxVF7R6GRNc48CwZur) | 4:18 | 2023-09-01 |  |
 | [จำเก่ง \(Slipped Your Mind\)](https://open.spotify.com/track/1iK2nyld8wTLJv2dRIowSY) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [จำเก่ง \(Slipped Your Mind\)](https://open.spotify.com/album/2BKeUulZXv8hntkksz0V0w) | 3:40 | 2022-05-26 | 2022-08-26 |
 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 | 2022-05-26 | 2022-07-24 |
 | [จินตนาการ](https://open.spotify.com/track/5dJ0BoobBBkSIDm7yeXZZ1) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [จินตนาการ](https://open.spotify.com/album/5FX1VjfySHopZxJt4icIPu) | 3:25 | 2022-07-28 | 2022-08-19 |
@@ -365,7 +367,7 @@
 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 | 2022-10-28 |  |
 | [ไม่ต้องคิดถึงฉัน](https://open.spotify.com/track/2cfCJjWrK5z2cYg9hzjSx2) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ไม่ต้องคิดถึงฉัน](https://open.spotify.com/album/1Gx38T6KW5mqd0sl8MSBn3) | 3:39 | 2022-08-11 | 2022-08-26 |
 | [ไม่น่ารักรึเปล่า \(Naughty boy\) Feat\. BONNADOL](https://open.spotify.com/track/0G8DwcIYO47JA5KcW1QwcO) | [CINCIN IRADA](https://open.spotify.com/artist/3bqEpQrRxvblzV4PopBbgK) | [ไม่น่ารักรึเปล่า \(Naughty boy\) Feat\. BONNADOL](https://open.spotify.com/album/4YkMIz5y4V4bsE3THOuEwY) | 3:46 | 2022-05-26 | 2022-06-03 |
-| [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 | 2022-05-26 |  |
+| [ไม่พิเศษ](https://open.spotify.com/track/0b60FpB5Z8zm829xnET7t3) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่พิเศษ](https://open.spotify.com/album/5fT12K1hCBKxCxZhqxJAET) | 3:28 | 2022-05-26 | 2023-09-02 |
 | [ไม่มีกั๊กหรอก \(Unlimited\)](https://open.spotify.com/track/4rU6bimKj6hJFFKRd3iiGz) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7), [54 Entertainment Trainees](https://open.spotify.com/artist/6douJMquLUNMd7wp0P1esZ) | [ไม่มีกั๊กหรอก \(Unlimited\)](https://open.spotify.com/album/5EpuJLJG6Y9oiN037ZKzye) | 3:31 | 2022-12-23 | 2023-01-27 |
 | [ไม่ยินดี](https://open.spotify.com/track/4OHu1M6xtQLkgTSao8nYS3) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [ไม่ยินดี](https://open.spotify.com/album/0Ifu2SC417RilqteSg2vns) | 3:53 | 2022-05-26 | 2022-10-27 |
 | [ไม่รับความเห็นต่าง \(U R Mine\)](https://open.spotify.com/track/3v5t1e2XeLtJoZDENzdanb) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ไม่รับความเห็นต่าง \(U R Mine\)](https://open.spotify.com/album/6msk0pybxXr877JwlHb7LA) | 3:22 | 2023-01-26 |  |

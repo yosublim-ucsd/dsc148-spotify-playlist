@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Job Kurian
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,378 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,441 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kaalatheneet](https://open.spotify.com/track/4XG8H0mprQswdfTgHJuXnM) | [Gandharvaas](https://open.spotify.com/artist/1M2l82GcrRrEvAVs2Ct5b4) | [Kaalatheneet](https://open.spotify.com/album/304vvgVA1WDx9y0goP7SD9) | 3:10 |
-| 2 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 |
+| 1 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 |
+| 2 | [Travelling Gypsies](https://open.spotify.com/track/3mZdRWYIURgCCBkjTWXxJa) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Travelling Gypsies](https://open.spotify.com/album/0FS1GmvP4O1D7RF6QlHK5C) | 5:10 |
 | 3 | [Arutharuthu](https://open.spotify.com/track/2pg3DGVU7eKaoBeDVC8o2P) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Rithu](https://open.spotify.com/album/1Q7ieGfKYonq3H7f6DzDnn) | 4:27 |
-| 4 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 |
+| 4 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 |
 | 5 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 |
 | 6 | [Kaadum Malayum \- Namah](https://open.spotify.com/track/2HjByV001SgJfWwKj9WQBA) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 5:52 |
 | 7 | [Chekele](https://open.spotify.com/track/0qQbAdaUAXz3niHgqKL6Xj) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:01 |
 | 8 | [Fish Rock](https://open.spotify.com/track/5N1ede3QcEvtJNtM1een6B) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Fish Rock](https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv) | 4:19 |
-| 9 | [Travelling Gypsies](https://open.spotify.com/track/3mZdRWYIURgCCBkjTWXxJa) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Travelling Gypsies](https://open.spotify.com/album/0FS1GmvP4O1D7RF6QlHK5C) | 5:10 |
-| 10 | [Maanju Poyi](https://open.spotify.com/track/0FziXBnfNclTU9uPFVU0q7) | [Entercone](https://open.spotify.com/artist/31IIGfZnnpIWzVph2zKGkG) | [Maanju Poyi](https://open.spotify.com/album/1wLrzYfialQYyTw6vAxFu6) | 4:33 |
-| 11 | [Nee Aara](https://open.spotify.com/track/5bmr1bA6jmwPyWIoZVcgSa) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nee Aara](https://open.spotify.com/album/30y65kQtOzKiEbn7qfbOsA) | 3:44 |
+| 9 | [Maanju Poyi](https://open.spotify.com/track/0FziXBnfNclTU9uPFVU0q7) | [Entercone](https://open.spotify.com/artist/31IIGfZnnpIWzVph2zKGkG) | [Maanju Poyi](https://open.spotify.com/album/1wLrzYfialQYyTw6vAxFu6) | 4:33 |
+| 10 | [Nee Aara](https://open.spotify.com/track/5bmr1bA6jmwPyWIoZVcgSa) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nee Aara](https://open.spotify.com/album/30y65kQtOzKiEbn7qfbOsA) | 3:44 |
+| 11 | [Kaalatheneet](https://open.spotify.com/track/4XG8H0mprQswdfTgHJuXnM) | [Gandharvaas](https://open.spotify.com/artist/1M2l82GcrRrEvAVs2Ct5b4) | [Kaalatheneet](https://open.spotify.com/album/304vvgVA1WDx9y0goP7SD9) | 3:10 |
 | 12 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 |
 | 13 | [Navarasam](https://open.spotify.com/track/6w53UWYxXvQv5nU7GdNz1w) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 6:34 |
 | 14 | [Pooram \- From "Think Specials"](https://open.spotify.com/track/05ipt7R52WNXApEurABdOJ) | [RHYTHOM](https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu) | [Pooram \(From "Think Specials"\)](https://open.spotify.com/album/0aO4EHRsIN96DOWrYxMjIS) | 3:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 59 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 |
 | 60 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 |
 
-Snapshot ID: `MCwxYjNjMGEwMTAwMzNhNGRjNTZhZjY1YzU5NzU4MzU1Yzk1NDczYzlh`
+Snapshot ID: `MCwyODRkNjcwMTA3Yzc0ZWRiZGQxY2U4YTE1N2Y5ZDI3NjA0MDI5OTc0`

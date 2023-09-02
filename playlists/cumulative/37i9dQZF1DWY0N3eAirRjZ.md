@@ -4,7 +4,7 @@
 
 > Please consider donating to Hawai'i Community Foundation's <a href="https://www.hawaiicommunityfoundation.org/maui\-strong?fbclid=IwAR13k\_bWcOzvA0EM6bF6CSmkSktK8G\[%E2%80%A6\]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui.
 
-75 songs - 4 hr 43 min
+78 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ka Makani Ka'ili Aloha](https://open.spotify.com/track/1PixVvyOPz9LWBJAVUnVfP) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby](https://open.spotify.com/album/3L1Dl7Nd63jKDQ3eTWfzkQ) | 2:53 | 2022-05-02 |  |
 | [Ka Uluwehi O Ke Kai](https://open.spotify.com/track/2rM6AcX6kgljFsVYSplNdW) | [Edith Kanaka'ole](https://open.spotify.com/artist/3GXiLen9s3pxDqeCYUiYdo), [Don McDiarmid, Jr.](https://open.spotify.com/artist/0CHzW9ItbXe4NgyhJH6Scp) | [Don McDiarmid, Jr\. Presents: Hula Records' Hits!](https://open.spotify.com/album/5p86JG9vj4i2Ie35S3ZFPg) | 5:00 | 2022-05-02 |  |
 | [Kaua'I Beauty](https://open.spotify.com/track/4ZATv5J2rmfnj3mta0qBAe) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Rabbit Island Music Festival](https://open.spotify.com/album/6lINMX2Lg6bcCmZKw69OXQ) | 3:29 | 2022-05-02 |  |
+| [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 | 2023-09-01 |  |
 | [Kawohikukapulani](https://open.spotify.com/track/169se8C2wnc9nSEspeNsag) | [Robi Kahakalau](https://open.spotify.com/artist/1qXPmO8voLWvytAkh7ffuP) | [Robi Calling](https://open.spotify.com/album/0TFTUwSIwkNZigONKD5ovm) | 2:36 | 2022-05-02 |  |
 | [Ke Kuko E Ka Manawa](https://open.spotify.com/track/0MmoH7CeEX43zEYfI2YHxd) | [Natalie Ai Kamauu](https://open.spotify.com/artist/2xNjvgxtzsBxo3iAyrxGux) | [Eia](https://open.spotify.com/album/3TVoC0p4iQP3aFSE4yaADG) | 3:22 | 2022-05-02 |  |
 | [Ku'u Lei Awapuhi](https://open.spotify.com/track/2l0zhAFbn7mELo8sCXbXcT) | [Hapa](https://open.spotify.com/artist/3w0M90LteiOnPZkklwQPqZ) | [HAPA](https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De) | 4:38 | 2022-05-02 |  |
@@ -48,7 +49,9 @@
 | [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Kīkā Kila Meets Kī Hō'alu](https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid) | 4:39 | 2022-05-02 |  |
 | [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/10sYxXLdFfPn93JPVBUBfL) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 4:38 | 2022-10-14 | 2022-11-13 |
 | [Lei Pikake](https://open.spotify.com/track/7xZZlNe5OhKQmrPvj5E6E6) | [Hapa](https://open.spotify.com/artist/3w0M90LteiOnPZkklwQPqZ) | [HAPA](https://open.spotify.com/album/5WIrLJC5sC3AQvLzoMh1De) | 5:29 | 2022-05-02 |  |
+| [Lover Tonight](https://open.spotify.com/track/3TQm7m9rIQI7C5A5p78aG2) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [Summertime EP](https://open.spotify.com/album/1gGlsw6KLGCvC3lMaNMWW9) | 4:09 | 2023-09-01 |  |
 | [Manu Kapalulu](https://open.spotify.com/track/6EJ580b3P2Xa1r5b9xuJLp) | [Ku'uipo Kumukahi](https://open.spotify.com/artist/2K7KDGiQOUiroJaJYWPyGS) | [Na Lani 'Eha](https://open.spotify.com/album/0fTOKGeG9xw0YDwWiORmaT) | 4:02 | 2022-05-02 |  |
+| [Masese](https://open.spotify.com/track/6hs4GGBUTETtNC41YAdKQJ) | [Kapena](https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61) | [Destinations](https://open.spotify.com/album/6ZoPZ5dkmEhZSuWgIT2NIV) | 3:34 | 2023-09-01 |  |
 | [Mauna Kea](https://open.spotify.com/track/54svKMHlutnBrUsEOHubNx) | [Eddie Kamae And The Sons Of Hawai\`i](https://open.spotify.com/artist/1CLvn8aRUUOP99CHGbDJ9D) | [The Best of Sons of Hawaii \- Vol\. 1](https://open.spotify.com/album/3StaEONhQtqYpNNjsTiHBd) | 2:50 | 2022-05-02 |  |
 | [Maunaleo](https://open.spotify.com/track/503mB92m3gvzgiN4tXa3Ab) | [Keali'i Reichel](https://open.spotify.com/artist/5QieUEtijtUF3ABBp5JVYP) | [Melelana](https://open.spotify.com/album/6CdeMbz0vKvrM1lgLJMj0S) | 4:40 | 2022-05-02 |  |
 | [Moonlight Lady](https://open.spotify.com/track/1HOMw6a7ywU1AiFMIS7FcV) | [Gabby Pahinui](https://open.spotify.com/artist/2Ju4D1DqBETuLI2hAsoqHu) | [Gabby Pahinui Hawaiian Band, Vol\. 1](https://open.spotify.com/album/2mAXdR3BgOOvQCmRKsLecw) | 4:23 | 2022-05-02 |  |

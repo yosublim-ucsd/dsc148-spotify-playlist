@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Piezas cl\u00e1sicas para relajarte y dejarte llevar.",
+  "description": "Chilled classical tunes to help you relax and unwind.",
   "name": "Chilled Classical",
   "tracks": [
     {
@@ -1120,6 +1120,24 @@
       "duration_ms": 284853,
       "name": "DANCE: I. when you're broken up",
       "url": "https://open.spotify.com/track/7xUMMOKO7UrqKa7x4XqaKa"
+    },
+    {
+      "album": {
+        "name": "Dancing Lights",
+        "url": "https://open.spotify.com/album/380TWv1sOwMrWeaohwZ6iz"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117613,
+      "name": "Dancing Lights",
+      "url": "https://open.spotify.com/track/08MwyLIBvGrNXgIPYWifk4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Faz um Vuk Vuk e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Kevin o Chris, DJ Nk da Serra",
+  "description": "Jovens Milhon\u00e1rios e os funks mais \ud83d\udd11 do Brasil. Foto: MC PH",
   "name": "Funk Hits",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 129776,
       "name": "Automotivo Bibi Fogosa",
       "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
@@ -1151,6 +1151,32 @@
     },
     {
       "album": {
+        "name": "DENTRO DA HILUX",
+        "url": "https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "DENTRO DA HILUX",
+      "url": "https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI"
+    },
+    {
+      "album": {
         "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
         "url": "https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4"
       },
@@ -1222,7 +1248,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 208941,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
@@ -3285,6 +3311,48 @@
     },
     {
       "album": {
+        "name": "Ol\u00e1 Mercedes",
+        "url": "https://open.spotify.com/album/14Sy7NRQvXt90cKIu6MCFr"
+      },
+      "artists": [
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395294,
+      "name": "Ol\u00e1 Mercedes",
+      "url": "https://open.spotify.com/track/0a3hjvUXenNxbCknm0zpOh"
+    },
+    {
+      "album": {
         "name": "O Que O Igor Guilherme Anda Pensando ?",
         "url": "https://open.spotify.com/album/7kZteNKgJng7xIhjvTY1Zg"
       },
@@ -3674,7 +3742,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 139153,
       "name": "Primeiro Beck Ela Me Mamou",
       "url": "https://open.spotify.com/track/4QQTPEwqE4Aq7LXSyIgSci"
@@ -3884,6 +3952,32 @@
       "duration_ms": 146823,
       "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
+    },
+    {
+      "album": {
+        "name": "Quem Vai Patrocinar?",
+        "url": "https://open.spotify.com/album/5JDCux8tBXgrVDrCXDt6jb"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227294,
+      "name": "Quem Vai Patrocinar?",
+      "url": "https://open.spotify.com/track/7cIdk9sqiABl2I41wcLiML"
     },
     {
       "album": {

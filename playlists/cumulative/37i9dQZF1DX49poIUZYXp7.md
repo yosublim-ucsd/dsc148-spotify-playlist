@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Hailey Whitters
+> The extraordinary women making great country music today\. Cover: Morgan Wade
 
-335 songs - 18 hr 19 min
+336 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Pick Me Up](https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Pick Me Up](https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5) | 2:49 | 2021-12-01 |  |
 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 | 2022-03-01 |  |
 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 | 2021-12-01 | 2022-07-13 |
+| [Psychopath](https://open.spotify.com/track/5NSxztBZOUJAGGnvdh4JMs) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:28 | 2023-09-01 |  |
 | [Queens Don't](https://open.spotify.com/track/0ExiKxfY5rHBW06TcV1xXU) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Queens Don't](https://open.spotify.com/album/7KoovpscXVlfyQdklbirMC) | 3:05 | 2021-12-01 | 2022-03-02 |
 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 | 2022-03-25 | 2022-04-21 |
 | [Record High](https://open.spotify.com/track/1eBEN4J2bVttJ62z2xIwua) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [California King](https://open.spotify.com/album/43shEMnLcqUq8ATewOTw4v) | 3:00 | 2022-02-04 | 2022-05-15 |
@@ -233,7 +234,7 @@
 | [Safe](https://open.spotify.com/track/7Hzfq1oa2I3fACCSIP4SMN) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Safe](https://open.spotify.com/album/4vC4o3WtfvJ7BcQrlQGDOi) | 3:19 | 2021-12-01 | 2022-04-19 |
 | [Same Car](https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Same Car](https://open.spotify.com/album/18QJ8qka8jU6I9P4SAgmGo) | 3:39 | 2023-05-05 |  |
 | [Say It First](https://open.spotify.com/track/1rIzZXLoXTMXif9IKAoqvc) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Say It First](https://open.spotify.com/album/6icFOHKNtZPLyUimlFFCSA) | 3:20 | 2021-12-01 | 2022-04-21 |
-| [Sayin' What I'm Thinkin'](https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:21 | 2021-12-01 |  |
+| [Sayin' What I'm Thinkin'](https://open.spotify.com/track/0Hhb848NsTCRTqi3Fm6C79) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:21 | 2021-12-01 | 2023-09-02 |
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-06-01 | 2023-03-02 |
 | [self care.](https://open.spotify.com/track/6LquGHxKryERHadmNCaQrE) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 2:19 | 2022-09-23 | 2023-06-03 |
 | [Selfish](https://open.spotify.com/track/71iRqMLlOmowRrAK1ZkjOB) | [Shae Dupuy](https://open.spotify.com/artist/5m32rAyDfE2NKMRrOhc0L0) | [Selfish](https://open.spotify.com/album/66gju6259kmYi4puVpwWpI) | 3:15 | 2022-03-25 | 2022-04-15 |
@@ -291,7 +292,7 @@
 | [Therapy](https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy](https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik) | 2:50 | 2022-03-01 | 2022-08-05 |
 | [There Is No Arizona](https://open.spotify.com/track/7Hgcw6qYU1ukRdRGvEkJk3) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Shiver](https://open.spotify.com/album/3Uzu7TMSJiHQNqkIEYFMjb) | 3:56 | 2021-12-01 | 2022-07-01 |
 | [These Days](https://open.spotify.com/track/1EEhU59CbUAW8TaLpxqNNZ) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 2:52 | 2021-12-01 | 2022-11-13 |
-| [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 | 2023-06-09 |  |
+| [Thick As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 | 2023-06-09 |  |
 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2022-07-22 |  |
 | [Things A Man Oughta Know](https://open.spotify.com/track/7cwKO3SvjCpTyLiIWfnxpx) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Redneck Hollywood](https://open.spotify.com/album/613QlECyZpEDa6DTgkNAJ6) | 3:26 | 2021-12-01 | 2022-07-29 |
 | [Thirties](https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Thirties](https://open.spotify.com/album/32CSNCbnIaystWrhGeG2Ia) | 3:23 | 2021-12-01 | 2022-07-04 |

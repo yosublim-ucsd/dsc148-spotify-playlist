@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"https://www.thestellarawards.com/index.html\">Stellar Award</a> winning artist <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e\">Pastor Mike Jr.</a>.",
-  "num_followers": 58808,
+  "num_followers": 58868,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTAzMTM1NjZiMmYxNWQ0OGJiNjE0NDk1NDQ2MzhlZmUxOGJhNzM1",
+  "snapshot_id": "MCw4MGI4ZTg2YTc2OWQyM2MyYzRhM2QyNmMwYzljNTc3NGY1YTAxNGZl",
   "tracks": [
     {
       "added_at": "2023-07-13 07:29:04",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Back To Life (Studio Version)",
-        "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 253077,
-      "name": "Back To Life - Studio Version",
-      "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "RICH",
         "url": "https://open.spotify.com/album/5P1RmCAG4yB80keglreodA"
       },
@@ -447,18 +427,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+        "name": "Back To Life (Studio Version)",
+        "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+      "duration_ms": 253077,
+      "name": "Back To Life - Studio Version",
+      "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -475,6 +459,22 @@
       "duration_ms": 405912,
       "name": "He Understands",
       "url": "https://open.spotify.com/track/4e8QBO7h3dqLmPukNuE6Qi"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Renown",
-        "url": "https://open.spotify.com/album/1ZDo0cHB13rmsNADYajGY2"
-      },
-      "artists": [
-        {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
-        }
-      ],
-      "duration_ms": 270374,
-      "name": "Renown",
-      "url": "https://open.spotify.com/track/0zWrUnuH7OCjXEEJzefARV"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "This I Know",
         "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 168236,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Renown",
+        "url": "https://open.spotify.com/album/1ZDo0cHB13rmsNADYajGY2"
+      },
+      "artists": [
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        }
+      ],
+      "duration_ms": 270374,
+      "name": "Renown",
+      "url": "https://open.spotify.com/track/0zWrUnuH7OCjXEEJzefARV"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Mr. McClure",
         "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 360486,
       "name": "Winning",
       "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "High Noon",
+        "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
+      },
+      "artists": [
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "duration_ms": 130679,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Enemies and Foes",
         "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 225000,
       "name": "Ultimate Self",
       "url": "https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "High Noon",
-        "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
-      },
-      "artists": [
-        {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
-        }
-      ],
-      "duration_ms": 130679,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "The Fallen Movie Soundtrack",
         "url": "https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 178454,
       "name": "All the Time (Thinking Bout Me)",
       "url": "https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "PRIVILEGE",
-        "url": "https://open.spotify.com/album/4Dc7fgbSdGadbEAepsfYb3"
-      },
-      "artists": [
-        {
-          "name": "Experience Voices",
-          "url": "https://open.spotify.com/artist/0OYRW0ZUoU6EiaDjssH0UC"
-        },
-        {
-          "name": "A.I. The Anomaly",
-          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
-        }
-      ],
-      "duration_ms": 188163,
-      "name": "PRIVILEGE",
-      "url": "https://open.spotify.com/track/6odGwfkWyotCgqC7deWuna"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "HOLY GHOST",
         "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
       },
@@ -1515,18 +1495,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "WES",
-        "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
+        "name": "PRIVILEGE",
+        "url": "https://open.spotify.com/album/4Dc7fgbSdGadbEAepsfYb3"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "Experience Voices",
+          "url": "https://open.spotify.com/artist/0OYRW0ZUoU6EiaDjssH0UC"
+        },
+        {
+          "name": "A.I. The Anomaly",
+          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
         }
       ],
-      "duration_ms": 114155,
-      "name": "WES",
-      "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
+      "duration_ms": 188163,
+      "name": "PRIVILEGE",
+      "url": "https://open.spotify.com/track/6odGwfkWyotCgqC7deWuna"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1555,26 +1539,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "NO WORRIES",
-        "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
-      },
-      "artists": [
-        {
-          "name": "RED Hands",
-          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
-        },
-        {
-          "name": "Jermaine Dolly",
-          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "NO WORRIES",
-      "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17"
       },
@@ -1587,6 +1551,22 @@
       "duration_ms": 384255,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "WES",
+        "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 114155,
+      "name": "WES",
+      "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1607,6 +1587,26 @@
       "duration_ms": 181416,
       "name": "I's On Him",
       "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "NO WORRIES",
+        "url": "https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        },
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "duration_ms": 212615,
+      "name": "NO WORRIES",
+      "url": "https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm"
     },
     {
       "added_at": "2023-07-13 07:29:04",

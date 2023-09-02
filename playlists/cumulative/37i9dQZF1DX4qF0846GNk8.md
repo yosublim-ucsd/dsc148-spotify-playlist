@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=RhhjLiRhR\-Cdjct9GcCg4w"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=ZlFCm\_S1Rym6mkwcUEMILA"> عمر كمال </a>
 
-180 songs - 10 hr 57 min
+181 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [عيب لما اميزك وانت تيجي تخيب](https://open.spotify.com/track/1CJGek8OtoOU2UpNsrxOzZ) | [Omar Hefzy](https://open.spotify.com/artist/37HcYZ2Ut9iLVuEjoIsfUs), [Osha El Soghayar](https://open.spotify.com/artist/0XeE9hyikmXTzIvqrB6Mhc) | [عيب لما اميزك وانت تيجي تخيب](https://open.spotify.com/album/5emKkF3DSNPEUmrz7l5ldz) | 3:16 | 2022-10-25 | 2023-05-31 |
 | [عيد ميلاد](https://open.spotify.com/track/5jXrmO3gbEVhRTCQn3TGUs) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [عيد ميلاد](https://open.spotify.com/album/323DKyNQY9frSlejl10pdl) | 3:30 | 2022-07-30 | 2023-07-13 |
 | [غاب الاسد طلعو القرود](https://open.spotify.com/track/08kEEeT3SvUnc3qocmY173) | [Bodyykhaledd](https://open.spotify.com/artist/5iIuR1hkhyNJNzB9aVPbGj), [Hamo El Tekha](https://open.spotify.com/artist/7gXuIjsi4LJpF4NqaKQVby) | [غاب الاسد طلعو القرود](https://open.spotify.com/album/2KLIfl7WG4IDYJ3NnCJKA4) | 4:00 | 2022-10-16 | 2022-10-19 |
-| [غداره \- انا الي جي اصفي الحسابات](https://open.spotify.com/track/3KW1QFRZkVBtkDfZj5KidZ) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [غداره \(انا الي جي اصفي الحسابات\)](https://open.spotify.com/album/0VtvrPXFUPor6fhYXFHzbM) | 2:44 | 2023-08-20 |  |
+| [غداره \- انا الي جي اصفي الحسابات](https://open.spotify.com/track/3KW1QFRZkVBtkDfZj5KidZ) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [غداره \(انا الي جي اصفي الحسابات\)](https://open.spotify.com/album/0VtvrPXFUPor6fhYXFHzbM) | 2:44 | 2023-08-20 | 2023-09-02 |
 | [فارس جوه الحياة عايشها انا براحتي](https://open.spotify.com/track/5kgRWfqgVrklkiDOSCjLOo) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [فارس جوه الحياة عايشها انا براحتي](https://open.spotify.com/album/2waWqAoZxKBanvZnCV4sSK) | 4:38 | 2022-11-23 | 2023-01-13 |
 | [فتره و هتعدي](https://open.spotify.com/track/0eAQPO9lxQqc7F4BOy85As) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فتره و هتعدي](https://open.spotify.com/album/12sDRnt0r4O3pua8zStqni) | 3:51 | 2022-11-17 | 2023-08-21 |
 | [فتش فتش](https://open.spotify.com/track/6TuMXB9iHua2rzUmRtuwiY) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/3CMjbLQe3GRt0SMh8r0Ycm) | 3:58 | 2022-07-19 | 2022-10-25 |
@@ -170,6 +170,7 @@
 | [مهرجان فتشني يا باشا فتشني](https://open.spotify.com/track/5s3ADmOZs2OyLCN4dSBbHp) | [Ahmed El Dogary](https://open.spotify.com/artist/6zKcmNsQGGYiTZ0j8FRQK6), [Samer Elmedany](https://open.spotify.com/artist/1nt4fNK1UhJDil6gZzkBQp) | [مهرجان فتشني يا باشا فتشني](https://open.spotify.com/album/0yBrjrDSsZrmy7kc5sSBEW) | 3:09 | 2023-07-29 |  |
 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 | 2021-12-16 | 2023-07-13 |
 | [موديل باريس](https://open.spotify.com/track/1ezuOtgC76D3bRaDhrqu3S) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [موديل باريس](https://open.spotify.com/album/28rAKLhpEsCkz1A5nK02NG) | 3:17 | 2021-12-16 | 2022-11-24 |
+| [موسم النبر](https://open.spotify.com/track/4AVK152TXblWHpI88ZbIck) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [موسم النبر](https://open.spotify.com/album/2u1FFHbHWOveYiSZXF3SnD) | 2:28 | 2023-09-01 |  |
 | [ميت انا مش عارفني](https://open.spotify.com/track/0VIJ7iuAGCx9ZBwizKQ0aD) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ميت انا مش عارفني](https://open.spotify.com/album/3BqxinrFu0RiLtOe8URAVT) | 2:43 | 2022-10-16 | 2022-12-24 |
 | [ندمان يا باشا عارف انى غلطان](https://open.spotify.com/track/65m44BVw6gFWS9ep5hkjg9) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ندمان عارف يا باشا اني انا غلطان](https://open.spotify.com/album/2sazOwQENSqmf0TWo5oww7) | 4:15 | 2022-10-07 | 2023-01-03 |
 | [نص سيطو مني \( احنا صحاب بلادنا \)](https://open.spotify.com/track/7FhwM9XJeuVHbmpOcuZxxs) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [نص سيطو مني \( احنا صحاب بلدنا \)](https://open.spotify.com/album/1HQLxlzb8omGEwF5CreomA) | 3:04 | 2023-06-19 |  |

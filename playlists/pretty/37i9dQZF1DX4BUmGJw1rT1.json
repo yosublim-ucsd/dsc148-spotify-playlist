@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 64201,
+  "num_followers": 64267,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGI5MTQ1ZDZhYWI5MzA0YzU1ODk4ZmJmMmU3NWIxMWQwMzY5MDc4",
+  "snapshot_id": "MCw0NTY5NzRhZTIzZmUzODM0MTQ4MWIyY2Y0ODMyZjM1NDViNzc2N2I2",
   "tracks": [
     {
       "added_at": "2023-08-25 00:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Salt In My Wounds",
-      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Kingfish",
         "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 264811,
       "name": "Believe These Blues",
       "url": "https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Salt In My Wounds",
+      "url": "https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+        "name": "Long Road Ahead",
+        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+      "duration_ms": 202143,
+      "name": "Long Road Ahead",
+      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Long Road Ahead",
-        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 202143,
-      "name": "Long Road Ahead",
-      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
-      },
-      "artists": [
-        {
-          "name": "Soulmate",
-          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
-        }
-      ],
-      "duration_ms": 295346,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Sunny Side Up",
         "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 265640,
       "name": "No Other Way",
       "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP"
+      },
+      "artists": [
+        {
+          "name": "Soulmate",
+          "url": "https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk"
+        }
+      ],
+      "duration_ms": 295346,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Driving Wheel",
         "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 157266,
       "name": "Drivin' Wheel - Single Version",
       "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Picture In A Frame",
-        "url": "https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Haviland and Whiskey Heart",
-          "url": "https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz"
-        }
-      ],
-      "duration_ms": 257790,
-      "name": "Picture In A Frame",
-      "url": "https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Picture In A Frame",
+        "url": "https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Haviland and Whiskey Heart",
+          "url": "https://open.spotify.com/artist/0qGNklhh1ZQijQdXDgk1tz"
+        }
+      ],
+      "duration_ms": 257790,
+      "name": "Picture In A Frame",
+      "url": "https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
@@ -1611,6 +1611,26 @@
       "duration_ms": 381893,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/02zqQBq56efKc2fx3YZMtd"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Oh Frustration",
+        "url": "https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu"
+      },
+      "artists": [
+        {
+          "name": "AJ Fullerton",
+          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "duration_ms": 226155,
+      "name": "Oh Frustration",
+      "url": "https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1647,26 +1667,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Oh Frustration",
-        "url": "https://open.spotify.com/album/4bSQ3ONJO8TPrjFMjMmDJu"
-      },
-      "artists": [
-        {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        }
-      ],
-      "duration_ms": 226155,
-      "name": "Oh Frustration",
-      "url": "https://open.spotify.com/track/1syOr9ak9ckiuzdENFViux"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5o7WGKdXCOaprXmv8NSBGH"
-      },
-      "artists": [
-        {
-          "name": "Chris Pierce",
-          "url": "https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3qndewIkujOKlN7rmS0Ov6"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Connor Selby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 332310,
       "name": "If You're Gonna Leave Me",
       "url": "https://open.spotify.com/track/5IyszGYILoFLF0oYU3FMSE"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5o7WGKdXCOaprXmv8NSBGH"
+      },
+      "artists": [
+        {
+          "name": "Chris Pierce",
+          "url": "https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3qndewIkujOKlN7rmS0Ov6"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Let Me Down Easy",
-        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Tempting Fate",
         "url": "https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 205333,
       "name": "Fortunate Few",
       "url": "https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Let Me Down Easy",
+        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Behind The Rain",
-        "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
-      },
-      "artists": [
-        {
-          "name": "Grace Theisen",
-          "url": "https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf"
-        }
-      ],
-      "duration_ms": 214412,
-      "name": "Behind The Rain",
-      "url": "https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 317275,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Behind The Rain",
+        "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
+      },
+      "artists": [
+        {
+          "name": "Grace Theisen",
+          "url": "https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf"
+        }
+      ],
+      "duration_ms": 214412,
+      "name": "Behind The Rain",
+      "url": "https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Who Is He?",
-        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
-      },
-      "artists": [
-        {
-          "name": "Dylan Triplett",
-          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
-        }
-      ],
-      "duration_ms": 195388,
-      "name": "I'll Be There Waiting",
-      "url": "https://open.spotify.com/track/2VqS4goWQHF6Gf9H5QykuH"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 251384,
       "name": "Grease the Wheel",
       "url": "https://open.spotify.com/track/7zAaLt4VJczZoFBMEKLLDO"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Who Is He?",
+        "url": "https://open.spotify.com/album/0NhSm5EghvrjBuHtg0mZ6e"
+      },
+      "artists": [
+        {
+          "name": "Dylan Triplett",
+          "url": "https://open.spotify.com/artist/3hCmpGNTSpLH1Dj74VLNJN"
+        }
+      ],
+      "duration_ms": 195388,
+      "name": "I'll Be There Waiting",
+      "url": "https://open.spotify.com/track/2VqS4goWQHF6Gf9H5QykuH"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
-      },
-      "artists": [
-        {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Just Like New",
-      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Bloodshot Eyes",
         "url": "https://open.spotify.com/album/5yaOqd0avsCCGlxS3hHIUY"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 232728,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/4JhUJwr2oK68ljiuZva4ci"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "The Deep And The Dirty",
+        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
+      },
+      "artists": [
+        {
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Just Like New",
+      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Dusty Highway",
-        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
+        "name": "Jealous Girls",
+        "url": "https://open.spotify.com/album/3ash5oM41KWgxdrww067gO"
       },
       "artists": [
         {
-          "name": "David Gelman",
-          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
+          "name": "Makena Hartlin",
+          "url": "https://open.spotify.com/artist/2MzHCysoDydVG3tu8d2ItY"
         }
       ],
-      "duration_ms": 242786,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
+      "duration_ms": 317591,
+      "name": "Jealous Girls",
+      "url": "https://open.spotify.com/track/4NbdVZzizwnRTzJ3Hs0SJh"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -2531,18 +2531,18 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Jealous Girls",
-        "url": "https://open.spotify.com/album/3ash5oM41KWgxdrww067gO"
+        "name": "Dusty Highway",
+        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
       },
       "artists": [
         {
-          "name": "Makena Hartlin",
-          "url": "https://open.spotify.com/artist/2MzHCysoDydVG3tu8d2ItY"
+          "name": "David Gelman",
+          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
         }
       ],
-      "duration_ms": 317591,
-      "name": "Jealous Girls",
-      "url": "https://open.spotify.com/track/4NbdVZzizwnRTzJ3Hs0SJh"
+      "duration_ms": 242786,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
     }
   ],
   "unique_name": "Home at Last",

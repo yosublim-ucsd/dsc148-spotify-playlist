@@ -1,15 +1,15 @@
 {
   "description": "Music by our 2023 Artists To Watch. Cover: Young Miko",
-  "num_followers": 1540,
+  "num_followers": 1599,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWQ0OWVkODZlNzYxODY2ZDcyNzMwMTFjODY1NGM3MWY0Y2JiZjYw",
+  "snapshot_id": "MCw2N2RkZTAxYzY1YmViMjBmZjNmMzI5ZmVhOGFkZWQ5MzNlMzI2ZTVi",
   "tracks": [
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "SABOR FRESA",
         "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 180374,
+      "name": "Movezz en silencio",
+      "url": "https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "wiggy",
         "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Aqu\u00ed Te Espero",
         "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
@@ -97,7 +113,23 @@
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Desde Mis Ojos (Remix)",
         "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
@@ -121,39 +153,7 @@
       "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
-      "album": {
-        "name": "Jagger.mp3",
-        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
-    },
-    {
-      "added_at": "2023-07-28 04:00:48",
-      "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
-    },
-    {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "TQM",
         "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
@@ -169,23 +169,23 @@
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 252166,
-      "name": "La \u00daltima Vez - Deluxe",
-      "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Baby Father 2.0 (feat. Myke Towers, Arc\u00e1ngel, \u00d1engo Flow and Yeruza)",
         "url": "https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
@@ -253,27 +253,23 @@
       "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "ID",
-        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
       "artists": [
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 235525,
-      "name": "ID",
-      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
+      "duration_ms": 252166,
+      "name": "La \u00daltima Vez - Deluxe",
+      "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
@@ -293,23 +289,27 @@
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "Versos de un Card\u00edaco",
-        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
+        "name": "ID",
+        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
       },
       "artists": [
         {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 144767,
-      "name": "La Jaula Perfecta",
-      "url": "https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD"
+      "duration_ms": 235525,
+      "name": "ID",
+      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "mis compas tan aqu\u00ed",
         "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
@@ -341,23 +341,23 @@
       "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+        "name": "Versos de un Card\u00edaco",
+        "url": "https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
         }
       ],
-      "duration_ms": 216000,
-      "name": "La Curiosidad - Deluxe",
-      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
+      "duration_ms": 144767,
+      "name": "La Jaula Perfecta",
+      "url": "https://open.spotify.com/track/5ADCYUNt9HmuAXdYjN4nnD"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Full of Diamonds",
         "url": "https://open.spotify.com/album/6rWB7o6ZtJo7wXGDz3ywpx"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/0cmJ4BzHucAJGS8BtJgxnm"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Aqu\u00ed Sigo",
         "url": "https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX"
@@ -409,7 +409,23 @@
       "url": "https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "La Curiosidad - Deluxe",
+      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "te kiero ver",
         "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
@@ -429,23 +445,7 @@
       "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
-      "album": {
-        "name": "LQTQH",
-        "url": "https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 161889,
-      "name": "LQTQH",
-      "url": "https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL"
-    },
-    {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
@@ -473,7 +473,39 @@
       "url": "https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "LQTQH",
+        "url": "https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 161889,
+      "name": "LQTQH",
+      "url": "https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "C\u00e1scara de Coco",
+      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
@@ -493,23 +525,7 @@
       "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
-      "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "C\u00e1scara de Coco",
-      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
-    },
-    {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "en guerra",
         "url": "https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
     },
     {
-      "added_at": "2023-07-28 04:00:48",
+      "added_at": "2023-09-01 14:53:30",
       "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
@@ -543,22 +559,6 @@
       "duration_ms": 157880,
       "name": "Yo Tengo un Novio",
       "url": "https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D"
-    },
-    {
-      "added_at": "2023-07-28 04:00:48",
-      "album": {
-        "name": "diamante$ + espina$",
-        "url": "https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 182204,
-      "name": "noches largas, faldas cortas",
-      "url": "https://open.spotify.com/track/3So3rUrTEA5PT5lJCNXFe4"
     }
   ],
   "unique_name": "Viva Latino Artists To Watch",

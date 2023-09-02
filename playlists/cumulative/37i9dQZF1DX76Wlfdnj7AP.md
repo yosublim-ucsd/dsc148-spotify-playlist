@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,283 songs - 2 day 21 hr 43 min
+1,284 songs - 2 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-30 | 2023-08-12 |
 | [Delali](https://open.spotify.com/track/1yGPoS9sQvB8TPfa2wEv9w) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Delali](https://open.spotify.com/album/715zjWzBNrKdsDgMmR9pHB) | 3:03 | 2020-05-19 | 2021-04-07 |
 | [Demagogue](https://open.spotify.com/track/50LbcGjHHLVTVdzYRVt8r3) | [Spock](https://open.spotify.com/artist/45eOANIj1vvkt8olH7Zh71) | [Demagogue](https://open.spotify.com/album/5nGkEeAMW4IkY3tChhbnlC) | 2:05 | 2019-06-21 | 2019-10-23 |
+| [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 | 2023-09-01 |  |
 | [Deprimida](https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Deprimida](https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3) | 3:37 | 2022-03-09 | 2023-02-18 |
 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [Mc Zaac](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 | 2020-07-21 | 2021-10-16 |
 | [Detox](https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Detox](https://open.spotify.com/album/4y77zrDMRkZznufMBScSal) | 2:41 | 2022-09-09 | 2023-07-29 |

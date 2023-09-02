@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,170 songs - 2 day 16 hr 30 min
+1,171 songs - 2 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -677,7 +677,7 @@
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 | 2023-08-07 |
 | [MenoPause](https://open.spotify.com/track/2p5NedIYtONSoxTaId4ffd) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [MenoPause](https://open.spotify.com/album/6FvGJaDhq4FEXSnbjbq6Tc) | 6:34 | 2021-04-18 | 2021-04-19 |
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2022-10-16 | 2023-08-26 |
-| [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-26 |  |
+| [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-26 | 2023-09-02 |
 | [Mghayer](https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:34 | 2021-03-27\* | 2023-05-30 |
 | [Mgwani](https://open.spotify.com/track/6dvS18w5nASjcxIHrfSOGW) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:19 | 2021-03-27\* | 2021-05-07 |
 | [Mi Barrio](https://open.spotify.com/track/4pS2RiGbEKQbrkeH21QuMe) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:19 | 2023-05-13 | 2023-05-15 |
@@ -818,6 +818,7 @@
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-17 |
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-17 |
 | [PAIN 100%](https://open.spotify.com/track/7p7NcZrzflcjSEeEH9Doic) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 3:07 | 2022-08-13 | 2022-08-16 |
+| [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-09-01 |  |
 | [Panamera](https://open.spotify.com/track/4KoiLBOLPnSERA0apY9y1I) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Panamera](https://open.spotify.com/album/4LNkYBGVRC7F3VjeEqQsRr) | 2:39 | 2021-07-05 | 2021-10-10 |
 | [Pandora's Box](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:36 | 2022-07-16 | 2022-07-18 |
 | [PAPA](https://open.spotify.com/track/0JAxAhh3EdJq422JUJXgzv) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [PAPA](https://open.spotify.com/album/2orG99ljSUjHmSgM0MXIHB) | 3:13 | 2021-09-08 | 2021-09-10 |

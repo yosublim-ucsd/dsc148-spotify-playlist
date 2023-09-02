@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 157655,
+  "num_followers": 157705,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzhmNDNhZGY2MjA3MmQ0MThmNzE5NGM4ODM5YjZlYjBlYjQzNDg5",
+  "snapshot_id": "MCw5Y2FhNGM2ZDE0YmE5MjViYmUzYjFjNjJjNDBmNWUwZWZhMzkwZDkw",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Amogla Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 299973,
       "name": "Mean Blues",
       "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 175177,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Blues Comin' On",
         "url": "https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 317819,
       "name": "Old Time Used to Be",
       "url": "https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 175177,
-      "name": "One Step Forward",
-      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
-      },
-      "artists": [
-        {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Sailin' Shoes",
         "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 208133,
       "name": "A Apolitical Blues",
       "url": "https://open.spotify.com/track/3ApqVYTzkiGRK74zw34X3X"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+      },
+      "artists": [
+        {
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "His Best 1947 To 1956 - The Chess 50th Anniversary Collection (Reissue)",
-        "url": "https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "(I'm Your) Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 187447,
       "name": "Something With Feel",
       "url": "https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "His Best 1947 To 1956 - The Chess 50th Anniversary Collection (Reissue)",
+        "url": "https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 170133,
+      "name": "(I'm Your) Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "The Legendary Christine Perfect Album",
-        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "I'm on My Way",
-      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Standing My Ground",
         "url": "https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 278560,
       "name": "I Hate These Doggone Blues",
       "url": "https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 178436,
-      "name": "Gone For Good",
-      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Moods 'n' Blues",
         "url": "https://open.spotify.com/album/40EXF4rP2AjiIPTnbRZvtU"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 121872,
       "name": "Armadillo Shuffle",
       "url": "https://open.spotify.com/track/3cFsDWxEXUxtgUvOONu9qw"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "duration_ms": 178436,
+      "name": "Gone For Good",
+      "url": "https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF"
     },
     {
       "added_at": "2023-04-28 16:37:16",

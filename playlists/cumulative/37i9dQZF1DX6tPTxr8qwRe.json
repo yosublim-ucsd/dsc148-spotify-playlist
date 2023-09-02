@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Demi Lovato",
+  "description": "Dark, hard hitting pop. Cover: Amelia Moore",
   "name": "SALT",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 132000,
       "name": "almost 20",
       "url": "https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n"
+    },
+    {
+      "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/4q0OJVTYATqeedtb1ESQvZ"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183227,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/4rjx6v5WkdRFe2QwxFAoS8"
     },
     {
       "album": {
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 132793,
       "name": "Dolls",
       "url": "https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 205011,
       "name": "EXTRA EXTRA",
       "url": "https://open.spotify.com/track/6hTudL1V7CHBhxwV8k9oIo"
@@ -5428,6 +5446,24 @@
       "duration_ms": 154586,
       "name": "Only Love Can Save Us Now",
       "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
+    },
+    {
+      "album": {
+        "name": "over my ex",
+        "url": "https://open.spotify.com/album/2UtEAEUx3RaKL1TRKe5asi"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146065,
+      "name": "over my ex",
+      "url": "https://open.spotify.com/track/2JWC7a6oGu7OHDVpOaRrLW"
     },
     {
       "album": {

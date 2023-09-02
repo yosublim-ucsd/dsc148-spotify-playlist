@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: BETWEEN FRIENDS
 
-1,656 songs - 3 day 15 hr 18 min
+1,657 songs - 3 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,7 @@
 | [Fresh Out](https://open.spotify.com/track/4fTEqbQiJFOJMIIrfU7L3t) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Fresh Out](https://open.spotify.com/album/2HCSHdnw15QEVDqweIqQEi) | 3:28 | 2020-10-16 | 2020-11-03 |
 | [Friday Night With The Neighbours](https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Friday Night With The Neighbours](https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se) | 2:53 | 2023-04-21 | 2023-04-29 |
 | [Friend](https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:56 | 2020-10-20 | 2023-02-25 |
-| [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-14 |  |
+| [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-14 | 2023-09-02 |
 | [Friends](https://open.spotify.com/track/7oEO6TfBGcyJw8ZpP8e8i2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Friends](https://open.spotify.com/album/4jStOidSdXoVBPdgVUj0po) | 3:26 | 2020-10-13\* | 2020-12-12 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 | 2022-05-20 | 2022-10-13 |
@@ -1086,6 +1086,7 @@
 | [Ohio](https://open.spotify.com/track/1nyXYgcOxmCPzMay9q5StX) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Ohio](https://open.spotify.com/album/3uD77mMOEfgvh6WdbFix8y) | 4:53 | 2021-02-22 | 2021-02-28 |
 | [OK](https://open.spotify.com/track/0APAKxMXB7jdDs4kw1l30y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [OK](https://open.spotify.com/album/6AMTezrkvSp7i1PqL0Mb7F) | 3:13 | 2020-10-20 | 2022-04-07 |
 | [Ok on My Own](https://open.spotify.com/track/76gAbSOSA7zC1w90wOWGAW) | [Comfort Club](https://open.spotify.com/artist/21G9CpO300CeQxXo8R3FXw) | [Ok on My Own](https://open.spotify.com/album/4U7hgHFYrPFSDWhSGk9Rkx) | 3:20 | 2022-01-14 | 2022-07-28 |
+| [Old Friends](https://open.spotify.com/track/4oQUx07Df5uoJytAg1fbm1) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Old Friends](https://open.spotify.com/album/0luE5bUcI2FzlBEyJh7Cd0) | 2:52 | 2023-08-04 |  |
 | [Oldest Teenager](https://open.spotify.com/track/0PNVMcb2Y6q4SHnKQLl4b5) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [Oldest Teenager](https://open.spotify.com/album/4Moa9v6iF62W4410haXRJp) | 3:16 | 2021-01-12 | 2022-06-27 |
 | [Olivia](https://open.spotify.com/track/7KGMmSI2vaHim1DlfES5U2) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Olivia](https://open.spotify.com/album/54hr285PmUoNIBfDCGKV2J) | 2:51 | 2021-04-03 | 2021-05-22 |
 | [Olivia](https://open.spotify.com/track/5ruQHtb5I60wPAq0672ytg) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Olivia](https://open.spotify.com/album/6F6a1eVUXuO96dW55DZHfl) | 3:48 | 2022-03-04 | 2022-04-21 |

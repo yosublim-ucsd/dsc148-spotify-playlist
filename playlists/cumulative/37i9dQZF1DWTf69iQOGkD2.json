@@ -76,7 +76,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 175559,
       "name": "A s\u00f3s",
       "url": "https://open.spotify.com/track/0GuC7WFhqyg9nd13YkJzfL"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 226730,
       "name": "Marginais Ac\u00fastico #1",
       "url": "https://open.spotify.com/track/4atuUpMdGfq9JeRI6OQxM7"
@@ -2976,6 +2976,28 @@
       "duration_ms": 273739,
       "name": "Original MTK #1 - Exce\u00e7\u00e3o (feat. Lucas Muto, Meucci, Crod, Lipe, Tasdan, Gabriel Lobo & Agatha)",
       "url": "https://open.spotify.com/track/5Ky24wADRhq0vRc3vqUbIj"
+    },
+    {
+      "album": {
+        "name": "Pai",
+        "url": "https://open.spotify.com/album/3JNIowHsbDit9jd3Y5MI95"
+      },
+      "artists": [
+        {
+          "name": "Nat Vieira",
+          "url": "https://open.spotify.com/artist/39S0q4QFM7rtWzA5hwAm4x"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223880,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/4tULqzDny5FUJw49LT1yAJ"
     },
     {
       "album": {
@@ -4696,6 +4718,36 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "album": {
+        "name": "Te Quero Demais",
+        "url": "https://open.spotify.com/album/4yB0LugapIzK4QSiUxB1iG"
+      },
+      "artists": [
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Crissy",
+          "url": "https://open.spotify.com/artist/2k1ggJ7C5gZvEKOyfjgduC"
+        },
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "Caluz",
+          "url": "https://open.spotify.com/artist/1ivEXOkH9JhO2HqhS8YMqO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Te Quero Demais",
+      "url": "https://open.spotify.com/track/5EOgFeyFV0ejGUC1g9opIA"
     },
     {
       "album": {

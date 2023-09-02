@@ -1,13 +1,29 @@
 {
-  "description": "New jazz for open minds. Cover: Harold L\u00f3pez-Nussa",
-  "num_followers": 898293,
+  "description": "New jazz for open minds. Cover: Kiefer",
+  "num_followers": 898476,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjU4NWQxMzZhN2FkYTc2N2JkNzc0YWFjZjJhN2NlNTFiYTZlYWUz",
+  "snapshot_id": "MCw3MTFiMjgyNzE4NGQ0NmZjNzY4NDFlMWNmZTUxYzA5NTU3YTQxMzdl",
   "tracks": [
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 272124,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 150712,
       "name": "IJ",
       "url": "https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Manunae",
+        "url": "https://open.spotify.com/album/50REVna2w4qIf5lmZGHUi5"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "duration_ms": 292384,
+      "name": "Manunae",
+      "url": "https://open.spotify.com/track/7rQbINkpTf8wkm7Rz7EmL2"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -111,6 +143,22 @@
       "duration_ms": 199785,
       "name": "Sunbursting",
       "url": "https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "\u30be\u30a6",
+        "url": "https://open.spotify.com/album/6UB20HtWFVLxBDD2HgZare"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "\u30be\u30a6",
+      "url": "https://open.spotify.com/track/4xcYpxA5603bWGjlZfN56p"
     },
     {
       "added_at": "2023-08-11 04:01:00",
@@ -379,22 +427,6 @@
       "duration_ms": 338801,
       "name": "Only The Lonely Woman",
       "url": "https://open.spotify.com/track/3s1Y7qnksD5YTAK7Dcd7Al"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "August Again",
-        "url": "https://open.spotify.com/album/4VkivTu2Xx6FNCoHflNVDE"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 322520,
-      "name": "August Again",
-      "url": "https://open.spotify.com/track/3oIBOfMJVSCUIAl8BF9eFf"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -707,22 +739,6 @@
       "duration_ms": 306093,
       "name": "Mountains, Trees and Seas",
       "url": "https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "\u67b6\u7a7a\u90fd\u5e02",
-        "url": "https://open.spotify.com/album/4gk9e4b1F40Gv5Vmkjj5ix"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "\u67b6\u7a7a\u90fd\u5e02",
-      "url": "https://open.spotify.com/track/1WR0Ow20xUHfXvYhKRHQYr"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 167377,
       "name": "Step on That Toe",
       "url": "https://open.spotify.com/track/1FlRcSOMYi0fxJyBtU892c"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "From The Top",
-        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        }
-      ],
-      "duration_ms": 281946,
-      "name": "From The Top",
-      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
     },
     {
       "added_at": "2023-06-02 04:00:00",

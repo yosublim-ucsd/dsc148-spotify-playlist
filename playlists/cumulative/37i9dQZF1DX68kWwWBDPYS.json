@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "morrxs chidos haciendo m\u00fasica chida. Camilo S\u00e9ptimo en portada.",
+  "description": "morrxs chidos haciendo m\u00fasica chida. GRTSCH en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 198095,
       "name": "A Diamond In Ashes",
       "url": "https://open.spotify.com/track/31Y7GTUiLoNZK3TcQIrzu8"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 239965,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 258159,
       "name": "Alexis",
       "url": "https://open.spotify.com/track/2hG0iPLFTDbWxuFHG6MoPZ"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147853,
       "name": "Algo De Verdad",
       "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
@@ -252,6 +252,28 @@
       "duration_ms": 144500,
       "name": "Amarillo",
       "url": "https://open.spotify.com/track/3uNedRR60eGommt5hVXjHT"
+    },
+    {
+      "album": {
+        "name": "Amorcito Coraz\u00f3n Lofi",
+        "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109322,
+      "name": "Amorcito Coraz\u00f3n Lofi",
+      "url": "https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3"
     },
     {
       "album": {
@@ -429,6 +451,60 @@
     },
     {
       "album": {
+        "name": "Plano",
+        "url": "https://open.spotify.com/album/6N1AUqX8zyDN94BuyrB85D"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Estrellas",
+      "url": "https://open.spotify.com/track/50hcLx8GL7THXWxew0EHgb"
+    },
+    {
+      "album": {
+        "name": "cl\u00e1sico vol. 2",
+        "url": "https://open.spotify.com/album/0zwQOZWB0CAu6uic0VN1Ax"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "fatal",
+      "url": "https://open.spotify.com/track/4UE8NKlNA2KVbm5R85RQrb"
+    },
+    {
+      "album": {
+        "name": "HILO ROJO",
+        "url": "https://open.spotify.com/album/6eguZJ2eAENVbImzDTO7bx"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206708,
+      "name": "HILO ROJO",
+      "url": "https://open.spotify.com/track/6p6cds4TrmhfWrqB0O7gZD"
+    },
+    {
+      "album": {
         "name": "Injusto",
         "url": "https://open.spotify.com/album/4bZe1QnqD5bYWSo7Aj6YYd"
       },
@@ -498,7 +574,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 222000,
       "name": "Lobos",
       "url": "https://open.spotify.com/track/3f3AlRGzXJASPBmKj2E42U"
@@ -552,10 +628,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186461,
       "name": "Me Hago Mal",
       "url": "https://open.spotify.com/track/3XIaG3uGcewsKPmxauygJZ"
+    },
+    {
+      "album": {
+        "name": "Minimalista",
+        "url": "https://open.spotify.com/album/0wLp5TaiRKksqWoeIElprg"
+      },
+      "artists": [
+        {
+          "name": "Renee Mooi",
+          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Minimalista",
+      "url": "https://open.spotify.com/track/3pU2D2MVqV1V4JMBvmwqDc"
     },
     {
       "album": {
@@ -842,7 +936,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 144116,
       "name": "Te quiero ver",
       "url": "https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj"
@@ -893,6 +987,24 @@
     },
     {
       "album": {
+        "name": "todo pasa",
+        "url": "https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214790,
+      "name": "todo pasa",
+      "url": "https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4"
+    },
+    {
+      "album": {
         "name": "Tu Forma",
         "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
       },
@@ -908,6 +1020,24 @@
       "duration_ms": 154000,
       "name": "Tu Forma",
       "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+    },
+    {
+      "album": {
+        "name": "PUEDO TOCAR EL CIELO",
+        "url": "https://open.spotify.com/album/7JupcnvCQ68MEV87oiff4r"
+      },
+      "artists": [
+        {
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184350,
+      "name": "UNA VEZ M\u00c1S",
+      "url": "https://open.spotify.com/track/5BeUqHu8d7JBmNBS38kfjH"
     },
     {
       "album": {
@@ -958,10 +1088,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 205774,
       "name": "x las veces",
       "url": "https://open.spotify.com/track/3zThD2oeqjI0M4XObSKgiH"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/41NBDlAAigDhytPXnDPB96"
+      },
+      "artists": [
+        {
+          "name": "Caroh",
+          "url": "https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236181,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/2Y8KA0iCtLQa7G3gC5lPvv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX68kWwWBDPYS"

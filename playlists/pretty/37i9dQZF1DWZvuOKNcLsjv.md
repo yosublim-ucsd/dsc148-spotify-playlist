@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,422 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,454 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [WIN](https://open.spotify.com/track/3TCIqI5kxKr6P5DsKG89Hu) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [No Limit](https://open.spotify.com/album/4NZpWKym8rt2QtUzjVj4Zm) | 3:24 |
 | 100 | [Sonicwonderland](https://open.spotify.com/track/7gc3pcQOvzAgpNtY5y6SbB) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/7IWueag5hUcfCqB6AS6Ky2) | 8:15 |
 
-Snapshot ID: `MCw1ZGZhMTlhNDQ1NWY5OTIxZDAxM2NmZmNhNzk1MjU5NGI1MmM5M2Y5`
+Snapshot ID: `MCwwNzdhMjEwOWU3ZmQ1NDE2Mjk0NzA3YmNhNDYxM2Q2NDg3NmIwZTU2`

@@ -2598,7 +2598,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 171272,
       "name": "Eres Libre",
       "url": "https://open.spotify.com/track/4XaoxWelcmesrOxj8JZOp1"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 180101,
       "name": "La 701",
       "url": "https://open.spotify.com/track/4CjcofBzrS6NMChHVVAFf4"
@@ -3202,7 +3202,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 180101,
       "name": "La 701",
       "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 189665,
       "name": "No Me Hablen de Amor",
       "url": "https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc"
@@ -4936,6 +4936,24 @@
       "duration_ms": 193816,
       "name": "NO SE VA - EN VIVO",
       "url": "https://open.spotify.com/track/0Y1lSCcxjfyyvmfgMJ1ukA"
+    },
+    {
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "album": {
@@ -5098,6 +5116,24 @@
       "duration_ms": 164210,
       "name": "Pa Que",
       "url": "https://open.spotify.com/track/5AAbD7ELBbHhr8FpqoyS2O"
+    },
+    {
+      "album": {
+        "name": "Pap\u00e1 Mundo",
+        "url": "https://open.spotify.com/album/2cVrh5er4TOD47uUn6bRLA"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185735,
+      "name": "Pap\u00e1 Mundo",
+      "url": "https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy"
     },
     {
       "album": {

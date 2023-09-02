@@ -1,29 +1,13 @@
 {
   "description": "The world series of Ska. Cover: Ska-P ",
-  "num_followers": 39308,
+  "num_followers": 39357,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTg5YWE5M2NmMmNiZTA3ZmM1YmVjODk2MjQyNWI3NTVjNzk3OTcx",
+  "snapshot_id": "MCxlZDY2ZTFlYjBmMDg5ZDBkNzBmYTVmMzNkZDlhYzI0MTgzZWEyOWRj",
   "tracks": [
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
@@ -43,42 +27,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/7FNAUPTB5IFHkuqJ64vv2y"
-      },
-      "artists": [
-        {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
-        }
-      ],
-      "duration_ms": 218692,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/5NYTMw9LKD1l0KSQgcS8HG"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "..and the usual suspects",
-        "url": "https://open.spotify.com/album/7m05bBI3WJFfIHC1QjmmHi"
-      },
-      "artists": [
-        {
-          "name": "Oxo86",
-          "url": "https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5"
-        },
-        {
-          "name": "Ole - Brutal Bravo",
-          "url": "https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx"
-        }
-      ],
-      "duration_ms": 239725,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/2phiHKlt8X5KXh1h7ZzsZf"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "El Le\u00f3n",
         "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
@@ -93,148 +41,20 @@
       "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
     },
     {
-      "added_at": "2023-07-28 06:00:00",
+      "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Der Song den jeder kennt",
-        "url": "https://open.spotify.com/album/1QznBcpyezEPKPfrEUh4Qw"
+        "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
+        "url": "https://open.spotify.com/album/5r1PybiVxHxq7eu5zAr5Qt"
       },
       "artists": [
         {
-          "name": "D\u00b4Hundskrippln",
-          "url": "https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP"
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
         }
       ],
-      "duration_ms": 158933,
-      "name": "Der Song den jeder kennt",
-      "url": "https://open.spotify.com/track/0Qev6YcGtupcouKqxrfrWz"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/2U5Yo23BlzQW8ZawiPXLzy"
-      },
-      "artists": [
-        {
-          "name": "The Bluebeaters",
-          "url": "https://open.spotify.com/artist/6rShHlY1EXsf7DxlIHa5uU"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/7hFqfUllIwqobuXuuc3sZf"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Confucius",
-        "url": "https://open.spotify.com/album/7xYCRdnpMwYAjQX7kj1grq"
-      },
-      "artists": [
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Brass Mafia",
-          "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
-        }
-      ],
-      "duration_ms": 331169,
-      "name": "Confucius",
-      "url": "https://open.spotify.com/track/0PID4nnqvsWwxK89BYuWCR"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Vigo 72",
-        "url": "https://open.spotify.com/album/2UDuFz2jSfAZ7Yz5Til3Mz"
-      },
-      "artists": [
-        {
-          "name": "Residuos Do Sistema",
-          "url": "https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo"
-        },
-        {
-          "name": "Skarnio",
-          "url": "https://open.spotify.com/artist/2XdFadH2Hfr0PTFf8rUOVL"
-        },
-        {
-          "name": "Liska!",
-          "url": "https://open.spotify.com/artist/5MhZac8IvmM7UapCiQD50y"
-        }
-      ],
-      "duration_ms": 202617,
-      "name": "Vigo 72",
-      "url": "https://open.spotify.com/track/677l8vAxJBtGr08oxO6Heg"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Pump Fake",
-        "url": "https://open.spotify.com/album/0TrInw474tgKLhfDljXxQG"
-      },
-      "artists": [
-        {
-          "name": "Devon Kay & The Solutions",
-          "url": "https://open.spotify.com/artist/20S7UAfamGPMxer13RIRB4"
-        }
-      ],
-      "duration_ms": 158986,
-      "name": "Pump Fake",
-      "url": "https://open.spotify.com/track/2S3a2IPJwmGlvuEQaggI1F"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 136146,
-      "name": "Wrong Way",
-      "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Transparency",
-        "url": "https://open.spotify.com/album/6tiMjNb0BiteEve0vZ8ujP"
-      },
-      "artists": [
-        {
-          "name": "Keep Flying",
-          "url": "https://open.spotify.com/artist/4y79c2k6F28s1lkh3aaXWC"
-        }
-      ],
-      "duration_ms": 151205,
-      "name": "Transparency",
-      "url": "https://open.spotify.com/track/2Rm8eB9apr94OrdWjP6GG1"
+      "duration_ms": 255976,
+      "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
+      "url": "https://open.spotify.com/track/1pjpRz8aEWtx65Y4HvqFYt"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -253,6 +73,26 @@
       "url": "https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA"
     },
     {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Shellshock",
+        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 248370,
+      "name": "Sleepin' on the Couch (with The Elovaters)",
+      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+    },
+    {
       "added_at": "2023-07-28 06:00:00",
       "album": {
         "name": "Let's Face It",
@@ -267,6 +107,30 @@
       "duration_ms": 194760,
       "name": "The Impression That I Get",
       "url": "https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/0sJwWtsL2dXGdKpUu1Chnb"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "JER",
+          "url": "https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK"
+        },
+        {
+          "name": "Stacked Like Pancakes",
+          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
+        }
+      ],
+      "duration_ms": 168786,
+      "name": "Recess",
+      "url": "https://open.spotify.com/track/27o2eN8ssJK6dYwy20LvfS"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -285,28 +149,20 @@
       "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
-      "added_at": "2023-07-28 06:00:00",
+      "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "A Message to You Rudy (feat.Emi)",
-        "url": "https://open.spotify.com/album/4L8DFXliPn6NMIXz0JqgND"
+        "name": "Doin' What We Do",
+        "url": "https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf"
       },
       "artists": [
         {
-          "name": "EXOTIC SKATES",
-          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
-        },
-        {
-          "name": "MONKY",
-          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
-        },
-        {
-          "name": "Emi",
-          "url": "https://open.spotify.com/artist/2SzGAO81tsXVg709p6xjIZ"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 252425,
-      "name": "A Message to You Rudy (feat.Emi)",
-      "url": "https://open.spotify.com/track/3FadiVpEMwNKcbKgQI7jse"
+      "duration_ms": 184803,
+      "name": "Doin' What We Do",
+      "url": "https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -325,6 +181,58 @@
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "\u0421\u0432\u0456\u0442\u043b\u043e \u0432\u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0456 \u043d\u0430\u0441",
+        "url": "https://open.spotify.com/album/1iORWt9QudztO4RfspchkI"
+      },
+      "artists": [
+        {
+          "name": "Mad Heads",
+          "url": "https://open.spotify.com/artist/2q3fzwgqdfcrJNIdy7hpXY"
+        }
+      ],
+      "duration_ms": 204428,
+      "name": "\u0421\u0432\u0456\u0442\u043b\u043e \u0432\u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0456 \u043d\u0430\u0441",
+      "url": "https://open.spotify.com/track/7F09wUGlRd2Asil0o1COVs"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 136146,
+      "name": "Wrong Way",
+      "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "King of Ska: The Beverley's Records Singles Collection 1963 - 1967",
+        "url": "https://open.spotify.com/album/2rRn15y0Y7m6NKWL9QXo3Y"
+      },
+      "artists": [
+        {
+          "name": "Roland Alphonso",
+          "url": "https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn"
+        },
+        {
+          "name": "The Beverley's All Stars",
+          "url": "https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK"
+        }
+      ],
+      "duration_ms": 186364,
+      "name": "Charade",
+      "url": "https://open.spotify.com/track/4TU950aBQIwFjkuWk63shn"
+    },
+    {
       "added_at": "2023-07-28 06:00:00",
       "album": {
         "name": "El Le\u00f3n",
@@ -339,6 +247,54 @@
       "duration_ms": 237346,
       "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
       "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "You In A Suit",
+        "url": "https://open.spotify.com/album/3AfG5Efw7yoWvbCLkbZdlg"
+      },
+      "artists": [
+        {
+          "name": "Half Past Two",
+          "url": "https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB"
+        }
+      ],
+      "duration_ms": 112172,
+      "name": "You In A Suit",
+      "url": "https://open.spotify.com/track/2hN8tzGgCvoZHnteNimic3"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Alles dreht sich",
+        "url": "https://open.spotify.com/album/3M0lDkQphHpigzRKCBA9yn"
+      },
+      "artists": [
+        {
+          "name": "Skyline Green",
+          "url": "https://open.spotify.com/artist/3KfLOFf3Wsibfv2Do6v6Ac"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Alles dreht sich",
+      "url": "https://open.spotify.com/track/1tAupE3ddiB42Quvb8sKCz"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -359,6 +315,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Hang-Ups",
         "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
       },
@@ -371,22 +343,6 @@
       "duration_ms": 185026,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -407,18 +363,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -519,22 +475,6 @@
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -727,6 +667,26 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "It Means Everything",
         "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
       },
@@ -739,22 +699,6 @@
       "duration_ms": 249133,
       "name": "Come on Eileen",
       "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "The Best Of Us For The Rest Of Us",
-        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -775,22 +719,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+        "name": "The Best Of Us For The Rest Of Us",
+        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
         }
       ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+      "duration_ms": 199253,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -879,22 +819,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Tu Alma M\u00eda / Adelita",
-      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "In The Wild (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
@@ -907,6 +831,22 @@
       "duration_ms": 184760,
       "name": "In The Mirror",
       "url": "https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Tu Alma M\u00eda / Adelita",
+      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1019,6 +959,42 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Get Me Ready",
         "url": "https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB"
       },
@@ -1031,6 +1007,26 @@
       "duration_ms": 169688,
       "name": "Get Me Ready",
       "url": "https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Latin Ska Force",
+        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        },
+        {
+          "name": "Salvador Moreno",
+          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Labios Rojos",
+      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1115,26 +1111,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Latin Ska Force",
-        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        },
-        {
-          "name": "Salvador Moreno",
-          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Labios Rojos",
-      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1199,22 +1175,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
-      },
-      "artists": [
-        {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Mejores Tiempos",
-      "url": "https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -1227,6 +1187,22 @@
       "duration_ms": 302813,
       "name": "Delfino",
       "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx"
+      },
+      "artists": [
+        {
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Mejores Tiempos",
+      "url": "https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1267,22 +1243,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Step Forward",
         "url": "https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE"
       },
@@ -1295,6 +1255,22 @@
       "duration_ms": 304000,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/4oMMdE8PlUjnyNO7HRixuV"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1399,6 +1375,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Class of Nations",
         "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
@@ -1467,18 +1459,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/7FNAUPTB5IFHkuqJ64vv2y"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+      "duration_ms": 218692,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/5NYTMw9LKD1l0KSQgcS8HG"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1515,6 +1507,46 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "A Message to You Rudy (feat.Emi)",
+        "url": "https://open.spotify.com/album/4L8DFXliPn6NMIXz0JqgND"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        },
+        {
+          "name": "Emi",
+          "url": "https://open.spotify.com/artist/2SzGAO81tsXVg709p6xjIZ"
+        }
+      ],
+      "duration_ms": 252425,
+      "name": "A Message to You Rudy (feat.Emi)",
+      "url": "https://open.spotify.com/track/3FadiVpEMwNKcbKgQI7jse"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Night Boat to Cairo",
+      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1547,6 +1579,22 @@
       "duration_ms": 235986,
       "name": "El Ultimo Ska",
       "url": "https://open.spotify.com/track/23JXViTiO23ROcKfJVhFhT"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Der Song den jeder kennt",
+        "url": "https://open.spotify.com/album/1QznBcpyezEPKPfrEUh4Qw"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Hundskrippln",
+          "url": "https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Der Song den jeder kennt",
+      "url": "https://open.spotify.com/track/0Qev6YcGtupcouKqxrfrWz"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1599,22 +1647,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Night Boat to Cairo",
-      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Yes It's True",
         "url": "https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ"
       },
@@ -1635,22 +1667,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Ruder Than Rude",
-        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
-      },
-      "artists": [
-        {
-          "name": "The Busters",
-          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Don't Worry, Be Happy",
-      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Mudik",
         "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
       },
@@ -1667,34 +1683,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "The Sound Of Revolution",
-        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
+        "name": "Ruder Than Rude",
+        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
       "artists": [
         {
-          "name": "Los Fastidios",
-          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
+          "name": "The Busters",
+          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
         }
       ],
-      "duration_ms": 205527,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Si Oh !",
-        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Puntos",
-          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
-        }
-      ],
-      "duration_ms": 151013,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+      "duration_ms": 177800,
+      "name": "Don't Worry, Be Happy",
+      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
     }
   ],
   "unique_name": "Ska Around The Globe",

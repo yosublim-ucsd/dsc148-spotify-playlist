@@ -4,7 +4,7 @@
 
 > la primavera non è una stagione, è un mood 🌷
 
-261 songs - 14 hr 54 min
+262 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [parachute](https://open.spotify.com/track/4QvSA3gQn7DAWEwuEdHBAt) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/7oMpndHpNfCBH4QPqHGcta) | 2:36 | 2021-06-25 | 2022-07-29 |
 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2023-03-28 |  |
 | [Pezzo di me \(feat\. Max Gazzè\)](https://open.spotify.com/track/3dHgPdH2zvz4hBB9kg4b52) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Nel Caos Di Stanze Stupefacenti](https://open.spotify.com/album/5AxdxlFwuB1SukQLvGizF3) | 3:22 | 2021-06-25 | 2022-11-13 |
-| [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2023-03-28 |  |
+| [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 | 2023-04-21 |  |
+| [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2023-03-28 | 2023-09-02 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-03-28 |  |
 | [Posso \(feat\. Max Gazzè\)](https://open.spotify.com/track/4dkPiDFtpxZirYzT2nHQps) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Posso \(feat\. Max Gazzè\)](https://open.spotify.com/album/1jEWp2js768TJOqpgiYPmY) | 3:58 | 2021-06-25 | 2022-07-29 |
 | [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 | 2021-06-25 | 2023-03-29 |

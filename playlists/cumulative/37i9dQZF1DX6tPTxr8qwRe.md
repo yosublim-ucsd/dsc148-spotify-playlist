@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Demi Lovato
+> Dark, hard hitting pop\. Cover: Amelia Moore
 
-465 songs - 21 hr 23 min
+467 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [ALL ABOUT ME](https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [ALL ABOUT ME](https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP) | 1:37 | 2022-04-01 | 2022-07-09 |
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 | 2022-07-02 |
 | [almost 20](https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8) | 2:12 | 2022-02-25 | 2022-03-18 |
+| [American Dream](https://open.spotify.com/track/4rjx6v5WkdRFe2QwxFAoS8) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [American Dream](https://open.spotify.com/album/4q0OJVTYATqeedtb1ESQvZ) | 3:03 | 2023-09-01 |  |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-06-30 |  |
 | [Angry Woman](https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Angry Woman](https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ) | 2:33 | 2022-06-24 | 2022-10-22 |
 | [Antsy](https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Antsy](https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww) | 2:30 | 2022-09-16 | 2022-11-19 |
@@ -122,7 +123,7 @@
 | [DIY \(From “American Song Contest”\)](https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 4](https://open.spotify.com/album/5tLEwslxrLWstMLpvNflyc) | 2:39 | 2022-04-15 | 2022-09-03 |
 | [Do or Die](https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Do or Die](https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2) | 2:30 | 2023-08-25 |  |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 | 2022-09-17 |
-| [Dolls](https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:12 | 2023-02-03 |  |
+| [Dolls](https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:12 | 2023-02-03 | 2023-09-02 |
 | [Don't Break His Heart](https://open.spotify.com/track/21dzN9GnrRDYB8PmYCNSeh) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Don't Break His Heart](https://open.spotify.com/album/07ZwhNrmU4jykdXMntIub0) | 3:10 | 2022-01-28 | 2022-02-19 |
 | [Donkey Kong](https://open.spotify.com/track/7xn7WXN302ayw4JPJWf5qZ) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Donkey Kong](https://open.spotify.com/album/7g3V0Gwowdfwcxqt3c4Bf2) | 2:31 | 2022-04-22 | 2022-07-02 |
 | [Don’t Call Me](https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Don’t Call Me](https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN) | 2:48 | 2023-07-28 |  |
@@ -142,7 +143,7 @@
 | [ExBox](https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G) | 2:09 | 2022-10-07 | 2023-04-01 |
 | [EXPECTATIONS](https://open.spotify.com/track/5iZNagyVCvgTBRlxhvvyfD) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [EXPECTATIONS](https://open.spotify.com/album/4JVdNocE2EKTKdAHpc3wed) | 2:58 | 2023-06-02 | 2023-08-26 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-01-28 |
-| [EXTRA EXTRA](https://open.spotify.com/track/6hTudL1V7CHBhxwV8k9oIo) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [EXTRA EXTRA](https://open.spotify.com/album/7gJ1BUgV6kkyaFzKE5LizN) | 3:25 | 2023-07-21 |  |
+| [EXTRA EXTRA](https://open.spotify.com/track/6hTudL1V7CHBhxwV8k9oIo) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [EXTRA EXTRA](https://open.spotify.com/album/7gJ1BUgV6kkyaFzKE5LizN) | 3:25 | 2023-07-21 | 2023-09-02 |
 | [F U Anthem \(Fuck You Anthem\)](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 | 2021-10-01 | 2022-03-26 |
 | [F U It's Over](https://open.spotify.com/track/3U2vi9J7dN7X2ZqYSfOIht) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [F U It's Over](https://open.spotify.com/album/0yRCPYnNJya1rAoZ4m0axM) | 2:45 | 2023-05-05 | 2023-08-05 |
 | [F2F](https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:05 | 2022-12-09 | 2023-01-06 |
@@ -305,6 +306,7 @@
 | [Okay Okay](https://open.spotify.com/track/2ryUKjHhbRn2T7DmkT3nl1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [PEP](https://open.spotify.com/album/2El7FWTNM5fE8BbMN3qFlB) | 3:20 | 2022-04-01 | 2022-04-09 |
 | [one bad day](https://open.spotify.com/track/1Qz3mHiMABwI3wBK3PQgsr) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [one bad day](https://open.spotify.com/album/13ekNhK41kYkbmbzOzu8G5) | 2:58 | 2022-06-17 | 2022-08-20 |
 | [Only Love Can Save Us Now](https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Only Love Can Save Us Now](https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm) | 2:34 | 2023-05-19 | 2023-08-05 |
+| [over my ex](https://open.spotify.com/track/2JWC7a6oGu7OHDVpOaRrLW) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [over my ex](https://open.spotify.com/album/2UtEAEUx3RaKL1TRKe5asi) | 2:26 | 2023-09-01 |  |
 | [OVER MY HEAD](https://open.spotify.com/track/6ZTM2VyrkUT5Y8kQHUy9Yf) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [OVER MY HEAD](https://open.spotify.com/album/5mSyWUOvz1l57XOeDDDYGb) | 2:18 | 2023-01-13 | 2023-04-01 |
 | [P.O.S.](https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U) | [Sky Katz](https://open.spotify.com/artist/2hXnTRT96JHAzENar0pxqc) | [P.O.S.](https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm) | 2:00 | 2022-12-09 | 2023-05-20 |
 | [PainHub](https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [PainHub](https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx) | 2:16 | 2023-03-31 | 2023-06-03 |

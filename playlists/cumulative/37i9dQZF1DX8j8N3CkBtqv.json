@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Riya Duggal",
+  "description": "Naye Indie gaano ka khazana! Cover- Deepak Rathore Project",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 142250,
       "name": "Aaj Rang Hai",
       "url": "https://open.spotify.com/track/2T02TsMZTTEVJeuSwCyD1w"
@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Being",
+        "url": "https://open.spotify.com/album/1vqUki8b880OxcUhhKXg56"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Maskey",
+          "url": "https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208486,
+      "name": "Beautiful Being",
+      "url": "https://open.spotify.com/track/6Qo6CHaG1Y995qD5Dm9r5O"
+    },
+    {
+      "album": {
         "name": "Because Because Because",
         "url": "https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY"
       },
@@ -832,7 +850,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 210000,
       "name": "Dhuaan",
       "url": "https://open.spotify.com/track/7AVao1FclGwn9U2J9IG2Ax"
@@ -980,6 +998,24 @@
       "duration_ms": 147605,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/69KsBGYUsA6bn6BKdS9eTF"
+    },
+    {
+      "album": {
+        "name": "Duur Hai Wo",
+        "url": "https://open.spotify.com/album/5zSrIDdqyNIVdGJiT9d46P"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285357,
+      "name": "Duur Hai Wo",
+      "url": "https://open.spotify.com/track/2yR3f7t0N1pp48mChKq9Kt"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 210282,
       "name": "Gunjaayish Hai",
       "url": "https://open.spotify.com/track/3ibAyrfDw0S3kTZ8MfxCFm"
@@ -2177,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "Mann",
+        "url": "https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191015,
+      "name": "Mann",
+      "url": "https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM"
+    },
+    {
+      "album": {
         "name": "Manwa Bhaagey",
         "url": "https://open.spotify.com/album/13X5ctGRnJaAvO3WyXsoF6"
       },
@@ -2188,7 +2242,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 257200,
       "name": "Manwa Bhaagey",
       "url": "https://open.spotify.com/track/5sVlW4pj3NDIYKNftGwRlZ"
@@ -2370,6 +2424,32 @@
       "duration_ms": 376989,
       "name": "Musafir",
       "url": "https://open.spotify.com/track/0b4ObtDTn1mMdJ2stsKqjs"
+    },
+    {
+      "album": {
+        "name": "Muskurayega",
+        "url": "https://open.spotify.com/album/1892Qln1rYhD8V6tT0ECJF"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn"
+        },
+        {
+          "name": "Yashraj Mukhate",
+          "url": "https://open.spotify.com/artist/1Ki1jGLoZSYLza3HnudAhI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223548,
+      "name": "Muskurayega",
+      "url": "https://open.spotify.com/track/0AUyEpUEtwv3VdIDVanQg0"
     },
     {
       "album": {
@@ -2593,6 +2673,32 @@
     },
     {
       "album": {
+        "name": "Poore Hue",
+        "url": "https://open.spotify.com/album/0DYcqWdoQQs8jcgC67lyG6"
+      },
+      "artists": [
+        {
+          "name": "Sayuj Jain",
+          "url": "https://open.spotify.com/artist/2Bcqwyd8GPNHyeqo3EbtDO"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Reverse Prodigy",
+          "url": "https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195419,
+      "name": "Poore Hue",
+      "url": "https://open.spotify.com/track/2NtcYKkDQB4VJVvb8qHcIf"
+    },
+    {
+      "album": {
         "name": "Pyaar Hai Tujhse",
         "url": "https://open.spotify.com/album/5u2pTQiNE91Rao9kMFAsY9"
       },
@@ -2778,7 +2884,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 165900,
       "name": "Ratiya",
       "url": "https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc"
@@ -2946,6 +3052,24 @@
       "duration_ms": 256000,
       "name": "SACH HAI NA",
       "url": "https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC"
+    },
+    {
+      "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/550GsoOszuZZyuSJNw4xOS"
+      },
+      "artists": [
+        {
+          "name": "Ekansh Mamgai",
+          "url": "https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170256,
+      "name": "Safar",
+      "url": "https://open.spotify.com/track/4d3TElnih8QT0Y9E2dRAQW"
     },
     {
       "album": {
@@ -3250,7 +3374,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184000,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/7qXU9k3EXn8sBAG9njp9Z8"
@@ -3701,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/6L9UmJraKH1b9AU2eE03sD"
+      },
+      "artists": [
+        {
+          "name": "Soham",
+          "url": "https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184499,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3DvXWSw1RsdRYOutyqMZ7n"
+    },
+    {
+      "album": {
         "name": "Watch Out",
         "url": "https://open.spotify.com/album/2uG4yn7ol8ohmFJfLBWIpf"
       },
@@ -3834,7 +3976,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 167619,
       "name": "Yaari Ke Dhaage",
       "url": "https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0"

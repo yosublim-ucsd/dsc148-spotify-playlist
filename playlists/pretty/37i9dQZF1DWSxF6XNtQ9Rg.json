@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 190137,
+  "num_followers": 190236,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWZmYzVlMzZjZjc0MGY3N2U5MjAwYTMyNzJjZjY2ZjFjZmY3ZjFj",
+  "snapshot_id": "MCxjOTYyYTE1MTVhYjQ5OTljZjQ3ZmMxZTc4OGNhMWM3ZWMyZTEyNzBh",
   "tracks": [
     {
       "added_at": "2023-07-18 09:14:25",
@@ -239,30 +239,6 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "T\u00caTE (feat. Medy & VillaBanks)",
-        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
-      },
-      "artists": [
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 180904,
-      "name": "T\u00caTE (feat. Medy & VillaBanks)",
-      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -283,6 +259,30 @@
       "duration_ms": 176772,
       "name": "NUOVO RANGE (con SFERA EBBASTA)",
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "T\u00caTE (feat. Medy & VillaBanks)",
+        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 180904,
+      "name": "T\u00caTE (feat. Medy & VillaBanks)",
+      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -703,26 +703,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
       "artists": [
         {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
         },
         {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
         }
       ],
-      "duration_ms": 211660,
-      "name": "SOLITE PARE (feat. thasup & Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj"
+      "duration_ms": 198066,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -751,22 +747,26 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+        "name": "X2",
+        "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
       "artists": [
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
         },
         {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 198066,
-      "name": "CASA",
-      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
+      "duration_ms": 211660,
+      "name": "SOLITE PARE (feat. thasup & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 171375,
-      "name": "Stamm Fort (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
         "name": "Soldi in Nero (feat. Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 183797,
       "name": "Soldi in Nero - feat. Sfera Ebbasta",
       "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Fenomeno",
+        "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Stavo Pensando A Te",
+      "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "La zone (feat. Shiva)",
         "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Fenomeno",
-        "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
         }
       ],
-      "duration_ms": 264573,
-      "name": "Stavo Pensando A Te",
-      "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
+      "duration_ms": 161266,
+      "name": "fuck 3x",
+      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1143,22 +1159,6 @@
       "duration_ms": 193554,
       "name": "Baby (with J Balvin)",
       "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "fuck 3x",
-      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
         "name": "Trap Lovers",
         "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 228287,
       "name": "Cambiare Adesso",
       "url": "https://open.spotify.com/track/2xjxaKiYssIdDU6DCPpZPt"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "90MIN",
+      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
         "name": "Santeria",
         "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 169683,
       "name": "Rompo (feat. Boro)",
       "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "90MIN",
-      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
     },
     {
       "added_at": "2023-07-18 09:14:25",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-07-18 09:14:25",
       "album": {
-        "name": "Santeria",
-        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 245197,
-      "name": "Salvador Dal\u00ec",
-      "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
-    },
-    {
-      "added_at": "2023-07-18 09:14:25",
-      "album": {
         "name": "Vita Vera Mixtape",
         "url": "https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 252991,
       "name": "Polvere (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/0ZzXPo0gS5h718w7WErG44"
+    },
+    {
+      "added_at": "2023-07-18 09:14:25",
+      "album": {
+        "name": "Santeria",
+        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 245197,
+      "name": "Salvador Dal\u00ec",
+      "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
     },
     {
       "added_at": "2023-07-18 09:14:25",

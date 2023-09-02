@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 275330,
+  "num_followers": 275719,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTQ4ZTE1ZGI0NDdhNThhOWUxOGU5ODdkNzIxYjMwMzQwNWRjNGEw",
+  "snapshot_id": "MCwyN2M2ZTNkN2ZhNTY5MWE2NzAyZDZlNzZiNDMyOGJmYzA1MmZkMDg2",
   "tracks": [
     {
       "added_at": "2023-05-04 21:27:18",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 234369,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 234369,
-      "name": "Casio",
-      "url": "https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
     },
     {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Keeping Me Under",
+        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 218926,
+      "name": "Keeping Me Under",
+      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
+    },
+    {
       "added_at": "2023-07-28 17:22:16",
       "album": {
         "name": "Feel Like Makin' Love (feat. Roberta Flack)",
@@ -529,36 +545,24 @@
       "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
+      "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Keeping Me Under",
-        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Keeping Me Under",
-      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
-      },
-      "artists": [
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "Mood Talk",
+          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+      "duration_ms": 226280,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -581,6 +585,22 @@
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
     },
     {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
       "added_at": "2023-07-28 17:22:16",
       "album": {
         "name": "Heartquake",
@@ -599,26 +619,6 @@
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Mood Talk",
-          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
     },
     {
       "added_at": "2023-05-04 21:27:18",
@@ -689,26 +689,6 @@
       "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
     },
     {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Everything Eventually Ends",
-        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        }
-      ],
-      "duration_ms": 177280,
-      "name": "Everything Eventually Ends",
-      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
-    },
-    {
       "added_at": "2023-06-29 14:20:09",
       "album": {
         "name": "Dance Moves",
@@ -759,22 +739,6 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -799,6 +763,42 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
+        "name": "Everything Eventually Ends",
+        "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Everything Eventually Ends",
+      "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
         "name": "House Hues",
         "url": "https://open.spotify.com/album/79qwBOBC6B5V6T2HDVrhx2"
       },
@@ -811,22 +811,6 @@
       "duration_ms": 98461,
       "name": "Separated",
       "url": "https://open.spotify.com/track/57VfoS1TXAp5Mx7l12MDNa"
-    },
-    {
-      "added_at": "2023-05-04 21:27:18",
-      "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183896,
-      "name": "Skin on Skin",
-      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     },
     {
       "added_at": "2023-06-29 14:20:09",
@@ -887,18 +871,38 @@
     {
       "added_at": "2023-05-04 21:27:18",
       "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl"
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
+    },
+    {
+      "added_at": "2023-05-04 21:27:18",
+      "album": {
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     }
   ],
   "unique_name": "Soir\u00e9e",

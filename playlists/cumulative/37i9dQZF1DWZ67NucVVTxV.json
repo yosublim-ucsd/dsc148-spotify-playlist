@@ -638,7 +638,7 @@
     {
       "album": {
         "name": "Because of Money",
-        "url": "https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw"
+        "url": "https://open.spotify.com/album/2VcO8zgDs50YQTe3WnPbmL"
       },
       "artists": [
         {
@@ -649,6 +649,24 @@
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172068,
+      "name": "Because of Money",
+      "url": "https://open.spotify.com/track/11cndrz2YTKiRd0SyfFnqY"
+    },
+    {
+      "album": {
+        "name": "Because of Money",
+        "url": "https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
       "duration_ms": 174315,
       "name": "Because of Money",
       "url": "https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU"

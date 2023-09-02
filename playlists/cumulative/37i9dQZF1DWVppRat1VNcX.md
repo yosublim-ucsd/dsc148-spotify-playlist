@@ -4,7 +4,7 @@
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-66 songs - 2 hr 30 min
+67 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Kung Fu Fighting](https://open.spotify.com/track/7eGAQnxbIHHFtS1p9rmAZ0) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Kung Fu Fighting](https://open.spotify.com/album/1e1TXaL2BLrWwtLD3vteNo) | 2:29 | 2020-04-22 |  |
 | [La Amistad](https://open.spotify.com/track/5qKp7KpIu23B5AEsw5n4ny) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Equestria Girls \- EP \(Español / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5JJsZFJqyY1t0nJwI6BnQM) | 2:26 | 2020-04-22 |  |
 | [La Sirenita: Bajo El Mar](https://open.spotify.com/track/0RG1UtnzOljJFHMaOtQUbJ) | [Animation Soundtrack Ensemble](https://open.spotify.com/artist/1Wi3vrwRk2FyBDk90QI01C) | [Música para los niños](https://open.spotify.com/album/6nDSDr7vMnrJD99JCIbDwv) | 3:10 | 2020-04-22 |  |
-| [Let's Get Silly](https://open.spotify.com/track/1vj1xkJqhhvoLl4tLPsjTx) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 1:02 | 2020-04-22 |  |
+| [Let's Get Silly](https://open.spotify.com/track/5WCCODeHgur2TPoQgLZNeh) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/6y77mrn553xhcbN9Po2XCv) | 1:01 | 2020-04-22 |  |
+| [Let's Get Silly](https://open.spotify.com/track/1vj1xkJqhhvoLl4tLPsjTx) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 1:02 | 2020-04-22 | 2023-09-02 |
 | [Let's Get Silly](https://open.spotify.com/track/4WzhzWc1KRpvrhMEiIQvdv) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/2bK91wL7wsGgJJ7uD6XFYo) | 1:02 | 2020-04-22 | 2022-07-29 |
 | [Me Muevo para Aquí](https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:48 | 2020-04-22 |  |
 | [My Bologna](https://open.spotify.com/track/77exFA9gOKLvj6yhyX07HD) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | ["Weird Al" Yankovic](https://open.spotify.com/album/1gnhuWdl30liEUM2jy9lxl) | 2:01 | 2020-04-22 |  |

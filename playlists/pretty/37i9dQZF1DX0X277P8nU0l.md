@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,627 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,652 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 30 | [Sun in June](https://open.spotify.com/track/5X33CqotQWpIYvC5XTTpGS) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Sun in June](https://open.spotify.com/album/5a0Rd79ItpxfDC3eHTMtmO) | 3:56 |
 | 31 | [Out on the weekend](https://open.spotify.com/track/0Gb9R3sEf8QQSQSLAkKpGQ) | [La Maison Tellier](https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze), [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Out on the weekend](https://open.spotify.com/album/4Tj6Wk4DXEZxHUz2B9xOzW) | 4:28 |
 | 32 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 |
-| 33 | [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 |
+| 33 | [Columbo](https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:33 |
 | 34 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 |
 | 35 | [Stay](https://open.spotify.com/track/5QnArCvhVH3TqZGuhwycRV) | [LUHA](https://open.spotify.com/artist/5axqcjmAhPJq0CHjtu8Ztv) | [Stay](https://open.spotify.com/album/7yP4Il1RMSvzNBxKFUPuoj) | 3:44 |
 | 36 | [Movie Star](https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Charlotte](https://open.spotify.com/track/4fLWpuB8IHI0Z8UecU4p9R) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9) | [Eye to Eye](https://open.spotify.com/album/1nPz4khN5zBQQRWQ7ClIXX) | 3:49 |
 | 50 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 |
 
-Snapshot ID: `MCwzYzEyZmZmMWE0YWY1NGNmN2I5YjkxMmJiODkyOTQwMWY4NjQxNGFj`
+Snapshot ID: `MCw2ZjE3YTRlZjYxNmM3MmE5NjhjYTVlMjU5YTg5ZDkxNzU5ODI4YTU2`

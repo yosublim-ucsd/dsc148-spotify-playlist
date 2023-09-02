@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. Master Peace",
-  "num_followers": 105573,
+  "num_followers": 105689,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWFkODU3ZjA4MzQ3OGM4YzE4ZWQ1MmM5ZTk2NWVkYzYyN2VjYzUx",
+  "snapshot_id": "MCw1MzkwNTdiM2EyYTUxYTU1M2QyZjY1MDNhZjA5ZjNlNGI2MjA4MjMy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "New York / LA Hex",
-        "url": "https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 244444,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 185560,
       "name": "The End Has No End",
       "url": "https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "New York / LA Hex",
+        "url": "https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 244444,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Give Up",
+        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 228066,
       "name": "Pass This On",
       "url": "https://open.spotify.com/track/0aWhxzFrP2Yyz3CetJe0xE"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Give Up",
-        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
-      },
-      "artists": [
-        {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Such Great Heights",
-      "url": "https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "The Sex EP",
+        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Locals (Girls like us) [with gabby start]",
         "url": "https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Sex EP",
-        "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J"
-      },
-      "artists": [
-        {
-          "name": "Ratatat",
-          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Wildcat",
-      "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1651,6 +1635,22 @@
       "duration_ms": 251380,
       "name": "Psychic City - Classixx Remix",
       "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J"
+      },
+      "artists": [
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Wildcat",
+      "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"
     }
   ],
   "unique_name": "Indie Sleaze",

@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: Royale BR
 
-90 songs - 5 hr 4 min
+92 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Show You](https://open.spotify.com/track/3Prgb5oHGJpaVanWZUHODc) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [No ExpressioN](https://open.spotify.com/artist/6RNcIa7VcxBBIgW6boctFo) | [Show You](https://open.spotify.com/album/6Y3EKiOO4EVu4if9Ge0KMr) | 2:39 | 2023-07-21 | 2023-08-19 |
 | [Siento Siento](https://open.spotify.com/track/6gBzC3Aldrj78W0dLWgqC3) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Siento Siento](https://open.spotify.com/album/1pGfEaQriYYtZhvP1GBc8p) | 2:57 | 2023-07-28 |  |
 | [So Beautiful](https://open.spotify.com/track/1yLkoxMWyzo39M5AIeEceQ) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S) | [So Beautiful](https://open.spotify.com/album/23RzzkhH3R2swSwhasgq3N) | 5:30 | 2023-07-21 |  |
+| [Still Alone \- Radio Mix](https://open.spotify.com/track/1Tdm1UZvAGhuftWElWq1SX) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Airsand](https://open.spotify.com/artist/4rlSlj2XnxKA05eZ7sLWSC), [TuraniQa](https://open.spotify.com/artist/7kXkMWoPg5UfAc4LQmfI9V) | [Still Alone](https://open.spotify.com/album/6yuKeb3lMCXGSqnDfRIU86) | 3:16 | 2023-09-01 |  |
 | [Supermodel](https://open.spotify.com/track/4xwTi99Mgyecsb4MbujBQc) | [Slow Sense](https://open.spotify.com/artist/03wQGBVieetF4FUmhKHRpK) | [Supermodel](https://open.spotify.com/album/5YygfYum5iE1KeXOqvSQg5) | 2:38 | 2023-07-21 |  |
 | [Take \- Radio Edit](https://open.spotify.com/track/3p3di0xn3SIvOSxoI3wNVf) | [Phael](https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Take](https://open.spotify.com/album/4t1IuRk9pZRPXKRvJsqRUP) | 2:30 | 2023-08-11 |  |
 | [Take It](https://open.spotify.com/track/3E6pRr10U7gMno9Ryz6HFC) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Take It](https://open.spotify.com/album/5pZy8jhvkq18dX4LoEHuem) | 3:33 | 2023-07-21 |  |
@@ -91,6 +92,7 @@
 | [There For You \- Radio Edit](https://open.spotify.com/track/7e9mhQqRu9dPjTIfffgJaV) | [LIGHTZ](https://open.spotify.com/artist/0IqAThyLT2MteUe21m7r2U) | [There For You](https://open.spotify.com/album/2qpK0mH0n319wqvTkyIBUh) | 3:05 | 2023-07-21 |  |
 | [Till the World Knows Me](https://open.spotify.com/track/1NFPtZARcv2bpQ9Z4Bycfy) | [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F) | [Till the World Knows Me](https://open.spotify.com/album/0jkxbj3vxFSbOMvU0NFGMl) | 4:12 | 2023-07-21 |  |
 | [Tonight](https://open.spotify.com/track/4xF3hjfUUEAOQESZmBwbnv) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Tonight](https://open.spotify.com/album/04F8y4KfwMra5M1l3gplna) | 3:00 | 2023-08-25 |  |
+| [Tugudu](https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Tugudu](https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr) | 3:31 | 2023-09-01 |  |
 | [Vai no Chão 2k23 \- Original Mix](https://open.spotify.com/track/6BH2EOiwGPsa99fYTOdPAr) | [Blaf Music \(Br\)](https://open.spotify.com/artist/3PvFN3ThKEI7t79YEW9M41), [Ali\_live](https://open.spotify.com/artist/03pwYVt6u2LbrDCUYnjGHz), [Cool 7rack](https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7) | [Vai no Chão 2k23 \(Original Mix\)](https://open.spotify.com/album/39BfhReJ5DS5fOrM2nYdzy) | 3:54 | 2023-07-21 |  |
 | [Velocidade](https://open.spotify.com/track/14QQZUBzohHF1BBSKZ1wfO) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Velocidade](https://open.spotify.com/album/7LmXgG6EOwRJ5468fhAbI6) | 2:38 | 2023-08-25 |  |
 | [Walls](https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Walls](https://open.spotify.com/album/2yMOT0xmZBEoh9PSL8wqP3) | 2:31 | 2023-07-21 |  |

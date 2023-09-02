@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,994 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,007 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 30 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
 | 31 | [Violet is BACK to help you fall sleep Pt.1](https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Violet is BACK to help you fall sleep](https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw) | 4:37 |
 | 32 | [Uplifting Mantra Pt One](https://open.spotify.com/track/7KyX01fc7U3dFZhOj9pe3l) | [Asmr Brain Tingle](https://open.spotify.com/artist/4CpBOpDeQHIX60fHEx483m) | [Uplifting Mantras](https://open.spotify.com/album/0HsXJ5W6Aw8VHKD9PdsU1g) | 4:53 |
-| 33 | [The Invisible Man \- Unintelligible Inaudible Whispered Reading, Pt\. 6](https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq) | [WhisperAudios ASMR](https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G) | [ASMR \- The Invisible Man \- Unintelligible/Inaudible Whispered Reading \(WITHOUT ambient sounds\)](https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV) | 5:59 |
-| 34 | [Audio on Spotify, Surfshark](https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Shh it's Ok, Relax and Ramble \(Personal Attention/Affirmation\)](https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX) | 10:42 |
+| 33 | [Audio on Spotify, Surfshark](https://open.spotify.com/track/0yxwH0oTxs7ClQvIwBTBni) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Shh it's Ok, Relax and Ramble \(Personal Attention/Affirmation\)](https://open.spotify.com/album/2jHbhWnHRu1jfYtEiBBMMX) | 10:42 |
+| 34 | [The Invisible Man \- Unintelligible Inaudible Whispered Reading, Pt\. 6](https://open.spotify.com/track/3FNsE3UYSS8IApdW75p3rq) | [WhisperAudios ASMR](https://open.spotify.com/artist/7fGDcsgOFZ04EzVFGONS1G) | [ASMR \- The Invisible Man \- Unintelligible/Inaudible Whispered Reading \(WITHOUT ambient sounds\)](https://open.spotify.com/album/23ZSJ73eskvUgV5tqOlWIV) | 5:59 |
 | 35 | [Painting Your Lips](https://open.spotify.com/track/7JncmWmBHWrLXWtMkLWqCx) | [The Healing Room ASMR](https://open.spotify.com/artist/74gNzgz0jO2Ch2D6QqA0cs) | [ASMR Egyptian Spa \| Bathing You, Skin Treatment, Makeup, Pampering \- ASMR Roleplay Soft Spoken](https://open.spotify.com/album/7cueYYiDNozCHhIc36e7Ip) | 1:14 |
 | 36 | [Positive Affirmations](https://open.spotify.com/track/4tO8q7KwM67C86FJHDAeoY) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [Intensely Crunchy Celery Eating](https://open.spotify.com/album/40JIcThcdSCG0hGyxKQDec) | 14:44 |
 | 37 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 46 | [Whispers and Dry Ear Massage](https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T) | [ASMR LillyVinnily](https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ) | [10 Triggers To Help Relax Your Brain At Night](https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb) | 9:44 |
 | 47 | [Do You Have Plans?](https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Checking Up On You \(Scratch, Tapping, Ramble\)](https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy) | 5:21 |
 | 48 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3) | 3:36 |
-| 49 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 |
-| 50 | [It's Just You and Me](https://open.spotify.com/track/1wUoJueIuf0OL3jagKRt8D) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/3IXSl8QI6bTxwUyk1wGBL2) | 3:38 |
+| 49 | [It's Just You and Me](https://open.spotify.com/track/1wUoJueIuf0OL3jagKRt8D) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/3IXSl8QI6bTxwUyk1wGBL2) | 3:38 |
+| 50 | [Gibberish](https://open.spotify.com/track/71E2C3WKGRu4Q4BOtYipx1) | [Mikki ASMR](https://open.spotify.com/artist/0CinSQAHxIyGB3lNkPEQVu) | [ASMR Whispers](https://open.spotify.com/album/4M7mKm6D8XbCYWDEf3INVN) | 5:06 |
 
-Snapshot ID: `MCxkMDc4MzViNGJmMzYyNzlmYTk1NmY2NjFiNWRlNWFmNzgyNThmNDdm`
+Snapshot ID: `MCw4YmE2ZWNjNmMyOTBkOWE0OGRmNmM0MDNhMjNjNDY0M2MzNDM3NGY5`

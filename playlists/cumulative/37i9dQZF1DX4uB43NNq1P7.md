@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-91 songs - 4 hr 6 min
+92 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-13 |  |
 | [Shoganai \- Rain version](https://open.spotify.com/track/1GNOoyUXt6Cthxd4JlOLx2) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai \- Rain version](https://open.spotify.com/album/3edIRkiUxDKsY0IxoU2ZQy) | 3:14 | 2023-04-24 |  |
 | [Soft Piano In Light Rain](https://open.spotify.com/track/2t5rleV4AUS329uPShiEQ6) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Rain & Piano](https://open.spotify.com/album/4Hxom43QXe8rjoiw1uxyFB) | 3:20 | 2023-03-13 |  |
+| [Solitude \(rain\)](https://open.spotify.com/track/7rJ7Zhxvd04reQjatzKhCg) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Tjörnin \(rain\)](https://open.spotify.com/album/2KAYvmo41twqasnKkDigBs) | 3:36 | 2023-09-01 |  |
 | [Soothing Raindrops](https://open.spotify.com/track/6U0aQFWE7BJj3WSxE0Q8oG) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Rain & Piano \- vol.1](https://open.spotify.com/album/7rhRA2bs7V7dpaDqRhIPce) | 3:40 | 2023-03-13 |  |
 | [Sparkling Raindrops](https://open.spotify.com/track/6wa9UyYtc4fzGudPw0l361) | [Konstantin Rotärmel](https://open.spotify.com/artist/73x7dsM3ThlOaumf63iiyT) | [Feel the Rain](https://open.spotify.com/album/630CuaflRgHBARUoVuUJQ7) | 2:07 | 2023-03-13 |  |
 | [Stillness](https://open.spotify.com/track/1V0xxtY4yJGo5sotrsR5Oq) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Stillness](https://open.spotify.com/album/0tHMoVyt7PcxXeJHdC3GHU) | 3:13 | 2023-03-13 |  |

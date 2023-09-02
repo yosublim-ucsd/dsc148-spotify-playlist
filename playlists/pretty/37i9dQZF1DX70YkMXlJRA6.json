@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 45446,
+  "num_followers": 45476,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
+  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Raffolution",
-        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Latino & Proud",
-      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
         "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Raffolution",
+        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Madremonte",
         "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 204705,
       "name": "Guadalupe",
       "url": "https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Beach Planet Vol. 1",
-        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
-      },
-      "artists": [
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Each Time I Think of You",
-      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -483,6 +467,22 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Beach Planet Vol. 1",
+        "url": "https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp"
+      },
+      "artists": [
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Each Time I Think of You",
+      "url": "https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar"
     },
     {
       "added_at": "2023-03-23 21:34:53",
@@ -547,6 +547,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Que Me Siga (Malo)",
+        "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Que Me Siga (Malo)",
+      "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Baile Fodongo",
         "url": "https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 284023,
       "name": "M\u00e9tele - Cesare Remix",
       "url": "https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Que Me Siga (Malo)",
-        "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Que Me Siga (Malo)",
-      "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Cookin' Gumbo",
-        "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
       },
       "artists": [
         {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
         }
       ],
-      "duration_ms": 209672,
-      "name": "Speakin' Nuyorican",
-      "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
+      "duration_ms": 284000,
+      "name": "Costa Para\u00edso",
+      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
+        "name": "Cookin' Gumbo",
+        "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
       },
       "artists": [
         {
-          "name": "Aceros del Pac\u00edfico",
-          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Costa Para\u00edso",
-      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
+      "duration_ms": 209672,
+      "name": "Speakin' Nuyorican",
+      "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
     },
     {
       "added_at": "2022-06-07 16:47:23",

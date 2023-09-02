@@ -474,7 +474,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 154701,
       "name": "Bombonzinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 145091,
       "name": "DONA DE MIM",
       "url": "https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT"
@@ -1154,6 +1154,28 @@
       "duration_ms": 135325,
       "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
+    },
+    {
+      "album": {
+        "name": "Traia V\u00e9ia (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg"
+      },
+      "artists": [
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134932,
+      "name": "Eu N\u00e3o Previ - Ao Vivo em Goi\u00e2nia",
+      "url": "https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ"
     },
     {
       "album": {
@@ -2169,6 +2191,28 @@
     },
     {
       "album": {
+        "name": "Oficializar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2pU9UzS827vpfB5NHy7N4t"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167514,
+      "name": "Oficializar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eID9KNVJV2fDSPQGzQHQg"
+    },
+    {
+      "album": {
         "name": "Escolhas, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Hm805Bj72CboaLxaCJnqC"
       },
@@ -2610,7 +2654,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 180293,
       "name": "Solteiro Frustrado - Ao Vivo",
       "url": "https://open.spotify.com/track/4QqkNyWHUACzoT6isznHWS"
@@ -2842,6 +2886,24 @@
       "duration_ms": 203158,
       "name": "Troca de Cal\u00e7ada",
       "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
+    },
+    {
+      "album": {
+        "name": "T\u00f4 Voltando (Boiadeira Internacional)",
+        "url": "https://open.spotify.com/album/6XSzObpAsubR64mMnbmyt8"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177327,
+      "name": "T\u00f4 Voltando - (Boiadeira Internacional)",
+      "url": "https://open.spotify.com/track/7G2yGMHlcPPTCDhMrAaMyZ"
     },
     {
       "album": {

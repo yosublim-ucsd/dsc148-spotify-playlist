@@ -837,6 +837,28 @@
     },
     {
       "album": {
+        "name": "WE MADE PLANS & GOD LAUGHED",
+        "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
+      },
+      "artists": [
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        },
+        {
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188423,
+      "name": "ALMOST FAMOUS feat. Mark Hoppus",
+      "url": "https://open.spotify.com/track/6h1mv6xCmdcmhmZ04TNTVk"
+    },
+    {
+      "album": {
         "name": "I Left You In Minnesota",
         "url": "https://open.spotify.com/album/7zRxOIx96EH95H7sFBnqHo"
       },
@@ -14540,7 +14562,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 191976,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"

@@ -10642,7 +10642,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 142855,
       "name": "Pofuduk",
       "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
@@ -14070,6 +14070,24 @@
       "duration_ms": 185999,
       "name": "Ziyafet (Seri Katiller 5)",
       "url": "https://open.spotify.com/track/3HIhscB8cHVusqdqGMka1t"
+    },
+    {
+      "album": {
+        "name": "D\u00fcnya G\u00fcnl\u00fckleri",
+        "url": "https://open.spotify.com/album/3OIhzweJb5vgDOnPHTl3Dp"
+      },
+      "artists": [
+        {
+          "name": "Adamlar",
+          "url": "https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234597,
+      "name": "Zombi",
+      "url": "https://open.spotify.com/track/5gUaqAYNgO2yclwM5seMFm"
     },
     {
       "album": {

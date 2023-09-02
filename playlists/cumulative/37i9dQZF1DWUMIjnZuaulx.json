@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu?si=u2hUf2VrRbyLgsZKX_wUyQ\">Kirk Franklin<a> ",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY?si=821994ca10144b1e\">Mali Music<a> ",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 214930,
       "name": "He'll Come Through",
       "url": "https://open.spotify.com/track/4FzbIFoZZ4l6BlMfYuCuLm"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 395810,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 201938,
       "name": "My Worship",
       "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
@@ -4602,7 +4602,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 268625,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
@@ -5837,6 +5837,32 @@
     },
     {
       "album": {
+        "name": "Tell 'Em Yes (Live)",
+        "url": "https://open.spotify.com/album/0d92kjgHOfdlS0uNk1GNLE"
+      },
+      "artists": [
+        {
+          "name": "Brandon A. Jacobs",
+          "url": "https://open.spotify.com/artist/7vF9GXItuv8qrIGpLIubFz"
+        },
+        {
+          "name": "New Zion Temple Church Choir",
+          "url": "https://open.spotify.com/artist/7AtzAGpfJLrbE65N87CjwO"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431265,
+      "name": "Tell 'Em Yes - Live",
+      "url": "https://open.spotify.com/track/1YqC5VYiLVxOIYId3MPOly"
+    },
+    {
+      "album": {
         "name": "Tell That (feat. Mr. Talkbox)",
         "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
       },
@@ -6193,6 +6219,32 @@
     },
     {
       "album": {
+        "name": "The Promise (Live)",
+        "url": "https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        },
+        {
+          "name": "David & Nicole Binion",
+          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650760,
+      "name": "The Promise - Live",
+      "url": "https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd"
+    },
+    {
+      "album": {
         "name": "The Promise (Radio Edit)",
         "url": "https://open.spotify.com/album/1ohkOxlFoEPZO5gsFMDmZg"
       },
@@ -6514,6 +6566,28 @@
       "duration_ms": 293492,
       "name": "Victory (feat. Jekalyn Carr)",
       "url": "https://open.spotify.com/track/2fRvmXDODi99dY6xOGx0oX"
+    },
+    {
+      "album": {
+        "name": "Victory Is Coming (Live)",
+        "url": "https://open.spotify.com/album/3L57d83UvWKADZs7HpMztl"
+      },
+      "artists": [
+        {
+          "name": "Montrae Tisdale and The Friends Chorale",
+          "url": "https://open.spotify.com/artist/6coWqEDygWVo2aVKcN8Ep2"
+        },
+        {
+          "name": "Superintendent Eric Andrews",
+          "url": "https://open.spotify.com/artist/5eEzd8Cgisp8hAM7biXfPz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346124,
+      "name": "Victory Is Coming - Live",
+      "url": "https://open.spotify.com/track/3GppTzAXlHi2ayQsUQdZza"
     },
     {
       "album": {
@@ -7112,6 +7186,24 @@
       "duration_ms": 393306,
       "name": "Wrong About You (Live)",
       "url": "https://open.spotify.com/track/0FKLNnBomURjpw6pKIvS3E"
+    },
+    {
+      "album": {
+        "name": "God Be Praised",
+        "url": "https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 22802,
+  "num_followers": 22847,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzZjMjhiYzY0ZmI3MDE2M2M0OGEyYTE4ZDA0M2I0NzYxZGYxYjc5",
+  "snapshot_id": "MCxlZDE3MDNiZTE2MTgzMTQyODM3ZWRkNjRkMjI5YTgxNTI4M2YwNDkz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -127,18 +127,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Melt My Eyez See Your Future",
-        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
       },
       "artists": [
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        },
+        {
+          "name": "Lazy Jay",
+          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
         }
       ],
-      "duration_ms": 176000,
-      "name": "X-Wing",
-      "url": "https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw"
+      "duration_ms": 204956,
+      "name": "212",
+      "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -159,6 +163,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Melt My Eyez See Your Future",
+        "url": "https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "X-Wing",
+      "url": "https://open.spotify.com/track/41X9qar6SruZOPLIV7sgUw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Jumpin (feat. Polo G)",
         "url": "https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 181198,
       "name": "Jumpin (feat. Polo G)",
       "url": "https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Broke with Expensive Taste",
-        "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        },
-        {
-          "name": "Lazy Jay",
-          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
-        }
-      ],
-      "duration_ms": 204956,
-      "name": "212",
-      "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Jem Cassar\-Daley
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,800 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,805 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 |
 | 2 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 |
-| 3 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 |
+| 3 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 |
 | 4 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
 | 5 | [High School Drama](https://open.spotify.com/track/4R5Mf6PT2EwgkZIXwoKjAD) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [High School Drama](https://open.spotify.com/album/4MBtDxeecH2fTMfs2wSPaM) | 2:52 |
 | 6 | [Done With Boys](https://open.spotify.com/track/4N9ZQzyILp50rhNKJd7W27) | [Matilda Pearl](https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw) | [Done With Boys](https://open.spotify.com/album/4SktpyPG6ajCauuQpn8stq) | 3:16 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 91 | [nice](https://open.spotify.com/track/29wl32cIPkuiOcGLYdFGVv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [nice](https://open.spotify.com/album/6VQGSVyGAftU1zhTJU4Q3t) | 1:57 |
 | 92 | [i’ll keep driving](https://open.spotify.com/track/3paQIuYfSrEcYUNGZTw3Es) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [ten feet tall](https://open.spotify.com/album/6TETMIrJLfXnQQWSpavE5r) | 3:42 |
 | 93 | [U, U and Only U](https://open.spotify.com/track/4rq2z754eYOq3HBDCVcswc) | [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [IT'S PRICIE](https://open.spotify.com/album/3oxB7OZmXl7G0KAehBE9iJ) | 3:14 |
-| 94 | [In Person](https://open.spotify.com/track/6VSIeXguQQFWomYqBP9ECD) | [Zoe Moon](https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob) | [In Person](https://open.spotify.com/album/7DcV93rZBpU6R1v8Qm9Tc5) | 3:27 |
+| 94 | [In Person](https://open.spotify.com/track/3XMrGKQKcrH5vzf00Jxw87) | [Zoe Moon](https://open.spotify.com/artist/0yYwRsFWiHLy6ZIKRLcVob) | [In Person](https://open.spotify.com/album/6KgpYWJFy4KtEXiGqGpHyz) | 3:27 |
 | 95 | [Sixth Sense](https://open.spotify.com/track/3sfbnQJgdgvAwVygAf6qZ1) | [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q) | [Sixth Sense](https://open.spotify.com/album/2dIyeoPQ9kmSDbFst4dogk) | 3:09 |
 | 96 | [Be With You](https://open.spotify.com/track/63uE5v07tVssOeuHlvBOmw) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [Be With You](https://open.spotify.com/album/6QU74V78IonKBB1Xkn65cT) | 3:34 |
 | 97 | [All or Nothing](https://open.spotify.com/track/2tv53YIZ2I3zzWEiVHI9Wg) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [All or Nothing](https://open.spotify.com/album/7MzVyDDDCpp6WvJkfTzNUz) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [See Through](https://open.spotify.com/track/0ZtMzghkupL55g6ToThFwZ) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [See Through](https://open.spotify.com/album/707D7zGBRDXtVVBwwWY24T) | 3:14 |
 | 100 | [Myriagon \(No Photos Please\)](https://open.spotify.com/track/1bHMdStFH8IKo8KO3umtyC) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Myriagon \(No Photos Please\)](https://open.spotify.com/album/5yJA9xeRSuSX3FIlsJIG8L) | 2:54 |
 
-Snapshot ID: `MCw1YzVlODk2MjkzYjhmYzQ0ZjAzMTFiZWY3MTRlN2NiODBlYWEyODdh`
+Snapshot ID: `MCwxZjA2M2Y0ZWZjOTU5OGVmYjE2ZjhjN2Y4OTQ1NjNkY2VmZGU4OTEw`

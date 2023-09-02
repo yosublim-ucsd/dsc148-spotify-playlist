@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Quiero Salsa, dame Salsa! Foto: Marc Anthony",
-  "num_followers": 474529,
+  "num_followers": 474902,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTZkMWJmZTY1MTJlNDBmNmQ4YjYyZGI2ZDE3ZTY1ODQyMzU2NDIz",
+  "snapshot_id": "MCxmOGU1NDA1MzVhNjBjZDJhOTk5MDY3NjYzZDk0ZjE0MjMwZGQ3NTg2",
   "tracks": [
     {
       "added_at": "2023-01-02 17:05:31",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
       "added_at": "2023-01-02 17:05:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
-        "name": "No Me Olvidaras",
-        "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
         "name": "Sentimental de Punta a Punta",
         "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 302320,
       "name": "La Quiero A Morir",
       "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
+        "name": "No Me Olvidaras",
+        "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
     },
     {
       "added_at": "2023-01-02 17:05:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
-        "name": "Numero 7",
-        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 298515,
-      "name": "Un verano en Nueva York",
-      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
         "name": "Como Te Pago",
         "url": "https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
+        "name": "Numero 7",
+        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 298515,
+      "name": "Un verano en Nueva York",
+      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
     },
     {
       "added_at": "2023-01-02 17:05:31",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 285546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
     },
     {
       "added_at": "2023-01-02 17:05:31",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-01-02 17:05:31",
       "album": {
-        "name": "Charanga Moderna",
-        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 160115,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
-    },
-    {
-      "added_at": "2023-01-02 17:05:31",
-      "album": {
         "name": "Colecci\u00f3n De Oro",
         "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 230520,
       "name": "Desesperado",
       "url": "https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5"
+    },
+    {
+      "added_at": "2023-01-02 17:05:31",
+      "album": {
+        "name": "Charanga Moderna",
+        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 160115,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
     },
     {
       "added_at": "2023-01-02 17:05:31",

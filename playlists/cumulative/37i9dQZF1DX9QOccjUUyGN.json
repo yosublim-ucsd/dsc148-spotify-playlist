@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: Froid",
+  "description": "tranquilo e calmo, no flow. Foto: Welisson, Fabin",
   "name": "tamo flex",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147428,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/5yyE3yW8tHIC2A5CQkiRwc"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 161344,
       "name": "Ap\u00ea",
       "url": "https://open.spotify.com/track/3shrQ68tVGMkl1qOE2NaPV"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184999,
       "name": "Champagne & Sunshine",
       "url": "https://open.spotify.com/track/2o6nViNDO36NyyhVWjEUK7"
@@ -2853,6 +2853,32 @@
     },
     {
       "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/5LbeAhwvmJ6bpqHy529sJe"
+      },
+      "artists": [
+        {
+          "name": "Jackdi",
+          "url": "https://open.spotify.com/artist/25pMy28xDC6P7ohFN8cTah"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Young Nic",
+          "url": "https://open.spotify.com/artist/7do3Ko9ApobnDPFKYOeHQP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173581,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/1ATeempyWt7rkO8sNJas6p"
+    },
+    {
+      "album": {
         "name": "Deu Saudade",
         "url": "https://open.spotify.com/album/210kypIEoUxUzSaMEGAkQM"
       },
@@ -2890,6 +2916,32 @@
       "duration_ms": 220000,
       "name": "Deus \u00e9 Bom",
       "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
+    },
+    {
+      "album": {
+        "name": "Deux.",
+        "url": "https://open.spotify.com/album/5Ms2xGexRVOV1xfy36s8iq"
+      },
+      "artists": [
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Deux.",
+      "url": "https://open.spotify.com/track/04xUuPS4eE49iVC0vy5Eds"
     },
     {
       "album": {
@@ -3370,6 +3422,32 @@
       "duration_ms": 172800,
       "name": "Ela Vem Jogando Tudo Pra Mim",
       "url": "https://open.spotify.com/track/7v4fI1akJweXPhNgDIAf0z"
+    },
+    {
+      "album": {
+        "name": "Ela \u00e9 Rica",
+        "url": "https://open.spotify.com/album/2NKLcKdxhEWpbRr1xpZaT9"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        },
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199846,
+      "name": "Ela \u00e9 Rica",
+      "url": "https://open.spotify.com/track/4GNdIl4x1p4TQU1Q81f7Wq"
     },
     {
       "album": {
@@ -4118,7 +4196,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 116192,
       "name": "Fiquei S\u00f3",
       "url": "https://open.spotify.com/track/1l4A5HI2yH5wdOaAr5BA7h"
@@ -4780,7 +4858,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 290000,
       "name": "Humildade e Disciplina",
       "url": "https://open.spotify.com/track/3DmjVHqWqPHbgsCYjcOOdM"
@@ -4850,6 +4928,32 @@
       "duration_ms": 201685,
       "name": "Indo Al\u00e9m",
       "url": "https://open.spotify.com/track/4Ni024mbwhlw5PMTGdMrlw"
+    },
+    {
+      "album": {
+        "name": "Ins\u00f4nia",
+        "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206632,
+      "name": "Ins\u00f4nia",
+      "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
     },
     {
       "album": {
@@ -5387,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "LV",
+        "url": "https://open.spotify.com/album/1oSyVsD9Lhn9FnejNDrq1p"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "LV",
+      "url": "https://open.spotify.com/track/78vOfeGlO1B9cRwzVdm3fR"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas Em Notas",
         "url": "https://open.spotify.com/album/3zPyzGMRVjJFoaMRgtgpLZ"
       },
@@ -5424,7 +5546,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 157500,
       "name": "L\u00facido",
       "url": "https://open.spotify.com/track/7bXXiyO5hF7wpFDIyxxtxX"
@@ -6075,6 +6197,32 @@
     },
     {
       "album": {
+        "name": "Mina Maluca",
+        "url": "https://open.spotify.com/album/1FM3TXQgpfFtmOJ2cxsojk"
+      },
+      "artists": [
+        {
+          "name": "Mc Menor R7",
+          "url": "https://open.spotify.com/artist/1SpUElkQMDn3NgGHPjxGKz"
+        },
+        {
+          "name": "Mc Jean",
+          "url": "https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B"
+        },
+        {
+          "name": "DJ Theu",
+          "url": "https://open.spotify.com/artist/6FF3Heb2v3FW6kMrW7EfT7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Mina Maluca",
+      "url": "https://open.spotify.com/track/6LP2Bqu8fdCEw5iQNUqMXm"
+    },
+    {
+      "album": {
         "name": "Minha Vibe",
         "url": "https://open.spotify.com/album/09ObdtyOsHF4sKc2B4U6YL"
       },
@@ -6334,7 +6482,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 211525,
       "name": "Multiplica",
       "url": "https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ"
@@ -6442,7 +6590,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173233,
       "name": "M\u00ednimo",
       "url": "https://open.spotify.com/track/7v8lOBWalS9VfZ3USHuGL3"
@@ -6758,6 +6906,28 @@
       "duration_ms": 167564,
       "name": "Neurose",
       "url": "https://open.spotify.com/track/0JOMfBTio9gth3jkg05rkp"
+    },
+    {
+      "album": {
+        "name": "Niggas",
+        "url": "https://open.spotify.com/album/12KhARbTyWcrqkkDt40p2k"
+      },
+      "artists": [
+        {
+          "name": "BLACK MOB",
+          "url": "https://open.spotify.com/artist/6fln1Tr6HEnvnYy4NqkaQu"
+        },
+        {
+          "name": "Dzalles",
+          "url": "https://open.spotify.com/artist/1g6LF0uXFYCwtHPCx1qzTm"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Niggas (feat. Dzalles)",
+      "url": "https://open.spotify.com/track/7hvyNLtgwCBIbMLF8uh3FE"
     },
     {
       "album": {
@@ -7114,6 +7284,32 @@
       "duration_ms": 244067,
       "name": "O Que Ela Quer",
       "url": "https://open.spotify.com/track/3FaJUNbE7IoWvJ2trxgCGd"
+    },
+    {
+      "album": {
+        "name": "O Que Voc\u00ea Quer De Mim?",
+        "url": "https://open.spotify.com/album/2AynRDQApq3gMqTV3RSa00"
+      },
+      "artists": [
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Lil Gabi",
+          "url": "https://open.spotify.com/artist/5mBUw2lTWpPs3bMddcvoLh"
+        },
+        {
+          "name": "JF",
+          "url": "https://open.spotify.com/artist/4qPuG9huUJ72ZOtAmSfB7E"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "O Que Voc\u00ea Quer De Mim?",
+      "url": "https://open.spotify.com/track/716PQM0u5KAK2ZewFFvWNX"
     },
     {
       "album": {
@@ -9395,6 +9591,32 @@
     },
     {
       "album": {
+        "name": "Putodiparis no Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Mht5sVGlc6Wo6quqTWLlp"
+      },
+      "artists": [
+        {
+          "name": "Putodiparis",
+          "url": "https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        },
+        {
+          "name": "Sheik S",
+          "url": "https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158209,
+      "name": "Sr. Armani & Sheik S Freestyle - Ao Vivo",
+      "url": "https://open.spotify.com/track/5z3zsHV0G9cIYfLPHYWDrB"
+    },
+    {
+      "album": {
         "name": "Suco de Maracuj\u00e1",
         "url": "https://open.spotify.com/album/4yTQTTLzRcxhfL6Tk4rBsU"
       },
@@ -10150,7 +10372,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 272462,
       "name": "UNFOLLOW",
       "url": "https://open.spotify.com/track/7cGtaRsbQ8YABO3BTD4fIt"

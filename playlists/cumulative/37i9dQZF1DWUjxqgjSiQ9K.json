@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu?si=b6b8dfd45e884412\">Funky</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h?si=e22345d33f71461a\">Daniel Calveti</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1829,6 +1829,32 @@
     },
     {
       "album": {
+        "name": "Con\u00e9ctate Conmigo",
+        "url": "https://open.spotify.com/album/40ISGF0hDuH9Glsdyt7xsY"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261760,
+      "name": "Con\u00e9ctate Conmigo",
+      "url": "https://open.spotify.com/track/3lXn28wEvzS0MfqvICJuTg"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
       },
@@ -1988,6 +2014,28 @@
       "duration_ms": 271374,
       "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
       "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
+    },
+    {
+      "album": {
+        "name": "Corro A Tus Brazos",
+        "url": "https://open.spotify.com/album/31MyEJ9tC42clCwri2yMQG"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224312,
+      "name": "Corro A Tus Brazos",
+      "url": "https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K"
     },
     {
       "album": {
@@ -3246,6 +3294,28 @@
       "duration_ms": 537226,
       "name": "El rollo y el Cordero",
       "url": "https://open.spotify.com/track/7azBBVR9SOOiEjH4uH6wCW"
+    },
+    {
+      "album": {
+        "name": "LA MESA",
+        "url": "https://open.spotify.com/album/6YQ7BHSUUW6g7XqvPLHBBu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Yvonne Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 829415,
+      "name": "Emanuel",
+      "url": "https://open.spotify.com/track/5n8Hp42nZLXEK29gjCm1J1"
     },
     {
       "album": {
@@ -4696,7 +4766,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 443586,
       "name": "LA MESA",
       "url": "https://open.spotify.com/track/60uZkdyAXuJywgNWLBzPlf"
@@ -6148,7 +6218,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 261739,
       "name": "No Fue Un Tiro De Suerte",
       "url": "https://open.spotify.com/track/3CXs1ePFimpOdhvU7je7i5"
@@ -8016,7 +8086,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 219361,
       "name": "Soluci\u00f3n",
       "url": "https://open.spotify.com/track/7L2iH3hbDuMpxIwABcyHV9"
@@ -8436,7 +8506,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 347848,
       "name": "Te Veo",
       "url": "https://open.spotify.com/track/020ZLoCGgsXIEGKFA1tLmc"
@@ -8892,7 +8962,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 1273166,
       "name": "Tu Presencia Es Mi Jard\u00edn",
       "url": "https://open.spotify.com/track/6fW2AorInVedtVTPSZDeGi"

@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Alaskan Tapes on cover.",
-  "num_followers": 164926,
+  "num_followers": 165030,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjczMmQzMjdhNDIzNDNmNWI1MzA2MWViMWUwMGYwNGYzNDlhMWU3",
+  "snapshot_id": "MCxiNGYwNWFmYTY4ZjIxYjljMDFiZWI5MTA2YjJkYzIzZGQ1MjBlYzAx",
   "tracks": [
     {
       "added_at": "2023-09-01 00:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Start Somewhere",
-        "url": "https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 131107,
-      "name": "Start Somewhere",
-      "url": "https://open.spotify.com/track/023UVWUEDMp00awfgpEbhK"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Voices 2",
         "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Start Somewhere",
+        "url": "https://open.spotify.com/album/45Qh4kJ9fSnjo6awLgYew8"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 131107,
+      "name": "Start Somewhere",
+      "url": "https://open.spotify.com/track/023UVWUEDMp00awfgpEbhK"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "over you",
         "url": "https://open.spotify.com/album/3p88cMayv8AdlbHOcv7z5f"
       },
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
       },
       "artists": [
         {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/2UVs5lDKzxXMj3S4VVHqZP"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/3Hw82o76Fx70n0tyheezBN"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 174855,
       "name": "Integration",
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/2UVs5lDKzxXMj3S4VVHqZP"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/3Hw82o76Fx70n0tyheezBN"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "In Light Of Blues",
+        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
+      },
+      "artists": [
+        {
+          "name": "Celer",
+          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
+        }
+      ],
+      "duration_ms": 115914,
+      "name": "Precious Past Hours",
+      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "In Light Of Blues",
-        "url": "https://open.spotify.com/album/6lublxQLiB9wNHvcMRM6vD"
-      },
-      "artists": [
-        {
-          "name": "Celer",
-          "url": "https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O"
-        }
-      ],
-      "duration_ms": 115914,
-      "name": "Precious Past Hours",
-      "url": "https://open.spotify.com/track/42UJEe86XSI1Mm94IyhkCc"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 118133,
-      "name": "Morning Tides",
-      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 190482,
       "name": "20220302 - sarabande",
       "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 118133,
+      "name": "Morning Tides",
+      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Movement VI",
-        "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Movement VI",
-      "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Nouveau-N\u00e9",
         "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 198901,
       "name": "acceptances",
       "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Movement VI",
+        "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Movement VI",
+      "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "I Remember You Being Happy",
-        "url": "https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS"
-      },
-      "artists": [
-        {
-          "name": "BAILE",
-          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "I Remember You Being Happy",
-      "url": "https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "No Highs",
         "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 155472,
       "name": "Winter Cop",
       "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "I Remember You Being Happy",
+        "url": "https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "I Remember You Being Happy",
+      "url": "https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Minamo",
-        "url": "https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ"
-      },
-      "artists": [
-        {
-          "name": "Shingo Mimura",
-          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Kiteki",
-      "url": "https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 140453,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Minamo",
+        "url": "https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ"
+      },
+      "artists": [
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Kiteki",
+      "url": "https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1391,22 +1391,6 @@
       "duration_ms": 118897,
       "name": "Fin ao\u00fbt, d\u00e9but septembre",
       "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Extemperate",
-        "url": "https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn"
-      },
-      "artists": [
-        {
-          "name": "Matt Robertson",
-          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "End Menu",
-      "url": "https://open.spotify.com/track/1QhUq6WEJdtMEcahQ7KBkN"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1459,22 +1443,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Isola",
-        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
-      },
-      "artists": [
-        {
-          "name": "Rumpistol",
-          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
-        }
-      ],
-      "duration_ms": 315960,
-      "name": "Vindheks",
-      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Starlit Lake",
         "url": "https://open.spotify.com/album/0o3BzLWKCPllbznVgozHzg"
       },
@@ -1491,6 +1459,38 @@
       "duration_ms": 297874,
       "name": "Interstellar Clouds",
       "url": "https://open.spotify.com/track/0cK11RP6yVl1OM6oIpUZre"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
+      },
+      "artists": [
+        {
+          "name": "Rumpistol",
+          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
+        }
+      ],
+      "duration_ms": 315960,
+      "name": "Vindheks",
+      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Extemperate",
+        "url": "https://open.spotify.com/album/1CU6vcBYMcbV4NUIUpRGtn"
+      },
+      "artists": [
+        {
+          "name": "Matt Robertson",
+          "url": "https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "End Menu",
+      "url": "https://open.spotify.com/track/1QhUq6WEJdtMEcahQ7KBkN"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Music For The Motion Picture Double Life",
-        "url": "https://open.spotify.com/album/4VDXFYv47aNsXtu6zvYeYu"
-      },
-      "artists": [
-        {
-          "name": "Ava Rasti",
-          "url": "https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY"
-        }
-      ],
-      "duration_ms": 403500,
-      "name": "Music For The Motion Picture Double Life",
-      "url": "https://open.spotify.com/track/1ZsanfKyO9ARX3UHZknXWO"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Conception",
         "url": "https://open.spotify.com/album/51SIsJxGaN6FgnDjRB8WDM"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Where Did We Go?",
-        "url": "https://open.spotify.com/album/1eycPAV7f2n0KDy7hIx6mY"
+        "name": "Music For The Motion Picture Double Life",
+        "url": "https://open.spotify.com/album/4VDXFYv47aNsXtu6zvYeYu"
       },
       "artists": [
         {
-          "name": "HXI",
-          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+          "name": "Ava Rasti",
+          "url": "https://open.spotify.com/artist/4s2iBVE1aD9bbMN3M0ljKY"
         }
       ],
-      "duration_ms": 140624,
-      "name": "Where Did We Go?",
-      "url": "https://open.spotify.com/track/1LMCUvM0QJP8lzzuCOCGBb"
+      "duration_ms": 403500,
+      "name": "Music For The Motion Picture Double Life",
+      "url": "https://open.spotify.com/track/1ZsanfKyO9ARX3UHZknXWO"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 447000,
       "name": "25\u00b0C",
       "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Where Did We Go?",
+        "url": "https://open.spotify.com/album/1eycPAV7f2n0KDy7hIx6mY"
+      },
+      "artists": [
+        {
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Where Did We Go?",
+      "url": "https://open.spotify.com/track/1LMCUvM0QJP8lzzuCOCGBb"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1771,22 +1771,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "free fall",
-        "url": "https://open.spotify.com/album/7rLYsDXagJana2Ox2gAylh"
+        "name": "Dependent",
+        "url": "https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny"
       },
       "artists": [
         {
-          "name": "wind-up bird",
-          "url": "https://open.spotify.com/artist/66UE5LrivDsDSLdDcK9Qri"
-        },
-        {
-          "name": "TL30",
-          "url": "https://open.spotify.com/artist/5OJgCWA1KBzYsgD0ZdOusO"
+          "name": "Christopher Galovan",
+          "url": "https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c"
         }
       ],
-      "duration_ms": 165517,
-      "name": "free fall",
-      "url": "https://open.spotify.com/track/0IpQ0aKFbVxyouEPc3W7bh"
+      "duration_ms": 192914,
+      "name": "Dependent",
+      "url": "https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna"
     },
     {
       "added_at": "2023-09-01 00:01:00",

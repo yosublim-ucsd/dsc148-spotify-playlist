@@ -280,10 +280,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 323853,
       "name": "Bob Fudge",
       "url": "https://open.spotify.com/track/2TT4xzKg0kx6qcZ7kCzlYQ"
+    },
+    {
+      "album": {
+        "name": "Colter Wall & The Scary Prairie Boys",
+        "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323853,
+      "name": "Bob Fudge",
+      "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
     },
     {
       "album": {

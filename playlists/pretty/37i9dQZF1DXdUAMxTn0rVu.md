@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Dilated Peoples
+> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Black Star
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,728 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,036 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 |
 | 50 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 
-Snapshot ID: `MCw1NDhjODIwNmMyOWM1MjgxODBmNDk3NDNhMGY5NzcwM2Q2MzUyNWI2`
+Snapshot ID: `MCwzODc1MDRkNjU3NGI5YzgwYmFhMjhhNjNkMzkzMTIyYTI0ZmQ3NmZk`

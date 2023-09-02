@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Ricardo Mollo, Gustavo Santaolalla & León Gieco.
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: La Franela
 
-202 songs - 12 hr 40 min
+204 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 | 2022-06-24 |  |
 | [Cabalgata Deportiva](https://open.spotify.com/track/0YY18uS5eRKnrYCOdc17Iu) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/7muhd0Y84UAOqkIYXFpLfd) | 4:47 | 2022-07-15 | 2023-08-26 |
 | [Cabalgata Deportiva](https://open.spotify.com/track/6Prlpu5trk3YsAaapseoUj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/5zIRrz2GkJhIE1QBwaos8w) | 4:47 | 2022-06-24 | 2022-07-29 |
-| [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 | 2023-01-20 |  |
+| [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 | 2023-01-20 | 2023-09-02 |
 | [Camionero Blues](https://open.spotify.com/track/3vDmgKzZPrK4Hn7IHYCYWy) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Cintas Mágicas Volumen III](https://open.spotify.com/album/2ynkZW347XOVLIBdyGdmFp) | 3:50 | 2022-12-02 | 2023-07-29 |
 | [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 | 2022-06-24 | 2022-07-30 |
 | [Canibales](https://open.spotify.com/track/4yGyV9C9RleOjWQdDWtUxW) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Canibales](https://open.spotify.com/album/1gdjKzJ7iw1txlcAn0mXMf) | 2:51 | 2023-06-02 |  |
@@ -35,13 +35,14 @@
 | [Coleccionando Cicatrices](https://open.spotify.com/track/0nFNXj5EVrMR4q2Qm74CtP) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/732rZ7r8CfbcxZt7kiXpug) | 3:58 | 2022-11-02 | 2022-11-14 |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2022-06-24 | 2022-07-29 |
 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 | 2022-06-24 |  |
+| [Conmigo](https://open.spotify.com/track/54wyNTp0qU0qJ9xBk3brnN) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Conmigo](https://open.spotify.com/album/2YBbMqoVXGVWZEutpP5ous) | 4:24 | 2023-09-01 |  |
 | [Consuelo Eterno](https://open.spotify.com/track/77macJENdb7DleZ3TzeRsF) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Consuelo Eterno](https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo) | 4:01 | 2023-05-05 | 2023-07-29 |
 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-06-24 |  |
 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 | 2022-06-24 |  |
 | [Corazón](https://open.spotify.com/track/0fykSvqczR1CXD6PWnusOW) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Corazón](https://open.spotify.com/album/4bdbHQc0l5NHBH4Mjh4TRU) | 3:27 | 2023-08-18 |  |
 | [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 | 2022-12-10 |
 | [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 | 2022-11-18 |  |
-| [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 | 2023-06-02 |  |
+| [Cordura](https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Cordura](https://open.spotify.com/album/54dwAd1G7qsREZu9r7WQmu) | 3:49 | 2023-06-02 | 2023-09-02 |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 |  |
 | [Costumbres Argentinas](https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Costumbres Argentinas](https://open.spotify.com/album/3HCeEi8EpRkgDRRw6wm62w) | 3:05 | 2023-04-21 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
@@ -116,6 +117,7 @@
 | [Las Mañanas](https://open.spotify.com/track/1NlygPzTUj39B8jQUyUGjM) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bellos Años](https://open.spotify.com/album/0QPof2smPENXXtfMhi81Au) | 2:26 | 2022-06-24 | 2023-01-21 |
 | [Le Di Sol](https://open.spotify.com/track/0vslbOoaPP1sglPchHGrX9) | [Vanthra](https://open.spotify.com/artist/3APvOv4wyrZTgdYZxtCZ8l), [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Le Di Sol](https://open.spotify.com/album/0puy8tSxqpaYpy4FHY0NK9) | 4:21 | 2022-06-24 | 2023-03-11 |
 | [Lejos de Acá](https://open.spotify.com/track/7I1bJimgthpduRHR4CIoKp) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [EL MISMO](https://open.spotify.com/artist/5SSPAJQe4pqnz9gKnRB9g3) | [Lejos de Acá](https://open.spotify.com/album/6Ujn6SsPlnTvDZJejYsapF) | 3:38 | 2023-07-28 |  |
+| [Llevo la Palabra](https://open.spotify.com/track/7D5JntNLDnWLe02CCm6C7O) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Llevo la Palabra](https://open.spotify.com/album/5CEuuHQnySh405nqZ7Njzr) | 3:01 | 2023-09-01 |  |
 | [Llévame](https://open.spotify.com/track/0BzARH6DR0vksVpTWm2RHN) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Llévame](https://open.spotify.com/album/3TeYluIyLa3vhmWuvAMJ5C) | 3:35 | 2022-06-24 |  |
 | [Lo Que Ves](https://open.spotify.com/track/4R5rg9XCEp7sX5jS6whkEa) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Lo Que Ves](https://open.spotify.com/album/6OBgrKk9tYCE6t7d0sHimH) | 3:16 | 2022-06-24 | 2023-04-22 |
 | [Lobo Solitario](https://open.spotify.com/track/3yQAbOhQDLFi0VdQriNU19) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT), [Quique Rangel](https://open.spotify.com/artist/58ifdyw0QkM58ZOADGxOhH), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Hongo](https://open.spotify.com/album/4W4xTLzE3AStttaMRXGjVY) | 3:21 | 2022-09-23 | 2023-06-01 |

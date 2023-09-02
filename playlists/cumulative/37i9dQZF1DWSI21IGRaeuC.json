@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 167638,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
@@ -3694,6 +3694,28 @@
       "duration_ms": 198750,
       "name": "This Energy",
       "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
+    },
+    {
+      "album": {
+        "name": "Thrill Me (LO'99 Remix)",
+        "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        },
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186018,
+      "name": "Thrill Me - LO'99 Remix",
+      "url": "https://open.spotify.com/track/0AiLHyJny7YiQ0GT8jCbdR"
     },
     {
       "album": {

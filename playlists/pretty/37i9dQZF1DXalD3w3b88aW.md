@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,300 likes - 76 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,303 likes - 76 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,28 +29,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 19 | [Looks Good With Trouble](https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 1:30 |
 | 20 | [You Loving Me \(Session\)](https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part Two: Return Of The Ankh](https://open.spotify.com/album/1MOub955Uer957RVqqkF2a) | 1:04 |
 | 21 | [Use Your Heart \- Interlude](https://open.spotify.com/track/3e2Bo9TD1mtlqysEJa7Mep) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:34 |
-| 22 | [Runnin' \- Interlude](https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 2:17 |
-| 23 | [I Dedicate \(Pt\. 3\)](https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 1:01 |
+| 22 | [I Dedicate \(Pt\. 3\)](https://open.spotify.com/track/4p1lZQdX9XXYqg0yhhhxTq) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 1:01 |
+| 23 | [Runnin' \- Interlude](https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 2:17 |
 | 24 | [Never Felt This Way](https://open.spotify.com/track/0uUwnByckydEF8r0ifZ5ke) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 2:00 |
 | 25 | [Drown in It](https://open.spotify.com/track/4nSCXiPMaXcQ79c6ahAiKv) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 1:10 |
 | 26 | [A.N.G.E.L\. \- Interlude](https://open.spotify.com/track/3sDeuisFRzTK7dfwlNvoNK) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 2:19 |
 | 27 | [F.U.S.S\. \(Interlude\)](https://open.spotify.com/track/7uh0ceyZUn1gisYWUzvXsq) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 2:21 |
 | 28 | [Intermission\-lude](https://open.spotify.com/track/0bakfb6K3L9A4Sn7W648Gj) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 0:42 |
-| 29 | [I Dedicate \(Pt\. 2\)](https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 0:55 |
+| 29 | [Q, Mike, Slim, Daron \- Interlude](https://open.spotify.com/track/3GuliNti6PIEJoqUoPp8Wl) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:58 |
 | 30 | [Hey Sugah \- Interlude](https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 0:51 |
-| 31 | [Q, Mike, Slim, Daron \- Interlude](https://open.spotify.com/track/3GuliNti6PIEJoqUoPp8Wl) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:58 |
+| 31 | [I Dedicate \(Pt\. 2\)](https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 0:55 |
 | 32 | [Daniel's Interlude](https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 2:25 |
 | 33 | [Nobody Not Really \(Interlude\)](https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:56 |
 | 34 | [Come Over Interlude](https://open.spotify.com/track/4czs4AZ1YfZGhVV2qkH5NP) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Danity Kane](https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV) | 1:44 |
-| 35 | [I Dedicate \(Pt\. 1\)](https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 1:29 |
-| 36 | [Soul Intact \- Interlude](https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:47 |
-| 37 | [Yesterday](https://open.spotify.com/track/1eunvxEl55dTekAw2AJtW0) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 2:32 |
-| 38 | [Can I Get a Witness\-Interlude](https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 2:57 |
-| 39 | [You Are My Joy \(Interlude\)](https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 1:07 |
-| 40 | [Interlude](https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 1:24 |
-| 41 | [Where Is The Love \- Interlude](https://open.spotify.com/track/3Av1rvdvZSmjnNbv4LcgoK) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 2:02 |
-| 42 | [Teo Licks](https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(US Clean e\-Version\)](https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ) | 0:39 |
-| 43 | [The Roots \(Interlude\)](https://open.spotify.com/track/1Qr9uLQz5Z8sq39zBUnNnE) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 0:57 |
+| 35 | [Soul Intact \- Interlude](https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 1:47 |
+| 36 | [Yesterday](https://open.spotify.com/track/1eunvxEl55dTekAw2AJtW0) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Funky Divas](https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA) | 2:32 |
+| 37 | [Can I Get a Witness\-Interlude](https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 2:57 |
+| 38 | [You Are My Joy \(Interlude\)](https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 1:07 |
+| 39 | [Interlude](https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z) | 1:24 |
+| 40 | [Teo Licks](https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(US Clean e\-Version\)](https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ) | 0:39 |
+| 41 | [I Dedicate \(Pt\. 1\)](https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 1:29 |
+| 42 | [The Roots \(Interlude\)](https://open.spotify.com/track/1Qr9uLQz5Z8sq39zBUnNnE) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 0:57 |
+| 43 | [Where Is The Love \- Interlude](https://open.spotify.com/track/3Av1rvdvZSmjnNbv4LcgoK) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [New Beginning](https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4) | 2:02 |
 | 44 | [Maxine's Interlude](https://open.spotify.com/track/14gPCmJHuXrgGiytQGnv3Q) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 1:50 |
 | 45 | [Sexy You \(Interlude\)](https://open.spotify.com/track/7CBtCcTd3Zs6GS1RGKhOva) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:50 |
 | 46 | [My Life Interlude](https://open.spotify.com/track/0TOcyKzpOfxMhO7qVDrJZt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 1:15 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 75 | [I Tried \(Interlude\)](https://open.spotify.com/track/3sCc3U2W4Nj2aqzmHJr7BI) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 2:04 |
 | 76 | [20 \- Pt\. 2 / Interlude](https://open.spotify.com/track/1HI5kvBBvFKwyNqpaA63z0) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [20 Y.O.](https://open.spotify.com/album/0mRIaVhwnvAblQaRkvGJBA) | 0:27 |
 
-Snapshot ID: `MCw0ZmIyYjMyMGJkYzljZDIxMmJjOGU2ZDJiNTcxNmQzYjlmMjk4Yzk4`
+Snapshot ID: `MCw4NjVmZmI0ZjE2YTc4NGY4Yjc5ZTRkMTg3MDkxYjE0N2MzYWRhZGYx`

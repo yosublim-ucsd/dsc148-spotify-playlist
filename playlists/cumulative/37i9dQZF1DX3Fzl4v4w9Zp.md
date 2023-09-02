@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Rhiannon Giddens
 
-515 songs - 1 day 7 hr 54 min
+516 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2022-04-01 | 2023-04-30 |
 | [Hey Baby](https://open.spotify.com/track/6lJ6Tbyfhd4mKMSQOIxzJV) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Hey Baby](https://open.spotify.com/album/7x1T2pgVdYrtVfLt1fd3cT) | 2:50 | 2021-12-17 | 2022-01-08 |
 | [Holy Water](https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Things Happen That Way](https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2) | 3:24 | 2022-09-23 | 2023-05-13 |
-| [Holy Water Hangover](https://open.spotify.com/track/0eSwwBWKoxbAje61SkGhKn) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Holy Water Hangover](https://open.spotify.com/album/5SWUKAmpFCPSlQcHq4nFI9) | 3:22 | 2022-08-05 |  |
+| [Holy Water Hangover](https://open.spotify.com/track/0eSwwBWKoxbAje61SkGhKn) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Holy Water Hangover](https://open.spotify.com/album/5SWUKAmpFCPSlQcHq4nFI9) | 3:22 | 2022-08-05 | 2023-09-02 |
 | [Honey](https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Honey](https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9) | 4:36 | 2022-12-02 |  |
 | [Hooray Hooray](https://open.spotify.com/track/5kNEJJmeAV6e97ScR40e0q) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 4:19 | 2022-05-13 | 2023-06-03 |
 | [Hooray Hooray](https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Hooray Hooray](https://open.spotify.com/album/49WXct9dVEokilWT2A7muj) | 4:19 | 2022-02-04 | 2022-05-28 |
@@ -214,7 +214,7 @@
 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 | 2023-04-21 | 2023-04-30 |
 | [Hurricane](https://open.spotify.com/track/2XVHVNrfeITZa9Dj9t9gc3) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:34 | 2022-11-11 |  |
 | [Hypnotized](https://open.spotify.com/track/2lwVMZN6J8Isuiwv6ugxlN) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Hypnotized](https://open.spotify.com/album/3pBDTOjkxOKziMq71oXorJ) | 4:04 | 2022-06-17 | 2023-05-20 |
-| [I Got This](https://open.spotify.com/track/3KMrapCsGVYo4LtT6vHjn2) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Nightroamer](https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc) | 2:59 | 2022-07-22 |  |
+| [I Got This](https://open.spotify.com/track/3KMrapCsGVYo4LtT6vHjn2) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Nightroamer](https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc) | 2:59 | 2022-07-22 | 2023-09-02 |
 | [I Just Came Home To Count The Memories](https://open.spotify.com/track/6dP99TIwVsyUIJOCfvGpYl) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [I Just Came Home To Count The Memories](https://open.spotify.com/album/7rHnORf4k6tS3G8uJcPqT5) | 4:06 | 2022-05-13 | 2023-04-22 |
 | [I Know](https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [I Know](https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5) | 4:14 | 2022-06-24 | 2023-07-01 |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-15 | 2023-07-29 |
@@ -289,6 +289,7 @@
 | [Miles Away](https://open.spotify.com/track/2GMRJPivUIJiGLkmpWwH2O) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi), [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Miles Away](https://open.spotify.com/album/5TvqtSnghTKtTN42h6AW1N) | 5:00 | 2023-08-04 |  |
 | [Modern Man \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Modern Man](https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2) | 3:04 | 2021-12-17 | 2023-02-18 |
 | [Modern Woman](https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Modern Woman](https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI) | 3:24 | 2021-12-17 | 2022-10-08 |
+| [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-09-01 |  |
 | [Morning](https://open.spotify.com/track/5Y6stLs2V5bK0ALhrz78FE) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Morning](https://open.spotify.com/album/3nJafxnimvh3lWV9YmB0TE) | 3:28 | 2021-12-17 | 2022-05-20 |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 |  |
 | [Movin'](https://open.spotify.com/track/2BjoPGw339b87PMwe8g9FT) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Movin'](https://open.spotify.com/album/02iPeaTe80HSdxgFrkVUNB) | 2:41 | 2023-08-18 |  |

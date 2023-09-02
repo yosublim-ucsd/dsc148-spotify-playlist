@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Kawaikini",
+        "url": "https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Kimie Miner",
+          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270840,
+      "name": "Kawaikini",
+      "url": "https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya"
+    },
+    {
+      "album": {
         "name": "Robi Calling",
         "url": "https://open.spotify.com/album/0TFTUwSIwkNZigONKD5ovm"
       },
@@ -797,6 +819,24 @@
     },
     {
       "album": {
+        "name": "Summertime EP",
+        "url": "https://open.spotify.com/album/1gGlsw6KLGCvC3lMaNMWW9"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249473,
+      "name": "Lover Tonight",
+      "url": "https://open.spotify.com/track/3TQm7m9rIQI7C5A5p78aG2"
+    },
+    {
+      "album": {
         "name": "Na Lani 'Eha",
         "url": "https://open.spotify.com/album/0fTOKGeG9xw0YDwWiORmaT"
       },
@@ -812,6 +852,24 @@
       "duration_ms": 242866,
       "name": "Manu Kapalulu",
       "url": "https://open.spotify.com/track/6EJ580b3P2Xa1r5b9xuJLp"
+    },
+    {
+      "album": {
+        "name": "Destinations",
+        "url": "https://open.spotify.com/album/6ZoPZ5dkmEhZSuWgIT2NIV"
+      },
+      "artists": [
+        {
+          "name": "Kapena",
+          "url": "https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214615,
+      "name": "Masese",
+      "url": "https://open.spotify.com/track/6hs4GGBUTETtNC41YAdKQJ"
     },
     {
       "album": {

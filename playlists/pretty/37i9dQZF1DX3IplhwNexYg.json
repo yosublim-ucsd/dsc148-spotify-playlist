@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Nieve Ella",
-  "num_followers": 112603,
+  "num_followers": 112610,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjk3Njk4NjFkNzJlZjMzZjkxMWMwMDRjM2Y3ZjNkOTQ1ZjdlOThl",
+  "snapshot_id": "MCwyMWI2MWFjMzQxN2NlNDQwOTE4Y2RlZmVjODc2M2UxNTEzNzVkYjRm",
   "tracks": [
     {
       "added_at": "2023-08-31 23:22:11",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Kiss Ur Face Forever",
-        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Kiss Ur Face Forever",
-      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
+      "duration_ms": 237980,
+      "name": "Punk Rock Loser",
+      "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Cave World",
-        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+        "name": "Kiss Ur Face Forever",
+        "url": "https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 237980,
-      "name": "Punk Rock Loser",
-      "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
+      "duration_ms": 166556,
+      "name": "Kiss Ur Face Forever",
+      "url": "https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "KLEPTO",
-        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "feti\u0161h",
-      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Cramps",
         "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 197962,
       "name": "Did I Mention I\u2019m Sorry",
       "url": "https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "KLEPTO",
+        "url": "https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 133285,
+      "name": "feti\u0161h",
+      "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 179037,
+      "name": "Theatre",
+      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Teen Mom",
         "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 161816,
       "name": "Hippodrome",
       "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Theatre",
-        "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 179037,
-      "name": "Theatre",
-      "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Better (Edit)",
-        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Better - Edit",
-      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "As Good As It Gets",
         "url": "https://open.spotify.com/album/1Nq7X61ErYdrIfN2BDYar0"
       },
@@ -1067,34 +1051,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Emotional Creature",
-        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+        "name": "Better (Edit)",
+        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 202693,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Soft Like a Flower",
-        "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
-      },
-      "artists": [
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Soft Like a Flower",
-      "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
+      "duration_ms": 211800,
+      "name": "Better - Edit",
+      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1115,6 +1083,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Emotional Creature",
+        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "So Cool",
         "url": "https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 185070,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Soft Like a Flower",
+        "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Soft Like a Flower",
+      "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs"
-      },
-      "artists": [
-        {
-          "name": "Hot Freaks",
-          "url": "https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 143322,
       "name": "Anything",
       "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs"
+      },
+      "artists": [
+        {
+          "name": "Hot Freaks",
+          "url": "https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9"
+        }
+      ],
+      "duration_ms": 202920,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT"
     }
   ],
   "unique_name": "pulp",

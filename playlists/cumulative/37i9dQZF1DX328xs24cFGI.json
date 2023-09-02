@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 193012,
       "name": "Stand by me, Stand by you.",
       "url": "https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh"
@@ -2154,6 +2154,24 @@
       "duration_ms": 271640,
       "name": "\u30e9\u30a4\u30d6\u7d42\u308f\u308a\u306b",
       "url": "https://open.spotify.com/track/25CT9v6urtrTRZjr1WOV0G"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30ab",
+        "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216366,
+      "name": "\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
     },
     {
       "album": {

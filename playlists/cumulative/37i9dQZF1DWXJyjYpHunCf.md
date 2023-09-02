@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-297 songs - 17 hr 6 min
+299 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 | 2022-03-12 |  |
 | [Any Day Now](https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:21 | 2021-11-12 | 2023-05-08 |
 | [Archers](https://open.spotify.com/track/0rQyr2LkdMpJqGF1pfxwJi) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [A Wolf in the Doorway](https://open.spotify.com/album/7LOHLuYtHn9VG8xDoiCKLc) | 2:36 | 2021-11-12 | 2023-01-22 |
+| [as good a reason](https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [as good a reason](https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9) | 2:49 | 2023-09-01 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-11-12 |  |
 | [Automatic](https://open.spotify.com/track/5wfSsLHzl4WcgkGmvOpYai) | [Castro](https://open.spotify.com/artist/1qXuwKQR0iK6HBmJO3n0SZ) | [Automatic](https://open.spotify.com/album/10OlzRqxBpmKLxMWAvxeFx) | 3:53 | 2021-11-12 | 2022-07-26 |
 | [Back & Forth](https://open.spotify.com/track/2vcwh4UGbHy3gkhCEvBDMn) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 3:31 | 2022-03-12 | 2022-11-13 |
@@ -117,7 +118,7 @@
 | [Gloria](https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 3:36 | 2021-11-12 |  |
 | [Go Back](https://open.spotify.com/track/424jGzlGTdcvsX2EIXeYXC) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Birds Say](https://open.spotify.com/album/4Y9Fzg4r73Eh3OdmZpUtwl) | 2:58 | 2021-11-12 | 2022-01-27 |
 | [Gold](https://open.spotify.com/track/0wubDogxhtvRFPpuEyNmze) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:31 | 2021-11-12 | 2022-07-29 |
-| [Golden Hour](https://open.spotify.com/track/28vZIcjA9gDI7BYZnwDzNm) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Golden Hour](https://open.spotify.com/album/01j4hEadyEaX40YCjQXvMR) | 2:49 | 2023-08-25 |  |
+| [Golden Hour](https://open.spotify.com/track/28vZIcjA9gDI7BYZnwDzNm) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Golden Hour](https://open.spotify.com/album/01j4hEadyEaX40YCjQXvMR) | 2:49 | 2023-08-25 | 2023-09-02 |
 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 | 2021-11-12 | 2023-08-10 |
 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2021-11-12 | 2023-04-15 |
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2023-05-19 | 2023-06-13 |
@@ -255,7 +256,7 @@
 | [The Season of Singing](https://open.spotify.com/track/17Itiw6emEwOfS7pYSnU3e) | [Platon Karataev](https://open.spotify.com/artist/1ekcGfPOk3wgHb4viyPQab) | [For Her LP \- part I](https://open.spotify.com/album/6HaDOPvQvMU9UMM9wwYU05) | 3:38 | 2021-11-12 | 2022-01-25 |
 | [The View Between Villages \- Extended](https://open.spotify.com/track/5ihBtaVVMqO5VqJA5wnmfy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:52 | 2023-06-16 |  |
 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 | 2021-11-12 |  |
-| [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 | 2021-11-12 |  |
+| [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 | 2021-11-12 | 2023-09-02 |
 | [These Cold Nights](https://open.spotify.com/track/6sT74ZUI79YngZKOE5mbux) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [These Cold Nights](https://open.spotify.com/album/3VFxogXEXNQQXQeAMlTbn9) | 3:36 | 2021-11-12 | 2023-04-03 |
 | [Think I'm Gonna Love You](https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Think I'm Gonna Love You](https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7) | 2:44 | 2023-08-04 |  |
 | [Thinking 'Bout Love](https://open.spotify.com/track/3d3LHam2Lc5ADEyJxG3fXE) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/7cbcg2z1LuCJ2rxAtBRxHt) | 3:19 | 2021-11-12 | 2022-07-29 |
@@ -303,6 +304,7 @@
 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 | 2022-03-12 |  |
 | [You Know the Way](https://open.spotify.com/track/5lrjZi5VNHqzr2UOBQvpka) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [You Know the Way](https://open.spotify.com/album/458HVOlPJ7mZY8T0XfBcI7) | 3:45 | 2022-02-21 | 2022-07-29 |
 | [You Make The World A Better Place](https://open.spotify.com/track/1OcX5myU73VFwUAanEvnnb) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [You Make The World A Better Place](https://open.spotify.com/album/2QiDDREnAqL3gkqwT0hKmc) | 3:41 | 2021-11-12 | 2022-07-05 |
+| [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2023-09-01 |  |
 | [Your Look \(Glorious\)](https://open.spotify.com/track/3ZaS6VcE0Rvaccr7hNcuFN) | [The Soundflowers](https://open.spotify.com/artist/4VXXgTmaDC84nI7BhVEQgR) | [The Soundflowers](https://open.spotify.com/album/0OVnqXJRCCxdOxcZJqIM4M) | 3:23 | 2021-11-12 | 2022-07-26 |
 | [Your Needs, My Needs](https://open.spotify.com/track/5S9hlmzNQwZuhynLfxZ8Lg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:27 | 2023-06-16 |  |
 

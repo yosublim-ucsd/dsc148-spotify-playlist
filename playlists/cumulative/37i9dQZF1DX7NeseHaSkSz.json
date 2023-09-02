@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-08-12",
-  "description": "From deep in the woods you hear the soft sounds of a calm Indian flute... Escape to your inner sanctuary to find recovery, healing and tranquility. ",
-  "name": "Secret Temple of Dreams",
+  "description": "Indian flute and nature sounds transport you to a hidden sacred place deep in the woods... Escape to your inner sanctuary to find recovery, healing and tranquility. ",
+  "name": "Temple of Dreams",
   "tracks": [
     {
       "album": {
@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Anupam Rahasya",
+        "url": "https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec"
+      },
+      "artists": [
+        {
+          "name": "Ganesh Punja",
+          "url": "https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277852,
+      "name": "Anupam Rahasya",
+      "url": "https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB"
+    },
+    {
+      "album": {
         "name": "Asanas",
         "url": "https://open.spotify.com/album/36zJILS0SwVeEIN4yyRYmu"
       },
@@ -182,6 +200,42 @@
       "duration_ms": 269730,
       "name": "Chamatkaar",
       "url": "https://open.spotify.com/track/6In0Sx3f6PXObPLNpLSApI"
+    },
+    {
+      "album": {
+        "name": "Chandani Raton Mein",
+        "url": "https://open.spotify.com/album/0IXxPh8WDsjAAf5txhRvCB"
+      },
+      "artists": [
+        {
+          "name": "Rura Gazdar",
+          "url": "https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251395,
+      "name": "Chandani Raton Mein",
+      "url": "https://open.spotify.com/track/6asVMkyVVuugyzM2YIuoKI"
+    },
+    {
+      "album": {
+        "name": "Chitimacha",
+        "url": "https://open.spotify.com/album/6SK3ao5UZ1Axoj5o00W3Cb"
+      },
+      "artists": [
+        {
+          "name": "Yoga Sonique",
+          "url": "https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195625,
+      "name": "Chitimacha",
+      "url": "https://open.spotify.com/track/1ubfw6bzIPF1H8SPBIzjKH"
     },
     {
       "album": {

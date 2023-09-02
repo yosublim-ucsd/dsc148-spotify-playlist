@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "livin' life in your 250 sq ft apt cover: Sabrina Carpenter",
+  "description": "livin' life in your 250 sq ft apt cover: Aidan Bissett",
   "name": "young & free",
   "tracks": [
     {
@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "bandages",
+        "url": "https://open.spotify.com/album/7dvCrHSe7fsq3Y6TzTeHtQ"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154431,
+      "name": "bandages",
+      "url": "https://open.spotify.com/track/2g5LoRqCf0dDycdXbT8Pfi"
+    },
+    {
+      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 207209,
       "name": "Boys Like You",
       "url": "https://open.spotify.com/track/3MZeBZsYFViZ5OchHkv7NM"
@@ -3854,7 +3872,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 165148,
       "name": "bring u down",
       "url": "https://open.spotify.com/track/6ZavW4JaYViGktEQhCiiyQ"
@@ -8670,7 +8688,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 158996,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/11igdbhgOGJWqwzPHsisiS"
@@ -9720,6 +9738,24 @@
       "duration_ms": 164317,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB"
+    },
+    {
+      "album": {
+        "name": "Figure You Out",
+        "url": "https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ"
+      },
+      "artists": [
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209398,
+      "name": "Figure You Out",
+      "url": "https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW"
     },
     {
       "album": {
@@ -16899,6 +16935,24 @@
     },
     {
       "album": {
+        "name": "Bet That",
+        "url": "https://open.spotify.com/album/1hOVXvNlhuBM8WhSb2qhHf"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Left, Right, GO!",
+      "url": "https://open.spotify.com/track/47SKFvqr1fsD6uLApnnw7c"
+    },
+    {
+      "album": {
         "name": "Lego Blocks",
         "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
       },
@@ -20244,7 +20298,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 140000,
       "name": "Never Liked Your Name",
       "url": "https://open.spotify.com/track/39MUpuBCpv7MkfBLKcNqV1"
@@ -21134,7 +21188,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 139614,
       "name": "NOTHING!",
       "url": "https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz"
@@ -30901,6 +30955,24 @@
     },
     {
       "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205553,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
+    },
+    {
+      "album": {
         "name": "Uncall It",
         "url": "https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4"
       },
@@ -31206,6 +31278,24 @@
       "duration_ms": 170909,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/3oPo4NNfp4CZCtV5I6P7Bm"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "album": {

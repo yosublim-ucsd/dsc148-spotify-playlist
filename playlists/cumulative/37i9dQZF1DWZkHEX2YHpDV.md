@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Koyo
 
-1,009 songs - 2 day 5 hr 21 min
+1,010 songs - 2 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-08-02 |  |
 | [All The Way \(Stay\)](https://open.spotify.com/track/7qVnkPY1UPmSeWULwXSW7a) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [All The Way \(Stay\)](https://open.spotify.com/album/1nCmHK3wd62FLPSh1F4TfN) | 4:05 | 2022-04-01 | 2022-04-18 |
 | [ALMOST FAMOUS](https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [We Made Plans & God Laughed](https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd) | 3:08 | 2022-11-04 | 2023-08-02 |
+| [ALMOST FAMOUS feat\. Mark Hoppus](https://open.spotify.com/track/6h1mv6xCmdcmhmZ04TNTVk) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [WE MADE PLANS & GOD LAUGHED](https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs) | 3:08 | 2023-07-28 |  |
 | [Alone \(feat\. Travis Barker\)](https://open.spotify.com/track/34V3D7YrDC2XD4mcnNYRpf) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [I Left You In Minnesota](https://open.spotify.com/album/7zRxOIx96EH95H7sFBnqHo) | 2:24 | 2023-07-28 |  |
 | [Alone with You](https://open.spotify.com/track/3jLj7HQNl4LXc9vNuwcFyw) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Steady Glow](https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3) | 4:25 | 2021-12-10 | 2022-07-09 |
 | [Alpha](https://open.spotify.com/track/5kBOZe7aazqtqoHufOROlZ) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Alpha](https://open.spotify.com/album/2lG8uGUsPxSrZcY4MRWlHz) | 3:45 | 2022-03-25 | 2022-04-19 |
@@ -774,7 +775,7 @@
 | [Sink](https://open.spotify.com/track/6pdeajVZ81tQwY8oIH6gFw) | [No Dice](https://open.spotify.com/artist/3PjQbg9IJ0y2Y2ioqnLYDv) | [About People, for People](https://open.spotify.com/album/0coMVO5X9bLkNhaqbrMgqS) | 3:04 | 2021-12-10 | 2022-07-29 |
 | [Sip](https://open.spotify.com/track/0U2ZccdS3slNAlnfvdHVhB) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Sip](https://open.spotify.com/album/04JFngJN3HmBwJPsYPvSW5) | 3:22 | 2021-12-10 | 2022-07-24 |
 | [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 | 2023-04-10 | 2023-07-16 |
-| [Six Feet Under](https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Six Feet Under](https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F) | 3:11 | 2023-04-10 |  |
+| [Six Feet Under](https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Six Feet Under](https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F) | 3:11 | 2023-04-10 | 2023-09-02 |
 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 | 2021-12-10 | 2023-04-11 |
 | [Skinny Dipping](https://open.spotify.com/track/7s7xOgct7HWsNjGO3YOtqt) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/4xtHySb6XaNo8SLRgfpUSu) | 2:49 | 2021-12-10 | 2022-01-15 |
 | [Sleepless in Orlando](https://open.spotify.com/track/7qkmoS3QRYDCdr747Jed08) | [Jason Lancaster](https://open.spotify.com/artist/2qelzpB6RrJtn77f5yWmES) | [Say I'm What You Want](https://open.spotify.com/album/0XnbnViPiLqJUd6ZwReA9T) | 4:16 | 2021-12-10 | 2022-05-11 |

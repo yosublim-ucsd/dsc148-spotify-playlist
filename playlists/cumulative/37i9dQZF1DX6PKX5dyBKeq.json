@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "9bar",
+        "url": "https://open.spotify.com/album/2q6GcaY72nXEe8wYpyzHFs"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144428,
+      "name": "9bar",
+      "url": "https://open.spotify.com/track/5501MwaMm4SI7yUZDtT4c3"
+    },
+    {
+      "album": {
         "name": "THE FIRST DRILL",
         "url": "https://open.spotify.com/album/2rPDwQccoU8dY7N4uZEJRK"
       },
@@ -1880,6 +1898,28 @@
       "duration_ms": 226758,
       "name": "AM x Skengdo x Lil Rass x Fumez The Engineer - Plugged In Freestyle",
       "url": "https://open.spotify.com/track/4pOLHDVgb2PleHg1rBjbm8"
+    },
+    {
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2"
     },
     {
       "album": {
@@ -6564,7 +6604,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 110571,
       "name": "come & go",
       "url": "https://open.spotify.com/track/7q89Ym3j7b8qxVtIN421qZ"
@@ -7952,7 +7992,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 189295,
       "name": "Derby Day",
       "url": "https://open.spotify.com/track/47ljZvDes8HaEWYGd9RDhh"
@@ -9570,7 +9610,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 138377,
       "name": "DTF",
       "url": "https://open.spotify.com/track/0Xa8ZPnc0vRA7fr2QcicoH"
@@ -13656,6 +13696,32 @@
       "duration_ms": 163333,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/3xVngvSWR0VkQjkQFgN9UK"
+    },
+    {
+      "album": {
+        "name": "I Suppose",
+        "url": "https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "I Suppose",
+      "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
     },
     {
       "album": {
@@ -19553,6 +19619,24 @@
     },
     {
       "album": {
+        "name": "Not Guilty",
+        "url": "https://open.spotify.com/album/13wr72XvxJO38y1lfjkXcL"
+      },
+      "artists": [
+        {
+          "name": "Tunde",
+          "url": "https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180594,
+      "name": "Not Guilty",
+      "url": "https://open.spotify.com/track/3lIh24EtpWzwDbChSrcrCR"
+    },
+    {
+      "album": {
         "name": "Nothing Like Me",
         "url": "https://open.spotify.com/album/3nntNLcAabIwSmIfjRtdks"
       },
@@ -20188,7 +20272,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 124714,
       "name": "One Direction",
       "url": "https://open.spotify.com/track/75B9CAbXJgMmwrT6aFTgpv"
@@ -20628,7 +20712,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 165000,
       "name": "Outings",
       "url": "https://open.spotify.com/track/6hL6yqDgATebDYnao2AgLV"
@@ -22174,6 +22258,24 @@
       "duration_ms": 156737,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1"
+      },
+      "artists": [
+        {
+          "name": "Rushy",
+          "url": "https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
     },
     {
       "album": {
@@ -31412,6 +31514,24 @@
       "duration_ms": 164475,
       "name": "Ying Dat",
       "url": "https://open.spotify.com/track/0iT6u0OSo1lthHCAruJEuw"
+    },
+    {
+      "album": {
+        "name": "yo babes",
+        "url": "https://open.spotify.com/album/67ha2fz1Js9GVnnKNU7QnM"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159652,
+      "name": "yo babes",
+      "url": "https://open.spotify.com/track/4d8PdgW20PBcZinpYvmpo5"
     },
     {
       "album": {

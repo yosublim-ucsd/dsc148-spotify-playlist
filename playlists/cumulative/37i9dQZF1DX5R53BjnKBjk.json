@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Dani-Vie / Arte: Isu Kim",
+  "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
   "name": "Fresh Finds Brasil",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 220000,
       "name": "at\u00e9 voc\u00ea",
       "url": "https://open.spotify.com/track/5n4jsB5aXHL4ZjDjc0jZPG"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179686,
       "name": "Bady",
       "url": "https://open.spotify.com/track/1N5gwVPnV4qovLJfiLD3Ug"
@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Corro Atr\u00e1s",
+        "url": "https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp"
+      },
+      "artists": [
+        {
+          "name": "Laura Padaratz",
+          "url": "https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225920,
+      "name": "Corro Atr\u00e1s",
+      "url": "https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU"
+    },
+    {
+      "album": {
         "name": "A Rua e Seus Encantos",
         "url": "https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic"
       },
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184557,
       "name": "Escuro - Remix",
       "url": "https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d"
@@ -2174,6 +2192,24 @@
       "duration_ms": 153559,
       "name": "Jacquemus",
       "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+    },
+    {
+      "album": {
+        "name": "Jardins",
+        "url": "https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT"
+      },
+      "artists": [
+        {
+          "name": "Ceano",
+          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167551,
+      "name": "Jardins",
+      "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
     },
     {
       "album": {
@@ -3705,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/44Q8sR9GnEKNPbRTzgxn6a"
+      },
+      "artists": [
+        {
+          "name": "Furtacor",
+          "url": "https://open.spotify.com/artist/5M3aKqzzXYtIX8gVqgONpu"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266126,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/2vGxaToNoVKIi1XKvz9GLy"
+    },
+    {
+      "album": {
         "name": "Pulando",
         "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
       },
@@ -4730,7 +4784,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176030,
       "name": "Tr\u00eas passinhos da derrota",
       "url": "https://open.spotify.com/track/2rhu7HUF5FVzVPb5eNPrMQ"
@@ -4878,6 +4932,28 @@
       "duration_ms": 171084,
       "name": "vc \u00e9 uma bagun\u00e7a",
       "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
+    },
+    {
+      "album": {
+        "name": "tds bem Global",
+        "url": "https://open.spotify.com/album/5pGNFxHPkUaCu267VsRIXV"
+      },
+      "artists": [
+        {
+          "name": "dad\u00e1 Jo\u00e3ozinho",
+          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
+        },
+        {
+          "name": "JOCA",
+          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167521,
+      "name": "VEJA",
+      "url": "https://open.spotify.com/track/6mO9K6le5QYMAGzku81Wqq"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 725228,
+  "num_followers": 725336,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2E5Yzc3ODllMTlhZGU3YjVlNGQxZjIwMWI3MDZlZjRlM2UxY2Y0",
+  "snapshot_id": "MCxmN2M4YzliOTM3OGMwNWY0ZDhkN2QwM2U1ZTdjYzFhOGYzNTdkNWRi",
   "tracks": [
     {
       "added_at": "2023-07-21 11:29:56",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281231,
-      "name": "My Sweet Lord - 2014 Remaster",
-      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281231,
+      "name": "My Sweet Lord - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6vE90mi4yKsQGY3YD2OOv1"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Lonesome Dreams (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Fever To The Form",
-      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "The Covers Record",
         "url": "https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 139466,
       "name": "Sea of Love",
       "url": "https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "What's Bin Did and What's Bin Hid",
-        "url": "https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 173813,
-      "name": "Catch the Wind",
-      "url": "https://open.spotify.com/track/6aXKbU2QGsOms8UT3eUOg1"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Deadeye",
         "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 190120,
       "name": "Bees",
       "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "What's Bin Did and What's Bin Hid",
+        "url": "https://open.spotify.com/album/3lpCSdIUmTWkb3BrAxDZSR"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 173813,
+      "name": "Catch the Wind",
+      "url": "https://open.spotify.com/track/6aXKbU2QGsOms8UT3eUOg1"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Goodnight (Go Home)",
         "url": "https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 246453,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Darling Arithmetic",
-        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Dawning On Me",
-      "url": "https://open.spotify.com/track/1widQ9TODdm2HQT95lgfQg"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 282746,
       "name": "Forever Ago",
       "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Darling Arithmetic",
+        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Dawning On Me",
+      "url": "https://open.spotify.com/track/1widQ9TODdm2HQT95lgfQg"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Start, Restart, Undo (Reedici\u00f3n)",
         "url": "https://open.spotify.com/album/7HCvOSW3Eptm7oc5j6PTbN"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 193280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/4GkELkyI3VJstSugqnP39K"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Play Me Something Nice",
-        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 201301,
-      "name": "Play Me Something Nice",
-      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
-    },
-    {
-      "added_at": "2023-07-21 11:29:56",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -2419,18 +2403,18 @@
     {
       "added_at": "2023-07-21 11:29:56",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
+        "name": "Play Me Something Nice",
+        "url": "https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho"
       },
       "artists": [
         {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Fortune - Acoustic",
-      "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
+      "duration_ms": 201301,
+      "name": "Play Me Something Nice",
+      "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
     },
     {
       "added_at": "2023-07-21 11:29:56",
@@ -2447,6 +2431,22 @@
       "duration_ms": 199653,
       "name": "Back to Autumn",
       "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
+    },
+    {
+      "added_at": "2023-07-21 11:29:56",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Fortune - Acoustic",
+      "url": "https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX"
     }
   ],
   "unique_name": "Kaffeehausmusik",

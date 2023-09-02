@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Sam Fischer",
-  "num_followers": 119398,
+  "num_followers": 119413,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmM4NTc5ODkxMWEwN2M2YjJiNDljNmE5YWYxNzM3NDA3MGFiNDZm",
+  "snapshot_id": "MCw1YjFlNjBhYTVmYmIyZjk5MzdkYjMzYjc2OGJjNGJmOWM2ZDRiY2Y4",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -43,8 +43,24 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "ANALYSIS PARALYSIS",
-        "url": "https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj"
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Analysis Paralysis",
+        "url": "https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7"
       },
       "artists": [
         {
@@ -54,7 +70,7 @@
       ],
       "duration_ms": 118140,
       "name": "Guilty Conscience",
-      "url": "https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5"
+      "url": "https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq"
     },
     {
       "added_at": "2023-08-31 14:00:00",

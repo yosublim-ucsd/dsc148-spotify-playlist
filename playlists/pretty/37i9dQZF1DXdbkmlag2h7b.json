@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 635084,
+  "num_followers": 635150,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Y1MTA2NWYzYWM5ZmU2YzE3YTg3MDhjNWNiOWE5NzU5Njk0MTg2",
+  "snapshot_id": "MCwwNDM0ZTliNzBmZjEwNTFhNWExZTBhMmE5OWRmOTYwNTYxMDhhNmE4",
   "tracks": [
     {
       "added_at": "2023-09-01 00:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Morgong\u00e5va",
-        "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
-      },
-      "artists": [
-        {
-          "name": "Juni Ros",
-          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Morgong\u00e5va",
-      "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Intrinsic Silence",
         "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 164017,
       "name": "Intrinsic Silence",
       "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Morgong\u00e5va",
+        "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
+      },
+      "artists": [
+        {
+          "name": "Juni Ros",
+          "url": "https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Morgong\u00e5va",
+      "url": "https://open.spotify.com/track/0A5sKduEa9fPbluRBWMwNb"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Whispers",
-        "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
-      },
-      "artists": [
-        {
-          "name": "Tom Ellenhag",
-          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
-        }
-      ],
-      "duration_ms": 188940,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Surface",
         "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
+      },
+      "artists": [
+        {
+          "name": "Tom Ellenhag",
+          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
+        }
+      ],
+      "duration_ms": 188940,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Floating Hearts",
-        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
-      },
-      "artists": [
-        {
-          "name": "Julyan Brynn",
-          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
-        }
-      ],
-      "duration_ms": 199831,
-      "name": "Svalbard",
-      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Dreams of Mercury",
         "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 192748,
       "name": "Dreams of Mercury",
       "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Floating Hearts",
+        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
+      },
+      "artists": [
+        {
+          "name": "Julyan Brynn",
+          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
+        }
+      ],
+      "duration_ms": 199831,
+      "name": "Svalbard",
+      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Caleufu",
+        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
+      },
+      "artists": [
+        {
+          "name": "Caleufu",
+          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
+        }
+      ],
+      "duration_ms": 127693,
+      "name": "Ali",
+      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 194000,
       "name": "Ver Weg",
       "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Caleufu",
-        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
-      },
-      "artists": [
-        {
-          "name": "Caleufu",
-          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
-        }
-      ],
-      "duration_ms": 127693,
-      "name": "Ali",
-      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
-      },
-      "artists": [
-        {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Neend",
         "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "The Land of the Sun",
-        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
       },
       "artists": [
         {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
         }
       ],
-      "duration_ms": 238725,
-      "name": "The Land of the Sun",
-      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
+      "duration_ms": 165333,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1551,6 +1535,22 @@
       "duration_ms": 192000,
       "name": "Son\u00e1mbulos",
       "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "The Land of the Sun",
+        "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "duration_ms": 238725,
+      "name": "The Land of the Sun",
+      "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
     },
     {
       "added_at": "2023-09-01 00:01:00",

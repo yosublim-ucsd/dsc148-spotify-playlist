@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Cian Durcot
 
-544 songs - 1 day 5 hr 37 min
+545 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2022-09-10 |
 | [Addict Of Magic](https://open.spotify.com/track/0deLQzMIEw6l3pWOWz4MkF) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Life In Colour](https://open.spotify.com/album/1Dc33cpw61mL5meR1Vjz6H) | 2:46 | 2022-02-04 | 2022-06-04 |
 | [After All](https://open.spotify.com/track/38UDoZyudPWXLzXRAb71oP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [After All](https://open.spotify.com/album/3kxT5SN1GQ3j3kS9NHOsYI) | 3:28 | 2022-02-04 | 2022-05-28 |
+| [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-09-01 |  |
 | [Ahead Of Myself](https://open.spotify.com/track/037JwzyNWFVwRXch4dQZe8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes \(Part 1\)](https://open.spotify.com/album/76HALzXD0uNnzfCvAQhirP) | 2:54 | 2022-04-08 | 2022-04-29 |
 | [All Comes Back To You](https://open.spotify.com/track/1XqWSF1yKnKdEkgZ2JWouq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [All Comes Back To You](https://open.spotify.com/album/7LIma3JhuhzLm30VHqvaNK) | 3:16 | 2023-02-10 | 2023-07-08 |
 | [All For You](https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [All For You](https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML) | 3:39 | 2022-04-08 | 2022-07-16 |
@@ -33,7 +34,7 @@
 | [All The Way Over](https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [All The Way Over](https://open.spotify.com/album/4zzRDfFoxSdriNk7cBAE20) | 3:08 | 2022-11-04 | 2023-03-04 |
 | [All These Nights](https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [All These Nights](https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6) | 2:34 | 2022-07-15 | 2023-04-15 |
 | [Alone](https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Alone](https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4) | 3:25 | 2022-04-08 | 2022-06-04 |
-| [Alright](https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Alright](https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ) | 2:52 | 2023-06-09 |  |
+| [Alright](https://open.spotify.com/track/0zhtsgZpLGeBNQ4MvBV5c5) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Alright](https://open.spotify.com/album/2GJCsJ8mn64XEQbss1WRMJ) | 2:52 | 2023-06-09 | 2023-09-02 |
 | [Always Gonna Be](https://open.spotify.com/track/1zfPNHikEYPcPLxJRdDeIk) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Always Gonna Be](https://open.spotify.com/album/1WI5hRCxaEOSMUtKxO5fKa) | 2:52 | 2023-08-04 |  |
 | [Another Falling Star](https://open.spotify.com/track/6ie3zhD4Yyrz35wCouSk8T) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:39 | 2022-03-11 | 2022-04-16 |
 | [Another Heart](https://open.spotify.com/track/7hiX2B01zsQxzQn7Sc6UNV) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Another Heart](https://open.spotify.com/album/5LEkV58Pa82xSZsvBw3Acu) | 3:41 | 2023-03-03 | 2023-07-08 |

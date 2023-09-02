@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 469166,
+  "num_followers": 469573,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDcyN2JhNjlmOThhMWMzNmE0OGUxZjEzNjg4MTExOGI2ZDA0ZTBh",
+  "snapshot_id": "MCxjNzNjODQ3ZmE3ZDlkMGEzZGM3NmQwZGI0MGY1MzJkODc0ZDkwOTAy",
   "tracks": [
     {
       "added_at": "2023-08-25 13:50:04",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -531,18 +531,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "The Undercover Dream Lovers",
+          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
         }
       ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+      "duration_ms": 198000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -567,22 +571,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3"
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "The Undercover Dream Lovers",
-          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -619,6 +619,22 @@
       "duration_ms": 197894,
       "name": "Luv Is Not Enough",
       "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 233454,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 233454,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "On Hold (Jamie xx Remix)",
         "url": "https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 371533,
       "name": "On Hold - Jamie xx Remix",
       "url": "https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 228162,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 168245,
       "name": "Chika (scared)",
       "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Someone\u2019s EP II X",
         "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
       },
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "Pizza Guy / Show Me",
+        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Pizza Guy",
+      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Float Away",
         "url": "https://open.spotify.com/album/3ia102yZXVYkbU25GbGxSe"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Pizza Guy / Show Me",
-        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
-      },
-      "artists": [
-        {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
-        }
-      ],
-      "duration_ms": 349413,
-      "name": "Pizza Guy",
-      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Woodstock (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Should be Fine",
-      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1067,6 +1051,22 @@
       "duration_ms": 208813,
       "name": "Summer Days - Roosevelt Remix",
       "url": "https://open.spotify.com/track/3eM70BLTVSo6SLOS3vazXp"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Should be Fine",
+      "url": "https://open.spotify.com/track/294WNoHHRNJ1QMAXy5FdDX"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Slugs of Love",
-        "url": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 166125,
-      "name": "Disco Dangerous",
-      "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
         "name": "Kyle (i found you)",
         "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 166125,
+      "name": "Disco Dangerous",
+      "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Can\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Little Jet",
-          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Can\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+        "name": "Can\u2019t Let You Go",
+        "url": "https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8"
       },
       "artists": [
         {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Little Jet",
+          "url": "https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa"
         }
       ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+      "duration_ms": 173000,
+      "name": "Can\u2019t Let You Go",
+      "url": "https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li"
     },
     {
       "added_at": "2023-08-25 13:50:04",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-08-25 13:50:04",
       "album": {
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+      },
+      "artists": [
+        {
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+        }
+      ],
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2023-08-25 13:50:04",
+      "album": {
         "name": "Light Places",
         "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 241804,
       "name": "Feels Just Like It",
       "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
-    },
-    {
-      "added_at": "2023-08-25 13:50:04",
-      "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
-      },
-      "artists": [
-        {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
-        }
-      ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
     },
     {
       "added_at": "2023-08-25 13:50:04",

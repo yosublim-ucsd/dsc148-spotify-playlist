@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,091 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,118 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BORN TO WIN](https://open.spotify.com/track/0PxAEK8LM9eE6tO5LaDEcQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 3:11 |
-| 2 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
+| 1 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
+| 2 | [BORN TO WIN](https://open.spotify.com/track/0PxAEK8LM9eE6tO5LaDEcQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 3:11 |
 | 3 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 |
 | 4 | [Pom Pom](https://open.spotify.com/track/0QvUIiUqzI0kcjMdbUhThY) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Pom Pom](https://open.spotify.com/album/47CMdZRR1r8LSnePdeKB8d) | 2:54 |
 | 5 | [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Ammy Gill](https://open.spotify.com/artist/1NoTBZs4sL9RD5taUdv1Kh) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 44 | [47 \(feat\. Stefflon Don\)](https://open.spotify.com/track/15rEEVR9tYJS4hbubgS3u7) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [47 \(feat\. Stefflon Don\)](https://open.spotify.com/album/5pCqjR7JPOm2CLasRDtn1E) | 3:14 |
 | 45 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/3NyEl4VKqV7WL6PO5BYrb6) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6yGj6xifVKbJNfOwPiXmQY) | 2:24 |
 
-Snapshot ID: `MCxjZTRkMDYyZjExNzUyNmIxNmEyMmY2Mjg3MzRkOTgxNjM1YWU2MTZj`
+Snapshot ID: `MCxiOWFhMDlhOGIwYWViN2I3OWY4ZDA5NjY4OTdiMjYwMDQ3YzE2MGY5`

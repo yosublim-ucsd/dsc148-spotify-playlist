@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-399 songs - 1 day 0 hr 2 min
+400 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [Sigue Bailando Mi Amor](https://open.spotify.com/track/0Ueebi9UrB6jtIcGYal2uM) | [El Roockie](https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4) | [Sigue Bailando Mi Amor](https://open.spotify.com/album/2MqCJi6VjXC2mYtnD219gr) | 3:18 | 2022-09-26 |  |
 | [Sin Miedo](https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ) | 3:16 | 2021-12-17 | 2023-08-15 |
 | [Sin Miedo](https://open.spotify.com/track/6aibYCJcHtpQgwq35ohOKs) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Sin Miedo](https://open.spotify.com/album/3IhY9gtZHtaGPjvWR8PCcp) | 3:17 | 2023-08-14 |  |
-| [Sin Tu Amor \(feat\. Alex Pro\)](https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Alex Pro](https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:29 | 2023-07-31 | 2023-09-01 |
+| [Sin Tu Amor \(feat\. Alex Pro\)](https://open.spotify.com/track/63hZCrRfcZza3npjwt3Ezs) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN), [Alex Pro](https://open.spotify.com/artist/2v6k4KGZsj9Tx3gn2aECFO) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:29 | 2023-07-31 |  |
 | [Sol, Playa Y Arena](https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [It's My Time](https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe) | 3:08 | 2021-12-17 |  |
 | [Sola](https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 2:53 | 2021-12-17 |  |
 | [Solitaria](https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Pura Playa](https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk) | 3:38 | 2022-05-13 |  |
@@ -360,7 +360,8 @@
 | [Tocarte Toa \(2008 / Remix\)](https://open.spotify.com/track/72PjUs25nm0G3ECiwOjkOM) | [Big Yamo](https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw), [Natya](https://open.spotify.com/artist/1eKhdE1BV5isL4SQbXjMTM) | [Tocarte Toa \(2008 / Remix\)](https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf) | 4:20 | 2022-10-12 |  |
 | [Todavia](https://open.spotify.com/track/7gaovXojjqfn276uZR0omT) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia](https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n) | 3:24 | 2022-07-27 | 2022-08-26 |
 | [Todavia](https://open.spotify.com/track/3D5uEBD0cAEGZGUo5j9045) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Perreo salvaje](https://open.spotify.com/album/7JgzgwB5tY9EGA5wYg8f5v) | 3:25 | 2022-05-13 | 2022-09-15 |
-| [Todavia \- Radio Edit](https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia \(Radio Edit\)](https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8) | 3:23 | 2023-07-24 |  |
+| [Todavia \- Radio Edit](https://open.spotify.com/track/2anG3oj6XqxccnXJPUOnac) | [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy) | [Todavia \(Radio Edit\)](https://open.spotify.com/album/2ljlY9QPnJ6VJ3JxUcxqf8) | 3:23 | 2023-07-24 | 2023-09-02 |
+| [Todavía](https://open.spotify.com/track/6TrR94UaLsxnCMbdUXIVwI) | [DJ Pablito](https://open.spotify.com/artist/44cA8XUceHxTRIVRZAdvW5), [La Factoria](https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy), [Joycee](https://open.spotify.com/artist/7IjPW8bcW8D5mccCuVxbEC) | [Dj Pablito Presenta\- La Factoría](https://open.spotify.com/album/7LPdPCTfXLwJyW2UzghtVb) | 3:23 | 2023-08-14 |  |
 | [Tra Tra Tra \(Remix\)](https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Exitos](https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E) | 3:27 | 2021-12-17 |  |
 | [Tranquila](https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr) | 3:19 | 2021-12-17 |  |
 | [Tranquila](https://open.spotify.com/track/1meA8imRWltOs5Jp0kaL0y) | [Jadiel el Incomparable](https://open.spotify.com/artist/0ANypE7iy3sVMppNuKFpGh) | [Lo Mejor de Mi](https://open.spotify.com/album/5qzzkjzmwd0WF0KiEGILM4) | 3:17 | 2022-08-09 | 2022-08-17 |
@@ -392,7 +393,7 @@
 | [Vuelve](https://open.spotify.com/track/41f2YVgXW3t3fZ7EoHrKGH) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT) | 3:08 | 2021-12-17 | 2023-04-16 |
 | [Web Cam](https://open.spotify.com/track/5FvBm21bpgoTjq6GQi4mu9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:26 | 2022-07-27 |  |
 | [Web Cam](https://open.spotify.com/track/76tsb1MlePUaN0Y3R8w0KO) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [The Ones](https://open.spotify.com/album/31WdDt5NcgMhHA8Uh1RZFA) | 3:26 | 2021-12-17 | 2022-07-29 |
-| [Welcome To My Crib](https://open.spotify.com/track/5MKnA9nLv9kfB6Dnxqf5Oa) | [Randy Nota Loka](https://open.spotify.com/artist/00ynzcADdPN4jUqiwb5D8A) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 4:07 | 2021-12-17 |  |
+| [Welcome To My Crib](https://open.spotify.com/track/5MKnA9nLv9kfB6Dnxqf5Oa) | [Randy Nota Loka](https://open.spotify.com/artist/00ynzcADdPN4jUqiwb5D8A) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 4:07 | 2021-12-17 | 2023-09-02 |
 | [Wiki Wiki](https://open.spotify.com/track/3zyu1YrtgFRdrc16HIQior) | [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [La Misión 4](https://open.spotify.com/album/7u87mg6bU1J3bL1nK3F0V0) | 2:49 | 2022-07-27 |  |
 | [Wiki Wiki](https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO) | [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [La Misión 4](https://open.spotify.com/album/05vrChqlagPD4ALM4L3TAG) | 2:49 | 2021-12-17 | 2022-05-15 |
 | [Ya lo Se](https://open.spotify.com/track/2EwquaMz0nVqQ3PrjK4fAe) | [Magnate](https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Exitos](https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3) | 3:46 | 2021-12-17 | 2022-07-29 |

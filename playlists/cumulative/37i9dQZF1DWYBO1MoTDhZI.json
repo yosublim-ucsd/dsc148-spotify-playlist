@@ -928,7 +928,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 189713,
       "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
       "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
@@ -3535,6 +3535,28 @@
     },
     {
       "album": {
+        "name": "Essence (feat. Super Computer)",
+        "url": "https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Super Computer",
+          "url": "https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168359,
+      "name": "Essence (feat. Super Computer)",
+      "url": "https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n"
+    },
+    {
+      "album": {
         "name": "Every Summertime",
         "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
       },
@@ -3670,7 +3692,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 177371,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
@@ -5292,7 +5314,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 187606,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4"
@@ -6123,6 +6145,42 @@
     },
     {
       "album": {
+        "name": "Jim Carrey",
+        "url": "https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183195,
+      "name": "Jim Carrey",
+      "url": "https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN"
+    },
+    {
+      "album": {
+        "name": "Shamrock Diaries",
+        "url": "https://open.spotify.com/album/4DshZuvIZmKThL2D3cPJOZ"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237560,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/6JFfOp1LTXnyDCTfHlOc9j"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
       },
@@ -6366,6 +6424,24 @@
       "duration_ms": 208181,
       "name": "Keeping It In The Dark",
       "url": "https://open.spotify.com/track/3R73KpLHE2UEQZPYcqJh9U"
+    },
+    {
+      "album": {
+        "name": "The More The Better",
+        "url": "https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "King of Pop",
+      "url": "https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf"
     },
     {
       "album": {
@@ -7398,6 +7474,24 @@
       "duration_ms": 145394,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/3tToxMlakmNRLtOahT1cYC"
+    },
+    {
+      "album": {
+        "name": "marry me",
+        "url": "https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157604,
+      "name": "marry me",
+      "url": "https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I"
     },
     {
       "album": {
@@ -8440,7 +8534,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 164103,
       "name": "Oh My My! (In Love Again)",
       "url": "https://open.spotify.com/track/6jCu0UWhzcwSA2HBjNRSb9"
@@ -8622,7 +8716,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 170026,
       "name": "Only Have Eyes 42",
       "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
@@ -12446,7 +12540,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 190200,
       "name": "UPSIDE DOWN",
       "url": "https://open.spotify.com/track/7fL09zyZfcsEltjtxL2u11"
@@ -13364,6 +13458,24 @@
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g"
+    },
+    {
+      "album": {
+        "name": "Yours For Life",
+        "url": "https://open.spotify.com/album/2Au9OnvpzZe6KCHjiS1GHa"
+      },
+      "artists": [
+        {
+          "name": "SYT\u00cb",
+          "url": "https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191962,
+      "name": "Yours For Life",
+      "url": "https://open.spotify.com/track/6oefuOfCQpbUjhWjpTRguL"
     },
     {
       "album": {

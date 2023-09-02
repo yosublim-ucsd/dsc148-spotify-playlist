@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,959 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,074 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 44 | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4) | 10:01 |
 | 45 | [Bossaura](https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [Bossaura](https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM) | 6:04 |
 | 46 | [Eines Tages \(feat\. Cassandra Steen\) \- Single Edit](https://open.spotify.com/track/3U0yDyVzdjhOcl3TcEDylU) | [AZAD](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Cassandra Steen](https://open.spotify.com/artist/6wbgb7phg82I4tnO6GWMhr) | [Game Over](https://open.spotify.com/album/2bsldlysGbFc8Kqg0iItlU) | 3:41 |
-| 47 | [Panamera Flow \(feat\. Bushido\)](https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34), [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [NWA](https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS) | 4:17 |
-| 48 | [Da draussen](https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Fettes Brot lässt grüssen](https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL) | 5:20 |
+| 47 | [Da draussen](https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Fettes Brot lässt grüssen](https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL) | 5:20 |
+| 48 | [Panamera Flow \(feat\. Bushido\)](https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34), [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [NWA](https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS) | 4:17 |
 | 49 | [Nur noch Gucci](https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 3:32 |
 | 50 | [Mit dir \(feat\. Joy Denalane\)](https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL) | [Freundeskreis](https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk), [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Esperanto](https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT) | 4:38 |
 
-Snapshot ID: `MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh`
+Snapshot ID: `MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5`

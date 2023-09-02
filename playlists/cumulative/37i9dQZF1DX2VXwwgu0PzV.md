@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv?si=fKXu2D3QQDeO8oX71OSFJQ">yoyo michael</a>
 
-367 songs - 22 hr 8 min
+368 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Chosen](https://open.spotify.com/track/0u9TCtFpAbApXaGpGjRypt) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Chosen](https://open.spotify.com/album/1YWKUwUFPRp5xZLB4yu8KK) | 2:44 | 2023-07-14 | 2023-07-28 |
 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 | 2023-06-23 | 2023-07-21 |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-04-14 | 2023-05-26 |
+| [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-09-01 |  |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-18 |  |
 | [Confam](https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Confam](https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln) | 2:37 | 2023-08-04 |  |
 | [Confidence](https://open.spotify.com/track/1ZCgUvDTcHTRsl0SqZyWSw) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Confidence](https://open.spotify.com/album/2RDDk8NMdeCBnKNYXdMI27) | 3:25 | 2023-08-11 |  |

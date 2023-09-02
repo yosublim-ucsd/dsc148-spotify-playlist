@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
 
-91 songs - 4 hr 21 min
+92 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Grim Grinning Ghosts \- From "The Haunted Mansion"](https://open.spotify.com/track/6BGIYRM9XSFgbQrBtsxuQa) | [The Melomen](https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB), [Paul Frees](https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk), [Betty Taylor](https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1), [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL), [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [A Musical Tour: Treasures of the Walt Disney Archives at The Reagan Library](https://open.spotify.com/album/0GHAq8ItjkL8xRGf9bM7s9) | 5:33 | 2022-10-07 |  |
 | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/track/2m4RlNsMUbxChac9kX1Cu2) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/album/2OpuXAttHxigr3ChNOzN3U) | 2:40 | 2022-10-07 |  |
 | [Halloween Dance Party](https://open.spotify.com/track/1546dG78My4z98gAks35wg) | [Halloween Dance Party](https://open.spotify.com/artist/6Pa5h9zlhe0wliI43yELGl) | [Halloween Dance Party](https://open.spotify.com/album/7DkBboIbHq3tZHYzcrcbjj) | 1:52 | 2022-10-07 |  |
+| [Halloweentown Theme](https://open.spotify.com/track/6Afp1wDgGBQ4o5tNjvExpv) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Halloweentown \(Original Soundtrack\)](https://open.spotify.com/album/5lByeXRWMm2Bdn4MmoEsXe) | 1:47 | 2023-09-01 |  |
 | [He's a Pirate](https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ) | [Pirates of the Caribbean: The Curse of the Black Pearl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo) | 1:30 | 2022-10-07 |  |
 | [Healing Incantation \- From "Tangled"/Soundtrack Version](https://open.spotify.com/track/75VVIB2x1h6BfxD2PqOO57) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 0:54 | 2022-10-07 |  |
 | [Heffalumps and Woozles](https://open.spotify.com/track/3XxkvIoQdscyN4G7sOqbeF) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Halloween Songs & Sounds](https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo) | 2:03 | 2022-10-07 |  |

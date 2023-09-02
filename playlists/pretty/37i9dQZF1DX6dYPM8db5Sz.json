@@ -1,13 +1,221 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=mKOWBBpATXuts_bjK1xP5w\">Internet Girl</a> ",
-  "num_followers": 6918,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq?si=F1OmdWA6T0OVfPqfaCx3Qg\">The Plastics</a> ",
+  "num_followers": 6968,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzc1OWFlMDNjNzkyYjk2NGVjZTUyMmQzMTRjN2MxOTVhNGU3MjI1",
+  "snapshot_id": "MCxmMDRmOWE0NTczYzY4YWY2ZTUyZTYzZGFkNDdlMDFiMGU1NWM0MDlm",
   "tracks": [
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/0NuTrWehqrVHi5jU3Da63g"
+      },
+      "artists": [
+        {
+          "name": "The Plastics",
+          "url": "https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/2Umbg5vbB11Ljyk8hSck9j"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "L.U.V.",
+        "url": "https://open.spotify.com/album/66DOu9jFEcZSEX8Bz8G7Qy"
+      },
+      "artists": [
+        {
+          "name": "Shaun Orlando Berry",
+          "url": "https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "L.U.V.",
+      "url": "https://open.spotify.com/track/0iWnUctGC5Ts0BmqP5zv3D"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "Why Do You Care",
+        "url": "https://open.spotify.com/album/6pjUk8rWTphN4DsBtgIVhN"
+      },
+      "artists": [
+        {
+          "name": "COOL BOY",
+          "url": "https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT"
+        }
+      ],
+      "duration_ms": 196007,
+      "name": "Why Do You Care",
+      "url": "https://open.spotify.com/track/5DOXhBq8DjaMDzWdvYsjg3"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "You've Been On My Mind",
+        "url": "https://open.spotify.com/album/5yj3b959cOSR2JGaiPqPxH"
+      },
+      "artists": [
+        {
+          "name": "Rhys Davids",
+          "url": "https://open.spotify.com/artist/3zkCmXCBcpPtF3UqPTNMNv"
+        }
+      ],
+      "duration_ms": 141035,
+      "name": "You've Been On My Mind",
+      "url": "https://open.spotify.com/track/0S4nrCR1kjMp8y32OEd5Ch"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "Love Me Then Die",
+        "url": "https://open.spotify.com/album/6ujv9y19zQs49ARD6pNZRu"
+      },
+      "artists": [
+        {
+          "name": "The Meister",
+          "url": "https://open.spotify.com/artist/1CgnbZB3Fo0TyWeU3BVtSH"
+        },
+        {
+          "name": "Louie Van Wolf",
+          "url": "https://open.spotify.com/artist/0V3OJ2G59WUnkBJkrRSTe2"
+        },
+        {
+          "name": "LyndaWrighter",
+          "url": "https://open.spotify.com/artist/3XnNsPUDX0odgc80emdfrW"
+        }
+      ],
+      "duration_ms": 268604,
+      "name": "Love Me Then Die",
+      "url": "https://open.spotify.com/track/2l8bDo9IbKMCnnMs4T5rhR"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "Black Out Baby",
+        "url": "https://open.spotify.com/album/5wC5SiibVhS1ChLRj8OFRX"
+      },
+      "artists": [
+        {
+          "name": "Katy Hallauer",
+          "url": "https://open.spotify.com/artist/7g1bTthu5ETWFuq5igUMRm"
+        }
+      ],
+      "duration_ms": 209812,
+      "name": "Black Out Baby",
+      "url": "https://open.spotify.com/track/6zh4KcGIZcHJ24wSiBq5eZ"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/1bjuw3TAOwpLpCUGMUtToX"
+      },
+      "artists": [
+        {
+          "name": "Tessi Nandi",
+          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/5vK9xSL7EHnUcWuaZJ9xLd"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "give",
+        "url": "https://open.spotify.com/album/3PEAnGvmd5uaPsAOWlLITK"
+      },
+      "artists": [
+        {
+          "name": "Lyssa Heyman",
+          "url": "https://open.spotify.com/artist/4ZJfrvm7c4gAWHOgBYGiLO"
+        }
+      ],
+      "duration_ms": 186962,
+      "name": "give",
+      "url": "https://open.spotify.com/track/0NLhvK9vUSITapD6YHqR3c"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "Stagefright",
+        "url": "https://open.spotify.com/album/3pHBAx4it2Z9LlqSJGJF4j"
+      },
+      "artists": [
+        {
+          "name": "Kabaal Klankbaan",
+          "url": "https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb"
+        },
+        {
+          "name": "King Nqoba",
+          "url": "https://open.spotify.com/artist/2fiSOtpmdQoWLpf3IkSZgr"
+        },
+        {
+          "name": "Gil Hockman",
+          "url": "https://open.spotify.com/artist/4zlyea5wf3baPSMG7gsNMQ"
+        }
+      ],
+      "duration_ms": 252354,
+      "name": "Stagefright (Self-Help Rock Remix)",
+      "url": "https://open.spotify.com/track/1BSxdzz3UsQ9LK8ZEYBTAf"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "Amplified",
+        "url": "https://open.spotify.com/album/1xUtyGK2EC9lMtx54FpI4c"
+      },
+      "artists": [
+        {
+          "name": "Thara",
+          "url": "https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU"
+        }
+      ],
+      "duration_ms": 202676,
+      "name": "Amplified",
+      "url": "https://open.spotify.com/track/7iAvEBj3p8VtXmMd68jdQx"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "Games Night",
+        "url": "https://open.spotify.com/album/31oy4HFSd7E3t0CnGKYcZi"
+      },
+      "artists": [
+        {
+          "name": "Local Neighbour",
+          "url": "https://open.spotify.com/artist/4zMdLoGXWkdYvVNPN6HGqR"
+        }
+      ],
+      "duration_ms": 243377,
+      "name": "Games Night",
+      "url": "https://open.spotify.com/track/5qWC2QEfRsTp6UE9NPNu2y"
+    },
+    {
+      "added_at": "2023-09-01 04:48:22",
+      "album": {
+        "name": "The Phoenix",
+        "url": "https://open.spotify.com/album/4Bt6P8MUACJ5f3oGSZ6hAb"
+      },
+      "artists": [
+        {
+          "name": "Golden Blue",
+          "url": "https://open.spotify.com/artist/6IPUSjbmivAym8Q1pj9yvc"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "The Phoenix",
+      "url": "https://open.spotify.com/track/6wUrwv6uO6roQ1OUQrLnFW"
+    },
     {
       "added_at": "2023-08-24 22:42:07",
       "album": {
@@ -567,22 +775,6 @@
     {
       "added_at": "2023-08-24 22:42:07",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 176707,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
         "name": "Comparison Is a Disease",
         "url": "https://open.spotify.com/album/0TKvehUuvUfdTAD7UjxXJV"
       },
@@ -595,22 +787,6 @@
       "duration_ms": 130134,
       "name": "Comparison Is a Disease",
       "url": "https://open.spotify.com/track/4fKIYbRlivll98Aiu3ZD9h"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "bad for you",
-        "url": "https://open.spotify.com/album/1Zl3wokhmALoXoukyQDbJj"
-      },
-      "artists": [
-        {
-          "name": "Ananya",
-          "url": "https://open.spotify.com/artist/2Q32KkhT2YnVgCpAvrnhen"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "bad for you",
-      "url": "https://open.spotify.com/track/1ZDT1Iz7AmTAeLEzVjlXzc"
     },
     {
       "added_at": "2023-08-24 22:42:07",
@@ -631,22 +807,6 @@
     {
       "added_at": "2023-08-24 22:42:07",
       "album": {
-        "name": "Typical You",
-        "url": "https://open.spotify.com/album/41KzRjJSEVsD59JhzNRE31"
-      },
-      "artists": [
-        {
-          "name": "Alex Solomon",
-          "url": "https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU"
-        }
-      ],
-      "duration_ms": 232849,
-      "name": "Typical You",
-      "url": "https://open.spotify.com/track/0ZwVaJ5qhu21pEc9dQkeFa"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
         "name": "Kumaiha",
         "url": "https://open.spotify.com/album/1jjkn3lM4Xsmp05IbpchU9"
       },
@@ -659,22 +819,6 @@
       "duration_ms": 188586,
       "name": "Kumaiha",
       "url": "https://open.spotify.com/track/5sO3ANmgcAVJrCx3VE6cSz"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Pretty Dope",
-        "url": "https://open.spotify.com/album/4xR8bCYh7r2RUGHAivBA1y"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Gav",
-          "url": "https://open.spotify.com/artist/2Ynv2c4aZWXo9lC6Q8qppv"
-        }
-      ],
-      "duration_ms": 142736,
-      "name": "You too hot for this shit",
-      "url": "https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC"
     },
     {
       "added_at": "2023-08-24 22:42:07",
@@ -707,134 +851,6 @@
       "duration_ms": 164000,
       "name": "VIDEO GIRL",
       "url": "https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "A Child's Chant for the New Millennium",
-        "url": "https://open.spotify.com/album/0kH9dP7WAg9Uvw7kFyZKtX"
-      },
-      "artists": [
-        {
-          "name": "Wren Hinds",
-          "url": "https://open.spotify.com/artist/58U71aw2hYsogUxtiM4NWX"
-        }
-      ],
-      "duration_ms": 269799,
-      "name": "Wrenbird",
-      "url": "https://open.spotify.com/track/4F1NmFzC3OTampNIU4qLuI"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Appaloosa Bones",
-      "url": "https://open.spotify.com/track/03IAVdKpjqqIjNUxZRHywy"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "maya",
-        "url": "https://open.spotify.com/album/34c5aaW8G5OnrHefwAUNKi"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Rodrigues",
-          "url": "https://open.spotify.com/artist/64Vss2wNfj7wyFFVbpIy3d"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "maya",
-      "url": "https://open.spotify.com/track/71bWLot6VTOixr4y5NKpod"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "We Will Meet Again",
-        "url": "https://open.spotify.com/album/44gvqKoDEpsDC9QRE2sChM"
-      },
-      "artists": [
-        {
-          "name": "Hunter As a Horse",
-          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "We Will Meet Again",
-      "url": "https://open.spotify.com/track/7EZk8tmByNxbkr3oRNG369"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/5rdNgKVRNrDIWO7JNYqJHb"
-      },
-      "artists": [
-        {
-          "name": "Kristi Lowe",
-          "url": "https://open.spotify.com/artist/6XWv7bdLT5EQkyVMn4RaNh"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "VILLAIN",
-      "url": "https://open.spotify.com/track/5BenD5bE1L6gX4auqfEDov"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Purple Moon",
-        "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
-      },
-      "artists": [
-        {
-          "name": "Ilgen-Nur",
-          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
-        }
-      ],
-      "duration_ms": 197203,
-      "name": "Purple Moon",
-      "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Broken Men Break Hearts",
-        "url": "https://open.spotify.com/album/6eOWQkD5omHOX8HXHBR5i9"
-      },
-      "artists": [
-        {
-          "name": "Gothe",
-          "url": "https://open.spotify.com/artist/6FpFEaQbeODjVhr3dBaUwN"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Broken Men Break Hearts",
-      "url": "https://open.spotify.com/track/1IteeLB8afKqgGWmwHCRh7"
-    },
-    {
-      "added_at": "2023-08-24 22:42:07",
-      "album": {
-        "name": "Soulution",
-        "url": "https://open.spotify.com/album/44ROe9Rx3omI90s5lK6I5k"
-      },
-      "artists": [
-        {
-          "name": "Alibi Friday",
-          "url": "https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg"
-        }
-      ],
-      "duration_ms": 214319,
-      "name": "Soulution",
-      "url": "https://open.spotify.com/track/17TVv0cnaYnwEZ2qTDnILA"
     }
   ],
   "unique_name": "SAlt",

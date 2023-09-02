@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Los \u00c1ngeles Azules y Maria Becerra est\u00e1n en el Top \ud83d\udd25\n",
+  "description": "Alan Gomez y BM est\u00e1n en el Top \ud83d\udd25\n",
   "name": "El Top 2023",
   "tracks": [
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+    },
     {
       "album": {
         "name": "24",
@@ -20,7 +38,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 223400,
       "name": "24",
       "url": "https://open.spotify.com/track/0WSmDYN1aVmc7jHiLL4v0P"
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 213245,
       "name": "AEROBICO REMIX",
       "url": "https://open.spotify.com/track/4I9WKQdCuHMzQSFpP1k6Tu"
@@ -240,7 +258,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 141556,
       "name": "ALGUIEN M\u00c1S (With Yami Safdie)",
       "url": "https://open.spotify.com/track/0YeGf9akfyIq3FyKL1rkPl"
@@ -1253,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "DIME SI ERES FELIZ VOL.2",
+        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171667,
+      "name": "DIME SI ERES FELIZ VOL.2",
+      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
+    },
+    {
+      "album": {
         "name": "DISCOTEKA (feat. Locura Mix)",
         "url": "https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx"
       },
@@ -1372,6 +1412,24 @@
       "duration_ms": 213892,
       "name": "don't liE",
       "url": "https://open.spotify.com/track/7GpSrZ9BAnu5l5ahjRS8KC"
+    },
+    {
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
     },
     {
       "album": {
@@ -1688,6 +1746,24 @@
       "duration_ms": 169451,
       "name": "En Un Loop",
       "url": "https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS"
+    },
+    {
+      "album": {
+        "name": "Entre Beso y Beso",
+        "url": "https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153488,
+      "name": "Entre Beso y Beso",
+      "url": "https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG"
     },
     {
       "album": {
@@ -2250,7 +2326,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 138979,
       "name": "Le doy perreo",
       "url": "https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl"
@@ -2606,6 +2682,32 @@
       "duration_ms": 312737,
       "name": "Messirve Mix 5",
       "url": "https://open.spotify.com/track/41VOCbJ4ronoGiRg4bWvV6"
+    },
+    {
+      "album": {
+        "name": "MI CIUDAD",
+        "url": "https://open.spotify.com/album/05uxQGOTCeBXhdofQ9U15S"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220551,
+      "name": "MI CIUDAD",
+      "url": "https://open.spotify.com/track/4CQmxttSVcdfdf0B7cWqJR"
     },
     {
       "album": {
@@ -3136,6 +3238,28 @@
       "duration_ms": 227096,
       "name": "Para Ti (feat. Maikel Delacalle & Omar Varela)",
       "url": "https://open.spotify.com/track/1PHY05RmHPBs3SASIjXcYl"
+    },
+    {
+      "album": {
+        "name": "Pasatiempo",
+        "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
+      },
+      "artists": [
+        {
+          "name": "La China",
+          "url": "https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197161,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
     },
     {
       "album": {
@@ -3922,7 +4046,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 193496,
       "name": "Sin Preguntar",
       "url": "https://open.spotify.com/track/0tog9uUBCsPYP6zEg24wOB"
@@ -4246,7 +4370,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 171760,
       "name": "T\u00e1 OK (Remix)",
       "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
@@ -4615,6 +4739,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
+    },
+    {
+      "album": {
         "name": "Yo No Te Pido la Luna",
         "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
       },
@@ -4648,7 +4790,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 152038,
       "name": "YO TE VI MIR\u00c1NDOME",
       "url": "https://open.spotify.com/track/5y9K2HA8Q3KMJsod2xvQPX"

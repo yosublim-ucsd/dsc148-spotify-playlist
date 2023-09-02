@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 25467,
+  "num_followers": 25553,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjc0ODcxNzc3Yjk1OTllYmE4YmFiMzk5M2M1Y2E0ODA1NDU0ZDlj",
+  "snapshot_id": "MCxhYmY4ZTY5NzBiODhkMGE2ZDUzZmRlYjgzZWE5NDgyY2VjMjcyZGJi",
   "tracks": [
     {
       "added_at": "2023-08-24 02:21:49",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2023-08-24 02:21:49",
-      "album": {
         "name": "with HER",
         "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+    },
+    {
+      "added_at": "2023-08-24 02:21:49",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
       "added_at": "2023-08-24 02:21:49",
@@ -591,22 +591,18 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
       "artists": [
         {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "g1nger",
-          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
         }
       ],
-      "duration_ms": 218092,
-      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
-      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
     },
     {
       "added_at": "2023-08-24 02:21:49",
@@ -627,22 +623,6 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
-    },
-    {
-      "added_at": "2023-08-24 02:21:49",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
+    },
+    {
+      "added_at": "2023-08-24 02:21:49",
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "g1nger",
+          "url": "https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs"
+        }
+      ],
+      "duration_ms": 218092,
+      "name": "In To You (feat. g1nger) - Prod. WOOGIE",
+      "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
     },
     {
       "added_at": "2023-08-24 02:21:49",

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105515,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/06KIwbnnaaXJSw4iDXEWj8"
+    },
+    {
+      "album": {
         "name": "The Amazons (Deluxe)",
         "url": "https://open.spotify.com/album/2vsawVLAVvyQ8Oqu190Qbo"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 300115,
       "name": "Boys in the Better Land",
       "url": "https://open.spotify.com/track/0iJX82OGewFWpyRtB8zzo4"
+    },
+    {
+      "album": {
+        "name": "Dogrel",
+        "url": "https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300115,
+      "name": "Boys In the Better Land",
+      "url": "https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn"
     },
     {
       "album": {
@@ -1042,7 +1078,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 195973,
       "name": "Men's Needs",
       "url": "https://open.spotify.com/track/3qel23hQWhHT3qGewBQ0pE"
@@ -1067,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Brutalism",
+        "url": "https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207145,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -1086,6 +1140,24 @@
     {
       "album": {
         "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
+    },
+    {
+      "album": {
+        "name": "Joy as an Act of Resistance.",
         "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
       },
       "artists": [
@@ -1096,7 +1168,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
@@ -1370,7 +1442,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 149028,
       "name": "Puppets",
       "url": "https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj"
@@ -1604,7 +1676,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 279306,
       "name": "Two Steps, Twice",
       "url": "https://open.spotify.com/track/2K1upo7TEAIMVd9D9FDhrx"

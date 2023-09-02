@@ -4,7 +4,7 @@
 
 > Canciones tropicales que te transportan a Caleta y Caletilla.
 
-102 songs - 5 hr 31 min
+103 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cumbia Buena](https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Bueno Pa' Bailar](https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF) | 2:24 | 2023-06-16 |  |
 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 | 2023-06-16 |  |
 | [Cumbia De Los Patos](https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso) | [Danny Y Su Grupo](https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji) | [Disco De Oro Sonidero](https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1) | 3:41 | 2023-06-16 | 2023-08-26 |
+| [Cumbia De Los Patos](https://open.spotify.com/track/2XpSj3HHl5GjYkQBhtxQxb) | [Danny Y Su Grupo](https://open.spotify.com/artist/2ImM0esZBVzieN7AxMU3ji) | [Lo Maximo De Los Sonideros, Vol\. 1](https://open.spotify.com/album/3Cdt3zjueq3lkq5dXNDFBX) | 3:41 | 2023-06-16 |  |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2023-06-16 |  |
 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 | 2023-06-16 |  |
 | [Dame Mas Amor](https://open.spotify.com/track/2HTCgnClGkbNQLUVBLR8EC) | [Tommy Ramirez y Sus Sonorritmicos](https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH) | [15 Exitos](https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0) | 2:43 | 2023-06-16 |  |
@@ -89,7 +90,7 @@
 | [Príncipe Azul](https://open.spotify.com/track/5WdQyJKSSw7591St3jSKS2) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Tu Principe Azul](https://open.spotify.com/album/3Rx03l8gqAhv3NAciC3gh5) | 2:56 | 2023-06-16 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 | 2023-06-16 |  |
 | [Quen Pompo](https://open.spotify.com/track/4Gu5KSinsMNv4KTkCNVa7G) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [Quen Pompo](https://open.spotify.com/album/6ZXHFy31PiXJFufZzxfXFn) | 2:26 | 2023-06-16 |  |
-| [Quiero Amanecer](https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 1:38 | 2023-06-16 |  |
+| [Quiero Amanecer](https://open.spotify.com/track/1yhoppn03RhuWge08NDqKR) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 1:38 | 2023-06-16 | 2023-09-02 |
 | [Ramita De Matimba](https://open.spotify.com/track/5qvCM5esMYaMs8nW4NN1j7) | [Renacimiento 74](https://open.spotify.com/artist/6qioLW4OC3ZBqwH93xATgU) | [12 Super Exitos](https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG) | 2:53 | 2023-06-16 |  |
 | [Retrato Hablado](https://open.spotify.com/track/2sizo5xV3vWF9oDaZbwJ9s) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Cancioneros](https://open.spotify.com/album/7HANWrwLu6jfqJJsPWKimY) | 2:53 | 2023-06-16 |  |
 | [Ron Y Coca Cola](https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV) | [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [Ron Y Coca Cola](https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx) | 3:14 | 2023-06-16 |  |

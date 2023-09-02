@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Byron Messia
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,229 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,424 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,17 +47,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 37 | [Good Comfort](https://open.spotify.com/track/0Y2gj3rSBjtB13CsfOnSDF) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Good Comfort](https://open.spotify.com/album/6RF60O8kXnv9Ik21vLEOem) | 2:14 |
 | 38 | [Forever](https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Forever](https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn) | 3:13 |
 | 39 | [No Games](https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV) | [Serani](https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo) | [No Games](https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42) | 3:08 |
-| 40 | [Summa Hot](https://open.spotify.com/track/2ZZQeDeqOlsuzKQIHYhLot) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Summa Hot](https://open.spotify.com/album/7Fe9V0VKZ32dDxm3Qw5Mki) | 2:16 |
+| 40 | [Speed Off](https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Speed Off](https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp) | 2:54 |
 | 41 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
-| 42 | [Speed Off](https://open.spotify.com/track/2brmWfgvpkTotbDYSi8jbO) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Speed Off](https://open.spotify.com/album/4VGPlCegWF5KHqOmYn8cXp) | 2:54 |
-| 43 | [23](https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [23](https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ) | 2:24 |
+| 42 | [23](https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [23](https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ) | 2:24 |
+| 43 | [Summa Hot](https://open.spotify.com/track/2ZZQeDeqOlsuzKQIHYhLot) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Summa Hot](https://open.spotify.com/album/7Fe9V0VKZ32dDxm3Qw5Mki) | 2:16 |
 | 44 | [Tempted To Touch](https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Asafa Powell: Train For Speed](https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D) | 3:27 |
 | 45 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
 | 46 | [Call Me If](https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 4:00 |
 | 47 | [Calmc](https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Calmc](https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X) | 2:53 |
 | 48 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
-| 49 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
-| 50 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
+| 49 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
+| 50 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
 | 51 | [Come Around](https://open.spotify.com/track/1a64u7QtJ9yDwpNyfDrZTj) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Collie Buddz](https://open.spotify.com/album/2BGWnHTib774X9f7RPoato) | 3:41 |
 | 52 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 |
 | 53 | [Verified Choppa 2](https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm) | 2:19 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 57 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/6EC5tQ5QBc35eRL06PYcOR) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:45 |
 | 58 | [Walking Trophy](https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Walking Trophy](https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf) | 3:35 |
 | 59 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 |
-| 60 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
-| 61 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
+| 60 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
+| 61 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
 | 62 | [Pon Di Cocky](https://open.spotify.com/track/38CECqycscktTYRq4yKMXc) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Pon Di Cocky](https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4) | 3:10 |
 | 63 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 |
 | 64 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Miss Tight Hole](https://open.spotify.com/track/1uIavHFs7uL05f5DQNCXHi) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Miss Tight Hole](https://open.spotify.com/album/0N7pHx4ddTrTgYvD6e8cWl) | 2:54 |
 | 100 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0fz2jINcCa4iD7j4dmioCa) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/5kOOn0ChRFeAohElEPTqkz) | 3:06 |
 
-Snapshot ID: `MCw1OTQ5MjE5YTA3YmQxNGNiNTQ1OTRlYzAzN2U1MDI2MDI0ZTE2NjM2`
+Snapshot ID: `MCxlNDdlMGI1MDU0MGZmNTVhYzQxNmVlZjRlOWJhMmM1YjA2ZGE0NDNj`

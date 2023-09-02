@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,480 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,489 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [F.U.N\. Song](https://open.spotify.com/track/0gdLTqxAY4DDUQxXzmwj1z) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj), [Plankton](https://open.spotify.com/artist/4gtF4P04jpHvM0GnWWd3JS) | [SpongeBob's Greatest Hits](https://open.spotify.com/album/7n5FErCSkbQ4g2TZXKU6GD) | 1:24 |
-| 2 | [Bing Bong Zoo](https://open.spotify.com/track/2q4PnncxGIm1oVQzu6hS2d) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 3:10 |
+| 2 | [Bing Bong Zoo](https://open.spotify.com/track/72lIFn0eGPHFj7qbRjtRfV) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 3:10 |
 | 3 | [Mr Butt](https://open.spotify.com/track/5LE6ragFpfU11QQymnZBGR) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4) | 1:11 |
 | 4 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 |
 | 5 | [Bees Can Talk by Moving Their Butts](https://open.spotify.com/track/3jtsg0PEBWqbTFG9qIdUSx) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 50 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 1:57 |
 
-Snapshot ID: `MCxlNjVmMTlhMDMzNjc4NjM1ZTU0MDk2NmZmMjMxZGYxY2Q5M2Q4ZDc3`
+Snapshot ID: `MCw4MzFkZjMwMWQyODcxZjgyM2NkMzk4ODA2YTY0Mzk3ZWQxMmJlNDAx`

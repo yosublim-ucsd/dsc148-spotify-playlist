@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Kymara
 
-350 songs - 20 hr 58 min
+351 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Most Frail](https://open.spotify.com/track/7BFQCo02VhtA6XsGlBt4xF) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Most Frail](https://open.spotify.com/album/0Ie3jkL5fph5PNjnhl1UR4) | 3:31 | 2021-12-16 | 2022-10-01 |
 | [Move](https://open.spotify.com/track/6AjQWeiO9fjbdst7QZeYDG) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Move](https://open.spotify.com/album/1d5iWv8O3gUHAuUf51OaED) | 3:32 | 2021-12-16 | 2022-10-15 |
 | [My Phone Can Die](https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [My Phone Can Die](https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa) | 2:59 | 2023-07-07 |  |
+| [My Way, Anyway](https://open.spotify.com/track/2YNhnRFEjypCHtbd7povuy) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Super\-Sonic Family Vol\. 2 \- Part 1](https://open.spotify.com/album/06WzFxDa5CjgpBhwRrvyKO) | 3:03 | 2023-09-01 |  |
 | [Mystic Lover](https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH) | [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Mystic Lover](https://open.spotify.com/album/6NUcMrmhoAIwvO0kAhk6Rt) | 3:55 | 2021-12-16 | 2022-02-11 |
 | [Naked \- Feat\. Leven Kali](https://open.spotify.com/track/37usDo7KCpJJHrDnzHG8xU) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Naked \(Feat\. Leven Kali\)](https://open.spotify.com/album/7anDRgbTFWggPG51LUEhuG) | 3:04 | 2023-03-02 |  |
 | [Never Let Me Go](https://open.spotify.com/track/4zwbn8nmwsKR67EdRSaIU5) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Magic 8ball](https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5) | 2:48 | 2021-12-16 | 2022-04-09 |
@@ -219,7 +220,7 @@
 | [Over \[Feat\. Yebba\]](https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 4:55 | 2022-02-24 | 2023-03-03 |
 | [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-09-22 |  |
 | [Paris, Texas](https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Now, You Know](https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR) | 3:03 | 2021-12-16 | 2022-07-07 |
-| [Pass Time](https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Pass Time](https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz) | 3:39 | 2022-06-24 |  |
+| [Pass Time](https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Pass Time](https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz) | 3:39 | 2022-06-24 | 2023-09-02 |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2021-12-16 | 2022-02-25 |
 | [Pieces ft Duckwrth](https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Pieces ft Duckwrth](https://open.spotify.com/album/7g7HsmUkK7pm94sqy9INrh) | 2:54 | 2022-04-08 | 2023-03-31 |
 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 | 2022-07-28 |  |

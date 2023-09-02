@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,702 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,714 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 47 | [Ride](https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Empty Estate](https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq) | 3:25 |
 | 48 | [melody in high feedback tones](https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g) | 3:53 |
 | 49 | [Sea Within a Sea](https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Primary Colours](https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV) | 7:58 |
-| 50 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
+| 50 | [Doors Unlocked and Open](https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys](https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr) | 5:37 |
 | 51 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
-| 52 | [Doors Unlocked and Open](https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys](https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr) | 5:37 |
+| 52 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 53 | [Caramel](https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 3:09 |
 | 54 | [Love Builds Up](https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 5:24 |
 | 55 | [Han\-Tyumi, The Confused Cyborg](https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Murder of the Universe](https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS) | 2:21 |
@@ -78,16 +78,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 68 | [Love Comes In Waves](https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [The View from Halfway Down](https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td) | 4:48 |
 | 69 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
 | 70 | [Opa\-Loka](https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [Warrior on the Edge of Time](https://open.spotify.com/album/0vp16atvbB8MmXPaL8Q3A9) | 5:09 |
-| 71 | [To the East](https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [No Shouts, No Calls](https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB) | 4:55 |
-| 72 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 |
+| 71 | [Super\-Electric](https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Switched On](https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS) | 5:22 |
+| 72 | [To the East](https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [No Shouts, No Calls](https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB) | 4:55 |
 | 73 | [Don't Blow Experiment](https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh), [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS) | [Panther Rotate](https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR) | 5:09 |
 | 74 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
 | 75 | [One More Night \- 2004 Remastered Version](https://open.spotify.com/track/13Q0XPq59cQ6E948WMPYR0) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered Version\)](https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT) | 5:35 |
 | 76 | [Crazy Love](https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h) | [Colder](https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG) | [Again](https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR) | 5:11 |
 | 77 | [9](https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 6:31 |
 | 78 | [Heiße Lippen](https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 2:21 |
-| 79 | [Nightcrawler](https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Mason Bee](https://open.spotify.com/artist/6cKYviKIX45Vu7a7UlhVLw) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:59 |
-| 80 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
+| 79 | [Für Dich](https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43) | [Thomas Dinger](https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm) | [Für mich](https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO) | 9:26 |
+| 80 | [Nightcrawler](https://open.spotify.com/track/58J2w5yqne5YfzbmYi2mvY) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Mason Bee](https://open.spotify.com/artist/6cKYviKIX45Vu7a7UlhVLw) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:59 |
 | 81 | [Pendulum](https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Haha Sound](https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP) | 4:21 |
 | 82 | [Motoring](https://open.spotify.com/track/3IXelJwVmeTU2pWqOxBPPA) | [TOY](https://open.spotify.com/artist/0b0uhvUEeiD6y0XHVw3mRA) | [Toy](https://open.spotify.com/album/4ipM7CJTmNnqA1EbKmko8s) | 4:33 |
 | 83 | [Like Foxes Through Fences](https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:37 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 85 | [Brean Down](https://open.spotify.com/track/0LvgkU2tHpdzYUjJ94xYcn) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>>](https://open.spotify.com/album/7FAIwJVREPlHAmqesdOwmn) | 3:51 |
 | 86 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 87 | [Krautrock \- 2006 Digital Remaster](https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH) | [Faust](https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7) | [Faust IV \(Deluxe Edition\)](https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ) | 11:48 |
-| 88 | [Mother Sky \(from Deep End\)](https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Anthology \(Remastered Version\)](https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH) | 6:36 |
-| 89 | [Dino](https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN) | 3:31 |
+| 88 | [Dino](https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN) | 3:31 |
+| 89 | [Mother Sky \(from Deep End\)](https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Anthology \(Remastered Version\)](https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH) | 6:36 |
 | 90 | [Les Yper\-Sound](https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs) | 4:05 |
 | 91 | [Only One Thing Is Needed](https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 4:33 |
 | 92 | [Pass The Hatchet, I Think I'm Goodkind](https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Am Not Afraid Of You And I Will Beat Your Ass](https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL) | 10:46 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 97 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
 | 98 | [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 |
 | 99 | [I'm Not Living in the Past Anymore](https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Interloper](https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs) | 4:07 |
-| 100 | [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 |
+| 100 | [Cassettesingle](https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 6:31 |
 
-Snapshot ID: `MCw4ZjZlYTU5MjU4NmU4NDU0MWVlN2M2MDYwZjJhMmQ3ZDYzMWU2YjUw`
+Snapshot ID: `MCw2ZjdkOTlmN2ZkMjg1ZDFkZWFjMzBlMDA5N2ViZTBhY2U1YmIzNzI2`

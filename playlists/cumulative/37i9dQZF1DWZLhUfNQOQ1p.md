@@ -4,7 +4,7 @@
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-286 songs - 18 hr 44 min
+287 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 | 2023-05-30 |  |
 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 | 2023-05-30 |  |
 | [Pictures \- Joshua Ellis Remix](https://open.spotify.com/track/2ZLaVJQTHsC51XFzZvyk4d) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Hier](https://open.spotify.com/artist/0vkKvzSb0uPJTFH7HUcEsV), [Joshua Ellis](https://open.spotify.com/artist/31ZMJ2c1wran3TQRURkbyo) | [Pictures \(Joshua Ellis Remix\)](https://open.spotify.com/album/2k992BmvPXzEcIeRWqcL9C) | 2:37 | 2021-08-05 | 2022-07-29 |
+| [Please Stay](https://open.spotify.com/track/1vND8c6S9qev3vgXcVAWFD) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Rebirth Of The Drum](https://open.spotify.com/album/7fyL5hklp9dqJEAiIsl1iZ) | 5:15 | 2023-09-01 |  |
 | [Pleasure & Pain](https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Pleasure & Pain](https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8) | 3:34 | 2021-08-05 | 2022-10-10 |
 | [Porcelain](https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 4:01 | 2023-05-30 |  |
 | [Portofino](https://open.spotify.com/track/5pAdgRrEDtLAGU83fpkiD6) | [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Glaz](https://open.spotify.com/album/2kjYDEGJsmcp5249XdZta3) | 2:55 | 2023-05-14 | 2023-05-30 |
@@ -291,7 +292,7 @@
 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 | 2021-08-05 | 2023-05-31 |
 | [Wonder Where You Are](https://open.spotify.com/track/092TeHd8EpuYrzhx4qNWnn) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Sara Sangfelt](https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC) | [Wonder Where You Are](https://open.spotify.com/album/7gddr1f4C9wu6J8iFMJ35x) | 3:28 | 2021-08-05 | 2022-07-26 |
 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 | 2023-05-14 | 2023-05-30 |
-| [Yeh Yeh Yeh](https://open.spotify.com/track/1PPD0JzK4ODrtuoP7q9YUj) | [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD) | [A Story Of Innocence Lost](https://open.spotify.com/album/0ZtXZYMUIHG485UFCGg9hX) | 6:17 | 2023-07-21 |  |
+| [Yeh Yeh Yeh](https://open.spotify.com/track/1PPD0JzK4ODrtuoP7q9YUj) | [Shaolin Cowboy](https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD) | [A Story Of Innocence Lost](https://open.spotify.com/album/0ZtXZYMUIHG485UFCGg9hX) | 6:17 | 2023-07-21 | 2023-09-02 |
 | [You Feel Me](https://open.spotify.com/track/6NkOCefYgnzkRNk1a0npHr) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [You Feel Me](https://open.spotify.com/album/0k5lCPaW3r7JLJjrsUe4hB) | 3:33 | 2023-08-11 |  |
 | [Zodiacs \- Digitally Remastered](https://open.spotify.com/track/64vmxpTHTMAwDlOfB8lQs5) | [Roberta Kelly](https://open.spotify.com/artist/3DMQA5X4ZA8Lu36nDv3k8F) | [Trouble Maker \(Digitally Remastered Version\)](https://open.spotify.com/album/6byW9Ji5U7TBL9hcFTPJXs) | 5:09 | 2023-05-14 | 2023-05-30 |
 

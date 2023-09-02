@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Zach Bryan
+> Today's top country hits\. Cover: Tyler Childers
 
-671 songs - 1 day 12 hr 13 min
+673 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [AA](https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [AA](https://open.spotify.com/album/7m5hJYb9a0sxNstIKm3PPz) | 3:09 | 2022-01-21 | 2022-07-16 |
 | [After A Few](https://open.spotify.com/track/1z6wl2rwKatfmza6usanWw) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [After A Few](https://open.spotify.com/album/5Z6UUS0n3Oz7i2bDLEdbWL) | 3:33 | 2020-03-07 | 2020-06-29 |
 | [Ain't Always The Cowboy](https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD) | 3:40 | 2020-09-26 | 2020-11-22 |
+| [Ain't Missin' You](https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc) | 2:56 | 2023-09-01 |  |
 | [Alcohol You Later](https://open.spotify.com/track/16HAr3eu7TCbeJ0IOJLQxY) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Mitchell Tenpenny \- EP](https://open.spotify.com/album/36Hros61c2dlrO3A5ZapaW) | 3:07 | 2019-05-26\* | 2019-09-08 |
 | [All American](https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [All American](https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV) | 3:02 | 2021-09-18 | 2022-01-22 |
 | [All I Need Is You](https://open.spotify.com/track/02FAxAwzApe6pAqfAL3dLr) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You](https://open.spotify.com/album/1tc6XshhetHi2jagwM3UhS) | 2:42 | 2023-06-16 |  |
@@ -353,7 +354,7 @@
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-03-14 | 2021-03-27 |
 | [Longneck Way To Go](https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Longneck Way To Go](https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg) | 3:08 | 2022-05-06 | 2022-10-15 |
 | [Look What God Gave Her](https://open.spotify.com/track/1HY7Ze0NWqDJkl4g4MV62Q) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Look What God Gave Her](https://open.spotify.com/album/302VQGTJKXl3wUNxHntBnH) | 2:48 | 2019-05-26\* | 2019-08-31 |
-| [Looking for You](https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Looking for You + All Dogs Go to Heaven](https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j) | 2:59 | 2023-03-03 |  |
+| [Looking for You](https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Looking for You + All Dogs Go to Heaven](https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j) | 2:59 | 2023-03-03 | 2023-09-02 |
 | [Lose You](https://open.spotify.com/track/0vK1vDEvEMvSpFEKW62Qub) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Lose You](https://open.spotify.com/album/3roOLsfxMpvsd8cEGJPyrc) | 3:23 | 2020-11-22 | 2021-02-27 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2022-03-25 | 2022-06-18 |
 | [Love Ain't](https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Ain't](https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0) | 3:06 | 2019-05-26\* | 2019-12-14 |
@@ -401,7 +402,7 @@
 | [My Truck](https://open.spotify.com/track/1mpD5ioZ9479I6CuKxn3K9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [My Truck](https://open.spotify.com/album/5TVV5gPKNAhQcFBymp4m2u) | 2:38 | 2020-02-08 | 2020-04-25 |
 | [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 | 2020-06-02 | 2020-06-21 |
 | [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 | 2023-03-10 | 2023-06-12 |
-| [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-06-10 |  |
+| [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-06-10 | 2023-09-02 |
 | [Neon Fools](https://open.spotify.com/track/1C0mdTiVLxRfsBrIhlPQQC) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Neon Fools](https://open.spotify.com/album/5upZpszGKEezR0FT1xicc3) | 3:15 | 2020-02-15 | 2020-06-12 |
 | [Neon Fools](https://open.spotify.com/track/4eRclKjJzvw0xWG8XwstCT) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Famous \- EP](https://open.spotify.com/album/6aN2jKcVtBbiTLtRsysdIV) | 3:15 | 2020-06-12 | 2020-06-21 |
 | [Never Be Sorry](https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:23 | 2020-11-10 | 2021-02-20 |
@@ -572,6 +573,7 @@
 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/20vIaD2DFOxGqDvN0dlMEH) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/album/6dHn1cTLJ4CAlN2AyR3a1O) | 3:11 | 2019-06-30 | 2019-08-18 |
 | [the other girl \(with Halsey\)](https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:21 | 2020-03-21 | 2020-04-04 |
 | [the other girl \(with Halsey\) \[the other mix\]](https://open.spotify.com/track/4teyk2rWXYKPP2pLvHmT0k) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [the other girl \(with Halsey\) \[the other mix\]](https://open.spotify.com/album/1rw6AaFH51du6ggID9HpEU) | 3:23 | 2020-04-25 | 2020-08-01 |
+| [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 | 2023-09-01 |  |
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2022-01-07 | 2022-03-26 |
 | [There's A Drink For That](https://open.spotify.com/track/1emssFw7IdIo26E9JDiJrz) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Singles Only](https://open.spotify.com/album/1iZv0S6Nbz5iz9ZB7wH8nn) | 3:04 | 2019-07-13 | 2019-10-05 |
 | [These Days](https://open.spotify.com/track/6U4S5Fcy4sNgYnKPh6LLdh) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [These Days](https://open.spotify.com/album/7kFlWmnxc7zivuaziAC0og) | 2:52 | 2019-10-26 | 2020-03-14 |

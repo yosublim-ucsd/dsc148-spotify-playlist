@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Dosis musical para disfrutar el momento. Foto: ARIA VEGA",
+  "description": "Dosis musical para disfrutar el momento. Foto: Nicky Jam, Be\u00e9le",
   "name": "Parchadito",
   "tracks": [
     {
@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "DEKKOLETERA 333",
+        "url": "https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV"
+    },
+    {
+      "album": {
         "name": "12x3",
         "url": "https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx"
@@ -415,6 +433,28 @@
     },
     {
       "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "album": {
         "name": "CAPROVO",
         "url": "https://open.spotify.com/album/053olGLgVl2r4IpZ5PeuUt"
       },
@@ -580,10 +620,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 188186,
       "name": "Debe ser que estoy rindi\u00e9ndome",
       "url": "https://open.spotify.com/track/1ir9k1BaWEdZ2eGbfd1vRi"
+    },
+    {
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144427,
+      "name": "DONDE SE APRENDE A QUERER?",
+      "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
     },
     {
       "album": {
@@ -1406,7 +1464,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 225923,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"

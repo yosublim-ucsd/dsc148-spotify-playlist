@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-189 songs - 11 hr 40 min
+192 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Califórnica](https://open.spotify.com/track/50gjhPjZCyQpya1Bcq2BNe) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Monarca](https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw) | 3:30 | 2022-04-26 | 2023-07-01 |
 | [Cerca](https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Cerca](https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it) | 4:43 | 2023-02-10 |  |
 | [Como Quiero Que Me Quieras](https://open.spotify.com/track/71NIlviM9agiffcoqAVKE1) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Como Quiero Que Me Quieras](https://open.spotify.com/album/3xTH9gNXwR0KJgkEKEP7Si) | 3:54 | 2022-08-13 | 2023-02-18 |
-| [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 | 2022-07-01 |  |
+| [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 | 2022-07-01 | 2023-09-02 |
 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 | 2022-04-26 |  |
 | [Compartir](https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z) | 4:19 | 2022-01-28 |  |
 | [Contour](https://open.spotify.com/track/3YY5FrLS9mnYOBnhr4uVoX) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Contour](https://open.spotify.com/album/7BBg5lA5vQOoiUWnrVWj86) | 3:44 | 2022-08-01 |  |
@@ -58,10 +58,10 @@
 | [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 | 2022-01-28 | 2022-07-29 |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2022-01-28 | 2023-07-01 |
 | [Desde Que](https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:38 | 2022-01-28 |  |
-| [Dientes](https://open.spotify.com/track/74cqgSQGf1qznCiWyqu7w5) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Dientes](https://open.spotify.com/album/0Lzfz2swBfJWGJIAzZRgMV) | 4:46 | 2023-06-30 |  |
+| [Dientes](https://open.spotify.com/track/74cqgSQGf1qznCiWyqu7w5) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Dientes](https://open.spotify.com/album/0Lzfz2swBfJWGJIAzZRgMV) | 4:46 | 2023-06-30 | 2023-09-02 |
 | [Dime](https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3) | [Polaris](https://open.spotify.com/artist/4f8qDCXvGLNPj783d6PTWS) | [Dime](https://open.spotify.com/album/3Q8Wtw6UB5xLQQ15tb7z9B) | 3:01 | 2022-01-28 |  |
 | [Dime Como Tú Quieras](https://open.spotify.com/track/09uJJFpcg2q2zuiYRC4PZT) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:08 | 2022-01-28 | 2023-07-01 |
-| [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 | 2023-07-21 |  |
+| [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 | 2023-07-21 | 2023-09-02 |
 | [Dos Amantes](https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Dos Amantes](https://open.spotify.com/album/58yZYSZWbW5RP5xMZTqsgM) | 4:10 | 2022-01-28 |  |
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-05-19 |  |
 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2023-05-05 |  |
@@ -106,6 +106,7 @@
 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 | 2023-05-12 |  |
 | [Inesperado](https://open.spotify.com/track/5GbbHqyhsl2tIZTvyBieL0) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Destruye Hogares](https://open.spotify.com/album/1cepreuLqLtbdRAhCorr8G) | 2:47 | 2022-04-26 | 2023-07-01 |
 | [Inevitable](https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Inevitable](https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa) | 3:24 | 2022-03-28 | 2023-07-01 |
+| [Inhabitable](https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Inhabitable](https://open.spotify.com/album/3UKwGcVshIk7d3n7M4nfAG) | 2:47 | 2023-09-01 |  |
 | [Insatisfecho](https://open.spotify.com/track/12bpuwhO89NZuKgcWAM7tN) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Insatisfecho](https://open.spotify.com/album/67677bOS0mEinGuIto707S) | 3:07 | 2022-01-28 | 2023-07-01 |
 | [Invierno](https://open.spotify.com/track/7Lt1pDskyOACrikOmHGz98) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:16 | 2022-11-24 |  |
 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 | 2022-01-28 |  |
@@ -117,6 +118,7 @@
 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 | 2022-04-26 | 2023-02-18 |
 | [Lo Mejor, Lo Peor](https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [América Supersónica](https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0) | 3:43 | 2022-04-26 | 2023-07-01 |
 | [Lo que Quieras de Mí](https://open.spotify.com/track/2wLzfdCL6lVmUXySZlPVwa) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:59 | 2022-04-26 |  |
+| [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 | 2023-09-01 |  |
 | [Love](https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Rocanlover](https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX) | 3:23 | 2022-01-28 |  |
 | [Luciana](https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Flotador](https://open.spotify.com/album/2YhGmP5XIC2uMBfmuFK2M6) | 3:17 | 2022-09-28 | 2023-02-18 |
 | [Mañana](https://open.spotify.com/track/696c9iYCZloDcTmB3lStdC) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Mañana](https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R) | 4:28 | 2023-06-30 |  |
@@ -137,6 +139,7 @@
 | [nadie me cae bien](https://open.spotify.com/track/35bu49h6EEYptKobXmBQma) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [nadie me cae bien](https://open.spotify.com/album/5xvQJ17xAeaFUV2OApBBea) | 3:48 | 2022-01-28 |  |
 | [Nena, dime algo.](https://open.spotify.com/track/3arnuYBuNFads3xhmztypA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nena, dime algo.](https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY) | 2:36 | 2023-04-07 |  |
 | [No](https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [No](https://open.spotify.com/album/63zjSmsePSeevbbaSB80Ga) | 3:44 | 2022-01-28 | 2023-07-01 |
+| [No Digas Nada](https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Digas Nada](https://open.spotify.com/album/11oUQbgiKOlQopjkZhvp5Z) | 4:07 | 2023-09-01 |  |
 | [No Me Provoques](https://open.spotify.com/track/1SMw2ZiOmzU9xogXlBS4Nq) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [No Me Provoques](https://open.spotify.com/album/7etvFe4PKI8GYRNVsAIcND) | 4:36 | 2022-01-28 | 2023-07-01 |
 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 | 2023-06-02 |  |
 | [Nunca Es Tarde](https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Querer Querer](https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3) | 3:03 | 2022-01-28 |  |

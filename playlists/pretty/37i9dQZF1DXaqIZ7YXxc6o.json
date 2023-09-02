@@ -1,12 +1,12 @@
 {
   "description": "Future Dance hits. Cover: Kinder",
-  "num_followers": 135226,
+  "num_followers": 135316,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjNhOTY1YTZmOGIzMmFlY2Q0YTNkNDU4OTIwZmVjMjVmNDRkZWVk",
+  "snapshot_id": "MCxhNDQ5NzUyMDZjZDc1NzQwNDYzMGJmY2Q0ZGI3YmQxZThlMTM0YmU2",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -719,6 +719,22 @@
       "duration_ms": 189112,
       "name": "We Could Be Love",
       "url": "https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
     },
     {
       "added_at": "2023-08-31 14:00:00",

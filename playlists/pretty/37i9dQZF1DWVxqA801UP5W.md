@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,383 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,490 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 7 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
 | 8 | [Lavender Haze \- Felix Jaehn Remix](https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 2:51 |
 | 9 | [Shivers \- Ofenbach Remix](https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Shivers \(Ofenbach Remix\)](https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl) | 3:07 |
-| 10 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
-| 11 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
+| 10 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
+| 11 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 12 | [Still Sleepless \- Ekko & Sidetrack Remix](https://open.spotify.com/track/2Tnt1ux4o63qXFR8G9kePT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB), [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL) | [Still Sleepless \(Ekko & Sidetrack Remix\)](https://open.spotify.com/album/3B5O9docVLoUE5SNqf2dNj) | 3:38 |
 | 13 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
 | 14 | [Post Malone \(feat\. RANI\) \- VIZE Remix](https://open.spotify.com/track/3mruwwpKfG5NYmnEr6O5Dw) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Post Malone \(feat\. RANI\) \[VIZE Remix\]](https://open.spotify.com/album/2idnYaYkAG2xDus7xk1yNZ) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 |
 | 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MCw4MTliMTdiNjBiYTNjN2MyZDQ0NmMzNmVlOTZiMWRhODY0NWQ0OTZi`
+Snapshot ID: `MCxiNzAyYWVmNjkxNjk5ODIzNTEwZjAzNWZlZjA2NTZiZDY2NmIxNGVl`

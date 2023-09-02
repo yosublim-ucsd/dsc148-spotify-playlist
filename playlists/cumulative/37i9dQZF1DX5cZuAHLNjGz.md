@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with AP Dhillon
 
-242 songs - 12 hr 40 min
+243 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 | 2022-05-29 | 2022-12-11 |
 | [All Night \(Live\)](https://open.spotify.com/track/7IK26RNUdgoZWJdlarrcty) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Two Hearts Never Break The Same](https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh) | 3:49 | 2022-10-07 | 2023-04-25 |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2022-05-29 | 2023-08-30 |
+| [Attraction](https://open.spotify.com/track/0biuGbhZwYnuUwMOi4fvaN) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Attraction](https://open.spotify.com/album/2916WaelFJZ8rzD77tVjnZ) | 3:03 | 2023-09-01 |  |
 | [Baapu](https://open.spotify.com/track/5fGH7wUp2unAd9UxbA4eGq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 6:06 | 2022-06-20 | 2022-08-18 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-09-16 |  |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-05-29 | 2022-08-20 |
@@ -230,7 +231,7 @@
 | [Umbrella](https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Umbrella](https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq) | 3:13 | 2022-05-29 | 2023-05-27 |
 | [Unforgettable](https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Unforgettable](https://open.spotify.com/album/5Yl8tuE1kBsLK4PaSN8Vfm) | 3:32 | 2022-05-29 | 2022-10-18 |
 | [Untouchable](https://open.spotify.com/track/2hDMBVN3P47GEhH5VtmA6m) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Untouchable](https://open.spotify.com/album/0Ib0QsGyuoGpVIPZaUwHL6) | 2:33 | 2022-05-29 |  |
-| [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2022-06-02 |  |
+| [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2022-06-02 | 2023-09-02 |
 | [Vaar](https://open.spotify.com/track/3GUKdxhGCMLRO6Cey7V2Dk) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Vaar](https://open.spotify.com/album/4BVZUGlil7yXxCPxGe5OwF) | 2:20 | 2022-11-08 | 2022-12-15 |
 | [Vail](https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Vail](https://open.spotify.com/album/0SUKbK4r6wQS0t9gdMsIdm) | 3:20 | 2022-05-29 | 2023-05-20 |
 | [Vanilla](https://open.spotify.com/track/2z7k8UytNaiMIJQNc1XZcZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:51 | 2022-07-15 | 2022-07-22 |

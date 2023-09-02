@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,974 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,042 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 51 | [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 |
 | 52 | [Juan Pachanga](https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:13 |
 | 53 | [Ran Kan Kan](https://open.spotify.com/track/1igx29PgdkqLO2JMxW17Je) | [German Villarreal](https://open.spotify.com/artist/6xdJa13DzDlm5Vb0xXycj2), [Mambo Big Band](https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI) | [CON PERMISO DE MIS MAYORES](https://open.spotify.com/album/1rOnROZrwtjRlBNfU55BSm) | 4:05 |
-| 54 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
-| 55 | [Puerto Rico](https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [El Papá De La Salsa](https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h) | 4:34 |
+| 54 | [Puerto Rico](https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [El Papá De La Salsa](https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h) | 4:34 |
+| 55 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 | 56 | [Hermano](https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc) | [El Timba](https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi) | [Descargando](https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z) | 4:54 |
 | 57 | [Un Verano en NY](https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:57 |
 | 58 | [Amor Perfecto](https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY) | [Alex Matos](https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC) | [El Salsero De Ahora](https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ) | 4:35 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 90 | [Para Chango](https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Con Bajo Y Todo](https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx) | 3:35 |
 | 91 | [Y Yo Ganga](https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw) | [Alegre All Stars](https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc) | [Perdido](https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz) | 8:09 |
 | 92 | [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 |
-| 93 | [Salsa Na' Ma'](https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto) | [Azuquita Y Su Orquesta Melao](https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR) | [Pura Salsa](https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1) | 4:35 |
-| 94 | [Me Voy Pa Las Villas](https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn), [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Separala También! Cantando Tito Rodríguez](https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR) | 2:53 |
+| 93 | [Me Voy Pa Las Villas](https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn), [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Separala También! Cantando Tito Rodríguez](https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR) | 2:53 |
+| 94 | [Salsa Na' Ma'](https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto) | [Azuquita Y Su Orquesta Melao](https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR) | [Pura Salsa](https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1) | 4:35 |
 | 95 | [Ran Kan Kan](https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE) | [The Mambo Express](https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl) | [Mambo Mania Vol\. 3](https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m) | 2:59 |
 | 96 | [El Que Se Fue \- Tributo A Tito Rodriguez](https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [A Dos Tiempos de un Tiempo](https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9) | 4:52 |
 | 97 | [Hecho Y Derecho](https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Hecho Y Derecho](https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy) | 2:47 |
-| 98 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
-| 99 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
+| 98 | [Mambo La Libertad](https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:05 |
+| 99 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
 | 100 | [Tokyo Blues](https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Best Of The Concord Years](https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3) | 5:15 |
 | 101 | [Cuando Sale El Sol](https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Hollywood](https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf) | 2:52 |
 | 102 | [Tanga](https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Yo Soy La Rumba](https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx) | 3:34 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCw1MDkzMTdjYWRjMzBjMDk5NGQzOGFlNTgwNTY3ZjZiODE3ZjQyZDE4`
+Snapshot ID: `MCwxNDU5MzNlMTdhZGQ3ZDhlNDdkYTJjOGJlMDBmY2JmZjQ3NGUzYmY3`

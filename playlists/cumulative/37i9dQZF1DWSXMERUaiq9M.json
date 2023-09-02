@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 206694,
       "name": "Busy Overthinking",
       "url": "https://open.spotify.com/track/6iHnOivqyolVuAeR576xBI"
@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Mixed Feelings",
+        "url": "https://open.spotify.com/album/3gFpta2STgjcAngM4dyM92"
+      },
+      "artists": [
+        {
+          "name": "Bae Blade",
+          "url": "https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283936,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd"
+    },
+    {
+      "album": {
         "name": "Teenage Dreams",
         "url": "https://open.spotify.com/album/1SSgm7YR2sCfkP0gfF9L5G"
       },
@@ -1762,7 +1780,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 270053,
       "name": "Meet Me In The Club",
       "url": "https://open.spotify.com/track/3jLpZs81i46jtsPFnXnHJa"
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 415522,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk"

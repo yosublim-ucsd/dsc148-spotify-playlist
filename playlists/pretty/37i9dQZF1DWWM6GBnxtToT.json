@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 571707,
+  "num_followers": 571909,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQzNzA1ZDllODVjMGQ1NGNkNTZiOWE0ZTVlYzI2YTQyZmJmMzA1",
+  "snapshot_id": "MCw2YmUyODhiZTFkNGJhZDYxYmVkOTk3NDc1ZDRjNTE1YzFlZTAyM2U5",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "I Need Space",
         "url": "https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Walking Like That",
-        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
-      },
-      "artists": [
-        {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Walking Like That",
-      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0U3nZkZJbWCRK71MhORAFt"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 174725,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/32QjoM6mbNCEFxS8OYiPYB"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Walking Like That",
+        "url": "https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh"
+      },
+      "artists": [
+        {
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Walking Like That",
+      "url": "https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Here, Right Now",
-        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Going with You",
-      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 196560,
       "name": "Colour Me Blue",
       "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Here, Right Now",
+        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Going with You",
+      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1631,8 +1631,8 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
+        "name": "Get Up!",
+        "url": "https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao"
       },
       "artists": [
         {
@@ -1640,9 +1640,9 @@
           "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
         }
       ],
-      "duration_ms": 184706,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
+      "duration_ms": 195653,
+      "name": "Get Up!",
+      "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
     },
     {
       "added_at": "2023-08-29 08:42:33",

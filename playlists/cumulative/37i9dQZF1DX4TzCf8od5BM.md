@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-198 songs - 5 hr 2 min
+199 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [This Is How You Jump](https://open.spotify.com/track/2xm4g5CXQLhzTSSIgAm8c0) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 0:58 | 2022-03-18 |  |
 | [This'll Take the Cake](https://open.spotify.com/track/43Z4VVzOroSXXfaPE4QL1I) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Alice's Wonderland Bakery](https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI) | 1:30 | 2022-03-18 |  |
 | [Time for Your Check Up](https://open.spotify.com/track/6ekOhDrPyjs31ukDmlRCQT) | [Doc McStuffins](https://open.spotify.com/artist/3HFeTnI9sZCujHjuwlp4hZ), [Stuffy](https://open.spotify.com/artist/4aWrGbJkY86oD3sN4qmPHE), [Lambie](https://open.spotify.com/artist/4I1m894AfV2zh0k7g057fg), [Hallie](https://open.spotify.com/artist/731VW6Sv2kxT1qInoUyBOO) | [Disney Junior DJ Shuffle](https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg) | 0:34 | 2022-03-18 |  |
+| [Time for Your Check Up \(Bella Version\)](https://open.spotify.com/track/69kHflbAghcdkZbSeK7yeH) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Doc McStuffins \- The Doc and Bella Are In!](https://open.spotify.com/album/1MCUqpnsjpG4d0KwQszJcr) | 1:41 | 2023-09-01 |  |
 | [Time to Build](https://open.spotify.com/track/04ypuaKD73O8Q3i40yWvZ3) | [Pupstruction \- Cast](https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Pupstruction](https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI) | 0:57 | 2023-06-16 |  |
 | [Time to Spidey Save the Day \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/6xQ0m1Y44VjkmFDCpgRq4a) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Time to Spidey Save the Day \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/2IHNXES7SoyxWN1Nr2fpt7) | 2:02 | 2022-03-18 |  |
 | [Too Much of a Good Thing](https://open.spotify.com/track/4TUZu9EHLZ4oBdD2OFdydu) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Alice's Wonderland Bakery](https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI) | 1:29 | 2022-03-18 |  |

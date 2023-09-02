@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Vondré en portada.
 
-99 songs - 5 hr 25 min
+101 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [i/O](https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 3:15 | 2022-03-25 |  |
 | [i/O](https://open.spotify.com/track/1wd9Niui5BNBP1gGEiJ7v0) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/5EJdLmm3AohQThveyYrsQN) | 3:18 | 2022-03-25 | 2022-12-12 |
 | [La Excusa Perfecta](https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [La Excusa Perfecta](https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5) | 3:00 | 2023-07-07 |  |
-| [La Fórmula Secreta](https://open.spotify.com/track/4eQ49BwmjeomcAMVEd4tmu) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [La Fórmula Secreta](https://open.spotify.com/album/5xQIz329pjuvjdGpaYFFRU) | 3:59 | 2022-03-25 |  |
+| [La Fórmula Secreta](https://open.spotify.com/track/4eQ49BwmjeomcAMVEd4tmu) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [La Fórmula Secreta](https://open.spotify.com/album/5xQIz329pjuvjdGpaYFFRU) | 3:59 | 2022-03-25 | 2023-09-02 |
+| [La Fórmula Secreta](https://open.spotify.com/track/5FlOc0UbRPAaSHFyfBSjFC) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 3:59 | 2023-07-28 |  |
 | [La Pausa del Mundo](https://open.spotify.com/track/7cyO9d1l0jbytDniOqjtt9) | [El Universo](https://open.spotify.com/artist/2xGTBCrbaFoUdXGCqqJm8i) | [La Pausa del Mundo](https://open.spotify.com/album/2br0xYm6FKv8DQtXEhLQTl) | 4:50 | 2022-03-25 |  |
 | [La Vida De Alguien Más](https://open.spotify.com/track/1MzCR1UMQOgc3yYAcZdIlK) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/62yeYHE8CMTNQ4LgXNae2U) | 4:02 | 2022-03-25 | 2023-08-21 |
 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 | 2023-07-28 |  |
@@ -102,7 +103,8 @@
 | [videoclub](https://open.spotify.com/track/3zjxH68heuJi9YGAlHuOG4) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/6F8kAxB0RbrQud6iceMMl2) | 3:14 | 2022-03-25 |  |
 | [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-03-25 | 2022-07-29 |
 | [Viernes](https://open.spotify.com/track/6PyM3fAtL74EHBNMwbaGSH) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Deseo Querer](https://open.spotify.com/album/15xRUHTZm2vIDwZzqFEpEe) | 1:18 | 2022-03-25 |  |
-| [Viva la Muerte](https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Viva la Muerte \(Viva 2021\)](https://open.spotify.com/album/2sV9w7wqsnQ49uI43EnSc4) | 3:18 | 2022-03-25 |  |
+| [Viva la Muerte](https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Viva la Muerte \(Viva 2021\)](https://open.spotify.com/album/2sV9w7wqsnQ49uI43EnSc4) | 3:18 | 2022-03-25 | 2023-09-02 |
+| [Viva la Muerte](https://open.spotify.com/track/2TDIBx2Za2zvHO0pEpXD4g) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 3:19 | 2023-07-28 |  |
 | [Ya Levántate](https://open.spotify.com/track/1Ltr1S8VdeB5f8elHvgWgC) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/6pkBLRfLIgSEtaq9BSb5Vm) | 4:05 | 2022-03-25 |  |
 | [Ya Levántate](https://open.spotify.com/track/41TKk1hgkuFRDJW3ChgtdR) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4) | 4:05 | 2022-03-25 | 2022-12-13 |
 | [Ya No Dueles Más](https://open.spotify.com/track/2HAiOXH71idwbKym8n44hu) | [Los Joules](https://open.spotify.com/artist/6Ct0NYlkBFM7SXNwfF7wjx) | [Ya No Dueles Más](https://open.spotify.com/album/4bEw9hMd0ZksSnrICyaNOu) | 3:40 | 2022-03-25 |  |

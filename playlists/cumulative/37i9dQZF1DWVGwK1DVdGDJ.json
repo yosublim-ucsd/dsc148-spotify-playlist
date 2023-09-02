@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "A Time Called You (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Beautiful Restriction",
+      "url": "https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa"
+    },
+    {
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },

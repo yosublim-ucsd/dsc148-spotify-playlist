@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,467 likes - 48 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,540 likes - 48 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 47 | [Me Vuelvo a Ti](https://open.spotify.com/track/7IhUvHVUMPpPqnt6wSSbGf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 4:34 |
 | 48 | [Quién Como Tú](https://open.spotify.com/track/1IJVdbTQCoFJfJFLRlrs8E) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:14 |
 
-Snapshot ID: `MjgyMjQ3NjQsMDAwMDAwMDBmNGM5MGZjNDIxNGFmM2ZlNDI3MTI4N2NmOWFkNjg5ZQ==`
+Snapshot ID: `MjgyMjYxNDcsMDAwMDAwMDAyNmEyZjliZDNhZjk2ZmFiNjI2NjY3YzMyOTQ4NWYzYw==`

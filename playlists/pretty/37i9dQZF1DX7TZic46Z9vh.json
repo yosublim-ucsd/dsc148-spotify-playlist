@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 40743,
+  "num_followers": 40769,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzViNWY4YmUzYWRkYmZlOWJkMGJkMmZlNzQwNzJmNzcyZmFiYmFh",
+  "snapshot_id": "MCwxMmFmMzNjOGQ5NDk1NWI3MTg0MWY3ODBmMzYxOTZhMzQxMWYyYmEx",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
-        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 188395,
-      "name": "Preludio de la Felicidad",
-      "url": "https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/38o2ntxhlyxZlCM2WmfeDw"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 250946,
       "name": "Back",
       "url": "https://open.spotify.com/track/7eZGDGbEoyZJeBl4PGyFSF"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "La Revoluci\u00f3n de Emiliano Zapata 45 Aniversario",
+        "url": "https://open.spotify.com/album/1cP1e2FsxvhrJkcMq8Ed2v"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 188395,
+      "name": "Preludio de la Felicidad",
+      "url": "https://open.spotify.com/track/5pPdMdO7P2V7fG2ELZbI8b"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
-        }
-      ],
-      "duration_ms": 204180,
-      "name": "No Quiero Ya Volver",
-      "url": "https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Rock en Av\u00e1ndaro Valle de Bravo",
         "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 163552,
       "name": "Jenny My Love",
       "url": "https://open.spotify.com/track/1g08fiULTx3C270CrHKDrM"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+        }
+      ],
+      "duration_ms": 204180,
+      "name": "No Quiero Ya Volver",
+      "url": "https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+      },
+      "artists": [
+        {
+          "name": "Los Soul Master's",
+          "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
+        }
+      ],
+      "duration_ms": 169665,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Pebbles Vol. 12, Mexico Pt. 1, Originals Artifacts From The Psychedelic Era",
         "url": "https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
-      },
-      "artists": [
-        {
-          "name": "Las Moskas",
-          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
         "name": "Regreso al Origen",
         "url": "https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn"
       },
@@ -783,34 +783,34 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Puro Rock (CD1)",
-        "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
       },
       "artists": [
         {
-          "name": "Paco Gruexxo",
-          "url": "https://open.spotify.com/artist/36FMRbSbIzLPUuvFu10UqT"
+          "name": "Las Moskas",
+          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
         }
       ],
-      "duration_ms": 235160,
-      "name": "Insurgensex",
-      "url": "https://open.spotify.com/track/5YfgBQqKkQOxrS6U0zfKgl"
+      "duration_ms": 163386,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
     },
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
-        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+        "name": "El Ritual",
+        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
       },
       "artists": [
         {
-          "name": "Los Soul Master's",
-          "url": "https://open.spotify.com/artist/4dlWy5TRLwDd04nALLTWfe"
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
         }
       ],
-      "duration_ms": 169665,
-      "name": "Libertad",
-      "url": "https://open.spotify.com/track/3oCXeYBiZODvdaXHranRHd"
+      "duration_ms": 234498,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

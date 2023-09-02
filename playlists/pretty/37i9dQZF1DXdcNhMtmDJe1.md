@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,042 likes - 54 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,057 likes - 54 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 53 | [Let 'Em Eat Cake: Overture](https://open.spotify.com/track/1AkIFKsdsYe8es9Bruub5G) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78), [Buffalo Philharmonic](https://open.spotify.com/artist/7y7JfF5Y2WU0VO8kWjp6WJ), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK) | [Michael Tilson Thomas Conducts Gershwin](https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o) | 8:18 |
 | 54 | [Liza \(All the Clouds'll Roll Away\)](https://open.spotify.com/track/2pnu2daFVs2wgasI1BGdU8) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Gershwin Fantasy](https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR) | 3:51 |
 
-Snapshot ID: `MCxiMTY2NjM3OGZhYWViNDhmYTU3ZTBjMzZjZGY3ZjcwYjk2OGM4OTdm`
+Snapshot ID: `MCxlZDhlYTkzZmU0NjhlOTlkZDFlOGE0NDUzY2FlODc3ZTA3ODg3M2Nh`

@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 228192,
+  "num_followers": 228282,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2YwMzdmYmZmZmE4ZWVhODQ5YTJmNDFjZjgzNjExNzk2MDIyZGEz",
+  "snapshot_id": "MCwzZmE4ZDJkYzBiN2FlMDhhZWFmZGI4NTVlMjhiZTYzMzFlNTY0ZTI0",
   "tracks": [
     {
       "added_at": "2023-08-29 09:43:19",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2023-08-29 09:43:19",
       "album": {
-        "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
-      },
-      "artists": [
-        {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 303733,
-      "name": "Aur Kya",
-      "url": "https://open.spotify.com/track/3p2n1UTPBc5RdQY9X94Xpg"
-    },
-    {
-      "added_at": "2023-08-29 09:43:19",
-      "album": {
         "name": "Baazigar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
       },
@@ -1143,6 +1119,22 @@
       "duration_ms": 389386,
       "name": "Kitaben Bahut Si",
       "url": "https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583"
+    },
+    {
+      "added_at": "2023-08-29 09:43:19",
+      "album": {
+        "name": "Baadshah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BofosOJOkiCY5XVv28XdA"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "duration_ms": 399599,
+      "name": "Baadshah O Baadshah",
+      "url": "https://open.spotify.com/track/57V7Fo4iocHEMJcf7Upt0M"
     }
   ],
   "unique_name": "Starring Shah Rukh Khan",

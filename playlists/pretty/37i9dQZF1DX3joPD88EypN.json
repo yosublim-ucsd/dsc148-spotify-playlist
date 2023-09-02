@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 30044,
+  "num_followers": 30074,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWVhNDYyMTdiZDUwNmJjYmZlODcyZmRmZmU5N2QyMWQ3ZmExZTcz",
+  "snapshot_id": "MCxmZTQ3NDQ3NjEwZDQ3ODAwMzc1ZjZkOTNkYjAzZDBlYjczYTE1Y2Nl",
   "tracks": [
     {
       "added_at": "2023-08-31 23:59:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "V\u00e5g",
-        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
-      },
-      "artists": [
-        {
-          "name": "Geir Sundst\u00f8l",
-          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
-        }
-      ],
-      "duration_ms": 311450,
-      "name": "V\u00e5g",
-      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Return to Mind",
         "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 284880,
       "name": "Taplow",
       "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "V\u00e5g",
+        "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
+      },
+      "artists": [
+        {
+          "name": "Geir Sundst\u00f8l",
+          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
+        }
+      ],
+      "duration_ms": 311450,
+      "name": "V\u00e5g",
+      "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Apr\u00e8s Un R\u00eave",
+        "url": "https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        }
+      ],
+      "duration_ms": 268565,
+      "name": "Apr\u00e8s Un R\u00eave",
+      "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "So I Write",
         "url": "https://open.spotify.com/album/4vAwdCMgU6JptyBoGx85rH"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 469706,
       "name": "So I Write",
       "url": "https://open.spotify.com/track/4HsqVdZAwDB7SasYlWOn0H"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Apr\u00e8s Un R\u00eave",
-        "url": "https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 268565,
-      "name": "Apr\u00e8s Un R\u00eave",
-      "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1251,6 +1251,30 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "And Then Comes The Night",
+        "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
+      },
+      "artists": [
+        {
+          "name": "Mats Eilertsen",
+          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
+        },
+        {
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        },
+        {
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+        }
+      ],
+      "duration_ms": 392653,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Perfectly Unhappy",
         "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
@@ -1283,30 +1307,6 @@
       "duration_ms": 169639,
       "name": "Bibelbeltet",
       "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "And Then Comes The Night",
-        "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
-      },
-      "artists": [
-        {
-          "name": "Mats Eilertsen",
-          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
-        },
-        {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        },
-        {
-          "name": "Thomas Str\u00f8nen",
-          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
-        }
-      ],
-      "duration_ms": 392653,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Children's Day",
+        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
+      },
+      "artists": [
+        {
+          "name": "Marius Neset",
+          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
+        }
+      ],
+      "duration_ms": 415645,
+      "name": "Children's Day - Small Group Version",
+      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Being",
         "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 380306,
       "name": "The Pondering",
       "url": "https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Children's Day",
-        "url": "https://open.spotify.com/album/0wjbY4Isu7oa95Cu0Gzwot"
-      },
-      "artists": [
-        {
-          "name": "Marius Neset",
-          "url": "https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi"
-        }
-      ],
-      "duration_ms": 415645,
-      "name": "Children's Day - Small Group Version",
-      "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Bayou",
         "url": "https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 183493,
       "name": "Como",
       "url": "https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Kinder Call",
         "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 246506,
       "name": "Lena",
       "url": "https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Kurzsam and Fulger",
-        "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
-      },
-      "artists": [
-        {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
-        }
-      ],
-      "duration_ms": 373899,
-      "name": "Langsam",
-      "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Asthma Breath",
         "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 196868,
       "name": "Asthma Breath",
       "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Kurzsam and Fulger",
+        "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 373899,
+      "name": "Langsam",
+      "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
     },
     {
       "added_at": "2023-08-31 23:59:00",

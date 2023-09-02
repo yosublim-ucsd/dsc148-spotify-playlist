@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 614959,
+  "num_followers": 615074,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh",
+  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:51",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
+        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
+        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 320040,
+      "name": "Da draussen",
+      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
         "name": "NWA",
         "url": "https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 257079,
       "name": "Panamera Flow (feat. Bushido)",
       "url": "https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
-        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
-        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 320040,
-      "name": "Da draussen",
-      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
     },
     {
       "added_at": "2023-07-13 12:12:51",

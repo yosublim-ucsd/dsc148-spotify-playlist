@@ -4,7 +4,7 @@
 
 > pov: you're crying and dancing at the same time.
 
-197 songs - 10 hr 37 min
+198 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Far Away](https://open.spotify.com/track/74xUCtxnRrmtUbYCnka90x) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Far Away](https://open.spotify.com/album/2icgPYVAXCsg31kGI1mVHR) | 4:22 | 2022-03-21 | 2022-07-09 |
 | [Feliz Con Poco, Aunque Quiera Más \(Bonus Track\)](https://open.spotify.com/track/6X0WlEyOhIn8YJCvAp3Pm3) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [Feliz Con Poco, Aunque Quiera Más \(Bonus Track\)](https://open.spotify.com/album/4einGAK3mBsWtuii1HF2rR) | 3:18 | 2022-03-21 | 2022-07-09 |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-07-08 |  |
-| [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 | 2022-07-08 |  |
+| [Fingías](https://open.spotify.com/track/7o0oY5wRcoV7oPuDhD2J1z) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Fingías](https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn) | 3:45 | 2022-07-08 | 2023-09-02 |
 | [For Ya](https://open.spotify.com/track/6poJxrnTNulYCmha4n5GOF) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [For Ya](https://open.spotify.com/album/0gIupCz3eQl2LkiFZvlyG3) | 2:27 | 2022-03-21 | 2022-07-09 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 | 2022-03-21 | 2022-07-09 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-12-22 |  |
@@ -112,6 +112,7 @@
 | [MERCANCIA](https://open.spotify.com/track/3uRfkEcAsCB5qP4GVhMqLQ) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Nino Rubirosa](https://open.spotify.com/artist/4DzTEHSk2pXnNSooym3oka) | [MERCANCIA](https://open.spotify.com/album/5RlUyObxrXVuLk5886qQus) | 3:15 | 2022-03-21 | 2022-04-20 |
 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 | 2022-03-21 | 2022-04-20 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2022-07-08 | 2022-12-24 |
+| [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-01 |  |
 | [MY HONESTIDAD](https://open.spotify.com/track/1ZoqbS3UVPq1eIsyTHS7LD) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 2:11 | 2022-04-19 | 2022-07-09 |
 | [Máquina del Tiempo](https://open.spotify.com/track/1h30YmutXoFXcSruha08zj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Unisex](https://open.spotify.com/album/4HBSwyNAlIwgVkUNqDdWbn) | 4:37 | 2022-03-21 | 2022-04-20 |
 | [Mónaco](https://open.spotify.com/track/3HgvO4B5LLmdPOT2d8cSZd) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Clásicos](https://open.spotify.com/album/0t8H6Wc8P63LO0zj7kwZuj) | 3:12 | 2022-12-22 |  |

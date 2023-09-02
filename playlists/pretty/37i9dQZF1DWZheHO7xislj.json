@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 137225,
+  "num_followers": 137252,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGQ4OTVhNjY1MTM0Mjg5MjI4YWRiMjM2YjU2MWFkNWUxNTc2ZWU0",
+  "snapshot_id": "MCxlOWJlZjQ2ZjJiMmZjOTRjZmZiN2ViMjgyYjFkNzkxZWQ0M2VlOGVk",
   "tracks": [
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 356560,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Tell It Like It Is",
         "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 249226,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 356560,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Baby Huey Story: The Living Legend",
-        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
-      },
-      "artists": [
-        {
-          "name": "Baby Huey",
-          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Tell It Like It Is - The Par Lo Years",
         "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 165960,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Baby Huey Story: The Living Legend",
+        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
+      },
+      "artists": [
+        {
+          "name": "Baby Huey",
+          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
-      },
-      "artists": [
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Gun",
-      "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Black Radio",
         "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 307626,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HvP4iWWHOzRNCJSPQU7Ng"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/0MCEM7WuIw4tS9ih4HGE1S"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Like a Ship (Without a Sail)",
-        "url": "https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz"
-      },
-      "artists": [
-        {
-          "name": "Pastor T.L. Barrett and the Youth for Christ Choir",
-          "url": "https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Songs In A Minor",
         "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 237626,
       "name": "How Come You Don't Call Me",
       "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Like a Ship (Without a Sail)",
+        "url": "https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz"
+      },
+      "artists": [
+        {
+          "name": "Pastor T.L. Barrett and the Youth for Christ Choir",
+          "url": "https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/4Oq0AUVncfWa2rD0idz6oV"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Express Yourself (Remastered & Expanded)",
         "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 229653,
       "name": "Express Yourself - Remastered Version",
       "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
-        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 316306,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Is It Because I'm Black",
         "url": "https://open.spotify.com/album/7Iw4TahLkIe8RtKT8e4HIJ"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 147280,
       "name": "Concrete Reservation",
       "url": "https://open.spotify.com/track/1Li9HBLXG2LJSeD4fEhtcd"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
+        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 316306,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/20MxJN12WEqU5eWsuCrwM5"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -2879,6 +2879,22 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
+        "name": "Loving on the Flipside",
+        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
+      },
+      "artists": [
+        {
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "At the Hotel",
+      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -2895,22 +2911,6 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
-        "name": "Loving on the Flipside",
-        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
-      },
-      "artists": [
-        {
-          "name": "Eunice Collins",
-          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "At the Hotel",
-      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
     },
     {
       "added_at": "2023-08-15 12:19:30",
@@ -3247,22 +3247,6 @@
     {
       "added_at": "2023-08-15 12:19:30",
       "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
-    },
-    {
-      "added_at": "2023-08-15 12:19:30",
-      "album": {
         "name": "Funky Entertainment",
         "url": "https://open.spotify.com/album/4tLBJzaV71qm3TyepiEIBy"
       },
@@ -3275,6 +3259,22 @@
       "duration_ms": 251733,
       "name": "You Put A Charge In My Life",
       "url": "https://open.spotify.com/track/1r69KR1iUoLfoN4Z44Okca"
+    },
+    {
+      "added_at": "2023-08-15 12:19:30",
+      "album": {
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
     },
     {
       "added_at": "2023-08-15 12:19:30",

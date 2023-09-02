@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 9316,
+  "num_followers": 9356,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGU4NGViYjBiOWY4MDRmYzBlNzBlMTEzMWE3OGU1NTczOGUzNWEx",
+  "snapshot_id": "MCwzNjE0ZjMyYmJiOTIxNWI3NjVkNDYyNzgyOGNkZWMwYTNjN2RhOGMz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "On Go (feat. Polo G)",
-        "url": "https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 180805,
-      "name": "On Go (feat. Polo G)",
-      "url": "https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Outside (Better Days)",
         "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
       },
@@ -451,6 +431,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "On Go (feat. Polo G)",
+        "url": "https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 180805,
+      "name": "On Go (feat. Polo G)",
+      "url": "https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "After Me",
         "url": "https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg"
       },
@@ -463,26 +463,6 @@
       "duration_ms": 141582,
       "name": "Off The Map",
       "url": "https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "In The Name Of Gee (Still Most Hated)",
-        "url": "https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T"
-      },
-      "artists": [
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 158427,
-      "name": "Top (Remix) feat. Lil Durk",
-      "url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -503,6 +483,26 @@
       "duration_ms": 231414,
       "name": "SKAT (feat. DaBaby)",
       "url": "https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "In The Name Of Gee (Still Most Hated)",
+        "url": "https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 158427,
+      "name": "Top (Remix) feat. Lil Durk",
+      "url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Steppers",
+        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Steppers",
+      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Just A Matter of Slime",
         "url": "https://open.spotify.com/album/0fvmq3jIMJpjHFDTZtjWtx"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 186894,
       "name": "Thugged Out (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/0uRsQ1Q3ZPuXTEkEeUXNNf"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Steppers",
-        "url": "https://open.spotify.com/album/1cmIixELcilPw7uQzS8UVD"
-      },
-      "artists": [
-        {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Steppers",
-      "url": "https://open.spotify.com/track/7vNUd8wv8Fo6L1CBxduXxF"
     },
     {
       "added_at": "2022-10-01 16:17:17",

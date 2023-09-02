@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama BXXCH x RICH\. \(드라마 청담국제고등학교의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-61 songs - 2 hr 46 min
+62 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Curated by Lee Jong\-hyuk](https://open.spotify.com/track/7g4gqpPKrTkvpQtfWz3SV5) | [BXXCH x RICH](https://open.spotify.com/artist/18lnEPtOewbEE3G4v96I9B) | [BXXCH x RICH Audio Liners](https://open.spotify.com/album/1pGR27gNvzdGBSRUJNPfKo) | 0:28 | 2023-06-07 |  |
 | [Curated by Yoo Jung\-hoo](https://open.spotify.com/track/2mDkIViMzLbc7cy2TjnXAT) | [BXXCH x RICH](https://open.spotify.com/artist/18lnEPtOewbEE3G4v96I9B) | [BXXCH x RICH Audio Liners](https://open.spotify.com/album/1pGR27gNvzdGBSRUJNPfKo) | 0:30 | 2023-06-07 |  |
 | [Dark Blue](https://open.spotify.com/track/3GT2gHEWYGF74DOyleEuaS) | [Chung Seung Hyun](https://open.spotify.com/artist/0lmEHjUNnlHaeFFeIOorpj), [김유겸](https://open.spotify.com/artist/2GxCqBX8r9clv7TAcv0UWz) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 2:35 | 2023-07-05 |  |
-| [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2023-06-07 |  |
+| [Desert Eagle](https://open.spotify.com/track/0haCeyoW7lP7PNRu3RnSZZ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3VfI9ZwIJSL6xBJ6LuT3Sx) | 5:09 | 2023-07-11 |  |
+| [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2023-06-07 | 2023-09-02 |
 | [Did It Myself](https://open.spotify.com/track/014UbcvltWdvq1h6oNL17Y) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Bitch X Rich \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/7tvF6pG0ePx0GFwmNPKpqX) | 2:51 | 2023-06-08 |  |
 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2023-06-07 |  |
 | [EVITA!](https://open.spotify.com/track/1cLWh6iYg05XcuviJTgjPq) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd) | 3:27 | 2023-06-07 |  |

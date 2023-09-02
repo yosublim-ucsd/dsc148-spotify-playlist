@@ -1,13 +1,53 @@
 {
-  "description": "The pulse of R&B music today. Cover: Victoria Mon\u00e9t",
-  "num_followers": 6253435,
+  "description": "The pulse of R&B music today. Cover: Ciara",
+  "num_followers": 6253993,
   "original_name": "Are & Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2IxMzZhOThiYTUzMDdlYjQzNWY0MjAwMTJiZjA3NDgyZmM1YzIw",
+  "snapshot_id": "MCxjMmU4YmExYWU4MzEwMWI2MTIxYzRlMmU3YTNiNzJjMTRiMGJmYTA4",
   "tracks": [
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "How We Roll",
+      "url": "https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "No Fake Love (with YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/4SMXvOfWccTE6aLEDMzoJA"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 148996,
+      "name": "No Fake Love (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/58WSKtcvVt208XY8tolYQI"
+    },
     {
       "added_at": "2023-08-25 04:27:29",
       "album": {
@@ -49,6 +89,22 @@
       "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
     },
     {
+      "added_at": "2023-07-13 21:16:53",
+      "album": {
+        "name": "Summer Too Hot",
+        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 188504,
+      "name": "Summer Too Hot",
+      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
+    },
+    {
       "added_at": "2023-08-25 04:27:29",
       "album": {
         "name": "Moment Of Your Life",
@@ -67,26 +123,6 @@
       "duration_ms": 195000,
       "name": "Moment Of Your Life",
       "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "CiCi",
-        "url": "https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "How We Roll",
-      "url": "https://open.spotify.com/track/66PVdnWWemyJbvScVS6vJ0"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -139,22 +175,6 @@
       "duration_ms": 186540,
       "name": "Be My Summer",
       "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
-    },
-    {
-      "added_at": "2023-08-25 07:00:06",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 216436,
-      "name": "How Does It Make You Feel",
-      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -239,22 +259,6 @@
     {
       "added_at": "2023-07-13 21:16:53",
       "album": {
-        "name": "Summer Too Hot",
-        "url": "https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 188504,
-      "name": "Summer Too Hot",
-      "url": "https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp"
-    },
-    {
-      "added_at": "2023-07-13 21:16:53",
-      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
       },
@@ -325,7 +329,7 @@
       "url": "https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr"
     },
     {
-      "added_at": "2023-08-25 04:27:29",
+      "added_at": "2023-08-25 07:00:06",
       "album": {
         "name": "JAGUAR II",
         "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
@@ -336,9 +340,9 @@
           "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 209473,
-      "name": "I'm The One",
-      "url": "https://open.spotify.com/track/1zNn3HYROuUzPrTLXXBRXk"
+      "duration_ms": 216436,
+      "name": "How Does It Make You Feel",
+      "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -529,22 +533,6 @@
       "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
     },
     {
-      "added_at": "2023-08-25 04:27:29",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 171673,
-      "name": "Stop (Askin' Me 4Shyt)",
-      "url": "https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS"
-    },
-    {
       "added_at": "2023-07-13 21:16:53",
       "album": {
         "name": "3 of Us",
@@ -559,6 +547,22 @@
       "duration_ms": 192000,
       "name": "Change",
       "url": "https://open.spotify.com/track/1cCbhd6fguIfloDXiPdxH8"
+    },
+    {
+      "added_at": "2023-08-25 04:27:29",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 209473,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/1zNn3HYROuUzPrTLXXBRXk"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -663,38 +667,6 @@
       "duration_ms": 208320,
       "name": "Hrs & Hrs (feat. Usher) - Remix",
       "url": "https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Wait A Little Longer",
-        "url": "https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 208664,
-      "name": "Wait A Little Longer",
-      "url": "https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Sneak",
-      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
     },
     {
       "added_at": "2023-07-13 21:16:53",
@@ -835,6 +807,22 @@
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Wait A Little Longer",
+        "url": "https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 208664,
+      "name": "Wait A Little Longer",
+      "url": "https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS"
     },
     {
       "added_at": "2023-07-14 04:00:00",

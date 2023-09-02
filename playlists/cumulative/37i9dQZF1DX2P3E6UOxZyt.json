@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "tbh",
+        "url": "https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Yen",
+          "url": "https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186323,
+      "name": "tbh",
+      "url": "https://open.spotify.com/track/3sSWFKh5tbvXmywz24H8rK"
+    },
+    {
+      "album": {
         "name": "the way you wanna be",
         "url": "https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN"
       },

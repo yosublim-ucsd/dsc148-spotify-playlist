@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Laufey",
-  "num_followers": 129518,
+  "num_followers": 129562,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTJkNmZmN2Q0ZGI0N2QwMGQ1ZDNkZmI3MWIyMDI2NzJjZjg1YmEw",
+  "snapshot_id": "MCw1YmUzZGU5MmFiY2ZjMTBkYTNmYzJiZGRiYWYwZDRjZjViZWI0MDM2",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl"
     },
     {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Show Me The Way To Go Home",
+        "url": "https://open.spotify.com/album/3TB8tp42bL60PNtMsWuhGM"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 186816,
+      "name": "Show Me The Way To Go Home",
+      "url": "https://open.spotify.com/track/3Pc4kc5VGyzopInhgthkpR"
+    },
+    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "Streets Of Philadelphia",
@@ -47,6 +63,26 @@
       "duration_ms": 320893,
       "name": "Streets Of Philadelphia",
       "url": "https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "September in the Rain",
+        "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 248862,
+      "name": "September In The Rain",
+      "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -131,22 +167,6 @@
       "duration_ms": 350740,
       "name": "Peach Velvet Sky",
       "url": "https://open.spotify.com/track/1r9Xoxz09kMbcIEm7WfjkF"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Suddenly Lovers",
-        "url": "https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Suddenly Lovers",
-      "url": "https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1727,38 +1747,6 @@
       "duration_ms": 238933,
       "name": "Another Round",
       "url": "https://open.spotify.com/track/14x0olxuhl7Q2e5Fx3lEYN"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Skylark",
-        "url": "https://open.spotify.com/album/1id6t6lHffZWLFRcWjM1qc"
-      },
-      "artists": [
-        {
-          "name": "Jireh Calo",
-          "url": "https://open.spotify.com/artist/4cNPdwYxGRSxV7As6zv4in"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
-        },
-        {
-          "name": "Don Aliquo",
-          "url": "https://open.spotify.com/artist/1zdY2ltXAhBOuh6fbNQ9n6"
-        },
-        {
-          "name": "Evan Main",
-          "url": "https://open.spotify.com/artist/4Kub47U5U9jwHec4SjZwDK"
-        },
-        {
-          "name": "Sam Bryson",
-          "url": "https://open.spotify.com/artist/7CNHJRrwForc0NwrBcHVFm"
-        }
-      ],
-      "duration_ms": 266998,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/4myMwdjLnS3bOU8yxsw69B"
     },
     {
       "added_at": "2023-03-17 05:00:00",

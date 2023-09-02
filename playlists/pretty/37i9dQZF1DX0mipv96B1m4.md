@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 749 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 29 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
 | 30 | [Sunset](https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Kisses at Midnight](https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye) | 3:16 |
 | 31 | [Gyal A Bubble](https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Feel Me](https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R) | 3:16 |
-| 32 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
-| 33 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
-| 34 | [Tick Talk](https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [DJ LITO](https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT), [Sheilah Gashumba](https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2), [Slick Stuart & DJ Roja](https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb) | [Tick Talk](https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT) | 3:40 |
+| 32 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
+| 33 | [Tick Talk](https://open.spotify.com/track/363p4oaCiyyPKWOkouJwYK) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [DJ LITO](https://open.spotify.com/artist/5RCEUVWtUJd79uYpz4buHT), [Sheilah Gashumba](https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2), [Slick Stuart & DJ Roja](https://open.spotify.com/artist/7ySGRkXppoKtu2fI3H3NVb) | [Tick Talk](https://open.spotify.com/album/2XwaGscvD5onaAsMxOkrvT) | 3:40 |
+| 34 | [Nsudiya](https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2) | [Nsudiya](https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV) | 2:45 |
 | 35 | [Hot Like Dat](https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Hot Like Dat](https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj) | 2:46 |
 | 36 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
 | 37 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
 | 50 | [Wi Di Best \(feat\. Bebe Cool & Sumi Crazy\)](https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [Sumi Crazy](https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB) | [Nothing to Something](https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv) | 3:38 |
 
-Snapshot ID: `MCxjOWEyMzkxODQyNDlkNTM0MDBhN2E0NGEzYmE2ODVmMGRjMzkwNDUw`
+Snapshot ID: `MCxiZDE4YjA0NjcyYjFjNjBlNmYwYWRkNjk5NTAxZDU1ZDIxNTRiNDcx`

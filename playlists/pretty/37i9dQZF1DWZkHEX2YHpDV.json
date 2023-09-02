@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Koyo",
-  "num_followers": 454759,
+  "num_followers": 454809,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDNlNDExZjM1MmVhMDRiNzBjYjEzOTJlYzM4ODZmYjViZDRlMjEw",
+  "snapshot_id": "MCwxYWFjODFlOTBjNzIyMzkzMWJjZTViM2FmNjBkM2JlNDViNjZkM2M0",
   "tracks": [
     {
       "added_at": "2023-07-28 14:20:51",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "ILLENIUM",
-        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
+        "name": "ILLENIUM",
+        "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "Meet You There 2.0",
-        "url": "https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb"
-      },
-      "artists": [
-        {
-          "name": "Busted",
-          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
-        },
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "Meet You There 2.0",
-      "url": "https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
         "name": "Memories (with WILLOW)",
         "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 155919,
       "name": "Memories (with WILLOW)",
       "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
+        "name": "Meet You There 2.0",
+        "url": "https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "Meet You There 2.0",
+      "url": "https://open.spotify.com/track/2VXnCZzPB9lOm19D1TDX0S"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/1dygXa6o4gec6P1yDKkxFy"
+      },
+      "artists": [
+        {
+          "name": "Blame My Youth",
+          "url": "https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP"
+        }
+      ],
+      "duration_ms": 188732,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
         "name": "Re-Entry (feat. Mark Hoppus)",
         "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 182040,
       "name": "Timebomb (feat. MOD SUN)",
       "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/1dygXa6o4gec6P1yDKkxFy"
-      },
-      "artists": [
-        {
-          "name": "Blame My Youth",
-          "url": "https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP"
-        }
-      ],
-      "duration_ms": 188732,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "I Hope Hell Isn't Real",
-        "url": "https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H"
-      },
-      "artists": [
-        {
-          "name": "Roe Kapara",
-          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
-        }
-      ],
-      "duration_ms": 134271,
-      "name": "This Time Last Week",
-      "url": "https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW"
-    },
-    {
-      "added_at": "2023-07-28 14:20:51",
-      "album": {
         "name": "SELF-SABOTAGE (MC4D Remix)",
         "url": "https://open.spotify.com/album/6yefd6WEMrUmBuvAMl8Dd8"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms"
+    },
+    {
+      "added_at": "2023-07-28 14:20:51",
+      "album": {
+        "name": "I Hope Hell Isn't Real",
+        "url": "https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H"
+      },
+      "artists": [
+        {
+          "name": "Roe Kapara",
+          "url": "https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw"
+        }
+      ],
+      "duration_ms": 134271,
+      "name": "This Time Last Week",
+      "url": "https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW"
     },
     {
       "added_at": "2023-07-28 14:20:51",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2023-07-28 14:20:51",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
+        "name": "WE MADE PLANS & GOD LAUGHED",
+        "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        },
+        {
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
+      "duration_ms": 188423,
+      "name": "ALMOST FAMOUS feat. Mark Hoppus",
+      "url": "https://open.spotify.com/track/6h1mv6xCmdcmhmZ04TNTVk"
     }
   ],
   "unique_name": "The Scene",

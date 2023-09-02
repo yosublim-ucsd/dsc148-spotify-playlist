@@ -4,7 +4,7 @@
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Anuradha Pal
 
-51 songs - 4 hr 42 min
+52 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,12 +52,13 @@
 | [Tabla Solo, Pt\. 1](https://open.spotify.com/track/26ZkZdnCJCtUGYftsx1HPl) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 2:33 | 2023-06-20 |  |
 | [Tabla Talk](https://open.spotify.com/track/6KbQaRVqShlQt8gi5izmlN) | [Raul Ferrando](https://open.spotify.com/artist/6RPOG0ZXoK3ZqCw3rfZ0oZ) | [Angelika Unveiled](https://open.spotify.com/album/4LFHh3Q8f0zPd8S79aDdWy) | 3:33 | 2023-06-20 |  |
 | [Tabla Teental Kayda \- Instrumental](https://open.spotify.com/track/7s3BAzAXgYfJ72R6HXhBhi) | [Aryan Gohariya](https://open.spotify.com/artist/6H4EMQVeJtpdTVfcNm6WbR) | [Tabla Teental Kayda \(Instrumental\)](https://open.spotify.com/album/2KK1CB9xmlZCxzIH56llYI) | 5:26 | 2023-06-20 |  |
+| [Tabla Tonic](https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Tabla Tonic](https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK) | 3:23 | 2023-09-01 |  |
 | [Tablas for Positive Vibes](https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt) | [Tabla Pakuri](https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF) | [Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute](https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5) | 5:06 | 2023-06-20 |  |
 | [TablaTrap](https://open.spotify.com/track/0iw0rCaC2gw63fo8MqI0Hn) | [jomy george](https://open.spotify.com/artist/4egqbOwBPdQgSvm89qHjEZ) | [TablaTrap](https://open.spotify.com/album/0k3N7vIB6q6AKwQN1XycNQ) | 3:40 | 2023-06-20 |  |
 | [Taj Mahal](https://open.spotify.com/track/2Dr9bQ4FNwT8lEAMo7bzy1) | [Shaman Beats](https://open.spotify.com/artist/5Jklaf7H3C20te5LVe4H2w) | [Taj Mahal](https://open.spotify.com/album/5uVrPJrEOJYtIGtz5tl8no) | 2:35 | 2023-06-25 |  |
 | [Tani Avartanam](https://open.spotify.com/track/0bfmfkz53UD4H5h1fv4vKw) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Shared Moments](https://open.spotify.com/album/6XvAfY61M0XBOVAps5ysYP) | 8:46 | 2023-06-20 |  |
 | [The Beauty of Sangat \(feat\. Pt\. Shivkumar Sharma\)](https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 16:40 | 2023-06-20 |  |
 | [The Great Indian Desert](https://open.spotify.com/track/2G79o24ysNqEFAu93OddNd) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Tabla and Beyond](https://open.spotify.com/album/0ejADj4ASGiKt2Tn9mlZHM) | 12:02 | 2023-06-20 |  |
-| [Uttam Tabla \- Original Mix](https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD) | [Spiritual Sound Clubb](https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg) | [Pacifying Morning \- Blissful Yoga Magic Rhythms](https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt) | 2:20 | 2023-06-20 |  |
+| [Uttam Tabla \- Original Mix](https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD) | [Spiritual Sound Clubb](https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg) | [Pacifying Morning \- Blissful Yoga Magic Rhythms](https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt) | 2:20 | 2023-06-20 | 2023-09-02 |
 
 \*This playlist was first scraped on 2023-07-08. Prior content cannot be recovered.

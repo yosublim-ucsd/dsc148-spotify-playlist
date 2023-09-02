@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-445 songs - 1 day 1 hr 19 min
+447 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/track/35qpbFU4HXSoERLSM25End) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [DE ESTE LADO DE LA FOTO](https://open.spotify.com/album/27tu8mkYCoWvqgGvbECS1O) | 2:50 | 2022-01-07 | 2023-03-03 |
 | [De Nosotros Dos](https://open.spotify.com/track/6nQZ19Gq07AXDVUhfWANQP) | [SERIES](https://open.spotify.com/artist/6ciXwaMXMICBWN8q0R6i6M), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [S1\-E1](https://open.spotify.com/album/5f6pI2xD8r93ZRuhjHvJGB) | 3:07 | 2022-06-03 | 2022-07-20 |
 | [De vos conmigo](https://open.spotify.com/track/3aptZjldNbLCoheBo33YOa) | [Coiffeur](https://open.spotify.com/artist/6uO4hHITsBB37tBsogIB7K) | [Primer corte](https://open.spotify.com/album/6P49QmRp2rqT1o8fL4hNew) | 2:08 | 2022-04-01 | 2022-07-28 |
-| [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 | 2023-04-14 |  |
+| [Debajo de la Superficie](https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [SUPERSTICIONES](https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu) | 4:37 | 2023-04-14 | 2023-09-02 |
 | [Debajo de la Superficie](https://open.spotify.com/track/4xs3x5ZAYHHFyxe9PcgeMl) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Debajo de la Superficie](https://open.spotify.com/album/2KsAVCC3dduno7Nf96PEGj) | 4:38 | 2022-01-28 | 2022-07-19 |
 | [Decis Que No](https://open.spotify.com/track/6gS0H9il78eIK2XgpscZgm) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Decis Que No](https://open.spotify.com/album/2TNSW6V3rsuKEf9S0PQACC) | 3:26 | 2022-01-28 | 2022-07-20 |
 | [Decírtelo](https://open.spotify.com/track/3nz82lKGvfe78GjkQmDMl1) | [Facundo Grandío](https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK) | [Decírtelo](https://open.spotify.com/album/4il91GPpN9QclFP0jWJdCw) | 3:12 | 2022-01-28 | 2022-07-25 |
@@ -284,7 +284,7 @@
 | [No Quiero Ser Tu Amigo](https://open.spotify.com/track/3OmseDW98FZ08HX2QOO2Nu) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [No Quiero Ser Tu Amigo](https://open.spotify.com/album/6NPy5Qg25qXqfAI5A1VKRa) | 4:23 | 2022-04-01 | 2022-06-01 |
 | [No Sé a Quién Matar](https://open.spotify.com/track/2GblwI1Lhuwxd4bMkENMem) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [No Sé a Quién Matar](https://open.spotify.com/album/0X7ZQoSMpEiDJHHBo0otkS) | 3:39 | 2022-01-28 | 2022-07-22 |
 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 | 2022-04-01 |  |
-| [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 | 2022-01-07 |  |
+| [No Te Quedes Solo](https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [No Te Quedes Solo](https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U) | 3:30 | 2022-01-07 | 2023-09-02 |
 | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 | 2022-01-07 | 2023-03-03 |
 | [Nosotros Dos](https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Nosotros Dos](https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj) | 4:06 | 2022-04-01 | 2022-07-22 |
 | [Novio Intelectual](https://open.spotify.com/track/3FY0MSjwKGbviDgvwMmix1) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Novio Intelectual](https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg) | 3:14 | 2023-06-09 | 2023-08-18 |
@@ -318,6 +318,7 @@
 | [Perdón \- 2021 versión remasterizada](https://open.spotify.com/track/3ZVzlYwz3jwvAWDdobx0VN) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP) | [Perdón \(2021 versión remasterizada\)](https://open.spotify.com/album/0C8rXN56LwFUBWWHME48ZA) | 3:11 | 2022-01-28 | 2022-04-20 |
 | [Piel](https://open.spotify.com/track/4fCRaUeln3PPUGAqWuCY7A) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Franco Banda](https://open.spotify.com/artist/2bhMtu8Fua2BNTvwbjtJjH) | [Piel](https://open.spotify.com/album/29OY30x1zP4a0zKSfCvu9f) | 3:20 | 2022-01-07 | 2022-07-18 |
 | [pierdo](https://open.spotify.com/track/4ZiEpvfNIzEOWnGYECSEc8) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [pierdo](https://open.spotify.com/album/7qnFpZr8wt6zXg7aAdtFut) | 2:08 | 2022-06-03 | 2023-03-03 |
+| [PISCINA OLÍMPICA](https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [REGIO](https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw) | 3:58 | 2023-09-01 |  |
 | [Poco a Poco](https://open.spotify.com/track/12fYeVsEuw3rCQNK32032H) | [Javier Zuppi](https://open.spotify.com/artist/4rQkqC6jKnS3zGOaSuzV57) | [Poco a Poco](https://open.spotify.com/album/1pj2YuvBmffvgaBwBIcXi1) | 3:56 | 2022-01-28 | 2022-06-19 |
 | [Poema de Amor](https://open.spotify.com/track/6RtVpaLGLjcbsqKbO6QS7Z) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY), [Vili Gloria](https://open.spotify.com/artist/6wg0eXmad3FHGVCeZ0FmI2) | [Poema de Amor](https://open.spotify.com/album/3gPOIM57XQsxnux0o9B352) | 2:49 | 2022-01-28 | 2022-07-28 |
 | [Por Amor al Arte](https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Reset](https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo) | 2:02 | 2022-01-07 |  |
@@ -377,6 +378,7 @@
 | [Sinceridark](https://open.spotify.com/track/0W6VT5I7pgWvSQXtYm7ayd) | [Rompevientos](https://open.spotify.com/artist/4oq8knLG4FDYEc5Uascyx6), [Lulú Hojman](https://open.spotify.com/artist/7zRYWedGqx0ON6WlfBgK71) | [Relaciones Humanas](https://open.spotify.com/album/5wJRrgzpR0apKnZkx8xLB7) | 2:57 | 2022-01-07 | 2022-04-16 |
 | [Soledad](https://open.spotify.com/track/1tzJow8f25eQmTj4KvrXf3) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/5dMNce8X1rbwCsLL2Vmnn2) | 2:53 | 2022-01-28 | 2022-07-17 |
 | [Solo](https://open.spotify.com/track/7yiWH51BhnISk26tmTrgbT) | [Chucho Nave](https://open.spotify.com/artist/2HzCdz4inInXUvCs5LYZK9) | [Solo](https://open.spotify.com/album/7KNf7f4cNHOeLahtzWdofc) | 3:38 | 2022-01-28 | 2022-04-21 |
+| [Solo](https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Solo](https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55) | 2:50 | 2023-09-01 |  |
 | [Solo Pienso en Ti](https://open.spotify.com/track/3nQ6RegxSfZAw7PbORJi2e) | [Coctel Intergaláctico](https://open.spotify.com/artist/6BqhcMZGzPkabwaUYZ6JG3) | [Solo Pienso en Ti](https://open.spotify.com/album/3eeL7kGmNlbHdo6CvjN9qS) | 3:52 | 2022-01-07 | 2022-07-24 |
 | [SOMOS TAN INTENSOS](https://open.spotify.com/track/6LTS9XjUZXVDr0DY0b8AQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:32 | 2022-01-07 | 2023-01-15 |
 | [Sos Tan Perfecta](https://open.spotify.com/track/1kMSSiTNKUDC4qI1e2dJ62) | [Bröder](https://open.spotify.com/artist/3VcnxGSCx7N2B17v615v0g) | [Bröder](https://open.spotify.com/album/0p4g6SmATh0ihg0wQAxXvU) | 2:35 | 2022-01-07 | 2022-07-10 |

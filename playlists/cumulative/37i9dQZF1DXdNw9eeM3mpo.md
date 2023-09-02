@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-294 songs - 18 hr 2 min
+296 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 | 2021-12-21 | 2023-05-05 |
 | [El Mono Relojero](https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [A 15 Cm De La Realidad](https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX) | 3:52 | 2021-12-21 | 2022-07-15 |
 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 | 2021-12-21 |  |
-| [El Rey](https://open.spotify.com/track/7nfZd0tsEkb2xCA3v4VltV) | [Eskina Opuesta](https://open.spotify.com/artist/5FZeu5LmVgSL4QmxQfnbFq) | [El Rey](https://open.spotify.com/album/1sFqFgN9KWRPsXuc9dl1wL) | 2:51 | 2023-05-05 |  |
+| [El Rey](https://open.spotify.com/track/7nfZd0tsEkb2xCA3v4VltV) | [Eskina Opuesta](https://open.spotify.com/artist/5FZeu5LmVgSL4QmxQfnbFq) | [El Rey](https://open.spotify.com/album/1sFqFgN9KWRPsXuc9dl1wL) | 2:51 | 2023-05-05 | 2023-09-02 |
 | [El Ska de Lolo Mario](https://open.spotify.com/track/3lMV5bSZOavnLlWXXNi8fx) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 2:13 | 2021-12-21 | 2022-07-26 |
 | [El Super Heroe](https://open.spotify.com/track/0LIvsHX7pShjl2fpHHSAL5) | [Cafe Con Tequila](https://open.spotify.com/artist/62aU5j4IyKvoyOw7Sh27ZZ) | [Cafe Con Tequila](https://open.spotify.com/album/1hPYk1JG3LK0Bv5k1xcnv7) | 3:57 | 2021-12-21 | 2022-04-19 |
 | [El Vals del Obrero](https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Vals Del Obrero](https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V) | 4:37 | 2021-12-21 | 2023-04-22 |
@@ -209,6 +209,7 @@
 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 | 2021-12-21 |  |
 | [Queda en Esta Noche](https://open.spotify.com/track/1PA14CUHy7pwikmVZCCuj7) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Queda en Esta Noche](https://open.spotify.com/album/3o3B8TKeUGTX2aNaNKcWZU) | 2:29 | 2021-12-21 | 2022-07-29 |
 | [Quereme Así](https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Chanchos Amigos](https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY) | 4:22 | 2021-12-21 |  |
+| [Quinta Série](https://open.spotify.com/track/0pv84csez62xBpafUTjJLx) | [Banana Kush](https://open.spotify.com/artist/0AKrnOIY3Ws6R4heYoLBx0) | [Quinta Série](https://open.spotify.com/album/4ODOV14kHREVR543A7NhpF) | 2:10 | 2023-09-01 |  |
 | [Qué Vas a Hacer Conmigo](https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Supersonico](https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz) | 3:26 | 2021-12-21 | 2023-07-22 |
 | [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 | 2022-03-09 | 2022-04-23 |
 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 | 2021-12-21 |  |
@@ -254,7 +255,7 @@
 | [Solo un Minuto](https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:59 | 2021-12-21 |  |
 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 | 2021-12-21 |  |
 | [Solín](https://open.spotify.com/track/5S7u325wiVi83XXuqmJQrw) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Rock En Español \- Lo Mejor Maldita Vecindad](https://open.spotify.com/album/6RsPj35rwT6mV1OOegnDIJ) | 3:14 | 2021-12-21 | 2022-07-29 |
-| [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 | 2023-04-21 |  |
+| [Somos](https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr) | [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [Somos](https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA) | 2:25 | 2023-04-21 | 2023-09-02 |
 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 | 2023-07-21 |  |
 | [Somos de Aquí y de Allá](https://open.spotify.com/track/3rr9eyzXc0M8NuqvYZ67y8) | [MEZ\-K](https://open.spotify.com/artist/2ax2F8KW5sK9yMJEEpivqP) | [Somos de Aquí y de Allá](https://open.spotify.com/album/37U305QpECv1h7yNo6t941) | 2:35 | 2023-07-07 |  |
 | [Somos los Dos](https://open.spotify.com/track/5HIJNSEjvHeQZmFsHv2J8L) | [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY), [Big Javy](https://open.spotify.com/artist/2ZOu3MoZXWcJjQLedo40Xp) | [Somos los Dos](https://open.spotify.com/album/6lwqlLrOUXDZEeC7CHMYy3) | 3:22 | 2021-12-21 | 2022-07-09 |
@@ -280,6 +281,7 @@
 | [Todo va lento](https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [El Club del Amigo](https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB) | 3:30 | 2021-12-21 | 2023-04-22 |
 | [Todos Locos](https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:22 | 2021-12-21 | 2023-04-22 |
 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 | 2021-12-21 |  |
+| [Traición a la Mejicana](https://open.spotify.com/track/4XRYK2sdrRCcuzHBbN9ziE) | [La Banda de Grillo](https://open.spotify.com/artist/1TscVCk7XePD3K4FjwCzpq), [Chelo Zimbabwe](https://open.spotify.com/artist/0XLVhJIBt95ktFoPLtdC37) | [Traición a la Mejicana](https://open.spotify.com/album/4Ibmvd4Ur0Ob7TsnbGJSvI) | 4:00 | 2023-09-01 |  |
 | [Tu Alma Mía & Adelita](https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:49 | 2021-12-21 | 2022-12-03 |
 | [Tu Alma Mía & Adelita](https://open.spotify.com/track/3JuJ8K9qJshYxQGR1ijoaa) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 3:49 | 2021-12-21 | 2022-07-29 |
 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 | 2021-12-21 |  |

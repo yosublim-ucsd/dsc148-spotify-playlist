@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Let's party with cheerful Korean trot medley. Cover: \bNa Hoon-a(\ub098\ud6c8\uc544) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Let's party with cheerful Korean trot medley. Cover: Jeong Dong Won(\uc815\ub3d9\uc6d0) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Trot Stars",
   "tracks": [
     {
@@ -7767,6 +7767,24 @@
     },
     {
       "album": {
+        "name": "Monologue",
+        "url": "https://open.spotify.com/album/1XGVG0LlPQvfbg3rlh0Lmm"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251893,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/0fh6kywicgePHsafihzMqv"
+    },
+    {
+      "album": {
         "name": "Love call center PART8",
         "url": "https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C"
       },
@@ -10585,6 +10603,24 @@
     },
     {
       "album": {
+        "name": "Southbound train",
+        "url": "https://open.spotify.com/album/0croexQIRJCR76TvDs4E3Q"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Southbound train",
+      "url": "https://open.spotify.com/track/0xbyMUcIbOhCHicZyR38K3"
+    },
+    {
+      "album": {
         "name": "Love call center PART20",
         "url": "https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa"
       },
@@ -12844,7 +12880,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 272840,
       "name": "White space",
       "url": "https://open.spotify.com/track/2bquds3iXdFCEdb1BOJp1D"
@@ -14638,7 +14674,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 228172,
       "name": "\ubc14\ubcf4 \uac19\uc740 \uc0ac\ub78c",
       "url": "https://open.spotify.com/track/1YGw2tcb8dsBtcIrZYlj5s"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 211840,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/4NhpkZjAfpx9h3S1VETwVp"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 192906,
       "name": "Am I Blue",
       "url": "https://open.spotify.com/track/25YKzSRFvgEJ8jXwXYe8A8"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 343866,
       "name": "Bunny",
       "url": "https://open.spotify.com/track/608Il5lMSRS5AK7QUZlVPt"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 215400,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/0KJRVbEIMIVCjDGZ17jzWP"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 164893,
       "name": "I Let A Song Go Out Of My Heart",
       "url": "https://open.spotify.com/track/5y8MG77yLGWQFQCcuDXHFp"
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 193280,
       "name": "If Love Is Good To Me",
       "url": "https://open.spotify.com/track/3LN1BQ7wVrALTnKRgEFVmF"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 354493,
       "name": "Jim",
       "url": "https://open.spotify.com/track/1cxBehMLI8smC0EAx0I0Ut"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-22",
+      "date_removed": null,
       "duration_ms": 415560,
       "name": "Just Knock On My Door",
       "url": "https://open.spotify.com/track/4whk8lIF9QP2LBPWJr8uog"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 297866,
       "name": "Lands End",
       "url": "https://open.spotify.com/track/73Kvjmkx0D38tlPa2d3JKx"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 118400,
       "name": "Let's Fall in Love",
       "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 171000,
       "name": "Lullaby Of Birdland",
       "url": "https://open.spotify.com/track/4JQiUSWsle7d4MAnsSi3hO"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 236240,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
@@ -2639,6 +2639,36 @@
     },
     {
       "album": {
+        "name": "Centennial Celebration",
+        "url": "https://open.spotify.com/album/3OzsqnP7OeQ9YzdwmrtoGM"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        },
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Red Callender",
+          "url": "https://open.spotify.com/artist/25l7ALS0IGoUzvsfYtcIRi"
+        },
+        {
+          "name": "Bill Douglass",
+          "url": "https://open.spotify.com/artist/1shwhY3Rqo1z8BPnTLWpPN"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375640,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/2lty989GpuDUdGDvEEMt7T"
+    },
+    {
+      "album": {
         "name": "The Gentle Side Of John Coltrane",
         "url": "https://open.spotify.com/album/0hc0DLxQyod6p5UdCjNOJS"
       },
@@ -2690,7 +2720,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 413306,
       "name": "My Sin - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1ebZEQLe2lfwyMnuhnIDjx"
@@ -2726,7 +2756,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 147293,
       "name": "Nice Girls Don't Stay For Breakfast",
       "url": "https://open.spotify.com/track/3lec706q3lBqypMop9y7pr"
@@ -2852,7 +2882,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 256133,
       "name": "Quintessence - Remastered",
       "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
@@ -2888,7 +2918,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 151533,
       "name": "Ruint",
       "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
@@ -3000,7 +3030,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 121613,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/577faQuWq6ioVGsK4wel5s"
@@ -3195,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Presenting Lee Wiley",
+        "url": "https://open.spotify.com/album/0x0zRhAWVDUU1syV0prQdQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Wiley",
+          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/0wX6IwZtAkbztzYh0ZEYx7"
+    },
+    {
+      "album": {
         "name": "Follow Your Heart",
         "url": "https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT"
       },
@@ -3268,7 +3316,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 359960,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/245pAQ58ASfZuni9VedL7P"
@@ -3424,7 +3472,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "The Night We Called It a Day",
       "url": "https://open.spotify.com/track/6NDcfPDPnh5FIhfeIITGdb"
@@ -3644,7 +3692,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 166760,
       "name": "Time After Time - Vocal Version",
       "url": "https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d"
@@ -3698,7 +3746,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173466,
       "name": "Tonight May Have To Last Me All My Life - Remastered",
       "url": "https://open.spotify.com/track/2IcRKEB63dQD9YnWso8Ogu"
@@ -3738,7 +3786,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 412653,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y"
@@ -3756,7 +3804,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 310720,
       "name": "Touchy",
       "url": "https://open.spotify.com/track/2vu41akkahDw2keNw6vVnl"
@@ -3774,7 +3822,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 191040,
       "name": "Trav'lin' Light",
       "url": "https://open.spotify.com/track/1ROntzeztBMrLwY6aMAR61"
@@ -3810,7 +3858,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 165800,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/7anBVIyitaxEZIlMDJPjfb"

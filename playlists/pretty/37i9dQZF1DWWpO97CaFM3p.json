@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 396579,
+  "num_followers": 397125,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTg1MThmOGEzYTRhN2VlNTNiZWUwY2I1MTlhZTU5NjM4ZTFjNmQ5",
+  "snapshot_id": "MCw5ZjA5ODRjYzIzZTRiYjI1ZTc3OGUyYzBjYzk2M2ZjNmM5YmMzMzVm",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Repeat Until Death",
+      "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Repeat Until Death",
-      "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+      },
+      "artists": [
+        {
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Without a Light",
         "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 287393,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/1oofwLaSk4kDIWAYT5ZGK7"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
-      },
-      "artists": [
-        {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Monoflora",
-        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Michigan Cherry",
-      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 225500,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Monoflora",
+        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 223400,
+      "name": "Michigan Cherry",
+      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "A Place",
-        "url": "https://open.spotify.com/album/2C0s7ySTrSsJQwZUFznQVh"
+        "name": "C-Sides",
+        "url": "https://open.spotify.com/album/446uL6pnfKQw5IIBwV7jMk"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 225356,
-      "name": "A Place",
-      "url": "https://open.spotify.com/track/7ERXXehG6qY2uDDiKhRNlx"
+      "duration_ms": 228481,
+      "name": "Scotland",
+      "url": "https://open.spotify.com/track/3FWWh7YVaOwq1PurKgLWnh"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "C-Sides",
-        "url": "https://open.spotify.com/album/446uL6pnfKQw5IIBwV7jMk"
+        "name": "A Place",
+        "url": "https://open.spotify.com/album/2C0s7ySTrSsJQwZUFznQVh"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 228481,
-      "name": "Scotland",
-      "url": "https://open.spotify.com/track/3FWWh7YVaOwq1PurKgLWnh"
+      "duration_ms": 225356,
+      "name": "A Place",
+      "url": "https://open.spotify.com/track/7ERXXehG6qY2uDDiKhRNlx"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "The Universe",
-      "url": "https://open.spotify.com/track/5SOV1dyQQJx98X4yY17bCI"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1883,18 +1867,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+      "duration_ms": 256600,
+      "name": "The Universe",
+      "url": "https://open.spotify.com/track/5SOV1dyQQJx98X4yY17bCI"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "Roadtripsong",
         "url": "https://open.spotify.com/album/0hVKsOrcrxQIoXVdJ5Nu5O"
       },
@@ -1927,22 +1927,6 @@
       "duration_ms": 221142,
       "name": "Roadtripsong",
       "url": "https://open.spotify.com/track/6OMnH9uEKd7W3YK3ncuUF7"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "love is not dying",
-        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "oh, mexico",
-      "url": "https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1967,18 +1951,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "The Way That Lovers Do",
-        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+        "name": "love is not dying",
+        "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
       },
       "artists": [
         {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Favorite Peeps",
-      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
+      "duration_ms": 184480,
+      "name": "oh, mexico",
+      "url": "https://open.spotify.com/track/3dT28suh6dzuW7qF79Nf4F"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1995,6 +1979,22 @@
       "duration_ms": 164773,
       "name": "Fisher Island Sound",
       "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
     },
     {
       "added_at": "2023-08-18 04:01:00",

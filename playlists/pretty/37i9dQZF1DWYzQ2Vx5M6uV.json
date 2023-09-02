@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Kizz Daniel & Becky G",
-  "num_followers": 113408,
+  "num_followers": 113447,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmUyOTlhMmUwMmY3YjMyZTFiZTA1ZmE0NTliZDllYWY4ZjdiNWIz",
+  "snapshot_id": "MCxhMzk0NDI0NzA1ODZhMDVkMjVmMTYxZjFkMWViMDM1ODFiMTJiYThk",
   "tracks": [
     {
       "added_at": "2023-07-20 23:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Rotate",
-        "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 201940,
-      "name": "Rotate",
-      "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "ZaZa Vibes (Extended Version)",
         "url": "https://open.spotify.com/album/1QFQBlZ2zwGRcwhPwEOCpQ"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 164081,
       "name": "Sempe - Remix",
       "url": "https://open.spotify.com/track/27aOnrAdyXMNTDInNoXcYj"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Rotate",
+        "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 201940,
+      "name": "Rotate",
+      "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
+        "name": "Getting Late",
+        "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        }
+      ],
+      "duration_ms": 254557,
+      "name": "Getting Late",
+      "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
         "name": "Baila Kumi",
         "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 201013,
       "name": "Don't Rush - Remix",
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "Getting Late",
-        "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Kooldrink",
-          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
-        }
-      ],
-      "duration_ms": 254557,
-      "name": "Getting Late",
-      "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -911,30 +911,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 175000,
       "name": "before",
       "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Hapo Tu",
         "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 187555,
       "name": "Hapo Tu",
       "url": "https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1431,30 +1431,18 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Sugarcane (Latin Remix)",
-        "url": "https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366"
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
       },
       "artists": [
         {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        },
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        },
-        {
-          "name": "Franco \"El Gorilla\"",
-          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
-        },
-        {
-          "name": "Green Cookie",
-          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
         }
       ],
-      "duration_ms": 258048,
-      "name": "Sugarcane - Latin Remix",
-      "url": "https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N"
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2023-07-20 23:00:00",

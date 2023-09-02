@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-357 songs - 19 hr 13 min
+358 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,8 @@
 | [Splash!](https://open.spotify.com/track/7dOKxv5GoKsp4D5nJ0TKwI) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Homesick](https://open.spotify.com/album/33wDctNQFE0CHgCZfJH4L7) | 3:07 | 2021-12-09 | 2022-07-25 |
 | [Spring Lovers](https://open.spotify.com/track/32HzGTnuDjLjyQuwrN530Y) | [Davide Perico](https://open.spotify.com/artist/2HieRZlSa2pQdRBWVN5CqT), [Yoshimitsu4432](https://open.spotify.com/artist/5PZuA5drLPCsRKsVldf7Th) | [Spring Lovers](https://open.spotify.com/album/7uoUO2tuWNyi0hWebcIltV) | 2:05 | 2021-07-30 | 2022-07-14 |
 | [stay](https://open.spotify.com/track/23uag9bcLig9W06gC4U8XD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [dead2me](https://open.spotify.com/album/6N4nVJcTKMRIvYSLoL5Tx2) | 2:38 | 2021-11-26 | 2022-07-28 |
-| [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-07-26 |  |
+| [Stop Waiting](https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 6:02 | 2023-07-26 |  |
+| [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-07-26 | 2023-09-02 |
 | [Stray Fantasies](https://open.spotify.com/track/7oxl6743zINo2goOSRBnrM) | [Mint Julep](https://open.spotify.com/artist/60xrFrkTS0lvRRpbS1cpnr) | [Stray Fantasies](https://open.spotify.com/album/3Sa6zvka2JPNFU5B6DPdyI) | 3:13 | 2022-03-30 | 2022-04-20 |
 | [sugar ray](https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 4:03 | 2021-08-11 | 2023-05-19 |
 | [Summer Something](https://open.spotify.com/track/3NtrvMkHEiGjPk3B18rsop) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Fun Times](https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi) | 3:14 | 2022-09-13 | 2023-05-09 |

@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-401 songs - 22 hr 58 min
+402 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,8 @@
 | [Monochrome](https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Holding Absence](https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM) | 3:38 | 2021-11-30 |  |
 | [Monsters](https://open.spotify.com/track/55WJq2EsJoTSvvF15Q4gCy) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Monsters](https://open.spotify.com/album/5Z38H9q6QDcTmX3jW1j0Jw) | 3:42 | 2021-11-30 | 2023-01-12 |
 | [Moonlit](https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Damned Soul](https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe) | 3:37 | 2021-11-30 |  |
-| [Mother](https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Brutalism](https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI) | 3:27 | 2022-12-13 |  |
+| [Mother](https://open.spotify.com/track/4Q5rEdxXCYTt33nHm11HQd) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Brutalism](https://open.spotify.com/album/3VrfVLndSkH81aE4CqivdI) | 3:27 | 2022-12-13 | 2023-09-02 |
+| [Mother](https://open.spotify.com/track/7klLTLP8zff6I83OK0AMgO) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Brutalism](https://open.spotify.com/album/5qag6esZLv5ySuCpzh7CE6) | 3:27 | 2023-06-20 |  |
 | [My Confession](https://open.spotify.com/track/3dHf11e3Ck2T6lBWOJtAKQ) | [To Octavia](https://open.spotify.com/artist/6n7fNyZbuKRarfCjUrJbMY) | [Nocturnal](https://open.spotify.com/album/0iHKfu3Vd7US1WScussuhT) | 3:40 | 2022-01-21 | 2022-07-13 |
 | [My Mind](https://open.spotify.com/track/5Gzgm5Y3PNrjyYyR8Ifx9A) | [Monty Are I](https://open.spotify.com/artist/7AEvTjS7j6EVZOscE6KgD8) | [My Mind](https://open.spotify.com/album/4CY0WGeWCAJkcnVzxC7hAd) | 3:29 | 2021-11-30 | 2022-07-17 |
 | [myfeelingshavefeelings](https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [wet milk](https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI) | 2:16 | 2021-11-30 |  |

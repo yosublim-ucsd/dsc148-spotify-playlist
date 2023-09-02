@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "Country hits that will have you singing every word. Cover: Shania Twain",
+  "description": "Country hits that will have you singing every word. Cover: Dan + Shay",
   "name": "Country Favourites",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 182666,
       "name": "Back Then, Right Now",
       "url": "https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t"
+    },
+    {
+      "album": {
+        "name": "Spillin' My Truth",
+        "url": "https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174846,
+      "name": "Back To Drinkin' Whiskey",
+      "url": "https://open.spotify.com/track/6Ut5qwtHlVBrLd9t6MVzAM"
     },
     {
       "album": {
@@ -483,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Chasing Tornadoes",
+        "url": "https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177008,
+      "name": "Chasing Tornadoes",
+      "url": "https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx"
+    },
+    {
+      "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
@@ -578,6 +614,24 @@
       "duration_ms": 236455,
       "name": "Country On",
       "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
+    },
+    {
+      "album": {
+        "name": "Cowboys And Angels",
+        "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133973,
+      "name": "Cowboys And Angels",
+      "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
     },
     {
       "album": {
@@ -3208,7 +3262,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 211226,
       "name": "Strange",
       "url": "https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb"
@@ -3762,7 +3816,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 174322,
       "name": "Where'd You Learn How To Do That",
       "url": "https://open.spotify.com/track/4Do7NhvafmOQENTNAus874"
@@ -3878,7 +3932,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 211933,
       "name": "Worth A Shot (feat. Dierks Bentley)",
       "url": "https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j"

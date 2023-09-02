@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,872 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,909 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 49 | [Duncan \- 1998 Remaster](https://open.spotify.com/track/2EnHSj3GZ0pr7S3fka1zcf) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 2:35 |
 | 50 | [Waltzing Matilda 2000](https://open.spotify.com/track/2KzeUrxM30mLlMTl97yWej) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Looking for a Story](https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg) | 3:50 |
 
-Snapshot ID: `MCxmNzRkOGZkNmJhMjliN2FlZThjODEzYTNiMmNlYjY1NzkxZDc5YmMz`
+Snapshot ID: `MCwwMzU5YmU5YjliMjFjMjhkZmMzYzIzODgxZGZmZDRhMDExNDJjMmUx`

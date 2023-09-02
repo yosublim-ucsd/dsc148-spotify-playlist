@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- MC Altaf",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- MC STAN",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 178285,
       "name": "Aur Karo",
       "url": "https://open.spotify.com/track/1kl7RMYQA3jIN182UyscqG"
@@ -1489,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Nusta Paisa",
+        "url": "https://open.spotify.com/album/22vgvuGWlqNx7Tu29FSvSO"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Nusta Paisa",
+      "url": "https://open.spotify.com/track/4PzwnV2M9498W9sqH7qin3"
+    },
+    {
+      "album": {
         "name": "Autobiography",
         "url": "https://open.spotify.com/album/6ZGUav7u1qrms2VNsl0fXD"
       },
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 153600,
       "name": "Shehnai",
       "url": "https://open.spotify.com/track/2ywkj6sjyVBmq46wgIgIlw"
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179016,
       "name": "White Collar",
       "url": "https://open.spotify.com/track/5xRl4qsBxLfinqEDc7ODqi"

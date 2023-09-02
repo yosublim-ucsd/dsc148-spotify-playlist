@@ -1,12 +1,12 @@
 {
   "description": "Canciones de rock con un toque de nostalgia.",
-  "num_followers": 100070,
+  "num_followers": 100167,
   "original_name": "Nostalgia + Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDIzOTI2YWIyNjIyOTIyNDE1YzdhNDVjOGU3YjM5Mzk4MjkyMWNh",
+  "snapshot_id": "MCxmOTExOTYzMWRiMWMyNjMxNTlkOGU2ODhmZGJjY2ZhMTBkNDkzMDU1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 299723,
+      "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Still Crazy After All These Years",
         "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Greatest Hits (Deluxe)",
-        "url": "https://open.spotify.com/album/1rYGs8nrxS83rEAasgyl5E"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 296853,
-      "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/2VxIt3hX5h0Pkzu5rgocZr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Honestidad Brutal",
         "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
-        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
+        "name": "Viaje Por Lo Eterno",
+        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
         }
       ],
-      "duration_ms": 213066,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/0Ruvs5IxqkGqQVWCO2oRpw"
+      "duration_ms": 205000,
+      "name": "Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
     }
   ],
   "unique_name": "Nostalgia + Rock",

@@ -96,7 +96,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 154666,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 181745,
       "name": "Catch-22",
       "url": "https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18"
@@ -911,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/02pB8vx8VkjQCbN1rCxKS6"
+      },
+      "artists": [
+        {
+          "name": "Pilani Bubu",
+          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+        },
+        {
+          "name": "AfroNautiq",
+          "url": "https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/5oEQ8gEXm9jfjHxMOSKXSb"
+    },
+    {
+      "album": {
         "name": "Habibi Only Live Once",
         "url": "https://open.spotify.com/album/5HPCWQ7s2b9bI6Cw1bQYwQ"
       },
@@ -1148,7 +1170,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 113684,
       "name": "Isn't Love",
       "url": "https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6"
@@ -2823,6 +2845,24 @@
     },
     {
       "album": {
+        "name": "Tender",
+        "url": "https://open.spotify.com/album/4Gp4JlzMRXKuH32Jee28D2"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Tender",
+      "url": "https://open.spotify.com/track/6dAY1jZ9doJSFeHcPrz36U"
+    },
+    {
+      "album": {
         "name": "Terene",
         "url": "https://open.spotify.com/album/5t5G9vRwwqqaloR0DxSOTD"
       },
@@ -2878,6 +2918,24 @@
       "duration_ms": 139041,
       "name": "The Yeah Yeah",
       "url": "https://open.spotify.com/track/24pqG5Vg6ImGrIPlWrlfLe"
+    },
+    {
+      "album": {
+        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174693,
+      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
     },
     {
       "album": {

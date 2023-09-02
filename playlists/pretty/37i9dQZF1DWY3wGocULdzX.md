@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,856 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,882 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 19 | [El Cayuco](https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:35 |
 | 20 | [Asia Minor](https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Asia Minor Cha Cha Cha](https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2) | 3:01 |
 | 21 | [Mambo Infierno](https://open.spotify.com/track/37IPOyonJjOLmOlns8RXhx) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Tremendo Cumban](https://open.spotify.com/album/14u4OthZTF7D0z40hy7OmK) | 2:51 |
-| 22 | [Mamá Güela \- Live](https://open.spotify.com/track/4peboQ0PfWsLbjYNYSPgmB) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [A Man And His Music: El Inolvidable](https://open.spotify.com/album/7101EVthCwrld4QKetHmb6) | 2:42 |
-| 23 | [Patricia](https://open.spotify.com/track/2bwhOdCOLgQ8v6xStAqnju) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 2:20 |
+| 22 | [Patricia](https://open.spotify.com/track/2bwhOdCOLgQ8v6xStAqnju) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Coleccion Original](https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb) | 2:20 |
+| 23 | [Mamá Güela \- Live](https://open.spotify.com/track/4peboQ0PfWsLbjYNYSPgmB) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [A Man And His Music: El Inolvidable](https://open.spotify.com/album/7101EVthCwrld4QKetHmb6) | 2:42 |
 | 24 | [Mambo Manila](https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF) | [Tito Rodriguez & His Orchestra](https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN) | [Mambo Madness](https://open.spotify.com/album/37adSaGjRerybXzNjcry13) | 3:10 |
 | 25 | [Yo No Soy Guapo](https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Solito](https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2) | 5:07 |
 | 26 | [Bochinchosa](https://open.spotify.com/track/7L4eODuSL77fkoVioQD0Mo) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Estamos Haciendo Algo Bien!](https://open.spotify.com/album/6qbLn5WNxrKGzzYQENyUmX) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Blen, Blen, Blen](https://open.spotify.com/track/0koL9KgFF8DiuNExstwl4X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito No\. 1](https://open.spotify.com/album/7CRlAAlopAiJb5jimIkCGn) | 3:17 |
 | 50 | [Babarabatiri](https://open.spotify.com/track/1MOoJPNFcH78lkqYAO9lLs) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [The Early Years](https://open.spotify.com/album/5Psz0qL5gppaidAzChMEZY) | 13:53 |
 
-Snapshot ID: `MCw5Njc5YzdiYTg2ZWI2NGM4M2M4NDk0YWU4OGY5YTE2ZWM2NjA5YzA5`
+Snapshot ID: `MCxjYjc1MDlhOWE0ZDUwNjA4OWU4Y2YxMzBkY2Y4NGU3MDIxY2JhOGEy`

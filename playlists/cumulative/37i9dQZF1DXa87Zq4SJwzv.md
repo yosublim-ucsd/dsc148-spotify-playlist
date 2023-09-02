@@ -4,7 +4,7 @@
 
 > 🌈 AMOR ES AMOR 🌈
 
-149 songs - 9 hr 3 min
+151 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amante Bandido](https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bandido](https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di) | 4:21 | 2023-01-20 |  |
 | [Amiga mía](https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 4:50 | 2023-01-20 |  |
 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 | 2022-06-03 | 2022-06-30 |
-| [Amor Diverso \- Versión Acústica](https://open.spotify.com/track/171UjScvzBRgTuREV1QE4F) | [Sara Curruchich](https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ) | [Amor Diverso \(Version Acústica\)](https://open.spotify.com/album/7rQFXvOvgQmbYC3Ln6SnGw) | 3:55 | 2023-06-02 |  |
+| [Amor Diverso \- Versión Acústica](https://open.spotify.com/track/171UjScvzBRgTuREV1QE4F) | [Sara Curruchich](https://open.spotify.com/artist/2WvH8EDy9SoE7BbcSQCIOJ) | [Amor Diverso \(Version Acústica\)](https://open.spotify.com/album/7rQFXvOvgQmbYC3Ln6SnGw) | 3:55 | 2023-06-02 | 2023-09-02 |
 | [Amor Tumbado](https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 3:41 | 2022-06-03 | 2022-06-30 |
 | [Amores extraños](https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini: 25 Aniversario \(Spanish Version\)](https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs) | 4:15 | 2023-01-20 |  |
 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 | 2022-06-03 | 2022-06-30 |
@@ -106,7 +106,8 @@
 | [Milionària](https://open.spotify.com/track/2K3bjojp1sCLdMMoO5lJ2p) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Fucking Money Man](https://open.spotify.com/album/7qJZgNj9IMy9onoTe5uhZc) | 2:18 | 2022-06-29 | 2023-01-21 |
 | [Monoambiente en Capital](https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Nico Cotton](https://open.spotify.com/artist/78hoprvwWi9cDX4KJvpECc) | [Monoambiente en Capital](https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7) | 3:01 | 2023-01-20 |  |
 | [Motel](https://open.spotify.com/track/3DNTGxpUQR7A01H6EJkQM6) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [2016](https://open.spotify.com/album/3UJCMFZa1DMsY96qXNomEV) | 3:00 | 2022-06-03 | 2022-06-30 |
-| [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 | 2023-01-20 |  |
+| [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2023-09-01 |  |
+| [Nada Personal](https://open.spotify.com/track/3BCayFOh2xF0AuYjcWgSVd) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Nada Personal](https://open.spotify.com/album/4Wjgz8zUKQ7m2raLlSdsp1) | 4:41 | 2023-01-20 | 2023-09-02 |
 | [Nadie Más](https://open.spotify.com/track/005876Sj0DDeqcV3Odv4Bx) | [MANCANDY](https://open.spotify.com/artist/1MYMkIxhD5Gsq0u0NhPFVq) | [2016](https://open.spotify.com/album/3UJCMFZa1DMsY96qXNomEV) | 3:15 | 2022-06-03 | 2022-06-30 |
 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 | 2023-01-20 |  |
 | [Ni Tú Ni Nadie](https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC) | [Mœnia](https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV) | [Stereo Hits](https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as) | 3:39 | 2023-01-20 |  |
@@ -117,6 +118,7 @@
 | [No vaya a ser](https://open.spotify.com/track/6ZZOdrcqRZzTCwGlsy00SU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/07c88Esc2q8pUl0tXADs3D) | 3:18 | 2022-06-29 | 2023-01-21 |
 | [No, No, No](https://open.spotify.com/track/1qjpqPksHOOIKcwShB08oz) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [El Sexto Sentido \(Re+Loaded\)](https://open.spotify.com/album/3kHeN0vyKHdjNO5YOnCt2r) | 4:09 | 2023-01-20 |  |
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2022-06-29 | 2023-01-21 |
+| [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-09-01 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-06-03 | 2022-06-30 |
 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 | 2023-01-20 |  |
 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 | 2022-06-29 | 2023-01-11 |

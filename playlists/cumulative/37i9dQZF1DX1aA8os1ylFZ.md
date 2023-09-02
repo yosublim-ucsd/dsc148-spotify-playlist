@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-380 songs - 20 hr 3 min
+381 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [5EVER](https://open.spotify.com/track/2RGBEXic4VNloxU1PPa6K8) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [Silver Spoons](https://open.spotify.com/album/5AVrwKZ7nMhmVTOr6DibIU) | 2:47 | 2022-07-22 | 2023-01-13 |
 | [5EVER](https://open.spotify.com/track/7wnnnbsAcvA4cpR9Bs9U3k) | [Julian](https://open.spotify.com/artist/4vYj7nah6DyidXoeKEDRy7) | [5EVER](https://open.spotify.com/album/6BJ9pXWmezQlJP1KuNDm2n) | 2:47 | 2021-12-16 | 2022-07-29 |
 | [90 percent](https://open.spotify.com/track/3sBwYK7ShSdnBS6EECgs5F) | [Rico Greene](https://open.spotify.com/artist/6mpb294qwS2LTTwSSONdWS) | [90 percent](https://open.spotify.com/album/5XQ1765TIYIa0slsGcR8re) | 3:53 | 2021-12-16 | 2023-01-13 |
-| [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2023-04-03 |  |
+| [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 | 2023-04-03 | 2023-09-02 |
 | [All About You](https://open.spotify.com/track/4aqRAulpuMv4np1LloQwYJ) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/5IL9eNIJTmCKB02gUUdLOY) | 3:10 | 2022-01-27 | 2022-10-13 |
 | [All About You](https://open.spotify.com/track/6Kbaa3G0goXxwIyIi0q5ic) | [23rd Letter](https://open.spotify.com/artist/2tpT0yIItPFcLOmh0tml9J) | [All About You](https://open.spotify.com/album/6DVHEzXIRURCUoRwwYPlC8) | 3:10 | 2022-07-22 | 2023-01-13 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2023-01-12 | 2023-03-09 |
@@ -165,8 +165,8 @@
 | [I Still Love You](https://open.spotify.com/track/5J3lwdkgC0D8wBuEgsvGJp) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [I Still Love You](https://open.spotify.com/album/0CL2R1h6ovr4IcaXSqouYZ) | 2:55 | 2022-03-25 | 2022-12-01 |
 | [I Think I Do](https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [I Think I Do](https://open.spotify.com/album/6OHRYCn9KlMjlaMtIzkrya) | 2:22 | 2023-01-12 | 2023-03-09 |
 | [I Think I’ll Stay For The Summer](https://open.spotify.com/track/1npDK31ZsQyCEGIFyqKHbc) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [I Think I’ll Stay For The Summer](https://open.spotify.com/album/6LuiOp3PCyHtgmF9JHnfVh) | 3:12 | 2022-07-22 | 2023-01-13 |
-| [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/5iqJxUWNrhrQvsA7bIXede) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:50 | 2023-08-14 |  |
-| [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 | 2023-01-12 | 2023-08-23 |
+| [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/5iqJxUWNrhrQvsA7bIXede) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:50 | 2023-08-14 | 2023-09-02 |
+| [I WANT YOU BUT YOU'LL NEVER KNOW..\. \(feat\. DRAM and Alex Isley\)](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 | 2023-01-12 |  |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-19 | 2023-05-13 |
 | [ICU](https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 4:01 | 2023-06-01 |  |
 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2023-01-18 | 2023-07-23 |
@@ -215,6 +215,7 @@
 | [Love Songs](https://open.spotify.com/track/2zO7frDqm0ut8oY58EqgEz) | [ADORAH](https://open.spotify.com/artist/5ftK3lzR9iapCysM5XBCj2) | [20 Feet Tall](https://open.spotify.com/album/6T8DlBJ7z7q9dc7rzBauUQ) | 2:48 | 2021-12-16 | 2023-01-13 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2022-03-25 | 2023-01-13 |
 | [Love&Adoration](https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Love&Adoration](https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ) | 2:23 | 2021-12-16 | 2023-01-13 |
+| [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 | 2023-09-01 |  |
 | [Lovely](https://open.spotify.com/track/5Hk1e4wp12VfOkdfHdpeBy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Lovely](https://open.spotify.com/album/4kzqBT7MnaHJkX0LjfDHay) | 3:24 | 2021-12-16 | 2022-01-21 |
 | [Luxury Love](https://open.spotify.com/track/1jdqxweALuTOa9qZbX9FVG) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Luxury Love](https://open.spotify.com/album/2dz5hwoX3FKFswT6hZ5sXX) | 2:42 | 2021-12-16 | 2023-01-13 |
 | [Magic](https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 4:44 | 2023-01-12 |  |

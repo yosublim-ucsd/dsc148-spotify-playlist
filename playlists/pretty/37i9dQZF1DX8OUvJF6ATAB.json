@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 184283,
+  "num_followers": 184349,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGQyNDBjNjcyZThjMTA5MzZhN2Y4YTA4ZjQwZGI5NmYwYjRhZjQ0",
+  "snapshot_id": "MCw5YzU4NjcxNjVjMzg0NWNkY2IwNzZkZTJlYTZiZTk4MDBkZDczYmY4",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "A Midsummer Nice Dream",
-        "url": "https://open.spotify.com/album/4WZ0dPZH8wktMC0RiFhwL6"
-      },
-      "artists": [
-        {
-          "name": "Ochre",
-          "url": "https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "A Midsummer Nice Dream",
-      "url": "https://open.spotify.com/track/0hAM2VDYMWzAgtCVZXA6Qr"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 193310,
       "name": "White Cyclosa",
       "url": "https://open.spotify.com/track/7F2r3g9H42ZawwrOJJrDMz"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "A Midsummer Nice Dream",
+        "url": "https://open.spotify.com/album/4WZ0dPZH8wktMC0RiFhwL6"
+      },
+      "artists": [
+        {
+          "name": "Ochre",
+          "url": "https://open.spotify.com/artist/0OmHDBh5styCXDWKwz58Ts"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "A Midsummer Nice Dream",
+      "url": "https://open.spotify.com/track/0hAM2VDYMWzAgtCVZXA6Qr"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Trans-Millenia Music",
-        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Freedom at the 45th Floor",
-      "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "The Invention of the Human",
         "url": "https://open.spotify.com/album/7HrfEaITd4aqzxVXSXJIsN"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 338714,
       "name": "The Peach Tree Next Door Grew over Our Fence",
       "url": "https://open.spotify.com/track/0vHmmScQtHq6p7qZk9Xgfd"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Trans-Millenia Music",
+        "url": "https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "Freedom at the 45th Floor",
+      "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Aporia",
-        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Lowell Brams",
-          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
-        }
-      ],
-      "duration_ms": 215415,
-      "name": "The Runaround",
-      "url": "https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Dissolvi",
         "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
@@ -519,18 +499,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Between the Floating Mist",
-        "url": "https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk"
+        "name": "Aporia",
+        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
       },
       "artists": [
         {
-          "name": "LFO Waves",
-          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Lowell Brams",
+          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
         }
       ],
-      "duration_ms": 179583,
-      "name": "Between the Floating Mist",
-      "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
+      "duration_ms": 215415,
+      "name": "The Runaround",
+      "url": "https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -547,6 +531,22 @@
       "duration_ms": 197614,
       "name": "Ichneumonidae",
       "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Between the Floating Mist",
+        "url": "https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk"
+      },
+      "artists": [
+        {
+          "name": "LFO Waves",
+          "url": "https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Between the Floating Mist",
+      "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Long Stories",
+        "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 203255,
+      "name": "Full Panther",
+      "url": "https://open.spotify.com/track/3GqCa4d3FyV6THZMofy11d"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Esc",
         "url": "https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Long Stories",
-        "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
+        "name": "Nonlin",
+        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
       },
       "artists": [
         {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
         }
       ],
-      "duration_ms": 203255,
-      "name": "Full Panther",
-      "url": "https://open.spotify.com/track/3GqCa4d3FyV6THZMofy11d"
+      "duration_ms": 406856,
+      "name": "Subtractive Skies",
+      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -659,22 +675,6 @@
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Nonlin",
-        "url": "https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn"
-      },
-      "artists": [
-        {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        }
-      ],
-      "duration_ms": 406856,
-      "name": "Subtractive Skies",
-      "url": "https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Sources (Early Works 1986-1992)",
-        "url": "https://open.spotify.com/album/2USaQM9Uxhg6kwh3Ka9Nwd"
-      },
-      "artists": [
-        {
-          "name": "Erik W\u00f8llo",
-          "url": "https://open.spotify.com/artist/5a4gbN7QchpH2EgapVHB5I"
-        }
-      ],
-      "duration_ms": 218428,
-      "name": "Ody At Sea",
-      "url": "https://open.spotify.com/track/4kRL66HfP6pxDCgJclkewR"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Improvisational Loops",
         "url": "https://open.spotify.com/album/7sYiiE8J3sHHCALicu6MUU"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U"
+        "name": "Sources (Early Works 1986-1992)",
+        "url": "https://open.spotify.com/album/2USaQM9Uxhg6kwh3Ka9Nwd"
       },
       "artists": [
         {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+          "name": "Erik W\u00f8llo",
+          "url": "https://open.spotify.com/artist/5a4gbN7QchpH2EgapVHB5I"
         }
       ],
-      "duration_ms": 389681,
-      "name": "Water Music",
-      "url": "https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8"
+      "duration_ms": 218428,
+      "name": "Ody At Sea",
+      "url": "https://open.spotify.com/track/4kRL66HfP6pxDCgJclkewR"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Soothe & Sleep, Vol.8",
-        "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/37pu0bzxfd75BoBq6jKa7U"
       },
       "artists": [
         {
-          "name": "KENJI KIHARA",
-          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
         }
       ],
-      "duration_ms": 220327,
-      "name": "Flow in the Back",
-      "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
+      "duration_ms": 389681,
+      "name": "Water Music",
+      "url": "https://open.spotify.com/track/0khyOpw2EeYetwTCoJAzs8"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -803,6 +787,22 @@
       "duration_ms": 74304,
       "name": "B3",
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Soothe & Sleep, Vol.8",
+        "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
+      },
+      "artists": [
+        {
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+        }
+      ],
+      "duration_ms": 220327,
+      "name": "Flow in the Back",
+      "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Street Talk",
-        "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "U Believe",
-      "url": "https://open.spotify.com/track/6lhsxkTQ6OvPdie2BEEPxn"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Anthology of Interplanetary Folk Music Vol. 2: The Canon",
         "url": "https://open.spotify.com/album/2LosHQBwtkWbW7mlOJm0Qq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 369626,
       "name": "Standing Crosswise in the Square",
       "url": "https://open.spotify.com/track/0wFg6CWLFKLiZUDGHd2KV2"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Street Talk",
+        "url": "https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "U Believe",
+      "url": "https://open.spotify.com/track/6lhsxkTQ6OvPdie2BEEPxn"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Skinless X-1",
-        "url": "https://open.spotify.com/album/6yaGBKH8hE3II5C7XKzASE"
-      },
-      "artists": [
-        {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
-        }
-      ],
-      "duration_ms": 189205,
-      "name": "Response to Subdivisions \u263e",
-      "url": "https://open.spotify.com/track/5M0k3W4cVCKuk7ut9UuU80"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Cycles",
         "url": "https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 180000,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Skinless X-1",
+        "url": "https://open.spotify.com/album/6yaGBKH8hE3II5C7XKzASE"
+      },
+      "artists": [
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "duration_ms": 189205,
+      "name": "Response to Subdivisions \u263e",
+      "url": "https://open.spotify.com/track/5M0k3W4cVCKuk7ut9UuU80"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Control Voltage",
-        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
-      },
-      "artists": [
-        {
-          "name": "Blue Carbon",
-          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Suspension",
-      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Gymnosphere: Song of the Rose",
         "url": "https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 1495160,
       "name": "Temple of Aesthetic Action",
       "url": "https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Control Voltage",
+        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+      },
+      "artists": [
+        {
+          "name": "Blue Carbon",
+          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Daniel Aged",
-        "url": "https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Aged",
-          "url": "https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Bh",
-      "url": "https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Caisson",
         "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 469333,
       "name": "Caisson",
       "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Daniel Aged",
+        "url": "https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aged",
+          "url": "https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Bh",
+      "url": "https://open.spotify.com/track/5TKEFmm00kb1pGhbbrcMAJ"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Shadows (The Light of Light)",
-        "url": "https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2"
-      },
-      "artists": [
-        {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "Shadows (The Light of Light)",
-      "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Zorza",
         "url": "https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 336000,
       "name": "Zorza",
       "url": "https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Shadows (The Light of Light)",
+        "url": "https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2"
+      },
+      "artists": [
+        {
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "Shadows (The Light of Light)",
+      "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Longest Year (2020)",
-        "url": "https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 277199,
-      "name": "EveryWhen - Bonus Track",
-      "url": "https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Succour (Redux)",
         "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 393195,
       "name": "Monastic",
       "url": "https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Longest Year (2020)",
+        "url": "https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 277199,
+      "name": "EveryWhen - Bonus Track",
+      "url": "https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9"
     },
     {
       "added_at": "2023-04-21 14:41:23",

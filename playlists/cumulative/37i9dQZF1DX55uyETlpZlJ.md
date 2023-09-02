@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-169 songs - 9 hr 16 min
+170 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Insane](https://open.spotify.com/track/2lpDO8UTGW6CPEZE4y7vir) | [Sachin Suri](https://open.spotify.com/artist/6YY1ho1om7CaoKvvYc9Sw5) | [Insane](https://open.spotify.com/album/53V4IN0tZJE74Cxt3CIsOv) | 2:39 | 2023-04-12 | 2023-06-09 |
 | [Jagatthu](https://open.spotify.com/track/5ubqj7xBDKK8J9uAr9bs30) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/54X5dZUsZQTj6bJxFs4lg1), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Jagatthu](https://open.spotify.com/album/31GY7jUvoTbSneAchHuuMR) | 3:25 | 2023-01-12 | 2023-08-17 |
 | [Jagave Neenu Gelathiye \- From "Love 360"](https://open.spotify.com/track/0qOStIaAwFSH363kmoj5dD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Jagave Neenu Gelathiye \(From "Love 360"\)](https://open.spotify.com/album/4ymqUEcGQ11j0HrYrizvIs) | 4:10 | 2022-06-13 | 2023-06-10 |
+| [Kaaduvalavale](https://open.spotify.com/track/5AnZosJYFmi1kkh4LdVVEO) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kaaduvalavale](https://open.spotify.com/album/6w8fcNBCtvW5rtAnpoJyLv) | 4:04 | 2023-09-01 |  |
 | [Kaanada Manasige](https://open.spotify.com/track/7mtZbE8zeSCUtwXpqtO70N) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Ninagaagi](https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl) | 3:39 | 2023-06-27 |  |
 | [Kaanade \(feat\. Karna\)](https://open.spotify.com/track/5Y6CBJuvzdLv7s0sfH1DpP) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Kaanade \(feat\. Karna\)](https://open.spotify.com/album/2SXhcy1ti12xehLrFzrZmi) | 3:37 | 2023-05-25 | 2023-06-08 |
 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 | 2022-10-20 | 2023-08-17 |

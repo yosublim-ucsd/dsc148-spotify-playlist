@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13581,
+  "num_followers": 13584,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWU5ZGI2N2RkNTUzM2ZhYWU3NjI0ZTUwOGI4ODljMjg2ZTBjY2Jh",
+  "snapshot_id": "MCxkN2QxMTQwMDYwODVlNDQwOWZiYzQ4ZTEzNzE3YmUzZmI4NmQwMjYy",
   "tracks": [
     {
       "added_at": "2023-08-25 08:02:27",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-08-25 08:02:27",
       "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 423813,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
-    },
-    {
-      "added_at": "2023-08-25 08:02:27",
-      "album": {
         "name": "In a Deeper Sense",
         "url": "https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 288877,
       "name": "Spring Is in the Air",
       "url": "https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE"
+    },
+    {
+      "added_at": "2023-08-25 08:02:27",
+      "album": {
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 423813,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
     },
     {
       "added_at": "2023-08-25 08:02:27",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-08-25 08:02:27",
       "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "If You Never Fall in Love with Me",
-      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
-    },
-    {
-      "added_at": "2023-08-25 08:02:27",
-      "album": {
         "name": "Familiar Places",
         "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-08-25 08:02:27",
       "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "If You Never Fall in Love with Me",
+      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
+    },
+    {
+      "added_at": "2023-08-25 08:02:27",
+      "album": {
         "name": "Nobody Else But Me",
         "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
       },
@@ -511,26 +511,6 @@
       "duration_ms": 218746,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
-    },
-    {
-      "added_at": "2023-08-25 08:02:27",
-      "album": {
-        "name": "Sunset Bird",
-        "url": "https://open.spotify.com/album/5T8RbPb2QtCTkzYpeeRYqe"
-      },
-      "artists": [
-        {
-          "name": "Ola W Jansson",
-          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
-        },
-        {
-          "name": "W JAZZ TRIO",
-          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
-        }
-      ],
-      "duration_ms": 119887,
-      "name": "Sunset Bird",
-      "url": "https://open.spotify.com/track/64wBIhVs4h89Zd2jwuE1B1"
     },
     {
       "added_at": "2023-08-25 08:02:27",
@@ -567,6 +547,26 @@
       "duration_ms": 206680,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2023-08-25 08:02:27",
+      "album": {
+        "name": "Sunset Bird",
+        "url": "https://open.spotify.com/album/5T8RbPb2QtCTkzYpeeRYqe"
+      },
+      "artists": [
+        {
+          "name": "Ola W Jansson",
+          "url": "https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz"
+        },
+        {
+          "name": "W JAZZ TRIO",
+          "url": "https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA"
+        }
+      ],
+      "duration_ms": 119887,
+      "name": "Sunset Bird",
+      "url": "https://open.spotify.com/track/64wBIhVs4h89Zd2jwuE1B1"
     },
     {
       "added_at": "2023-08-25 08:02:27",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-25 08:02:27",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "There'll Be Another Spring",
-      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
-    },
-    {
-      "added_at": "2023-08-25 08:02:27",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 247149,
       "name": "When the Sun Comes Out",
       "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
+    },
+    {
+      "added_at": "2023-08-25 08:02:27",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "There'll Be Another Spring",
+      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
     },
     {
       "added_at": "2023-08-25 08:02:27",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-08-25 08:02:27",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 309706,
+      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "url": "https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU"
+    },
+    {
+      "added_at": "2023-08-25 08:02:27",
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 346154,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80"
-    },
-    {
-      "added_at": "2023-08-25 08:02:27",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 309706,
-      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
-      "url": "https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU"
     },
     {
       "added_at": "2023-08-25 08:02:27",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-08-25 08:02:27",
       "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 269856,
-      "name": "Promise of Spring",
-      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
-    },
-    {
-      "added_at": "2023-08-25 08:02:27",
-      "album": {
         "name": "Travelin'",
         "url": "https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
+    },
+    {
+      "added_at": "2023-08-25 08:02:27",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 269856,
+      "name": "Promise of Spring",
+      "url": "https://open.spotify.com/track/3RcPPbfrQQz5QupaiXxf4K"
     },
     {
       "added_at": "2023-08-25 08:02:27",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-25 08:02:27",
       "album": {
-        "name": "The Complete Bill Evans On Verve",
-        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
-    },
-    {
-      "added_at": "2023-08-25 08:02:27",
-      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 193000,
       "name": "My Shining Hour",
       "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
+    },
+    {
+      "added_at": "2023-08-25 08:02:27",
+      "album": {
+        "name": "The Complete Bill Evans On Verve",
+        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
     },
     {
       "added_at": "2023-08-25 08:02:27",

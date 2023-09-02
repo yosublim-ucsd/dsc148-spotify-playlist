@@ -3800,7 +3800,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173240,
       "name": "Greenlight",
       "url": "https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4"
@@ -7712,7 +7712,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 242266,
       "name": "Save A Kiss",
       "url": "https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7"
@@ -8824,6 +8824,24 @@
       "duration_ms": 201930,
       "name": "Tennis Club",
       "url": "https://open.spotify.com/track/2I4QyfxbaYASskhchbxsDw"
+    },
+    {
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
     },
     {
       "album": {
@@ -10404,6 +10422,24 @@
       "duration_ms": 230000,
       "name": "Your Shirt",
       "url": "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"
+    },
+    {
+      "album": {
+        "name": "Your Side of Town",
+        "url": "https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Your Side of Town",
+      "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
     },
     {
       "album": {

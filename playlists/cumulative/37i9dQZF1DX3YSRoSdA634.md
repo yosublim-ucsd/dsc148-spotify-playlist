@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-512 songs - 1 day 7 hr 24 min
+513 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Congratulations](https://open.spotify.com/track/7EHhEcu9tJWPZmlsNX4Gud) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Congratulations](https://open.spotify.com/album/7fSx6FtzpzX3wmAUORj0cP) | 3:52 | 2022-02-21 | 2022-07-29 |
 | [Consequences](https://open.spotify.com/track/7sTtHHrD0zDpmzQzH3zegz) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 2:58 | 2021-12-15 |  |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2022-06-24 |  |
-| [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2022-12-23 |  |
+| [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 | 2023-02-17 |  |
+| [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2022-12-23 | 2023-09-02 |
 | [Cry with you](https://open.spotify.com/track/46LAHXpuIUZ5kR7AyQ1qmd) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [CRUSHER](https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5) | 3:37 | 2022-07-01 | 2023-05-07 |
 | [Cry with you](https://open.spotify.com/track/0hqJxaNkPQ3sPm1tvfPlAe) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Cry with you](https://open.spotify.com/album/5glLEM78dvTDoN8MSjM241) | 3:37 | 2021-12-15 | 2022-07-29 |
 | [Crying Room](https://open.spotify.com/track/18ptv8Z3oMOkHs53w5Fb2l) | [Ocean Tisdall](https://open.spotify.com/artist/0khASnsotcq7HSvuUEaWkg) | [Crying Room](https://open.spotify.com/album/6x9RuUpZGnN6zmxmIwIjDe) | 2:49 | 2022-07-01 | 2022-07-29 |

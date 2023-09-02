@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Ricardo Mollo, Gustavo Santaolalla & Le\u00f3n Gieco.",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: La Franela",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 128597,
       "name": "Caer",
       "url": "https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm"
@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Conmigo",
+        "url": "https://open.spotify.com/album/2YBbMqoVXGVWZEutpP5ous"
+      },
+      "artists": [
+        {
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264188,
+      "name": "Conmigo",
+      "url": "https://open.spotify.com/track/54wyNTp0qU0qJ9xBk3brnN"
+    },
+    {
+      "album": {
         "name": "Consuelo Eterno",
         "url": "https://open.spotify.com/album/7gdS0noL8pkq65xl9qIcqo"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 229120,
       "name": "Cordura",
       "url": "https://open.spotify.com/track/68nH6WRy3SRUwXiEZqgeE3"
@@ -2074,6 +2092,24 @@
       "duration_ms": 218064,
       "name": "Lejos de Ac\u00e1",
       "url": "https://open.spotify.com/track/7I1bJimgthpduRHR4CIoKp"
+    },
+    {
+      "album": {
+        "name": "Llevo la Palabra",
+        "url": "https://open.spotify.com/album/5CEuuHQnySh405nqZ7Njzr"
+      },
+      "artists": [
+        {
+          "name": "Pez",
+          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181496,
+      "name": "Llevo la Palabra",
+      "url": "https://open.spotify.com/track/7D5JntNLDnWLe02CCm6C7O"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Sucessos Gospel](https://open.spotify.com/playlist/37i9dQZF1DX0OEZC3cbQmU)
 
-> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Gabriela Rocha
+> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Maria Marçal
 
-93 songs - 9 hr 21 min
+94 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Começo, Meio e Fim / Mais Perto Quero Estar \- Ao Vivo](https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Começo, Meio e Fim / Mais Perto Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E) | 5:37 | 2022-09-02 |  |
 | [Cuido dos Detalhes](https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Cuido dos Detalhes](https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp) | 3:33 | 2022-09-02 |  |
 | [De Dentro Pra Fora](https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora](https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI) | 5:07 | 2022-09-02 |  |
+| [Deixa](https://open.spotify.com/track/0EMf4CzvPd1z50iqRbmLfl) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deixa](https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI) | 4:08 | 2023-09-01 |  |
 | [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 | 2022-10-07 |  |
 | [Deus e Eu \- Ao Vivo](https://open.spotify.com/track/1Uan5GD1uZ1b6ivgt7ODsp) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Deus e Eu \(Ao Vivo\)](https://open.spotify.com/album/5J8hASVOsKFLqaQin10oab) | 3:59 | 2022-09-02 |  |
 | [Deus Emanuel](https://open.spotify.com/track/03SWHCfQMEKBcTd6E6jvgP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Emanuel](https://open.spotify.com/album/5yZ3LemPIfc59PbOqv0Gq4) | 5:16 | 2022-09-02 | 2023-06-03 |
@@ -44,7 +45,7 @@
 | [Eu Só Quero Tua Presença \(feat\. julliany souza & Léo Brandão\) \- Ao Vivo](https://open.spotify.com/track/5tXC0UDcn30Up1OqrlU1g2) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/1fLVegrXjjxyZywzrxu7Gp) | [Eu Só Quero Tua Presença \(feat\. julliany souza & Léo Brandão\) \[Ao Vivo\]](https://open.spotify.com/album/6g4lFluZQ5kzwyu6lnHZlD) | 9:58 | 2022-09-02 |  |
 | [Eu Te Vejo Em Tudo](https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 5:46 | 2022-09-02 |  |
 | [Eu Tenho Você](https://open.spotify.com/track/7HLxTNn9psg9mipna5QjIC) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Eu Tenho Você](https://open.spotify.com/album/0BepCUYcUCobNvuZ7IaSN8) | 6:34 | 2022-09-02 |  |
-| [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-02 |  |
+| [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-02 | 2023-09-02 |
 | [Fumaça \(Ao Vivo\)](https://open.spotify.com/track/6V37HbGkTESO25ksBhRIxf) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Fumaça \(Ao Vivo\)](https://open.spotify.com/album/2vbxSLyfnhIGgnrxmTZcbz) | 6:48 | 2022-09-02 | 2022-10-08 |
 | [Girassol](https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF) | [Girassol](https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO) | 3:44 | 2022-09-02 |  |
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 | 2022-09-02 |  |

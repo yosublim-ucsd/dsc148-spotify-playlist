@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-180 songs - 9 hr 32 min
+181 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/0KzCNeuMVGXbnMbjX6ilCU) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq) | 3:36 | 2022-05-06 | 2022-07-29 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-05-03 |  |
 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 | 2022-05-06 | 2022-05-20 |
+| [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-25 |  |
 | [Due Rose \(feat\. Enula\)](https://open.spotify.com/track/0G2pQQTsyYGkQf1CKUNIh4) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5), [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Due Rose \(feat\. Enula\)](https://open.spotify.com/album/77ybOU8dMAoaYdZLaf6Of4) | 3:03 | 2023-05-04 | 2023-06-30 |
 | [Duecentomila ore](https://open.spotify.com/track/5QcKmCvGDbMvbJQZh75YVd) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Duecentomila ore](https://open.spotify.com/album/7DZEFakK4SfIg3IbnVNta5) | 3:00 | 2022-05-06 | 2022-05-20 |
 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-07-14 |  |
@@ -92,7 +93,7 @@
 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 | 2022-07-14 |  |
 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2023-02-24 | 2023-06-24 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-14 |  |
-| [L'unica Cosa Che Vuoi](https://open.spotify.com/track/2xpD1wAwxj0wYbTGovkXUr) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [L'unica Cosa Che Vuoi](https://open.spotify.com/album/3exP1rqWrlQEdU9fQjhlc0) | 2:58 | 2023-05-25 |  |
+| [L'unica Cosa Che Vuoi](https://open.spotify.com/track/2xpD1wAwxj0wYbTGovkXUr) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [L'unica Cosa Che Vuoi](https://open.spotify.com/album/3exP1rqWrlQEdU9fQjhlc0) | 2:58 | 2023-05-25 | 2023-09-02 |
 | [LA CODA DEL DIAVOLO \(con ELODIE\)](https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 3:08 | 2022-05-06 | 2023-08-25 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-07-10 |  |
 | [LAUREA AD HONOREM \(feat\. Calcutta\)](https://open.spotify.com/track/0WgVvy1KelQxG6KBUukTWI) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:15 | 2022-05-06 | 2022-05-20 |

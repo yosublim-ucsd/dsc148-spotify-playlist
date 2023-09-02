@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Cover: Jessie Murph",
+  "description": "Country gone wild! You never know what you're gonna get. Cover: Alana Springsteen",
   "name": "Wild Country",
   "tracks": [
     {
@@ -1989,6 +1989,42 @@
     },
     {
       "album": {
+        "name": "DiCaprio",
+        "url": "https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM"
+      },
+      "artists": [
+        {
+          "name": "Jenna Davis",
+          "url": "https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186135,
+      "name": "DiCaprio",
+      "url": "https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m"
+    },
+    {
+      "album": {
+        "name": "Die A Redneck",
+        "url": "https://open.spotify.com/album/6bGSdECWT9XLnvxKQwk3XO"
+      },
+      "artists": [
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Die A Redneck",
+      "url": "https://open.spotify.com/track/10XXGAiyvIw44pztev49XJ"
+    },
+    {
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -2762,6 +2798,28 @@
       "duration_ms": 157431,
       "name": "Good Vibes Only",
       "url": "https://open.spotify.com/track/3Xnf9l8bZHtXxQf0CajdXh"
+    },
+    {
+      "album": {
+        "name": "TWENTY SOMETHING: Messing It Up",
+        "url": "https://open.spotify.com/album/1Uyc48o6p2Dv1RfyZYztFS"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "goodbye looks good on you (feat. Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/4K3tnAfDLPZPvc3lzsrjoq"
     },
     {
       "album": {

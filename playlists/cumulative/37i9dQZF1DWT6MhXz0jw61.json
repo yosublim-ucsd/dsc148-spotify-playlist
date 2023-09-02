@@ -1599,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151350,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY"
+    },
+    {
+      "album": {
         "name": "Highly Melanated",
         "url": "https://open.spotify.com/album/6bOigupnzRJacI4IHPiTVm"
       },
@@ -3812,7 +3830,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 136738,
       "name": "Enough",
       "url": "https://open.spotify.com/track/5Sl5t1EmMtNWAIbLUhKF3y"
@@ -5645,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/5aL6xOzowdFmEko0Kia4xG"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176529,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/4lLXZibm5kphBZ2UyYmHWV"
+    },
+    {
+      "album": {
         "name": "How It Coulda Been / My Life",
         "url": "https://open.spotify.com/album/6GZADmuCmkkVvePPhiXC2o"
       },
@@ -5880,6 +5916,32 @@
       "duration_ms": 150000,
       "name": "I Still Don't Cry",
       "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
+    },
+    {
+      "album": {
+        "name": "I Suppose",
+        "url": "https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "I Suppose",
+      "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
     },
     {
       "album": {
@@ -7487,6 +7549,32 @@
     },
     {
       "album": {
+        "name": "Mind My Business / Snakeskin",
+        "url": "https://open.spotify.com/album/6BQJQgieHCWJPwZU7FLx3V"
+      },
+      "artists": [
+        {
+          "name": "Wiley from Atlanta",
+          "url": "https://open.spotify.com/artist/6mkvJ6XHWVtPer8k0B0nTn"
+        },
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        },
+        {
+          "name": "DavidTheTragic",
+          "url": "https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213240,
+      "name": "Mind My Business",
+      "url": "https://open.spotify.com/track/5ngsokogDVOgcahInF7sZe"
+    },
+    {
+      "album": {
         "name": "Modern Adult",
         "url": "https://open.spotify.com/album/1cduwQxOILqf9njjk0Li09"
       },
@@ -7956,7 +8044,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 213489,
       "name": "No More Sad Songs",
       "url": "https://open.spotify.com/track/17GdYT2Z6dHFMOvyBjUpfv"
@@ -8128,7 +8216,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 275280,
       "name": "On The Radar Freestyle",
       "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
@@ -9368,7 +9456,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 114062,
       "name": "RESET!",
       "url": "https://open.spotify.com/track/33ZA2i4Dh28Org2WxZK1eg"
@@ -9504,7 +9592,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 114250,
       "name": "ROY G. BIV",
       "url": "https://open.spotify.com/track/3APxSP7BFQn3pjZxkggWH7"
@@ -10278,7 +10366,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 192130,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5CrRKZJNYgUk58YSvp1RHj"
@@ -10970,6 +11058,24 @@
       "duration_ms": 145042,
       "name": "The Code (feat. Mike Dimes)",
       "url": "https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c"
+    },
+    {
+      "album": {
+        "name": "Rap Pack",
+        "url": "https://open.spotify.com/album/4eSzb8mjYdg2geGovUPM89"
+      },
+      "artists": [
+        {
+          "name": "Jharrel Jerome",
+          "url": "https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165973,
+      "name": "The Cycle",
+      "url": "https://open.spotify.com/track/1O7dqqXIUCbm3WoeJKpVaZ"
     },
     {
       "album": {
@@ -11885,6 +11991,28 @@
     },
     {
       "album": {
+        "name": "The Elephant Man's Bones The ALC Edition",
+        "url": "https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151360,
+      "name": "Turkey Wings - Bonus Track",
+      "url": "https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C"
+    },
+    {
+      "album": {
         "name": "TV Boy",
         "url": "https://open.spotify.com/album/13qSQpWNff7wrA9oghJkJo"
       },
@@ -12254,7 +12382,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163285,
       "name": "Wavelength",
       "url": "https://open.spotify.com/track/71I898VJ6gVLQgkYxLuSO9"
@@ -12752,6 +12880,28 @@
       "duration_ms": 226115,
       "name": "Yungen (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
+    },
+    {
+      "album": {
+        "name": "Flying Objects",
+        "url": "https://open.spotify.com/album/2iyBzf6DkOwnAkxGsPv3tP"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63464,
+      "name": "Zelle Transfers",
+      "url": "https://open.spotify.com/track/2m5xBIsae4zLxMvSQyISiX"
     },
     {
       "album": {

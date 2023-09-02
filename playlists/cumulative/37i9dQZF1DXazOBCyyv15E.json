@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Deyaz",
+  "description": "The home of the best new alternative music. Cover: Slowdive",
   "name": "The Other List",
   "tracks": [
     {
@@ -448,6 +448,24 @@
       "duration_ms": 152483,
       "name": "5",
       "url": "https://open.spotify.com/track/0fXHgGZlCZfnrb3VFjxow1"
+    },
+    {
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181639,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
     },
     {
       "album": {
@@ -1164,6 +1182,24 @@
       "duration_ms": 192160,
       "name": "Alarms",
       "url": "https://open.spotify.com/track/43cNTR4dG6IbUb0F88pl4T"
+    },
+    {
+      "album": {
+        "name": "everything is alive",
+        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273492,
+      "name": "alife",
+      "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
     },
     {
       "album": {
@@ -3439,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
+    },
+    {
+      "album": {
         "name": "tainted in our memories",
         "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
       },
@@ -5051,6 +5105,28 @@
     },
     {
       "album": {
+        "name": "Cherry Delight",
+        "url": "https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy"
+      },
+      "artists": [
+        {
+          "name": "1000 Beasts",
+          "url": "https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Cherry Delight",
+      "url": "https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN"
+    },
+    {
+      "album": {
         "name": "Cherry Flavoured",
         "url": "https://open.spotify.com/album/0ZupZSrJqTChpZ5PMoBB0u"
       },
@@ -5268,7 +5344,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 213647,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp"
@@ -6694,7 +6770,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 227826,
       "name": "De Selby (Part 2)",
       "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
@@ -7973,6 +8049,24 @@
     },
     {
       "album": {
+        "name": "Dream Of Running",
+        "url": "https://open.spotify.com/album/2BnYtCdLlRB194dxqRUMcg"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177159,
+      "name": "Dream Of Running",
+      "url": "https://open.spotify.com/track/0ZPVC8O0fBlTq1dq7f9SHX"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
       },
@@ -8898,7 +8992,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202867,
       "name": "Famous Last Words (An Ode to Eaters)",
       "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
@@ -14422,7 +14516,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176522,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/6t1Irvbvz3xb71iaqsac10"
@@ -16239,6 +16333,24 @@
     },
     {
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/0YBjEXcSYKyZ1UGzTfvWEf"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243093,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/4VAzUwIL69PDIMjmhzBwMD"
+    },
+    {
+      "album": {
         "name": "Loneliness Pt. II",
         "url": "https://open.spotify.com/album/14EzL3QxMBzbzZdrjtFy31"
       },
@@ -17282,7 +17394,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 146766,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE"
@@ -19840,7 +19952,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
@@ -25958,6 +26070,24 @@
     {
       "album": {
         "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362973,
+      "name": "Stop Waiting",
+      "url": "https://open.spotify.com/track/1xbOdb9kv5YKBIzJSrKNEy"
+    },
+    {
+      "album": {
+        "name": "Bubblegum",
         "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
       },
       "artists": [
@@ -25968,7 +26098,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 362973,
       "name": "Stop Waiting",
       "url": "https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT"

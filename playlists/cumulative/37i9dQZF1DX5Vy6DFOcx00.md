@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,106 songs - 2 day 11 hr 27 min
+1,107 songs - 2 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,8 @@
 | [Cure For Me](https://open.spotify.com/track/4cNhoRXxvy8LNbTSlZEuP3) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr) | 3:21 | 2022-09-06 | 2022-09-15 |
 | [Cut My Fingers Off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [Cut My Fingers Off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-02-27 | 2022-03-24 |
 | [Dah Dah DahDah](https://open.spotify.com/track/2TSfStvlAMLw89u3tali79) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:31 | 2022-07-28 | 2022-10-28 |
-| [DANCE NOW](https://open.spotify.com/track/1L4ELcOBZDTTY5rYzqRR50) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DANCE NOW](https://open.spotify.com/album/5mGmhNRe6fpvNB9gYc4Bxz) | 2:10 | 2023-08-08 |  |
+| [DANCE NOW](https://open.spotify.com/track/1L4ELcOBZDTTY5rYzqRR50) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DANCE NOW](https://open.spotify.com/album/5mGmhNRe6fpvNB9gYc4Bxz) | 2:10 | 2023-08-08 | 2023-09-02 |
+| [DANCE NOW](https://open.spotify.com/track/7gRCPtRMklWpshLl559n21) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [DANCE NOW](https://open.spotify.com/album/33QY6ZHO9BxYgAbl4kiMgD) | 2:10 | 2023-08-08 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-20 |  |
 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 | 2022-03-31 | 2022-04-08 |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2021-11-08 | 2022-06-21 |

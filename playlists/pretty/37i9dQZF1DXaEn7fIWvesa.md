@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con El Micha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,506 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 22 | [Háblame de Miami](https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Háblame de Miami](https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE) | 2:38 |
 | 23 | [Southwezzzt](https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Yonki](https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Southwezzzt](https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi) | 3:07 |
 | 24 | [Todo Está Ok](https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Todo Está Ok](https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK) | 3:34 |
-| 25 | [Funimate \- Prod\. by Ernesto Losa](https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [Pokercito](https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Funimate \(Prod\. by Ernesto Losa\)](https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9) | 3:15 |
-| 26 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 25 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
+| 26 | [Funimate \- Prod\. by Ernesto Losa](https://open.spotify.com/track/3yGujUHHB1n3ZZw0VuERiL) | [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG), [Pokercito](https://open.spotify.com/artist/0HEBlBt0wpPln5krAyG0B4), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [Funimate \(Prod\. by Ernesto Losa\)](https://open.spotify.com/album/2dgkWbSbEGmiOERvceGOu9) | 3:15 |
 | 27 | [Piña Colada](https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw) | [Orlenis 22k](https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s), [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG) | [Piña Colada](https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E) | 3:02 |
 | 28 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
 | 29 | [La Que Quiero Yo](https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Que Quiero Yo](https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 | 50 | [El Campeón](https://open.spotify.com/track/4vUcoqQTwNQkkzb73UYh3L) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9), [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8) | [El Campeón](https://open.spotify.com/album/2wVjbn3TSUBnPOfvsiEbwV) | 2:48 |
 
-Snapshot ID: `MCxjMjRkZjY2NmUwODUzY2M1NjE1ZDAxOTI3ZDRiNjliY2YxMjM1OWVl`
+Snapshot ID: `MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh`

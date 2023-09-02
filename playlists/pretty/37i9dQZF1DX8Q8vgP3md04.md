@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,968 likes - 60 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,982 likes - 60 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 5 | [Amsaya](https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Qitsbet](https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y) | 4:12 |
 | 6 | [Baby I Like You](https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN) | [Mikael](https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK) | [Baby I Like You](https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf) | 1:55 |
 | 7 | [Tewedaj](https://open.spotify.com/track/4FHNogeGpRbEFRlLCqw1GH) | [Haleluya Tekletsadik](https://open.spotify.com/artist/4ZpsiP2o6O2aNe2E7Kk9Ke) | [Tewedaj, Vol\. 1](https://open.spotify.com/album/6xDnveRco4B2JmHZdJeV6W) | 3:26 |
-| 8 | [Eregnaye](https://open.spotify.com/track/7ypVDpwS7wfIss9W8F3kZK) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ), [Girma Tefera](https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6) | [Eregnaye](https://open.spotify.com/album/5txMikXdaVUvDjzmOAuMe9) | 5:09 |
+| 8 | [Eregnaye](https://open.spotify.com/track/6Iki5Wkf0HQDsWCyo4c5u8) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ), [Girma Tefera](https://open.spotify.com/artist/1dmAk6wk38badxBpqhLfM6) | [Eregnaye](https://open.spotify.com/album/4bb71Vk2GN2UM3gb2hR2DI) | 5:09 |
 | 9 | [Kochegn](https://open.spotify.com/track/6Z0S4N9qluFRoYFcjQyV3H) | [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Kochegn](https://open.spotify.com/album/1YOB2u3doahWCiLxuI0FEO) | 4:10 |
 | 10 | [123](https://open.spotify.com/track/1ndWXkJUryhxsTjyMWL58l) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Asira Andu Getsoche](https://open.spotify.com/album/27bquKGjQcjSFpBk5ybE3H) | 4:33 |
 | 11 | [Bayish](https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T) | [Dagi D](https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp) | [Bayish](https://open.spotify.com/album/1O5cvXeKsXahndfs5KDAnA) | 4:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 59 | [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 |
 | 60 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 |
 
-Snapshot ID: `MCxmZjBmOGY3YzBiOTJmODUwNmZhY2FmZTE4MmY0MTQzNjY5MDJmMWI1`
+Snapshot ID: `MCw0MzRhNWY5NmFiOGQ1MzZmNmNlNDY5MjgzNzc3ZWVmNmJjNWRiY2I0`

@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Friday Night",
+        "url": "https://open.spotify.com/album/3nDSqKrO5YcHjZzT2q7HO5"
+      },
+      "artists": [
+        {
+          "name": "Lavish Life",
+          "url": "https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/16CoJMdBSUp0Dxd8wZdO1a"
+    },
+    {
+      "album": {
         "name": "Giddy Up!",
         "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
       },

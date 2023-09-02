@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,427 likes - 52 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,460 likes - 52 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 9 | [Home Tonight \- Extended Version](https://open.spotify.com/track/7pdftgvGvCbBctYxPWZgf1) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Grace Hall](https://open.spotify.com/artist/3k8eudFifqO12gm5rn4PNQ) | [Home Tonight](https://open.spotify.com/album/4E3B3fOkXUHQX0rJY4IGpS) | 9:13 |
 | 10 | [Jardin](https://open.spotify.com/track/0gH5lfBCMOc2GlAzTxDlSg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [Visit](https://open.spotify.com/album/5ir5zSNtzjdERzbx5tHFiU) | 4:52 |
 | 11 | [Mutante \- Gui Boratto Rework](https://open.spotify.com/track/6pfGxlp0yBwaydQft6qvCr) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Rita Lee & Roberto – Classix Remix Vol\. l](https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm) | 8:19 |
-| 12 | [Claudi](https://open.spotify.com/track/5oVbaTDGaCgaaVYk2jHUdy) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 2:54 |
+| 12 | [Claudi](https://open.spotify.com/track/3g8DDnbpzFbcYdZEOzhhdF) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 2:54 |
 | 13 | [Venus](https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:07 |
 | 14 | [Erotic City \- Let's Go Crazy 7" B\-Side Edit; 2017 Remaster](https://open.spotify.com/track/4pkEET0wXNNY5o61lVK5FF) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 3:56 |
 | 15 | [Neunivai \- Original Mix](https://open.spotify.com/track/3S8gi2Vq1t8bKysBJ4783m) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/7l228NGTYSldObg2XLzCfS) | 7:18 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 51 | [Change](https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Change](https://open.spotify.com/album/6XPbirRQZpjKJLMW8GhtkB) | 3:21 |
 | 52 | [Ghosts Again](https://open.spotify.com/track/3p5JD79PQP737dyEY2hnmf) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:58 |
 
-Snapshot ID: `MCw1NDk4YmJjM2EyODE5YmJkZTMzNjQ1OTE1YmZkYjA2N2VmMDhiOTk0`
+Snapshot ID: `MCw1NzkxYTJkODA2NmViZWVhMGU1M2RjNzViMWNkMzNiMjA4ZjI3MDk5`

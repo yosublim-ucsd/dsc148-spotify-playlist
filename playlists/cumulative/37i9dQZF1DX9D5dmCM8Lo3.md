@@ -4,7 +4,7 @@
 
 > would you like to save before closing?
 
-116 songs - 5 hr 43 min
+117 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [C3L3STIAL\_CITY](https://open.spotify.com/track/7qfIfb1Wh9K1gVsVzz99jx) | [bliss3three](https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI) | [C3L3STIAL天の](https://open.spotify.com/album/6yiGXFTyMYPu8EabAjSaud) | 1:08 | 2022-03-02 |  |
 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 | 2022-03-02 |  |
 | [Counting All The Starfish](https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb) | [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Rose Gold \(Deluxe\)](https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr) | 3:00 | 2022-03-02 |  |
+| [Cyan Hardcore](https://open.spotify.com/track/3tHuc2GGxetquuJKCleNmK) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/5BPW34xVtNwez7rVSjWQB3) | 5:05 | 2023-07-18 |  |
 | [Cyan Hardcore](https://open.spotify.com/track/5DbCXRs5PXXDgFrsdzjGDg) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 5:05 | 2022-03-02 | 2023-08-24 |
 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 | 2022-03-02 |  |
 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 | 2022-03-02 |  |
@@ -114,7 +115,7 @@
 | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Temptation Stairway \(Waltz Variation\)](https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME) | 1:46 | 2022-03-02 |  |
 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 | 2022-03-03 |  |
 | [Through The Hosiery](https://open.spotify.com/track/3YUjN9dnrtUZlvFe0K6xLL) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/5nM3cUPxqg7iqjaoyeCWtN) | 3:06 | 2022-03-02 | 2022-07-02 |
-| [Through The Hosiery](https://open.spotify.com/track/6pGxDQNsAzAXSTM36XEG4U) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 3:06 | 2022-03-02 |  |
+| [Through The Hosiery](https://open.spotify.com/track/6pGxDQNsAzAXSTM36XEG4U) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 3:06 | 2022-03-02 | 2023-09-02 |
 | [Triple Helix](https://open.spotify.com/track/2tqObZaOXyL8KKSME0nmxT) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Levitate](https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM) | 3:35 | 2022-03-02 | 2023-06-13 |
 | [ultra](https://open.spotify.com/track/60aMDjOxTTjf3UJp1SElQd) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [ultra](https://open.spotify.com/album/6PBMIPRU5YjTjQdlcHdssk) | 1:24 | 2023-06-12 |  |
 | [Visualizer.Eden](https://open.spotify.com/track/5vweEhyO7Am4GGXrhHvShK) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [Visualizer.Eden](https://open.spotify.com/album/1TQsuV5vpKEadjNeii5ULn) | 3:51 | 2022-03-02 | 2022-07-29 |

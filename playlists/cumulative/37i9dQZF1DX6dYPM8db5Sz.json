@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL?si=mKOWBBpATXuts_bjK1xP5w\">Internet Girl</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq?si=F1OmdWA6T0OVfPqfaCx3Qg\">The Plastics</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Amplified",
+        "url": "https://open.spotify.com/album/1xUtyGK2EC9lMtx54FpI4c"
+      },
+      "artists": [
+        {
+          "name": "Thara",
+          "url": "https://open.spotify.com/artist/71AA4Rd7e9VJ3M52B2jzvU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202676,
+      "name": "Amplified",
+      "url": "https://open.spotify.com/track/7iAvEBj3p8VtXmMd68jdQx"
+    },
+    {
+      "album": {
         "name": "Appaloosa Bones",
         "url": "https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 239480,
       "name": "Appaloosa Bones",
       "url": "https://open.spotify.com/track/03IAVdKpjqqIjNUxZRHywy"
@@ -590,7 +608,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186382,
       "name": "bad for you",
       "url": "https://open.spotify.com/track/1ZDT1Iz7AmTAeLEzVjlXzc"
@@ -833,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Black Out Baby",
+        "url": "https://open.spotify.com/album/5wC5SiibVhS1ChLRj8OFRX"
+      },
+      "artists": [
+        {
+          "name": "Katy Hallauer",
+          "url": "https://open.spotify.com/artist/7g1bTthu5ETWFuq5igUMRm"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209812,
+      "name": "Black Out Baby",
+      "url": "https://open.spotify.com/track/6zh4KcGIZcHJ24wSiBq5eZ"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/67ECqw3BYzNRrSbRQ02eZ1"
       },
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 275533,
       "name": "Broken Men Break Hearts",
       "url": "https://open.spotify.com/track/1IteeLB8afKqgGWmwHCRh7"
@@ -1556,6 +1592,24 @@
       "duration_ms": 217829,
       "name": "Countryside",
       "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
+    },
+    {
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/0NuTrWehqrVHi5jU3Da63g"
+      },
+      "artists": [
+        {
+          "name": "The Plastics",
+          "url": "https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/2Umbg5vbB11Ljyk8hSck9j"
     },
     {
       "album": {
@@ -2583,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Games Night",
+        "url": "https://open.spotify.com/album/31oy4HFSd7E3t0CnGKYcZi"
+      },
+      "artists": [
+        {
+          "name": "Local Neighbour",
+          "url": "https://open.spotify.com/artist/4zMdLoGXWkdYvVNPN6HGqR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243377,
+      "name": "Games Night",
+      "url": "https://open.spotify.com/track/5qWC2QEfRsTp6UE9NPNu2y"
+    },
+    {
+      "album": {
         "name": "Gaslight (Caught Fire)",
         "url": "https://open.spotify.com/album/1n2H1RFsKWsALRmyz1tewi"
       },
@@ -2616,6 +2688,24 @@
       "duration_ms": 207439,
       "name": "ghost in the machine",
       "url": "https://open.spotify.com/track/6g26JrVvHq2JTviCK8Rov2"
+    },
+    {
+      "album": {
+        "name": "give",
+        "url": "https://open.spotify.com/album/3PEAnGvmd5uaPsAOWlLITK"
+      },
+      "artists": [
+        {
+          "name": "Lyssa Heyman",
+          "url": "https://open.spotify.com/artist/4ZJfrvm7c4gAWHOgBYGiLO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186962,
+      "name": "give",
+      "url": "https://open.spotify.com/track/0NLhvK9vUSITapD6YHqR3c"
     },
     {
       "album": {
@@ -3803,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "L.U.V.",
+        "url": "https://open.spotify.com/album/66DOu9jFEcZSEX8Bz8G7Qy"
+      },
+      "artists": [
+        {
+          "name": "Shaun Orlando Berry",
+          "url": "https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "L.U.V.",
+      "url": "https://open.spotify.com/track/0iWnUctGC5Ts0BmqP5zv3D"
+    },
+    {
+      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -4099,6 +4207,32 @@
     },
     {
       "album": {
+        "name": "Love Me Then Die",
+        "url": "https://open.spotify.com/album/6ujv9y19zQs49ARD6pNZRu"
+      },
+      "artists": [
+        {
+          "name": "The Meister",
+          "url": "https://open.spotify.com/artist/1CgnbZB3Fo0TyWeU3BVtSH"
+        },
+        {
+          "name": "Louie Van Wolf",
+          "url": "https://open.spotify.com/artist/0V3OJ2G59WUnkBJkrRSTe2"
+        },
+        {
+          "name": "LyndaWrighter",
+          "url": "https://open.spotify.com/artist/3XnNsPUDX0odgc80emdfrW"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268604,
+      "name": "Love Me Then Die",
+      "url": "https://open.spotify.com/track/2l8bDo9IbKMCnnMs4T5rhR"
+    },
+    {
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/5K5weaJCO4Nno8yI2mm4Ev"
       },
@@ -4212,7 +4346,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 194666,
       "name": "maya",
       "url": "https://open.spotify.com/track/71bWLot6VTOixr4y5NKpod"
@@ -4288,6 +4422,24 @@
       "duration_ms": 177433,
       "name": "MESSED UP KIDS",
       "url": "https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/1bjuw3TAOwpLpCUGMUtToX"
+      },
+      "artists": [
+        {
+          "name": "Tessi Nandi",
+          "url": "https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244690,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/5vK9xSL7EHnUcWuaZJ9xLd"
     },
     {
       "album": {
@@ -5444,7 +5596,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 197203,
       "name": "Purple Moon",
       "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
@@ -6126,7 +6278,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
@@ -6346,10 +6498,36 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 214319,
       "name": "Soulution",
       "url": "https://open.spotify.com/track/17TVv0cnaYnwEZ2qTDnILA"
+    },
+    {
+      "album": {
+        "name": "Stagefright",
+        "url": "https://open.spotify.com/album/3pHBAx4it2Z9LlqSJGJF4j"
+      },
+      "artists": [
+        {
+          "name": "Kabaal Klankbaan",
+          "url": "https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb"
+        },
+        {
+          "name": "King Nqoba",
+          "url": "https://open.spotify.com/artist/2fiSOtpmdQoWLpf3IkSZgr"
+        },
+        {
+          "name": "Gil Hockman",
+          "url": "https://open.spotify.com/artist/4zlyea5wf3baPSMG7gsNMQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252354,
+      "name": "Stagefright (Self-Help Rock Remix)",
+      "url": "https://open.spotify.com/track/1BSxdzz3UsQ9LK8ZEYBTAf"
     },
     {
       "album": {
@@ -6895,6 +7073,24 @@
     },
     {
       "album": {
+        "name": "The Phoenix",
+        "url": "https://open.spotify.com/album/4Bt6P8MUACJ5f3oGSZ6hAb"
+      },
+      "artists": [
+        {
+          "name": "Golden Blue",
+          "url": "https://open.spotify.com/artist/6IPUSjbmivAym8Q1pj9yvc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "The Phoenix",
+      "url": "https://open.spotify.com/track/6wUrwv6uO6roQ1OUQrLnFW"
+    },
+    {
+      "album": {
         "name": "The Spin Astride",
         "url": "https://open.spotify.com/album/32DFbEpkONRG857qUTfPGL"
       },
@@ -7364,7 +7560,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 232849,
       "name": "Typical You",
       "url": "https://open.spotify.com/track/0ZwVaJ5qhu21pEc9dQkeFa"
@@ -7490,7 +7686,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 204923,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/5BenD5bE1L6gX4auqfEDov"
@@ -7722,7 +7918,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 235800,
       "name": "We Will Meet Again",
       "url": "https://open.spotify.com/track/7EZk8tmByNxbkr3oRNG369"
@@ -7874,6 +8070,24 @@
       "duration_ms": 212713,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y"
+    },
+    {
+      "album": {
+        "name": "Why Do You Care",
+        "url": "https://open.spotify.com/album/6pjUk8rWTphN4DsBtgIVhN"
+      },
+      "artists": [
+        {
+          "name": "COOL BOY",
+          "url": "https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196007,
+      "name": "Why Do You Care",
+      "url": "https://open.spotify.com/track/5DOXhBq8DjaMDzWdvYsjg3"
     },
     {
       "album": {
@@ -8054,7 +8268,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 269799,
       "name": "Wrenbird",
       "url": "https://open.spotify.com/track/4F1NmFzC3OTampNIU4qLuI"
@@ -8108,7 +8322,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 142736,
       "name": "You too hot for this shit",
       "url": "https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC"
@@ -8170,6 +8384,24 @@
       "duration_ms": 183174,
       "name": "You're over Me",
       "url": "https://open.spotify.com/track/4s3IyR6U98K18L5Fw5YrxG"
+    },
+    {
+      "album": {
+        "name": "You've Been On My Mind",
+        "url": "https://open.spotify.com/album/5yj3b959cOSR2JGaiPqPxH"
+      },
+      "artists": [
+        {
+          "name": "Rhys Davids",
+          "url": "https://open.spotify.com/artist/3zkCmXCBcpPtF3UqPTNMNv"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141035,
+      "name": "You've Been On My Mind",
+      "url": "https://open.spotify.com/track/0S4nrCR1kjMp8y32OEd5Ch"
     },
     {
       "album": {

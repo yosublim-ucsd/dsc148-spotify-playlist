@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bush",
+  "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Guns n' Roses",
   "name": "Volume M\u00e1ximo",
   "tracks": [
     {
@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/7rD6S3nfNwM3PoVUUAsKsW"
+      },
+      "artists": [
+        {
+          "name": "Skip the Use",
+          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
+        },
+        {
+          "name": "Youv Dee",
+          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201305,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW"
+    },
+    {
+      "album": {
         "name": "Call Me When You're Sober",
         "url": "https://open.spotify.com/album/5tLkjzHBkzgRH7am21Phmi"
       },
@@ -1336,6 +1358,24 @@
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
+    },
+    {
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO"
+      },
+      "artists": [
+        {
+          "name": "Edu Falaschi",
+          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637653,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/0tBIEhBNgEAbk5H7orYmi8"
     },
     {
       "album": {
@@ -2560,7 +2600,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
@@ -3400,7 +3440,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
@@ -3494,6 +3534,24 @@
       "duration_ms": 321710,
       "name": "Sacred The Thread",
       "url": "https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl"
+    },
+    {
+      "album": {
+        "name": "Sad Song",
+        "url": "https://open.spotify.com/album/71PTt2kbw3q1lb6YeMqyiF"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203545,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/4hOC8bCq6Zz90K5kXEQvyv"
     },
     {
       "album": {
@@ -4706,7 +4764,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 256741,
       "name": "Welcome To The Circus",
       "url": "https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY"

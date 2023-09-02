@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "AT WHAT COST?",
+        "url": "https://open.spotify.com/album/3GkYOJW5mbaUCSUpN2cQI4"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159918,
+      "name": "AT WHAT COST?",
+      "url": "https://open.spotify.com/track/2ktPib6e7LCnHX4LZECEyG"
+    },
+    {
+      "album": {
         "name": "B.B. King Freestyle",
         "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
       },
@@ -1926,6 +1944,24 @@
       "duration_ms": 185924,
       "name": "Black Iverson",
       "url": "https://open.spotify.com/track/3sLNEWdnPH6ML05Z8wFZhM"
+    },
+    {
+      "album": {
+        "name": "Black Truck",
+        "url": "https://open.spotify.com/album/4ZawUvODH9E2hA6UOLlUQy"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155380,
+      "name": "Black Truck",
+      "url": "https://open.spotify.com/track/3aOubX8YTVByNPQrqw6ZzK"
     },
     {
       "album": {
@@ -3218,7 +3254,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182781,
       "name": "CRAZY GIRL P2 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/1MoxBQxwPAiQKlRQ4BV9MB"
@@ -4578,7 +4614,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 162373,
       "name": "Far Down",
       "url": "https://open.spotify.com/track/1V3pE4gh4dA3h0KmijMXBD"
@@ -4950,7 +4986,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 192727,
       "name": "Flooded The Face",
       "url": "https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa"
@@ -5009,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "Flowers!",
+        "url": "https://open.spotify.com/album/0rOJqOs5SZZm63oZDvLNFU"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Flowers!",
+      "url": "https://open.spotify.com/track/5hUWDfvdFgWCmmv8HWSi18"
+    },
+    {
+      "album": {
         "name": "Rocket Power",
         "url": "https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf"
       },
@@ -5028,6 +5082,28 @@
       "duration_ms": 237402,
       "name": "Focused (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3fX6IqwpcIYjyJwQFdJF8c"
+    },
+    {
+      "album": {
+        "name": "For You (feat. TaTa)",
+        "url": "https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119274,
+      "name": "For You (feat. TaTa)",
+      "url": "https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV"
     },
     {
       "album": {
@@ -10254,7 +10330,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 102631,
       "name": "On The Radar Freestyle",
       "url": "https://open.spotify.com/track/6jaf7Il3LkGkR0jMYmBXtv"
@@ -11767,6 +11843,24 @@
     },
     {
       "album": {
+        "name": "Rando",
+        "url": "https://open.spotify.com/album/0P3dUxAJt3pqhkKgaToEmD"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96522,
+      "name": "Rando",
+      "url": "https://open.spotify.com/track/6Wo5QX4i3imhftyKOYUZjI"
+    },
+    {
+      "album": {
         "name": "ROTY",
         "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
       },
@@ -12580,7 +12674,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 124805,
       "name": "SHAKE SUMN",
       "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"

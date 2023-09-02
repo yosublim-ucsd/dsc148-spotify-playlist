@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 65478,
+  "num_followers": 65522,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTA3ZTJhNTM5NGFkZTU2ODkxYjlkODE4NGEyMDEzMzRkN2ZkMzkw",
+  "snapshot_id": "MCw5OTM4MTQ0OTU2NTc2YTczYmJmYjEwOGU1Mjc2ZTYyMWUyMzE2Yzhm",
   "tracks": [
     {
       "added_at": "2023-08-11 03:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "La Flor Azul",
-      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Si La Vieras",
         "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 226750,
       "name": "Si La Vieras",
       "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Codigo de Barro",
-        "url": "https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 313080,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Hablan de Ti",
         "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 242684,
       "name": "Hablan de Ti",
       "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Codigo de Barro",
+        "url": "https://open.spotify.com/album/0K93fTicVZxSDToZ0wwQDL"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 313080,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Retiro al Norte",
-        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
         }
       ],
-      "duration_ms": 213533,
-      "name": "Rubia Morena",
-      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
+      "duration_ms": 229642,
+      "name": "Canci\u00f3n de Lejos",
+      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
+        "name": "Retiro al Norte",
+        "url": "https://open.spotify.com/album/0aPTD6OKAie96jT6q8qFYf"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Rubia Morena",
+      "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
         "name": "Andando",
         "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 184346,
       "name": "Para Los Ojos M\u00e1s Bellos",
       "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 229642,
-      "name": "Canci\u00f3n de Lejos",
-      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 183866,
       "name": "La Guada",
       "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
     },
     {
       "added_at": "2023-08-11 03:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-08-11 03:00:00",
       "album": {
-        "name": "Ansiado Encuentro",
-        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
-      },
-      "artists": [
-        {
-          "name": "ALEJANDRO FARIAS",
-          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
-        },
-        {
-          "name": "La Eulogia Folk",
-          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
-        }
-      ],
-      "duration_ms": 275563,
-      "name": "Ansiado Encuentro",
-      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
-    },
-    {
-      "added_at": "2023-08-11 03:00:00",
-      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 278733,
       "name": "Tonada del viejo amor",
       "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
+    },
+    {
+      "added_at": "2023-08-11 03:00:00",
+      "album": {
+        "name": "Ansiado Encuentro",
+        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
+      },
+      "artists": [
+        {
+          "name": "ALEJANDRO FARIAS",
+          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
+        },
+        {
+          "name": "La Eulogia Folk",
+          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
+        }
+      ],
+      "duration_ms": 275563,
+      "name": "Ansiado Encuentro",
+      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

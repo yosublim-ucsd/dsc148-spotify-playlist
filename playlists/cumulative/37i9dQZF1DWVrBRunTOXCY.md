@@ -2,7 +2,7 @@
 
 ### [Summer Hits UK 2023](https://open.spotify.com/playlist/37i9dQZF1DWVrBRunTOXCY)
 
-> The sound of summer 2023! Cover: Chase & Status + Bou
+> The sound of summer 2023! Cover: Joel Corry + MK + Rita Ora
 
 167 songs - 8 hr 27 min
 

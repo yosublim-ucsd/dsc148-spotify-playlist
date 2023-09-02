@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today. Cover: Buck Meek",
+  "description": "The best in folk & acoustic today. Cover: Beirut",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -1288,6 +1288,24 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/63q3GlHZstxXzfb0zt7ZYY"
+    },
+    {
+      "album": {
+        "name": "Broken Sky / It Takes Me Back",
+        "url": "https://open.spotify.com/album/6CTPYg4bUm19T50eRleWnD"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "Broken Sky",
+      "url": "https://open.spotify.com/track/09Acpmydc7iDDJeAos8gUL"
     },
     {
       "album": {
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 259682,
       "name": "Haunted Mountain",
       "url": "https://open.spotify.com/track/2mw3Lp2sOvvTfZR6EqHuMk"
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 295813,
       "name": "Hurts so Good",
       "url": "https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T"
@@ -4678,7 +4696,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 188000,
       "name": "Midnight Game",
       "url": "https://open.spotify.com/track/3koKt6S80gDVtlw4mn6d8o"
@@ -4822,7 +4840,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173000,
       "name": "Mother",
       "url": "https://open.spotify.com/track/67tPIfy0LupBLMZMcLphtv"
@@ -5086,6 +5104,24 @@
       "duration_ms": 194413,
       "name": "Now You Know",
       "url": "https://open.spotify.com/track/7bmitV7MwnQeTSkv9nhFli"
+    },
+    {
+      "album": {
+        "name": "Jump for Joy",
+        "url": "https://open.spotify.com/album/7lYiPw3WutdJKdKdpPFD1s"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208006,
+      "name": "Nu-Grape",
+      "url": "https://open.spotify.com/track/2lHavDhFoVwqspUakBUCZe"
     },
     {
       "album": {
@@ -6251,6 +6287,24 @@
     },
     {
       "album": {
+        "name": "So Many Plans",
+        "url": "https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227685,
+      "name": "So Many Plans",
+      "url": "https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc"
+    },
+    {
+      "album": {
         "name": "Something About What Happens When We Talk",
         "url": "https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3"
       },
@@ -6988,7 +7042,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 297720,
       "name": "The Sweet Sound of You",
       "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
@@ -7262,6 +7316,24 @@
       "duration_ms": 241173,
       "name": "tidal wave",
       "url": "https://open.spotify.com/track/3Dy2LYjKKuLxRbIg8uoEh8"
+    },
+    {
+      "album": {
+        "name": "June's Stolen Car",
+        "url": "https://open.spotify.com/album/1cXyje7UHXdXmEzAf1wDgb"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "Till the Flame Turns Blue",
+      "url": "https://open.spotify.com/track/1lvukDOJDX9NznWnin7Az5"
     },
     {
       "album": {

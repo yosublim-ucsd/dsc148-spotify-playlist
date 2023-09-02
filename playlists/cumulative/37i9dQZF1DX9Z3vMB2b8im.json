@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Are You Awake?",
+        "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224429,
+      "name": "Are You Awake?",
+      "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
+    },
+    {
+      "album": {
         "name": "Baghdad",
         "url": "https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk"
       },
@@ -333,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/58GJ648X070rfl1apkW3MT"
+      },
+      "artists": [
+        {
+          "name": "Fran Lusty",
+          "url": "https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227497,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe"
+    },
+    {
+      "album": {
         "name": "Builder Boy",
         "url": "https://open.spotify.com/album/6vSdbAoBBwvffyjs4w1jts"
       },
@@ -384,7 +420,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 171998,
       "name": "Bygone",
       "url": "https://open.spotify.com/track/3HIKGBx8u4F8o5kLyPmnez"
@@ -1107,6 +1143,28 @@
     },
     {
       "album": {
+        "name": "Half of Mine",
+        "url": "https://open.spotify.com/album/5vn826N8Fxt4E0DKvEnwX6"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        },
+        {
+          "name": "Tarian",
+          "url": "https://open.spotify.com/artist/7h5vyR4LxVT0UZLBMcT59P"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Half of Mine",
+      "url": "https://open.spotify.com/track/0jk9fGjCcebNf4TfrJBMl0"
+    },
+    {
+      "album": {
         "name": "Sunshine on a Cloudy Day",
         "url": "https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz"
       },
@@ -1689,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "It Takes Time",
+        "url": "https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U"
+      },
+      "artists": [
+        {
+          "name": "Fairhazel",
+          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200016,
+      "name": "It Takes Time",
+      "url": "https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS"
+    },
+    {
+      "album": {
         "name": "Human Again",
         "url": "https://open.spotify.com/album/2aiablb9OlYooQGVNylgid"
       },
@@ -1870,7 +1946,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 238253,
       "name": "Letter to the Boy",
       "url": "https://open.spotify.com/track/24j6YXFaOkhGreq618nvtW"
@@ -1946,6 +2022,24 @@
       "duration_ms": 237386,
       "name": "Lonely Star",
       "url": "https://open.spotify.com/track/7Amz41doI0DKoXLrF0KvYK"
+    },
+    {
+      "album": {
+        "name": "Look Mom I Made It",
+        "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
+      },
+      "artists": [
+        {
+          "name": "Annika Kilkenny",
+          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "Look Mom I Made It",
+      "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
     },
     {
       "album": {
@@ -2216,7 +2310,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 195642,
       "name": "nobody but me - postcards version",
       "url": "https://open.spotify.com/track/2vreSdaWBoscTQeeVi4YnP"
@@ -2826,7 +2920,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 221325,
       "name": "Signal",
       "url": "https://open.spotify.com/track/6rikEM69mB0exCyb5JRbNE"
@@ -2844,7 +2938,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 218250,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH"
@@ -3039,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
+    },
+    {
+      "album": {
         "name": "The Art Of Getting By",
         "url": "https://open.spotify.com/album/6d9GmtcPSlsisDsJJbfQTy"
       },
@@ -3176,7 +3288,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 150929,
       "name": "The World Seen Through Your Eyes",
       "url": "https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 213849,
+  "num_followers": 213943,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTk4NmJkZjVmM2EzNWU5ODMyZDc1YzNkODcyZmYxMjdhOGEwOTlm",
+  "snapshot_id": "MCw0NDNjZWUxZDFhNmYwZDNlOTQ4NDRiZWRkNTgwNTU2NTkxYjNkNTMx",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "Si Supieras",
         "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 241880,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Copas",
-        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 237388,
-      "name": "Copas",
-      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Copas",
+        "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 237388,
+      "name": "Copas",
+      "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1503,30 +1503,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Prende la C\u00e1mara RMX",
-        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 212629,
-      "name": "Prende la C\u00e1mara RMX",
-      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Pichaera",
         "url": "https://open.spotify.com/album/20uPsnEFa0sfIWOycOvwL6"
       },
@@ -1547,6 +1523,30 @@
       "duration_ms": 246510,
       "name": "Pichaera",
       "url": "https://open.spotify.com/track/3cByks7G0z4nIpcir5awmb"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Prende la C\u00e1mara RMX",
+        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 212629,
+      "name": "Prende la C\u00e1mara RMX",
+      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Me perdiste",
-        "url": "https://open.spotify.com/album/1z7fyGy5BWZ9pTIis6QUSG"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 141198,
-      "name": "Me perdiste",
-      "url": "https://open.spotify.com/track/1znPo0QYH2TeIBrOCSfrqI"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Me perdiste",
+        "url": "https://open.spotify.com/album/1z7fyGy5BWZ9pTIis6QUSG"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 141198,
+      "name": "Me perdiste",
+      "url": "https://open.spotify.com/track/1znPo0QYH2TeIBrOCSfrqI"
     },
     {
       "added_at": "2023-07-28 06:00:00",

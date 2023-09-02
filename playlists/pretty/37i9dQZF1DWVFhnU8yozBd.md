@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,313 likes - 100 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,338 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 69 | [Can't Help It](https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Can't Help It](https://open.spotify.com/album/4dOyCbf2Qpy6XCrVVSTLBp) | 5:38 |
 | 70 | [Burnt Orange](https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 5:36 |
 | 71 | [Clean Slate](https://open.spotify.com/track/6Cglz60KUYA11wzCDdezpC) | [Darko Esser](https://open.spotify.com/artist/7AqGdFNJPwfxvvxzuriXUK) | [Clean Slate](https://open.spotify.com/album/2i1kZDNm28mVEmUG7VtKa6) | 10:41 |
-| 72 | [OAR003\-B \- Original Mix](https://open.spotify.com/track/0t5Rr3zaALBh7yI2kGhYyl) | [Oni Ayhun](https://open.spotify.com/artist/6pybt7x9B6bbxxlgcCtNMW) | [OAR003](https://open.spotify.com/album/5HmbBurWPTN7z44Q5H5N0T) | 11:14 |
+| 72 | [OAR003\-B](https://open.spotify.com/track/7qnDy4qBwsPkTeoVv06BYS) | [Oni Ayhun](https://open.spotify.com/artist/6pybt7x9B6bbxxlgcCtNMW), [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [OAR003](https://open.spotify.com/album/3zBBlW9H75fq7IGpnaqsXA) | 11:14 |
 | 73 | [Currency Low \- Bonus Track](https://open.spotify.com/track/0CfWZ0Zy1LCzOeViunbk43) | [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [Off The Meds](https://open.spotify.com/album/1xLT0f6nhDZe0sJl5uUTgh) | 2:29 |
 | 74 | [Hessingen](https://open.spotify.com/track/2yCbHFZ2spf22BHacJKiED) | [Shakarchi & Stranéus](https://open.spotify.com/artist/6j7oCqripDrP3x226wAF5H) | [Steal Chickens From Men And the Future From God](https://open.spotify.com/album/51sbT6gvFD5BnGU8kGpBVw) | 6:27 |
 | 75 | [Pacifica](https://open.spotify.com/track/5nINri5AenR6Q7ljBJYfgL) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Asphyx](https://open.spotify.com/album/6ofX98b64trX8JvhzIrGrE) | 7:53 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFhnU8yozBd.md) - [plain]
 | 92 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
 | 93 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 94 | [Wilkie](https://open.spotify.com/track/5LaFLRPrb7yhc3x46Ktn6B) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Happiness Is Happening](https://open.spotify.com/album/3JR4zVw8ckBE5Wa99BbPQU) | 5:23 |
-| 95 | [Gone](https://open.spotify.com/track/7gD34yrgA8gFLsMtPCNWMm) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Contours](https://open.spotify.com/artist/0DivrXwznd1NcQbRh86cQO) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 5:36 |
+| 95 | [Gone](https://open.spotify.com/track/76DBGyR69bKbLdt7mhsUPy) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Contours](https://open.spotify.com/artist/0DivrXwznd1NcQbRh86cQO) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 5:36 |
 | 96 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 |
 | 97 | [Clarity](https://open.spotify.com/track/69cIyKwlCoQhgz2qzy279L) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Expectations](https://open.spotify.com/album/5oTMzdANxu24nu2YXJPHDw) | 5:48 |
 | 98 | [Taurus](https://open.spotify.com/track/6ARmIHYy1T3zQ2QckNsbj3) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/7ENEJQ25o6uG8J1fS5uaZw) | 4:42 |
 | 99 | [Moninga](https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/51Feoswkepa9SEg307gah5) | 4:55 |
 | 100 | [Balance \- Dj Floor Remix](https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6), [DJ Floor](https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY) | [Balance \(Remixes\)](https://open.spotify.com/album/2OYcucJqPHC9paken1byEp) | 4:07 |
 
-Snapshot ID: `MCxjZWY1NTRmOGIyNmNmZGRlYWRmNzMzMmQ5ODk5ZWE2YzJlNTI5YTNk`
+Snapshot ID: `MCw1MTA3YTc3MjRmNmJhY2YzMTkzMjcxYjQxMGM0M2Q3MjkwYzU5MTI4`

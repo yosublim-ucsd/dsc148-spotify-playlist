@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Dobara Phir Se",
+        "url": "https://open.spotify.com/album/4WqRol95V0451jfUlVyJYA"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176170,
+      "name": "Raske Bhare Tore Nain",
+      "url": "https://open.spotify.com/track/30gVSqUPmJMYNkBSdjVybD"
+    },
+    {
+      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },

@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-125 songs - 7 hr 35 min
+126 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Is This Love](https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:50 | 2021-08-24 |  |
 | [Island Girl](https://open.spotify.com/track/6Mkftw4IhDly1y4temAjAJ) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [JAHBOY](https://open.spotify.com/artist/1Y2oDvzU0n9fALfGLYx6Mt) | [Island Girl](https://open.spotify.com/album/23ka5UY59ulYRPxhdey8Im) | 3:21 | 2021-08-24 |  |
 | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/track/1FyKp56vQSgm98NBdvs1fA) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [It's You \(feat\. Three Houses Down\)](https://open.spotify.com/album/66oMqt96CJRCKQl3RpyTO1) | 3:19 | 2021-08-24 |  |
-| [Jah Rastafari](https://open.spotify.com/track/3XJy1qvLFMV42kL0lf73Po) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Jah Rydem](https://open.spotify.com/album/0ZNNCpmGRNiKsIs7xFdcqV) | 4:00 | 2021-08-24 |  |
+| [Jah Rastafari](https://open.spotify.com/track/2EYh1D0vwuMKmkYxdykhX9) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Jah Rydem](https://open.spotify.com/album/5WBK4BSzfbRFtg2SJ1or9N) | 4:00 | 2023-06-08 |  |
+| [Jah Rastafari](https://open.spotify.com/track/3XJy1qvLFMV42kL0lf73Po) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Jah Rydem](https://open.spotify.com/album/0ZNNCpmGRNiKsIs7xFdcqV) | 4:00 | 2021-08-24 | 2023-09-02 |
 | [Just Dance](https://open.spotify.com/track/1iJ2W8I5UDk03gZyJwHPr8) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [Just Dance](https://open.spotify.com/album/74C01fAZNbDVApi4YNcRXk) | 2:34 | 2021-08-24 | 2023-02-02 |
 | [Just Dance](https://open.spotify.com/track/4lWhdGthmuFgsZEzB02KZu) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [Just Dance](https://open.spotify.com/album/124WBVqswfTVktUNadJ4T2) | 2:34 | 2022-08-07 |  |
 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 | 2021-08-24 |  |

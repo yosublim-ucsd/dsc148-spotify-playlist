@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-262 songs - 14 hr 37 min
+263 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,8 +166,9 @@
 | [Lovely Day](https://open.spotify.com/track/6Pi1WqBTTSjtl6BWHQSccH) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Discover Bill Withers](https://open.spotify.com/album/0PuHBmxh6nKG8TTjuVZghY) | 4:11 | 2021-10-19 | 2022-07-29 |
 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2021-10-19 |  |
 | [Make Me Yours](https://open.spotify.com/track/3axZhjWYerBhaovH5MlkTZ) | [Bettye Swann](https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W) | [The Money Recordings](https://open.spotify.com/album/1dQ3AlrITgcI4FYnOcfm6d) | 3:15 | 2021-10-19 | 2022-07-21 |
-| [Mama Said \(Rerecorded Version\)](https://open.spotify.com/track/5rrXkymfQdhNBgBZ3BUVbB) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [The Shirelles \- Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:09 | 2021-10-19 |  |
+| [Mama Said \(Rerecorded Version\)](https://open.spotify.com/track/5rrXkymfQdhNBgBZ3BUVbB) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [The Shirelles \- Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:09 | 2021-10-19 | 2023-09-02 |
 | [Mercy, Mercy](https://open.spotify.com/track/4oq10QlUc3rvww1huvtA2j) | [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [Atlantic Top 60: Sweat\-Soaked Soul Classics](https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA) | 2:24 | 2021-10-19 | 2022-05-06 |
+| [Mercy, Mercy \- Single/LP Version](https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4), [Don Covay](https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S) | [West Coast Seattle Boy: The Jimi Hendrix Anthology](https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i) | 2:25 | 2021-10-19 |  |
 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 | 2021-10-19 |  |
 | [Mixed\-Up, Shook\-Up Girl](https://open.spotify.com/track/1pVFchEqnrpIEtuGrB4srT) | [Patty & The Emblems](https://open.spotify.com/artist/3YNciz35JttEP3tpD392Up) | [Mixed\-Up, Shook\-Up Girl](https://open.spotify.com/album/6THmxCmxzsOf1gbZZrsyrO) | 2:06 | 2021-10-19 | 2022-04-20 |
 | [Move on Up \- Extended Version](https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 8:55 | 2021-10-19 |  |

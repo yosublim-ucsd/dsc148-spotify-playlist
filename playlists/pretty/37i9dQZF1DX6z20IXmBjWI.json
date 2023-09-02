@@ -1,12 +1,12 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2140291,
+  "num_followers": 2140272,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjQ5MzZjZTc1NDhhNDA3ZjM4NmJkNDFkMGNiNjAzMzEzYmZlZDc2",
+  "snapshot_id": "MCwyMmUyNmQ5ZTkyNWMyNWYwMWUwYWQwNDRhYzdmNDE5ODVlZjEwNWEx",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 298880,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Bleed",
         "url": "https://open.spotify.com/album/2bx27eMxJvrQj1tRmBhvXP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 205812,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/06RQdivUfoYMS8l1tWscGJ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Shape & Destroy",
-        "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "New Star",
         "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 185728,
       "name": "New Star",
       "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Shape & Destroy",
+        "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 211688,
-      "name": "Echo (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "They Are Going Away",
         "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 211688,
+      "name": "Echo (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 212026,
       "name": "Dream in Blue",
       "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 264150,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Build A Problem",
         "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/5eFydEkF3KDCwlOlMBu3KK"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264150,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/2RmH5VLkfdILc6wTK1LWkH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2303,18 +2303,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Nervous At Night",
-        "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
       "artists": [
         {
-          "name": "Charlie Hickey",
-          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
         }
       ],
-      "duration_ms": 187133,
-      "name": "Planet With Water",
-      "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "Persephone",
-      "url": "https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ"
       },
@@ -2367,18 +2351,34 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Widow Knows E.P.",
-        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+        "name": "Nervous At Night",
+        "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
       },
       "artists": [
         {
-          "name": "Wyvern Lingo",
-          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
         }
       ],
-      "duration_ms": 252816,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+      "duration_ms": 187133,
+      "name": "Planet With Water",
+      "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Persephone",
+      "url": "https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Northsiders",
+      "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Manly Man",
         "url": "https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH"
       },
@@ -2519,22 +2535,6 @@
       "duration_ms": 210963,
       "name": "Manly Man",
       "url": "https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Northsiders",
-      "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
     },
     {
       "added_at": "2023-07-21 04:00:00",

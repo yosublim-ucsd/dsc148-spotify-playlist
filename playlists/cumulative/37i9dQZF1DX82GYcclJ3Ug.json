@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules or boundaries. The very best new alternative tracks. Cover: The Beaches",
+  "description": "No rules or boundaries. The very best new alternative tracks. Cover: ThxSoMch",
   "name": "The New Alt",
   "tracks": [
     {
@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "as good a reason",
+        "url": "https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169721,
+      "name": "as good a reason",
+      "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
+    },
+    {
+      "album": {
         "name": "as if",
         "url": "https://open.spotify.com/album/1sZaaGRLEQBvZHndCJetGM"
       },
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 248774,
       "name": "Barbaric",
       "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
@@ -6507,6 +6525,28 @@
     },
     {
       "album": {
+        "name": "Essence (feat. Super Computer)",
+        "url": "https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Super Computer",
+          "url": "https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168359,
+      "name": "Essence (feat. Super Computer)",
+      "url": "https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n"
+    },
+    {
+      "album": {
         "name": "Eulogy",
         "url": "https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj"
       },
@@ -6594,7 +6634,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 248004,
       "name": "Every Chance I Get (I Want You In The Flesh)",
       "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
@@ -7898,7 +7938,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 228533,
       "name": "Get Happy",
       "url": "https://open.spotify.com/track/1C1PabZfidunDI3xEj0D0H"
@@ -9635,6 +9675,24 @@
     },
     {
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
         "name": "Honeybrains",
         "url": "https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt"
       },
@@ -10173,6 +10231,24 @@
     },
     {
       "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "I Got Heaven",
+      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
+    },
+    {
+      "album": {
         "name": "i h8 that i still feel bad for u",
         "url": "https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd"
       },
@@ -10618,6 +10694,24 @@
       "duration_ms": 229203,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/6z3SytoRF8ak4NLSdvQH1f"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154923,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/0q1ojrOIoqEjGvojo4Y0FK"
     },
     {
       "album": {
@@ -12298,7 +12392,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 196739,
       "name": "Lose",
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
@@ -13294,7 +13388,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 219973,
       "name": "Might Love Myself",
       "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
@@ -14890,7 +14984,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 227668,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/7dVfdbkxtx1JF4W8aONqB1"
@@ -18188,7 +18282,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 136828,
       "name": "Sick",
       "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
@@ -18586,7 +18680,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 172905,
       "name": "Slowburn",
       "url": "https://open.spotify.com/track/1VPE8fiA7AeycpjG7HfdJL"
@@ -19056,6 +19150,24 @@
       "duration_ms": 289165,
       "name": "Spinning the Truth Around",
       "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
+    },
+    {
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168221,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37"
     },
     {
       "album": {
@@ -19556,10 +19668,6 @@
           "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         },
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
           "name": "Unknown Mortal Orchestra",
           "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
@@ -19919,6 +20027,24 @@
     },
     {
       "album": {
+        "name": "S'old",
+        "url": "https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
+    },
+    {
+      "album": {
         "name": "T Love",
         "url": "https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB"
       },
@@ -20010,7 +20136,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 197320,
       "name": "Take Me With You",
       "url": "https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW"
@@ -20778,7 +20904,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
@@ -22012,6 +22138,24 @@
       "duration_ms": 133509,
       "name": "UH OH! (feat. BENEE)",
       "url": "https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe"
+    },
+    {
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205553,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
     },
     {
       "album": {

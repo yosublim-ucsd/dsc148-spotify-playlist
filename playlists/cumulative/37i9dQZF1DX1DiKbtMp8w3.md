@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-244 songs - 13 hr 54 min
+245 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Day 1 ◑](https://open.spotify.com/track/6ZzYETKetIfNUsZUb23jgG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Love Me / Love Me Not](https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV) | 3:53 | 2022-08-12 |  |
 | [delicate creature](https://open.spotify.com/track/79wSs0XpV9BhjDcWGKZc5m) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/6PLSSq6AD1C96xzLMG49Wo) | 4:32 | 2023-02-03 |  |
 | [delicate creature](https://open.spotify.com/track/7BAk4jJtHKJuo4H05dKSM1) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/4zFX31lbWmdubEgtIOEb8K) | 4:32 | 2022-09-06 | 2023-05-01 |
-| [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2022-08-12 |  |
+| [Desert Eagle](https://open.spotify.com/track/0haCeyoW7lP7PNRu3RnSZZ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3VfI9ZwIJSL6xBJ6LuT3Sx) | 5:09 | 2023-08-09 |  |
+| [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2022-08-12 | 2023-09-02 |
 | [DIFFERENT](https://open.spotify.com/track/5Y7a8iWIawp1QTbevGeH1V) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [DIFFERENT](https://open.spotify.com/album/56S7zetVLAz7xC5GrmOld3) | 3:42 | 2022-08-25 |  |
 | [Dive Baby, Dive](https://open.spotify.com/track/36AbmT9YujrUsNvHpqRNgI) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dive Baby, Dive](https://open.spotify.com/album/32kZ9wnIIZuwOqK4CV39nO) | 3:23 | 2022-08-12 |  |
 | [Don't Stop](https://open.spotify.com/track/2SMfatKkQhQiEJhuka4L3N) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 3:59 | 2022-08-12 |  |

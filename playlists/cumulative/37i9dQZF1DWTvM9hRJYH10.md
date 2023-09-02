@@ -2,12 +2,13 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: King Calaway
+> Music from Nashville's emerging Singers and Songwriters\. Cover: MaRynn Taylor
 
-295 songs - 15 hr 37 min
+298 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['01](https://open.spotify.com/track/3DxTQBQcziBLi1DS67BqVD) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | ['01](https://open.spotify.com/album/0i7CY6Cd07kw0lOqacgrAO) | 3:13 | 2023-09-01 |  |
 | [1%](https://open.spotify.com/track/01AN52vVHlK1yAaLRmzhYg) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [1%](https://open.spotify.com/album/416Dl4wvYbJOLSWzXwfrUr) | 2:49 | 2021-12-31 |  |
 | [18](https://open.spotify.com/track/2UiAhExxpMfBODuhZITng7) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [18](https://open.spotify.com/album/5or963yixy9GLAOjcmpkRt) | 2:54 | 2022-09-16 |  |
 | [22 Red Flags](https://open.spotify.com/track/5PZYR79HGE6k3giI384I7w) | [Presley & Taylor](https://open.spotify.com/artist/5H6ZPpGKLbtB3O8idjxIZy) | [22 Red Flags](https://open.spotify.com/album/7pS5QcODadoyl9Y05FKAl7) | 2:51 | 2021-12-31 | 2022-01-08 |
@@ -63,6 +64,7 @@
 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 | 2022-05-01 | 2022-10-29 |
 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2022-10-14 |  |
 | [Damsel in this Dress](https://open.spotify.com/track/7ArpFETe69QZq26EZ9R3Gy) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Damsel in this Dress](https://open.spotify.com/album/4XtrizZf5lVQchM3vAOd9M) | 2:58 | 2021-12-31 |  |
+| [DiCaprio](https://open.spotify.com/track/230mQ7KfcuqKWuxg63gd9m) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [DiCaprio](https://open.spotify.com/album/1KyFMUwcZZVKQuxgoeuLYM) | 3:06 | 2023-09-01 |  |
 | [Dickhead](https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Dickhead](https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2) | 2:30 | 2023-08-18 |  |
 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2022-03-25 |  |
 | [Doctor](https://open.spotify.com/track/4Nor2AyPPlYeXysD5vHcPY) | [Kamryn Palmer](https://open.spotify.com/artist/0l8kaiWF1RdEZUiUXAIccL) | [Doctor](https://open.spotify.com/album/3l0pKQEEQQnkTCgqcDsVwM) | 3:23 | 2022-02-11 | 2022-06-01 |
@@ -88,7 +90,7 @@
 | [Getting in the Way](https://open.spotify.com/track/16XCzY9soTLQtrVEgK1Nkf) | [Heath Bennett](https://open.spotify.com/artist/41hA7Bgps1E23zJmxn14lS), [Jara Ward](https://open.spotify.com/artist/0ML9ZqnIXEFy5NvrZydFER) | [Getting in the Way](https://open.spotify.com/album/4Lnk7OJOPcQeGiTu4eHRX8) | 3:56 | 2022-02-18 |  |
 | [God Only Knows](https://open.spotify.com/track/3Pazi0v8BKtpwp2qjkh3ra) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [God Only Knows](https://open.spotify.com/album/6tUWgnrqrDo001L5hDTnC6) | 3:00 | 2023-05-19 |  |
 | [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 | 2023-06-02 |  |
-| [Got the Girl](https://open.spotify.com/track/5MTuBhO3QxTht2NeRkLwuI) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Got the Girl](https://open.spotify.com/album/5DT8MBGd52UwQeDwQNrtwM) | 2:43 | 2021-12-31 |  |
+| [Got the Girl](https://open.spotify.com/track/5MTuBhO3QxTht2NeRkLwuI) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Got the Girl](https://open.spotify.com/album/5DT8MBGd52UwQeDwQNrtwM) | 2:43 | 2021-12-31 | 2023-09-02 |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-01-21 |  |
 | [Growing Up \(Are You Happy\)](https://open.spotify.com/track/6z9H1dDF1eF0wu7zXrslXw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Growing Up \(Are You Happy\)](https://open.spotify.com/album/1yiaYbHec1sNIo2g0wSBUQ) | 2:31 | 2022-05-27 |  |
@@ -164,6 +166,7 @@
 | [Made 4](https://open.spotify.com/track/4D3ncJSklJygckj0iLb5q7) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Made 4](https://open.spotify.com/album/0Wjel1zCGyyNdt1ofyi4OL) | 2:49 | 2022-08-19 | 2022-10-08 |
 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 | 2021-12-31 | 2022-07-29 |
 | [Make It Past Georgia](https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 3:21 | 2022-07-22 | 2023-02-25 |
+| [Make You Mine](https://open.spotify.com/track/0CZwrYqSTnfzAjtynr6zBp) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [Make You Mine](https://open.spotify.com/album/7vwX7Eavq0fZccBj56FkWA) | 2:40 | 2023-09-01 |  |
 | [Makes A Man](https://open.spotify.com/track/1qMASb6fdkPGoyGrCID2f0) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Makes A Man](https://open.spotify.com/album/0JvHSNkY62km7WrW8nWw9B) | 2:55 | 2023-02-24 |  |
 | [Makeup Is Expensive](https://open.spotify.com/track/00JNpfynO2Y9VWhIJkmrlE) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Makeup Is Expensive](https://open.spotify.com/album/5pGYbtCiSeuqTu9J4Digmw) | 3:18 | 2021-12-31 |  |
 | [Mama Ain't Jesus](https://open.spotify.com/track/3ELOyDhZUfHmPyPqcyzGs6) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Mama Ain't Jesus](https://open.spotify.com/album/5Hv1zXpGhoFqxWWGH2i7Xy) | 3:11 | 2021-12-31 |  |
@@ -273,11 +276,11 @@
 | [Throw It Back](https://open.spotify.com/track/6gv3rXWwTSdUhYaZqg7ueD) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Throw It Back.](https://open.spotify.com/album/55pm5t7Fd4cp8LnzfoK0wD) | 2:35 | 2023-05-19 |  |
 | [Til The Neon's Gone](https://open.spotify.com/track/54wAUMBMpdhfhZSQawogbw) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/1amWR5XgywGuP59BTGMJ8E) | 3:41 | 2023-05-03 |  |
 | [Til The Neon's Gone](https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC) | 3:41 | 2022-02-25 | 2023-05-18 |
-| [Tired of Moving On](https://open.spotify.com/track/0kdAMIHdcQMAxL6b8DQS3D) | [Carson Janik](https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM) | [Songs About You](https://open.spotify.com/album/3xmyOVok0ZLFHy0xMVkY1V) | 3:12 | 2021-12-31 |  |
-| [Trucks Ain't for Breaking Down In](https://open.spotify.com/track/0u02cFSDCRq5l6z5SIpPAX) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Trucks Ain't for Breaking Down In](https://open.spotify.com/album/3cpsCXBD4sD1FDWCEybqrf) | 3:18 | 2021-12-31 |  |
+| [Tired of Moving On](https://open.spotify.com/track/0kdAMIHdcQMAxL6b8DQS3D) | [Carson Janik](https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM) | [Songs About You](https://open.spotify.com/album/3xmyOVok0ZLFHy0xMVkY1V) | 3:12 | 2021-12-31 | 2023-09-02 |
+| [Trucks Ain't for Breaking Down In](https://open.spotify.com/track/0u02cFSDCRq5l6z5SIpPAX) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Trucks Ain't for Breaking Down In](https://open.spotify.com/album/3cpsCXBD4sD1FDWCEybqrf) | 3:18 | 2021-12-31 | 2023-09-02 |
 | [Truth Is](https://open.spotify.com/track/583ttvNmwL6fX30F5VYlc0) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Truth Is](https://open.spotify.com/album/1IF0OBglPImicWSoaPyESK) | 2:58 | 2022-10-14 |  |
 | [TWO BROKE HEARTS](https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [TWO BROKE HEARTS](https://open.spotify.com/album/36H4r65rax4ptGYfds64nC) | 3:17 | 2023-06-02 |  |
-| [Used To](https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D) | [Natalia Taylar](https://open.spotify.com/artist/5DvIX76UmlOkfUnwwLjcZB), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Used To](https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId) | 3:25 | 2021-12-31 |  |
+| [Used To](https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D) | [Natalia Taylar](https://open.spotify.com/artist/5DvIX76UmlOkfUnwwLjcZB), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Used To](https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId) | 3:25 | 2021-12-31 | 2023-09-02 |
 | [Vegas](https://open.spotify.com/track/0qY0AvQ0nutIE7ksHRbwi3) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 3:13 | 2023-05-19 |  |
 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 | 2022-07-15 | 2023-05-26 |
 | [Vertigo](https://open.spotify.com/track/6YNx3NLrVFuBXs2CkfMF5s) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5) | [Vertigo](https://open.spotify.com/album/5g3zZghZYNswZEt2znFIFe) | 2:53 | 2023-08-18 |  |

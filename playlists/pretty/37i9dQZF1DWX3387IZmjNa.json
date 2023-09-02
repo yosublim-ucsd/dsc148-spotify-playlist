@@ -1,12 +1,12 @@
 {
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Rylo Rodriguez",
-  "num_followers": 2021416,
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Lil Tjay",
+  "num_followers": 2021935,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTY3NTZjNWUzMTI5YzhkMDFkYzNjN2M2Yzk5MGRjOTQzNDk0YmQw",
+  "snapshot_id": "MCxmMWM2YmRkZmNmMmRmOWM5NWU1ZGFmMWE3ZjZhZmRmYzRlNzhhOTRl",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -27,6 +27,70 @@
       "duration_ms": 259545,
       "name": "Thang For You (feat. No Cap)",
       "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
+    },
+    {
+      "added_at": "2023-07-28 04:26:54",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 353754,
+      "name": "TELEKINESIS (feat. SZA & Future)",
+      "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 232091,
+      "name": "2 Grown (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 156030,
+      "name": "Doin Yo Stuff",
+      "url": "https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -65,50 +129,6 @@
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 144344,
-      "name": "Stressed (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
-    },
-    {
-      "added_at": "2023-07-28 04:26:54",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 353754,
-      "name": "TELEKINESIS (feat. SZA & Future)",
-      "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
-    },
-    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Been One",
@@ -143,50 +163,6 @@
       "duration_ms": 214986,
       "name": "DEEP END (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/63YcOq8SNXtnZtCfjyEpmq"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 232091,
-      "name": "2 Grown (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
-    },
-    {
-      "added_at": "2023-08-21 18:26:33",
-      "album": {
-        "name": "U & I",
-        "url": "https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of"
-      },
-      "artists": [
-        {
-          "name": "Zzz.",
-          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
-        },
-        {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
-        },
-        {
-          "name": "Jehkai",
-          "url": "https://open.spotify.com/artist/0EqsIz6jZtqiwz76zMMDH6"
-        }
-      ],
-      "duration_ms": 176701,
-      "name": "U & I",
-      "url": "https://open.spotify.com/track/0hLE6bBJqvBtTsUsjkxAFO"
     },
     {
       "added_at": "2023-06-02 17:07:50",
@@ -233,6 +209,46 @@
       "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 144344,
+      "name": "Stressed (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Sixtape 3",
+        "url": "https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 139994,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/0EWkHy6MFQxu5Hg6SPlEur"
+    },
+    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Fell In Love",
@@ -253,24 +269,20 @@
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
     },
     {
-      "added_at": "2023-08-11 04:00:00",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 147773,
-      "name": "WHITE CROCS (with Ryan Trey)",
-      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
+      "duration_ms": 168075,
+      "name": "When It Comes To You",
+      "url": "https://open.spotify.com/track/4OzS0O0i88cGeu8YklCHrT"
     },
     {
       "added_at": "2023-08-04 04:01:00",
@@ -303,6 +315,30 @@
       "duration_ms": 177789,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2023-08-21 18:26:33",
+      "album": {
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/4WkQCXEpxT1gDqSWiVh0Of"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        },
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        },
+        {
+          "name": "Jehkai",
+          "url": "https://open.spotify.com/artist/0EqsIz6jZtqiwz76zMMDH6"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/0hLE6bBJqvBtTsUsjkxAFO"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -429,20 +465,24 @@
       "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
-      "added_at": "2023-08-25 18:42:19",
+      "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Thinking Hurts",
-        "url": "https://open.spotify.com/album/7x4Z35NPBFuj5WRFURQ0ys"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
       },
       "artists": [
         {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
         }
       ],
-      "duration_ms": 179340,
-      "name": "Thinking Hurts",
-      "url": "https://open.spotify.com/track/4g4cBK9ONBO2SCK9LYuTfI"
+      "duration_ms": 147773,
+      "name": "WHITE CROCS (with Ryan Trey)",
+      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -593,6 +633,22 @@
       "url": "https://open.spotify.com/track/6ZOCnU7MLtcZeRKAxgsqTT"
     },
     {
+      "added_at": "2023-08-25 18:42:19",
+      "album": {
+        "name": "Thinking Hurts",
+        "url": "https://open.spotify.com/album/7x4Z35NPBFuj5WRFURQ0ys"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 179340,
+      "name": "Thinking Hurts",
+      "url": "https://open.spotify.com/track/4g4cBK9ONBO2SCK9LYuTfI"
+    },
+    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "3AM in Oakland",
@@ -607,26 +663,6 @@
       "duration_ms": 206270,
       "name": "3AM in Oakland",
       "url": "https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "GEEZYWORLD 2",
-        "url": "https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV"
-      },
-      "artists": [
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Saturday (feat. Kalan.FrFr)",
-      "url": "https://open.spotify.com/track/5uQybrSaOXUjaBZCI89KQE"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -695,26 +731,6 @@
       "duration_ms": 168016,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/3iuGyJQKwSIozygB3nwojP"
-    },
-    {
-      "added_at": "2023-05-12 04:08:38",
-      "album": {
-        "name": "Here 2 Stay",
-        "url": "https://open.spotify.com/album/2hnZC5cplWVngfVm2Hjsfr"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
-        }
-      ],
-      "duration_ms": 154181,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/1Cwv7OzGjvpHcCGxY1Nmvk"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -787,22 +803,6 @@
       "duration_ms": 153599,
       "name": "Kissing On Your Tattoos",
       "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "CRUISE CONTROL",
-        "url": "https://open.spotify.com/album/7Chy3P3zV9mSRQMtACbSSA"
-      },
-      "artists": [
-        {
-          "name": "FRVRFRIDAY",
-          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "CRUISE CONTROL",
-      "url": "https://open.spotify.com/track/6u9t5hY9AhTREcorbRIvkY"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -959,6 +959,26 @@
       "duration_ms": 399153,
       "name": "Hours In Silence",
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "GEEZYWORLD 2",
+        "url": "https://open.spotify.com/album/5zs9qUyhrUbvhGicNAzJWV"
+      },
+      "artists": [
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Saturday (feat. Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/5uQybrSaOXUjaBZCI89KQE"
     }
   ],
   "unique_name": "B.A.E.",

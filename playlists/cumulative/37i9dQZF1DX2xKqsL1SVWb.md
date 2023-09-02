@@ -2,7 +2,7 @@
 
 ### [madera y miel](https://open.spotify.com/playlist/37i9dQZF1DX2xKqsL1SVWb)
 
-> Folk tan dulce como la miel\. Agris en portada.
+> Folk tan dulce como la miel\. Dali Mata y Breton en portada.
 
 138 songs - 7 hr 51 min
 

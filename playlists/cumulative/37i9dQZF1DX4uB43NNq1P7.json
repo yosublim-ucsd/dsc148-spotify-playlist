@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Tj\u00f6rnin (rain)",
+        "url": "https://open.spotify.com/album/2KAYvmo41twqasnKkDigBs"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Solitude (rain)",
+      "url": "https://open.spotify.com/track/7rJ7Zhxvd04reQjatzKhCg"
+    },
+    {
+      "album": {
         "name": "Epic Rain & Piano - vol.1",
         "url": "https://open.spotify.com/album/7rhRA2bs7V7dpaDqRhIPce"
       },

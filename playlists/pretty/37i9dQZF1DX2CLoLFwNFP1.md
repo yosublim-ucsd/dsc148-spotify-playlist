@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,382 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,429 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 95 | [Yummy \(Prod\. by Cha Cha Malone\)](https://open.spotify.com/track/6EHY1kVGeoghDbj77BwMnq) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Nothing Matters](https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn) | 3:11 |
 | 96 | [Limousine \(Feat\. KRNFX\)](https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
 | 97 | [Million](https://open.spotify.com/track/7gw9EmECP4BXUvQdhY5HPq) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 4:28 |
-| 98 | [Feature \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:50 |
-| 99 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
+| 98 | [Alone Tonight \(Feat\. Sik\-K\)](https://open.spotify.com/track/1uzq7zOP5JNFPk4aDji01d) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:11 |
+| 99 | [Feature \(Feat\. Cha Cha Malone\)](https://open.spotify.com/track/4slKa6L7iKXdQSgGJxKe8S) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:50 |
 | 100 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe) | 4:37 |
 
-Snapshot ID: `MCxiODQ2ZWZlY2EwYTc5ZTc5NzkyMWQ2MWYyNzc4MmYyMmRmYmUwZDNi`
+Snapshot ID: `MCwzYmJiZmQ3N2I5NWQ2NTA4ZjAyYzlhZTBhNTZkNWE5NmI2MGQzZjdh`

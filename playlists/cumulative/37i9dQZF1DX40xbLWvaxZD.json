@@ -1575,24 +1575,6 @@
     },
     {
       "album": {
-        "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
-        "url": "https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH"
-      },
-      "artists": [
-        {
-          "name": "\u6c38\u5009 \u65b0\u516b(\u5c0f\u5c71 \u529b\u4e5f)",
-          "url": "https://open.spotify.com/artist/15WzGZ0yHJsBClOXh1hKt0"
-        }
-      ],
-      "date_added": "2021-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238352,
-      "name": "\u6545\u90f7\u306b\u9326\u3092\u98fe\u308b\u3079\u3057 - Full Spec Edition",
-      "url": "https://open.spotify.com/track/5tSE70eZAUF10eH9GBfKDl"
-    },
-    {
-      "album": {
         "name": "\u9f8d\u304c\u5982\u304f\u30b7\u30ea\u30fc\u30ba\u30fb\u30ab\u30e9\u30aa\u30b1\u5b9a\u756a\u66f2\u30b3\u30ec\u30af\u30b7\u30e7\u30f3(\u9f8d\u304c\u5982\u304f7 \u5149\u3068\u95c7\u306e\u884c\u65b9)",
         "url": "https://open.spotify.com/album/1QQbyZUbtv9eOOzfgDDF7H"
       },
@@ -1608,6 +1590,24 @@
       "duration_ms": 238352,
       "name": "\u6545\u90f7\u306b\u9326\u3092\u98fe\u308b\u3079\u3057 - Full Spec Edition",
       "url": "https://open.spotify.com/track/56OY1A6LnXXwzKwsHTwBgw"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH"
+      },
+      "artists": [
+        {
+          "name": "\u6c38\u5009\u65b0\u516b(\u5c0f\u5c71\u529b\u4e5f)",
+          "url": "https://open.spotify.com/artist/2LMmRBb5yDz3rzu3oQTff8"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238352,
+      "name": "\u6545\u90f7\u306b\u9326\u3092\u98fe\u308b\u3079\u3057 - Full Spec Edition",
+      "url": "https://open.spotify.com/track/5tSE70eZAUF10eH9GBfKDl"
     },
     {
       "album": {
@@ -1732,7 +1732,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 122529,
-      "name": "\u795e\u5ba4\u7d14\u604b\u6b4c ~\u6850\u751f&\u652f\u9759\u52a0~",
+      "name": "\u795e\u5ba4\u7d14\u604b\u6b4c \uff5e\u6850\u751f&\u652f\u9759\u52a0\uff5e",
       "url": "https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne"
     },
     {

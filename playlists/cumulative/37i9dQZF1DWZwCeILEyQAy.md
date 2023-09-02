@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Sexyy Red
 
-429 songs - 18 hr 14 min
+431 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-07 |  |
 | [Point Me To The Slut's](https://open.spotify.com/track/2tu7n1Pxm75szYU3ySCpri) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy) | [Point Me To The Slut's](https://open.spotify.com/album/56lKFl1PWdU3Hf0X4QYlni) | 2:55 | 2023-05-05 | 2023-07-08 |
 | [Poker Night](https://open.spotify.com/track/6JdZmGwVwxtdjY4GwUzCXr) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [Poker Night](https://open.spotify.com/album/5Exn9ByIbD37Ew6fEhgzvb) | 2:53 | 2022-05-20 | 2022-06-30 |
-| [Pop Dat \(feat\. Saucy Santana\)](https://open.spotify.com/track/1uDaVFW3HTV4jMaGrZfJEd) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 3:09 | 2023-08-11 |  |
+| [Pop Dat \(feat\. Saucy Santana\)](https://open.spotify.com/track/1uDaVFW3HTV4jMaGrZfJEd) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 3:09 | 2023-08-11 | 2023-09-02 |
+| [Pop Dat \(feat\. Saucy Santana\)](https://open.spotify.com/track/4ojBRhPNM4AVLWcZbMjUay) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Shades of Gloss](https://open.spotify.com/album/20LqQ2uXyi3Io5KMY0I95m) | 3:09 | 2023-08-18 |  |
 | [Pose](https://open.spotify.com/track/6KvnHekckJj5O0Op3cplgo) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Pose](https://open.spotify.com/album/3jlbP9E8t5Wit8c3J7W79e) | 2:38 | 2023-04-21 | 2023-05-27 |
 | [Pressed \(feat\. OMB Bloodbath\)](https://open.spotify.com/track/0mzmRlGgDMQAbqB4M7AaNA) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3) | [Pressure](https://open.spotify.com/album/3C2jY3Y43OQk07n4Pmo9wH) | 2:56 | 2021-11-05 | 2022-03-17 |
 | [Pressure](https://open.spotify.com/track/39IE3DOPyQkpX5IKoSzHHL) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:06 | 2021-11-05 | 2022-07-20 |
@@ -388,7 +389,8 @@
 | [The Biggest](https://open.spotify.com/track/2b3mMAnExnoWf9UM2VnTYt) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [The Biggest](https://open.spotify.com/album/1uEXYHpsTQBHG5c6lRVaSE) | 2:23 | 2021-11-05 | 2022-03-17 |
 | [The Facts \(feat\. Young Devyn\)](https://open.spotify.com/track/6BnVq5uTzM1w0xVgoXaDFz) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH), [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [The Facts \(feat\. Young Devyn\)](https://open.spotify.com/album/7B2yY2hUEafca5pbgyWi9t) | 2:51 | 2022-10-07 | 2023-03-04 |
 | [They Not Ready](https://open.spotify.com/track/6E5dZiOO0DswcJZH0qPOvU) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [They Not Ready](https://open.spotify.com/album/2mTJUIJUZnRj521nuYi0jc) | 2:46 | 2022-04-01 | 2022-07-29 |
-| [Thicc](https://open.spotify.com/track/6ib3lHR6RoCmJo1oF6JqyM) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 2:16 | 2023-08-11 |  |
+| [Thicc](https://open.spotify.com/track/2cHhNW6Wcdrk4mFTZkqqKk) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Shades of Gloss](https://open.spotify.com/album/20LqQ2uXyi3Io5KMY0I95m) | 2:16 | 2023-08-18 |  |
+| [Thicc](https://open.spotify.com/track/6ib3lHR6RoCmJo1oF6JqyM) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Shades of Gloss](https://open.spotify.com/album/68dWsZRbcS1HGA9xgYf9GF) | 2:16 | 2023-08-11 | 2023-09-02 |
 | [Thick and Heavy](https://open.spotify.com/track/2XhODxnDAaEY8qiij4kWkf) | [Narissa](https://open.spotify.com/artist/5bOCbA2WfZgcFQyT64V76q) | [BOSSbae \(Boss Side\)](https://open.spotify.com/album/66WbpYWWQxmodFmj2JJv5e) | 2:32 | 2022-09-30 | 2022-12-10 |
 | [Thief In The Night \(with G Herbo\)](https://open.spotify.com/track/46gUCMauloWD4iuobiQdsu) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:46 | 2022-04-08 | 2022-09-06 |
 | [This Is New York](https://open.spotify.com/track/0LH1V0ZodNOfM7jnqyO9S5) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [This Is New York](https://open.spotify.com/album/1gsyQrEUfYBX6MV36wmoQM) | 2:13 | 2023-05-05 |  |

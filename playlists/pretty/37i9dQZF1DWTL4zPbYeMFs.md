@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,873 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,904 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 20 | [Genda Phool](https://open.spotify.com/track/15Vuw407y6UWIPUfGrpJ1e) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 2:48 |
 | 21 | [Latthay Di Chaadar](https://open.spotify.com/track/0QOJABRwcIx5WfzILs47eJ) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Latthay Di Chaadar \- Single](https://open.spotify.com/album/2gGa9X08pMWC5FNB9ShgG8) | 3:35 |
 | 22 | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/track/31EqumBCMNGK3kt1sSL4gV) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl) | 2:40 |
-| 23 | [Bajre Da Sitta](https://open.spotify.com/track/7xC3WCYXbpCGuTsjGswxjB) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Bajre Da Sitta \- Single](https://open.spotify.com/album/0l6n0qKap0pqC3NJROpB7z) | 2:58 |
+| 23 | [Bajre Da Sitta](https://open.spotify.com/track/2f7svG4r68phbVQpu0EPu0) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Bajre Da Sitta](https://open.spotify.com/album/5pTWvR0ZJVcOPftzZlsFIH) | 2:49 |
 | 24 | [Baari Barsi](https://open.spotify.com/track/16168M9xvIA5FqGlurQfsv) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:42 |
 | 25 | [Sajh Dhaj Ke](https://open.spotify.com/track/5HJGzB7sZleFrrDvr0pRo4) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Pankaj Kapur](https://open.spotify.com/artist/2o8YweTDrUygJuPWOFDN62) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 4:52 |
 | 26 | [Lagdi Hai Thaai](https://open.spotify.com/track/4hY8QWl3BGv83htRjPfprx) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO) | [Lagdi Hai Thaai \(From "Simran"\)](https://open.spotify.com/album/72iWZXfl5gkum49zQAkdHl) | 2:45 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 36 | [Mere Wala Sardar](https://open.spotify.com/track/3hCLDKPwRELWLnYF3nOY5J) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Mere Wala Sardar](https://open.spotify.com/album/4ak8uKr82XTB2QVh48CAkC) | 5:16 |
 | 37 | [Ambarsariya](https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Fukrey](https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd) | 4:08 |
 | 38 | [Laung Da Lashkara](https://open.spotify.com/track/5pQODzb8j3xMQ1qvrQXJvo) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Jassi](https://open.spotify.com/artist/0QicOPoGCIHxlRFG0I4r9H) | [Patiala House](https://open.spotify.com/album/1DgIFH0yAPRPGBeCiJBvDv) | 5:04 |
-| 39 | [Laung Gawacha](https://open.spotify.com/track/7mgGEXpbBMCOHgIUqdfARm) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha \- Single](https://open.spotify.com/album/1mO4qPhqz1SPVTgvHve7ak) | 3:37 |
+| 39 | [Laung Gawacha](https://open.spotify.com/track/1aEfxP8CyCSDQeqRFlzBKb) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Laung Gawacha](https://open.spotify.com/album/2hv0zzhDs3mJ6GZekwpaPc) | 3:42 |
 | 40 | [Proper Patola](https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Namaste England \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qokplIH6RyEbm9Q2DiBQB) | 2:58 |
 | 41 | [Radha \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/7ztCi9k76A4QmSqWEutFyV) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Radha \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/6twPZvB9fr9uBQUzPeQfbQ) | 5:01 |
 | 42 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Maine Payal Hai Chhankai & Other Hits](https://open.spotify.com/album/4qahs4ZSSw4yVX6HIghALw) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 49 | [Laung Gawacha](https://open.spotify.com/track/5ol7uDVpF1pHQitme6AJpm) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Laung Gawacha](https://open.spotify.com/album/4ZHC2cpwbxzyktk4pXEBLv) | 2:41 |
 | 50 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 |
 
-Snapshot ID: `MCw3YTExNDJmYTQ4OWU2YzEyNDg3MzY4MjkxMmU4NDAyZjA2NWRiZjA2`
+Snapshot ID: `MCw5YTQ1NzM3OTI3ZGJlODljZmRmY2FiNWYyZDJiNWU4YzNhMTVlY2I5`

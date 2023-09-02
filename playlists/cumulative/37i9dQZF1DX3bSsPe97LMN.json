@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Adrian L Santos en portada.",
+  "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. ERRE en portada.",
   "name": "La Nueva Ola: M\u00fasica Mexicana",
   "tracks": [
     {
@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Buenos Gustos",
+        "url": "https://open.spotify.com/album/2zYVbxPJpVrdEl5dEBcGnP"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Buenos Gustos",
+      "url": "https://open.spotify.com/track/0qubl2XDk1yLwTL6lYUq7I"
+    },
+    {
+      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1140,6 +1158,28 @@
       "duration_ms": 195895,
       "name": "Cabron Yo Puedo",
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+    },
+    {
+      "album": {
+        "name": "Cada Loco A Su Papel",
+        "url": "https://open.spotify.com/album/0wL5GsQvcPv3UrbPoG8Ktf"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        },
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153374,
+      "name": "Cada Loco A Su Papel",
+      "url": "https://open.spotify.com/track/1PkJfH6o8nMPImI8PQUxLA"
     },
     {
       "album": {
@@ -1228,8 +1268,8 @@
           "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
         },
         {
-          "name": "Hernan Trejo",
-          "url": "https://open.spotify.com/artist/7m4lSPIYHAKmp51eXfDHCm"
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         },
         {
           "name": "Los Chavalos De La Perla",
@@ -3096,7 +3136,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 204826,
       "name": "Estos D\u00edas",
       "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
@@ -3942,7 +3982,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 215568,
       "name": "La Tostada",
       "url": "https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp"
@@ -4502,7 +4542,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 200266,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/62FXhXv6HATkfAzCmNWTlb"
@@ -5854,7 +5894,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 211741,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
@@ -6322,7 +6362,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 134545,
       "name": "Siendo El Mismo",
       "url": "https://open.spotify.com/track/1dOWRtDey6atPaN3BP2shc"
@@ -7395,6 +7435,28 @@
     },
     {
       "album": {
+        "name": "Seguimos Exportando",
+        "url": "https://open.spotify.com/album/7zPKyWuyUYvJWUiFSe7LlT"
+      },
+      "artists": [
+        {
+          "name": "Los Del Puerto",
+          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+        },
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184655,
+      "name": "Varias Jugadas",
+      "url": "https://open.spotify.com/track/1X0CS46Q2jHLy3msCe1Z6P"
+    },
+    {
+      "album": {
         "name": "Ven Conmigo",
         "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
@@ -7436,6 +7498,24 @@
       "duration_ms": 155373,
       "name": "Veneno Verde",
       "url": "https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL"
+    },
+    {
+      "album": {
+        "name": "VETE",
+        "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207402,
+      "name": "VETE",
+      "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"
     },
     {
       "album": {
@@ -7534,6 +7614,24 @@
       "duration_ms": 181141,
       "name": "Vuela y Vuela",
       "url": "https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s"
+    },
+    {
+      "album": {
+        "name": "x el 215",
+        "url": "https://open.spotify.com/album/0JYxLMZ6fgDayKM04oTGlB"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Armado",
+          "url": "https://open.spotify.com/artist/1iXmwjgoA59F6JIkc8RAJJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191271,
+      "name": "x el 215",
+      "url": "https://open.spotify.com/track/3KpxZy5MCs8lJlgIAqdtRc"
     },
     {
       "album": {

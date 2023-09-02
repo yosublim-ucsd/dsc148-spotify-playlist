@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-28",
-  "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: La T y La M",
+  "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: BM & La Champions Liga.",
   "name": "Cumbia de Barrio",
   "tracks": [
     {
@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Adentro del Party",
       "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "DIME SI ERES FELIZ VOL.2",
+        "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171667,
+      "name": "DIME SI ERES FELIZ VOL.2",
+      "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
+    },
+    {
+      "album": {
         "name": "DISCULPE OFICIAL",
         "url": "https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg"
       },
@@ -1046,7 +1068,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 234095,
       "name": "Free L-Gante",
       "url": "https://open.spotify.com/track/2XJLoUmpWyAhrMry0TIt1o"
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182608,
       "name": "Frontea 3",
       "url": "https://open.spotify.com/track/7238cpvB913sO1Rh8C6onD"
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 192068,
       "name": "Junto a una Estrella",
       "url": "https://open.spotify.com/track/3evAMaE0IS2VXx2qfnk72X"
@@ -2372,7 +2394,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 137608,
       "name": "Sabado Picado",
       "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"

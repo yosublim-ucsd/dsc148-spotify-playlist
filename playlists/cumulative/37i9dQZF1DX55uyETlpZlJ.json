@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Kaaduvalavale",
+        "url": "https://open.spotify.com/album/6w8fcNBCtvW5rtAnpoJyLv"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244645,
+      "name": "Kaaduvalavale",
+      "url": "https://open.spotify.com/track/5AnZosJYFmi1kkh4LdVVEO"
+    },
+    {
+      "album": {
         "name": "Ninagaagi",
         "url": "https://open.spotify.com/album/4ua8AMfcoC231SEaTtJgsl"
       },

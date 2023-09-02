@@ -4,7 +4,7 @@
 
 > wru? OTW! Cover: Haven, Denise Julia
 
-461 songs - 1 day 4 hr 1 min
+462 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Pengagum](https://open.spotify.com/track/06sIPLVYcHSvUNxcU0Cxfp) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Pengagum](https://open.spotify.com/album/5blOVUaI0cVf0FAkPt2j4n) | 4:44 | 2023-08-03 | 2023-08-11 |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-06-22 | 2023-06-30 |
 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 | 2023-08-31 |  |
-| [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 | 2023-06-15 |  |
+| [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 | 2023-06-15 | 2023-09-02 |
 | [Perkara Tubuh](https://open.spotify.com/track/6Oqk183RxaZ2fzuAmc7RBY) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Perkara Tubuh](https://open.spotify.com/album/1Qes5yXkUVK0L7w681emMr) | 2:35 | 2023-05-18 | 2023-06-02 |
 | [Pesan Singkat](https://open.spotify.com/track/4fwfjJY9cHJnhP0EBuExA8) | [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g), [Gaby Cristy](https://open.spotify.com/artist/7pH5siKE8NsevuME0IxR6Z) | [Pesan Singkat](https://open.spotify.com/album/16Okn34tJElJ7dYPzFcvrT) | 3:43 | 2023-06-29 | 2023-07-07 |
 | [Pizza On My Fridge](https://open.spotify.com/track/6UawcuXkQr5xAlNSkPdBt8) | [Shanda](https://open.spotify.com/artist/0AhFkmSnFP9JDAYbDhmI5c) | [Pizza On My Fridge](https://open.spotify.com/album/2ZDNYRiHyEMYXLByDa4YP6) | 2:49 | 2023-08-03 | 2023-08-11 |
@@ -378,6 +378,7 @@
 | [Send U Memes](https://open.spotify.com/track/6AqeYhkAKT2Lj8Nx2U0Uhe) | [Annette Lee](https://open.spotify.com/artist/7DOJeU8k34aMTZl014gcEC) | [Send U Memes](https://open.spotify.com/album/3mambT2tZDRHpWYGTBAXLU) | 2:31 | 2023-08-24 | 2023-09-01 |
 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 | 2023-03-24 |  |
 | [Senyum](https://open.spotify.com/track/42U5uLkqHQ1qCPIB4FPFt1) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [ASTL](https://open.spotify.com/album/0H5bO0U5tIHUbjxquqPh82) | 3:01 | 2023-08-11 | 2023-08-19 |
+| [Seperti](https://open.spotify.com/track/6PE7skYnIYBNsb6WVkzUji) | [Satria The Monster](https://open.spotify.com/artist/0NLnP0EquyxbmnV6dNEY8U) | [Seperti](https://open.spotify.com/album/6Hppx1QuUWqxGZMiVzpzYd) | 3:36 | 2023-09-01 |  |
 | [Seperti Setiap Hari](https://open.spotify.com/track/1AyYT78SpaigFODEKbeZgn) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Seperti Setiap Hari](https://open.spotify.com/album/1IRtRY9ytc8LI6THmjKQ3n) | 2:57 | 2023-07-13 | 2023-07-21 |
 | [Settle 4 Less](https://open.spotify.com/track/55TqRwJoKEh7b7ZzNFh1sR) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Settle 4 Less](https://open.spotify.com/album/7eApwkHooJ3YKCfAOaROXq) | 2:36 | 2023-07-28 | 2023-08-04 |
 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 | 2023-06-08 | 2023-06-16 |

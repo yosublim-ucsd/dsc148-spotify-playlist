@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: comment debord",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: MIKA",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -800,6 +800,24 @@
       "duration_ms": 201409,
       "name": "80's",
       "url": "https://open.spotify.com/track/6VONfYwyPiTSVAkbVHMdBa"
+    },
+    {
+      "album": {
+        "name": "90's Kids",
+        "url": "https://open.spotify.com/album/4Pt8TazPUHTsJ53mMxczBO"
+      },
+      "artists": [
+        {
+          "name": "Vendou",
+          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210655,
+      "name": "90's Kids",
+      "url": "https://open.spotify.com/track/2C9M2GYggI0cLSwj78nH08"
     },
     {
       "album": {
@@ -6102,7 +6120,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 203322,
       "name": "Chien Mang\u00e9 Chien",
       "url": "https://open.spotify.com/track/2i0fBPihCnAu4c48PFdgvv"
@@ -7896,6 +7914,24 @@
       "duration_ms": 204705,
       "name": "C\u2019est la mienne",
       "url": "https://open.spotify.com/track/4LjA1cVHpe8tHKXanWYBee"
+    },
+    {
+      "album": {
+        "name": "C\u2019est la Vie",
+        "url": "https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208469,
+      "name": "C\u2019est la Vie",
+      "url": "https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb"
     },
     {
       "album": {
@@ -10864,7 +10900,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU"
@@ -11770,6 +11806,24 @@
       "duration_ms": 193080,
       "name": "Fais-toi s'en pas",
       "url": "https://open.spotify.com/track/1etUKpAwqQRL3yPzmYi8g9"
+    },
+    {
+      "album": {
+        "name": "monde autour",
+        "url": "https://open.spotify.com/album/77Isp6SAhHX3vRplCtfKQv"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309242,
+      "name": "faites-moi penser",
+      "url": "https://open.spotify.com/track/3cRJolHhQGObFb472KTIdD"
     },
     {
       "album": {
@@ -13564,7 +13618,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168507,
       "name": "GONE!",
       "url": "https://open.spotify.com/track/5U0a4MxQwguUfubabxFhQR"
@@ -14290,6 +14344,24 @@
       "duration_ms": 207640,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5308LAnF8r8vctvrTIfSoa"
+    },
+    {
+      "album": {
+        "name": "Holistique",
+        "url": "https://open.spotify.com/album/5xiyhgPlhG92aGoCJyQ99P"
+      },
+      "artists": [
+        {
+          "name": "Fanny Bloom",
+          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261385,
+      "name": "Holistique",
+      "url": "https://open.spotify.com/track/14uEzkG1qZGpnYUnFR02h7"
     },
     {
       "album": {
@@ -17721,6 +17793,24 @@
     },
     {
       "album": {
+        "name": "L'Autre",
+        "url": "https://open.spotify.com/album/6Zzi9cViyRhMCVxugRlw0o"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "L'Autre",
+      "url": "https://open.spotify.com/track/1cQW86qR0xDFbGjh6sn2dl"
+    },
+    {
+      "album": {
         "name": "L'azur",
         "url": "https://open.spotify.com/album/1lIOIRiqOzfbzIXVsUfs8f"
       },
@@ -20904,7 +20994,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 268826,
       "name": "Les po\u00e9tesses de Saint-Jambe",
       "url": "https://open.spotify.com/track/2IjL7TzDYQEciZd9UTleEC"
@@ -25568,6 +25658,24 @@
       "duration_ms": 206991,
       "name": "OG Gang",
       "url": "https://open.spotify.com/track/6U8gy0hqd1kF53sILUYFPS"
+    },
+    {
+      "album": {
+        "name": "OH MADELEINE",
+        "url": "https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx"
+      },
+      "artists": [
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159603,
+      "name": "OH MADELEINE",
+      "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
     },
     {
       "album": {
@@ -31414,7 +31522,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 165407,
       "name": "Sandy",
       "url": "https://open.spotify.com/track/1szKZnGxBmd1JgMzPEzF8G"
@@ -32994,7 +33102,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 307540,
       "name": "Stack",
       "url": "https://open.spotify.com/track/6qWTWoKhEURkA1WD9Z8vYQ"
@@ -34399,6 +34507,24 @@
     },
     {
       "album": {
+        "name": "LAIT PATERNEL",
+        "url": "https://open.spotify.com/album/3Lpk09crIfWNa05skISIUF"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266253,
+      "name": "Tikisson Woke",
+      "url": "https://open.spotify.com/track/1jle97DJnKMS38gA3v0tC7"
+    },
+    {
+      "album": {
         "name": "Tintagel",
         "url": "https://open.spotify.com/album/2s083qeK8rq47FPVbjC8Bs"
       },
@@ -35278,7 +35404,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
@@ -36970,7 +37096,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 190284,
       "name": "veux veux pas",
       "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
@@ -38032,6 +38158,24 @@
       "duration_ms": 136470,
       "name": "Yeah babe",
       "url": "https://open.spotify.com/track/20EJ4bdHUsPxoO5Vv5juir"
+    },
+    {
+      "album": {
+        "name": "\u00c0 boire deboutte",
+        "url": "https://open.spotify.com/album/7qMWaLTaI6Nm40Bf9dYw4x"
+      },
+      "artists": [
+        {
+          "name": "Salebarbes",
+          "url": "https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Yink moi qui t'faut",
+      "url": "https://open.spotify.com/track/2lGpOTKuIailwRDHTvtuRN"
     },
     {
       "album": {

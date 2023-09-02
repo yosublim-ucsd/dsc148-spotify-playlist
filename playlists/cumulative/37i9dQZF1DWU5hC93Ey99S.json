@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+    },
+    {
+      "album": {
         "name": "All Good (Jasper Tygner Remix)",
         "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
       },
@@ -540,6 +562,24 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
+    },
+    {
+      "album": {
+        "name": "Broke Another Heart (Today)",
+        "url": "https://open.spotify.com/album/6uQOWLTG3pIg2LH57jFxi0"
+      },
+      "artists": [
+        {
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199766,
+      "name": "Broke Another Heart (Today)",
+      "url": "https://open.spotify.com/track/4aRiePemhJwCpCti5DEZSs"
     },
     {
       "album": {
@@ -2506,6 +2546,40 @@
       "duration_ms": 148359,
       "name": "loveday",
       "url": "https://open.spotify.com/track/4elhu7NjJVs0udPIRghYM5"
+    },
+    {
+      "album": {
+        "name": "Make It Better (Remixes Vol.1)",
+        "url": "https://open.spotify.com/album/0Vgs0dllM7oSR7U1oZPgs3"
+      },
+      "artists": [
+        {
+          "name": "Dashdot",
+          "url": "https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU"
+        },
+        {
+          "name": "Maxximal",
+          "url": "https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY"
+        },
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296129,
+      "name": "Make It Better [ZAC & BAKKA (BR) Remix]",
+      "url": "https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm"
     },
     {
       "album": {

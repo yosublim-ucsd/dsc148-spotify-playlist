@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Joel Corry, MK, Rita Ora",
-  "num_followers": 133088,
+  "num_followers": 133132,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ4NjhiMDE4MWQyY2U4ZmRjNTM4ZmM1OTlmZDFhOWZlMzQyMWU3",
+  "snapshot_id": "MCw5NGY0NDUzMDk5NDMyNTk1OTYyNzkwMmYxMzE0NmJhMjQ0ZjFjNTIy",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -33,6 +33,70 @@
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     },
     {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Koala",
+        "url": "https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 155668,
+      "name": "Koala",
+      "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/4xdwfPgqKdggDhdQ8C1Eg4"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/1SRkfplefIkfa22aq7Jg6s"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Easy On My Heart",
+        "url": "https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 178593,
+      "name": "Easy On My Heart",
+      "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
+    },
+    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "HEARTBREAK ON REPEAT",
@@ -47,6 +111,26 @@
       "duration_ms": 174575,
       "name": "HEARTBREAK ON REPEAT",
       "url": "https://open.spotify.com/track/1huYLOpnw29b4sqgEIOGe0"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 148086,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -95,6 +179,58 @@
       "duration_ms": 160578,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/3l89sZcMW0mJJEgRQN68G9"
+      },
+      "artists": [
+        {
+          "name": "COSBY",
+          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
+        },
+        {
+          "name": "Charming Horses",
+          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
+        }
+      ],
+      "duration_ms": 175315,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6tFu352cJP4jBVrfU4dR4l"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Copenhagen",
+        "url": "https://open.spotify.com/album/5UlocQNBaXROdSOgONgpor"
+      },
+      "artists": [
+        {
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Copenhagen",
+      "url": "https://open.spotify.com/track/28E1szJlW78BvA6HpCybgH"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Look At Me Now",
+        "url": "https://open.spotify.com/album/0bW2Oa2F1KvUzM7QuYzMS1"
+      },
+      "artists": [
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "duration_ms": 195478,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/4kNT2JdVdGBscZk66POziI"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -151,22 +287,6 @@
       "duration_ms": 200267,
       "name": "Planet of the Bass (feat. DJ Crazy Times & Ms. Biljana Electronica)",
       "url": "https://open.spotify.com/track/7xOjJ5v3SGlYl5Rb2c31dI"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Look At Me Now",
-        "url": "https://open.spotify.com/album/0bW2Oa2F1KvUzM7QuYzMS1"
-      },
-      "artists": [
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        }
-      ],
-      "duration_ms": 195478,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/4kNT2JdVdGBscZk66POziI"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1367,42 +1487,6 @@
       "duration_ms": 180877,
       "name": "Let's Go MIA",
       "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Without You (feat. Elle King)",
-        "url": "https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Without You (feat. Elle King)",
-      "url": "https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Stop Loving You",
-        "url": "https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 169503,
-      "name": "Stop Loving You",
-      "url": "https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk"
     }
   ],
   "unique_name": "Fresh Dance Pop",

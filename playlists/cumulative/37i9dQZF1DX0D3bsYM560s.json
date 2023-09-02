@@ -1047,6 +1047,36 @@
     },
     {
       "album": {
+        "name": "The Butcher Shoppe EP",
+        "url": "https://open.spotify.com/album/7IJHtzaBO8wAsroGvbA5ZN"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Avril Smith",
+          "url": "https://open.spotify.com/artist/5pLEQhE7FwQ84khLW03dTw"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "No-See-Um Stomp",
+      "url": "https://open.spotify.com/track/4ZLCJQIEzsldfX3YNj2V0n"
+    },
+    {
+      "album": {
         "name": "Nothing to Lose",
         "url": "https://open.spotify.com/album/23PBI8ewt7XwbFK59azoiC"
       },

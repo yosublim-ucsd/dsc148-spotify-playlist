@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-491 songs - 1 day 1 hr 34 min
+492 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 | 2022-06-21 | 2022-08-06 |
 | [Believer](https://open.spotify.com/track/7IiLh65OUiHNWTFXpsAzY1) | [Jac & Harri](https://open.spotify.com/artist/3o2JkvV32a6n4Xwf585pmT), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Sander Nijbroek](https://open.spotify.com/artist/6zakne0mu9dWkzLZI34YWR) | [Believer](https://open.spotify.com/album/0ce9P1lX3Pm4FwiZhP7YrA) | 2:49 | 2021-07-23 | 2022-04-05 |
 | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/album/2YNA1Y8T91S15TPTzMCaFx) | 3:35 | 2021-06-04 | 2023-03-11 |
-| [Best Of Me](https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Best Of Me](https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v) | 2:26 | 2023-07-28 |  |
+| [Best Of Me](https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Best Of Me](https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v) | 2:26 | 2023-07-28 | 2023-09-02 |
 | [Better Now](https://open.spotify.com/track/0iF6QJbS6FRPokpyVHVkKt) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Better Now](https://open.spotify.com/album/1sxLfxxH97kfONHW76WRgL) | 3:01 | 2022-10-28 | 2023-02-04 |
 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 | 2023-02-24 |  |
 | [Bifrost](https://open.spotify.com/track/4B930MKVgJdW93LVq5xeBl) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Bifrost](https://open.spotify.com/album/0Phjy3NVF9RjzqPBA59y31) | 2:35 | 2022-10-07 | 2022-12-06 |
@@ -286,6 +286,7 @@
 | [Neon Lights](https://open.spotify.com/track/4iqmktYiX3g7jAwr73i6yC) | [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv) | [Neon Lights](https://open.spotify.com/album/4RxUDHm3Qd2YV5lTQx0tnB) | 3:02 | 2021-06-02 | 2022-06-15 |
 | [Never Alone](https://open.spotify.com/track/6A2jpdhOWJJvGQW1zXKgqW) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Never Alone](https://open.spotify.com/album/6YlAzR1tvsXIJgR7Nu1pzq) | 2:44 | 2021-11-19 | 2022-04-21 |
 | [Never Be Alone](https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Never Be Alone](https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx) | 2:56 | 2022-10-14 | 2022-12-06 |
+| [Never Give Up On You \(with Elle Vee\)](https://open.spotify.com/track/6QyteQFqwV52K3YAs2a3pf) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Never Give Up On You \(with Elle Vee\)](https://open.spotify.com/album/1Rd5iSReakdd3r5H7g9p51) | 3:28 | 2023-09-01 |  |
 | [Next to Me \- Vintage Culture Remix](https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Next to Me \(Remixes\)](https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9) | 6:22 | 2022-03-18 | 2023-02-05 |
 | [Nextra](https://open.spotify.com/track/6U9XV3WFi4Lo89SHxFpyNg) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Nextra](https://open.spotify.com/album/5adMXoePLQgfglzbA7M7vp) | 6:00 | 2022-03-18 | 2022-04-17 |
 | [No Beef \(feat\. Miss Palmer\) \- Steve Aoki’s 11 Years Later Remix](https://open.spotify.com/track/3XTDWjA37hSV3huWezCQN3) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U) | [No Beef \(feat\. Miss Palmer\) \[REMIXES pt\. 1\]](https://open.spotify.com/album/0PFbtnsn0Pb0YMoxw12vC7) | 3:23 | 2022-03-18 | 2022-04-18 |

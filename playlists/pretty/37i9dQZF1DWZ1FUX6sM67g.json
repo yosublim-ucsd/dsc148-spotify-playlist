@@ -1,12 +1,12 @@
 {
   "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Chayanne",
-  "num_followers": 144456,
+  "num_followers": 144514,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTdjNTRmOWMxMjNkNDkzZGZhMGY0N2Q2M2E5MzQyMDlkNzFhMzUw",
+  "snapshot_id": "MCw4MWYxODRmN2RlMWMwM2FjZjY0ZGJjYzJmMmMyODdlNTE4MzgxMDQ1",
   "tracks": [
     {
       "added_at": "2023-08-18 05:01:00",
@@ -41,20 +41,36 @@
       "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
     },
     {
-      "added_at": "2023-08-18 05:01:00",
+      "added_at": "2023-09-01 03:59:00",
       "album": {
-        "name": "Un Cigarro",
-        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
+        "name": "Isabela",
+        "url": "https://open.spotify.com/album/1qo0xhpGBkq8VtzXbqtNzG"
       },
       "artists": [
         {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Un Cigarro",
-      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
+      "duration_ms": 188852,
+      "name": "Isabela",
+      "url": "https://open.spotify.com/track/07eTBiKqLWi7Q2eBbSjDuS"
+    },
+    {
+      "added_at": "2023-08-18 05:01:00",
+      "album": {
+        "name": "Trovando El Son",
+        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+      },
+      "artists": [
+        {
+          "name": "Fresto Music",
+          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+        }
+      ],
+      "duration_ms": 300791,
+      "name": "Me Hace Da\u00f1o Verte",
+      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
     },
     {
       "added_at": "2023-08-18 05:01:00",
@@ -81,20 +97,88 @@
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
     },
     {
-      "added_at": "2023-08-18 05:01:00",
+      "added_at": "2023-09-01 03:59:00",
       "album": {
-        "name": "Trovando El Son",
-        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/45O6rWsnsgORCAgGJwfZaR"
       },
       "artists": [
         {
-          "name": "Fresto Music",
-          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 300791,
-      "name": "Me Hace Da\u00f1o Verte",
-      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
+      "duration_ms": 203590,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/2t4HsrvaJpNOSI1UMnKVxW"
+    },
+    {
+      "added_at": "2023-08-18 05:01:00",
+      "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 222043,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
+    },
+    {
+      "added_at": "2023-08-18 05:01:00",
+      "album": {
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 267016,
+      "name": "La F\u00f3rmula",
+      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
+    },
+    {
+      "added_at": "2023-09-01 03:59:00",
+      "album": {
+        "name": "Por Retenerte",
+        "url": "https://open.spotify.com/album/1dcxcjZiHUGWDUzX8T62E5"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "Gaby Zambrano",
+          "url": "https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Por Retenerte",
+      "url": "https://open.spotify.com/track/5NQVgyomgTIHmtxfTZfncp"
     },
     {
       "added_at": "2023-08-18 05:01:00",
@@ -115,6 +199,42 @@
       "duration_ms": 193523,
       "name": "Si Tu La Ves",
       "url": "https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9"
+    },
+    {
+      "added_at": "2023-08-18 05:01:00",
+      "album": {
+        "name": "Un Cigarro",
+        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Un Cigarro",
+      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
+    },
+    {
+      "added_at": "2023-09-01 03:59:00",
+      "album": {
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+      },
+      "artists": [
+        {
+          "name": "ZABDIEL",
+          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 193059,
+      "name": "AVENTURA",
+      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
     },
     {
       "added_at": "2023-08-18 05:01:00",
@@ -179,42 +299,6 @@
     {
       "added_at": "2023-08-18 05:01:00",
       "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 222043,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
-    },
-    {
-      "added_at": "2023-08-18 05:01:00",
-      "album": {
-        "name": "Usted Ya Perdi\u00f3",
-        "url": "https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ"
-      },
-      "artists": [
-        {
-          "name": "Diana Burco",
-          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
-        },
-        {
-          "name": "Los Cumbia Stars",
-          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
-        }
-      ],
-      "duration_ms": 180103,
-      "name": "Usted Ya Perdi\u00f3",
-      "url": "https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic"
-    },
-    {
-      "added_at": "2023-08-18 05:01:00",
-      "album": {
         "name": "Si T\u00fa Me Quieres",
         "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
       },
@@ -251,26 +335,6 @@
     {
       "added_at": "2023-08-18 05:01:00",
       "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 267016,
-      "name": "La F\u00f3rmula",
-      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
-    },
-    {
-      "added_at": "2023-08-18 05:01:00",
-      "album": {
         "name": "Como Te Pago",
         "url": "https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ"
       },
@@ -303,6 +367,22 @@
     {
       "added_at": "2023-08-18 05:01:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": "2023-08-18 05:01:00",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -323,38 +403,6 @@
     {
       "added_at": "2023-08-18 05:01:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "\u00bfQu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW"
-    },
-    {
-      "added_at": "2023-08-18 05:01:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": "2023-08-18 05:01:00",
-      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -371,6 +419,22 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2023-08-18 05:01:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "\u00bfQu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW"
     },
     {
       "added_at": "2023-08-18 05:01:00",
@@ -487,26 +551,6 @@
     {
       "added_at": "2023-08-18 05:01:00",
       "album": {
-        "name": "Yo No Fumo",
-        "url": "https://open.spotify.com/album/6iElKHUTsv8TQck59XGWsW"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 179828,
-      "name": "Yo No Fumo",
-      "url": "https://open.spotify.com/track/79U0Bz4XoHMyjmwK2AlX2B"
-    },
-    {
-      "added_at": "2023-08-18 05:01:00",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
       },
@@ -519,30 +563,6 @@
       "duration_ms": 200000,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
-    },
-    {
-      "added_at": "2023-08-18 05:01:00",
-      "album": {
-        "name": "Noche Primavera",
-        "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
-      },
-      "artists": [
-        {
-          "name": "Man\u00fa",
-          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 199277,
-      "name": "Noche Primavera",
-      "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
     },
     {
       "added_at": "2023-08-18 05:01:00",
@@ -635,22 +655,6 @@
       "duration_ms": 193125,
       "name": "De Qu\u00e9 Manera",
       "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
-    },
-    {
-      "added_at": "2023-08-18 05:01:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ens\u00e9\u00f1ame a Bailar",
-      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
     },
     {
       "added_at": "2023-08-18 05:01:00",

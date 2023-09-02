@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Tonic Walter
 
-2,380 songs - 8 day 21 hr 10 min
+2,383 songs - 8 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Beautiful World](https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 6:15 | 2023-08-31 |  |
 | [Bed Behavior](https://open.spotify.com/track/258g9Qp6H3Ujwz8gyAygeT) | [Sven Tasnadi](https://open.spotify.com/artist/5s05VygMShUXGXitSYkeyo), [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Bed Behavior](https://open.spotify.com/album/11NI6xVRKjjz5zPZMfXidA) | 4:22 | 2023-01-27 | 2023-02-10 |
 | [Before The Flood \- Ankhoï Remix](https://open.spotify.com/track/4CA06BbOaLZS03FQu48jXy) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Before The Flood \(Ankhoï Remix\)](https://open.spotify.com/album/3G4VhXCiJY7gHFgFoQssyH) | 7:25 | 2023-04-27 | 2023-05-19 |
+| [Before Us](https://open.spotify.com/track/35nQObHeEnyN9j2HQ6CbrB) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Gigantia EP](https://open.spotify.com/album/5QxDIWuPMNGi941SRjktS2) | 5:26 | 2023-09-01 |  |
 | [Before We Meet Again](https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Before We Meet Again](https://open.spotify.com/album/05DWdwz5EVwV5Zzvvy7kNa) | 4:22 | 2023-04-27 | 2023-05-12 |
 | [Beginners](https://open.spotify.com/track/0j57BWxNCZ20D7Gsy4dPSB) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power Of Today EP](https://open.spotify.com/album/7EuAisoRLrG0b9XRKm5DvG) | 6:13 | 2023-02-10 | 2023-02-24 |
 | [Behind The Sun](https://open.spotify.com/track/7tRXTDi87CiAqU5sIBQfIC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Behind The Sun](https://open.spotify.com/album/7KcUnyTc5PxSkO2O1p8uob) | 4:10 | 2022-04-28 | 2022-05-20 |
@@ -532,6 +533,7 @@
 | [Didschn \- Monkey Safari Remix](https://open.spotify.com/track/0p9Yv1BVn7RLjXpD7ybyNG) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Didschn \(Monkey Safari Remix\)](https://open.spotify.com/album/1dJccnUZwwf6ftdtqObRIS) | 8:13 | 2022-04-21 | 2022-05-13 |
 | [Die Dunkle Biene](https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Die Dunkle Biene](https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx) | 7:45 | 2023-02-23 | 2023-03-10 |
 | [Die Transformation](https://open.spotify.com/track/44IDBp1nDAa1qcoZ6IU7YP) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Die Transformation / Vidy](https://open.spotify.com/album/5rzipv2nMRtGU1AA35Ig6H) | 6:23 | 2022-10-27 | 2022-11-18 |
+| [Digital Erasure](https://open.spotify.com/track/5MTa9LqoGkkdXhRcvMmOY6) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Digital Erasure](https://open.spotify.com/album/0f64MsbmYi5RMXIYfDBOFH) | 5:23 | 2023-09-01 |  |
 | [Dima](https://open.spotify.com/track/6tLOAEBz4M704MRoAZoE2m) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi), [Marcus Worgull](https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG) | [Dima](https://open.spotify.com/album/0hijR1xN39gYmXKoRjMrEY) | 4:48 | 2023-05-25 | 2023-06-09 |
 | [Dimension](https://open.spotify.com/track/0pW2QctYRtN7crHRcGYaxy) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Dimension](https://open.spotify.com/album/4gsbBzVgdrPwfK84vlLluJ) | 5:55 | 2022-12-15 | 2023-01-13 |
 | [Dimension](https://open.spotify.com/track/7oL1p2u7VJziVAxR2NgHt6) | [Heijmat](https://open.spotify.com/artist/3GEzxiBIFJaEK3Y5Ozl60J) | [Dimension](https://open.spotify.com/album/4XGkmmIy5CqTgavuY0i9pd) | 4:52 | 2023-08-31 |  |
@@ -1141,6 +1143,7 @@
 | [Keeping Strong \- Radio Edit](https://open.spotify.com/track/779ilPXl7ty7nVg6TLs4fC) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Keeping Strong](https://open.spotify.com/album/78KzSdWVdX7uleTgTgsUTI) | 3:47 | 2022-10-13 | 2022-10-28 |
 | [Keneth](https://open.spotify.com/track/4S7HT0aSS0fuC7vBHkTImD) | [Jason Johnson \(DE\)](https://open.spotify.com/artist/5sCukU3sm3DGmPwAgEZVDc), [Katze](https://open.spotify.com/artist/7JbQ1FXXbDKqnrYkrUisK7) | [Keneth](https://open.spotify.com/album/3jT7tVXow6Tw5NxXZ05fEK) | 6:34 | 2022-12-01 | 2022-12-16 |
 | [Kettcar](https://open.spotify.com/track/2ZXouT1E0PrSRf8mI4afZw) | [Max Joni](https://open.spotify.com/artist/7zcSZ1NiajqeGERguLtlzo), [Onni](https://open.spotify.com/artist/0xOcAMdl0Pxqau9VuCglzh) | [Indie Car](https://open.spotify.com/album/7e7R0HUxRvtzTQXoph7pHD) | 7:55 | 2023-03-09 | 2023-03-31 |
+| [Kick Up The Dust](https://open.spotify.com/track/4pdR5VBU2TNVHukEEPNlqR) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Kick Up The Dust](https://open.spotify.com/album/5lHCAmlJ6o5CxYIRrydi2b) | 4:35 | 2023-09-01 |  |
 | [Kid Anthem](https://open.spotify.com/track/4QjfN2pf9Eo1wFXLvd0vir) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [TOO](https://open.spotify.com/album/6Uz6GYODFek0VcRSBihHBO) | 5:48 | 2022-04-14 | 2022-04-22 |
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-09-22 | 2022-10-14 |
 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 | 2022-06-16 | 2022-07-01 |

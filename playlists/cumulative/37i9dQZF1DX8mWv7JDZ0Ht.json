@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Gilsons, Lagum",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariana Nolasco",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182111,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO"
+    },
+    {
+      "album": {
         "name": "Ch\u00e1 De Camomila",
         "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
       },
@@ -1893,6 +1911,28 @@
     },
     {
       "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193205,
+      "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
+      "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
+    },
+    {
+      "album": {
         "name": "deixa que eu j\u00e1 vou",
         "url": "https://open.spotify.com/album/744yL93oUhidi5dTt32T7z"
       },
@@ -2314,7 +2354,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 162507,
       "name": "elevador",
       "url": "https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5"
@@ -2416,7 +2456,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 194430,
       "name": "Eremita",
       "url": "https://open.spotify.com/track/1WhgrP90PSrslSYcRK4ma5"
@@ -3643,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
+    },
+    {
+      "album": {
         "name": "Decolagem",
         "url": "https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK"
       },
@@ -4234,7 +4292,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 199000,
       "name": "MEU 1\u00ba APARTAMENTO",
       "url": "https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ"
@@ -5435,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "Quem \u00c9 Ela?",
+        "url": "https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158464,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K"
+    },
+    {
+      "album": {
         "name": "Planeta Para",
         "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
@@ -5602,7 +5678,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 191769,
       "name": "Por Voc\u00ea",
       "url": "https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf"
@@ -5766,6 +5842,24 @@
       "duration_ms": 178032,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/4DvAHoaxXenN8wyRltfzKr"
+    },
+    {
+      "album": {
+        "name": "Primeiro Bom Dia",
+        "url": "https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133770,
+      "name": "Primeiro Bom Dia",
+      "url": "https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0"
     },
     {
       "album": {
@@ -5944,7 +6038,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 199000,
       "name": "Quero Te Ver Pra Sempre",
       "url": "https://open.spotify.com/track/43rrFeyyNkyiVN7iFP5SA1"
@@ -6340,6 +6434,28 @@
       "duration_ms": 225479,
       "name": "SE EU TE PEDIR PRA FICAR?",
       "url": "https://open.spotify.com/track/1gw8hh1Pm2uVpqKnbunRcq"
+    },
+    {
+      "album": {
+        "name": "SE JOGA",
+        "url": "https://open.spotify.com/album/6XdllQEkShHSrhyzeEqJ8B"
+      },
+      "artists": [
+        {
+          "name": "zawa",
+          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
+        },
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169017,
+      "name": "SE JOGA",
+      "url": "https://open.spotify.com/track/4OTfgTNwIXnAgcAYjb5Wqg"
     },
     {
       "album": {
@@ -6804,7 +6920,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 198893,
       "name": "Tarde da Noite",
       "url": "https://open.spotify.com/track/70mYwaFqWLYywSVPcCVynb"
@@ -6880,7 +6996,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 152376,
       "name": "TE AMO (em caixa alta)",
       "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
@@ -6970,7 +7086,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168459,
       "name": "Tempo Demais",
       "url": "https://open.spotify.com/track/3zsqFsBtZZZaFigmgE3ohh"
@@ -7313,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "Tudo Bem",
+        "url": "https://open.spotify.com/album/1EaCaXscUoQ9qy9o7GPU3j"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171607,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/2zKOd2W4iGZZtyCiEHimgJ"
+    },
+    {
+      "album": {
         "name": "Tudo Certo",
         "url": "https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k"
       },
@@ -7506,6 +7640,24 @@
       "duration_ms": 190769,
       "name": "T\u00e3o Sem Gra\u00e7a",
       "url": "https://open.spotify.com/track/091LhYj7dDBpGT7Yrnuqi7"
+    },
+    {
+      "album": {
+        "name": "Um Brinde A Vida",
+        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182086,
+      "name": "Um Brinde A Vida",
+      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
     },
     {
       "album": {
@@ -7837,6 +7989,28 @@
     },
     {
       "album": {
+        "name": "Vidro Emba\u00e7ado",
+        "url": "https://open.spotify.com/album/2GUM0ZM1ZRWb3XY5H4fvGl"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        },
+        {
+          "name": "Androla",
+          "url": "https://open.spotify.com/artist/0W04RXb1c74K1h1edeplMJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139895,
+      "name": "Vidro Emba\u00e7ado",
+      "url": "https://open.spotify.com/track/3fXg6lRxBtaWPCNxS9zhPM"
+    },
+    {
+      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
       },
@@ -8104,7 +8278,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 151867,
       "name": "X\u00edcara",
       "url": "https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra"

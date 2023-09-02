@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Slowdive
 
-1,133 songs - 2 day 20 hr 24 min
+1,134 songs - 2 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,7 +979,8 @@
 | [The People Say](https://open.spotify.com/track/51Xf6j7GapMJDWO0NXLS7T) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU) | [The People Say](https://open.spotify.com/album/0vWRvfBYsFjZZ3dxCmoGMf) | 4:25 | 2023-01-27 | 2023-02-25 |
 | [The Redwing](https://open.spotify.com/track/60inSqhwmDN5m0kYSq5cJU) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:18 | 2023-04-14 | 2023-06-02 |
 | [The Rhythm](https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:30 | 2022-04-22 | 2022-05-06 |
-| [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 | 2023-07-21 |  |
+| [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 | 2023-09-01 |  |
+| [The Show Must Go On](https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Show Must Go On](https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT) | 4:26 | 2023-07-21 | 2023-09-02 |
 | [The Smoke](https://open.spotify.com/track/2WXelEIMTkDX8VENGdbHfk) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [The Smoke](https://open.spotify.com/album/6NH6Oo9j6WydhAZawVyLRE) | 3:39 | 2022-01-28 | 2022-02-18 |
 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 | 2023-05-26 | 2023-06-24 |
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-07-21 |  |

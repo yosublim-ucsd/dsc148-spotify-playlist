@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Ocie Elliott",
+  "description": "A laid-back trip in the folk scene. Cover: Helena Deland",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 178030,
       "name": "Book of Memories",
       "url": "https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs"
@@ -1026,6 +1026,24 @@
       "duration_ms": 193080,
       "name": "Breathing Song",
       "url": "https://open.spotify.com/track/13pR0Vy22zw1in2Rd63TVn"
+    },
+    {
+      "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "album": {
@@ -4066,7 +4084,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186922,
       "name": "I Don't Live Here Anymore",
       "url": "https://open.spotify.com/track/7ECJeHWuydb003xEiqUnn1"
@@ -5366,7 +5384,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/6xSr2HhAmY096v9vfJrRqv"
@@ -6526,7 +6544,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 257220,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/3jAm7LtyaosLDsA1FUf895"
@@ -6912,6 +6930,24 @@
       "duration_ms": 163468,
       "name": "Place To Be",
       "url": "https://open.spotify.com/track/1jNVZmVkhhIcmnmj8Y1RNb"
+    },
+    {
+      "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230906,
+      "name": "Pocket Full of Rain",
+      "url": "https://open.spotify.com/track/4eUnqT2pBqi6t2PHy3l3R2"
     },
     {
       "album": {
@@ -8115,6 +8151,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217293,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7jUitZww3URFitXC32ezRd"
+    },
+    {
+      "album": {
         "name": "Sweet Home",
         "url": "https://open.spotify.com/album/4fev1gmD2IVpftJWt2lfnx"
       },
@@ -8292,6 +8346,24 @@
       "duration_ms": 260903,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/7oVQfidyQVhkxUT4Lg1foI"
+    },
+    {
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/6gpNZaAhggcDoW6PIPWtll"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6zxovpxhuNQwQBVv52gioP"
     },
     {
       "album": {
@@ -10342,10 +10414,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 205040,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS"
+    },
+    {
+      "album": {
+        "name": "You're the One",
+        "url": "https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8"
     },
     {
       "album": {

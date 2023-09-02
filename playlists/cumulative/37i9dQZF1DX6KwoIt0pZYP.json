@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
@@ -396,6 +396,24 @@
       "duration_ms": 203650,
       "name": "Alright (feat. Pamungkas)",
       "url": "https://open.spotify.com/track/5h06OzkIQRFtGupTTiishT"
+    },
+    {
+      "album": {
+        "name": "House Parties",
+        "url": "https://open.spotify.com/album/3AbQMtvN5oeeQEuMoaxbZQ"
+      },
+      "artists": [
+        {
+          "name": "aeriqah",
+          "url": "https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209705,
+      "name": "Amusing",
+      "url": "https://open.spotify.com/track/7E1N7m7Qs5J48AZ8tJf9Pn"
     },
     {
       "album": {
@@ -764,7 +782,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 175853,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 139591,
       "name": "Break From The Party",
       "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 251814,
       "name": "Catwalk",
       "url": "https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry"
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 228562,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/7M9PnaNMpqqyXfSNdpYt15"
@@ -2352,6 +2370,32 @@
       "duration_ms": 160193,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer"
+    },
+    {
+      "album": {
+        "name": "Definitely",
+        "url": "https://open.spotify.com/album/2mliVlWIYd8jpAV85wAX0x"
+      },
+      "artists": [
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        },
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        },
+        {
+          "name": "Katz",
+          "url": "https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Definitely",
+      "url": "https://open.spotify.com/track/7t6QmYxw44OELIQQPHatG0"
     },
     {
       "album": {
@@ -2952,7 +2996,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 213000,
       "name": "Exist/Exit",
       "url": "https://open.spotify.com/track/5qsiT41U9Ym4ISiLQHfgs0"
@@ -5467,6 +5511,24 @@
     },
     {
       "album": {
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
       },
@@ -6156,7 +6218,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 223000,
       "name": "Legend",
       "url": "https://open.spotify.com/track/3xPvSDLplCHfVSHHqMipG3"
@@ -6334,7 +6396,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 216258,
       "name": "Lifetime (Dimension)",
       "url": "https://open.spotify.com/track/4xI9phV5erN5I7cMC00VTU"
@@ -6696,7 +6758,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 128000,
       "name": "LOVE & LUST",
       "url": "https://open.spotify.com/track/0wpWfzQvmr3WNpS0hiZg6a"
@@ -6894,7 +6956,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 245426,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk"
@@ -6970,7 +7032,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184000,
       "name": "m00d",
       "url": "https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU"
@@ -7444,7 +7506,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 224449,
       "name": "Mummy (Please Stay)",
       "url": "https://open.spotify.com/track/0g7zNQmADaO6uNPNsCJPRw"
@@ -7702,6 +7764,32 @@
       "duration_ms": 228777,
       "name": "No Good In Goodbye",
       "url": "https://open.spotify.com/track/38ObpIH92W62oCBYhMW9hu"
+    },
+    {
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
     },
     {
       "album": {
@@ -8096,7 +8184,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 139324,
       "name": "oh no",
       "url": "https://open.spotify.com/track/7sErz2bp49BQJ6uThpeO6Y"
@@ -8524,7 +8612,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 256465,
       "name": "Party Trick",
       "url": "https://open.spotify.com/track/0slTP2DqrsL1bEefemJOjv"
@@ -8926,6 +9014,28 @@
       "duration_ms": 242993,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/27cecf1BlHEPC0jiZVc3jz"
+    },
+    {
+      "album": {
+        "name": "Nightvision (Love Is God 8/16 Edition)",
+        "url": "https://open.spotify.com/album/25UbcDZ9swZeBoG7enakIj"
+      },
+      "artists": [
+        {
+          "name": "Matter Halo",
+          "url": "https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282233,
+      "name": "Real (feat. Pamungkas)",
+      "url": "https://open.spotify.com/track/0ASjlSVp2dyweESVaUR1Ss"
     },
     {
       "album": {
@@ -9504,7 +9614,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 151520,
       "name": "Send U Memes",
       "url": "https://open.spotify.com/track/6AqeYhkAKT2Lj8Nx2U0Uhe"
@@ -9656,7 +9766,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 150900,
       "name": "shotgun",
       "url": "https://open.spotify.com/track/5RRiMVm40KoX68d41rJAGD"
@@ -10106,6 +10216,24 @@
       "duration_ms": 250016,
       "name": "Someday (feat. Sam Kim)",
       "url": "https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw"
+    },
+    {
+      "album": {
+        "name": "Somehow",
+        "url": "https://open.spotify.com/album/5viPEPHhQJWxv5hUmOyBAx"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159016,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/4pTpwIo2BEuzQkmktfJyD3"
     },
     {
       "album": {
@@ -10560,6 +10688,24 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "album": {
+        "name": "Sunset Sensory",
+        "url": "https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG"
+      },
+      "artists": [
+        {
+          "name": "Mai Davika",
+          "url": "https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171285,
+      "name": "Sunset Sensory",
+      "url": "https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq"
     },
     {
       "album": {
@@ -11065,6 +11211,28 @@
     },
     {
       "album": {
+        "name": "thinkaboutyou",
+        "url": "https://open.spotify.com/album/5Rk2slHSxlZESDz7sAnR7p"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        },
+        {
+          "name": "Alex Colours",
+          "url": "https://open.spotify.com/artist/31ozbZlQBQ5TwL6HvzkEUM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "thinkaboutyou",
+      "url": "https://open.spotify.com/track/0cTmuAFWdPOkwwlzUCfHWh"
+    },
+    {
+      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -11442,10 +11610,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 217846,
       "name": "TRAVELIN'",
       "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
+    },
+    {
+      "album": {
+        "name": "trippin",
+        "url": "https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178252,
+      "name": "trippin",
+      "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
     },
     {
       "album": {
@@ -12124,7 +12310,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 242746,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"

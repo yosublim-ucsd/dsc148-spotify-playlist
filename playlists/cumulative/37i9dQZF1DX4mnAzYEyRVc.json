@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "Alles dreht sich",
+        "url": "https://open.spotify.com/album/3M0lDkQphHpigzRKCBA9yn"
+      },
+      "artists": [
+        {
+          "name": "Skyline Green",
+          "url": "https://open.spotify.com/artist/3KfLOFf3Wsibfv2Do6v6Ac"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Alles dreht sich",
+      "url": "https://open.spotify.com/track/1tAupE3ddiB42Quvb8sKCz"
+    },
+    {
+      "album": {
         "name": "SKA=ALMIGHTY",
         "url": "https://open.spotify.com/album/29JIgqdr03TsrbOs9CvObS"
       },
@@ -1509,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "King of Ska: The Beverley's Records Singles Collection 1963 - 1967",
+        "url": "https://open.spotify.com/album/2rRn15y0Y7m6NKWL9QXo3Y"
+      },
+      "artists": [
+        {
+          "name": "Roland Alphonso",
+          "url": "https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn"
+        },
+        {
+          "name": "The Beverley's All Stars",
+          "url": "https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186364,
+      "name": "Charade",
+      "url": "https://open.spotify.com/track/4TU950aBQIwFjkuWk63shn"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -1542,7 +1582,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 205527,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
@@ -1600,7 +1640,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 331169,
       "name": "Confucius",
       "url": "https://open.spotify.com/track/0PID4nnqvsWwxK89BYuWCR"
@@ -2008,6 +2048,24 @@
       "duration_ms": 229184,
       "name": "Dia Seguinte",
       "url": "https://open.spotify.com/track/5UOQw5b2rvKBmDfkFSIauk"
+    },
+    {
+      "album": {
+        "name": "Doin' What We Do",
+        "url": "https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184803,
+      "name": "Doin' What We Do",
+      "url": "https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY"
     },
     {
       "album": {
@@ -3008,7 +3066,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 151013,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
@@ -6200,7 +6258,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 158986,
       "name": "Pump Fake",
       "url": "https://open.spotify.com/track/2S3a2IPJwmGlvuEQaggI1F"
@@ -6460,6 +6518,32 @@
       "duration_ms": 151794,
       "name": "Ready Steady Ska",
       "url": "https://open.spotify.com/track/32ejoqUlnwJW9HdetPNBqu"
+    },
+    {
+      "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/0sJwWtsL2dXGdKpUu1Chnb"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "JER",
+          "url": "https://open.spotify.com/artist/7xJaPX4LwOT3i6XB7WFskK"
+        },
+        {
+          "name": "Stacked Like Pancakes",
+          "url": "https://open.spotify.com/artist/7Fk8bbugoEFZWgUvVoTBBp"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "Recess",
+      "url": "https://open.spotify.com/track/27o2eN8ssJK6dYwy20LvfS"
     },
     {
       "album": {
@@ -7617,6 +7701,28 @@
     },
     {
       "album": {
+        "name": "Shellshock",
+        "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248370,
+      "name": "Sleepin' on the Couch (with The Elovaters)",
+      "url": "https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM"
+    },
+    {
+      "album": {
         "name": "Locos y Rucas In Retro",
         "url": "https://open.spotify.com/album/6ejPPvg1bi5cTiUI4cNHyH"
       },
@@ -7824,7 +7930,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 239725,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/2phiHKlt8X5KXh1h7ZzsZf"
@@ -9112,7 +9218,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 151205,
       "name": "Transparency",
       "url": "https://open.spotify.com/track/2Rm8eB9apr94OrdWjP6GG1"
@@ -9166,7 +9272,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 194880,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/7hFqfUllIwqobuXuuc3sZf"
@@ -9498,7 +9604,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 202617,
       "name": "Vigo 72",
       "url": "https://open.spotify.com/track/677l8vAxJBtGr08oxO6Heg"
@@ -9867,6 +9973,24 @@
     },
     {
       "album": {
+        "name": "You In A Suit",
+        "url": "https://open.spotify.com/album/3AfG5Efw7yoWvbCLkbZdlg"
+      },
+      "artists": [
+        {
+          "name": "Half Past Two",
+          "url": "https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112172,
+      "name": "You In A Suit",
+      "url": "https://open.spotify.com/track/2hN8tzGgCvoZHnteNimic3"
+    },
+    {
+      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -9975,6 +10099,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0432\u0456\u0442\u043b\u043e \u0432\u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0456 \u043d\u0430\u0441",
+        "url": "https://open.spotify.com/album/1iORWt9QudztO4RfspchkI"
+      },
+      "artists": [
+        {
+          "name": "Mad Heads",
+          "url": "https://open.spotify.com/artist/2q3fzwgqdfcrJNIdy7hpXY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204428,
+      "name": "\u0421\u0432\u0456\u0442\u043b\u043e \u0432\u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0456 \u043d\u0430\u0441",
+      "url": "https://open.spotify.com/track/7F09wUGlRd2Asil0o1COVs"
+    },
+    {
+      "album": {
         "name": "\u0421\u043a\u0432\u0430\u0436\u0438\u043d\u0430 \u043d\u0435\u0444\u0442\u044f\u043d\u0430\u044f (Radio Edit)",
         "url": "https://open.spotify.com/album/30FzgAlDPXqQqyztHdTiUl"
       },
@@ -10044,6 +10186,24 @@
       "duration_ms": 209364,
       "name": "\u30b3\u30cd\u30af\u30c8\u30fc\u30f3 (TBS\u30e9\u30b8\u30aa\u300c\u3053\u306d\u304f\u3068\u300dOP)",
       "url": "https://open.spotify.com/track/1Alc6t5Uy5LIeZTP5ZCzuH"
+    },
+    {
+      "album": {
+        "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
+        "url": "https://open.spotify.com/album/5r1PybiVxHxq7eu5zAr5Qt"
+      },
+      "artists": [
+        {
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255976,
+      "name": "\u30ef\u30e9\u30c3\u30bf\u30e9\u30c3\u30bf",
+      "url": "https://open.spotify.com/track/1pjpRz8aEWtx65Y4HvqFYt"
     },
     {
       "album": {

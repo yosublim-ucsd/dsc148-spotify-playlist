@@ -4,7 +4,7 @@
 
 > Ist nur einmal im Jahr!
 
-84 songs - 4 hr 15 min
+85 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 | 2023-07-28 |  |
 | [Griechischer Wein](https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Zeig mir den Platz an der Sonne](https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg) | 4:04 | 2023-07-14 |  |
 | [Hamma! \- Single Edit](https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Culcha Candela](https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM) | 3:29 | 2023-07-14 |  |
-| [Heisser Sand](https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Heisser Sand](https://open.spotify.com/album/3FcXS14uhxaHh8feUoh1eV) | 2:03 | 2023-07-14 |  |
+| [Heisser Sand](https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Heisser Sand](https://open.spotify.com/album/3FcXS14uhxaHh8feUoh1eV) | 2:03 | 2023-07-14 | 2023-09-02 |
 | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3) | 4:06 | 2023-07-14 |  |
 | [Herz an Herz](https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Herzfrequenz](https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz) | 3:47 | 2023-07-14 |  |
 | [Herzbeben](https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:25 | 2023-07-14 |  |
@@ -67,6 +67,7 @@
 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 | 2023-07-14 |  |
 | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Shaun Baker](https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj) | [Mein kleines Herz \(Bam Bam\)](https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7) | 2:30 | 2023-07-14 |  |
 | [Monsta](https://open.spotify.com/track/3RM5RpRDDdST1njqOMG141) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Schöne Neue Welt](https://open.spotify.com/album/1Le69ZubCAoCHM4Boohkr1) | 3:16 | 2023-07-14 |  |
+| [Morgen kickt der Kater](https://open.spotify.com/track/0VB7FDKebXYVAkqZinFRxc) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Morgen kickt der Kater](https://open.spotify.com/album/6rmvDE7rJxD35UMJWdRnxz) | 3:16 | 2023-08-31 |  |
 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 | 2023-07-14 |  |
 | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 |  |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu) | [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm) | 2:44 | 2023-07-14 |  |

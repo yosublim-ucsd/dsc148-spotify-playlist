@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,681 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,729 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 8 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 9 | [Festive Day](https://open.spotify.com/track/4JLRH65PoifRK6wwunuOBh) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:51 |
 | 10 | [Thundercurls](https://open.spotify.com/track/22kr7jc4vGmQhxegTxidpN) | [Grande Mahogany](https://open.spotify.com/artist/5Ap6WM27z0Xie0W8Wfs68Q) | [Thundercurls](https://open.spotify.com/album/6Xbw2qrPE3o5UAmH6fdHco) | 3:07 |
-| 11 | [Attractive](https://open.spotify.com/track/2SsuEPUj0bM64zQkJTkiwY) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Attractive](https://open.spotify.com/album/0IKXyzQjx7rhwvpsKtT06p) | 2:44 |
+| 11 | [Attractive](https://open.spotify.com/track/2SsuEPUj0bM64zQkJTkiwY) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Attractive](https://open.spotify.com/album/0IKXyzQjx7rhwvpsKtT06p) | 2:52 |
 | 12 | [Trip to Mars](https://open.spotify.com/track/4Ck37ynkUxayjxsKST96uT) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Trip to Mars](https://open.spotify.com/album/3DRL4b6dIxcHdCi4Ob83UZ) | 3:49 |
 | 13 | [Original](https://open.spotify.com/track/4jHDe4YjUYb68wgTWe37Fw) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [Original](https://open.spotify.com/album/7E9tuLXiihUprUwNjpYqbT) | 2:56 |
 | 14 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
 | 100 | [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 |
 
-Snapshot ID: `MCxjNDMyNzZjNDY0MTA4MmU0Zjg0MGQyZTAxM2IzYjQxNzk4YTU5ODU0`
+Snapshot ID: `MCw2NWU2ZGRjMGYzODI2MWNmMzdmODE2YWViNTU3MmJlMzRhOWI3ZWRm`

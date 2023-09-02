@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 120973,
+  "num_followers": 121057,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmU2ODMyMmQ4NjI0MzUxMGZiZWNjOTcxMjRmZDJiZTY3NDNhN2E0",
+  "snapshot_id": "MCwxNjBiMDE0Y2MwNDY2MjA0YzMwM2I4MmU5ZDZmNzMyYmZkYTA4ZjQ3",
   "tracks": [
     {
       "added_at": "2023-07-28 16:34:00",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "Alquimia",
-        "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Una Llamada Perdida",
-      "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
+      "duration_ms": 143800,
+      "name": "Las Margaritas",
+      "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
     },
     {
       "added_at": "2023-07-28 16:34:00",
@@ -535,18 +531,22 @@
     {
       "added_at": "2023-07-28 16:34:00",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 143800,
-      "name": "Las Margaritas",
-      "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
+      "duration_ms": 201200,
+      "name": "Una Llamada Perdida",
+      "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
     },
     {
       "added_at": "2023-07-28 16:34:00",

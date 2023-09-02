@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 39589,
+  "num_followers": 39644,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTI3MzYyMzI4MDA2OGFmNWU3MDhlNGFmMDI4MjZhNTNiNmRiOWFj",
+  "snapshot_id": "MCwwODVlODNjODE1YzUzMDdkN2Y3YjExMzIwMzI1Y2YwYjQ5NTVhOTk0",
   "tracks": [
     {
       "added_at": "2023-08-31 13:38:27",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "I Chose Good",
         "url": "https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 163914,
       "name": "I Chose Good",
       "url": "https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "TMF",
-        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 211283,
-      "name": "TMF",
-      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "Good Thing (Deluxe)",
         "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 230853,
       "name": "Naomi",
       "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "TMF",
+        "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 211283,
+      "name": "TMF",
+      "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "It's A Long Road",
-        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
-      },
-      "artists": [
-        {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Tell You Not To Worry",
-      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
         "name": "you already know [demo_2021].wav",
         "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 220440,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -995,22 +995,18 @@
     {
       "added_at": "2023-08-31 13:38:27",
       "album": {
-        "name": "Like a Ship",
-        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
+        "name": "TRAVELIN'",
+        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Keite Young",
-          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
         }
       ],
-      "duration_ms": 353506,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
+      "duration_ms": 217846,
+      "name": "TRAVELIN'",
+      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -1027,6 +1023,50 @@
       "duration_ms": 157152,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/71KtVFmu7lY2AsKgdG1cZl"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Songs To Come Home To",
+        "url": "https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN"
+      },
+      "artists": [
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        },
+        {
+          "name": "Billy Davis",
+          "url": "https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB"
+        },
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "BETTER (feat. Jay Prince & Billy Davis)",
+      "url": "https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB"
+    },
+    {
+      "added_at": "2023-08-31 13:38:27",
+      "album": {
+        "name": "Like a Ship",
+        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Keite Young",
+          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
+        }
+      ],
+      "duration_ms": 353506,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
     },
     {
       "added_at": "2023-08-31 13:38:27",
@@ -1087,46 +1127,6 @@
       "duration_ms": 170106,
       "name": "Little Fun (feat. Sammy Johnson)",
       "url": "https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
-        "name": "Songs To Come Home To",
-        "url": "https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN"
-      },
-      "artists": [
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        },
-        {
-          "name": "Billy Davis",
-          "url": "https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB"
-        },
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "BETTER (feat. Jay Prince & Billy Davis)",
-      "url": "https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB"
-    },
-    {
-      "added_at": "2023-08-31 13:38:27",
-      "album": {
-        "name": "TRAVELIN'",
-        "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
-      },
-      "artists": [
-        {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        }
-      ],
-      "duration_ms": 217846,
-      "name": "TRAVELIN'",
-      "url": "https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q"
     },
     {
       "added_at": "2023-08-31 13:38:27",

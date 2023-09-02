@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9903,
+  "num_followers": 9916,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw",
+  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Yuh Bad (No Stressing)",
+        "url": "https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V"
+      },
+      "artists": [
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        }
+      ],
+      "duration_ms": 194222,
+      "name": "Yuh Bad (No Stressing)",
+      "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Jollof Rice Riddim",
         "url": "https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 181805,
       "name": "Wuk",
       "url": "https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Yuh Bad (No Stressing)",
-        "url": "https://open.spotify.com/album/64lvuxlqXjzWZ3cGUe4i8V"
-      },
-      "artists": [
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        },
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        }
-      ],
-      "duration_ms": 194222,
-      "name": "Yuh Bad (No Stressing)",
-      "url": "https://open.spotify.com/track/4ALOOE85shcxn0f0Ed2py7"
     },
     {
       "added_at": "2022-02-24 18:00:00",

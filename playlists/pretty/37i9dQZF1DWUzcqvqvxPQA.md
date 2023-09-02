@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,921 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,926 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 29 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 |
 | 30 | [I just need U.](https://open.spotify.com/track/7uvDJFly0TCWWsK48NI1fx) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [I just need U.](https://open.spotify.com/album/6sDHpv9JR4rcp4qjxPybak) | 3:46 |
 | 31 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
-| 32 | [Don't Wanna Wake Up](https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Don't Wanna Wake Up](https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj) | 3:47 |
-| 33 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
+| 32 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
+| 33 | [Don't Wanna Wake Up](https://open.spotify.com/track/0drXL2YqceYBs5gZmnOifQ) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Don't Wanna Wake Up](https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj) | 3:47 |
 | 34 | [Glorify](https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Say It](https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB) | 2:57 |
 | 35 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
 | 36 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 53 | [WaveWalker](https://open.spotify.com/track/1y0Fq8z3sVmQ9bHbT3r5Zy) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [WaveWalker](https://open.spotify.com/album/6CViRKQjb2VqUGnNCWo9X1) | 3:13 |
 | 54 | [Anchor](https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [BRKNHRT.](https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola) | 3:33 |
 | 55 | [THIS MOMENT](https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [THIS MOMENT](https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9) | 2:56 |
-| 56 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 |
-| 57 | [Let It Be Love](https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Let It Be Love](https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t) | 2:57 |
+| 56 | [Let It Be Love](https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Let It Be Love](https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t) | 2:57 |
+| 57 | [Follow Me](https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak) | [Shonlock](https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt) | [Follow Me](https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN) | 3:48 |
 | 58 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 |
 | 59 | [Love](https://open.spotify.com/track/2peHyuWwcc2Jtg6h9Xomu1) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Love / Home](https://open.spotify.com/album/6FN2OXacVXH97RLonyWVrl) | 2:57 |
 | 60 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 73 | [Heart Stops Beating](https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv) | [20XX](https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK) | 4:04 |
 | 74 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/3xS92oZQTY2inOjsft65Zo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Fountain \(I Am Good\) \[Live\]](https://open.spotify.com/album/3HJ7L75Te3baUMWqDM5zwZ) | 5:18 |
 | 75 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
-| 76 | [Most High](https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Most High](https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs) | 3:14 |
-| 77 | [Pray](https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Pray](https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe) | 3:48 |
+| 76 | [Pray](https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Pray](https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe) | 3:48 |
+| 77 | [Most High](https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Most High](https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs) | 3:14 |
 | 78 | [Perspectives](https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [Perspectives](https://open.spotify.com/album/7JacApKikA6YgXD2zq785n) | 3:16 |
 | 79 | [Let Go](https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Let Go](https://open.spotify.com/album/1IzKxjCQN2dZYpUvTWTQBd) | 3:51 |
 | 80 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
 | 100 | [Seasons](https://open.spotify.com/track/346A6fJDzFS2YxUXhldt2c) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Seasons](https://open.spotify.com/album/0OFlp2bVcZjixngoIGzwBW) | 4:04 |
 
-Snapshot ID: `MCw3ZmRjNzZlZGVlMDE1OTdiZjA0MWEwODdjZTMwMDQ2ZjhjM2E2ZGZj`
+Snapshot ID: `MCw4OWJmNzJhZWU0ZGVhNzc3ZGI1NTBkODQyNjk3ODM0OWYyYmNmYTZm`

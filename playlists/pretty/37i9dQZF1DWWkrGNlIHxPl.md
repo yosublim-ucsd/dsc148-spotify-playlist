@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Bayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,046 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,085 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 7 | [ROLLERCOASTER](https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ROLLERCOASTER](https://open.spotify.com/album/1XUuF8s801LBGjloJZDBsm) | 3:14 |
 | 8 | [Rather Try](https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Rather Try](https://open.spotify.com/album/14CEaWYYQN7bEqnYu21syi) | 2:37 |
 | 9 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 |
-| 10 | [Reckless](https://open.spotify.com/track/6DQcmJrSZCH9nCtLtilcXP) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Reckless](https://open.spotify.com/album/4Qs52IAZsGBXM854MEkfXE) | 5:06 |
+| 10 | [Reckless](https://open.spotify.com/track/6DQcmJrSZCH9nCtLtilcXP) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Reckless](https://open.spotify.com/album/4Qs52IAZsGBXM854MEkfXE) | 5:06 |
 | 11 | [Egyptian Wifey](https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Egyptian Wifey](https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o) | 2:51 |
 | 12 | [DISCO COWBOY](https://open.spotify.com/track/4ShbZVBX250TtUHH4PN88P) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [DISCO COWBOY](https://open.spotify.com/album/45P82N0aw6NUaDH8OyCPUm) | 2:39 |
 | 13 | [Nails](https://open.spotify.com/track/1li7Wh7pzMhBwMRjCUXlXV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nails](https://open.spotify.com/album/7zqNEm1vjjydmmpuNU1wiT) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [Hostage](https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b) | [Areej](https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef) | [GBOF EP](https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP) | 3:38 |
 | 50 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 
-Snapshot ID: `MCxjZTIzZWUzZjhhMGZiYjU0OWVkNTUyODRjNjMxMjIyODA0OWVlN2M1`
+Snapshot ID: `MCxmZWMxYjY3NTg2MmRjNWQ0NGMyM2VhOWUzMWY0NWEzZDQ4ZDg3YTQz`

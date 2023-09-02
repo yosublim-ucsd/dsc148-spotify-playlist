@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 425643,
+  "num_followers": 425794,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjdhMmVlMDY5YjZlOGE0ZWE2MDQ0MzhiNTI4NTQ3MGU5MTNlZWEw",
+  "snapshot_id": "MCxmNWEyOGRhMjE2ODQ1YjA0YzEyNzhmNmRkZjRiYmVlOGRmOGFmMmZl",
   "tracks": [
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+        "name": "Un Bai\u00f3n para el Ojo Idiota",
+        "url": "https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 212400,
-      "name": "El Pibe de los Astilleros",
-      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
+      "duration_ms": 208400,
+      "name": "Vencedores Vencidos",
+      "url": "https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Mi enfermedad",
-      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
         "name": "M\u00e1quina de Sangre",
         "url": "https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx"
       },
@@ -1367,18 +1351,34 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "Km 0",
-        "url": "https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf"
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
       },
       "artists": [
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
         }
       ],
-      "duration_ms": 166036,
-      "name": "Km 0",
-      "url": "https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E"
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
+        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
+        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 377399,
+      "name": "Mujer Amante - Vivo",
+      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
-        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+        "name": "Km 0",
+        "url": "https://open.spotify.com/album/1mvrraTa5Px5BYfRGUbOdf"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 377399,
-      "name": "Mujer Amante - Vivo",
-      "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+      "duration_ms": 166036,
+      "name": "Km 0",
+      "url": "https://open.spotify.com/track/0LdZuRvO881YizvJi1md1E"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Traicionero",
+      "url": "https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Verde Paisaje del Infierno",
         "url": "https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 248466,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Traicionero",
-      "url": "https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ"
     },
     {
       "added_at": "2023-08-25 03:00:00",
@@ -1591,6 +1591,30 @@
     {
       "added_at": "2023-08-25 03:00:00",
       "album": {
+        "name": "Tren de Fugitivos",
+        "url": "https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f"
+      },
+      "artists": [
+        {
+          "name": "El Soldado",
+          "url": "https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Sergio Dawi",
+          "url": "https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs"
+        }
+      ],
+      "duration_ms": 316626,
+      "name": "Angel de los Perdedores",
+      "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
+    },
+    {
+      "added_at": "2023-08-25 03:00:00",
+      "album": {
         "name": "Civilizaci\u00f3n",
         "url": "https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN"
       },
@@ -1623,30 +1647,6 @@
       "duration_ms": 315933,
       "name": "An\u00f3nimos (feat. Carla Morrison)",
       "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
-    },
-    {
-      "added_at": "2023-08-25 03:00:00",
-      "album": {
-        "name": "Tren de Fugitivos",
-        "url": "https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f"
-      },
-      "artists": [
-        {
-          "name": "El Soldado",
-          "url": "https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Sergio Dawi",
-          "url": "https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs"
-        }
-      ],
-      "duration_ms": 316626,
-      "name": "Angel de los Perdedores",
-      "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
     },
     {
       "added_at": "2023-08-25 03:00:00",

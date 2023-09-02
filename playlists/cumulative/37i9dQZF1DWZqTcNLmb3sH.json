@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -9723,6 +9723,28 @@
     },
     {
       "album": {
+        "name": "Kushi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7efzbJBGvg9BoToMpkEVAz"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Kushi Title Song",
+      "url": "https://open.spotify.com/track/5S2WuucQADjOVF7NZ8ryzB"
+    },
+    {
+      "album": {
         "name": "Kushi Title Song (From \"Kushi\")",
         "url": "https://open.spotify.com/album/0v4KjnCMa3ZURbn9qJ0W8o"
       },
@@ -9764,7 +9786,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 210666,
       "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
       "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"
@@ -11998,6 +12020,32 @@
       "duration_ms": 173470,
       "name": "Nade Mundhe",
       "url": "https://open.spotify.com/track/3IF8tIMbF7EcXWUyaWJQIr"
+    },
+    {
+      "album": {
+        "name": "Sanju Weds Geetha 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6q8i2wJfR8Lo61UtPChZSo"
+      },
+      "artists": [
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Shridhar V. Sambaram",
+          "url": "https://open.spotify.com/artist/3accQgt104DLSYOs7jkpyN"
+        },
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171429,
+      "name": "Nadi Nadi Endu Heege",
+      "url": "https://open.spotify.com/track/4hQy3zSi8FdePM7p0zRSCH"
     },
     {
       "album": {

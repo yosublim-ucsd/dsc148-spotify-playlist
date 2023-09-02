@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC?si=7m3jNSABQD\-gGL028P8d5w">Blessing Offor </a>
 
-676 songs - 2 day 7 hr 27 min
+677 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Chibeuleni](https://open.spotify.com/track/5NpjA7DqfBV105GKuT3KM2) | [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Chibeuleni](https://open.spotify.com/album/26CtTmqNScBkg8TyjrKv3q) | 2:10 | 2023-07-07 | 2023-07-14 |
 | [Chosen](https://open.spotify.com/track/0u9TCtFpAbApXaGpGjRypt) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Chosen](https://open.spotify.com/album/1YWKUwUFPRp5xZLB4yu8KK) | 2:44 | 2023-07-14 | 2023-07-21 |
 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 | 2023-06-09 | 2023-06-30 |
+| [Come](https://open.spotify.com/track/0sqdvdLBjsP1T28PnNVkTb) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [Come](https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo) | 2:44 | 2023-09-01 |  |
 | [Come My Way](https://open.spotify.com/track/0M49omER4fr8dsBbyHO1GK) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v) | [Come My Way](https://open.spotify.com/album/5VU9KWhqhEY3XGUIYfts5C) | 2:32 | 2023-07-07 | 2023-07-14 |
 | [Coming Home](https://open.spotify.com/track/5NA1YR3OCgftzZPKqyHUfv) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [Coming Home](https://open.spotify.com/album/5RQXMBUL8DirQD8sWKO3xd) | 3:19 | 2023-06-16 | 2023-06-23 |
 | [Commando](https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Commando](https://open.spotify.com/album/2pyYdLMR85a4xogAD5ikcn) | 2:33 | 2023-08-18 | 2023-09-01 |

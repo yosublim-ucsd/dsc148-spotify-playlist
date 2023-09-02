@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Selena y Jenni en un mismo lugar.
 
-58 songs - 3 hr 25 min
+59 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [No Me Pregunten Por El](https://open.spotify.com/track/14ZpjQxwh1PykMvaShgi8e) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/0RGtxX63R5YBrxJTZFtPU6) | 3:37 | 2021-03-15 | 2022-07-29 |
 | [No Me Pregunten por Él](https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:40 | 2021-03-15 |  |
 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 | 2021-03-15 |  |
-| [Paloma Negra \- Live](https://open.spotify.com/track/7qeQeyEcYWISbz3DIHT1ke) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra \(Live\)](https://open.spotify.com/album/3OS6PLSZWePt0jDDq35M8C) | 3:09 | 2021-03-15 |  |
+| [Paloma Negra \- En Vivo](https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra Desde Monterrey \(En Vivo\)](https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN) | 3:23 | 2023-01-09 |  |
+| [Paloma Negra \- Live](https://open.spotify.com/track/7qeQeyEcYWISbz3DIHT1ke) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Paloma Negra \(Live\)](https://open.spotify.com/album/3OS6PLSZWePt0jDDq35M8C) | 3:09 | 2021-03-15 | 2023-09-02 |
 | [Por Que No Le Calas](https://open.spotify.com/track/5iPUnVsuxuOsy6TNi3KnWx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma) | 3:23 | 2021-03-15 | 2022-07-29 |
 | [Por Qué No Le Calas](https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:25 | 2021-03-15 |  |
 | [Por un Amor, Cucurrucucú Paloma](https://open.spotify.com/track/149YkaDRIByCYvyWU8WzKL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 3:43 | 2021-03-15 |  |

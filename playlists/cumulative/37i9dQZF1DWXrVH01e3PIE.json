@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "buscando la luz (deluxe)",
+        "url": "https://open.spotify.com/album/43aMkIvyWY3jMT73OmNpdY"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "DEL ESTUDIO AL ESTADIO",
+      "url": "https://open.spotify.com/track/0tczOvnVojC5FckxeaYLqR"
+    },
+    {
+      "album": {
         "name": "DEMASIADO AC\u00c1",
         "url": "https://open.spotify.com/album/3fJn9ymxRpel8WNvRwjOwV"
       },
@@ -2398,7 +2420,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 181800,
       "name": "LOWKEY",
       "url": "https://open.spotify.com/track/4Z3E67qsTA4v43XyMRovbq"
@@ -2512,6 +2534,32 @@
       "duration_ms": 132750,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/2aZWcsjgk2qm6UBFXh6ic7"
+    },
+    {
+      "album": {
+        "name": "ME CONVIENE",
+        "url": "https://open.spotify.com/album/472Rqdk26bvUO36E4ltzfU"
+      },
+      "artists": [
+        {
+          "name": "Sixto Yegros",
+          "url": "https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147906,
+      "name": "ME CONVIENE",
+      "url": "https://open.spotify.com/track/6f2gN0m9L9SOlw0Y0ZLPCt"
     },
     {
       "album": {
@@ -2868,6 +2916,24 @@
       "duration_ms": 159306,
       "name": "NO PARA",
       "url": "https://open.spotify.com/track/1d5YgbhNxmvqdzf1aqcYDO"
+    },
+    {
+      "album": {
+        "name": "No Pares",
+        "url": "https://open.spotify.com/album/5tGoiLVYEX5aPACbG0Isb4"
+      },
+      "artists": [
+        {
+          "name": "Muerejoven",
+          "url": "https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129293,
+      "name": "No Pares",
+      "url": "https://open.spotify.com/track/0kj0n7ZfZG3qY1hJMtkhx7"
     },
     {
       "album": {
@@ -3944,7 +4010,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 162214,
       "name": "Solo en la Capital",
       "url": "https://open.spotify.com/track/17buDxmd7vsHfSiHChazkS"
@@ -4894,7 +4960,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 219560,
       "name": "VLONE",
       "url": "https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5"

@@ -796,10 +796,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 239853,
       "name": "La F\u00f3rmula Secreta",
       "url": "https://open.spotify.com/track/4eQ49BwmjeomcAMVEd4tmu"
+    },
+    {
+      "album": {
+        "name": "Animal del Demonio",
+        "url": "https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7"
+      },
+      "artists": [
+        {
+          "name": "The Americojones Experience",
+          "url": "https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239853,
+      "name": "La F\u00f3rmula Secreta",
+      "url": "https://open.spotify.com/track/5FlOc0UbRPAaSHFyfBSjFC"
     },
     {
       "album": {
@@ -1756,10 +1774,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 198879,
       "name": "Viva la Muerte",
       "url": "https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM"
+    },
+    {
+      "album": {
+        "name": "Animal del Demonio",
+        "url": "https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7"
+      },
+      "artists": [
+        {
+          "name": "The Americojones Experience",
+          "url": "https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Viva la Muerte",
+      "url": "https://open.spotify.com/track/2TDIBx2Za2zvHO0pEpXD4g"
     },
     {
       "album": {

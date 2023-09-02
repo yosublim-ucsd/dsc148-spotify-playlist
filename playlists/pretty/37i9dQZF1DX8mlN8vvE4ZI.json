@@ -1,12 +1,12 @@
 {
   "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Rishab Rikhiram Sharma",
-  "num_followers": 5461,
+  "num_followers": 5594,
   "original_name": "ECHO : Soulful Sitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWY0N2M3YmI3NWFkZjE3ZTBjMTA5NDZiMGJmMjRiNmM2ZDMyOTNm",
+  "snapshot_id": "MCxkMzdlY2UyMGZmY2U5ZTlhMWI2MDI2ZGVjZjY0NGM0NmY0YTM5YTJj",
   "tracks": [
     {
       "added_at": "2023-08-18 00:33:02",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
-        "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
-      },
-      "artists": [
-        {
-          "name": "Kushal Das",
-          "url": "https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli"
-        }
-      ],
-      "duration_ms": 349746,
-      "name": "Raga Marwa - Drut Tintal Jhala",
-      "url": "https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "From The NCPA Archives",
         "url": "https://open.spotify.com/album/1KrPa1S1Trn8DUKIU6q98E"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 172493,
       "name": "Raga Maluha Kalyan - Jod",
       "url": "https://open.spotify.com/track/2rCP1X7FudFJDpD5B4QckL"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Inde Du Nord - North India : Raga Marwa Surbahar",
+        "url": "https://open.spotify.com/album/745wcG6CErNyGb0v1pE1QP"
+      },
+      "artists": [
+        {
+          "name": "Kushal Das",
+          "url": "https://open.spotify.com/artist/1YIqdGEWAFDGcaSCtCscli"
+        }
+      ],
+      "duration_ms": 349746,
+      "name": "Raga Marwa - Drut Tintal Jhala",
+      "url": "https://open.spotify.com/track/23L0bjrUtYuYZbglUK2hoT"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Sitar (Instrumental)",
-        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
-      },
-      "artists": [
-        {
-          "name": "Sitar A Seyer Otsenre",
-          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
-        }
-      ],
-      "duration_ms": 413000,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Acoustic Ascension 3",
         "url": "https://open.spotify.com/album/71LW4bsnEwuJ6BjgcZRz2H"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 546440,
       "name": "Tantric Bliss / Sitar and Tabla",
       "url": "https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Sitar (Instrumental)",
+        "url": "https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz"
+      },
+      "artists": [
+        {
+          "name": "Sitar A Seyer Otsenre",
+          "url": "https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk"
+        }
+      ],
+      "duration_ms": 413000,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp"
     },
     {
       "added_at": "2023-06-20 11:43:22",

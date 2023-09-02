@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Andruss",
+  "description": "Tech house technicians, featuring Lee Foss & Ralf",
   "name": "Operator",
   "tracks": [
     {
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 197365,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH"
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179047,
       "name": "Daddy's Back",
       "url": "https://open.spotify.com/track/2kD5WaS17Ud2k4M4IwJxC0"
@@ -7729,6 +7729,32 @@
     },
     {
       "album": {
+        "name": "FMF",
+        "url": "https://open.spotify.com/album/2tzDCp2WcLMX5tvhFGYNPU"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Vitor Vinter",
+          "url": "https://open.spotify.com/artist/69Mveq4NwlSGijFnPnAlvD"
+        },
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "FMF - Bruno Furlan Remix",
+      "url": "https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2"
+    },
+    {
+      "album": {
         "name": "Foggy Geezer",
         "url": "https://open.spotify.com/album/2ARTpw5C9AyI3fOwEpGbyG"
       },
@@ -8648,7 +8674,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 140190,
       "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
       "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
@@ -11798,6 +11824,28 @@
       "duration_ms": 195000,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
+    },
+    {
+      "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
     },
     {
       "album": {
@@ -21250,7 +21298,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 174960,
       "name": "Taka Doom",
       "url": "https://open.spotify.com/track/42qyBa2ID6T0tDiwyHcSuR"

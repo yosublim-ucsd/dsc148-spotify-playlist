@@ -1,12 +1,12 @@
 {
   "description": "Ponle actitud a tu comida.",
-  "num_followers": 47552,
+  "num_followers": 47618,
   "original_name": "Cocina con Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2IwZDI1YjFiZWQzMGEwODA0ODE1YTVhMTA1ZjA0ZGVkZTE4MDU4",
+  "snapshot_id": "MCwzMjlmNTk1N2IyMTI1MWNjOTY2YmYwNWJmMTRiZjhmNmY1NjU2MDU2",
   "tracks": [
     {
       "added_at": "2023-02-14 01:18:44",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-14 01:18:44",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Eighties - 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
-    },
-    {
-      "added_at": "2023-02-14 01:18:44",
-      "album": {
         "name": "All Or Nothing (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
@@ -491,22 +475,6 @@
     {
       "added_at": "2023-02-14 01:18:44",
       "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2023-02-14 01:18:44",
-      "album": {
         "name": "Give Me Convenience or Give Me Death",
         "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
@@ -519,6 +487,22 @@
       "duration_ms": 207040,
       "name": "California Uber Alles",
       "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+    },
+    {
+      "added_at": "2023-02-14 01:18:44",
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
     },
     {
       "added_at": "2023-02-14 01:18:44",
@@ -555,22 +539,6 @@
     {
       "added_at": "2023-02-14 01:18:44",
       "album": {
-        "name": "Sing Sing Death House",
-        "url": "https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi"
-      },
-      "artists": [
-        {
-          "name": "The Distillers",
-          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "City Of Angels",
-      "url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF"
-    },
-    {
-      "added_at": "2023-02-14 01:18:44",
-      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
       },
@@ -587,18 +555,18 @@
     {
       "added_at": "2023-02-14 01:18:44",
       "album": {
-        "name": "The '59 Sound",
-        "url": "https://open.spotify.com/album/3iC6u4b7pxcrreH1w5C5HD"
+        "name": "Sing Sing Death House",
+        "url": "https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi"
       },
       "artists": [
         {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+          "name": "The Distillers",
+          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
         }
       ],
-      "duration_ms": 189986,
-      "name": "The '59 Sound",
-      "url": "https://open.spotify.com/track/5872goUpkJgh11uslHaa2G"
+      "duration_ms": 209626,
+      "name": "City Of Angels",
+      "url": "https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF"
     },
     {
       "added_at": "2023-02-14 01:18:44",
@@ -615,6 +583,38 @@
       "duration_ms": 146560,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4"
+    },
+    {
+      "added_at": "2023-02-14 01:18:44",
+      "album": {
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
+    },
+    {
+      "added_at": "2023-02-14 01:18:44",
+      "album": {
+        "name": "The '59 Sound",
+        "url": "https://open.spotify.com/album/3iC6u4b7pxcrreH1w5C5HD"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 189986,
+      "name": "The '59 Sound",
+      "url": "https://open.spotify.com/track/5872goUpkJgh11uslHaa2G"
     },
     {
       "added_at": "2023-02-14 01:18:44",
@@ -663,22 +663,6 @@
       "duration_ms": 230066,
       "name": "Don't Drag Me Down",
       "url": "https://open.spotify.com/track/7tZ1sF5HLhqtRO0bITs4lV"
-    },
-    {
-      "added_at": "2023-02-14 01:18:44",
-      "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
     },
     {
       "added_at": "2023-02-14 01:18:44",
@@ -763,22 +747,6 @@
     {
       "added_at": "2023-02-14 01:18:44",
       "album": {
-        "name": "Hurricane Bar",
-        "url": "https://open.spotify.com/album/1StsgV2Djw49X5zMj5jztP"
-      },
-      "artists": [
-        {
-          "name": "Mando Diao",
-          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Down in the Past",
-      "url": "https://open.spotify.com/track/2vx5Dc3Zxtd5yGDlh2pAAz"
-    },
-    {
-      "added_at": "2023-02-14 01:18:44",
-      "album": {
         "name": "Let's Talk About Feelings",
         "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
       },
@@ -795,18 +763,50 @@
     {
       "added_at": "2023-02-14 01:18:44",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+        "name": "Hurricane Bar",
+        "url": "https://open.spotify.com/album/1StsgV2Djw49X5zMj5jztP"
       },
       "artists": [
         {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
         }
       ],
-      "duration_ms": 200080,
-      "name": "God Save the Queen",
-      "url": "https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195"
+      "duration_ms": 238493,
+      "name": "Down in the Past",
+      "url": "https://open.spotify.com/track/2vx5Dc3Zxtd5yGDlh2pAAz"
+    },
+    {
+      "added_at": "2023-02-14 01:18:44",
+      "album": {
+        "name": "Don't Turn Away",
+        "url": "https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4"
+      },
+      "artists": [
+        {
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F"
+    },
+    {
+      "added_at": "2023-02-14 01:18:44",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
     }
   ],
   "unique_name": "Cocina con Punk",

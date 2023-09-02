@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-185 songs - 10 hr 49 min
+186 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Clocks \- Coldplay](https://open.spotify.com/track/2Pv2aeT9K8EH0b0HgCJxDv) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [A Night In Strings](https://open.spotify.com/album/3duk4PVA7r012ysSojmnXv) | 5:14 | 2021-11-25 |  |
 | [Clown](https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Clown](https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo) | 3:47 | 2023-01-30 |  |
 | [Colors Of The Wind](https://open.spotify.com/track/6bQ5Bvcmykkj5ONuk6FWyt) | [Alessandra Palade](https://open.spotify.com/artist/3RLM2ofq28IJVrNveeIkb3) | [Colors Of The Wind](https://open.spotify.com/album/4NeduIspIgT4GpZjAJeF3O) | 3:18 | 2023-02-28 |  |
+| [Cruel Summer \(arr\. piano\)](https://open.spotify.com/track/0sI0B9QXE5niX3mneduYhe) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Cruel Summer \(arr\. piano\)](https://open.spotify.com/album/0Sbm8z1AV9cR6weWaxThHr) | 2:43 | 2023-09-01 |  |
 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 | 2021-11-25 | 2023-02-15 |
 | [Dancing on My Own](https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 9](https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo) | 3:45 | 2021-11-25 |  |
 | [Dancing Queen \(arr\. piano\)](https://open.spotify.com/track/61HC09wMMxwHkjgktA94tP) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [ABBA](https://open.spotify.com/album/79mSoTbnuSzUFVIz2h89D0) | 3:31 | 2022-01-14 | 2023-06-24 |
@@ -60,7 +61,7 @@
 | [Easy On Me](https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 2](https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa) | 3:40 | 2022-11-18 | 2022-11-26 |
 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 | 2023-04-18 |  |
 | [Every Breath You Take](https://open.spotify.com/track/6Hm6g48FZM25d7LkjmXQfN) | [Felix May](https://open.spotify.com/artist/79Q9buYaRrrm9LkwBnOGEg) | [Famous Piano Covers](https://open.spotify.com/album/6m1HH5v5pJ4bw5sQX2mOt3) | 3:39 | 2023-03-07 |  |
-| [Eyes Closed \(arr\. piano\)](https://open.spotify.com/track/7mpppbKD33V9hPAzb7Q7ux) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Eyes Closed \(arr\. piano\)](https://open.spotify.com/album/0QaQ14xUNTN6rM5irex6P6) | 3:02 | 2023-07-04 |  |
+| [Eyes Closed \(arr\. piano\)](https://open.spotify.com/track/7mpppbKD33V9hPAzb7Q7ux) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Eyes Closed \(arr\. piano\)](https://open.spotify.com/album/0QaQ14xUNTN6rM5irex6P6) | 3:02 | 2023-07-04 | 2023-09-02 |
 | [Fade into You](https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol\. 2](https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL) | 5:15 | 2022-11-18 | 2022-11-26 |
 | [Fast Car](https://open.spotify.com/track/1F91nR4f8LNdVNpWGX4Gy4) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [I Play Yours, Vol\. 2](https://open.spotify.com/album/5Mv4Ksk5HM3my8S7jaZIpP) | 3:52 | 2021-11-25 |  |
 | [Fields Of Gold](https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Fields Of Gold](https://open.spotify.com/album/6v27YNez0QOmgSoK4KblXD) | 2:37 | 2023-04-04 |  |
@@ -71,7 +72,7 @@
 | [Fix You](https://open.spotify.com/track/5tX811j5HONCKNTE3pux6d) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Piano EP1](https://open.spotify.com/album/2qt5TL7O3Bo4AiGrnYGKxr) | 5:29 | 2022-09-09 | 2022-11-14 |
 | [Fix You](https://open.spotify.com/track/7B0jMqIk8icAL7jn0XdF1D) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Piano EP1](https://open.spotify.com/album/10Gvmhuqt3zXhtAAnM41Nu) | 5:29 | 2021-11-25 | 2022-07-29 |
 | [Fix You](https://open.spotify.com/track/2ZzqC4NSi374IufPYvGMP6) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Music Lab Collective](https://open.spotify.com/album/1hJMoMK9kIQFlF6mbqG9nU) | 5:32 | 2022-07-15 | 2023-06-24 |
-| [Flowers \(arr\. piano\)](https://open.spotify.com/track/76Wq8hwwpUSUAB6Vy5UF0m) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Flowers \(arr\. piano\)](https://open.spotify.com/album/6qVMmhl4FK59WTZE15gVDS) | 3:29 | 2023-06-23 |  |
+| [Flowers \(arr\. piano\)](https://open.spotify.com/track/76Wq8hwwpUSUAB6Vy5UF0m) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Flowers \(arr\. piano\)](https://open.spotify.com/album/6qVMmhl4FK59WTZE15gVDS) | 3:29 | 2023-06-23 | 2023-09-02 |
 | [Fragments of Time](https://open.spotify.com/track/53adoODXmH7iY9g7YquSNT) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Daft Punk's Random Access Memories](https://open.spotify.com/album/4kRcTnhismcDg7nicWGAKB) | 2:46 | 2022-11-18 | 2022-11-26 |
 | [From Both Sides Now](https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [From Both Sides Now](https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz) | 4:12 | 2023-02-28 |  |
 | [Gatekeeper](https://open.spotify.com/track/1tFDLeuRNjkpdwiej6gCZH) | [Fauré Quartett](https://open.spotify.com/artist/4RUUet9z5AWXyt9dn6asqN) | [Popsongs](https://open.spotify.com/album/0Od9iGE0VH3ISl3dJwYJ7z) | 2:13 | 2022-07-15 |  |

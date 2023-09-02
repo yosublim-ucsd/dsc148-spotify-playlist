@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gambi au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,384 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,004 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Pena Duro](https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Pena Duro](https://open.spotify.com/album/4QRHa49lkmVPuah27l2jaJ) | 2:37 |
 | 40 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 |
 
-Snapshot ID: `MCw2MWQyMTY3Yjg0NzcwNjc0NmIzNGY5YjhlMmI2ZjE2ZjdmNGYyNjE5`
+Snapshot ID: `MCwzZDdlOTIzOTVmOTQxNTcyMzlkZDBjZmYwNDczN2M4MWNhMmRkZDU1`

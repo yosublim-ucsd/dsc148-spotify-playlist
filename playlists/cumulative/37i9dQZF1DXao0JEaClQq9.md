@@ -4,7 +4,7 @@
 
 > melting into Mitski, and the many sounds of modern ethereal.
 
-525 songs - 1 day 8 hr 50 min
+526 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 | 2021-06-03 | 2022-06-04 |
 | [Homecoming Song \(NNAMDÏ Remix\)](https://open.spotify.com/track/6KAOVH01YEKnlxPRELczyM) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/4UhF1TkUq0ZgBxKY7iDhD2) | 2:25 | 2021-06-03 | 2022-04-13 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 | 2023-07-22 |
+| [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 | 2023-09-01 |  |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-10-08 | 2022-07-29 |
 | [I DONT KNOW ABOUT HIM](https://open.spotify.com/track/3CQ5CKzEaC7eCOlUyU7Bdm) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 3:58 | 2021-06-03 | 2022-05-12 |
 | [I Met God Online](https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [I Met God Online](https://open.spotify.com/album/34Xg4eUnFTwsZZ6vIsrwxd) | 2:56 | 2022-06-03 | 2022-07-14 |
@@ -467,7 +468,7 @@
 | [The Conclusion](https://open.spotify.com/track/6jPxM1V4M1DdiPgMoe8FBS) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 2:45 | 2021-06-03 | 2022-06-04 |
 | [The Darkness \- Remix](https://open.spotify.com/track/606BSzBpRxkKi9qIbSpIbH) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Sarah Bonito](https://open.spotify.com/artist/154N9q0T7ZUx3svKaObbps), [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [The Darkness \(Remix\)](https://open.spotify.com/album/3ZzRwLaCEYwUvxUkT6P43A) | 4:06 | 2021-06-11 | 2022-01-10 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2021-11-15 |  |
-| [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 | 2021-10-08 |  |
+| [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 | 2021-10-08 | 2023-09-02 |
 | [The Hollow Sound of the Morning Chimes](https://open.spotify.com/track/5BGfqsNVHVGlgAzXhliMBk) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [The Hollow Sound of the Morning Chimes](https://open.spotify.com/album/5hzKzfkYrxw0EpmW7awj9f) | 6:48 | 2021-06-03 | 2022-04-21 |
 | [The Look On Your Face](https://open.spotify.com/track/4wCukIqVlqd452beXYxmXK) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [The Look On Your Face](https://open.spotify.com/album/5j18aQAFLAox8iPVx433b8) | 3:52 | 2021-10-22 | 2022-04-19 |
 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 | 2022-06-03 | 2022-09-02 |

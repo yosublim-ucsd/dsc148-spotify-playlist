@@ -2,9 +2,9 @@
 
 ### [el nuevo tropical](https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP)
 
-> Lo nuevo del mundo tropical\. Cover: ZABDIEL & Ana Mena
+> Lo nuevo del mundo tropical\. Cover: Gente de Zona
 
-306 songs - 18 hr 2 min
+308 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Aventurera](https://open.spotify.com/track/5Qi2dqDB6JW4BJtbxG8ZHB) | [MAYKEL](https://open.spotify.com/artist/7Gd7D8evygezZAFemifKMC) | [Aventurera](https://open.spotify.com/album/38DHTygKGvdJCJDNZ8TqHo) | 3:38 | 2022-01-01 | 2022-01-29 |
 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 | 2023-03-17 | 2023-08-23 |
 | [Ay, Ay, Ay](https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Ay, Ay, Ay](https://open.spotify.com/album/46s563q4qhwESZBJ4GI5yD) | 3:28 | 2023-06-16 |  |
-| [Ayúdame](https://open.spotify.com/track/2pG8Bmm5lpk38fxeZRkvqT) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 2:44 | 2023-08-04 |  |
+| [Ayúdame](https://open.spotify.com/track/2pG8Bmm5lpk38fxeZRkvqT) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 2:44 | 2023-08-04 | 2023-09-02 |
 | [Bachata Blue](https://open.spotify.com/track/4o24fPjYFIONeqAMtZIoYr) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Bachata Blue](https://open.spotify.com/album/2Id90GOl0vizaORLB1bzoy) | 3:15 | 2022-02-11 | 2022-06-30 |
 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 | 2022-01-01 | 2023-03-11 |
 | [Bailame Con Actitud \(Blue Suede Shoes\) \- Salsa Version](https://open.spotify.com/track/2ogw5CX5Pxdr6MXYUYcjd5) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [El Revulú](https://open.spotify.com/artist/7K1bbLxw75tGqQXDjByXNs) | [Bailame Con Actitud \(Blue Suede Shoes\) \[Salsa Version\]](https://open.spotify.com/album/13BoMwBMd3tMkOb5iSVwHu) | 3:15 | 2023-08-18 |  |
@@ -117,6 +117,7 @@
 | [Esta Vida \(Salsa Version\)](https://open.spotify.com/track/0n8VlY0qW2PfB1Zhqzqivv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Marlon](https://open.spotify.com/artist/5GY60Dz06uzkjHJmBmktDZ) | [Esta Vida \(Salsa Version\)](https://open.spotify.com/album/4qGv61V2lP2vTKuWisVcGY) | 3:43 | 2023-06-09 |  |
 | [Estoy Completo](https://open.spotify.com/track/4Fyif2oJW0NvvtDNZi15LI) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Love Dance Merengue](https://open.spotify.com/album/15potGbxc3v18jQ0HbZUXL) | 3:25 | 2022-01-01 | 2022-01-29 |
 | [Fallarte Nunca](https://open.spotify.com/track/6dW8Tvo71KmXb2xOtsdyPF) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Fallarte Nunca](https://open.spotify.com/album/5oHC0YyRaiM4qkFCNp4Xgw) | 3:51 | 2022-02-11 | 2022-06-30 |
+| [Feliz](https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Feliz](https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB) | 3:22 | 2023-09-01 |  |
 | [FOR SALE](https://open.spotify.com/track/68Pz7iMzCrCoHQcocNwvAi) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [FOR SALE](https://open.spotify.com/album/4MYIOezZeoePIZ8LAS084W) | 4:43 | 2022-07-19 | 2023-01-20 |
 | [Frente a una Copa de Vino](https://open.spotify.com/track/0Y9jbCa2gLEcQXGHZJM754) | [Andrw John](https://open.spotify.com/artist/2F1UtPwrswl2pB8crCifIm), [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Frente a una Copa de Vino](https://open.spotify.com/album/1OoYxpGU4rZBKWegsdz5gO) | 3:44 | 2022-08-08 | 2023-01-14 |
 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 | 2023-01-27 | 2023-07-29 |
@@ -171,7 +172,7 @@
 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Que Te Vaya Bonito](https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5) | 3:23 | 2022-11-28 | 2023-02-06 |
 | [me voy, ya me fui](https://open.spotify.com/track/49B1lQifUr3NU9TfWlybEh) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [me voy, ya me fui](https://open.spotify.com/album/6LYPXy9jBdjshipK36i2ou) | 3:19 | 2023-07-07 | 2023-07-22 |
 | [Merengón](https://open.spotify.com/track/2XmVB1FSy1elvi2O2d8tBj) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Merengón](https://open.spotify.com/album/23DfVLJCPAjFJNCXcFJAOk) | 3:58 | 2022-04-29 | 2023-01-14 |
-| [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 | 2023-07-28 |  |
+| [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 | 2023-07-28 | 2023-09-02 |
 | [Mi Corazón \- Remix](https://open.spotify.com/track/3KglN5BWos8EXnBluIgcLN) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Mi Corazón \(Remix\)](https://open.spotify.com/album/5wq2L0PiFWKqno6eQuWeB8) | 5:11 | 2022-01-01 | 2022-01-28 |
 | [Mi Enemigo El Amor](https://open.spotify.com/track/4Nh7LF0TCmRXmOU5JEeyno) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Mi Enemigo El Amor](https://open.spotify.com/album/2jhaUhXgMnjpXiWCyNFLoC) | 4:01 | 2022-06-29 | 2023-01-14 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-11 |  |
@@ -191,6 +192,7 @@
 | [Nada Es Igual](https://open.spotify.com/track/6PmdO63qxKY3nbydxCGT7u) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs) | [Nada Es Igual](https://open.spotify.com/album/0aYCMNZY1sqSDbXDqCTIgj) | 2:52 | 2022-03-04 | 2022-06-30 |
 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 | 2023-04-28 | 2023-05-21 |
 | [No Comprendo](https://open.spotify.com/track/3piI3idxf7NBiItHAYicyN) | [Jhonny Evidence](https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb) | [No Comprendo](https://open.spotify.com/album/0gXDMP6oBtLEIKZDYrMMED) | 3:57 | 2022-01-01 | 2022-06-30 |
+| [No Es Normal](https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [No Es Normal](https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163) | 3:01 | 2023-09-01 |  |
 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 | 2022-06-29 | 2023-02-22 |
 | [No Me Pongas a Elegir](https://open.spotify.com/track/01rW8XtruypjeIQvfob33P) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Dime Que Me Amas](https://open.spotify.com/album/22yvjLnXQqgeh3EsodrEw1) | 3:06 | 2022-01-01 | 2022-06-30 |
 | [No Necesito](https://open.spotify.com/track/2JF8yg6KMD8CXmYRThVFPH) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:05 | 2022-01-01 | 2022-03-26 |

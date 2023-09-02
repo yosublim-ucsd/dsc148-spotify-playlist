@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,654 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,861 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 35 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
 | 36 | [Oh My \(feat\. Moby\)](https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Oh My \(feat\. Moby\)](https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0) | 2:40 |
 | 37 | [Baddest](https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Baddest](https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c) | 3:43 |
-| 38 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 |
-| 39 | [Paradise](https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Paradise](https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z) | 3:18 |
+| 38 | [Paradise](https://open.spotify.com/track/0yqU5tPByI1uLX5vIB7XO7) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Paradise](https://open.spotify.com/album/0ehWcJaGgr9BpaeoLuVF0z) | 3:18 |
+| 39 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 |
 | 40 | [Walk Through Fire](https://open.spotify.com/track/6GAIFjKSUCb4ndyDwDgKsJ) | [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Walk Through Fire](https://open.spotify.com/album/7CYvf2lpIFGAwOM1NDXA6Y) | 3:33 |
 | 41 | [Eyes on Fire](https://open.spotify.com/track/5yqfGzzZ3Qk6VIarH3R6D3) | [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Eyes on Fire](https://open.spotify.com/album/3xVljo5XeygaCFRzaCbdvn) | 2:25 |
 | 42 | [Rio \(feat\. Digital Farm Animals\)](https://open.spotify.com/track/5IfSQQzGijWKd7dbkbqHuN) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [3](https://open.spotify.com/album/5RpkF55XZzzpWO0CnqcWw8) | 3:49 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 76 | [Out The Blue](https://open.spotify.com/track/2A4Ij58MiGtsYOHBAJ8Wph) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alice Gold](https://open.spotify.com/artist/7npVHrVLcvH4TKywGNehPZ) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 4:37 |
 | 77 | [Heater](https://open.spotify.com/track/7joCfNdhgBuBYVquBQPHLq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [RTRN II JUNGLE](https://open.spotify.com/album/5TL5mPJjOPiQCcZzEpfuaU) | 3:15 |
 | 78 | [Feelings](https://open.spotify.com/track/6ubaO4iPmPCrtSsMkfmw9v) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [T\. Power](https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c) | [Diary of a Digital Soundboy](https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ) | 4:47 |
-| 79 | [Eyes Closed](https://open.spotify.com/track/13xDNcUNMt4L9y6ckxeQJ1) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Eyes Closed](https://open.spotify.com/album/2veUMliI1AoMvBHxygyYIl) | 6:19 |
-| 80 | [head](https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [head](https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p) | 2:17 |
+| 79 | [head](https://open.spotify.com/track/4rGZy1pDm0UGOYnZCI9nbb) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [head](https://open.spotify.com/album/3gWgeoCR8SjrLj714KSx6p) | 2:17 |
+| 80 | [Eyes Closed](https://open.spotify.com/track/13xDNcUNMt4L9y6ckxeQJ1) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Eyes Closed](https://open.spotify.com/album/2veUMliI1AoMvBHxygyYIl) | 6:19 |
 | 81 | [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 |
 | 82 | [Even If \- Original Mix](https://open.spotify.com/track/5nVkaIXaqQtoMX4V1jncdO) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Even If](https://open.spotify.com/album/2YjxUlgCtx6RYLtKIGwqLK) | 7:34 |
 | 83 | [Drowning In You](https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Drowning In You](https://open.spotify.com/album/6px2l6DvudSYsp8FSddKKj) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 99 | [If We Ever](https://open.spotify.com/track/33LQ2hkSecs8ax6Bz2t9D8) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Tough Guys Don't Dance](https://open.spotify.com/album/4TGg8UNwHYZszTjM24hJSo) | 5:20 |
 | 100 | [Devil's Night](https://open.spotify.com/track/6JRzMirHyMNFOezS9kbtcl) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Devil's Night EP](https://open.spotify.com/album/7GhVfkNBfwR8cmbIC6qjMa) | 4:45 |
 
-Snapshot ID: `MCw5YjBiNWY5Nzk2OTcyNjMzMGI4MTA0ODkzYmNmOGZlZDhlNmM5NGIw`
+Snapshot ID: `MCxlZjNiNTkzNThlYWQ1ZjdlZmM3M2JjNTYwOGI2NDUzMDAxZjUyMWFh`

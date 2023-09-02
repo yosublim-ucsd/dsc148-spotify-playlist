@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-198 songs - 12 hr 24 min
+199 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Wishing I Was Wrong](https://open.spotify.com/track/2ovmeD1VIEPJu9Z8qibUks) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Wishing I Was Wrong](https://open.spotify.com/album/3Pz8RqCxcBLkjKLHVgFIvY) | 3:08 | 2022-01-07 |  |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-11-19 |  |
 | [You're Free Now](https://open.spotify.com/track/0ySdK6vR22cXZMb3AMgsUS) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/0Q5GdiJwXZ1FvdxUj5X7uY) | 4:19 | 2022-05-16 |  |
-| [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 |  |
+| [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 | 2023-09-02 |
+| [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 | 2023-08-11 |  |
 | [You, Me and The Mountains \- Live Off The Floor](https://open.spotify.com/track/3VyzVPoGB0ikZcAjWnCRdf) | [Ryan Lindsay](https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu), [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [You, Me and The Mountains \(Live Off The Floor\)](https://open.spotify.com/album/1f2GXONeh0Rbu1ETjLw9uk) | 3:48 | 2022-01-07 |  |
 | [You’re Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/0n5BiC98D3E0EZimzsboGW) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/2JPABhQendr6PM7QmR8iLR) | 4:19 | 2021-11-19 | 2022-07-29 |
 

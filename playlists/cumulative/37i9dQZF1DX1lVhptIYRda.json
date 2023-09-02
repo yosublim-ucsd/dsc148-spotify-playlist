@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Zach Bryan",
+  "description": "Today's top country hits. Cover: Tyler Childers",
   "name": "Hot Country",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 220880,
       "name": "Ain't Always The Cowboy",
       "url": "https://open.spotify.com/track/77XoAnllT85lmR9WP0D8dS"
+    },
+    {
+      "album": {
+        "name": "Ain't Missin' You",
+        "url": "https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc"
+      },
+      "artists": [
+        {
+          "name": "Dylan Schneider",
+          "url": "https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176371,
+      "name": "Ain't Missin' You",
+      "url": "https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M"
     },
     {
       "album": {
@@ -6518,7 +6536,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 179973,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
@@ -7386,7 +7404,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
@@ -10546,6 +10564,24 @@
       "duration_ms": 203221,
       "name": "the other girl (with Halsey) [the other mix]",
       "url": "https://open.spotify.com/track/4teyk2rWXYKPP2pLvHmT0k"
+    },
+    {
+      "album": {
+        "name": "The Painter",
+        "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "The Painter",
+      "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
     },
     {
       "album": {

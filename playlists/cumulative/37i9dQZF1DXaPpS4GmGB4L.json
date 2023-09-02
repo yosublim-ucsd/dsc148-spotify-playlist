@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 195253,
       "name": "Black Sky Blues",
       "url": "https://open.spotify.com/track/7LMnIq7uTvwq6jW5dB49kp"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 185933,
       "name": "From a Buick 6",
       "url": "https://open.spotify.com/track/1plmVWEUfEsgZz38Xpm7hP"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 160933,
       "name": "My Baby is a Good 'Un",
       "url": "https://open.spotify.com/track/7MusF6wVSCFE6BQFKGvUQq"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 140502,
       "name": "Pony Boy",
       "url": "https://open.spotify.com/track/0FuaUNYkcuu8DyXm3UDxA0"
@@ -2705,6 +2705,28 @@
     },
     {
       "album": {
+        "name": "Greybird",
+        "url": "https://open.spotify.com/album/25NxKFjwbaZclwi4WizmrD"
+      },
+      "artists": [
+        {
+          "name": "Greyhounds",
+          "url": "https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp"
+        },
+        {
+          "name": "T Bird and the Breaks",
+          "url": "https://open.spotify.com/artist/7BfKzWvOnw7aAUU4NLLRD0"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Syracuse Boots",
+      "url": "https://open.spotify.com/track/60wLkHNSDcXE3iCtNxmWmr"
+    },
+    {
+      "album": {
         "name": "Take It Back",
         "url": "https://open.spotify.com/album/0gM5G6j0lWaxk1GOv0nfbL"
       },
@@ -3024,6 +3046,24 @@
       "duration_ms": 216716,
       "name": "Watch Me Change",
       "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
+    },
+    {
+      "album": {
+        "name": "All For Business",
+        "url": "https://open.spotify.com/album/57Iat2JrCisYjDyFsW9qhK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Welfare Blues",
+      "url": "https://open.spotify.com/track/6dbgmwW8kOnMbvxQP8mC2W"
     },
     {
       "album": {

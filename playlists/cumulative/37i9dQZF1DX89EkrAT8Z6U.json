@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 139469,
       "name": "GHOSTKILLA",
       "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
@@ -2876,6 +2876,28 @@
       "duration_ms": 134076,
       "name": "PLASTIC ART",
       "url": "https://open.spotify.com/track/0uwdULpmQ5vB62NN0duw8S"
+    },
+    {
+      "album": {
+        "name": "POPTHATRUNK",
+        "url": "https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "POPTHATRUNK",
+      "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
     },
     {
       "album": {

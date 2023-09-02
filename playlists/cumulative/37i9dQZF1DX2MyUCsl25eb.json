@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 194999,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe"
@@ -2852,6 +2852,24 @@
       "duration_ms": 198253,
       "name": "Dirty Nikes",
       "url": "https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW"
+    },
+    {
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/1rx6ln0XAM0F8hXVCKjMFN"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/4XBdvip0omItMcq8fkbey6"
     },
     {
       "album": {
@@ -4868,7 +4886,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 196000,
       "name": "Home Movies",
       "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
@@ -6282,7 +6300,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
@@ -8542,6 +8560,24 @@
       "duration_ms": 196773,
       "name": "Pavement",
       "url": "https://open.spotify.com/track/21DTeeLwvvGlb3OFrd9rTT"
+    },
+    {
+      "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/35azufJoqJ4BMzZGUUdSwr"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/3R6SiwQlQDsEGN514Am6xD"
     },
     {
       "album": {
@@ -12694,6 +12730,24 @@
       "duration_ms": 202693,
       "name": "You Might Not Like Her",
       "url": "https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf"
+    },
+    {
+      "album": {
+        "name": "You're So You",
+        "url": "https://open.spotify.com/album/0iaGPkg7MNQGfVqk2A60I5"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160875,
+      "name": "You're So You",
+      "url": "https://open.spotify.com/track/2PBkxni7Zk4wpaZ8FSHHlF"
     },
     {
       "album": {

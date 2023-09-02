@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-330 songs - 16 hr 5 min
+331 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-07-14 |  |
 | [Bank Alert](https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Z Pack](https://open.spotify.com/album/5Ck8mMUb5nvnbNIKYTUjXF) | 2:45 | 2023-07-14 | 2023-08-11 |
 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-06-16 |  |
-| [Because of Money](https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw) | 2:54 | 2023-08-17 |  |
+| [Because of Money](https://open.spotify.com/track/11cndrz2YTKiRd0SyfFnqY) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/2VcO8zgDs50YQTe3WnPbmL) | 2:52 | 2023-08-17 |  |
+| [Because of Money](https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw) | 2:54 | 2023-08-17 | 2023-09-02 |
 | [Benz \(Garri\)](https://open.spotify.com/track/3a9WcZmIjrQUZuqXQexjfQ) | [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Benz \(Garri\)](https://open.spotify.com/album/32VQcY1YlbfTDDtr4LjPE3) | 3:12 | 2023-03-10 | 2023-03-25 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2023-08-04 |
 | [Big Man](https://open.spotify.com/track/64AIGkXqeAcQ6qD0beLfWu) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jay Teazer](https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl) | [Strange Vibes](https://open.spotify.com/album/1nlolPM5eKVhJi8s0lX9Ja) | 3:05 | 2021-12-09 | 2023-01-20 |

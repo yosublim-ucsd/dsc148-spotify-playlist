@@ -710,7 +710,7 @@
     {
       "album": {
         "name": "Cry",
-        "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
       },
       "artists": [
         {
@@ -721,6 +721,24 @@
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 286773,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
       "duration_ms": 288595,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa"

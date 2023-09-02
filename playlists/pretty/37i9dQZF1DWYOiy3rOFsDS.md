@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance antigüito en voz de tus artistas pop con Daniel, Me Estás Matando en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,487 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,552 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 89 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jimenez](https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ) | 3:26 |
 | 90 | [María Bonita](https://open.spotify.com/track/2caKpdtmxWhIuLlfNvzuLP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Maria Bonita](https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R) | 3:52 |
 | 91 | [Muñequita Linda](https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [AMA](https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd) | 3:01 |
-| 92 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
-| 93 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 |
-| 94 | [Te Ofrezco](https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Te Ofrezco](https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY) | 3:26 |
+| 92 | [Te Ofrezco](https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Te Ofrezco](https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY) | 3:26 |
+| 93 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 94 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 |
 | 95 | [Perfidia](https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:08 |
-| 96 | [Volver a Ti](https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Volver a Ti](https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b) | 3:56 |
-| 97 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 |
-| 98 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
+| 96 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
+| 97 | [Volver a Ti](https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Volver a Ti](https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b) | 3:56 |
+| 98 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 |
 | 99 | [Sombras \- Sombras Nada Más](https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mano a Mano \- Tangos a la Manera de Vicente Fernández](https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC) | 3:13 |
 | 100 | [Almohada](https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Celebrando Al Príncipe](https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol) | 4:02 |
 
-Snapshot ID: `MCw0ZWE4NDE4ZjFjYTM5NjYyMTY4MDUzMjhiM2EyYmY5OTU5NjMyYjlh`
+Snapshot ID: `MCwyZDAwOGY4ZGJiZmE1NzAyZGQwNGY3N2YwODNlZjk5ZTg0NWJiYjVm`

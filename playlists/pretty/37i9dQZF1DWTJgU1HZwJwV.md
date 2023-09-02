@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,862 likes - 174 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,905 likes - 174 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 173 | [La Sete D'Amore](https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [La Sete D'Amore](https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V) | 1:34 |
 | 174 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 |
 
-Snapshot ID: `MCxjM2M0Y2ViNmNkYmRlZTU2NWJkMjI5OTU0MjIyMjYzODFmYTM4NWI0`
+Snapshot ID: `MCw5NjU4ODZiZTQ5OTc5MDYwY2EwYTZiZTM5OTBjYWM0ODEzNGVmNDFi`

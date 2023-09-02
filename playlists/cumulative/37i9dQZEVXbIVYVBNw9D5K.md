@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-740 songs - 1 day 13 hr 11 min
+741 songs - 1 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,7 +553,7 @@
 | [Piç Ettim](https://open.spotify.com/track/4APPiwxp3kcrchK36JIrkg) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:00 | 2021-05-30 | 2021-05-31 |
 | [Pişman Değilim](https://open.spotify.com/track/4Sdj67b8WF9PhAXh4tvBi6) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Pişman Değilim](https://open.spotify.com/album/4AEhhccd4Z02zSjSKLdQie) | 2:22 | 2023-06-03 |  |
 | [PİŞMAN](https://open.spotify.com/track/72y2nRWQqjXNqlq5vASeKt) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PİŞMAN](https://open.spotify.com/album/2Lljdvhyiw9Bh6Vhvap8Fm) | 2:29 | 2021-09-15 | 2021-09-18 |
-| [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 | 2023-08-12 |  |
+| [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 | 2023-08-12 | 2023-09-02 |
 | [Porselen Kalbim](https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Porselen Kalbim](https://open.spotify.com/album/2TYt9I16VcjqPaSxJXYTLD) | 5:15 | 2022-06-01 | 2022-09-11 |
 | [Puşt](https://open.spotify.com/track/0jTT901BlxBFF86h6W6pbZ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Puşt](https://open.spotify.com/album/0T8UhoxD9S7LfMfWpRIkLS) | 1:53 | 2021-03-27\* | 2021-05-09 |
 | [R \- CHORBA](https://open.spotify.com/track/79YI30eKDKmcHwDQvN9ryS) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [CHORBA](https://open.spotify.com/album/7vRm8wcFeUnw3V46fGc7wg) | 1:17 | 2022-10-15 | 2022-10-28 |
@@ -726,6 +726,7 @@
 | [Zenti](https://open.spotify.com/track/1LuaqpbhicGeIYCptQf7cO) | [EX](https://open.spotify.com/artist/2RL1fxftHZRkaF1JQ62gaV) | [Zenti](https://open.spotify.com/album/4hSqLGHsRgNuUMGQNBp7lb) | 1:24 | 2022-05-11 | 2022-05-15 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-07-08 |
 | [Ziyafet \(Seri Katiller 5\)](https://open.spotify.com/track/3HIhscB8cHVusqdqGMka1t) | [Asil Slang](https://open.spotify.com/artist/3e9tJNBWrydJK3VKpkyWyT), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Ziyafet \(Seri Katiller 5\)](https://open.spotify.com/album/4mW6hrP5Ck2iSMkv21hxZz) | 3:05 | 2021-11-28 | 2021-12-03 |
+| [Zombi](https://open.spotify.com/track/5gUaqAYNgO2yclwM5seMFm) | [Adamlar](https://open.spotify.com/artist/1g4J8P1JWwanNyyXckRX5W) | [Dünya Günlükleri](https://open.spotify.com/album/3OIhzweJb5vgDOnPHTl3Dp) | 3:54 | 2023-09-01 |  |
 | [ZOO PARK](https://open.spotify.com/track/3GjMme41WMB9Pr28agQ8aX) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ZOO PARK](https://open.spotify.com/album/2t1SXqgiBQU0RABhMaeJ6M) | 1:51 | 2022-03-26 | 2022-03-31 |
 | [Zor](https://open.spotify.com/track/2vZPTcwHQTBydrwxOuxJ9F) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:00 | 2021-05-30 | 2021-06-01 |
 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2022-09-10 | 2023-07-09 |

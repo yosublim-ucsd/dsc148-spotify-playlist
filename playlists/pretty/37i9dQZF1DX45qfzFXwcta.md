@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,099 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,241 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 92 | [Yellow](https://open.spotify.com/track/50diMjsY2J4S7gRe4hxDt9) | [Hydrogenii](https://open.spotify.com/artist/00RdKm1RuV3yg0hd79ZcPF), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Next Heap of Sequences](https://open.spotify.com/album/6NsEhseg7Qzz3JlWMIxeAW) | 2:54 |
 | 93 | [Got to Go](https://open.spotify.com/track/5hIRHOXg8dv1fVMZ7NyRml) | [George Fields](https://open.spotify.com/artist/2YJ9heXWEDypzrXDW19hDr) | [Beyond Realm](https://open.spotify.com/album/6K3eHQQo1vbmNJLSRd7GIM) | 1:21 |
 | 94 | [Movin' On](https://open.spotify.com/track/0ziCKOtAu7hGVQgDM7YojY) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [How It Should Sound, Vol\. 1 & 2](https://open.spotify.com/album/5KIoOhlCq4pWV9aupB97KU) | 2:25 |
-| 95 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 |
-| 96 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 |
+| 95 | [RÅW & UNCUT](https://open.spotify.com/track/3qCdb8GuMPzXbVzBbkre9P) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [RÅW & UNCUT](https://open.spotify.com/album/4toPAW7HgveYu5M9lAYUga) | 3:04 |
+| 96 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 |
+| 97 | [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 |
+| 98 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 |
 
-Snapshot ID: `MCw5NDU4MGRjMTIzNTYyN2Q0N2M4MGFkMzJkNDk5NTJlOGZkOTZlMjY1`
+Snapshot ID: `MCxjYTkwYjM1MDUwOGEwYzkxNGJmM2IyNGE5M2YzMjRmMzQyYjkxNjdh`

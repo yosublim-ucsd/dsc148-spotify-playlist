@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,416 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,441 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 80 | [Running From](https://open.spotify.com/track/5catELDuNmRvDLm1e6CUx6) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 3:30 |
 | 81 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 |
 | 82 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 |
-| 83 | [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 |
+| 83 | [We Were Never Really Friends](https://open.spotify.com/track/2QZzngN7hEFac2yC6zxOGy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 3:24 |
 | 84 | [Mansion on the Moon](https://open.spotify.com/track/3LNTiQaq5FRbXFQZfKTXK9) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Mansion on the Moon](https://open.spotify.com/album/2qHgrXAiDwa7pkjwXYNvHT) | 3:23 |
 | 85 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 |
 | 86 | [Girl & A Gun](https://open.spotify.com/track/4jZ1LJqcXbtNO5EZZVAkzC) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Girl & A Gun](https://open.spotify.com/album/0KoTtRAsQvauiehrOzaKh6) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [Stolen Moments](https://open.spotify.com/track/01A4youwmsFnrTMXd1r3uV) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Stolen Moments](https://open.spotify.com/album/6QtTNlxnp9AAadwv4qIFGw) | 4:48 |
 | 100 | [WHEN IT HURTS](https://open.spotify.com/track/3AOHXWSY2iFEXPpIwLfYcP) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:01 |
 
-Snapshot ID: `MCwzMTliNmQ1NjU1YzkwMWE4Zjc5NDk5YTJjZTdlNjVjOGM2OTE5NjQ2`
+Snapshot ID: `MCxhODRhMDRmZTk2NDA2OTU4ZDUzMDk1Yjg0MzE4MTViYjkwZjFiODM5`

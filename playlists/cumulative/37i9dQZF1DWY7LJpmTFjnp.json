@@ -336,7 +336,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 284062,
       "name": "Beber De Tu Sangre XXX",
       "url": "https://open.spotify.com/track/3o1PVyasePBLSdU2uqlHvY"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 205175,
       "name": "En Tu Orilla",
       "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
@@ -1186,6 +1186,28 @@
       "duration_ms": 220511,
       "name": "Fuego y Dinamita",
       "url": "https://open.spotify.com/track/4lRuT1p6PgZTOrx4E96lzB"
+    },
+    {
+      "album": {
+        "name": "Fuera de Control",
+        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210824,
+      "name": "Fuera de Control",
+      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
     },
     {
       "album": {
@@ -1916,7 +1938,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 339887,
       "name": "Mu\u00e9rete de Todo, Pero No de las Ganas",
       "url": "https://open.spotify.com/track/1c19s4ViatoiRxcfyd1NIY"
@@ -2008,6 +2030,28 @@
       "duration_ms": 197801,
       "name": "No Puede Parar De So\u00f1ar",
       "url": "https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO"
+    },
+    {
+      "album": {
+        "name": "No Tengo Amigos (Feat. Nunca Jam\u00e1s)",
+        "url": "https://open.spotify.com/album/01zBt4Y7B5PSWwNHztr0W6"
+      },
+      "artists": [
+        {
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
+        },
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192618,
+      "name": "No Tengo Amigos",
+      "url": "https://open.spotify.com/track/25kVdj5Jftctl3DZSaKDll"
     },
     {
       "album": {
@@ -2643,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Noches De Sal\u00f3n LP",
+        "url": "https://open.spotify.com/album/3WxYCeKBo87Z0KeNepcSK8"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232250,
+      "name": "Somos Ajenos - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6k96z2qP7JIh8TvenEVD9O"
+    },
+    {
+      "album": {
         "name": "Kinky (Remastered)",
         "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
       },
@@ -2802,10 +2864,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 196280,
       "name": "Tengo un mes con el mismo pantal\u00f3n",
       "url": "https://open.spotify.com/track/6qzyLZX4s24iCB5AI8Xenv"
+    },
+    {
+      "album": {
+        "name": "Tenochtitl\u00e1n",
+        "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253840,
+      "name": "Tenochtitl\u00e1n",
+      "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
     },
     {
       "album": {

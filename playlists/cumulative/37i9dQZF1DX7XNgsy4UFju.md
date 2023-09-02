@@ -2,9 +2,9 @@
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> Home to all the latest indie jams\. Cover: Ashnikko
+> Home to all the latest indie jams\. Cover: Bakar
 
-1,261 songs - 3 day 2 hr 38 min
+1,263 songs - 3 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 | 2023-01-13 | 2023-04-22 |
 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-10 | 2023-03-18 |
 | [Ancestors Too Young](https://open.spotify.com/track/2R68ppaS9ZRhOCGIcL1vPX) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Ancestors Too Young](https://open.spotify.com/album/4FWTMFOoW2fhvPcNatxqQt) | 5:27 | 2023-06-23 |  |
-| [angel](https://open.spotify.com/track/6NbjZZ8yBxOPP7YGRRUV32) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Songs For Ghosts](https://open.spotify.com/album/45GMvUoGrOypKd28DXuNwe) | 3:20 | 2023-08-04 |  |
+| [angel](https://open.spotify.com/track/6NbjZZ8yBxOPP7YGRRUV32) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Songs For Ghosts](https://open.spotify.com/album/45GMvUoGrOypKd28DXuNwe) | 3:20 | 2023-08-04 | 2023-09-02 |
 | [Angelcover](https://open.spotify.com/track/2OMmR7z317VmvoVAP2dq2i) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Angelcover](https://open.spotify.com/album/0p4PQzcnWzvXRUQZE5CnED) | 3:30 | 2023-02-17 | 2023-03-11 |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-04 | 2022-04-09 |
 | [Animal \(feat\. Geoffroy\)](https://open.spotify.com/track/19DnkdlcmVu9IKotPQ7KIz) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Animal](https://open.spotify.com/album/4ueHmbivLZuyx2aHmRy8kz) | 4:36 | 2021-12-31 | 2022-01-22 |
@@ -160,6 +160,7 @@
 | [brain food](https://open.spotify.com/track/2Vlw9U2Vzn6dHrb4J14TDU) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Grown?](https://open.spotify.com/album/5VWaQLaBvE8djbRkHRc3Fd) | 3:41 | 2022-04-29 | 2022-06-25 |
 | [BREAK ME DOWN](https://open.spotify.com/track/3View4Eq2QWlXVrOME2j39) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:11 | 2022-09-30 | 2022-10-15 |
 | [Break My Fall](https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1ge5wbmkpeytkR9oiIyJb9) | 3:26 | 2022-05-20 | 2022-05-21 |
+| [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 | 2023-09-01 |  |
 | [Broke Generation](https://open.spotify.com/track/7nBux2hQfUA8Ay6HtWuvud) | [Retrofile](https://open.spotify.com/artist/6bswxXQ3qgvkMQCRu0DKuz) | [Broke Generation](https://open.spotify.com/album/7G1MMZTZWebErOTAV1taCh) | 3:47 | 2023-06-09 | 2023-07-15 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 | 2022-04-02 |
 | [Broken Record](https://open.spotify.com/track/4LIxmoxqIUvlANwcNR9b3L) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Broken Record](https://open.spotify.com/album/3HkGfFELfqyxh3jsBL6828) | 4:01 | 2022-05-27 | 2022-07-16 |
@@ -245,7 +246,7 @@
 | [Curse Your Fail](https://open.spotify.com/track/51WYRV3q8AvyOyvayez0mc) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [Curse Your Fail](https://open.spotify.com/album/5x9rRmpiT5cXeAYTcaswFQ) | 4:43 | 2022-01-07 | 2022-01-15 |
 | [Cut the Kite String](https://open.spotify.com/track/2CToXuKahvDh3VBKFZ7JRv) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Cut the Kite String](https://open.spotify.com/album/3Hw9rP7XXOMZkrXjrgwK7W) | 3:05 | 2023-05-19 | 2023-07-01 |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-01-31 | 2022-02-19 |
-| [Cyclades](https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 4:44 | 2023-07-28 |  |
+| [Cyclades](https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 4:44 | 2023-07-28 | 2023-09-02 |
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-23 | 2023-02-04 |
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-07 | 2022-02-12 |
 | [Dance With You](https://open.spotify.com/track/2nsf0yZBCWNq20FvTUCXpe) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/4e0RTJEbQGd7cfGd2CHSm4) | 3:46 | 2022-06-24 | 2022-08-13 |
@@ -1040,6 +1041,7 @@
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 | 2022-07-30 |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-10-21 | 2022-12-10 |
 | [Sunset Drive](https://open.spotify.com/track/1kB9S7aONNR6wa8LhLjRI1) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 3:13 | 2022-02-25 | 2022-03-12 |
+| [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 | 2023-09-01 |  |
 | [Sunshine](https://open.spotify.com/track/1ancHfc1kN39DB5iqnCmax) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Sunshine](https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7) | 2:56 | 2023-01-13 | 2023-04-09 |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-19 | 2023-06-10 |
 | [Survivor's Guilt](https://open.spotify.com/track/2dPYz3ceO14cgKZzsrTx5A) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Survivor's Guilt](https://open.spotify.com/album/482gKoUvLQrjPmTx8ihrXm) | 3:30 | 2022-07-22 | 2022-11-05 |

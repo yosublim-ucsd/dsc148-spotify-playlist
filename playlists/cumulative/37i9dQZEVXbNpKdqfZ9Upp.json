@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "ABRE LAS PATOTAS",
+        "url": "https://open.spotify.com/album/1Vj0Z6awDhe0HEwvnkydJI"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "ABRE LAS PATOTAS",
+      "url": "https://open.spotify.com/track/6G75x2FTJ8JSO5iLPKhcYs"
+    },
+    {
+      "album": {
         "name": "Aces",
         "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
       },
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 255373,
       "name": "Aqu\u00ed Te Espero",
       "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 200156,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
@@ -3820,7 +3838,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 113327,
       "name": "CARRIZAL, LA SOSA",
       "url": "https://open.spotify.com/track/4cR0XKYGSjNHdtnQW1Ta2g"
@@ -6226,7 +6244,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Do not touch",
       "url": "https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL"
@@ -8170,7 +8188,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
@@ -11094,7 +11112,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 210413,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
@@ -11292,7 +11310,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 151578,
       "name": "Kraazy",
       "url": "https://open.spotify.com/track/3s2Qd1rsWqbvOoxpFTRp8D"
@@ -12348,7 +12366,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -16670,7 +16688,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
@@ -20944,7 +20962,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 184250,
       "name": "Sirenas",
       "url": "https://open.spotify.com/track/3IqlVU6AunWVMcGmfgiDLF"
@@ -25868,6 +25886,24 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "album": {
+        "name": "Depresi\u00f3n Sonora",
+        "url": "https://open.spotify.com/album/2Kd0xv0iBYynM0on7es48j"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Ya No Hay Verano",
+      "url": "https://open.spotify.com/track/2VyMyqR2ona9yAFk7WsJNW"
     },
     {
       "album": {

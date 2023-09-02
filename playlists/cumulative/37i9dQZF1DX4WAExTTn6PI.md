@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Logan Ledger
 
-185 songs - 11 hr 16 min
+186 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Work All Day](https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Wildhorse](https://open.spotify.com/album/2NQbvpUKnlLflLe2OJx0ii) | 4:17 | 2023-03-24 |  |
 | [Work All Day](https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk) | [Matt Koziol](https://open.spotify.com/artist/2FxP1QGYEVLE2pI1TBBDQs) | [Work All Day](https://open.spotify.com/album/1VWeukpfBJ6LVJ68zXXhBP) | 4:17 | 2022-01-28 | 2023-03-25 |
 | [You Don't Know How Lucky You Are](https://open.spotify.com/track/0vwEIx0FBN9afds4oFQTWf) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [While I Was Away Deluxe](https://open.spotify.com/album/6qJZLKhDngOJvojgdWvwF2) | 2:58 | 2023-04-07 |  |
-| [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-19 |  |
+| [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-19 | 2023-09-02 |
+| [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 | 2023-08-25 |  |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

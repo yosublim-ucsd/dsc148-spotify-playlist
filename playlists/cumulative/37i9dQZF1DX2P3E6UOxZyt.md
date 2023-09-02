@@ -4,7 +4,7 @@
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: Andr
 
-383 songs - 22 hr 45 min
+384 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Sun \(feat\. Shi Shi\)](https://open.spotify.com/track/24P6Riz2uzN00k2mVdWYdV) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [IKARUS](https://open.spotify.com/album/5uxcK6vD7C7VhA94J3jnmT) | 2:57 | 2023-02-02 | 2023-02-24 |
 | [Supernova](https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Supernova](https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd) | 3:12 | 2023-06-15 |  |
 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 | 2023-04-13 | 2023-09-01 |
+| [tbh](https://open.spotify.com/track/3sSWFKh5tbvXmywz24H8rK) | [Jasmine Yen](https://open.spotify.com/artist/4PQ0uJWdQam5rtXciDKVnS) | [tbh](https://open.spotify.com/album/6HjV1YoD29GqhlpcYV3Lym) | 3:06 | 2023-08-31 |  |
 | [the way you wanna be](https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [the way you wanna be](https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN) | 2:37 | 2022-12-08 | 2023-02-24 |
 | [Till We Fall in Love](https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [Till We Fall in Love](https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt) | 4:00 | 2022-01-20 | 2022-03-25 |
 | [Up In the Air](https://open.spotify.com/track/7eEpzdJJX8AE4Fweh9vx45) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Up In the Air](https://open.spotify.com/album/0wrRmU5Lrv1Zbzlt64qKxJ) | 2:29 | 2022-03-24 | 2022-06-24 |

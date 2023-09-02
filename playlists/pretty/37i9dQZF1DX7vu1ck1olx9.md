@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,824 likes - 82 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,881 likes - 82 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 66 | [Bing Bong](https://open.spotify.com/track/6oZkr9amNdp5I8CK9RXFoP) | [Augie Haas](https://open.spotify.com/artist/50v2Fx8C58QLYGRXQtPpZh) | [Bing Bong](https://open.spotify.com/album/0oi9yfTN7iiEc28lamOFe3) | 1:56 |
 | 67 | [Colorful Skies](https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP) | [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Colorful Skies](https://open.spotify.com/album/36jqommAS821e5J69RH4Bz) | 1:55 |
 | 68 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 |
-| 69 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 |
-| 70 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
-| 71 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 |
+| 69 | [Summer Rain](https://open.spotify.com/track/0TlDsAhqgVsO3TNBo0gTQ4) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Summer Rain](https://open.spotify.com/album/4zfkuCcrDREsudeOPP8XNF) | 2:04 |
+| 70 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 |
+| 71 | [If It Moves](https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms) | [Michael Michaelson](https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz) | [If It Moves](https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw) | 1:38 |
 | 72 | [Tranquility Farm](https://open.spotify.com/track/2HQZO4e5DndKooGqLWs8od) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Tranquility Farm](https://open.spotify.com/album/23rYdcFuFuMzqRl4Z5B0t1) | 2:13 |
 | 73 | [Nuz An Tara](https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz) | [SicknessMP](https://open.spotify.com/artist/31uUEuPkmv9b61QnayPF9U) | [Nuz An Tara](https://open.spotify.com/album/4zfqdXuhrSemPWGy4wX8ua) | 2:12 |
 | 74 | [Safehouse](https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Safehouse](https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q) | 2:39 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 77 | [NightSky](https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC) | [NightSky](https://open.spotify.com/album/3i2d5SvAl9KbdvKDcbqwHu) | 3:04 |
 | 78 | [Sriracha](https://open.spotify.com/track/0fIjitxzKgOKRCptRrrPUD) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Imperfections 2](https://open.spotify.com/album/7IXZxRPdXWTBwoqjZUo8Vt) | 2:52 |
 | 79 | [Dignity](https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:10 |
-| 80 | [High Street](https://open.spotify.com/track/5AplAWSZV1rgGnfInTZ9h1) | [Saveo](https://open.spotify.com/artist/7iOOQNJZu3tS9qKUyuI7FH) | [High Street](https://open.spotify.com/album/5TybLyhvKouj1PPwWW4vY1) | 2:53 |
-| 81 | [Doppelgänger](https://open.spotify.com/track/6VoVVf6a2qnPehCRv5UXmK) | [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E), [F.o.x](https://open.spotify.com/artist/3UwQY2eE0U4mWx62A2oCa4) | [Doppelgänger](https://open.spotify.com/album/6l66ba3EKH6bSSykFTdhr3) | 2:45 |
+| 80 | [timestamp](https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa) | [walzy](https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [timestamp](https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh) | 2:27 |
+| 81 | [High Street](https://open.spotify.com/track/5AplAWSZV1rgGnfInTZ9h1) | [Saveo](https://open.spotify.com/artist/7iOOQNJZu3tS9qKUyuI7FH) | [High Street](https://open.spotify.com/album/5TybLyhvKouj1PPwWW4vY1) | 2:53 |
 | 82 | [Pixels](https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Pixels](https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb) | 2:33 |
 
-Snapshot ID: `MCxmZGVkYWYxNjJmOGYxZDljNjkxNDMzNDE4OWJkNTZiYjhlOTAyZWIz`
+Snapshot ID: `MCw5ZDEyNTUzMjQxNTZkMzhlN2M0NTJjOGU0NDA2MmI5ZmZlNzU3OTU2`

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7?si=e7YRD7PuTeyd0SlOGDq5\-Q"> راغب علامة </a>
 
-625 songs - 1 day 11 hr 33 min
+626 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [مفيش فلوس](https://open.spotify.com/track/3oJaOYkZzHG3OTkJUFvhWP) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [مفيش فلوس](https://open.spotify.com/album/2LzNtDlCHJZQqC17EEy0xF) | 4:10 | 2023-05-11 | 2023-06-16 |
 | [ملك الفرفشة](https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [ملك الفرفشة](https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S) | 3:16 | 2023-07-07 | 2023-08-11 |
 | [من أول يوم](https://open.spotify.com/track/4hqxXL2H3VMVKLSLOsy37c) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [من أول يوم](https://open.spotify.com/album/3hZW9pUEKNNP4eYTwqYGLm) | 2:36 | 2023-07-22 | 2023-08-18 |
+| [مهيبرين](https://open.spotify.com/track/1QHglFYlFySKRrR04B9IJM) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [أولاد حريم كريم \(أغاني الفيلم\)](https://open.spotify.com/album/6Lnc9Yc3dWv0BKhCsb1xRN) | 2:45 | 2023-09-01 |  |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-15 | 2022-12-02 |
 | [نسينا نعيش](https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [نسينا نعيش](https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu) | 3:15 | 2023-02-27 | 2023-05-05 |
 | [نصابة](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [نصابة](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 | 2023-02-01 | 2023-03-10 |

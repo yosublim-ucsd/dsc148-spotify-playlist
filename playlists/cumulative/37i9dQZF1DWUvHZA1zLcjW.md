@@ -2,9 +2,9 @@
 
 ### [Chilled Classical](https://open.spotify.com/playlist/37i9dQZF1DWUvHZA1zLcjW)
 
-> Piezas clásicas para relajarte y dejarte llevar.
+> Chilled classical tunes to help you relax and unwind.
 
-194 songs - 13 hr 51 min
+195 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Continuum: I](https://open.spotify.com/track/2UjDFvb4aXggDerBtphpq1) | [Jane Antonia Cornish](https://open.spotify.com/artist/7krLA5PivFoG56wnlFHJRy), [Decoda](https://open.spotify.com/artist/5jExU1Kr51WCC5CjqGyhoM) | [Jane Antonia Cornish: Continuum](https://open.spotify.com/album/00aapTRofsjksAH1poSRrj) | 7:24 | 2022-01-28 | 2022-08-03 |
 | [DANCE: I\. when you're broken open](https://open.spotify.com/track/3Y0EbmwdJNP7dgVqSD8vRW) | [Anna Clyne](https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j), [Inbal Segev](https://open.spotify.com/artist/67cc5bwnsHBViTmOk3GjRj), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [Anna Clyne: DANCE \- Edward Elgar: Cello Concerto](https://open.spotify.com/album/2dDYUzvLOjEXbQh0i9i1p4) | 4:44 | 2022-01-28 | 2022-08-03 |
 | [DANCE: I\. when you're broken up](https://open.spotify.com/track/7xUMMOKO7UrqKa7x4XqaKa) | [Anna Clyne](https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j), [Inbal Segev](https://open.spotify.com/artist/67cc5bwnsHBViTmOk3GjRj), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Marin Alsop](https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr) | [DANCE: I\. when you're broken up](https://open.spotify.com/album/49oIZCjEBlSC0UbJ87EGtk) | 4:44 | 2022-01-28 | 2022-07-29 |
+| [Dancing Lights](https://open.spotify.com/track/08MwyLIBvGrNXgIPYWifk4) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dancing Lights](https://open.spotify.com/album/380TWv1sOwMrWeaohwZ6iz) | 1:57 | 2023-09-01 |  |
 | [Delius: 2 Pieces for Small Orchestra: No\. 1, On Hearing the First Cuckoo in Spring](https://open.spotify.com/track/2dEbRirkEtImY7HdYxrgRS) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Vernon Handley](https://open.spotify.com/artist/2lfhRHLz3kC17tcVKJqJ4Y), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Lark Ascending collection](https://open.spotify.com/album/5kTtD1xA5yYPrwjEYWk5uy) | 5:49 | 2022-01-28 |  |
 | [Dew Drops](https://open.spotify.com/track/0NnFglDnuZH6qKuvhZpB0r) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Vortex](https://open.spotify.com/album/4Rl1GYlwognM6bADTz5Ey2) | 5:34 | 2022-01-28 | 2022-08-03 |
 | [Die Nacht \(Arr\. for Cello and Guitar by Anja Lechner and Pablo Márquez\)](https://open.spotify.com/track/5s8B58Hj2GlkAoo5V658bU) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN), [Pablo Marquez](https://open.spotify.com/artist/0lwJbmjABuZ51dYqLrARNE) | [Schubert: Die Nacht \(Arr\. for Cello and Guitar by Anja Lechner and Pablo Márquez\)](https://open.spotify.com/album/4Gi7J0yFWPlVxJ6qp2MI1e) | 2:23 | 2022-08-02 |  |

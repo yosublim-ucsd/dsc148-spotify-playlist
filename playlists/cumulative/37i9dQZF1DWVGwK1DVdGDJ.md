@@ -4,7 +4,7 @@
 
 > 🐰 This Is NewJeans\. The essential tracks, all in one playlist\. 🐇
 
-23 songs - 43 min 12 sec
+24 songs - 47 min 5 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [ASAP](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:14 | 2023-07-21 |  |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2023-07-21 |  |
 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 | 2023-07-21 |  |
+| [Beautiful Restriction](https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [A Time Called You \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY) | 3:52 | 2023-09-01 |  |
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2023-07-21 |  |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-21 |  |
 | [Ditto](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:05 | 2023-07-21 |  |

@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Aya Nakamura
 
-333 songs - 17 hr 17 min
+334 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 | 2022-08-25 | 2022-09-09 |
 | [Ke Star \- Remix](https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(Remix\)](https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66) | 5:28 | 2022-08-25 | 2022-09-09 |
 | [Keeper \(Trophy\)](https://open.spotify.com/track/2CMQxHtMvOYxMQB0jcIeKL) | [HV](https://open.spotify.com/artist/7pq9fvwuS8ckGBRFLLGCjb) | [Keeper \(Trophy\)](https://open.spotify.com/album/0ImiN6jgtMI7Gf1da1Vm1I) | 2:57 | 2023-01-19 | 2023-06-02 |
+| [King of Pop](https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:21 | 2023-08-31 |  |
 | [Koko](https://open.spotify.com/track/7ppbwgiybENMZYUzu5EX6Z) | [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK) | [Koko](https://open.spotify.com/album/0VVhDZXIHATBwfpkmRaLtF) | 2:08 | 2022-11-09 | 2023-01-06 |
 | [KOKO \(Remix\)](https://open.spotify.com/track/28obG8FclvOU76EbWKJ49Z) | [MATHIAS](https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK), [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [KOKO \(Remix\)](https://open.spotify.com/album/4CNpaWERYJoXuFONSuyBte) | 2:51 | 2023-07-06 |  |
 | [Konjo](https://open.spotify.com/track/6QDsvVjGVvyapCgrZrNimn) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Konjo](https://open.spotify.com/album/6fwMKBeItkKYY8ZFn6vn4q) | 3:17 | 2022-07-18 | 2022-08-26 |

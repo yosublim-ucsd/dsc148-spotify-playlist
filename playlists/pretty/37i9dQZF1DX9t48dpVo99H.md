@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 
 > Solfeggio Frequencies, Bowls and Chants that strike a chord
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,489 likes - 56 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,540 likes - 56 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 42 | [741 Hz Spiritual Bath](https://open.spotify.com/track/5OANFC7h3nM3Jj1nrTM1vM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [New Beginning](https://open.spotify.com/album/1AjaVNgylLuRhsBZptlwKH) | 3:01 |
 | 43 | [741 Hz \- Miracle Tone](https://open.spotify.com/track/5fQxqgnJB4ictkKB2NBwYM) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Solfeggio Frequencies \- Miracle Tone](https://open.spotify.com/album/1FeOwrv5KIrJp5znjhqUrQ) | 1:35 |
 | 44 | [741 Hz \- Soledad Tranquilo](https://open.spotify.com/track/2pBwYh3pLOfK14B1dSRHQy) | [Inkognitone](https://open.spotify.com/artist/4QboCl4BNGAbXTeFx4zFGl) | [Soledad Tranquilo](https://open.spotify.com/album/6kEm1ctmep8BwLjbNaWjhF) | 2:08 |
-| 45 | [741 Hz \- Clarity Solfeggio](https://open.spotify.com/track/5ir1sEXlM4Pfn5sRYrsPld) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 2:15 |
+| 45 | [741 Hz \- Clarity Solfeggio](https://open.spotify.com/track/5ir1sEXlM4Pfn5sRYrsPld) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 2:15 |
 | 46 | [Purple Waters 741 hz](https://open.spotify.com/track/7BlhSDmgv38rAbYmdIp3lW) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Purple Waters](https://open.spotify.com/album/3XHbzv3q0JTI6UTnnleiz2) | 2:49 |
 | 47 | [So Hum](https://open.spotify.com/track/4LPXddfvILqIyfqIntPK9k) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [So Hum](https://open.spotify.com/album/1n7FuonhS869rKleqYJZ7m) | 4:07 |
 | 48 | [741 Hz Libertad](https://open.spotify.com/track/2Z2m5GSKnw2Uhudg3IAwGg) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 3:04 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9t48dpVo99H.md) - [plain]
 | 55 | [Dark Waves](https://open.spotify.com/track/00HRepvlnm6qcRKr7benVb) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Brown Noise](https://open.spotify.com/album/4H2iQaVz222z1FExVHOwB2) | 2:20 |
 | 56 | [Ferns](https://open.spotify.com/track/4EILGubj8yeAb5szI5BDVh) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [Ferns](https://open.spotify.com/album/1vM33GBEtobzFLRd1inD01) | 3:32 |
 
-Snapshot ID: `MCwxY2YyNTAzM2RkNTgwZjMxNWJlYjQ2MjNkYjNjMWExZTkwNDZmMmYz`
+Snapshot ID: `MCwzYjcyMDVhYjczZTE1ZjgwODA2YWM1MGMyNmZhNmFkYWRjZDAyZThh`

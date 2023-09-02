@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Kinder
 
-1,292 songs - 2 day 23 hr 52 min
+1,293 songs - 2 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 | 2023-03-16 | 2023-04-14 |
 | [Jackie](https://open.spotify.com/track/3FOuTsGmYTAPhRT9UQqSn3) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Jackie](https://open.spotify.com/album/7kzMYXE0p8CSNi0WNy8nOw) | 2:53 | 2023-08-31 |  |
 | [JDM DRIFT EDIT VERY TRENDY HOUSE PHONK!](https://open.spotify.com/track/76arGa0Ye5GwQi0uu1obxs) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [THE EVIL IN WHICH WE THRIVE](https://open.spotify.com/album/4wyNKVTIw6NZbpgvWuXlQg) | 2:17 | 2023-02-02 | 2023-03-03 |
+| [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 | 2023-08-31 |  |
 | [Jour Meilleur \(feat\. Orelsan\) \- Lost Frequencies Edit](https://open.spotify.com/track/7sLNer9AVuoNOVrYEXb1rF) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Jour Meilleur \(feat\. Orelsan\) \[Lost Frequencies Edit\]](https://open.spotify.com/album/3Rky9cN8foqbu8S8A7y9T2) | 2:55 | 2023-07-20 | 2023-08-11 |
 | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/track/06ETw1BcQZSbimPaKjdB5Z) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Joy In The Morning \(feat\. Chrome Sparks\)](https://open.spotify.com/album/7HwXrG10cc8BqUfZtQOLHR) | 4:45 | 2022-12-08 | 2022-12-24 |
 | [Jungle City](https://open.spotify.com/track/1soAhifV2nFE6don2XMWbX) | [AUSMAX](https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ) | [Jungle City](https://open.spotify.com/album/0XnTgfuWGzF0yLQ4lmMUg2) | 3:36 | 2023-05-11 | 2023-06-02 |

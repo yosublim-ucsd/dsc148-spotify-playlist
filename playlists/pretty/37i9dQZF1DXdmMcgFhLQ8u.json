@@ -1,12 +1,12 @@
 {
   "description": "These country songs know exactly how you feel.",
-  "num_followers": 180465,
+  "num_followers": 180559,
   "original_name": "Country Heartache",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmQ0OGEwMmM0M2E0ODAxNzI3YzhiZGMyYjI0MGZjZmIxOTZmZDY3",
+  "snapshot_id": "MCxlYzRlZjhmOWNmOGMxZjQwMmYzYTY5NzljMTc5YmZiMTEzMTRmODM1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:50:32",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "added_at": "2023-08-18 04:50:32",
+      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
-    },
-    {
-      "added_at": "2023-08-18 04:50:32",
-      "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
     },
     {
       "added_at": "2023-08-18 04:50:32",
@@ -783,22 +783,22 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
-        "name": "Still That Kid",
-        "url": "https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv"
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
       "artists": [
         {
-          "name": "Logan Mize",
-          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         },
         {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 169975,
-      "name": "Grew Apart",
-      "url": "https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz"
+      "duration_ms": 278200,
+      "name": "Neon Moon - with Kacey Musgraves",
+      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
     },
     {
       "added_at": "2023-08-18 04:50:32",
@@ -851,22 +851,22 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+        "name": "Still That Kid",
+        "url": "https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Logan Mize",
+          "url": "https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T"
         },
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Neon Moon - with Kacey Musgraves",
-      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
+      "duration_ms": 169975,
+      "name": "Grew Apart",
+      "url": "https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz"
     },
     {
       "added_at": "2023-08-18 04:50:32",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
+      },
+      "artists": [
+        {
+          "name": "Sara Evans",
+          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "A Little Bit Stronger",
+      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
+    },
+    {
+      "added_at": "2023-08-18 04:50:32",
+      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
-      },
-      "artists": [
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 301986,
-      "name": "A Little Bit Stronger",
-      "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
-    },
-    {
-      "added_at": "2023-08-18 04:50:32",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 247446,
       "name": "Maybe In Another Life",
       "url": "https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS"
-    },
-    {
-      "added_at": "2023-08-18 04:50:32",
-      "album": {
-        "name": "Memory I Don't Mess With",
-        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 180616,
-      "name": "Memory I Don't Mess With",
-      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
     },
     {
       "added_at": "2023-08-18 04:50:32",
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
+        "name": "Memory I Don't Mess With",
+        "url": "https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 180616,
+      "name": "Memory I Don't Mess With",
+      "url": "https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9"
+    },
+    {
+      "added_at": "2023-08-18 04:50:32",
+      "album": {
         "name": "Hemingway's Whiskey",
         "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
@@ -991,18 +991,22 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
-        "name": "Silk Purse",
-        "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
+        "name": "when was it over? (feat. Sam Hunt)",
+        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Long Long Time",
-      "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
+      "duration_ms": 218093,
+      "name": "when was it over? (feat. Sam Hunt)",
+      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
     },
     {
       "added_at": "2023-08-18 04:50:32",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
-        "name": "when was it over? (feat. Sam Hunt)",
-        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
+        "name": "Silk Purse",
+        "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         }
       ],
-      "duration_ms": 218093,
-      "name": "when was it over? (feat. Sam Hunt)",
-      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
+      "duration_ms": 263400,
+      "name": "Long Long Time",
+      "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
     },
     {
       "added_at": "2023-08-18 04:50:32",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
-        "name": "Don't Close Your Eyes",
-        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
+        "name": "All of It",
+        "url": "https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm"
       },
       "artists": [
         {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
         }
       ],
-      "duration_ms": 252626,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
+      "duration_ms": 199693,
+      "name": "Break Up in the End",
+      "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
     },
     {
       "added_at": "2023-08-18 04:50:32",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
-        "name": "All of It",
-        "url": "https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm"
+        "name": "Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Break Up in the End",
-      "url": "https://open.spotify.com/track/5Z19ylxppfnfdP4JH0u8oj"
+      "duration_ms": 252626,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn"
     },
     {
       "added_at": "2023-08-18 04:50:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-08-18 04:50:32",
       "album": {
-        "name": "Giving You Up (Acoustic)",
-        "url": "https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 232039,
-      "name": "Giving You Up - Acoustic",
-      "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
-    },
-    {
-      "added_at": "2023-08-18 04:50:32",
-      "album": {
         "name": "Hard 2 Love",
         "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 234840,
       "name": "I Drive Your Truck",
       "url": "https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj"
+    },
+    {
+      "added_at": "2023-08-18 04:50:32",
+      "album": {
+        "name": "Giving You Up (Acoustic)",
+        "url": "https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 232039,
+      "name": "Giving You Up - Acoustic",
+      "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
     },
     {
       "added_at": "2023-08-18 04:50:32",

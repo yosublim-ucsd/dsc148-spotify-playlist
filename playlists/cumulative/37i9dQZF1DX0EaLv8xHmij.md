@@ -2,9 +2,9 @@
 
 ### [Rima Avançada](https://open.spotify.com/playlist/37i9dQZF1DX0EaLv8xHmij)
 
-> O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Fleezus, Coruja Bc1
+> O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Clara Lima
 
-208 songs - 9 hr 41 min
+209 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [Bonde da Rock](https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Bonde da Rock](https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7) | 2:17 | 2022-12-23 | 2023-07-08 |
 | [Bota a Cara no Beco](https://open.spotify.com/track/51ulUko156sTMuh2upjbMA) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt) | [ERREJOTACULTDRILL, Vol\. 1 \- Mal Vindas Amizades](https://open.spotify.com/album/4n1BCaULwTJKmB4kFVpWdw) | 3:26 | 2022-03-18 |  |
 | [BRADRILL](https://open.spotify.com/track/68zTD2aPvre87UHlJkBRqA) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [BRADRILL](https://open.spotify.com/album/5tcAJ0FsUQ5CZfXe2HAXcV) | 2:22 | 2022-11-25 | 2022-12-03 |
-| [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 | 2022-11-25 |  |
+| [BRAZIL](https://open.spotify.com/track/0d16iGBlngyLHsldWzvahM) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [BRAZIL](https://open.spotify.com/album/3XX0VacWrVLIa7Dx2x1SSd) | 2:04 | 2022-11-25 | 2023-09-02 |
 | [Cachorrinho Branco e Preto \(feat\. Coruja Bc1\)](https://open.spotify.com/track/7Fq25d1uMgqMaIevy7jZ8J) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [OFF MODE](https://open.spotify.com/album/1FL0l7ijOWtgCFGOIC9sev) | 2:22 | 2023-08-25 |  |
 | [Cadeia ou Morte?](https://open.spotify.com/track/3cdkhjRdfY5Q5nN4mgtcOP) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:20 | 2022-03-18 | 2023-08-05 |
+| [Camisa 10](https://open.spotify.com/track/13kyuo0MazfwJ6f45PbHhm) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [DJ Guizin do Trem](https://open.spotify.com/artist/3jB6PVFo2v0NFhe6dk0HTA) | [Camisa 10](https://open.spotify.com/album/48UOun63WhfNSwhihpg0eJ) | 2:00 | 2023-09-01 |  |
 | [Carnadrill](https://open.spotify.com/track/6ZmYwR6Z4UajJ5LiPnN4n1) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [Cita OQ](https://open.spotify.com/artist/2oJc2xV0N5Po2NFbWE3zXh) | [Carnadrill](https://open.spotify.com/album/7m8NH7IW9rIvyrdbMqym7s) | 1:55 | 2022-07-15 | 2022-08-27 |
 | [Caro](https://open.spotify.com/track/3D0SvoPAta7wZkRkFbOFT3) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Caro](https://open.spotify.com/album/0sPxkDg3IdEvXWQtlaDVF3) | 2:58 | 2022-06-10 | 2023-05-13 |
 | [Catequese](https://open.spotify.com/track/4aa4y1cQI6YobbstYuDZnH) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Catequese](https://open.spotify.com/album/0jVj2HCC241nz91LlrjZDa) | 1:50 | 2023-04-14 |  |

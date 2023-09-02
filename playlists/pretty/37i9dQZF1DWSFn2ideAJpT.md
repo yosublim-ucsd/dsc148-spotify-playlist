@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,791 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,943 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 23 | [Point Cabrillo](https://open.spotify.com/track/7BMhMh3hJl6zbduaOg963j) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Point Cabrillo](https://open.spotify.com/album/7JBETB6yPPZKETdNJZi3dy) | 3:10 |
 | 24 | [Solfeggio Frequencies 963 Hz](https://open.spotify.com/track/2gHFh7SkAwBy3ORnk3TCqv) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [963 Hz Returning to Oneness](https://open.spotify.com/album/4sOv6RfJastljQWgYeLFzW) | 2:38 |
 | 25 | [963 Hz Coyuntura](https://open.spotify.com/track/3meLZFGFHBrdMa00aGwM4S) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 2:55 |
-| 26 | [963 Hz \- Clarity Solfeggio](https://open.spotify.com/track/1Bd8XgezMGdxcFElU8Wo9v) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 2:21 |
+| 26 | [963 Hz \- Clarity Solfeggio](https://open.spotify.com/track/1Bd8XgezMGdxcFElU8Wo9v) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Clarity Solfeggio](https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p) | 2:21 |
 | 27 | [Vast and Blue](https://open.spotify.com/track/4vPn1w8F2RVZWL1RJW7nu4) | [Gloaming Days](https://open.spotify.com/artist/5ZiQ5zqmQTnqqWqbHRBm2W) | [Vast and Blue](https://open.spotify.com/album/6dZY0ClK1TwoV7ISsnepfk) | 2:21 |
 | 28 | [Love Without Judgement](https://open.spotify.com/track/3DGqfaVcobXCuWdCw8p0Sq) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [963 Path to Awakening](https://open.spotify.com/album/38EYnM2FRNvBw9PB7veE1R) | 1:19 |
 | 29 | [963 Hz \- Chasing Waterfalls](https://open.spotify.com/track/3dhvsDD8HqLjRaXHQCdw9D) | [Arnaut](https://open.spotify.com/artist/0U9aA1N7gWqV5g3lfqTrld) | [Chasing Waterfalls](https://open.spotify.com/album/5M4eCFjPUz8M4QkQeeUnuE) | 2:05 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 53 | [Unrushed](https://open.spotify.com/track/4W6T0dEvuRxi9FE5SrqVwI) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [69,3 Hz Atmospheres for Sleep and Relaxation](https://open.spotify.com/album/2BAIMHPZMgBgXlB7JWLw8l) | 3:17 |
 | 54 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 |
 
-Snapshot ID: `MCxhODgyOTA4MzE2Y2NjY2RhZTFhOTA5ZGIxMDU1ZDhlYjE2NjVlODll`
+Snapshot ID: `MCxhZWEzNDRhMWVhNTMzMWMyMWQ2NDVmNTNkMGRhODIxZjg4NzZjNDkw`

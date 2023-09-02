@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 37894,
+  "num_followers": 37944,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDBmZjA2MjE1NDk1YmViMjY3OGU1NjZlNzNjMTFkOWE1M2Y2MmZi",
+  "snapshot_id": "MCwxMjQzYTljMDk1ZDdjNWU1OTYzZDZlOGEzY2U0OTY1Y2Y0MGMzNDQ4",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 102200,
-      "name": "Palmera",
-      "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Kiko",
         "url": "https://open.spotify.com/album/12AL1C0jglsaMYHwTsvA7w"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 215560,
       "name": "Kiko and the Lavender Moon",
       "url": "https://open.spotify.com/track/2JxHZfZM0ysnwPDefDl8Mz"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 102200,
+      "name": "Palmera",
+      "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
     },
     {
       "added_at": "2023-04-12 23:58:01",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Moliendo caf\u00e9 aux Portales (Le son de Veracruz)",
-        "url": "https://open.spotify.com/album/2pVE1SNgI9pR2nA446bTYn"
-      },
-      "artists": [
-        {
-          "name": "La Negra Graciana",
-          "url": "https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X"
-        }
-      ],
-      "duration_ms": 216280,
-      "name": "Moliendo caf\u00e9",
-      "url": "https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Tijuana Sessions Vol. 3",
         "url": "https://open.spotify.com/album/1mzRcscMBM7SRphpWA6g8T"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 224133,
       "name": "Tengo La Voz",
       "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Moliendo caf\u00e9 aux Portales (Le son de Veracruz)",
+        "url": "https://open.spotify.com/album/2pVE1SNgI9pR2nA446bTYn"
+      },
+      "artists": [
+        {
+          "name": "La Negra Graciana",
+          "url": "https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Moliendo caf\u00e9",
+      "url": "https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs"
     },
     {
       "added_at": "2022-02-04 19:55:03",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Elotitos Tiernos",
-        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
-      },
-      "artists": [
-        {
-          "name": "Liliana Felipe",
-          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
-        }
-      ],
-      "duration_ms": 392400,
-      "name": "A Su Merced",
-      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "It's Time",
@@ -1055,6 +1039,22 @@
       "duration_ms": 265373,
       "name": "Caf\u00e9 Con Pan",
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Elotitos Tiernos",
+        "url": "https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt"
+      },
+      "artists": [
+        {
+          "name": "Liliana Felipe",
+          "url": "https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV"
+        }
+      ],
+      "duration_ms": 392400,
+      "name": "A Su Merced",
+      "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Mujer Soy",
+      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Mujeres con Cajones",
         "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 153613,
       "name": "Hot Tamales (Los Tamalitos De Olga)",
       "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Mujer Soy",
-      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Tastes Like L.A.",
+        "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 235934,
+      "name": "Paletero",
+      "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Concierto en Vivo (Vienna, Austria)",
@@ -1407,22 +1423,6 @@
       "duration_ms": 239213,
       "name": "La Xochipitzahuatl",
       "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Tastes Like L.A.",
-        "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 235934,
-      "name": "Paletero",
-      "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
     },
     {
       "added_at": "2020-05-28 20:45:13",

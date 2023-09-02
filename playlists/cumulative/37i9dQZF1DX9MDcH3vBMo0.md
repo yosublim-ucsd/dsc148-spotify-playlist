@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-648 songs - 1 day 4 hr 10 min
+650 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Dominoes](https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Dominoes](https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X) | 2:27 | 2022-04-21 | 2023-07-04 |
 | [Donde Nadas](https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Donde Nadas](https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK) | 2:21 | 2022-04-21 |  |
 | [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2022-04-21 | 2023-01-26 |
-| [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2022-04-21 |  |
+| [Dover](https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Dover](https://open.spotify.com/album/1X1UcosGenRsPFEFc9tQgr) | 3:11 | 2022-04-21 | 2023-09-02 |
 | [Down The Line](https://open.spotify.com/track/25DsngbeW7QvMTuPJBy8ww) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Down The Line](https://open.spotify.com/album/5dx9rLR3Lqfx8zh6XWklKw) | 2:26 | 2023-05-03 |  |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2022-04-21 | 2022-07-21 |
 | [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 | 2022-04-21 | 2022-07-21 |
@@ -284,6 +284,7 @@
 | [La Raison](https://open.spotify.com/track/5O4mtDJO8jOP867GGp495v) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [La Raison](https://open.spotify.com/album/33JRRgkyeWVNcWgDuWCM4h) | 2:16 | 2022-04-21 | 2022-11-24 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-04-21 |  |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2022-04-21 | 2022-07-21 |
+| [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-08-29 |  |
 | [Landmannalaugar](https://open.spotify.com/track/7tEGou25bp3JObTEpfp2en) | [Oddur Klemenzson](https://open.spotify.com/artist/2rXVYffthMoPjCdmU2fzN1) | [Landmannalaugar](https://open.spotify.com/album/2hls5Cj9XC6jtQPBdyY4rL) | 2:13 | 2022-04-21 | 2022-08-10 |
 | [Late Spring](https://open.spotify.com/track/5DXfJx64sxj7H7ngSG6RyI) | [Anthony Bertoli](https://open.spotify.com/artist/0v0hz2stDsZwptsPymBJWz) | [Late Spring](https://open.spotify.com/album/5qFZFWDP9CrFDOxVHWkqoy) | 3:00 | 2022-04-21 |  |
 | [Late Winter](https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg) | [Paul Barber](https://open.spotify.com/artist/0jqwKxinI8GMRsHUn8xg8e) | [Stories](https://open.spotify.com/album/01PVhzdLyFu2b2XNuZ1qKC) | 2:24 | 2022-04-21 | 2022-09-24 |
@@ -531,6 +532,7 @@
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2022-04-21 |  |
 | [Stelle Scure](https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0) | [Enrico Parente](https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f) | [Stelle Scure](https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT) | 2:17 | 2022-04-21 | 2022-09-24 |
 | [Sternennacht](https://open.spotify.com/track/3rFTaMYqYLue1TrmauOGye) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Wolken Traum](https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6) | 2:32 | 2023-01-20 |  |
+| [Stilles Sehnen \- Upright Reframings](https://open.spotify.com/track/0KJa9LQdtvIkg7m7lGiSQu) | [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc) | [Stilles Sehnen \(Upright Reframings\)](https://open.spotify.com/album/2ac5YHVhCIkDRp2D7lgswK) | 3:25 | 2023-08-29 |  |
 | [Stjärnöga](https://open.spotify.com/track/2bKFD7mAcSDQvtAV08VXv1) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Stjärnöga](https://open.spotify.com/album/2DyGHcs004UG9Wc5AQsljD) | 3:11 | 2023-08-14 | 2023-08-17 |
 | [Storr](https://open.spotify.com/track/1FsASiGx3ay1qxeqZA9sdP) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Storr](https://open.spotify.com/album/2HKmEzAH66lNarpba1JyoU) | 3:17 | 2022-07-20 |  |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2022-04-21 |  |
@@ -548,7 +550,7 @@
 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 | 2022-04-21 |  |
 | [Te souviens\-tu](https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:10 | 2022-04-21 |  |
 | [Tempo dell’Oceano](https://open.spotify.com/track/0ruAGzEvwR2YZOzqoXI0Hk) | [Baldo Aquila](https://open.spotify.com/artist/0CIRMCbCwPFFmfpBSWVqWa) | [Tempo dell’Oceano](https://open.spotify.com/album/7LDWDL66Jt2u1S9WaH2aVr) | 2:24 | 2022-04-21 |  |
-| [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2022-04-21 |  |
+| [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2022-04-21 | 2023-09-02 |
 | [Textures](https://open.spotify.com/track/6nECGyZZTPXxi38Epefgpi) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Textures](https://open.spotify.com/album/2lID0uhvL3FyrwaYxRZWiw) | 2:09 | 2022-04-21 |  |
 | [Téli](https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Téli](https://open.spotify.com/album/6smhLShr1DjFPuxW7EtB4d) | 2:30 | 2022-04-21 | 2022-07-21 |
 | [The Balance](https://open.spotify.com/track/76N81Kjyn0CLyjyU6a7sUg) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [The Balance](https://open.spotify.com/album/5DftGjcxi5Gg6WUTw1AfqR) | 2:37 | 2022-04-21 | 2022-07-20 |

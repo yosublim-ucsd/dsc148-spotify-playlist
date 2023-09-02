@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con Trueno.",
+  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con KAROL G.",
   "name": "Hits Urbanos",
   "tracks": [
     {
@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/0VQXYA4do1nkiSjWzobyuw"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/2oUQzfbM29kn5cknX57gzB"
+    },
+    {
+      "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 145384,
       "name": "Antidepresivos",
       "url": "https://open.spotify.com/track/5NxgenNnK2EXDfzkO8oKqt"
@@ -1211,6 +1229,28 @@
     },
     {
       "album": {
+        "name": "BITCH, TRANQUILA",
+        "url": "https://open.spotify.com/album/5u54k9mlb2cTBSxRlBzAry"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "BITCH, TRANQUILA",
+      "url": "https://open.spotify.com/track/1WSTMoq6UPt01nYJZNrK0p"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1584,7 +1624,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 274250,
       "name": "Casablanca (feat. Morad)",
       "url": "https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO"
@@ -2317,6 +2357,28 @@
     },
     {
       "album": {
+        "name": "Cora Roto",
+        "url": "https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217610,
+      "name": "Cora Roto",
+      "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ"
       },
@@ -2488,7 +2550,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168004,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/22shmGBhASr4L1ChyFoSrL"
@@ -3322,7 +3384,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 170894,
       "name": "Dolido y Borracho",
       "url": "https://open.spotify.com/track/7rZQGOwPL8GucEl09jZg9R"
@@ -5778,7 +5840,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -5956,7 +6018,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -6084,7 +6146,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 181935,
       "name": "La Dieta",
       "url": "https://open.spotify.com/track/057ybvJLKXxHmalgXR7jru"
@@ -7908,7 +7970,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182068,
       "name": "Medayork",
       "url": "https://open.spotify.com/track/0OVJRLUDVurs2KSKGV9oFE"
@@ -8153,6 +8215,36 @@
     },
     {
       "album": {
+        "name": "Mi polola <3 (feat. Best)",
+        "url": "https://open.spotify.com/album/1PdMc3B1Nx2tlMjdx3Mcma"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Best",
+          "url": "https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230783,
+      "name": "Mi polola <3 (feat. Best)",
+      "url": "https://open.spotify.com/track/3lWcPFXacmDo3piquzSshF"
+    },
+    {
+      "album": {
         "name": "Mi real lova",
         "url": "https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn"
       },
@@ -8172,6 +8264,28 @@
       "duration_ms": 166105,
       "name": "Mi real lova",
       "url": "https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR"
+    },
+    {
+      "album": {
+        "name": "miamor",
+        "url": "https://open.spotify.com/album/6kgmi1PshVXk6ENMvQicAz"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
     },
     {
       "album": {
@@ -9463,6 +9577,32 @@
     },
     {
       "album": {
+        "name": "Ojos Azules",
+        "url": "https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Ojos Azules",
+      "url": "https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do"
+    },
+    {
+      "album": {
         "name": "Ojos Rojos",
         "url": "https://open.spotify.com/album/3hn2WMNhyJA8mbdeTM40QD"
       },
@@ -10240,7 +10380,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 156544,
       "name": "Piedritas En Los Dientes",
       "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
@@ -11552,6 +11692,28 @@
       "duration_ms": 211933,
       "name": "Sale Pa la Calle",
       "url": "https://open.spotify.com/track/5oAzWgKYosXee4Xfjpkbt6"
+    },
+    {
+      "album": {
+        "name": "Salgo a Bailar",
+        "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157830,
+      "name": "Salgo a Bailar",
+      "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
     },
     {
       "album": {
@@ -13799,6 +13961,32 @@
     },
     {
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205144,
+      "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
+      "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
+    },
+    {
+      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -14438,6 +14626,28 @@
       "duration_ms": 188862,
       "name": "X 1 BESO",
       "url": "https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P"
+    },
+    {
+      "album": {
+        "name": "X ESO BB",
+        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193835,
+      "name": "X ESO BB",
+      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
     },
     {
       "album": {

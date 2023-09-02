@@ -2,7 +2,7 @@
 
 ### [I Love My Midwest Classics](https://open.spotify.com/playlist/37i9dQZF1DWTJzNR1J5ygQ)
 
-> It's a Midwest thing\. Cover: Eminem
+> It's a Midwest thing\. Cover: Bone Thugs\-N\-Harmony
 
 83 songs - 5 hr 52 min
 

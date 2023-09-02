@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Focus with deep techno and tech house.",
+  "description": "Focus with melodic techno and tech house.",
   "name": "Beats to think to",
   "tracks": [
     {
@@ -928,6 +928,28 @@
       "duration_ms": 515760,
       "name": "Cafe Del Mar (Tale Of Us Renaissance Remix)",
       "url": "https://open.spotify.com/track/0FO09rQ0ACkUlLRT7jWFQF"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 Del Mar (Cosmic Boys Remix)",
+        "url": "https://open.spotify.com/album/6iZRULp86iUN5DZm1Ts7Zn"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        },
+        {
+          "name": "Cosmic Boys",
+          "url": "https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381787,
+      "name": "Caf\u00e9 Del Mar - Cosmic Boys Remix",
+      "url": "https://open.spotify.com/track/69RBXp7bvMLTqN3FIcX5Zd"
     },
     {
       "album": {
@@ -3744,7 +3766,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 433304,
       "name": "Multiversum",
       "url": "https://open.spotify.com/track/4BpI7T85Zehu5cyG0pz1YP"
@@ -4528,6 +4550,24 @@
       "duration_ms": 431879,
       "name": "Polymid",
       "url": "https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl"
+    },
+    {
+      "album": {
+        "name": "Portal / Echoes",
+        "url": "https://open.spotify.com/album/7evuenwoczpZ1eWE6DQeBw"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207874,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI"
     },
     {
       "album": {
@@ -5520,7 +5560,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 378000,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c"

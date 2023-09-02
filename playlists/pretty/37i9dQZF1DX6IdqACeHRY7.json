@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 148434,
+  "num_followers": 148466,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTViMGJmMjFhZWE3ZGZkY2VhOWRhYjAwZDE5NGExZjRiMTNkOGJl",
+  "snapshot_id": "MCwwZGM0MWVlYTczN2M4NzI1MjdkNTcwOGU1ZGMxODlmZTY3MjE3YjY4",
   "tracks": [
     {
       "added_at": "2023-08-03 20:17:12",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "if we never met",
-        "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
-      },
-      "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "if we never met",
-      "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 225893,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "if we never met",
+        "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "if we never met",
+      "url": "https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Vincent",
-        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "English Rain",
         "url": "https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "Vincent",
+        "url": "https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Same Kind Of Different (Acoustic)",
-        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 203262,
-      "name": "Need You Now - Acoustic",
-      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
+      "duration_ms": 202346,
+      "name": "Worst In Me",
+      "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj"
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Worst In Me",
-      "url": "https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce"
+      "duration_ms": 203262,
+      "name": "Need You Now - Acoustic",
+      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "isaac gracie (extended edition)",
         "url": "https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
-      },
-      "artists": [
-        {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
-        }
-      ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+      },
+      "artists": [
+        {
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp"
+        }
+      ],
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2023-08-03 20:17:12",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-08-03 20:17:12",
       "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 229783,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
+    },
+    {
+      "added_at": "2023-08-03 20:17:12",
+      "album": {
         "name": "Still the Same (feat. Boy In Space)",
         "url": "https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 178139,
       "name": "Still the Same (feat. Boy In Space)",
       "url": "https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q"
-    },
-    {
-      "added_at": "2023-08-03 20:17:12",
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 229783,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
     }
   ],
   "unique_name": "Ren hygge",

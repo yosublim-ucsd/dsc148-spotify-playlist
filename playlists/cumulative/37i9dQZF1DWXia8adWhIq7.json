@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Lito Atalaia, Eyshila",
+  "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jess\u00e9 Alcantara",
   "name": "Pop Gospel",
   "tracks": [
     {
@@ -342,6 +342,28 @@
       "duration_ms": 244539,
       "name": "Batida",
       "url": "https://open.spotify.com/track/0ijEZW5pIhMu0mDaQdPArX"
+    },
+    {
+      "album": {
+        "name": "Beijo do C\u00e9u",
+        "url": "https://open.spotify.com/album/6bTgTQzv5iCC5R3zH0w4cH"
+      },
+      "artists": [
+        {
+          "name": "Rafael Caff",
+          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204731,
+      "name": "Beijo do C\u00e9u",
+      "url": "https://open.spotify.com/track/65Nt8jiYHdMRrxHJSQnX50"
     },
     {
       "album": {
@@ -1116,7 +1138,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 308400,
       "name": "Me Alcan\u00e7ou (Live Remix)",
       "url": "https://open.spotify.com/track/0LG3JaVDTAtQwVLwaamxeL"
@@ -1580,10 +1602,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 233299,
       "name": "O Som da Liberdade",
       "url": "https://open.spotify.com/track/6Hf4bTfYtLOxzv4Ur12G9v"
+    },
+    {
+      "album": {
+        "name": "O Tempo N\u00e3o Para",
+        "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202431,
+      "name": "O Tempo N\u00e3o Para",
+      "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
     },
     {
       "album": {
@@ -1714,6 +1758,28 @@
       "duration_ms": 180864,
       "name": "Ponto de Paz",
       "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+    },
+    {
+      "album": {
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
     },
     {
       "album": {
@@ -2106,7 +2172,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 219357,
       "name": "Teu Amor",
       "url": "https://open.spotify.com/track/3AbDKvjqnNQIph2HtbHPhZ"
@@ -2208,6 +2274,28 @@
       "duration_ms": 194034,
       "name": "Teus Rios",
       "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+    },
+    {
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "album": {
@@ -2498,7 +2586,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 190024,
       "name": "Volta Jesus",
       "url": "https://open.spotify.com/track/6Qdw49imoXR5YWbPX5Vh4K"

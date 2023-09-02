@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-233 songs - 14 hr 16 min
+234 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alma Bonita](https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU) | [Alma Bonita](https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9) | 3:07 | 2022-02-04 | 2022-07-18 |
 | [Alumiô](https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1) | 3:24 | 2022-02-04 |  |
 | [Amarelo](https://open.spotify.com/track/6bkx8Q0OrT02dp8qtFXIVC) | [Mila Cavalhero](https://open.spotify.com/artist/7510idFXIXYMpUdlm6RnY4) | [Amarelo](https://open.spotify.com/album/5vfomh31FYoTzH15Xh4PhF) | 3:24 | 2022-02-04 | 2022-07-26 |
-| [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 | 2022-02-04 |  |
+| [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 | 2022-02-04 | 2023-09-02 |
 | [Ansiejazz](https://open.spotify.com/track/3zxzCceumX9oWltiRy4HSY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/0XWnY5AJPktemtQExVhoTJ) | 2:59 | 2022-03-22 | 2022-04-16 |
 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 | 2022-11-04 |  |
 | [Aquarela](https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Aquarela](https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy) | 3:23 | 2022-02-04 | 2022-07-29 |
@@ -218,6 +218,7 @@
 | [Talismã](https://open.spotify.com/track/3M1H3xYAf9D1sXiZ6aUQQZ) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Fragma](https://open.spotify.com/album/5Vwvi7lEBw808vJfDsGEkd) | 4:43 | 2022-02-04 | 2022-07-29 |
 | [Tangerina \- Ao Vivo](https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Acústico MTV Tiago Iorc \(Ao Vivo\)](https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV) | 4:41 | 2022-02-04 |  |
 | [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 | 2022-02-04 |  |
+| [Tem Dendê/Figa de Guiné \- Ao Vivo](https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Tem Dendê/Figa de Guiné \(Ao Vivo\)](https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp) | 3:32 | 2023-09-01 |  |
 | [Tibethânica](https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [A Dança do Mundo](https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE) | 3:22 | 2022-02-04 | 2022-06-22 |
 | [Tocando a Vida \(Rock Bottom\)](https://open.spotify.com/track/0mArd4wEofNHCda9wLaRtv) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Tocando a Vida \(Rock Bottom\)](https://open.spotify.com/album/1b88Yk0kPOU2cSfIYlUiCJ) | 4:23 | 2022-02-04 | 2022-07-29 |
 | [Toda Vez](https://open.spotify.com/track/1q6TD6FPeU0dXHgVbch96Y) | [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Toda Vez](https://open.spotify.com/album/4uq66yEUofwLyfW2QstvaA) | 2:55 | 2022-02-04 | 2022-07-29 |

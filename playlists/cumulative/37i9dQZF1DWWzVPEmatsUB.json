@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 148575,
       "name": "As Is",
       "url": "https://open.spotify.com/track/3blffQRXJqDABPTWunKmEc"
@@ -3687,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Nothing, Something, Everything",
+        "url": "https://open.spotify.com/album/7FcralsMBehsJT4Xx7DHfk"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186044,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/0HNmTOL4puKO6CcBc2aYZN"
+    },
+    {
+      "album": {
         "name": "I'm With You",
         "url": "https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7"
       },
@@ -3698,7 +3716,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 186044,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/2kR7VxLTxX3hPcXKKz2qkk"
@@ -5952,6 +5970,28 @@
       "duration_ms": 214858,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS"
+    },
+    {
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/5j17Q40WrMCERsIFa9WCQh"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Gabe Bondoc",
+          "url": "https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160128,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/0URET1QRXICvNhwgNn5OWD"
     },
     {
       "album": {

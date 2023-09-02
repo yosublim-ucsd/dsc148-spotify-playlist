@@ -20124,7 +20124,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 124234,
       "name": "Coffe grounds",
       "url": "https://open.spotify.com/track/7mXOjrQm3DrSACUa5TE3Qh"
@@ -26112,7 +26112,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 106666,
       "name": "disconnected",
       "url": "https://open.spotify.com/track/4H1ok58sFjxj2Ucej4HeNP"
@@ -68652,7 +68652,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 96000,
       "name": "New Love",
       "url": "https://open.spotify.com/track/0i3y7AqK9yeByJ1wYh1aZ8"
@@ -94646,6 +94646,32 @@
       "duration_ms": 130000,
       "name": "Stunned",
       "url": "https://open.spotify.com/track/4bvFCP4gzpsOX5XRHuFDNR"
+    },
+    {
+      "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/72Wr3kt4dK0MDQbxACDbY0"
+      },
+      "artists": [
+        {
+          "name": "RLLBTS",
+          "url": "https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA"
+        },
+        {
+          "name": "Lamar Azul",
+          "url": "https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34"
+        },
+        {
+          "name": "POSTPARTUM.",
+          "url": "https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/7JCIgOjVoWjt2Qe2uRzqpT"
     },
     {
       "album": {

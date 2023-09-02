@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: Thallumala
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,872 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,071 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 71 | [Olu](https://open.spotify.com/track/0LQe6U8PDXttOa3wIaV9fu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maniyarayile Ashokan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VLiYXMe9513cSzlv1ttEI) | 3:43 |
 | 72 | [Malare](https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Rajesh Murugesan](https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf) | [Premam](https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu) | 5:16 |
 | 73 | [Kannile Poika](https://open.spotify.com/track/2dPjufHqxhyhDVm1K99nlh) | [Bijibal](https://open.spotify.com/artist/09Swfzp0iwV8Yxe1Ngzf6v), [Ganesh Sundaram](https://open.spotify.com/artist/5mXsIgnkm3uRBWDUFX2ZK8), [Sowmya Ramakrishnan](https://open.spotify.com/artist/30Ps755Z7pAfLeUKWcaCzC) | [Thondimuthalum Dhriksaakshiyum](https://open.spotify.com/album/1eNjrrCJIwQR4O2n2YVe21) | 3:16 |
-| 74 | [Parayuvaan \- From "Ishq"](https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Parayuvaan \(From "Ishq"\)](https://open.spotify.com/album/0ZF2WvYiOVQwz2qnUUioTn) | 4:37 |
+| 74 | [Parayuvaan \- From "Ishq"](https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Joe Paul](https://open.spotify.com/artist/2d87Ln0p2Bjipl9mzvlA2t) | [Parayuvaan \(From "Ishq"\)](https://open.spotify.com/album/0ZF2WvYiOVQwz2qnUUioTn) | 4:37 |
 | 75 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC) | 3:38 |
 
-Snapshot ID: `MCxhOWM3MThmZmNkMWQ3NjA5NTMyODU1OGUzNGI0MjlkZmQ4NjAxMmJk`
+Snapshot ID: `MCw1NjM2YTkwN2U3OTJmNTNiNTZmYjE3MjI0MzI1NDY1NTZiZjM1ZDY3`

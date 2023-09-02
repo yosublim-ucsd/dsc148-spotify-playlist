@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-374 songs - 1 day 2 hr 25 min
+375 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Here She Comes](https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Here She Comes](https://open.spotify.com/album/3YJsSNEY87S84ghTUPvCbk) | 3:39 | 2022-09-23 |  |
 | [High Heels](https://open.spotify.com/track/7KesmZG74pZzj69FUC57HK) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:09 | 2020-10-30 | 2022-03-18 |
 | [Hoboken](https://open.spotify.com/track/1jp41tll6761L9Q8PtqAab) | [Slim Gambill](https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Hoboken](https://open.spotify.com/album/2eCVft4UJb36r2UeBnXM0G) | 3:42 | 2023-04-14 |  |
-| [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 | 2022-07-01 |  |
+| [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 | 2022-07-01 | 2023-09-02 |
 | [Hrs and Hrs](https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Hrs and Hrs](https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR) | 3:28 | 2022-02-25 | 2023-03-25 |
 | [Hub City Jam](https://open.spotify.com/track/1qSjM7DY7vgc2EcFJJyl2N) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Hub City Jam](https://open.spotify.com/album/0NAhhMdZDZ1p454HhztrIi) | 4:09 | 2023-06-30 |  |
 | [I Can Let Go Now \- Instrumental Version](https://open.spotify.com/track/24UVZM3ETZsEKCLfkQ5INR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Steve Tavaglione](https://open.spotify.com/artist/24DYsjzmOJblWOhpdEDUJE), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4) | [I Can Let Go Now](https://open.spotify.com/album/2uXOfbXLXLOWOWRW7SrGl1) | 3:50 | 2020-10-30 | 2022-02-28 |
@@ -203,6 +203,7 @@
 | [Living Out Loud](https://open.spotify.com/track/1Q1nRtRd98S6tXW3IWkNB2) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Living Out Loud](https://open.spotify.com/album/5XW3CWsPobrM7nItWAO2ym) | 4:23 | 2021-04-23 | 2022-03-18 |
 | [Look Both Ways](https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Look Both Ways](https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj) | 4:43 | 2022-10-07 | 2023-04-29 |
 | [LOVE AGAIN \- Instrumental](https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP) | [Smooth Jazz All Stars](https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi) | [Smooth Jazz Renditions of Daniel Caesar \(Instrumental\)](https://open.spotify.com/album/3VKiW7p1ekczui9eA0kZqK) | 3:05 | 2023-05-05 |  |
+| [Love Crash](https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF), [Phil Denny](https://open.spotify.com/artist/4pN9L2TSzYcFFS5FL4Hppz) | [Love Crash](https://open.spotify.com/album/3tbZWfRBaLOcr2h5IDvW53) | 3:49 | 2023-09-01 |  |
 | [Love Crazy](https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G) | 3:54 | 2021-04-02 | 2022-03-18 |
 | [Love Nwantiti](https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Love Nwantiti](https://open.spotify.com/album/1hAt5XyintKlTCsHBz6HHY) | 2:31 | 2023-07-07 |  |
 | [Magic City Streets](https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Magic City Streets](https://open.spotify.com/album/1zlO5c2oerKojvsCvk6mxm) | 3:40 | 2023-07-21 |  |

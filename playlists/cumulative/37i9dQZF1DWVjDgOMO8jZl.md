@@ -4,7 +4,7 @@
 
 > Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:02egj8t9vzqr5bWgMov3zq">Asteria</a>
 
-120 songs - 5 hr 50 min
+121 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [La Haine](https://open.spotify.com/track/7BW4fxpnJjIU1ETT6pdSJW) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:52 | 2022-08-31 | 2023-04-12 |
 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 | 2022-08-31 | 2023-04-12 |
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-03-08 | 2023-04-12 |
+| [MADAME](https://open.spotify.com/track/53xkDo7dg0zC4QKb2wuwtz) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [MADAME](https://open.spotify.com/album/6nwJDmta15pOlC1Ne7wfrW) | 2:28 | 2023-09-01 |  |
 | [Male](https://open.spotify.com/track/0BrwoWkbdxvvFnJohaw2pp) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Male](https://open.spotify.com/album/0SR5JsqwgUC0QxrR1dzBVO) | 2:33 | 2022-11-07 | 2023-04-12 |
 | [Mama \(feat\. Davinhor\)](https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Mama \(feat\. Davinhor\)](https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg) | 2:26 | 2022-11-24 | 2023-04-12 |
 | [MANI STRETTE](https://open.spotify.com/track/5Qo4lrFwepxf9bofOradCv) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:29 | 2022-08-31 | 2023-04-12 |

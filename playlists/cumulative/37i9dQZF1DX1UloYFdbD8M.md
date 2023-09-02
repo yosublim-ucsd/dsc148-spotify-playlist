@@ -2,7 +2,7 @@
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Job Kurian
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
 108 songs - 7 hr 30 min
 

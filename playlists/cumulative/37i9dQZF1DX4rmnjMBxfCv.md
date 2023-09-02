@@ -2,9 +2,9 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> The best dance and electronic songs in the MENA region\. Cover: <a href="https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS?si=YxwaMq5IQm2YyF7DLjNHAQ">Ash</a>
+> The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-159 songs - 10 hr 39 min
+160 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Lala Mama](https://open.spotify.com/track/41G8Erys8j0Ijux3HAJ9mp) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Lala Mama](https://open.spotify.com/album/7CGDfjYxjMl8HT49pNydPG) | 2:43 | 2022-03-30 | 2023-06-24 |
 | [lamma bada yatathana](https://open.spotify.com/track/4Pz9TcBWMjH13vMbHItS0v) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Mia\-Maria](https://open.spotify.com/artist/3kzWp3weeysIkcanxwo43n) | [lamma bada yatathana](https://open.spotify.com/album/276Hm5lY9sd4Rf4hWnjfpU) | 7:01 | 2022-03-30 | 2023-06-24 |
 | [Lamouni](https://open.spotify.com/track/64MF9Kii2EhxNr6pm3kkvm) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Lamouni](https://open.spotify.com/album/7z5CP8s91o8O6YXvM4qS3p) | 3:11 | 2023-02-01 | 2023-06-24 |
+| [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/track/2ZE4lde5AU8RFCi8nH3WCn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Land Of The Heroes \(Arabic Version\)](https://open.spotify.com/album/0OZ5oCTYCP4DLByyJtG98x) | 2:53 | 2023-09-01 |  |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-08-29 |  |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2023-06-23 |  |
 | [Lessatni Janbi](https://open.spotify.com/track/56gwEECcoSmSwQZb2H3vKv) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL) | [Lessatni Janbi](https://open.spotify.com/album/4dBm61G8fQ5v2qP1KmsBNe) | 3:24 | 2023-08-20 |  |

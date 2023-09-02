@@ -1673,6 +1673,28 @@
     },
     {
       "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156771,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
+    },
+    {
+      "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/2squYvCPxYVekcmOJqPz3D"
       },
@@ -1688,6 +1710,24 @@
       "duration_ms": 192755,
       "name": "Chica",
       "url": "https://open.spotify.com/track/5En1tLtPLGsgZ0KnzkjDXv"
+    },
+    {
+      "album": {
+        "name": "Chica Violeta",
+        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386900,
+      "name": "Chica Violeta",
+      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
     },
     {
       "album": {
@@ -2009,7 +2049,7 @@
     },
     {
       "album": {
-        "name": "Cortaste Toda La Luz",
+        "name": "Cortaste toda la luz",
         "url": "https://open.spotify.com/album/5lbpiRYTFik8UBu7UKRI9E"
       },
       "artists": [
@@ -2022,7 +2062,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178000,
-      "name": "Cortaste Toda La Luz",
+      "name": "Cortaste toda la luz",
       "url": "https://open.spotify.com/track/6sEkyi71nwR0Z7UC9OLWTg"
     },
     {
@@ -2698,7 +2738,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 103656,
       "name": "DNI",
       "url": "https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW"
@@ -3670,7 +3710,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 139688,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
@@ -4808,6 +4848,24 @@
       "duration_ms": 177818,
       "name": "Lindos Problemas",
       "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
+    },
+    {
+      "album": {
+        "name": "llorando en la luna",
+        "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177265,
+      "name": "llorando en la luna",
+      "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
     },
     {
       "album": {
@@ -6716,7 +6774,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 182462,
       "name": "Otro Plan",
       "url": "https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc"
@@ -7136,6 +7194,24 @@
       "duration_ms": 199065,
       "name": "Perd\u00f3n",
       "url": "https://open.spotify.com/track/3575r4V4H0C2aILHFSMK6Q"
+    },
+    {
+      "album": {
+        "name": "perfecta",
+        "url": "https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160519,
+      "name": "perfecta",
+      "url": "https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S"
     },
     {
       "album": {
@@ -8134,7 +8210,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 220005,
       "name": "Running Up That Hill - Spotify Singles",
       "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
@@ -8188,7 +8264,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 262500,
       "name": "San Camilo",
       "url": "https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ"
@@ -9404,6 +9480,24 @@
       "duration_ms": 162333,
       "name": "Torpe",
       "url": "https://open.spotify.com/track/5xfiwqLO6R21eRzWnjw7J4"
+    },
+    {
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247351,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 
 > Instrumental guitar for rainy day contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,825 likes - 96 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,864 likes - 96 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 | 95 | [Lola](https://open.spotify.com/track/1Oa5PbACgAPg0pS0l0SGTq) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Lola](https://open.spotify.com/album/0uEwBSSv1rpnE0LgMIb1xq) | 2:27 |
 | 96 | [A Little Misty](https://open.spotify.com/track/3egzfC5HyVnsg08R89AkgK) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [A Little Misty](https://open.spotify.com/album/7rlmehCkUmWRwo8vu6AdYe) | 3:05 |
 
-Snapshot ID: `MCxmZjcxOTk2MjdjMTljMDkxYmFmZjRmODExZTY3YzVmZGZkNzBkMTRj`
+Snapshot ID: `MCw4Y2NkNjFiZjcwNGFhNmFhMjU2NzRkZmEzZDZiNjRmMDdiYzc0YWNk`

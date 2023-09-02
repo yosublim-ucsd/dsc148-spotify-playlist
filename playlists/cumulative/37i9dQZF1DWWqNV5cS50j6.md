@@ -2,9 +2,9 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Yeek & Paris Texas make anti pop.
+> Not NOT pop\. Cover: KANII
 
-1,485 songs - 2 day 23 hr 37 min
+1,491 songs - 2 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Espada Primo](https://open.spotify.com/track/1SnrSiotEZcuZvGWRLSBIp) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Espada Primo](https://open.spotify.com/album/0Dw542vo3ipfUGWT5vS9Ou) | 2:40 | 2022-02-18 | 2022-05-10 |
 | [Ester](https://open.spotify.com/track/4JGv7vVgZvj5eTh4lecMBS) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Ester](https://open.spotify.com/album/4fRVpyAnoJZy0n1VQjAlNo) | 3:05 | 2022-05-11 | 2022-11-10 |
 | [ETA2 \(feat\. Paris Texas\)](https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [ETA2 \(feat\. Paris Texas\)](https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22) | 2:09 | 2023-06-30 | 2023-08-26 |
+| [Every Summer](https://open.spotify.com/track/1lz2s7GiXZcMypSpMCkjmJ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Nation](https://open.spotify.com/artist/03D2b6ATNCne8B3D251ncQ), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Every Summer](https://open.spotify.com/album/1HZWU6NhcwXiOu2Ki01kfm) | 1:51 | 2023-09-01 |  |
 | [Everybody's Safe Until…](https://open.spotify.com/track/58IwEDsZJcteGZ6iZ8pmaS) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Everybody's Safe Until…](https://open.spotify.com/album/7poRSz57XBWaG91pYjA0Bw) | 3:39 | 2023-06-16 | 2023-07-22 |
 | [Everybody’s Gonna Love Somebody \- Edit](https://open.spotify.com/track/5G8fWQnQ9wmfTONh8yKc0a) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Everybody’s Gonna Love Somebody](https://open.spotify.com/album/7zSB2OByjA4ivSOOtxhf4z) | 3:16 | 2021-02-19 | 2021-10-14 |
 | [EVERYTIME](https://open.spotify.com/track/2KJRdRRbBoG5U1LWL7Bpvm) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [FOR ME](https://open.spotify.com/album/3kwzdtCQox8B670Yn5puVq) | 2:45 | 2021-08-09 | 2021-10-14 |
@@ -510,6 +511,7 @@
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-05-22 | 2022-02-12 |
 | [Gloria !](https://open.spotify.com/track/4u8O5o5Fnmo0wJLFZW1bxH) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Gloria !](https://open.spotify.com/album/1UNeoUG4ozukEzItkg3MVO) | 2:04 | 2023-05-19 | 2023-07-22 |
 | [GLOW](https://open.spotify.com/track/3Osh6AVuR3OR6i5ZbNKHhp) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [GLOW](https://open.spotify.com/album/0nr8mQpi3E2bcxvjPEbASA) | 3:49 | 2022-05-27 | 2022-07-02 |
+| [GLUE](https://open.spotify.com/track/09AcOUvW6W9queqjGJGZe4) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [GLUE](https://open.spotify.com/album/1mrZs0Zgn0H5M5uDXT69fF) | 3:23 | 2023-09-01 |  |
 | [gluttony](https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [gluttony](https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7) | 1:57 | 2022-03-25 | 2022-04-10 |
 | [GML](https://open.spotify.com/track/2KtOdyy1demXgavVpzs5ca) | [Ehmji](https://open.spotify.com/artist/06OPSor1piYJUyL1xO7dgR), [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz) | [GML](https://open.spotify.com/album/4Toe6mECGN4Fa2tEMqyEdz) | 2:51 | 2021-06-19 | 2021-10-16 |
 | [Go Again](https://open.spotify.com/track/4pJHOKnhaj53aTQwM0Vigb) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Go Again](https://open.spotify.com/album/78egLdqpviDIASDHbQg79i) | 2:25 | 2021-07-31 | 2021-10-11 |
@@ -564,6 +566,7 @@
 | [HEADCASE](https://open.spotify.com/track/2QMnichNFAhM0f4gi01Az1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HEADCASE](https://open.spotify.com/album/5t4tKq5VpoVRF9KKZU3TwA) | 2:54 | 2021-08-21 | 2022-05-10 |
 | [Headset Go](https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Headset Go](https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ) | 3:16 | 2021-09-22 | 2022-03-01 |
 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 | 2020-10-13\* | 2021-01-23 |
+| [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 | 2023-09-01 |  |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-10-13\* | 2021-05-29 |
 | [heaven](https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u) | 2:00 | 2023-06-06 |  |
 | [heaven](https://open.spotify.com/track/5gEoep9RwLEy8hFJMne9ad) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/6P3AsR6fFqtaR4uDv7pfbC) | 2:00 | 2023-06-06 | 2023-07-12 |
@@ -692,6 +695,7 @@
 | [Jimmy Jimmy \(feat\. AJ Tracey\)](https://open.spotify.com/track/4Iv2jOCKQakC3YWhijrRKK) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Meanwhile EP](https://open.spotify.com/album/0q19TmDISPRbmRIZJyrEz6) | 3:03 | 2021-08-27 | 2022-03-01 |
 | [Jonny's Habit](https://open.spotify.com/track/09YcDy6I05RGXAq6gPDVr0) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Glasshead](https://open.spotify.com/album/6noSfxwRPvApqPSIcL9uGz) | 3:17 | 2023-06-07 | 2023-07-22 |
 | [JOY FOR YOUTH \(with Sir Chloe\)](https://open.spotify.com/track/7L6dDZgxFunFf7MlK96wXl) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [JOY FOR YOUTH \(with Sir Chloe\)](https://open.spotify.com/album/7DHLsED15ZC6RoCLIWIwmN) | 3:33 | 2021-08-11 | 2022-02-26 |
+| [JUMP OUT](https://open.spotify.com/track/1SCiaEWrW8y8mEEFoQ3RO7) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [JUMP OUT](https://open.spotify.com/album/2Yfy23tLGgsCLDWfxnIKGj) | 2:09 | 2023-09-01 |  |
 | [JUNKIE 4 U](https://open.spotify.com/track/2gj7EsEvWFn5gik7htgZVm) | [Max Armfield](https://open.spotify.com/artist/1W8tDkSW5WnB38vW6nqrQN) | [JUNKIE 4 U](https://open.spotify.com/album/6m0IdfT0kyIVAZee6nNnkf) | 2:02 | 2021-05-08 | 2021-10-16 |
 | [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:51 | 2022-05-09 | 2022-06-02 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-09-11 | 2021-09-28 |
@@ -800,6 +804,7 @@
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-03-25 | 2023-03-02 |
 | [MARINE](https://open.spotify.com/track/5O6890xm1qwbbmg2pTn5V6) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [ALL GIRLS GO TO HEAVEN](https://open.spotify.com/album/1QmZZE11VkUcOKEO9SJ8R4) | 3:22 | 2022-05-09 | 2022-06-01 |
 | [MARMALADE](https://open.spotify.com/track/7vdv0eDg178o0uUtGvRfm8) | [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [Ki$](https://open.spotify.com/artist/1oaYpFkpJmfkE0IVBJkfnM) | [COLORS](https://open.spotify.com/album/2qhRG0jx3hR8GjZ6gpUagh) | 3:38 | 2020-10-13\* | 2020-11-03 |
+| [marry me](https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [marry me](https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1) | 2:37 | 2023-09-01 |  |
 | [Martina Soleil \(Living At The Same Time\)](https://open.spotify.com/track/1BEjhtSuXdCf2NVofV71DD) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Martina Soleil \(Living At The Same Time\)](https://open.spotify.com/album/2FIbisWv6Q7QZVvevvCE3G) | 3:07 | 2023-02-24 | 2023-04-15 |
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-23 | 2022-03-01 |
 | [Mastodon Matador](https://open.spotify.com/track/0LMnm18zZKMlRe59xxA3o3) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Mixtape](https://open.spotify.com/album/6eI1jzNYFmvtOuVbS6KuCg) | 1:56 | 2022-11-08 | 2023-04-29 |
@@ -1470,6 +1475,7 @@
 | [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/track/4KvtOkGgCkZoGAKQpef5nB) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [YOU COULDN'T LOVE IF YOU WANTED TO](https://open.spotify.com/album/490b8bmg7gqhokwXbssUCN) | 2:48 | 2023-04-21 | 2023-06-17 |
 | [You the One Fish in the Sea](https://open.spotify.com/track/2NKI38xfdu7OQV7CFXUNKv) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/3UvD4QNv5b0vW9G2ZHfjsu) | 2:32 | 2022-07-08 | 2022-10-14 |
 | [You the One Fish in the Sea](https://open.spotify.com/track/5TOnnVV8YxB4NnRvavrPHX) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/10nNQo6ebmVoyh6R39jRlf) | 2:32 | 2022-10-04 | 2022-11-17 |
+| [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 | 2023-09-01 |  |
 | [you're a parasite](https://open.spotify.com/track/2uMv1AvQhvXk4F3DAeABGg) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/0gxx85pC89jMKmPIyL0kPa) | 2:32 | 2022-09-14 | 2022-10-04 |
 | [you're a parasite](https://open.spotify.com/track/5CoMPjfMO8XnNc6aNKYSo1) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [you're a parasite](https://open.spotify.com/album/1ZJR20NLRKNzzSbQvwkFMK) | 2:32 | 2022-11-30 | 2022-12-15 |
 | [You're Not Real You're Just a Ghost](https://open.spotify.com/track/0LrwwSU0ycsvTxoqGcvjAe) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [You're Not Real You're Just a Ghost](https://open.spotify.com/album/6mifjdacVc8tvYQ4YHsNO0) | 3:14 | 2022-10-25 | 2022-11-10 |

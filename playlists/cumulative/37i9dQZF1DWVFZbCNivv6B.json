@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168374,
       "name": "Apostas\u00eda",
       "url": "https://open.spotify.com/track/2MzUcY8xkDtO4il6cuHp41"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 204173,
       "name": "Cita Textual",
       "url": "https://open.spotify.com/track/6sYGwZRFaTPMszhjNppjox"
@@ -2165,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "Desde Peque\u00f1o",
+        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Desde Peque\u00f1o",
+      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
+    },
+    {
+      "album": {
         "name": "IceWeed-Man",
         "url": "https://open.spotify.com/album/3q5JdUUCimWQCm9bRsxcD8"
       },
@@ -2356,7 +2378,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 275400,
       "name": "El Chivo (feat. T3r Elemento)",
       "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
@@ -2480,7 +2502,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 183353,
       "name": "El Ni\u00f1o Malo",
       "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
@@ -2634,6 +2656,32 @@
       "duration_ms": 227750,
       "name": "En El Avi\u00f3n",
       "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
+    },
+    {
+      "album": {
+        "name": "En el Blanco",
+        "url": "https://open.spotify.com/album/7zmLyRyY7p5MgCLSltnc7n"
+      },
+      "artists": [
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Inti Sigma",
+          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "En el Blanco",
+      "url": "https://open.spotify.com/track/2QnLkjYSKtbzMzjYFXS5TJ"
     },
     {
       "album": {
@@ -2886,7 +2934,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 307826,
       "name": "Estoy Bien Loco",
       "url": "https://open.spotify.com/track/5u4XgdTpI3KAymxn9LZQxn"
@@ -3703,6 +3751,24 @@
     },
     {
       "album": {
+        "name": "La Bachona",
+        "url": "https://open.spotify.com/album/0kl7f5ss7mwh8zaJD6Ggye"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171177,
+      "name": "La Bachona",
+      "url": "https://open.spotify.com/track/7vZoJVfJ14jZJaHtiYcHyM"
+    },
+    {
+      "album": {
         "name": "\u00c1guila de los 90'S, Vol. 2",
         "url": "https://open.spotify.com/album/7jhkCbRaFSIrleSk7HacZy"
       },
@@ -3942,6 +4008,32 @@
       "duration_ms": 150344,
       "name": "LA PIPA DE LA PAZ",
       "url": "https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy"
+    },
+    {
+      "album": {
+        "name": "La Plata",
+        "url": "https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247500,
+      "name": "La Plata",
+      "url": "https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji"
     },
     {
       "album": {
@@ -4468,7 +4560,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 365557,
       "name": "Mal Hijo",
       "url": "https://open.spotify.com/track/2Suu3W2rLzKEEUTuDfBARf"
@@ -4582,7 +4674,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 222100,
       "name": "Manejo Lento",
       "url": "https://open.spotify.com/track/5Z8wqXLi7OdbrzXgo1ofHv"
@@ -4764,7 +4856,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 218706,
       "name": "Mexicanos Bravos",
       "url": "https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV"
@@ -4896,7 +4988,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 196243,
       "name": "Mitolo G's",
       "url": "https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM"
@@ -5396,7 +5488,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 168000,
       "name": "No Te Alejes De Mi",
       "url": "https://open.spotify.com/track/3mDkHnmVYtzc6zB4lb7s49"
@@ -5492,6 +5584,24 @@
       "duration_ms": 219200,
       "name": "No Ten\u00eda Nada",
       "url": "https://open.spotify.com/track/4d1rvvp184TEMTMDFD9Uil"
+    },
+    {
+      "album": {
+        "name": "No Voy a Parar",
+        "url": "https://open.spotify.com/album/2I1f9O1Z7uxWaCjmu0etel"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167261,
+      "name": "No Voy a Parar",
+      "url": "https://open.spotify.com/track/4tFAmTT9xRkeczQ3tKBVZm"
     },
     {
       "album": {
@@ -6308,7 +6418,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 212316,
       "name": "Posdata",
       "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
@@ -6620,7 +6730,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-02",
       "duration_ms": 371367,
       "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
       "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
@@ -8368,6 +8478,28 @@
       "duration_ms": 274285,
       "name": "Traicionero",
       "url": "https://open.spotify.com/track/3ro7U72y8MOT3047ioOCiV"
+    },
+    {
+      "album": {
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     },
     {
       "album": {

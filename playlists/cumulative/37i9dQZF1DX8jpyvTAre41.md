@@ -4,7 +4,7 @@
 
 > The biggest songs in today's Rock scene\. Cover: The Beaches
 
-679 songs - 1 day 14 hr 28 min
+682 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Arm In Arm](https://open.spotify.com/track/2LHAUUKtI3eaojULITCZ0K) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Once](https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT) | 2:41 | 2021-12-31 | 2022-03-05 |
 | [AUTOMATIC](https://open.spotify.com/track/3npR6Dg8NmwbEW9gU7jGCX) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [AUTOMATIC](https://open.spotify.com/album/5qEofzKKcDkOe2mcThqUco) | 2:33 | 2023-02-17 | 2023-06-24 |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-03-04 | 2022-03-19 |
-| [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-01-20 |  |
+| [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-01-20 | 2023-09-02 |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-11 |  |
 | [Bad Reputation \- Spotify Singles](https://open.spotify.com/track/6qNRJFypNpGWhUhlR13ENJ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Spotify Singles](https://open.spotify.com/album/7fWDAcxnpxhia9dUifr81o) | 2:29 | 2022-07-01 | 2022-07-23 |
 | [Bad Things](https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Bad Things](https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR) | 3:48 | 2022-09-09 | 2023-07-08 |
@@ -86,6 +86,7 @@
 | [Bring on the Blues](https://open.spotify.com/track/7hkYKBhJvNYtBnIsRyH8nO) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Bring on the Blues](https://open.spotify.com/album/2tphcnXJDLkwlg1nRiZwhr) | 3:31 | 2022-04-29 | 2022-06-18 |
 | [Brother the Cloud](https://open.spotify.com/track/3SQeF7y4ZKFaHiLkfw6CnW) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 4:22 | 2022-04-15 | 2022-05-07 |
 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 | 2022-01-14 | 2022-02-12 |
+| [Bumblebee](https://open.spotify.com/track/7xCQbRkgXIZKzIrB8yrG6v) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Bumblebee](https://open.spotify.com/album/0IHo9Z1H5vlLINGbtN2ALE) | 3:39 | 2023-09-01 |  |
 | [Burn It Up](https://open.spotify.com/track/0E9cZM5tqkk0KDSqHsx4p6) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Burn It Up](https://open.spotify.com/album/05ufuvHmeSOSvGUFra5tPj) | 3:26 | 2022-09-16 | 2022-11-12 |
 | [Cage](https://open.spotify.com/track/0iRtJVpWxeij92O7dEeQJg) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Uncaged](https://open.spotify.com/album/6FIzbi06xxtrTfzjLOdG7p) | 3:03 | 2022-04-29 | 2022-09-03 |
 | [Cage](https://open.spotify.com/track/7kxNZfIrJ3dxND0yWBEPrS) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Cage](https://open.spotify.com/album/48IE5IgYci5jGXcnEY8Q2r) | 3:03 | 2022-03-18 | 2022-04-29 |
@@ -202,7 +203,7 @@
 | [Flashback](https://open.spotify.com/track/1TB6VEurAmNzFmgKCml86F) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Flashback](https://open.spotify.com/album/6gKpoRKgrLIb1hjSXwuEZn) | 3:14 | 2022-04-01 | 2022-04-29 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2021-12-31 | 2022-03-05 |
 | [FLM](https://open.spotify.com/track/5JgZtVW4bvBuBGsldmjrEW) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [FLM](https://open.spotify.com/album/5pi8TnkYGSVhBNh9yobH0X) | 3:15 | 2022-02-04 | 2022-04-02 |
-| [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-11 |  |
+| [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-11 | 2023-09-02 |
 | [Follow \(Trans Lunar Ejector Maneuver\)](https://open.spotify.com/track/2Yf5KsX3uhF8r5OKIv22Yv) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [The Science & Artfunkel Victory Lap](https://open.spotify.com/album/4mZV4y7gXrpL6jzR7F9KD2) | 2:40 | 2021-12-31 | 2022-01-22 |
 | [Fool's Gold](https://open.spotify.com/track/5zH7OORpJSL6rM9JNlFhn5) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Songs That Don't Belong](https://open.spotify.com/album/78G4G2UaOnJm2PZxWUqIna) | 3:03 | 2022-12-23 | 2023-02-18 |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 | 2022-06-04 |
@@ -255,6 +256,7 @@
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-03-03 | 2023-05-07 |
 | [Hollywood Hillbilly](https://open.spotify.com/track/0Xr4W3sOlaLU2yZJ28lQRn) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hollywood Hillbilly](https://open.spotify.com/album/4YSVTP1mfval5BPo6qygLf) | 2:35 | 2022-08-05 | 2022-10-08 |
 | [Homesick](https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:13 | 2022-07-22 | 2022-08-06 |
+| [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-01 |  |
 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 | 2022-03-18 | 2022-10-15 |
 | [Hope](https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:38 | 2022-07-01 | 2022-11-26 |
 | [Hope in Hell](https://open.spotify.com/track/2qwDT631uzIInZ24TXhpP2) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:27 | 2021-12-31 | 2022-02-05 |
@@ -533,6 +535,7 @@
 | [Sonder](https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:20 | 2022-07-22 | 2023-03-04 |
 | [Soundtrack to the End of the World](https://open.spotify.com/track/5w5smajWD6cU9yoV8Xup4x) | [The Congregation](https://open.spotify.com/artist/4DNfDn4Cibrj36mVQnVIUd) | [Soundtrack to the End of the World](https://open.spotify.com/album/2rbI0ac0G0WHszqW6wlmG6) | 2:50 | 2022-04-15 | 2022-04-29 |
 | [Spend the Day](https://open.spotify.com/track/1s7qm9rLMu1YBeYF7HSVfY) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Spend the Day](https://open.spotify.com/album/2Q8GGP0SoLwax6l2huOvkR) | 2:31 | 2022-07-15 | 2022-08-20 |
+| [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 | 2023-09-01 |  |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 | 2022-12-23 | 2023-04-29 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/5wtEXxqlCbVuy7hxDsTX3K) | 2:27 | 2022-11-25 | 2022-12-10 |
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-09 | 2022-12-25 |
@@ -553,7 +556,7 @@
 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 | 2022-01-14 | 2022-02-12 |
 | [Surviving The Game](https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Surviving The Game](https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj) | 3:58 | 2021-12-31 | 2022-01-15 |
 | [Survivor](https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/4gZGUfedFjMS22PzjDzscJ) | 4:02 | 2021-12-31 | 2022-11-05 |
-| [Swap Places](https://open.spotify.com/track/58AT3seTr9rPaHReoAeiaL) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Sleez](https://open.spotify.com/album/0itTV0hnENfrtJW6h5thET) | 2:37 | 2023-05-19 |  |
+| [Swap Places](https://open.spotify.com/track/58AT3seTr9rPaHReoAeiaL) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Sleez](https://open.spotify.com/album/0itTV0hnENfrtJW6h5thET) | 2:37 | 2023-05-19 | 2023-09-02 |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2022-04-23 |
 | [Swing & A Miss](https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:59 | 2022-02-18 | 2022-05-20 |
 | [Symphony Of Lights](https://open.spotify.com/track/65uoNTX681VJpRyuVSWSdd) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 4:19 | 2022-01-28 | 2022-02-12 |

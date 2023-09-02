@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 104070,
+  "num_followers": 104068,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmU1NTA3MjgxNjc1OGNlZTI0MGE3MTYxNGFkZDJmNTdkZDBjMzU5",
+  "snapshot_id": "MCw5YjBhNjc3Zjg5ZWExMzJjNTdhNTc2MmYxOTUxYmQ2NjYzMGY5MDFj",
   "tracks": [
     {
       "added_at": "2023-08-17 06:57:19",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Magic Trio",
+          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
+        }
+      ],
+      "duration_ms": 163130,
+      "name": "The Chipmunk Song",
+      "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 176699,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Magic Trio",
-          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
-        }
-      ],
-      "duration_ms": 163130,
-      "name": "The Chipmunk Song",
-      "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Away In a Manger",
-        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
       },
       "artists": [
         {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
         }
       ],
-      "duration_ms": 69541,
-      "name": "Away In a Manger",
-      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
+      "duration_ms": 151333,
+      "name": "All I Want For Christmas (Is My Two Front Teeth)",
+      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
+        "name": "Away In a Manger",
+        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
       },
       "artists": [
         {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
         }
       ],
-      "duration_ms": 151333,
-      "name": "All I Want For Christmas (Is My Two Front Teeth)",
-      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
+      "duration_ms": 69541,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Busy Santa",
-        "url": "https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
-        }
-      ],
-      "duration_ms": 200872,
-      "name": "Busy Santa",
-      "url": "https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 240200,
       "name": "The Twelve Days of Christmas",
       "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
+        "name": "Busy Santa",
+        "url": "https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 200872,
+      "name": "Busy Santa",
+      "url": "https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM"
     },
     {
       "added_at": "2023-08-17 06:57:19",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-08-17 06:57:19",
       "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF"
-    },
-    {
-      "added_at": "2023-08-17 06:57:19",
-      "album": {
         "name": "Deck the Halls",
         "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 99179,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
+    },
+    {
+      "added_at": "2023-08-17 06:57:19",
+      "album": {
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF"
     },
     {
       "added_at": "2023-08-17 06:57:19",
