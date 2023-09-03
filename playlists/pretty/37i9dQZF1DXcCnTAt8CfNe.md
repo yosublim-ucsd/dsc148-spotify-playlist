@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,424 likes - 200 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,466 likes - 200 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 93 | [Hush](https://open.spotify.com/track/2WsGdaZkFsUSrpn4QVWcI1) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Quietude](https://open.spotify.com/album/3BEKM1H1FgNCGmDRJZICfD) | 2:50 |
 | 94 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 |
 | 95 | [Calm](https://open.spotify.com/track/7x8dZcTysEL2ugS7Gj7eMJ) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Calm](https://open.spotify.com/album/4lPUDTcfykVSSj7YFmC8yw) | 3:37 |
-| 96 | [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 |
+| 96 | [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 |
 | 97 | [Flowing Leaves](https://open.spotify.com/track/2dxQ8RJA85bwrG6QFkYaRc) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Flowing Leaves](https://open.spotify.com/album/0Yts01Uu54GMSpIc7YOK68) | 2:59 |
 | 98 | [Space And Time](https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Space And Time](https://open.spotify.com/album/5RpZBi2zTH4WjK7AWc5OzN) | 2:25 |
 | 99 | [Thaka](https://open.spotify.com/track/6pJ0Pp4wUKqtxU1E5Ssf5j) | [Ammachi](https://open.spotify.com/artist/6OsvGWU797S5XC4lF9LNxj) | [Thaka](https://open.spotify.com/album/3szjMZXhGRW2MS4jVZ0ORx) | 3:20 |
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 127 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 |
 | 128 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 |
 | 129 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 |
-| 130 | [Simplicity](https://open.spotify.com/track/1BYHA0Mfycu07N6t8lQnpW) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [The Gift](https://open.spotify.com/album/6vuNm2mA7rmAuiFC8Sj9pU) | 3:39 |
+| 130 | [Simplicity](https://open.spotify.com/track/1BYHA0Mfycu07N6t8lQnpW) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Gift](https://open.spotify.com/album/6vuNm2mA7rmAuiFC8Sj9pU) | 3:39 |
 | 131 | [Unwritten Thoughts](https://open.spotify.com/track/0qXXvOL6Ujkboy0u6QHCam) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Escape](https://open.spotify.com/album/4pihDS6JH0lIBv4er7yBpm) | 3:28 |
 | 132 | [Terai\-Duar](https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS) | [Taj Mendel](https://open.spotify.com/artist/0xWF2XH0Nmxm0ZFL55ylfp) | [Terai\-Duar](https://open.spotify.com/album/4BROYeb4u3YNEcwlknFhlC) | 4:11 |
 | 133 | [Conscience](https://open.spotify.com/track/19ilGQQEukiGNg4XSC5JbN) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Conscience](https://open.spotify.com/album/2SSgsApJySq0Bjv3mdvTus) | 4:08 |
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 148 | [Waiting For The Moment](https://open.spotify.com/track/0PWTD37PzDoCU9CunHUokE) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 3:24 |
 | 149 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 |
 | 150 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
-| 151 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 |
+| 151 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 |
 | 152 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 |
 | 153 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
 | 154 | [Doze](https://open.spotify.com/track/7B3JZiCROLf0isTxxTs2bL) | [Judithe Abelsen](https://open.spotify.com/artist/2n4kqHsrCGaOvVa90vBlXK) | [Doze](https://open.spotify.com/album/1n9u1YclM1RUj2qvFBlVbE) | 3:22 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 199 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 200 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
 
-Snapshot ID: `MCwzMzlhNTY1OWQyOWU3OWExYWQ5NjUyYWQxNjhiMjU4OTQyOWUxZDZj`
+Snapshot ID: `MCxlMmYwMThmZDhhOTAyYzllYjU2NTNmMGViYThjNjVjYjhhYTBkNDVk`

@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 186490,
+  "num_followers": 186555,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODBlZjIwZDlhMjBiMGJiZDFlOWJjMDY3YTJmMjRkNDE1NzljNWE0",
+  "snapshot_id": "MCwxZGFjZTk1MjVmZjdiMTEyNWQ4ZGJkYTNmMTkyNjgwY2E0YjZmOTU5",
   "tracks": [
     {
       "added_at": "2021-10-20 17:59:21",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/1kWPFMJFJiaL0CqUIV3LPs"
     },
     {
+      "added_at": "2022-02-23 18:07:47",
+      "album": {
+        "name": "Marginalia III",
+        "url": "https://open.spotify.com/album/5bxEIUrZQe4luI0JNDpd2r"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Marginalia #48",
+      "url": "https://open.spotify.com/track/1lsshCSpBo3z9DfjaGWxeb"
+    },
+    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "ocean tales",
@@ -563,22 +579,6 @@
       "duration_ms": 152901,
       "name": "eons away",
       "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
-    },
-    {
-      "added_at": "2022-02-23 18:07:47",
-      "album": {
-        "name": "Marginalia III",
-        "url": "https://open.spotify.com/album/5bxEIUrZQe4luI0JNDpd2r"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Marginalia #48",
-      "url": "https://open.spotify.com/track/1lsshCSpBo3z9DfjaGWxeb"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Gorge",
-        "url": "https://open.spotify.com/album/2HkEQUkxDl5AkzG4RPJ6wr"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 181532,
-      "name": "Gorge",
-      "url": "https://open.spotify.com/track/21NWvfC00qCfHdaMIb7Cqq"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Penguin Caf\u00e9 Orchestra",
         "url": "https://open.spotify.com/album/2HDowU93etbL5ClDIRAyh8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 188400,
       "name": "Cutting Branches For A Temporary Shelter - Remastered 2008",
       "url": "https://open.spotify.com/track/0Lm3loChnSsNS37nxvLYcN"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Gorge",
+        "url": "https://open.spotify.com/album/2HkEQUkxDl5AkzG4RPJ6wr"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 181532,
+      "name": "Gorge",
+      "url": "https://open.spotify.com/track/21NWvfC00qCfHdaMIb7Cqq"
     },
     {
       "added_at": "2021-12-07 05:45:16",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
     },
     {
-      "added_at": "2022-07-15 05:32:15",
-      "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Wake Up Calls",
@@ -859,6 +843,22 @@
       "duration_ms": 145226,
       "name": "Cuckoo",
       "url": "https://open.spotify.com/track/1Dryf1pXEIEsKC2Q8Z2FAT"
+    },
+    {
+      "added_at": "2022-07-15 05:32:15",
+      "album": {
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -979,18 +979,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Cicada Waves",
-        "url": "https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6"
+        "name": "4T Recordings",
+        "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
       },
       "artists": [
         {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 402266,
-      "name": "Fog Rolls Out Rabun Gap",
-      "url": "https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv"
+      "duration_ms": 197249,
+      "name": "4T Recordings",
+      "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "4T Recordings",
-        "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
+        "name": "Cicada Waves",
+        "url": "https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
         }
       ],
-      "duration_ms": 197249,
-      "name": "4T Recordings",
-      "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
+      "duration_ms": 402266,
+      "name": "Fog Rolls Out Rabun Gap",
+      "url": "https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1109,22 +1109,6 @@
       "url": "https://open.spotify.com/track/3UhZCLlkRcJB1rl8UTQLYH"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Clarinet & Piano: Selected Works, Vol. 1",
-        "url": "https://open.spotify.com/album/1Og9tQJXutnIGZlZJrqVvM"
-      },
-      "artists": [
-        {
-          "name": "Group Listening",
-          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Wenn der s\u00fcdwind weht",
-      "url": "https://open.spotify.com/track/4DHqYa5X2Qokx9E5YKE6qk"
-    },
-    {
       "added_at": "2023-01-06 21:07:36",
       "album": {
         "name": "sol",
@@ -1143,6 +1127,22 @@
       "duration_ms": 119649,
       "name": "sol",
       "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Clarinet & Piano: Selected Works, Vol. 1",
+        "url": "https://open.spotify.com/album/1Og9tQJXutnIGZlZJrqVvM"
+      },
+      "artists": [
+        {
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Wenn der s\u00fcdwind weht",
+      "url": "https://open.spotify.com/track/4DHqYa5X2Qokx9E5YKE6qk"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1177,6 +1177,22 @@
       "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
       "added_at": "2022-07-15 05:17:48",
       "album": {
         "name": "Espiral (\u51a5\u4e01 Remix)",
@@ -1201,22 +1217,6 @@
       "url": "https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
-    },
-    {
       "added_at": "2022-01-11 00:18:40",
       "album": {
         "name": "Good Places",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Pantano Lontano",
-        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
-      },
-      "artists": [
-        {
-          "name": "Nodes",
-          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
-        }
-      ],
-      "duration_ms": 341621,
-      "name": "Sin\u00fa",
-      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 187058,
       "name": "Gyroscope",
       "url": "https://open.spotify.com/track/2dziNfL0S9awABp30vNN08"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Pantano Lontano",
+        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
+      },
+      "artists": [
+        {
+          "name": "Nodes",
+          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
+        }
+      ],
+      "duration_ms": 341621,
+      "name": "Sin\u00fa",
+      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "SVMMER SVN vol. 6",
-        "url": "https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV"
-      },
-      "artists": [
-        {
-          "name": "John Looke",
-          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
-        }
-      ],
-      "duration_ms": 267027,
-      "name": "Redder Than The Moon",
-      "url": "https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Harvest",
         "url": "https://open.spotify.com/album/6a2P7s6eBxxIUW8LiXcNM9"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "SVMMER SVN vol. 6",
+        "url": "https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV"
+      },
+      "artists": [
+        {
+          "name": "John Looke",
+          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
+        }
+      ],
+      "duration_ms": 267027,
+      "name": "Redder Than The Moon",
+      "url": "https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Healing Collection: Quiet Comfort",
         "url": "https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 964666,
       "name": "Dawn of the Forest",
       "url": "https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "The Pillow Sisters",
+        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 159158,
+      "name": "The Pillow Sisters",
+      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
       "added_at": "2022-04-09 03:30:53",
@@ -1493,38 +1509,6 @@
       "url": "https://open.spotify.com/track/6G9LFyviMIEEXwRKTeAD1s"
     },
     {
-      "added_at": "2023-02-14 15:07:22",
-      "album": {
-        "name": "Ventus",
-        "url": "https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY"
-      },
-      "artists": [
-        {
-          "name": "Alondra M\u00e1ynez",
-          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
-        }
-      ],
-      "duration_ms": 304831,
-      "name": "Ventus",
-      "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "The Pillow Sisters",
-        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "The Pillow Sisters",
-      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Sova",
@@ -1539,6 +1523,22 @@
       "duration_ms": 132958,
       "name": "Yawn Machine",
       "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
+    },
+    {
+      "added_at": "2023-02-14 15:07:22",
+      "album": {
+        "name": "Ventus",
+        "url": "https://open.spotify.com/album/2BeYKXlzWEn6CxsK1GRinY"
+      },
+      "artists": [
+        {
+          "name": "Alondra M\u00e1ynez",
+          "url": "https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd"
+        }
+      ],
+      "duration_ms": 304831,
+      "name": "Ventus",
+      "url": "https://open.spotify.com/track/0AIqhEOamNLxqWE1LGsL8q"
     },
     {
       "added_at": "2023-02-14 15:07:22",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/1c4GN3QhqkSl0AMeRAfvRC"
-      },
-      "artists": [
-        {
-          "name": "Houis",
-          "url": "https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF"
-        }
-      ],
-      "duration_ms": 168490,
-      "name": "V.",
-      "url": "https://open.spotify.com/track/3dNY6woOGqmjAGYWCxutOw"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "blue moon",
         "url": "https://open.spotify.com/album/439132aTNPy2bbctlYh3yN"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 86292,
       "name": "conversations with grandma",
       "url": "https://open.spotify.com/track/5Hfp1A85EAcD3fqHmAPbpN"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/1c4GN3QhqkSl0AMeRAfvRC"
+      },
+      "artists": [
+        {
+          "name": "Houis",
+          "url": "https://open.spotify.com/artist/3bjJEXLyXKBFUx6MOj3wlF"
+        }
+      ],
+      "duration_ms": 168490,
+      "name": "V.",
+      "url": "https://open.spotify.com/track/3dNY6woOGqmjAGYWCxutOw"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1657,28 +1657,20 @@
       "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
     },
     {
-      "added_at": "2023-05-16 04:54:42",
+      "added_at": "2022-09-30 02:46:10",
       "album": {
-        "name": "OFFAIR: from the forest floor",
-        "url": "https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0"
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt"
       },
       "artists": [
         {
-          "name": "Jenny Owen Youngs",
-          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
-        },
-        {
-          "name": "John Mark Nelson",
-          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
-        },
-        {
-          "name": "Hrishikesh Hirway",
-          "url": "https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
         }
       ],
-      "duration_ms": 182528,
-      "name": "ambrosia",
-      "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
+      "duration_ms": 368703,
+      "name": "Music For Growing Flowers - Edit",
+      "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
     }
   ],
   "unique_name": "Music for Plants",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,157 likes - 180 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,172 likes - 180 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 52 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 |
 | 53 | [The Explorer](https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [The Explorer](https://open.spotify.com/album/572p09vhNOLPyc0PHeMWuf) | 2:36 |
 | 54 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 |
-| 55 | [Point of No Return](https://open.spotify.com/track/33h42Lr9t0sgZ4JxYRLu5M) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Point of No Return](https://open.spotify.com/album/6YQWk5y3yjYByJ1MQRnDsX) | 3:58 |
+| 55 | [Point of No Return](https://open.spotify.com/track/33h42Lr9t0sgZ4JxYRLu5M) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [Point of No Return](https://open.spotify.com/album/6YQWk5y3yjYByJ1MQRnDsX) | 3:58 |
 | 56 | [Salve](https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Salve](https://open.spotify.com/album/73yZQQSNzwlGyMBwndXjrd) | 2:50 |
 | 57 | [Purple Skies](https://open.spotify.com/track/0FgH4pMsTovHYDLs49l5LJ) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Purple Skies](https://open.spotify.com/album/6kVpioXtXTxlQHZz7bzb2b) | 3:09 |
 | 58 | [Krönet](https://open.spotify.com/track/7pYIvYaxVn7OWW8MmKGlBc) | [Vindeln](https://open.spotify.com/artist/4oss3KkMU3mcmvNuRez01Y) | [Krönet](https://open.spotify.com/album/3c9LsBPNicwU5GWEbH7Otw) | 2:33 |
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 132 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 |
 | 133 | [Le marchand de sable est passé](https://open.spotify.com/track/4ZHotLx5jX1MPDixEhEakI) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Le marchand de sable est passé](https://open.spotify.com/album/6sPS38qm4ZftAtfS8C9iKH) | 3:45 |
 | 134 | [Buonanotte e sogni d’oro](https://open.spotify.com/track/6pQlRxPMSILxVr7vz3JmGC) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Buonanotte e sogni d’oro](https://open.spotify.com/album/2mqptjD5PxNAeTPzouxYKT) | 3:44 |
-| 135 | [Piamino](https://open.spotify.com/track/58LhrS1LxrBMe0oEOIQQVi) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 2:50 |
+| 135 | [Piamino](https://open.spotify.com/track/58LhrS1LxrBMe0oEOIQQVi) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 2:50 |
 | 136 | [Thinking about Jane](https://open.spotify.com/track/1p8USVDsfuc1bJPYEHdaXK) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Thinking about Jane](https://open.spotify.com/album/1IndXeuwjyE7OReVMHEiEY) | 2:24 |
 | 137 | [Reflection of the Unknown](https://open.spotify.com/track/3ju7ioziNTBPy8TvY31Jqb) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Reflection of the Unknown](https://open.spotify.com/album/2sEt3v9MeWzhFfQR0Qy8yD) | 3:03 |
 | 138 | [Highlands](https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Highlands](https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC) | 2:05 |
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 153 | [Solitude Anticipée](https://open.spotify.com/track/1gTPJVG8cwEm0JHHvsfN3U) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Solitude Anticipée](https://open.spotify.com/album/7aLM80xsDvjrEE2eEW2CaH) | 3:12 |
 | 154 | [Sidereus](https://open.spotify.com/track/1jp80qB36x0WCV1zPHRq31) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Sidereus](https://open.spotify.com/album/338OsNe2iBBwVdhpdtCGm3) | 3:27 |
 | 155 | [Existence](https://open.spotify.com/track/4NXePPSrZCdPxNhxVID0jk) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Existence](https://open.spotify.com/album/7nchpEEkQcuVZ8t2mqHsdH) | 2:56 |
-| 156 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 |
+| 156 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 |
 | 157 | [Pour que tu m’aimes encore](https://open.spotify.com/track/4C9ysvTrYnfCjZ8x8HJWp8) | [Joséphine Auclair](https://open.spotify.com/artist/0apUwW6GnlGwDJLyV35jUy) | [Pour que tu m’aimes encore](https://open.spotify.com/album/5Xbze3vkFASbO4tX2rHNuU) | 2:35 |
 | 158 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 |
 | 159 | [Paper Thin Reality](https://open.spotify.com/track/0r0wpbCoNi9ixLK7jQBL7J) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/0yly5h7LGTBQz6Z8Mx72HV) | 3:34 |
@@ -179,7 +179,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 169 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
 | 170 | [Equanimity](https://open.spotify.com/track/5Jq46as1MfI6dYJHgsWr8G) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [Equanimity](https://open.spotify.com/album/47dxX9iLiwVnc7CPq3uvHw) | 2:07 |
 | 171 | [Sleepy Mountains](https://open.spotify.com/track/5pNEVP7GH0wgK3PCL5oEws) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 2:50 |
-| 172 | [A Moment of Reflection](https://open.spotify.com/track/15msDW5lW6xONIUtKAfaPC) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 3:04 |
+| 172 | [A Moment of Reflection](https://open.spotify.com/track/15msDW5lW6xONIUtKAfaPC) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 3:04 |
 | 173 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 |
 | 174 | [All Around Us](https://open.spotify.com/track/5jFQb4HLIsyOpClpUNDKqy) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [All Around Us](https://open.spotify.com/album/2wL1Qgbzh1v5NDF4kpMbQC) | 2:50 |
 | 175 | [Eudoxie](https://open.spotify.com/track/1onEytWdEeDCZoyF8VOOA9) | [Irizarry Barraza](https://open.spotify.com/artist/3l8Rz2GBf5iqZUpd4FjlLW) | [Eudoxie](https://open.spotify.com/album/402X73RJSmxYwo0ndY8A21) | 3:33 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 | 179 | [Les cieux du printemps](https://open.spotify.com/track/1CQqk6DcfC0Q9Iw3jS8UxH) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Les cieux du printemps](https://open.spotify.com/album/77vUJEBj4Muy8BCTDqHpfD) | 2:46 |
 | 180 | [Simplicity](https://open.spotify.com/track/44u00vPcT8iajEhoWC2Mar) | [Lilja valjas](https://open.spotify.com/artist/7hOaXb9KVFEZYjTJFjv5Km) | [Simplicity](https://open.spotify.com/album/6abhGJnqtGHO4YeGiGzp3p) | 2:50 |
 
-Snapshot ID: `MCw5ZmJkMDJmMzQ5ODQwNzgxMGI0ZTYxYjhlNGEzMDAxNTBmODU5ZGNj`
+Snapshot ID: `MCxhY2YxZjIwYzg4YjljN2M5ZDVhNGI5MmVmMGRiMzk0MGE3YjgxODI2`

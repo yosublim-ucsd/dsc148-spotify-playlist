@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-395 songs - 1 day 12 hr 29 min
+396 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Skating In Central Park](https://open.spotify.com/track/1cpANF6zMBoFoxkoIjZHjv) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 5:24 | 2020-05-02\* | 2021-08-20 |
 | [Sketches](https://open.spotify.com/track/2JtCWufXwjsc1jC2RS1m8I) | [Dan Berkson](https://open.spotify.com/artist/60MCXrI72kKaa7U2KaxcWz) | [Dialogues](https://open.spotify.com/album/09fvqoOrmMm0hbI5mpB1LV) | 5:48 | 2021-09-17 | 2021-10-01 |
 | [Sketches of Blue](https://open.spotify.com/track/55NMOgcRh8EvS91cIhmqk9) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Sketches of Blue](https://open.spotify.com/album/5CI83SxHMTMlFfKFSxB0XF) | 6:29 | 2022-03-10 |  |
+| [Slow Down Look Around](https://open.spotify.com/track/68zqnkWb08lWCBBqs8o24X) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Love & Life](https://open.spotify.com/album/7nP1xklE0UrB0wqDp6C2gl) | 6:59 | 2023-08-31 |  |
 | [Slow Hot Wind](https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Slow Hot Wind](https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR) | 5:19 | 2023-06-20 |  |
 | [So Tender](https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards, Vol\. 2](https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd) | 7:15 | 2020-05-02\* |  |
 | [Soft Pedal Blues \- Remastered](https://open.spotify.com/track/7rx7TWrRy5cYyKrM9ty8r9) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 7:26 | 2021-09-10 | 2022-02-11 |
@@ -321,7 +322,7 @@
 | [Stockholm Sweetnin'](https://open.spotify.com/track/73fjTjTG8KSLQ04t5fARWm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 7:55 | 2020-10-27 | 2023-05-24 |
 | [Stormy Weather](https://open.spotify.com/track/2ZT6cJhnJtaaEMJpwRIEPT) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Western Music Box](https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1) | 6:31 | 2023-08-15 |  |
 | [Stormy Weather](https://open.spotify.com/track/3wqEq2lsXWO98kHXUvrN9C) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [American Songbook Essentials \(Remastered 2011\)](https://open.spotify.com/album/4rByvE7z6BpZmnMj6OFkOf) | 3:34 | 2020-05-02\* | 2022-05-03 |
-| [Story from a Stranger](https://open.spotify.com/track/6flkJf6S1CIc1rLNivcd8n) | [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [From a Mountain](https://open.spotify.com/album/7C8sdv2xwY8rvMf2GYSnaO) | 3:59 | 2023-08-03 |  |
+| [Story from a Stranger](https://open.spotify.com/track/6flkJf6S1CIc1rLNivcd8n) | [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [From a Mountain](https://open.spotify.com/album/7C8sdv2xwY8rvMf2GYSnaO) | 3:59 | 2023-08-03 | 2023-09-03 |
 | [Strands](https://open.spotify.com/track/5LaxA3Vqu1huHZCQHUXnr3) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Palle Mikkelborg](https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Returnings](https://open.spotify.com/album/0Oko9SZeGlIDRiURyc1f3y) | 4:44 | 2020-05-02\* |  |
 | [Strange Meadow Lark](https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 7:22 | 2020-06-12 | 2022-04-21 |
 | [Stream](https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Stream](https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde) | 7:03 | 2022-03-10 |  |

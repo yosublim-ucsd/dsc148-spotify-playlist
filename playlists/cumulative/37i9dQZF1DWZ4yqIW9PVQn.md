@@ -4,13 +4,13 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-124 songs - 7 hr 34 min
+127 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 | 2022-11-01 |  |
 | [6:35PM](https://open.spotify.com/track/0aIuqjVsXQpo0rpkLztzxE) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:07 | 2022-11-01 |  |
-| [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 | 2022-07-04 |  |
+| [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 | 2022-07-04 | 2023-09-03 |
 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 | 2022-11-01 |  |
 | [a week](https://open.spotify.com/track/31yXAkrPkFQhTFgpTUFJjd) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [a week](https://open.spotify.com/album/7yCmXr5yblhkNXTsEFcFEq) | 3:31 | 2022-11-01 |  |
 | [Acting \(With Heize\)](https://open.spotify.com/track/1SSA6NNzrCo4MmpcHNDX0M) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:41 | 2022-07-04 |  |
@@ -59,7 +59,8 @@
 | [Hope You’re Doing Fine](https://open.spotify.com/track/10ARNkAVVzvDagSxSpf7FP) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Move](https://open.spotify.com/album/72uVHK9xFhgjI1rLiV23cz) | 3:44 | 2022-11-01 |  |
 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 | 2022-11-01 |  |
 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 | 2022-07-04 |  |
-| [HYE](https://open.spotify.com/track/5tx6Y6j4Q8MCdTOtVILLX5) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/4u5ud7hSAmYr5KEXltpwk8) | 4:07 | 2022-07-04 |  |
+| [HYE](https://open.spotify.com/track/2hMLyprzSqOWiW2RCdhXWa) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/6BoAOP9rSYxsCiucBIUwXC) | 4:07 | 2023-08-05 |  |
+| [HYE](https://open.spotify.com/track/5tx6Y6j4Q8MCdTOtVILLX5) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/4u5ud7hSAmYr5KEXltpwk8) | 4:07 | 2022-07-04 | 2023-09-03 |
 | [I got lucky](https://open.spotify.com/track/2xqZgDhbEzNIQGEz8HdrkJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:16 | 2022-11-01 |  |
 | [I Like It](https://open.spotify.com/track/5a4o5ARfYHze8y7O7R5PDJ) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [I Like It](https://open.spotify.com/album/3ZHTXCdbf8pfChmWNSXnHy) | 3:38 | 2022-11-01 |  |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-07-04 | 2023-07-02 |
@@ -88,7 +89,8 @@
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-07-04 |  |
 | [Petal](https://open.spotify.com/track/32FYSYIIpc1j6To2Qgl4hq) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Petal](https://open.spotify.com/album/4YuNLaeHfW3p5tzSaEiFB1) | 4:04 | 2022-07-04 |  |
 | [reminiscence](https://open.spotify.com/track/2KAtg9W0pKiJh94jaQ5jDT) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [reminiscence](https://open.spotify.com/album/472g6HVeObaEweJ5RyNRtX) | 4:52 | 2022-07-04 |  |
-| [Sad Ending](https://open.spotify.com/track/78APQTb2q1QA0hLNxwOgYj) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/3qfh85jIr3P7G6lS9S8WaK) | 3:15 | 2022-07-04 |  |
+| [Sad Ending](https://open.spotify.com/track/2GlWK4iniHxyFvVSWYsC4j) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/5ZgWAPNaBkkZ6huR1caLv3) | 3:15 | 2023-08-05 |  |
+| [Sad Ending](https://open.spotify.com/track/78APQTb2q1QA0hLNxwOgYj) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/3qfh85jIr3P7G6lS9S8WaK) | 3:15 | 2022-07-04 | 2023-09-03 |
 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-08-05 |  |
 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 | 2022-07-04 |  |
 | [Shining, My 2006](https://open.spotify.com/track/0Aw8TF0SpyERLi4w0dXUi8) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [2006](https://open.spotify.com/album/6lumjI581TEGHeTviSikrm) | 4:49 | 2022-07-04 |  |
@@ -122,6 +124,7 @@
 | [가을의 노래](https://open.spotify.com/track/12nu4dBkgX93WL3YCF6nxE) | [신아람](https://open.spotify.com/artist/5NGCTgi9l4G8gOcC47rPkL), [Hong Seok Min](https://open.spotify.com/artist/2VpKDKyOB4dO68biiJJAsk) | [가을의 노래](https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z) | 4:01 | 2022-07-04 |  |
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-11-01 |  |
 | [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 | 2022-07-04 | 2023-08-13 |
+| [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 | 2023-08-05 |  |
 | [난 혼자가 편해](https://open.spotify.com/track/7GygDFiaSTSo3dmcpfn4S6) | [이단미](https://open.spotify.com/artist/2XfNRc16ttr0NXwtSy9Qq3), [Ganaa](https://open.spotify.com/artist/2tKlFO8EyHBZaHwdjflNbL) | [난 혼자가 편해](https://open.spotify.com/album/1Amy0LfByq9gxvd9DUrs96) | 3:16 | 2022-07-04 |  |
 | [목소리 듣고 싶다 Autumnal love](https://open.spotify.com/track/3peIyC4z6HstADkfpX4VJh) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [곁 1/2 On you 1/2](https://open.spotify.com/album/7IMNiZLrpONVt9cxPv328J) | 3:42 | 2022-11-03 | 2023-01-04 |
 | [사계절이 지나 다시 가을이 와도](https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND) | [Sangmin Chu](https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f) | [RAINBOW STATION Episode.4](https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm) | 3:33 | 2022-11-03 |  |

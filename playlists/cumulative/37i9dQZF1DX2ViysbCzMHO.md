@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-247 songs - 13 hr 28 min
+248 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [ABCDEFU \- Live Acoustic](https://open.spotify.com/track/11oLOD6csB1XCKLxAgDnG7) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [ABCDEFU \(Live Acoustic\)](https://open.spotify.com/album/7on7eQbCCF9vPj2vnL2Txb) | 2:49 | 2022-02-25 | 2022-07-26 |
 | [Again \- Stripped Bare](https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Again \(Stripped Bare\)](https://open.spotify.com/album/0lE5keuEk5Y10vK6fDEIe6) | 2:33 | 2022-07-01 | 2022-08-01 |
 | [All I Know About Girls](https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [All I Know About Girls](https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR) | 2:42 | 2021-12-17 |  |
+| [All I Need Is You \- Piano Version](https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [All I Need Is You \(Piano Version\)](https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N) | 3:15 | 2023-09-01 |  |
 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 | 2021-12-17 |  |
 | [All The Time \- Stripped](https://open.spotify.com/track/5szCtOKnYxYxDYadu18QmN) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [MDM Recordings 2022 Wrap Up \- Rarities, Remixes And The Hits](https://open.spotify.com/album/2IrlPDhlLnzh81xWyF1Rcj) | 3:05 | 2022-12-30 | 2023-01-25 |
 | [Almost Maybes \- Acoustic](https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes \(Acoustic\)](https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW) | 2:59 | 2021-12-17 | 2023-08-19 |
@@ -119,7 +120,7 @@
 | [It's Been a Long Year, Man](https://open.spotify.com/track/0kIe6qFLvK6HQTgalrVrWM) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [It's Been a Long Year, Man](https://open.spotify.com/album/1LirwgQ5QXonB9ZC7NjuAf) | 2:48 | 2021-12-17 | 2022-06-18 |
 | [Joy Of My Life](https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:34 | 2021-12-17 |  |
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2021-12-17 | 2023-05-15 |
-| [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2022-07-08 |  |
+| [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2022-07-08 | 2023-09-03 |
 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 | 2023-05-13 |
 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 | 2023-02-17 |  |
 | [Led Myself On \- Acoustic](https://open.spotify.com/track/4ks5IPN4v73N5eib9JRk4N) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Led Myself On \(Acoustic\)](https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9) | 2:58 | 2021-12-17 | 2022-04-16 |

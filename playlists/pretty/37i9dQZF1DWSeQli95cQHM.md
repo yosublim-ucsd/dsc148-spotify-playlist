@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,672 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,682 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 4 | [Construção \- L\_cio & K\_Ri Version](https://open.spotify.com/track/12fcMx64LD2c13beXT3wv0) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW) | [Chico Buarque Construção Revisited](https://open.spotify.com/album/5huSLRTVHrDd28npUTRQgU) | 7:24 |
 | 5 | [De AK em Cima da CB1000](https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Paredão](https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq) | 4:18 |
 | 6 | [Machooka](https://open.spotify.com/track/7Fvz8ecjzVwZIIzTs2JaLn) | [BADSISTA](https://open.spotify.com/artist/0KdLlx7p42yA7aftp3dgpb) | [Machooka](https://open.spotify.com/album/4DKH6UMr9R1PhRzeo1OJj7) | 3:35 |
-| 7 | [Energy Sync \- Club Mix](https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0) | 6:37 |
-| 8 | [Praia de Artista](https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Sim](https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG) | 4:21 |
+| 7 | [Praia de Artista](https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Sim](https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG) | 4:21 |
+| 8 | [Energy Sync \- Club Mix](https://open.spotify.com/track/1ekH3NlCixx69QzTnTxANp) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Energy Sync](https://open.spotify.com/album/0mQmWLWrWhdmKxoN3GLtW0) | 6:37 |
 | 9 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 |
 | 10 | [Caso Sério \- L\_cio & Tessuto Remix](https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [Tessuto](https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk) | [Rita Lee & Roberto \- Classix Remix Vol\. III](https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8) | 7:01 |
 | 11 | [Vavapo](https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0) | [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz) | [Favela Garage Beats](https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx) | 3:07 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 29 | [Algo 2](https://open.spotify.com/track/7JukUaZAH26NHybv468QmK) | [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [ALGO](https://open.spotify.com/album/4lYlRgyH0HzIhB5WBiCYxw) | 5:52 |
 | 30 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 |
 | 31 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 |
-| 32 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
-| 33 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
+| 32 | [Corpo Fechado](https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K) | [Gezender](https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Corpo](https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz) | 5:03 |
+| 33 | [Espinheira Santa](https://open.spotify.com/track/77vJvWKutipZ94F2QACjc2) | [Cashu](https://open.spotify.com/artist/7oNCVt3wMXXKwOQ672Ti6Q), [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 11:05 |
 | 34 | [Proibidao \- Selvagem / Trepanado Remix](https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD), [Rosco Sledge](https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5), [Selvagem](https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt), [Trepanado](https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ) | [Proibidao EP](https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj) | 6:38 |
 | 35 | [Chá de trombeta](https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e), [Fel C](https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4), [Bica](https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU) | [Chá de trombeta](https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp) | 7:00 |
 | 36 | [Laiaraiá \- LOV.ini Remix](https://open.spotify.com/track/7tlQjeD17zGnhKfg9YLwgK) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [LOV.ini](https://open.spotify.com/artist/5E4ep2me7vGYs9nOZvlT6z) | [Laiaraiá \(Remixes\)](https://open.spotify.com/album/737UVySDRItiHv1XQIqygV) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeQli95cQHM.md) - [plain]
 | 49 | [Minguante](https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0) | [Kika Deeke](https://open.spotify.com/artist/2h4JqVoUA7Td1SqC5fHaAE) | [Quando o Tempo dá um Tempo](https://open.spotify.com/album/394surSicOxNpbQV6tMSDC) | 5:08 |
 | 50 | [Kin Sharuba](https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7) | [Carrot Green](https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY) | [Kin Sharuba](https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi) | 7:49 |
 
-Snapshot ID: `MCw3ODhiNjJhNmQ5YTA5ZmNkNmJhMTU2MDBhNzlmY2YyYWUyOGUyNWU3`
+Snapshot ID: `MCxhMjdiMTU4YzRjMDRhOGJjN2JjYmRiOGNiMjM1NzEwMmIzODdkMjA4`

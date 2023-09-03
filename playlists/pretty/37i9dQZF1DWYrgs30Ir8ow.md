@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,481 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,524 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Baguettes](https://open.spotify.com/track/5A1pmiQSDetw2cFs4lcbgd) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Baguettes](https://open.spotify.com/album/6pml3VGJafDKQOVu3Y1wT4) | 2:16 |
 | 40 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 |
 
-Snapshot ID: `MCw0NDQwODI4ZDhjZGI4MDk0YmRmYmY0ZGNjNDY3NDYxNTU4NmQxYjlm`
+Snapshot ID: `MCw2NjQ4ODE5YTM5NzU0YTAzMWVmMDJiNjE2NzU3MWZlMzEyMWVmYjI0`

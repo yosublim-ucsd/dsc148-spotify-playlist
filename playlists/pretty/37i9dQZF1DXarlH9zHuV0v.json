@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 232574,
+  "num_followers": 232618,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmUxYTEyYTQ0YWYxZmI1MWZlOTUzMGZlNTEyYjJmYzlmMzQ3ODE3",
+  "snapshot_id": "MCwxMTM4OTg5NTdmNDNhZGMyMGJkNzgwNDljZjY0OWRkMGVmZWEyYWI3",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -511,22 +511,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "A.N.T. Farm",
         "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 206506,
       "name": "Calling All the Monsters",
       "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Last Stand",
-        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 174698,
-      "name": "Blood of Bannockburn",
-      "url": "https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Last Stand",
+        "url": "https://open.spotify.com/album/14OgR04PHXULz1svvsol8L"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 174698,
+      "name": "Blood of Bannockburn",
+      "url": "https://open.spotify.com/track/34YTjOjyJOg8e0HyIHHKpw"
     },
     {
       "added_at": "2019-10-09 15:02:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,782 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,819 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 7 | [Springtime Red Tulips](https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Springtime Red Tulips](https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1) | 4:34 |
 | 8 | [Sixth Sense](https://open.spotify.com/track/3JLdRPaKMelMwgmpN5SENj) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b), [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z) | [Sixth Sense](https://open.spotify.com/album/724ZN9exiISvZ2Przm24Wh) | 3:24 |
 | 9 | [Beach Dream](https://open.spotify.com/track/4hXR2jx4jCkOvBD4KYN5Z3) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Some Other Place](https://open.spotify.com/album/0NAuuCTWsB2XpEVSakRK5G) | 3:00 |
-| 10 | [Fantasy](https://open.spotify.com/track/4rAYSa93NeffeWcCgKMhGJ) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/5jIrySgqcujIymK4NxYoWU) | 4:58 |
+| 10 | [Fantasy](https://open.spotify.com/track/0MqJDfnMDrYFUjmOIUpt3U) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/7BlFPn5FuyUisj4sJU0TcE) | 4:58 |
 | 11 | [Chapters](https://open.spotify.com/track/0pKGktONBSFB7faPMXMcXf) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Chapters](https://open.spotify.com/album/266ym29rkt2PNY7rA3BSQs) | 3:14 |
 | 12 | [toler](https://open.spotify.com/track/5HkiRFyaFJ2ImSynsmmceS) | [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [toler](https://open.spotify.com/album/2IaMfTjA1p8rg5H1GdmDbI) | 1:45 |
 | 13 | [Long Road Ahead](https://open.spotify.com/track/5QRnF1susEGh48AC4WzWvb) | [Maybel](https://open.spotify.com/artist/4vyc9XRUivKWefuHRepSQh) | [Long Road Ahead](https://open.spotify.com/album/1VT4RlcKgtGuOjx3DWVGyT) | 4:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Maria](https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [Greg Mendez](https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik) | 1:58 |
 | 100 | [Fire Escape](https://open.spotify.com/track/0BPpKKW9Lg5AKIagHNop77) | [Oliver Daldry](https://open.spotify.com/artist/6Oq6B8oF3HNRj9eGar1hHZ) | [Fire Escape](https://open.spotify.com/album/6TJOhu09vaSsw2PWTthQrq) | 2:30 |
 
-Snapshot ID: `MCw5YWIxZDZlZGFiN2NiMmM3NjVjZTAwMWNhODgyMDFmMDExODkwYTk0`
+Snapshot ID: `MCwxMmUxY2Q4NjhjODI2MjZlNWUwZjEzNDYyYTA1MzJiMzMxMTk2NWNj`

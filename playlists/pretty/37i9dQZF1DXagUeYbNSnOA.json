@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Priscilla F\u00e9lix. Updates every Wednesday.",
-  "num_followers": 172090,
+  "num_followers": 172089,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGI5NjRkNTA2MWM1NWUyMDk0ZTEwYWM4MTE0Zjk2NTkwNmFlMWE3",
+  "snapshot_id": "MCw2NDg3MWM3MmY1OTE2ZDRlMjNjNTQ4MmMxNGI0Y2RmM2QxOGE1NDE0",
   "tracks": [
     {
       "added_at": "2023-08-31 01:02:27",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
-        "name": "TUYO",
-        "url": "https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ"
-      },
-      "artists": [
-        {
-          "name": "Inzul",
-          "url": "https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp"
-        },
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 189232,
-      "name": "TUYO",
-      "url": "https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
         "name": "m\u00e9todos.",
         "url": "https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 207659,
       "name": "ando chiple <\\3",
       "url": "https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "TUYO",
+        "url": "https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ"
+      },
+      "artists": [
+        {
+          "name": "Inzul",
+          "url": "https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp"
+        },
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 189232,
+      "name": "TUYO",
+      "url": "https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
-        "name": "Traigo",
-        "url": "https://open.spotify.com/album/00tWe5KGlP68ZflhhneSMr"
-      },
-      "artists": [
-        {
-          "name": "Pedro Bulgakov",
-          "url": "https://open.spotify.com/artist/0oDPpQb7y6vv0sXFNDmfKa"
-        }
-      ],
-      "duration_ms": 229843,
-      "name": "Traigo",
-      "url": "https://open.spotify.com/track/0jF5hqfBANeJ6E7K1bxbdP"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
         "name": "DTB",
         "url": "https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 185305,
       "name": "DTB",
       "url": "https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "Traigo",
+        "url": "https://open.spotify.com/album/00tWe5KGlP68ZflhhneSMr"
+      },
+      "artists": [
+        {
+          "name": "Pedro Bulgakov",
+          "url": "https://open.spotify.com/artist/0oDPpQb7y6vv0sXFNDmfKa"
+        }
+      ],
+      "duration_ms": 229843,
+      "name": "Traigo",
+      "url": "https://open.spotify.com/track/0jF5hqfBANeJ6E7K1bxbdP"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
-        "name": "Surrounds Me",
-        "url": "https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD"
-      },
-      "artists": [
-        {
-          "name": "Danny Bonilla",
-          "url": "https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Surrounds Me",
-      "url": "https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 208207,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "Surrounds Me",
+        "url": "https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD"
+      },
+      "artists": [
+        {
+          "name": "Danny Bonilla",
+          "url": "https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Surrounds Me",
+      "url": "https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n"
     },
     {
       "added_at": "2023-08-31 01:02:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-31 01:02:27",
       "album": {
-        "name": "4 x el desamor",
-        "url": "https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr"
-      },
-      "artists": [
-        {
-          "name": "PLEIT\u00d8",
-          "url": "https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS"
-        }
-      ],
-      "duration_ms": 181340,
-      "name": "Tantas cosas que decir",
-      "url": "https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K"
-    },
-    {
-      "added_at": "2023-08-31 01:02:27",
-      "album": {
         "name": "Intermodal",
         "url": "https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 174014,
       "name": "Intermodal",
       "url": "https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3"
+    },
+    {
+      "added_at": "2023-08-31 01:02:27",
+      "album": {
+        "name": "4 x el desamor",
+        "url": "https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr"
+      },
+      "artists": [
+        {
+          "name": "PLEIT\u00d8",
+          "url": "https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS"
+        }
+      ],
+      "duration_ms": 181340,
+      "name": "Tantas cosas que decir",
+      "url": "https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K"
     },
     {
       "added_at": "2023-08-31 01:02:27",

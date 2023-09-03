@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,141 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,180 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 98 | [Mirages Of You](https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Mirages Of You](https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m) | 3:16 |
 | 99 | [For What It's Worth](https://open.spotify.com/track/31hXMEaAU9fZy21oKRzP7H) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [For What It's Worth](https://open.spotify.com/album/7bl1GLPKwgnhIVxtWEq121) | 4:10 |
 
-Snapshot ID: `MCxjMzViZDc2MmU2NWE3Y2ZjY2M5Zjk2MjIwMGIwZDU1NDIxZWUwNzFm`
+Snapshot ID: `MCxlNDE2MmQ3MTU0ZjA3NmYzN2QwMDZkNzU0ODYxYWZmMTVhZTk2ZTVh`

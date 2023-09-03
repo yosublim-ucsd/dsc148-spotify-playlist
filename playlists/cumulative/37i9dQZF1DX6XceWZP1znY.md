@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-814 songs - 2 day 5 hr 22 min
+815 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 | 2022-08-11 |  |
 | [dawn](https://open.spotify.com/track/1IRwNWiB2aDEoSdUgjJmay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [dawn](https://open.spotify.com/album/5rV3ABHl2JMQeR1U1fiXRh) | 4:06 | 2022-06-07 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/1say3kpM3yexV7hazGgXP1) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Daylight](https://open.spotify.com/album/49Hveg3Dzx8xSwY6a81lsr) | 4:00 | 2022-06-07 | 2022-11-13 |
-| [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-23 |  |
+| [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-23 | 2023-09-03 |
 | [Different](https://open.spotify.com/track/23taGXZI9sFYIxdBrqeVaz) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Different](https://open.spotify.com/album/4LF8VqmmnKz9NTmYWvPA7b) | 3:33 | 2022-08-11 | 2022-11-13 |
 | [Dive Back In Time](https://open.spotify.com/track/4ik2ylkYi7xBgx6C1suLTM) | [bicaso](https://open.spotify.com/artist/4DPo2oq4P35PLqBIjKUg50), [Gen Kakon](https://open.spotify.com/artist/3TX8QjkcSiYi5dvvCSeVLQ) | [Dive Back In Time](https://open.spotify.com/album/3PYK68Kz3gaJfnlgpjNjpl) | 2:49 | 2022-06-07 | 2023-01-12 |
 | [DiViNE](https://open.spotify.com/track/6gjkal8BbkbHQst6XUvNsr) | [EXiNA](https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd) | [DiViNE](https://open.spotify.com/album/1JUj1PESaeSlFYf788rqrY) | 4:01 | 2022-06-07 | 2022-06-22 |
@@ -240,6 +240,7 @@
 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 | 2022-06-07 | 2023-05-02 |
 | [Monster](https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Monster](https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv) | 3:25 | 2022-06-07 | 2023-04-02 |
 | [Moonlight Magic](https://open.spotify.com/track/5gGImelKVPAvcOjbjfB1xW) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Moonlight Magic](https://open.spotify.com/album/4JfXHvaDNFFxlEcs1mi2Z7) | 4:11 | 2022-06-07 | 2022-07-25 |
+| [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-01 |  |
 | [Mortal With You](https://open.spotify.com/track/2Cl3bTLiHuQlQBcZSxJLON) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/2XfXLJFcnPIGiDDQM925Vf) | 3:55 | 2022-08-11 | 2022-11-23 |
 | [Mother](https://open.spotify.com/track/0GlejgfH8mrHTcJjqfcw6s) | [VOICES FROM MARS](https://open.spotify.com/artist/2cuESGBQzXxxoG3sz06YVW) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.2](https://open.spotify.com/album/1flIjZeJQnZBNIEtTjzDmd) | 7:09 | 2022-06-07 | 2022-07-29 |
 | [Move Mountains](https://open.spotify.com/track/4zjLytFLyTRMAvresn1MBB) | [アンジェラ \(Vo\. Alisa\)](https://open.spotify.com/artist/19Z6ho646iYK8BK0FrQMot) | [Move Mountains](https://open.spotify.com/album/1YGpwe8kDiSrpyRnIlLG1y) | 2:51 | 2022-06-07 | 2022-07-28 |
@@ -254,7 +255,7 @@
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-11-22 | 2023-07-16 |
 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 | 2023-08-04 |  |
 | [New Page](https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs) | [INTERSECTION](https://open.spotify.com/artist/5yzLjgtXt52UUcOO0y88ma) | [New Page](https://open.spotify.com/album/3IqJDQ3RL9oV6a91m9FCZE) | 4:30 | 2022-06-07 | 2023-07-25 |
-| [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2022-06-07 | 2022-12-24 |
+| [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2022-06-07 |  |
 | [ninelie](https://open.spotify.com/track/6kQ9Os7x5LJ2jLHb8VWKaa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Daydream](https://open.spotify.com/album/0rzOTrywE0mNybhErlmD5e) | 4:21 | 2022-06-07 | 2022-06-28 |
 | [No Continue](https://open.spotify.com/track/5UKABRz7YlRofkc5KsOx2A) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [No Continue](https://open.spotify.com/album/3o0M6nYy5OvhUmtk6m7Gmn) | 4:05 | 2022-06-07 | 2022-07-26 |
 | [No Frontier](https://open.spotify.com/track/2zvNBZs38WZuQ1SgKdeKFk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [No Frontier](https://open.spotify.com/album/5zYmpnx6MQc9OuV5qGcb8u) | 3:06 | 2023-07-07 | 2023-09-02 |
@@ -502,7 +503,7 @@
 | [アカシア](https://open.spotify.com/track/0Jcx9VqsO4t20gYeznW7Uq) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/1XY5kWsl3pdO4z1XZjffsF) | 4:22 | 2022-06-07 | 2022-07-29 |
 | [アカシア](https://open.spotify.com/track/0tvPnYDLySJL9g7OHNJeyb) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [アカシア](https://open.spotify.com/album/68QVVJIcIoem5brTfzbSlo) | 4:22 | 2022-06-07 |  |
 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 | 2022-06-07 | 2022-07-10 |
-| [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-08-04 |  |
+| [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-08-04 | 2023-09-03 |
 | [アルケミラ](https://open.spotify.com/track/1QBkrW9kGVFGHd1eS2Hsiw) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [アルケミラ](https://open.spotify.com/album/5BgWsO3TSxunG538f6zmK6) | 3:55 | 2022-06-07 | 2022-07-23 |
 | [アレキシサイミアスペア](https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [last aurorally](https://open.spotify.com/album/5NxTmnfjzE2DpeUUWfsn0F) | 5:25 | 2023-04-21 | 2023-06-17 |
 | [アンチノミー](https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [アンチノミー](https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1) | 5:03 | 2023-02-20 | 2023-07-16 |

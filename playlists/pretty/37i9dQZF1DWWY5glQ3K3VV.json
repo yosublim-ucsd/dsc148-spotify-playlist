@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
-  "num_followers": 86462,
+  "num_followers": 86520,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjIxYjcyYzVlNDc4NWZhNTVhMjhhMTg4NDUwNzk3MGE5YjE5ZTM1",
+  "snapshot_id": "MCwyNTEwMjBmNGMzZDlmMGZhY2I2N2ZkNzJlNmE2MDdmNWU5MmY2YmMw",
   "tracks": [
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
         "name": "Michelle Pfeiffer (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/4sjE4QuZcasRCp7uYCdcv5"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 180774,
       "name": "Michelle Pfeiffer (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/1CGMJZj8kKIuK9kkO2TT7c"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         },
         {
           "name": "Salmo",
           "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 180000,
-      "name": "TOXIC - trainspotting",
-      "url": "https://open.spotify.com/track/3mrtP5imQ3Mv3OQ0byI4ix"
+      "duration_ms": 159910,
+      "name": "Boogieman (feat. Salmo)",
+      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
       },
       "artists": [
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
         },
         {
           "name": "Salmo",
           "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 159910,
-      "name": "Boogieman (feat. Salmo)",
-      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
+      "duration_ms": 180000,
+      "name": "TOXIC - trainspotting",
+      "url": "https://open.spotify.com/track/3mrtP5imQ3Mv3OQ0byI4ix"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1579,6 +1579,34 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
+        "name": "Non Lo So",
+        "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Linch",
+          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
+        },
+        {
+          "name": "Bovychulo",
+          "url": "https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI"
+        }
+      ],
+      "duration_ms": 142718,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5"
       },
@@ -1607,34 +1635,6 @@
       "duration_ms": 158630,
       "name": "DREAM TEAM (feat. Dylan, Capo Plaza, Tedua & Shiva)",
       "url": "https://open.spotify.com/track/4IjDcm8qRdRiwrRtpIdpSD"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Non Lo So",
-        "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "Linch",
-          "url": "https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p"
-        },
-        {
-          "name": "Bovychulo",
-          "url": "https://open.spotify.com/artist/6plozBCtFKJrw4g5Jo7MqI"
-        }
-      ],
-      "duration_ms": 142718,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3a3EzSxWvDno8RpTMv7Xch"
     }
   ],
   "unique_name": "Club Rap ",

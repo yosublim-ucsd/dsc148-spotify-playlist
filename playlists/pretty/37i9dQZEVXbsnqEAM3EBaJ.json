@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDBhNjFiYTJlMTg1OWIwMTNmMjljNzUxNjE5ZWRkZmMyNA==",
+  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDAxMDBjYmZhZjIyMjhkOGQ1OWQ1ZmM4NmMyNTkxYzQwYg==",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -27,8 +27,8 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Sometimes You Lose Before You Win",
-        "url": "https://open.spotify.com/album/17CJhGkrhZomJmYP0WSFrK"
+        "name": "You're Awesome",
+        "url": "https://open.spotify.com/album/3Yb23sjQcNGENT44r1ftui"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 209026,
-      "name": "Sometimes You Lose Before You Win",
-      "url": "https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB"
+      "duration_ms": 170293,
+      "name": "You're Awesome",
+      "url": "https://open.spotify.com/track/5BoixLIVWjFbzurhaZvHwA"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
         }
       ],
-      "duration_ms": 141232,
-      "name": "From This Moment On - Live 1976",
-      "url": "https://open.spotify.com/track/0xTaZoo292Tfp9PjbekAQj"
+      "duration_ms": 223779,
+      "name": "Rainy Days & Mondays/Goodbye To Love - Live 1976",
+      "url": "https://open.spotify.com/track/1Cz57jHCX2v3DhTFMYCrCW"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 253226,
-      "name": "Amazing - CHR Single Edit",
-      "url": "https://open.spotify.com/track/4sjewq2HyPY7QECdCctCey"
+      "duration_ms": 228586,
+      "name": "Kings And Queens - Single Version",
+      "url": "https://open.spotify.com/track/7bihN919MeyAUCKmq3Yxum"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -139,6 +139,74 @@
       "duration_ms": 213972,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/2sC3I1IHuoBsxop2wMUFfq"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Live In Vienna 1998",
+        "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 283841,
+      "name": "This Kid's - Live In Vienna 1998",
+      "url": "https://open.spotify.com/track/2kf6PloMCppZSVoJc4hF7v"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/3Fp3vvuWjozfn8lVhnEfE5"
+      },
+      "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        },
+        {
+          "name": "Ray Garrison",
+          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
+        },
+        {
+          "name": "boonn",
+          "url": "https://open.spotify.com/artist/2TyLPxtJq6S57Bji08Zx6L"
+        },
+        {
+          "name": "Jay Gordon",
+          "url": "https://open.spotify.com/artist/0dl7VkObbz3NesazgGdroe"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/7KjJ57W4JJopQt1GBwxPE2"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "I Need Your Loving",
+        "url": "https://open.spotify.com/album/6agrRghHOcvOR4KiZYosGP"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "I Need Your Loving - Acapella Version",
+      "url": "https://open.spotify.com/track/5PYl3wdWkjjwn5GoLsuN60"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -167,38 +235,6 @@
       "duration_ms": 411013,
       "name": "Sextet in D Minor, Op. 70, TH 118 \"Souvenir de Florence\": III. Allegretto moderato",
       "url": "https://open.spotify.com/track/3CDssDItL5SjaUnCugnfbi"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Live In Vienna 1998",
-        "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
-      },
-      "artists": [
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        }
-      ],
-      "duration_ms": 248693,
-      "name": "Only You Can Rock Me - Live In Vienna 1998",
-      "url": "https://open.spotify.com/track/05exXHSp0OOZ8x6Dx1Aul3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "I Need Your Loving",
-        "url": "https://open.spotify.com/album/6agrRghHOcvOR4KiZYosGP"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 403373,
-      "name": "I Need Your Loving - Dub Version",
-      "url": "https://open.spotify.com/track/0qAkT5XnQCdYxFR1WvTCUx"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -259,42 +295,6 @@
       "duration_ms": 219500,
       "name": "Microcosmic Sunsets",
       "url": "https://open.spotify.com/track/7lJs36mqGUhrLUUhQSwDCp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/3Fp3vvuWjozfn8lVhnEfE5"
-      },
-      "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        },
-        {
-          "name": "Ray Garrison",
-          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
-        },
-        {
-          "name": "boonn",
-          "url": "https://open.spotify.com/artist/2TyLPxtJq6S57Bji08Zx6L"
-        },
-        {
-          "name": "Jay Gordon",
-          "url": "https://open.spotify.com/artist/08I5arPdBfbrzaLTdipFSy"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/7KjJ57W4JJopQt1GBwxPE2"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -460,9 +460,29 @@
           "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 260346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/5GlM1sVPZNgCYWgar5kXtO"
+      "duration_ms": 232760,
+      "name": "All Over The World",
+      "url": "https://open.spotify.com/track/2xOKh4GzAyZYNLf0VjeTpU"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Salt (feat. Dayseeker)",
+        "url": "https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        },
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 207602,
+      "name": "Salt (feat. Dayseeker)",
+      "url": "https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -495,26 +515,6 @@
       "duration_ms": 508920,
       "name": "Llama Violeta Cham\u00e1nica",
       "url": "https://open.spotify.com/track/5bWnTEQIoOO1mnZfHqw79K"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Salt (feat. Dayseeker)",
-        "url": "https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        },
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 207602,
-      "name": "Salt (feat. Dayseeker)",
-      "url": "https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "UNDEROATH VOYEURIST | Digital Ghost",
-        "url": "https://open.spotify.com/album/18NawZFszlESLx6Y6nyfwQ"
+        "name": "An Arrow In The Wall",
+        "url": "https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
         }
       ],
-      "duration_ms": 180076,
-      "name": "Hallelujah - Live From Digital Ghost",
-      "url": "https://open.spotify.com/track/6Ei0vUXTpLhXGgasCTceha"
+      "duration_ms": 289786,
+      "name": "An Arrow In The Wall",
+      "url": "https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "An Arrow In The Wall",
-        "url": "https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz"
+        "name": "UNDEROATH VOYEURIST | Digital Ghost",
+        "url": "https://open.spotify.com/album/18NawZFszlESLx6Y6nyfwQ"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 289786,
-      "name": "An Arrow In The Wall",
-      "url": "https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU"
+      "duration_ms": 180076,
+      "name": "Hallelujah - Live From Digital Ghost",
+      "url": "https://open.spotify.com/track/6Ei0vUXTpLhXGgasCTceha"
     },
     {
       "added_at": "2023-09-01 04:00:00",

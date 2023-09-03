@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 40105,
+  "num_followers": 40120,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzA1N2E4YmZhNzZiYmY1MTA4YTg0NjU1NzRkNmM1OWM4ZmM0ZTg3",
+  "snapshot_id": "MCxmOWJkMGY5MmEyNzljMGY1NmYxZWU5MDc1ZWE0YWIwMDJkZTg0NTAx",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI"
-      },
-      "artists": [
-        {
-          "name": "Milly>",
-          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Cose stupide",
         "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 120058,
       "name": "Hasta la Muerte",
       "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/62SS1B6pqPXxVHWvq9f7iI"
+      },
+      "artists": [
+        {
+          "name": "Milly>",
+          "url": "https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/2cuJQ6L9Na0yR0NgGbyR7r"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "sola (con me)",
-        "url": "https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM"
-      },
-      "artists": [
-        {
-          "name": "Neverbh",
-          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "sola (con me)",
-      "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "L'effetto che mi fai",
         "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 174250,
       "name": "L'effetto che mi fai",
       "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "sola (con me)",
+        "url": "https://open.spotify.com/album/4qcnkhmpl1h21kbgG3u9OM"
+      },
+      "artists": [
+        {
+          "name": "Neverbh",
+          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "sola (con me)",
+      "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1355,8 +1355,8 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
       },
       "artists": [
         {
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1387,22 +1387,6 @@
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "X4",
-        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
-      },
-      "artists": [
-        {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
-        }
-      ],
-      "duration_ms": 154390,
-      "name": "X4",
-      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "X4",
+        "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
+      },
+      "artists": [
+        {
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+        }
+      ],
+      "duration_ms": 154390,
+      "name": "X4",
+      "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "poster",
+        "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
+      },
+      "artists": [
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "poster",
+      "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "Fuori di me",
         "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 166267,
       "name": "Clipper",
       "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
-        "name": "poster",
-        "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
-      },
-      "artists": [
-        {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "poster",
-      "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
     },
     {
       "added_at": "2023-06-29 22:01:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Pagine",
-        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pagine",
-      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Palude 4",
         "url": "https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "Pagine",
+        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
+      },
+      "artists": [
+        {
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pagine",
+      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "Marie 3 (Principessa Paranoia)",
         "url": "https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq"
       },
@@ -1719,34 +1719,38 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Emorragie",
-        "url": "https://open.spotify.com/album/4to4NixKdGXwvE5NupNWkk"
+        "name": "Cosa Siamo Noi Ora",
+        "url": "https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ"
       },
       "artists": [
         {
-          "name": "Samuele CYMA",
-          "url": "https://open.spotify.com/artist/1RXsSSM8C7wdG5FSxDTMFM"
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
         }
       ],
-      "duration_ms": 258028,
-      "name": "Emorragie",
-      "url": "https://open.spotify.com/track/68nozAqBarkGnr37KKfREu"
+      "duration_ms": 149600,
+      "name": "OPPOSTI",
+      "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
     },
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Maggio",
-        "url": "https://open.spotify.com/album/6mMixmDoCL0y0yzA0Ntfcc"
+        "name": "Fragili",
+        "url": "https://open.spotify.com/album/6ixktzZ4cFQkeewHAY8fjY"
       },
       "artists": [
         {
-          "name": "DAG",
-          "url": "https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0"
+          "name": "Hoomor",
+          "url": "https://open.spotify.com/artist/4cNN5QXGRFL9VBGGpO85O8"
+        },
+        {
+          "name": "Nidya",
+          "url": "https://open.spotify.com/artist/0lgeMbRvndhRe5ViRT1h3S"
         }
       ],
-      "duration_ms": 146608,
-      "name": "Maggio",
-      "url": "https://open.spotify.com/track/61cXJ5ee3dheOPNav53gR2"
+      "duration_ms": 167000,
+      "name": "Fragili",
+      "url": "https://open.spotify.com/track/6Y1wgVdi0sJ6JVM9rnL26K"
     }
   ],
   "unique_name": "ragazzo triste",

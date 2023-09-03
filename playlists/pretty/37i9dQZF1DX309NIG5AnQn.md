@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 El Club Audiovisual
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,924 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,942 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 79 | [Manos](https://open.spotify.com/track/3HVHb5Xbb8G8HPKzaCWffe) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 3:31 |
 | 80 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 |
 
-Snapshot ID: `MCxkNTVmNTBhMzExMzQwM2FmY2E0ZjUzN2FlOWM2NmM1MjM4MjFlYjBm`
+Snapshot ID: `MCxmMmI0MmZjMjc1M2ViOWRlZGJiNzgwNzdiNzg4NjE2YThmMGIzNDVm`

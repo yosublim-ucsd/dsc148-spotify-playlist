@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 274053,
       "name": "CIRCLES",
       "url": "https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l"
@@ -1800,6 +1800,24 @@
       "duration_ms": 263842,
       "name": "Keep Shimmering",
       "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
+    },
+    {
+      "album": {
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
     },
     {
       "album": {

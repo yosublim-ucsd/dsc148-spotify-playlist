@@ -505,24 +505,6 @@
     },
     {
       "album": {
-        "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
-      },
-      "artists": [
-        {
-          "name": "\u5411\u7530 \u7d17\u6804\u5b50<\u4e0a\u5742 \u3059\u307f\u308c>",
-          "url": "https://open.spotify.com/artist/1VOaYBcQI1bCbeneMIbc3v"
-        }
-      ],
-      "date_added": "2021-05-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242453,
-      "name": "harukaze - Full Spec Edition",
-      "url": "https://open.spotify.com/track/7vaUNjMhcOYvlO8SGgF50C"
-    },
-    {
-      "album": {
         "name": "Ryu ga gotoku 7 karaoke new song collection(Ryu ga gotoku 7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/003xjLhNJzHIsaxFT1jXPV"
       },
@@ -556,6 +538,24 @@
       "duration_ms": 241600,
       "name": "harukaze - Full Spec Edition",
       "url": "https://open.spotify.com/track/3EavbmJ3T0oDziNqwrWImj"
+    },
+    {
+      "album": {
+        "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
+      },
+      "artists": [
+        {
+          "name": "\u5411\u7530\u7d17\u6804\u5b50(\u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2ebnCor77aBYWmDisoObHA"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242453,
+      "name": "harukaze - Full Spec Edition",
+      "url": "https://open.spotify.com/track/7vaUNjMhcOYvlO8SGgF50C"
     },
     {
       "album": {

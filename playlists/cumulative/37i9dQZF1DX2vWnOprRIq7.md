@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Peces Raros.
 
-184 songs - 11 hr 6 min
+185 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [como antes :\(](https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB) | [Yaima Cat](https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [como antes :\(](https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55) | 3:57 | 2023-05-26 |  |
 | [Con la gata y tus mentiras](https://open.spotify.com/track/2jykCNG4QLzJGGawOcen0T) | [Faculimón](https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Con la gata y tus mentiras](https://open.spotify.com/album/3jprgQy8G0ERjgQronO3cX) | 3:45 | 2023-07-07 | 2023-08-20 |
 | [Consenso](https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Consenso](https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j) | 3:39 | 2023-08-25 |  |
+| [CONSTITUCIÓN](https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [CONSTITUCIÓN](https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ) | 2:41 | 2023-09-01 |  |
 | [Corazon en Asteroides](https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Corazon en Asteroides](https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw) | 3:58 | 2023-03-17 | 2023-07-08 |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2023-03-17 | 2023-07-08 |
 | [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 | 2023-08-28 |
@@ -164,7 +165,7 @@
 | [Sombra](https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Sombra](https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G) | 2:59 | 2023-04-14 |  |
 | [soy gris](https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [soy gris](https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC) | 3:00 | 2023-03-17 | 2023-05-28 |
 | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/track/1bR9Otq0AMnfZFWQCu4zMd) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l) | [Sudeste Asiático \(Felics Remix\)](https://open.spotify.com/album/5slqi6BYWHecGV9ICWhqWH) | 3:45 | 2023-03-17 | 2023-05-06 |
-| [Sueño e Inteligencia](https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Aparecido](https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T) | 3:21 | 2023-07-14 |  |
+| [Sueño e Inteligencia](https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Aparecido](https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T) | 3:21 | 2023-07-14 | 2023-09-03 |
 | [Sur](https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Sur](https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5) | 3:40 | 2023-05-26 |  |
 | [Tan besh](https://open.spotify.com/track/7jQIaZaNOucdWwqgbaaaCp) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [Tan besh](https://open.spotify.com/album/7guUCEylVmfEDaUgLMzz34) | 2:51 | 2023-08-11 |  |
 | [Tiempo Sin Piel](https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7), [Ignacia](https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg) | [Tiempo Sin Piel](https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz) | 4:08 | 2023-03-17 | 2023-05-20 |

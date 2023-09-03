@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Everyone Else Fades",
+        "url": "https://open.spotify.com/album/2Zl8SwaPJmhx0Iecjkx6B6"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198925,
+      "name": "Everyone Else Fades",
+      "url": "https://open.spotify.com/track/7ACUsvZmitu4pX7dQk3Ntp"
+    },
+    {
+      "album": {
         "name": "Extraordinary",
         "url": "https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 199145,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W"
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 182956,
       "name": "How You Like That",
       "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
@@ -6942,7 +6960,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
@@ -6960,7 +6978,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 201106,
       "name": "SHALALA",
       "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
@@ -10304,6 +10322,24 @@
       "duration_ms": 261818,
       "name": "\u0e19\u0e49\u0e33\u0e25\u0e32\u0e22",
       "url": "https://open.spotify.com/track/6oBGKAEqVgvljmFMwMUAXX"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
+        "url": "https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275714,
+      "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
+      "url": "https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ"
     },
     {
       "album": {

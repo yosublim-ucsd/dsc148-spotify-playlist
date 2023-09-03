@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "FLIPSIDE",
+        "url": "https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9"
+      },
+      "artists": [
+        {
+          "name": "Julia Shuren",
+          "url": "https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182455,
+      "name": "Losing My Perfection",
+      "url": "https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v"
+    },
+    {
+      "album": {
         "name": "Losing My Perfection",
         "url": "https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2"
       },
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 182455,
       "name": "Losing My Perfection",
       "url": "https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB"

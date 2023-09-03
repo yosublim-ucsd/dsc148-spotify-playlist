@@ -1,12 +1,12 @@
 {
   "description": "Perch\u00e9... It\u2019s Only Rock 'n' Roll (But We Like It)!",
-  "num_followers": 351709,
+  "num_followers": 351862,
   "original_name": "Rock: i Classici",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWY3ZjYzYWEwMTZkZjBjZTNmOWI4MTAyZDJjYjE0NDFhOTZjMmRm",
+  "snapshot_id": "MCwxY2Q4ZjY5MTZiMGE5YjFiNWQwYzQxMTgyZThkMDMzM2E1NjYwOWMw",
   "tracks": [
     {
       "added_at": "2023-08-22 10:25:01",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-08-22 10:25:01",
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
-    },
-    {
-      "added_at": "2023-08-22 10:25:01",
-      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 318586,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
+    },
+    {
+      "added_at": "2023-08-22 10:25:01",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
       "added_at": "2023-08-22 10:25:01",

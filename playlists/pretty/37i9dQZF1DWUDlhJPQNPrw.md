@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 
 > things will get better soon\. for now, just listen and dream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,680 likes - 144 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,737 likes - 144 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 | 91 | [diamond star](https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [midnight dreams & diamond star](https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF) | 2:40 |
 | 92 | [Elmegyünk](https://open.spotify.com/track/1hhRujLttXr7iYXQbFsgcT) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Elmegyünk](https://open.spotify.com/album/6ChJGxSn8Zawyjz2pzQe24) | 2:18 |
 | 93 | [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 |
-| 94 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 |
+| 94 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 |
 | 95 | [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 |
 | 96 | [Nostalgia](https://open.spotify.com/track/1zj98YuXYeQP02d4kqoSEE) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Nostalgia](https://open.spotify.com/album/2tPUS5tvDkuKL66bLk5CYN) | 2:23 |
 | 97 | [Orpheus](https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 3:27 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 | 143 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 |
 | 144 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 |
 
-Snapshot ID: `MCw3MjAzZjI3NWFmYzZlOGI4ZmQwYjUxODZhNTBiNGIzMTA5Y2NhZWI0`
+Snapshot ID: `MCxhNmNjYjlhZGYyMjBmN2ZmMzFjOTAwNjcxNTA1ZDVmNTFiNDU3Y2M3`

@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-267 songs - 16 hr 7 min
+268 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Laredo](https://open.spotify.com/track/6uZtDv3kmFYbB6iiOS1GiR) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Laredo](https://open.spotify.com/album/2GZ2wiEkYIc4uUtkFk0jHE) | 4:12 | 2022-09-09 |  |
 | [Let No Man Put Asunder \- Dam Swindle Remix](https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Dam Swindle x Salsoul Reworks Vol\. 1](https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf) | 7:34 | 2022-09-09 | 2022-10-15 |
 | [Like That](https://open.spotify.com/track/63McwMFvGQQR6VjeB1P3n6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5) | [Like That](https://open.spotify.com/album/4FFmc9mfb3rIxpeYLMQyLf) | 2:22 | 2022-09-09 | 2023-07-08 |
-| [Losing My Perfection](https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing My Perfection](https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2) | 3:02 | 2022-09-09 |  |
+| [Losing My Perfection](https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:02 | 2023-08-30 |  |
+| [Losing My Perfection](https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing My Perfection](https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2) | 3:02 | 2022-09-09 | 2023-09-03 |
 | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/track/2VoGLmJuYzBbAje7HrNSi6) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [NAHOM](https://open.spotify.com/artist/1gsryyNLnqqOLl8MRe4eog) | [Love Like This Before \- Spotify Studio Oyster Recording](https://open.spotify.com/album/18kvCLlsFrla2rDjzhpuEH) | 2:57 | 2022-09-09 | 2023-07-08 |
 | [Loving Game](https://open.spotify.com/track/4WX5mpZqlMxAJifk8TzmKB) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Loving Game](https://open.spotify.com/album/5N1U9cCnhW8tH2h3vvQojQ) | 2:29 | 2023-02-02 |  |
 | [Lucky Night](https://open.spotify.com/track/2WTiI88fYaKK7VskAKJv6f) | [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Lucky Night](https://open.spotify.com/album/4pkI91H2N6j1aCrb406g81) | 4:20 | 2022-09-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 
 > Relaxing and soft piano, to get those chill sunday morning vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,291 likes - 215 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,299 likes - 215 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 38 | [Son De Pluie](https://open.spotify.com/track/2sMXPyPYP81Wml9UnBJs5N) | [Martin La Pelle](https://open.spotify.com/artist/1KClt0OElKTUnCtAr2CrQu) | [Son De Pluie](https://open.spotify.com/album/3P7mZrXwwHVvhQ72JfqYeU) | 2:35 |
 | 39 | [Reflections in a Quiet Place](https://open.spotify.com/track/4ndnyPz8H1X4s8GTS7AF9F) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Mind Paintings](https://open.spotify.com/album/3eIcr5XcmcOiW7LwFRdIH9) | 2:02 |
 | 40 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 |
-| 41 | [Charleston](https://open.spotify.com/track/0r1ToU0xBVU0WeEyay3VtN) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Charleston](https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG) | 2:44 |
+| 41 | [Charleston](https://open.spotify.com/track/0r1ToU0xBVU0WeEyay3VtN) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Charleston](https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG) | 2:44 |
 | 42 | [Valse pour Johann](https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC) | [Fjellson Weber](https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2) | [Valse pour Johann](https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd) | 2:25 |
 | 43 | [Starling](https://open.spotify.com/track/0JJW5BjdAwIfwcZ87fWswG) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Starling](https://open.spotify.com/album/17HUO0GuAJJGeDZfOiSQbr) | 4:04 |
 | 44 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 56 | [Cuaderna Vía](https://open.spotify.com/track/29wXeahxSJmYAQcQHQS71o) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Cuaderna Vía](https://open.spotify.com/album/5xyUHwD6UW7hoeS0N1A29o) | 3:17 |
 | 57 | [Cercle de vie](https://open.spotify.com/track/4RopzZkBrpfdVaVeclXqFi) | [Jean Larousse](https://open.spotify.com/artist/6sSeVDtf7yeFSl2vDUnjmU) | [Cercle de vie](https://open.spotify.com/album/14gAPt40sKKf9nG0ZXOQn5) | 2:28 |
 | 58 | [Le calumet de paix](https://open.spotify.com/track/6mbIBZ5Opeemj5gLCWupxM) | [Revemont](https://open.spotify.com/artist/1kk2FSO8LX07RDK6EHWBlb) | [Le calumet de paix](https://open.spotify.com/album/2p7HfaH5OIse7L4PlpjyDR) | 2:30 |
-| 59 | [Radiant Moon](https://open.spotify.com/track/0MAysJCeaUWVDnoJZWBulP) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Scarlet Crescent](https://open.spotify.com/album/1DCoabskMz130Fc0zVBtS1) | 2:25 |
+| 59 | [Radiant Moon](https://open.spotify.com/track/0MAysJCeaUWVDnoJZWBulP) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Scarlet Crescent](https://open.spotify.com/album/1DCoabskMz130Fc0zVBtS1) | 2:25 |
 | 60 | [How Could This Be](https://open.spotify.com/track/0uHRLoC9zV05lswwqX4MNA) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [How Could This Be](https://open.spotify.com/album/3ZzbWMSygmI1anR4IkM1F6) | 2:00 |
 | 61 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 |
 | 62 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 |
 | 63 | [La douche sonore](https://open.spotify.com/track/79QWY71xWy96RCEZK720en) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [La douche sonore](https://open.spotify.com/album/0k0oSM5NNJG7hnp0mrRlwv) | 2:18 |
-| 64 | [Mi Hijo](https://open.spotify.com/track/2AIve02bQu3sGMN4pYefid) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Mi Hijo](https://open.spotify.com/album/5LCu5AReekMCt4Yon4R6PC) | 3:06 |
+| 64 | [Mi Hijo](https://open.spotify.com/track/2AIve02bQu3sGMN4pYefid) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Mi Hijo](https://open.spotify.com/album/5LCu5AReekMCt4Yon4R6PC) | 3:06 |
 | 65 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 |
 | 66 | [Lumiere](https://open.spotify.com/track/7qfMTpJF1zqQMCM0JJSc5b) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Lumiere](https://open.spotify.com/album/0yr2wJtIh10EiUGWJKXisg) | 2:34 |
 | 67 | [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 91 | [Afterglow](https://open.spotify.com/track/6YzOHIoCXojns8Dsi3Uqx0) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Cause & Effect](https://open.spotify.com/album/2WC2FtG0whiGZxgMzFSXy0) | 2:36 |
 | 92 | [Mimetismo](https://open.spotify.com/track/1iGMUpV6h0zA6pUSXfQJVr) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Mimetismo](https://open.spotify.com/album/1I1H1XcRBbl0KfUeVFSSA3) | 2:22 |
 | 93 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 |
-| 94 | [Bits and Pieces](https://open.spotify.com/track/6khPxJW2IJMWinaViYq9Xv) | [Tyson Morris](https://open.spotify.com/artist/7BwUBh2QHwvTN7WBV9vPES) | [Here On After](https://open.spotify.com/album/33Zg9HyZNO3OIqaqXsz5Y8) | 3:29 |
+| 94 | [Bits and Pieces](https://open.spotify.com/track/6khPxJW2IJMWinaViYq9Xv) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Here On After](https://open.spotify.com/album/33Zg9HyZNO3OIqaqXsz5Y8) | 3:29 |
 | 95 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 |
 | 96 | [Waltz 21](https://open.spotify.com/track/4DaPrcpcDrbtXKmdFhqG5R) | [Andreas Ihlebæk](https://open.spotify.com/artist/2FikjOw5WWNEpKxsmU6Ye0), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Waltz 21](https://open.spotify.com/album/6GwiUbUZOZoz96kWpDligN) | 2:24 |
 | 97 | [Insouciance](https://open.spotify.com/track/5iXYIu04vkN1pT11qqKBM9) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [Insouciance](https://open.spotify.com/album/2a50JLyn7zSyXwUVWI5Mrl) | 2:03 |
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 133 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 |
 | 134 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 |
 | 135 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 |
-| 136 | [Dawn Of Day](https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [Dawn Of Day](https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx) | 4:04 |
+| 136 | [Dawn Of Day](https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Dawn Of Day](https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx) | 4:04 |
 | 137 | [Synchronicity](https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Synchronicity](https://open.spotify.com/album/3K5o4pXNsxdxW8MEn2jtel) | 2:30 |
 | 138 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 |
 | 139 | [I Tried](https://open.spotify.com/track/4ZEjWfdhgbV5M90h8XMn8N) | [Rory Campbell](https://open.spotify.com/artist/065g9oYYpGh7AOf7UR2Jr2) | [The Past Hasn't Happened Yet](https://open.spotify.com/album/7LtLQkFRQVMm06t6C9XUZO) | 4:03 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEerxa93vDU.md) - [plain]
 | 214 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 215 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 |
 
-Snapshot ID: `MCxlMGIwYjcwYzZjMWYwMWUzYWJmN2EwZDZhYjVkYmU5MTI5ZDY4YTVm`
+Snapshot ID: `MCwzZmY1MmI2NzU4MTFlNTc5YzQzYjRiNTVmNDY1N2UxYjFlOGRiMWQ4`

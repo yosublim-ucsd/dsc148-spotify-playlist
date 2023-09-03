@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 70457,
+  "num_followers": 70494,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTkzYmMwNGZmZGZkYTU2MTgxNzY2NmNlNzlhOTM0OWM0NDEyZjAy",
+  "snapshot_id": "MCwyYTdiYjMwMzhkMWU3MGI4OGVmYmQ2NTM3Zjk1M2Y4ZWZjYzhhZjQ1",
   "tracks": [
     {
       "added_at": "2023-07-28 05:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
-      },
-      "artists": [
-        {
-          "name": "Dino",
-          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Mil A\u00f1os",
-      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "Musica...Recuerdo Inolvidable",
         "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 159240,
       "name": "Se Rompio la Cadena",
       "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+      },
+      "artists": [
+        {
+          "name": "Dino",
+          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Mil A\u00f1os",
+      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
     },
     {
       "added_at": "2023-07-28 05:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-28 05:01:00",
       "album": {
-        "name": "Poker de Ases",
-        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Avil\u00e9s",
-          "url": "https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1"
-        }
-      ],
-      "duration_ms": 180586,
-      "name": "Cabellitos de Mi Madre",
-      "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
-    },
-    {
-      "added_at": "2023-07-28 05:01:00",
-      "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/0BReXvDDnar5dcAQIWvKLE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 240625,
       "name": "Mozo Deme Otra Copa",
       "url": "https://open.spotify.com/track/7MjUWVbAxPN64rf5e2MorO"
+    },
+    {
+      "added_at": "2023-07-28 05:01:00",
+      "album": {
+        "name": "Poker de Ases",
+        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Avil\u00e9s",
+          "url": "https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1"
+        }
+      ],
+      "duration_ms": 180586,
+      "name": "Cabellitos de Mi Madre",
+      "url": "https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj"
     },
     {
       "added_at": "2023-07-28 05:01:00",

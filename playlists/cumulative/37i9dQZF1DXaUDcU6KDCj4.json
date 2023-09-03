@@ -4312,6 +4312,24 @@
     {
       "album": {
         "name": "Dear Departed",
+        "url": "https://open.spotify.com/album/3qfkgLpdFXE7n44ysK6P64"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Coming Down On Me",
+      "url": "https://open.spotify.com/track/1adtRGleBoUUbdzq0m55gq"
+    },
+    {
+      "album": {
+        "name": "Dear Departed",
         "url": "https://open.spotify.com/album/7bxQNgugE8yuO9483R3zrz"
       },
       "artists": [
@@ -4322,7 +4340,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 181200,
       "name": "Coming Down On Me",
       "url": "https://open.spotify.com/track/4e6kQ0UAoc9VC44sO1bft6"

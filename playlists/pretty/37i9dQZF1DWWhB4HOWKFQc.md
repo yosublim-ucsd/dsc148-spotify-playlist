@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Idgitaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,446 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,031 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 74 | [Tak Mungkin](https://open.spotify.com/track/4HOlRwnMgTjB9SHo6FC0j1) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp) | [Tak Mungkin](https://open.spotify.com/album/6W72whTj0horCle4i9YxwG) | 4:02 |
 | 75 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |
 
-Snapshot ID: `MCw3NTdmZTg0YjQ3MDk2NDg1ZGUzMDVhYTdmNjJjOWQ0YzhlNWZiNDcz`
+Snapshot ID: `MCw4MDRlNDVjODFiMWExZjA1Njk2M2RmZjQ2MGY2YTg5ZmYzN2IyN2Jh`

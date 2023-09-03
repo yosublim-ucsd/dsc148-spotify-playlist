@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: H1\-KEY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,179 likes - 209 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,350 likes - 209 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 16 | [M.O.M](https://open.spotify.com/track/1LdzvuS9dGj59yHXPhfgdu) | [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt) | [M.O.M](https://open.spotify.com/album/5ZAvXTc2yMZSw65Wt0mbw9) | 2:17 |
 | 17 | [Click Like \(Prod\. Crush\) \(Feat\. Paul Blanco\)](https://open.spotify.com/track/3gt8XdxuOccNIY5b2UpM1l) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Street Woman Fighter2 \(SWF2\) Class Mission\(Sub\-leader\)](https://open.spotify.com/album/5sTeyWloN8oEUtvbV0VDNY) | 2:45 |
 | 18 | [I’ll Hold You Tight](https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Destined with You \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK) | 3:35 |
-| 19 | [ON FIRE](https://open.spotify.com/track/4oNcVooyhjo79uz9UIeWlA) | [1Kyne](https://open.spotify.com/artist/0x1RhctezsPRui0CZpQKl5), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [국민사형투표 \(Original Television Soundtrack\) Part\. 1](https://open.spotify.com/album/0qnJm03SWIU6sMmbOIIQBK) | 3:26 |
+| 19 | [ON FIRE](https://open.spotify.com/track/4oNcVooyhjo79uz9UIeWlA) | [1Kyne](https://open.spotify.com/artist/0x1RhctezsPRui0CZpQKl5), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [국민사형투표 OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/0qnJm03SWIU6sMmbOIIQBK) | 3:26 |
 | 20 | [WANT](https://open.spotify.com/track/4ccCjIBbrHzQg4TQq8vMSx) | [B.I.G](https://open.spotify.com/artist/6gHyYB83BQlGKpqbn57D8R) | [WANT](https://open.spotify.com/album/52brHxfrOkjx8EwVJTIc7O) | 3:11 |
 | 21 | [What's wrong with me?](https://open.spotify.com/track/6TakheWewVFeIWbDppiTXb) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [What's wrong with me?](https://open.spotify.com/album/0Yy2PBAivdv6vIvwQY3VRF) | 2:56 |
 | 22 | [Baka Mitai \(馬鹿みたい\) / Dame dane](https://open.spotify.com/track/5hHiisrOvlAGqqXlmSQmGi) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT) | [Baka Mitai \(馬鹿みたい\) / Dame dane](https://open.spotify.com/album/55Yu3GgqcRO32FoVzGCTxo) | 4:51 |
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 208 | [The summer night](https://open.spotify.com/track/3Vntz9uzsqu4vsALxg5E7I) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [The summer night](https://open.spotify.com/album/4wB4RygBaxQ8m5M4Ho5dWp) | 4:18 |
 | 209 | [The Flash](https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [The Flash](https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr) | 3:33 |
 
-Snapshot ID: `MCw2ZWYwMTc2NTJiMjg4ZDg3YmFhZDQ1MzZhNGNmODJkYWU4ZDdiOWJi`
+Snapshot ID: `MCw1MGI0YjNkOTYyYzUxMWQ3ZjI5OTc3NTFhMWQ0NGIxMDEzODI0NTU0`

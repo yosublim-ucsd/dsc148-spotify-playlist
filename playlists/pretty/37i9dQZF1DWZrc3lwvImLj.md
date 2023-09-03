@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,544 likes - 223 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,682 likes - 223 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 114 | [Elmegyünk](https://open.spotify.com/track/1hhRujLttXr7iYXQbFsgcT) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Elmegyünk](https://open.spotify.com/album/6ChJGxSn8Zawyjz2pzQe24) | 2:18 |
 | 115 | [Portrait of a shade](https://open.spotify.com/track/1oAET48hdT1Bg9BM0FLIkw) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Portrait of a shade](https://open.spotify.com/album/4KKhQ4EM56Fsle0NFsOqIu) | 2:55 |
 | 116 | [The Other Place](https://open.spotify.com/track/6RXyFqmnqRyVR7hAHSDCnD) | [Lucile Garett](https://open.spotify.com/artist/6VcRNGf7V9o2TJSW6leoCZ) | [The Other Place](https://open.spotify.com/album/1HKXs6ACrqDbWb7RjE6rE8) | 2:46 |
-| 117 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 |
+| 117 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 |
 | 118 | [Porcelain Hands](https://open.spotify.com/track/7KX4G8l2FvaTom3K21Xw5E) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Porcelain Hands](https://open.spotify.com/album/2r70QxdddM0IU6gy6zJHOC) | 2:14 |
 | 119 | [A Winter's Elegy](https://open.spotify.com/track/6bHkocAft4fa7LAfJqbRM7) | [Steven Poole](https://open.spotify.com/artist/1yQhRcOp7MsXQTZuoaOhyX) | [A Winter's Elegy](https://open.spotify.com/album/2eFmV9yZC88CNwG72C5pWS) | 2:23 |
 | 120 | [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 222 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 |
 | 223 | [Téli](https://open.spotify.com/track/22epH1mP5fU4Bg5fGVbnuc) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Téli](https://open.spotify.com/album/6smhLShr1DjFPuxW7EtB4d) | 2:30 |
 
-Snapshot ID: `MCwwNjgzMjE1ZTQ5YTJmMjNlNGIwZTIyNzYzZjc3YjJhOGY1NGExMDc0`
+Snapshot ID: `MCxmMzQ1OWQ4YzBmYmQ5Zjg2MjQ3ODk1OGUyOWViNzBiZjMzNzcwMTU2`

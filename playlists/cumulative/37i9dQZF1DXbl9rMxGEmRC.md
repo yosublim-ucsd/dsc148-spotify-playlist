@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-494 songs - 1 day 17 hr 46 min
+497 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Changing Star](https://open.spotify.com/track/1iMI9ahj9mM3OcbkCmGs19) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD) | [Changing Star](https://open.spotify.com/album/7hG3yg1VvLeYC8gMMLO9eZ) | 5:34 | 2023-08-11 |  |
 | [Chapter I: Escape](https://open.spotify.com/track/50wNXncjCWM87QlNQ5bmKq) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter I: Escape](https://open.spotify.com/album/6RetrQBkhFn2SXftzZODXG) | 4:26 | 2022-01-21 | 2022-04-15 |
 | [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 | 2022-04-15 | 2022-07-29 |
+| [Charlatan](https://open.spotify.com/track/1mArDDUhC84ngoB7pKQZNi) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Memento Mori](https://open.spotify.com/album/6waKeYu2QeKF53fvZFPT6C) | 4:11 | 2023-09-01 |  |
 | [Chernobyl Blues \- Live at Slipper Room](https://open.spotify.com/track/4coCbcc2diO04CaUquMQ4W) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [An Evening With Imperial Triumphant \(Live at Slipper Room\)](https://open.spotify.com/album/1gKZvyVWVA4rtfJNRWe08H) | 7:32 | 2021-12-17 | 2022-07-29 |
 | [Chimera Soldiers](https://open.spotify.com/track/3fJ9brORCmKrlr7K5zCVn5) | [Kommand](https://open.spotify.com/artist/2ARiBdiOC3x2yKOjttPE63) | [Chimera Soldiers](https://open.spotify.com/album/4oq5EM4pMUV4pIGKlQ4A05) | 4:37 | 2023-03-01 | 2023-04-01 |
 | [Christraping Black Metal](https://open.spotify.com/track/3X5u1hrPeBiZ0FjZe4B70v) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Panzer Division](https://open.spotify.com/album/0622BIcoA1UXnLCQXDG0bF) | 3:45 | 2022-07-13 | 2022-07-29 |
@@ -89,7 +90,7 @@
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-25 | 2023-02-13 |
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-07-13 | 2022-07-29 |
 | [Conquer All](https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6) | 3:31 | 2022-07-13 |  |
-| [Contorted Monuments](https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/5IIUnGjaxM97FERMxqFKwg) | 3:56 | 2023-09-01 |  |
+| [Contorted Monuments](https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/5IIUnGjaxM97FERMxqFKwg) | 3:56 | 2023-09-01 | 2023-09-03 |
 | [Contorted Monuments](https://open.spotify.com/track/67eZWGltRRLeC6CqGo8OI4) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/3T2mwxswFJP50QjDFF2jnH) | 3:56 | 2023-01-20 | 2023-03-03 |
 | [Corpus Asunder](https://open.spotify.com/track/22LDsQ4MS0UCfjFxxzWK5d) | [Hooded Menace](https://open.spotify.com/artist/10mjw8SFRZjS0d8tecdEW8) | [The Tritonus Bell](https://open.spotify.com/album/0x4i70nD0RJfABpctTg7zn) | 7:18 | 2021-12-17 | 2022-04-09 |
 | [Corset](https://open.spotify.com/track/6FdqR9WXfCJEcz3pMV84lJ) | [Cloud Rat](https://open.spotify.com/artist/6Fbes1fH0ZDS0XGjDx2YeG) | [Corset](https://open.spotify.com/album/29K85KqmBKVepENRzTXK2K) | 1:46 | 2022-09-16 | 2022-09-30 |
@@ -180,7 +181,7 @@
 | [Fucking Your Ghost In Chains of Ice](https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD) | [Leviathan](https://open.spotify.com/artist/6CJU2RwwB10D0KoYYqWYeM) | [The Tenth Sub Level Of Suicide](https://open.spotify.com/album/1a08Kc3CmrsUbCxEibttUx) | 5:40 | 2022-07-13 | 2023-02-16 |
 | [Funeral Fog](https://open.spotify.com/track/2lXi7xN0MiTfLb2DW7H9UT) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 5:47 | 2022-07-13 | 2023-02-16 |
 | [Galactic Order](https://open.spotify.com/track/4fTYgx1L02Uni6fnSbi93F) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [Galactic Order](https://open.spotify.com/album/2vOreDyZb2cDajzHWrvZAt) | 5:22 | 2023-05-12 |  |
-| [Gamle\-Erik](https://open.spotify.com/track/1NI0lQb4FXqGutjDePCaRI) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Helvegr](https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM) | 3:46 | 2023-06-30 |  |
+| [Gamle\-Erik](https://open.spotify.com/track/1NI0lQb4FXqGutjDePCaRI) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Helvegr](https://open.spotify.com/album/6eH7gLDHor7ZPiz4VQtWDM) | 3:46 | 2023-06-30 | 2023-09-03 |
 | [Gehenna](https://open.spotify.com/track/3x2A8myfYInyflbGmZKQDD) | [Se, Josta Ei Puhuta](https://open.spotify.com/artist/1n64pzlYBm5zq9Mvf8C0dk) | [Gehenna](https://open.spotify.com/album/6BFtNQI9JIkLEmcrlWLRdi) | 4:12 | 2021-12-17 | 2022-07-27 |
 | [God Is Wasted](https://open.spotify.com/track/3dX9IN7FSVn1fQZotgM0KU) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/5A0LRCVTtoyd5EWpHdwB11) | 4:18 | 2022-07-13 | 2022-07-29 |
 | [God Is Wasted](https://open.spotify.com/track/7cyx4cGB0Ze5kOAaT8GLbh) | [Ragnarok](https://open.spotify.com/artist/2NOuABTjilCHH7RNw439Vq) | [Arising Realm](https://open.spotify.com/album/2s7gb1dbnCxHRKiWrDRMYX) | 4:18 | 2022-07-13 | 2023-02-16 |
@@ -247,6 +248,7 @@
 | [It's Darker Than You Think](https://open.spotify.com/track/24rgd0Ex8aBpmctVJHbJSF) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/4SCjDGytdNcWgtt3cMIBF2) | 4:41 | 2022-07-13 | 2022-07-29 |
 | [It's Darker than you Think](https://open.spotify.com/track/479lTQmXhnmGai0UGVxQpY) | [Carpathian Forest](https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H) | [Defending the Throne of Evil](https://open.spotify.com/album/3L640gN3OxWwYVipxqerWA) | 4:41 | 2022-07-13 |  |
 | [Iò Pan!](https://open.spotify.com/track/1RSMkPnTZDK5OUEXYnV31Y) | [Selvans](https://open.spotify.com/artist/2HpWGadw2hmtDMTfbfaqkj) | [Dark Italian Art](https://open.spotify.com/album/7JvLKSi8zktCdBXVM7Hhnr) | 5:45 | 2021-12-17 | 2022-01-22 |
+| [Jailbreak](https://open.spotify.com/track/0zAMnEOY4hrzwThQuRbRiI) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Jailbreak](https://open.spotify.com/album/4ExTIKeTM1xWIefWnf7EoY) | 3:25 | 2023-09-01 |  |
 | [Jean Grenier](https://open.spotify.com/track/0qPVLDSC4mqL0oUDMwJEqu) | [Kuoleman Galleria](https://open.spotify.com/artist/1qH06U3f3AMfIpmRuG2fT2) | [Jean Grenier](https://open.spotify.com/album/6gWOWQh9y1PKFsiTgTXDkP) | 4:52 | 2022-01-21 | 2022-07-16 |
 | [Jenseits \(Kapitel III \- Reflexionen\)](https://open.spotify.com/track/28Au9xa6d4UQLdITiVod67) | [Finsterforst](https://open.spotify.com/artist/1Gh3UMZ0WVesXifHfziSx9) | [Jenseits \(Kapitel III \- Reflexionen\)](https://open.spotify.com/album/79udUa0watAABcZjEn1wVA) | 5:31 | 2023-09-01 |  |
 | [K.I.N.G](https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Now, Diabolical](https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX) | 3:36 | 2022-07-13 |  |
@@ -345,7 +347,7 @@
 | [Reckoning](https://open.spotify.com/track/2hBKZG4x9Wjed6T2oAFAwm) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Reckoning](https://open.spotify.com/album/6WfPQTk5dUOKIgHIsl03MU) | 5:15 | 2021-12-17 | 2022-05-14 |
 | [Reflection in Slow Time](https://open.spotify.com/track/0qS90byEur2fejdteseTO3) | [Shape Of Despair](https://open.spotify.com/artist/7Dw0RaAayqoGd0z2oHT4R6) | [Reflection in Slow Time](https://open.spotify.com/album/6KWTVQKwzvVcmcg1BPpUN4) | 8:08 | 2021-12-17 | 2022-07-28 |
 | [Reign Of Fate](https://open.spotify.com/track/3wFqj9dM7GptoByndbI121) | [Miseration](https://open.spotify.com/artist/625deL9i1oococeGlHdSQe) | [Reign Of Fate](https://open.spotify.com/album/4qkFvszEAXyJEBXFqSPXpI) | 6:13 | 2022-04-01 | 2022-07-18 |
-| [Replicant](https://open.spotify.com/track/2WW1RQAV1nq0TwpVqgjZu6) | [Carnation](https://open.spotify.com/artist/7s6SmrbyQvp26jN5EbnU9u) | [Replicant](https://open.spotify.com/album/780bKfjBdB8FYV3KoXWioI) | 3:50 | 2023-09-01 |  |
+| [Replicant](https://open.spotify.com/track/2WW1RQAV1nq0TwpVqgjZu6) | [Carnation](https://open.spotify.com/artist/7s6SmrbyQvp26jN5EbnU9u) | [Replicant](https://open.spotify.com/album/780bKfjBdB8FYV3KoXWioI) | 3:50 | 2023-09-01 | 2023-09-03 |
 | [Resurgence](https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22) | [Hate](https://open.spotify.com/artist/13XggX75z0Hk0VNvOuTJoB) | [Resurgence](https://open.spotify.com/album/7JIec3VUIGOhcZnyffsgXE) | 3:40 | 2021-12-17 | 2022-04-29 |
 | [Retraversing the Void](https://open.spotify.com/track/70br3xDKEs4BWiRV0aQBJI) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [Retraversing the Void](https://open.spotify.com/album/3IJi4b6yWIaYA9L4C4JIUI) | 7:44 | 2023-06-09 |  |
 | [Return To Cold](https://open.spotify.com/track/2ScZtDGnzFkBgu4fhRzmsS) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:31 | 2023-05-26 |  |
@@ -385,6 +387,7 @@
 | [Slaves](https://open.spotify.com/track/4US8QCvhkPnO1D8pTznkom) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Massive Cauldron of Chaos](https://open.spotify.com/album/5KkMZp4jYbFgwwe8S9w13f) | 4:53 | 2022-07-13 | 2022-07-25 |
 | [Slaves Shall Serve](https://open.spotify.com/track/7fqAKOrf2T2wxCnN6u3MkJ) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [In Absentia Dei](https://open.spotify.com/album/3LAuN7xpQgqsrcA6q3oJd5) | 3:33 | 2021-12-17 | 2022-05-28 |
 | [Snowblood](https://open.spotify.com/track/3pkfVWPONcWQU5UAxWyALx) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [ERRA](https://open.spotify.com/album/3OuLJUIq1lBj8EUaoIQvWZ) | 4:13 | 2022-03-18 | 2022-04-23 |
+| [Song of the Dusk](https://open.spotify.com/track/59KysmBtOw5YYLV2UzbXeO) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Song of the Dusk](https://open.spotify.com/album/7G8frDmB5Nl7hNEvOHE3om) | 9:43 | 2023-09-01 |  |
 | [Sovereign](https://open.spotify.com/track/0LH8EFWl3v3T7YtSFB7Jbr) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2aQu2K5LfwOBed3T1DGojg) | 6:14 | 2021-12-17 | 2022-07-29 |
 | [Sovereign](https://open.spotify.com/track/38VAbDSyhAgdBgFuTb7U0U) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 6:14 | 2022-06-10 |  |
 | [Spine Shatter High\-Velocity Impact](https://open.spotify.com/track/2TOa7nfBpLyvgBeVgCdzSs) | [Wormhole](https://open.spotify.com/artist/2foAanYCza7knczRDB8DFt) | [Spine Shatter High\-Velocity Impact](https://open.spotify.com/album/6efJo7RpkCViFcsu4CFVF0) | 3:10 | 2023-09-01 |  |

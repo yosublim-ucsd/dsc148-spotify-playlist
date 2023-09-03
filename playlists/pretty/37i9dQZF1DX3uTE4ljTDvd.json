@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Vit\u00f3ria Souza",
-  "num_followers": 113731,
+  "num_followers": 113781,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjM0ZjQzNzE1YzMxNjkyYzRlNWRhMTBjNDQ5OGVmNzhlM2NhYjUx",
+  "snapshot_id": "MCxhODAzZDQ5ODgwZTY5NTQ4NzY1MDkwNmE0Y2QyYjE1ZjA2NjExYzUw",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:16",
@@ -143,6 +143,42 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Santo dos Santos",
+        "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
+      },
+      "artists": [
+        {
+          "name": "Esther Marcos",
+          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "duration_ms": 278268,
+      "name": "Santo dos Santos",
+      "url": "https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Incompar\u00e1vel",
+        "url": "https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 300668,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Fenda da Rocha (Ao Vivo)",
         "url": "https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP"
       },
@@ -167,42 +203,6 @@
       "duration_ms": 323506,
       "name": "Fenda da Rocha - Ao Vivo",
       "url": "https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Incompar\u00e1vel",
-        "url": "https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 300668,
-      "name": "Incompar\u00e1vel",
-      "url": "https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Santo dos Santos",
-        "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
-      },
-      "artists": [
-        {
-          "name": "Esther Marcos",
-          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
-        },
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        }
-      ],
-      "duration_ms": 278268,
-      "name": "Santo dos Santos",
-      "url": "https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Abra os C\u00e9us",
-        "url": "https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 370746,
-      "name": "Majestade",
-      "url": "https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "O Teu Poder (Creio em Ti)",
         "url": "https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI"
       },
@@ -319,26 +303,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Vai Adorando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 330409,
-      "name": "Vai Adorando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Ele Vem",
         "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
       },
@@ -355,6 +319,26 @@
       "duration_ms": 359352,
       "name": "Ele Vem",
       "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Vai Adorando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 330409,
+      "name": "Vai Adorando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -387,6 +371,22 @@
       "duration_ms": 224550,
       "name": "Quanto Amor",
       "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Abra os C\u00e9us",
+        "url": "https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 370746,
+      "name": "Majestade",
+      "url": "https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Ver Al\u00e9m",
+        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "duration_ms": 289879,
+      "name": "Ver Al\u00e9m",
+      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Ver Al\u00e9m",
-        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 289879,
-      "name": "Ver Al\u00e9m",
-      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Ter Paz",
         "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 285660,
       "name": "Ter Paz",
       "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Andar Sobre As \u00c1guas",
-        "url": "https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT"
-      },
-      "artists": [
-        {
-          "name": "Bia Monteiro",
-          "url": "https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6"
-        }
-      ],
-      "duration_ms": 263260,
-      "name": "Andar Sobre As \u00c1guas",
-      "url": "https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -511,18 +495,18 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Me Mostra Tua Face",
-        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
+        "name": "Andar Sobre As \u00c1guas",
+        "url": "https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT"
       },
       "artists": [
         {
-          "name": "RL Worship",
-          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
+          "name": "Bia Monteiro",
+          "url": "https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6"
         }
       ],
-      "duration_ms": 384724,
-      "name": "Me Mostra Tua Face",
-      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
+      "duration_ms": 263260,
+      "name": "Andar Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -543,6 +527,22 @@
       "duration_ms": 215750,
       "name": "Sinal de Amor",
       "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Me Mostra Tua Face",
+        "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
+      },
+      "artists": [
+        {
+          "name": "RL Worship",
+          "url": "https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU"
+        }
+      ],
+      "duration_ms": 384724,
+      "name": "Me Mostra Tua Face",
+      "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "D\u00ea Mais uma Chance para o Mundo",
-      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 209000,
       "name": "Eterno",
       "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "D\u00ea Mais uma Chance para o Mundo",
+      "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Daqui N\u00e3o Saio",
-        "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
+        "name": "Minha can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
       },
       "artists": [
         {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+          "name": "ThreeSis",
+          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
         }
       ],
-      "duration_ms": 558500,
-      "name": "Daqui N\u00e3o Saio",
-      "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
+      "duration_ms": 273514,
+      "name": "Minha can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Minha can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
+        "name": "Daqui N\u00e3o Saio",
+        "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
       },
       "artists": [
         {
-          "name": "ThreeSis",
-          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
         }
       ],
-      "duration_ms": 273514,
-      "name": "Minha can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+      "duration_ms": 558500,
+      "name": "Daqui N\u00e3o Saio",
+      "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
     },
     {
       "added_at": "2022-12-09 06:14:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
-        "name": "Tu Me Fascinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
-      },
-      "artists": [
-        {
-          "name": "Mariana Vieira",
-          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
-        }
-      ],
-      "duration_ms": 283235,
-      "name": "Tu Me Fascinas - Ao Vivo",
-      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
         "name": "Anotando Pensamentos",
         "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 271668,
       "name": "Anotando Pensamentos",
       "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
+        "name": "Tu Me Fascinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
+      },
+      "artists": [
+        {
+          "name": "Mariana Vieira",
+          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
+        }
+      ],
+      "duration_ms": 283235,
+      "name": "Tu Me Fascinas - Ao Vivo",
+      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
     },
     {
       "added_at": "2022-12-09 06:14:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,139 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,280 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 16 | [Milky Beauty](https://open.spotify.com/track/0FM8wzHhV64mwrDdEEuGdG) | [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Bholaa Shankar](https://open.spotify.com/album/5U5PEnuwaXr8ffWWmydl5X) | 3:33 |
 | 17 | [Jaanavule \(From "BRO"\)](https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Jaanavule \(From "BRO"\)](https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg) | 3:44 |
 | 18 | [Chanuvuga Chusina \(From "Peddha Kapu \- 1"\)](https://open.spotify.com/track/1YNYLzGKSezeI7U1cyTmPN) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Tripuraneni Kalyanachakravarthy](https://open.spotify.com/artist/3QU7NHOvtC18LUDZAzxcuh), [Chaitra Ambadipudi](https://open.spotify.com/artist/4RUN8jnm64ftsLkAEhybFB), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Chanuvuga Chusina \(From "Peddha Kapu \- 1"\)](https://open.spotify.com/album/39Z2qLJpswMem7z0BnYIsw) | 3:25 |
-| 19 | [Aradhya](https://open.spotify.com/track/6lasSS71iXy8IVGpcmmIEy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Kushi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vXKYGRf5LOBEMGRqxCTY7) | 4:42 |
+| 19 | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo) | 4:42 |
 | 20 | [Holare Hola](https://open.spotify.com/track/0a9bofyF3tSrYRCu2uVVkI) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [J.V\. Sudhanshu](https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq), [Sony Komanduri](https://open.spotify.com/artist/6wjRMnOpf2jN6VsNn3SkPW), [Shree Mani](https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh) | [Samajavaragamana](https://open.spotify.com/album/0vYWeWvhip93WkwleOx566) | 4:37 |
 | 21 | [Chachhinaa Chaavani Premidi \(From "Sandeham"\)](https://open.spotify.com/track/55DWDSeaID5un3fOFnieJj) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Subhash Anand](https://open.spotify.com/artist/2NP78xB5UtgQ5iXu8lpBip) | [Chachhinaa Chaavani Premidi \(From "Sandeham"\)](https://open.spotify.com/album/7L3xcOnPwJOdYkxqbjQ3TB) | 2:51 |
 | 22 | [Priya Mithunam \(Telugu\)](https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Adipurush \(TELUGU\)](https://open.spotify.com/album/0zRFnm1hqjtY0c7ozMK2Lh) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Oh Bangaram](https://open.spotify.com/track/75UdklaJHB2iYhQMXmE3DS) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5mw5TgQL15i1ernK02z9hV) | 3:48 |
 | 50 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 |
 
-Snapshot ID: `MCw1ODA3YzAxODkyNDBlNTRmZjFhOTAzM2ZjMWM5YmRhMmQ1N2I3ZTZh`
+Snapshot ID: `MCw5ZDhkOTM2ZWNhYzQyZjcwYzEwOTBlNzM2MWUxMzBlMjU4MmYwMzM4`

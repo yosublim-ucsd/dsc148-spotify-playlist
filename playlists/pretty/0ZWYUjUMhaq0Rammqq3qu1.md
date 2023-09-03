@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023\. Cover: Swedish House Mafia
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,104 likes - 50 songs - 2 hr 25 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,102 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 6 | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb) | 2:42 |
 | 7 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 |
 | 8 | [Un Deux Trois](https://open.spotify.com/track/5LZUMO0ZwB1wFqFjdamWfK) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Un Deux Trois](https://open.spotify.com/album/6JyUhSZBLGYfPVGCsQGVnL) | 2:29 |
-| 9 | [Hey Yesterday](https://open.spotify.com/track/3Gnbi6vrbbbJGdfcH8zKpi) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Madlucky](https://open.spotify.com/artist/0g9k9j7eWlcr9i03VpM2Xc) | [Hey Yesterday](https://open.spotify.com/album/65kK6RIJiUV7s4FNyuqnCY) | 2:04 |
+| 9 | [Hey Yesterday](https://open.spotify.com/track/3Gnbi6vrbbbJGdfcH8zKpi) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Madlucky](https://open.spotify.com/artist/6CPLcbjjzO5C7tfZJupgqS) | [Hey Yesterday](https://open.spotify.com/album/65kK6RIJiUV7s4FNyuqnCY) | 2:04 |
 | 10 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 |
 | 11 | [Cynical](https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Cynical](https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv) | 3:11 |
 | 12 | [Need Your Love](https://open.spotify.com/track/2TSU0Ti5e5beL9mYlHbYQu) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Need Your Love](https://open.spotify.com/album/12PQ5IbSS0mm4XMgQubpX9) | 2:56 |

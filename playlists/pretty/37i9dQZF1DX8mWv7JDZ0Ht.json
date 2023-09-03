@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Mariana Nolasco",
-  "num_followers": 431012,
+  "num_followers": 431038,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjM2NDllMDNiYWY0ZmQ0NWVkMjk5MDgxYzA2ZTUyYjQ3OTJmNzg0",
+  "snapshot_id": "MCw1ZmRmODYwM2JlNTE1MTU3NmZkMzBlMjJjOTI1NDUyZDI5ZGYxNmFk",
   "tracks": [
     {
       "added_at": "2023-09-01 12:17:15",
@@ -191,18 +191,22 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Estrela do Mar",
-        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 195033,
-      "name": "Estrela do Mar",
-      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -227,22 +231,18 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+        "name": "Estrela do Mar",
+        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 233990,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+      "duration_ms": 195033,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 197802,
-      "name": "Coisas De Voc\u00ea",
-      "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
         "name": "Mesmo Se Voc\u00ea Mudar",
         "url": "https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 185580,
       "name": "Mesmo Se Voc\u00ea Mudar",
       "url": "https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Coisas De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Andando pela Orla",
-        "url": "https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Won",
-          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
-        }
-      ],
-      "duration_ms": 112023,
-      "name": "Andando pela Orla",
-      "url": "https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
         "name": "tudo, eu, enfim.",
         "url": "https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 234666,
       "name": "desculpa, qualquer coisa",
       "url": "https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "Andando pela Orla",
+        "url": "https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Won",
+          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
+        }
+      ],
+      "duration_ms": 112023,
+      "name": "Andando pela Orla",
+      "url": "https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Virginiana",
+      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
         "name": "Friozinho",
         "url": "https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 176325,
       "name": "Ela \u00c9 S\u00f3 Dela",
       "url": "https://open.spotify.com/track/6rkVvNaR1XtmmIbclLlvP3"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Virginiana",
-      "url": "https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
+        "name": "Se eu n\u00e3o te amasse tanto assim",
+        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Se eu n\u00e3o te amasse tanto assim",
+      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
         "name": "Tua Voz",
         "url": "https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2"
       },
@@ -915,18 +931,18 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Se eu n\u00e3o te amasse tanto assim",
-        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
+        "name": "Fez a Onda",
+        "url": "https://open.spotify.com/album/4BGxB5IuRAB2zdizcNWwbU"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Se eu n\u00e3o te amasse tanto assim",
-      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
+      "duration_ms": 155899,
+      "name": "Fez a Onda",
+      "url": "https://open.spotify.com/track/4vSzL8GxdWV26bVKYz8mNG"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -963,18 +979,22 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Fez a Onda",
-        "url": "https://open.spotify.com/album/4BGxB5IuRAB2zdizcNWwbU"
+        "name": "Lugares",
+        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 155899,
-      "name": "Fez a Onda",
-      "url": "https://open.spotify.com/track/4vSzL8GxdWV26bVKYz8mNG"
+      "duration_ms": 175200,
+      "name": "Ana Rosa",
+      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1007,26 +1027,6 @@
       "duration_ms": 191862,
       "name": "sempre com voc\u00ea",
       "url": "https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
-        "name": "Lugares",
-        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
-      },
-      "artists": [
-        {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        },
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ana Rosa",
-      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
         "name": "Cear\u00e1",
         "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 159500,
       "name": "Casa Comigo?",
       "url": "https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "deixa eu me perder",
-        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
-      },
-      "artists": [
-        {
-          "name": "Chiara Maria",
-          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "deixa eu me perder",
-      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
         "name": "que se fosse",
         "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 139666,
       "name": "que se fosse",
       "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "deixa eu me perder",
+        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
+      },
+      "artists": [
+        {
+          "name": "Chiara Maria",
+          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "deixa eu me perder",
+      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
         "name": "T\u00e3o Cedo",
         "url": "https://open.spotify.com/album/3TRx3qK9shSrMqn6TUpgDa"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 183222,
       "name": "T\u00e3o Cedo",
       "url": "https://open.spotify.com/track/1yAXltaINGRVf72BCeHcgH"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-09-01 12:17:15",
       "album": {
+        "name": "del\u00edrio coletivo",
+        "url": "https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx"
+      },
+      "artists": [
+        {
+          "name": "Chiara Maria",
+          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "del\u00edrio coletivo",
+      "url": "https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
         "name": "Ac\u00fastico Luana Berti",
         "url": "https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy"
       },
@@ -1355,6 +1371,22 @@
       "duration_ms": 160629,
       "name": "pele - ao vivo",
       "url": "https://open.spotify.com/track/6Obz4fjPvcQJUyH2kqd3vS"
+    },
+    {
+      "added_at": "2023-09-01 12:17:15",
+      "album": {
+        "name": "Um Brinde A Vida",
+        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s Dois",
+          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
+        }
+      ],
+      "duration_ms": 182086,
+      "name": "Um Brinde A Vida",
+      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
     },
     {
       "added_at": "2023-09-01 12:17:15",
@@ -1375,38 +1407,6 @@
       "duration_ms": 139895,
       "name": "Vidro Emba\u00e7ado",
       "url": "https://open.spotify.com/track/3fXg6lRxBtaWPCNxS9zhPM"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
-        "name": "del\u00edrio coletivo",
-        "url": "https://open.spotify.com/album/5bMy8kayllIR9Kq1eYMLEx"
-      },
-      "artists": [
-        {
-          "name": "Chiara Maria",
-          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "del\u00edrio coletivo",
-      "url": "https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f"
-    },
-    {
-      "added_at": "2023-09-01 12:17:15",
-      "album": {
-        "name": "Um Brinde A Vida",
-        "url": "https://open.spotify.com/album/3VigMl5w5d4kIedETAUgw3"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s Dois",
-          "url": "https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g"
-        }
-      ],
-      "duration_ms": 182086,
-      "name": "Um Brinde A Vida",
-      "url": "https://open.spotify.com/track/368jIb4IpHgNiYmVG2J4PD"
     }
   ],
   "unique_name": "Pop Leve",

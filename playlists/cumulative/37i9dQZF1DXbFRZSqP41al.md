@@ -4,7 +4,7 @@
 
 > Burn off all those beers from last night.
 
-242 songs - 14 hr 19 min
+243 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Novocaine](https://open.spotify.com/track/7KfItMIktIqUP9pZ60xIji) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [POWER](https://open.spotify.com/album/6PLmgYwFKrlLKiZjXK2hXV) | 3:27 | 2022-04-17 | 2022-07-17 |
 | [On Your Road](https://open.spotify.com/track/04GJSqGoFAuzOhOahSrUDA) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Our Own World](https://open.spotify.com/album/6eWRaH6HCMnf0J4LMulEMh) | 3:59 | 2022-07-14 | 2022-07-16 |
 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 | 2022-10-11 | 2023-04-22 |
+| [One For the Money](https://open.spotify.com/track/3MAFVGKEVV9EgO1lQnPqcc) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Ungrateful](https://open.spotify.com/album/5T6PKisUvgIzrohF8EIZmg) | 3:19 | 2023-07-11 |  |
 | [One For the Money](https://open.spotify.com/track/77tR4iQgyQTAnhhuPik3ZP) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Ungrateful \(Deluxe\)](https://open.spotify.com/album/0oDUmbhMjDzh8AeVvyy9xX) | 3:19 | 2023-07-11 | 2023-09-01 |
 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2021-12-16 | 2023-07-12 |
 | [Outlaws & Outsiders](https://open.spotify.com/track/4OBrZqJzkwdDaXoYVfmIw7) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Outlaws & Outsiders](https://open.spotify.com/album/1FMwktOdGcAx5tzgdHRUf4) | 3:17 | 2021-12-16 | 2022-02-04 |
@@ -191,7 +192,7 @@
 | [Saints of the Sinners](https://open.spotify.com/track/0vI4E9advbgPGvRt7RImvK) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Saints of the Sinners](https://open.spotify.com/album/6UARS7hsHtwdXPeNg9KGYe) | 3:02 | 2021-12-16 | 2022-11-13 |
 | [Same Damn Life](https://open.spotify.com/track/5tkcQeBaeM1ZoNs2YUOmnz) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 3:19 | 2022-07-14 |  |
 | [Save Us](https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Save Us](https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT) | 2:21 | 2022-07-14 | 2022-07-29 |
-| [Save Us](https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 2:21 | 2023-07-11 |  |
+| [Save Us](https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 2:21 | 2023-07-11 | 2023-09-03 |
 | [Scavengers](https://open.spotify.com/track/5NqZc5hocg7DLZ42kcuI6G) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons / East](https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc) | 4:52 | 2022-07-14 | 2022-07-29 |
 | [Shadowboxer](https://open.spotify.com/track/3yNVDeOlaPGu2Ab71gG5nP) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Generation Rx](https://open.spotify.com/album/2rKCj6Uk9xV1l0OpRrSVel) | 3:05 | 2022-04-17 | 2022-04-20 |
 | [Shake](https://open.spotify.com/track/32PINF4tmKyRHurHQ9l1Hp) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Shake](https://open.spotify.com/album/7nDZWF3MBz9bCOJQmVr4x6) | 2:45 | 2021-12-16 | 2022-07-29 |

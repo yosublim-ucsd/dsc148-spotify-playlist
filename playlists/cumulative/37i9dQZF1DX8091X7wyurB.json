@@ -555,6 +555,36 @@
     },
     {
       "album": {
+        "name": "Crazy Love (feat. Noah Schnacky)",
+        "url": "https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Noah Schnacky",
+          "url": "https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358151,
+      "name": "Crazy Love (feat. Noah Schnacky)",
+      "url": "https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf"
+    },
+    {
+      "album": {
         "name": "Endure",
         "url": "https://open.spotify.com/album/4aoSdYgt7hia1vht8sysVP"
       },
@@ -1104,7 +1134,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 320246,
       "name": "God of Miracles",
       "url": "https://open.spotify.com/track/0pILKxYDI5oilUN52AebIu"
@@ -1388,7 +1418,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 344862,
       "name": "Hossana (Live)",
       "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
@@ -2632,6 +2662,32 @@
       "duration_ms": 336696,
       "name": "Ogo",
       "url": "https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf"
+    },
+    {
+      "album": {
+        "name": "Voice of Truth",
+        "url": "https://open.spotify.com/album/5g3V6zzN6xNcdPzJOaak14"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263470,
+      "name": "Oh My Soul",
+      "url": "https://open.spotify.com/track/0uQfatIe71HRJHJrBdtlNc"
     },
     {
       "album": {

@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "Hero's Come Back!!",
+      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
+    },
+    {
+      "album": {
         "name": "BLACK & WHITE",
         "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 202466,
       "name": "SUMMER FREAK",
       "url": "https://open.spotify.com/track/5joopj7rLQyYMplSoXZjD3"
@@ -1433,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278480,
+      "name": "\u30e6\u30e9\u30e6\u30e9",
+      "url": "https://open.spotify.com/track/6p6IssaX9xho07QisbjC8m"
+    },
+    {
+      "album": {
         "name": "\u512a\u52dd",
         "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
       },
@@ -1700,7 +1736,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 278946,
       "name": "\u97f3\u8272",
       "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 
 > Are you ready to listen JK's songs for 7 DAYS?
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,187 likes - 34 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,928 likes - 34 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 | 33 | [Left and Right \(feat\. Jung Kook of BTS\) \- Instrumental](https://open.spotify.com/track/3QRJgF8HY4zEuboEy4Q1gd) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(feat\. Jung Kook of BTS\) \[Instrumental\]](https://open.spotify.com/album/3wDWcowIrrWgpRmo2ZvFup) | 2:32 |
 | 34 | [Bye from Jung Kook](https://open.spotify.com/track/3sKpXrIdtKtgnzYTZ7jFGS) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:10 |
 
-Snapshot ID: `MCw1YjdjOTE3NzE5NDQ4MzNiZTgxYzQ2YTFhNmNkZWMyMzNhMzFkZDg5`
+Snapshot ID: `MCxiOTI1YWVjNGE1NmU4YzczZjFhMDNmNzRhNGYyNDI1ZjY3YzhhY2Vm`

@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 206000,
       "name": "Cosmic Ray",
       "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
@@ -1960,6 +1960,28 @@
       "duration_ms": 190860,
       "name": "melting cups",
       "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+    },
+    {
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/4dgEPvuxoOfoyciOzTiQQj"
+      },
+      "artists": [
+        {
+          "name": "Umitaro Abe",
+          "url": "https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b"
+        },
+        {
+          "name": "Kaori Takeda",
+          "url": "https://open.spotify.com/artist/7eXYitpmnte1BBdZZsmuHk"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121680,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/57R08VnhqGxJ9gQibB9ARS"
     },
     {
       "album": {

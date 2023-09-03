@@ -937,6 +937,28 @@
     },
     {
       "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159473,
+      "name": "ALAX? - feat. Pihlaja",
+      "url": "https://open.spotify.com/track/1lu7Y0cZ7k8DwiVf99ZE7U"
+    },
+    {
+      "album": {
         "name": "ALAX? (feat. Pihlaja)",
         "url": "https://open.spotify.com/album/534DOVelj65TLLk0VgpkR9"
       },
@@ -2110,7 +2132,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -2974,6 +2996,24 @@
     {
       "album": {
         "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/1cvqApVnrJMcmZYLDywB5L"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149289,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/61m5q3Qk7F7W6foiZDpN5p"
+    },
+    {
+      "album": {
+        "name": "Bye Bye",
         "url": "https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb"
       },
       "artists": [
@@ -3592,7 +3632,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 152124,
       "name": "Clean",
       "url": "https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK"
@@ -3990,7 +4030,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -8258,7 +8298,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 204329,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/1hNq0VwF1aVJbp4YqJKVm7"
@@ -8853,6 +8893,24 @@
     },
     {
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/0aunt675a1C2mknBYoAlpK"
       },
@@ -8944,6 +9002,24 @@
       "duration_ms": 113142,
       "name": "HULK FLOWGAN",
       "url": "https://open.spotify.com/track/1Dq13oVv7xF0if79Fh2bOf"
+    },
+    {
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127446,
+      "name": "Hummani Hei",
+      "url": "https://open.spotify.com/track/2yXcHn05Obi9akJ1tkfhwA"
     },
     {
       "album": {
@@ -11989,6 +12065,24 @@
     },
     {
       "album": {
+        "name": "Katujen Kuningas",
+        "url": "https://open.spotify.com/album/6aR8qlBrMMu6MFAtGjFGIy"
+      },
+      "artists": [
+        {
+          "name": "KUHLMAN",
+          "url": "https://open.spotify.com/artist/0XY2Au1uR2E7bQNQQtIWc2"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Katujen Kuningas",
+      "url": "https://open.spotify.com/track/4ZwsNmyDjQCttPiw3wfpmk"
+    },
+    {
+      "album": {
         "name": "Kauemmas",
         "url": "https://open.spotify.com/album/1RwarNgICtwirnl65jNkyG"
       },
@@ -13108,7 +13202,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 197085,
       "name": "Kompastun",
       "url": "https://open.spotify.com/track/0y0FKZsyh3vtqVGpDKr8oJ"
@@ -13794,7 +13888,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 163818,
       "name": "K\u00f6yh\u00e4 laulaa (feat. Diandra)",
       "url": "https://open.spotify.com/track/3csvI7Z6Zi0uiQbbpUkvhE"
@@ -14272,6 +14366,24 @@
       "duration_ms": 175214,
       "name": "Lelu",
       "url": "https://open.spotify.com/track/7t7StcMUr1cqBZiRgDWwEs"
+    },
+    {
+      "album": {
+        "name": "less is more",
+        "url": "https://open.spotify.com/album/6jicQMvl1bvDRMIYm8jqaT"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "less is more",
+      "url": "https://open.spotify.com/track/6dR9sSjpDTOA2iYWpmczMv"
     },
     {
       "album": {
@@ -16251,6 +16363,24 @@
     },
     {
       "album": {
+        "name": "Meist\u00e4 j\u00e4\u00e4 j\u00e4lki",
+        "url": "https://open.spotify.com/album/24141qHrvAfIdIOmb40LJ5"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234005,
+      "name": "Meist\u00e4 j\u00e4\u00e4 j\u00e4lki",
+      "url": "https://open.spotify.com/track/6JixlZ0ArxQjJ2bEUyT9tb"
+    },
+    {
+      "album": {
         "name": "Meit ei oo",
         "url": "https://open.spotify.com/album/4Yb8i9q3s9NQr0Fljwx5GL"
       },
@@ -16334,7 +16464,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 172319,
       "name": "Melodia",
       "url": "https://open.spotify.com/track/5HNCbOWhhPNHzZIPyNx1GN"
@@ -17074,7 +17204,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 159545,
       "name": "Missio",
       "url": "https://open.spotify.com/track/1mhmASpuZz5ideIXmL3cvC"
@@ -17216,7 +17346,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 202184,
       "name": "Mit\u00e4 n\u00e4il korteil saa?",
       "url": "https://open.spotify.com/track/00HzPyMHUN8aafKYCia7VQ"
@@ -17622,6 +17752,24 @@
       "duration_ms": 184515,
       "name": "Mua ei voi pelastaa",
       "url": "https://open.spotify.com/track/47drlryQwQv8K2z0WzP4RZ"
+    },
+    {
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185038,
+      "name": "Muistan",
+      "url": "https://open.spotify.com/track/3YPh4DNsDdryk2UNjeMcNh"
     },
     {
       "album": {
@@ -18292,6 +18440,24 @@
       "duration_ms": 162972,
       "name": "M\u00c4TRIX (feat. MELO)",
       "url": "https://open.spotify.com/track/2AEjhq8vGUyokvgVL3E6PW"
+    },
+    {
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188867,
+      "name": "M\u00e4\u00e4 Oon Se Mies",
+      "url": "https://open.spotify.com/track/3cgaCtWz2Xpwp5ZYsAZKAO"
     },
     {
       "album": {
@@ -20198,7 +20364,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 203857,
       "name": "Paras osa",
       "url": "https://open.spotify.com/track/6vKo37eHfd7O6uraCVtpiB"
@@ -20304,7 +20470,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 161476,
       "name": "PARTYBOY",
       "url": "https://open.spotify.com/track/2ZJ50ZqUlqFnva0hCvmWkh"
@@ -20783,6 +20949,28 @@
     },
     {
       "album": {
+        "name": "Pimee (feat. BESS)",
+        "url": "https://open.spotify.com/album/634YAJrYaAofZGXDp8lHHG"
+      },
+      "artists": [
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        },
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158987,
+      "name": "Pimee (feat. BESS)",
+      "url": "https://open.spotify.com/track/0HxPzvkpUhADgfRnXNF6zS"
+    },
+    {
+      "album": {
         "name": "Pimeys",
         "url": "https://open.spotify.com/album/0op6pgGScA6JJBB0ZZWqG8"
       },
@@ -20870,6 +21058,24 @@
       "duration_ms": 128257,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/1vQoEeHAKr8OIGIMFY2yAj"
+    },
+    {
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128257,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/2cSDpq1IHBTpfPvv2ulQY4"
     },
     {
       "album": {
@@ -22308,7 +22514,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 124369,
       "name": "Rovio",
       "url": "https://open.spotify.com/track/63UgakSx0nTPPW0dxv55Hd"
@@ -23120,10 +23326,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 151014,
       "name": "Sepp\u00e4",
       "url": "https://open.spotify.com/track/6YuAnpBbgbMqIf2jopi2bZ"
+    },
+    {
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151014,
+      "name": "Sepp\u00e4",
+      "url": "https://open.spotify.com/track/7JyQm1SpcSCH55Hezxof0c"
     },
     {
       "album": {
@@ -23912,6 +24136,24 @@
       "duration_ms": 141609,
       "name": "Smash Baby (feat. JVG)",
       "url": "https://open.spotify.com/track/43aRo9Yxlj97ZlEOwCGJXk"
+    },
+    {
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Sm\u00e5 Grabbar",
+      "url": "https://open.spotify.com/track/5BKR6PTLyeS8ZnanWuL8DY"
     },
     {
       "album": {
@@ -26295,6 +26537,24 @@
     },
     {
       "album": {
+        "name": "Tilip\u00e4iv\u00e4",
+        "url": "https://open.spotify.com/album/6PhRpN6F2s646vppm5ye50"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178615,
+      "name": "Tilip\u00e4iv\u00e4",
+      "url": "https://open.spotify.com/track/1xE3bYl2RqvsZasAX2uF9E"
+    },
+    {
+      "album": {
         "name": "Tippa-T",
         "url": "https://open.spotify.com/album/4DaSkc8aIg2Kqk7vqdwoDo"
       },
@@ -26599,6 +26859,32 @@
     },
     {
       "album": {
+        "name": "Triple A (feat. NLE Choppa)",
+        "url": "https://open.spotify.com/album/1BqWHYtZsKQk3481J2He2J"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159960,
+      "name": "Triple A (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/6FxPe73T6B7G03Y7rFpufB"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -26860,6 +27146,24 @@
       "duration_ms": 159796,
       "name": "Tuu munkaa Tokyoon",
       "url": "https://open.spotify.com/track/4j6siGqLjy719lBHj4Qubm"
+    },
+    {
+      "album": {
+        "name": "Kertoimia Vastaan",
+        "url": "https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161510,
+      "name": "Tuurii",
+      "url": "https://open.spotify.com/track/5GLLlUBO77NzJfcZPgTdVz"
     },
     {
       "album": {
@@ -28144,7 +28448,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 218473,
       "name": "Vastustamaton",
       "url": "https://open.spotify.com/track/12zIIWVV5guPmsV7yQGsOM"
@@ -28676,7 +28980,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 209052,
       "name": "Viimeisi\u00e4 sanoja",
       "url": "https://open.spotify.com/track/3STatpBP2zJ1CTca7PRSKp"
@@ -29296,7 +29600,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

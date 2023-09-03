@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Leatherette in cover questa settimana!
 
-524 songs - 1 day 5 hr 4 min
+524 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [Non moriremo mai](https://open.spotify.com/track/6FNoHN4QzgqM5FVISnhplF) | [Bouganville](https://open.spotify.com/artist/5wcaCE2ZVnSUamt3lzm3uI) | [La Grande Evasione](https://open.spotify.com/album/5Rl0BkcT5nNOqijZycnzXk) | 3:23 | 2022-05-09 | 2022-05-13 |
 | [Non piangere](https://open.spotify.com/track/5SPQJsSBOJ4Y99MJRvVjAj) | [Gegenhalt](https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT), [AKA5HA](https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf) | [Non piangere](https://open.spotify.com/album/3T7XAGUrGzV3WINM5DknLK) | 3:33 | 2023-06-22 | 2023-07-28 |
 | [Non Sei Sola](https://open.spotify.com/track/2viAvSGY7YMcDa0fNlSXwk) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW), [Jo Squillo](https://open.spotify.com/artist/12w3NBZ8q6GnSfAzNy19Dl) | [Non Sei Sola](https://open.spotify.com/album/5Y405Tvpkm2PyIWBl6N5ph) | 2:58 | 2022-11-24 | 2023-05-12 |
-| [Non si può fermare](https://open.spotify.com/track/1uxWbcEqOMNWCiZs1o0uok) | [GOLA](https://open.spotify.com/artist/3FfyP3ijUGlnkFF5SSdDSG) | [Non si può fermare](https://open.spotify.com/album/7mqKwmPGBO9WoUcUmeMCf4) | 3:49 | 2023-08-31 |  |
+| [Non si può fermare](https://open.spotify.com/track/1uxWbcEqOMNWCiZs1o0uok) | [GOLA](https://open.spotify.com/artist/3FfyP3ijUGlnkFF5SSdDSG) | [Non si può fermare](https://open.spotify.com/album/7mqKwmPGBO9WoUcUmeMCf4) | 3:52 | 2023-08-31 |  |
 | [Non si vive](https://open.spotify.com/track/27g2rz50khRGwHDuHmh1Pn) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo), [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [YOGA, Pt\. 2](https://open.spotify.com/album/3JtM6J516f4jroMye7ewX4) | 3:32 | 2022-11-24 | 2023-02-01 |
 | [Non è così male](https://open.spotify.com/track/34J9aaAIK8hx44I00gTm1y) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Non è così male](https://open.spotify.com/album/29vLnWfcp2RyY0xUnOIDhT) | 3:12 | 2022-11-24 | 2023-04-07 |
 | [Non È Per Sempre](https://open.spotify.com/track/3hmcaxci5fSfzMdT59gf3M) | [La ragazza dello Sputnik](https://open.spotify.com/artist/3k1ymzgC0JLqsmj6R8WaYB) | [Non È Per Sempre](https://open.spotify.com/album/1ENKtcZOUYJj21mbuki1XI) | 3:28 | 2022-09-22 | 2022-11-25 |

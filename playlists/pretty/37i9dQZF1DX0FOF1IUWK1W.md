@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Luísa Sonza e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,837,334 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,839,758 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Namorando Ou Não \- Ao Vivo](https://open.spotify.com/track/0ZAL7RbP2FsM3rObV60o7T) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Namorando Ou Não \(Ao Vivo\)](https://open.spotify.com/album/6ZjnfGC0jZM3gnucvMpbpf) | 2:48 |
 | 50 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 
-Snapshot ID: `MCxiYjNhNmQ1MTY2ZDE5MzNjOTQyNDg1ZGY2Y2IwOTYxNGZkNDY4YTA4`
+Snapshot ID: `MCxiNTRhZmY0NzVlY2ZiZGFkMTcxMzMwNzU2NTVkMGZlMTQ0NjAwNGVk`

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "album": {
         "name": "A Man Without Love",
         "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "C'est Si Bon",
       "url": "https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 219160,
       "name": "Coming Around Again",
       "url": "https://open.spotify.com/track/58Ga5VQlZMnCUV6ZRqf76k"
@@ -398,7 +416,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 345986,
       "name": "Copacabana (At the Copa) - Long Version",
       "url": "https://open.spotify.com/track/26qO4FFiU8crnSfk2AFia4"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
@@ -802,7 +820,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143426,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/0R2wFVBSGE7elPxW582IWy"
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 200057,
       "name": "If I Can Dream - Live from the '68 Comeback Special",
       "url": "https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 158226,
       "name": "It Had to Be You (Big Band and Vocals)",
       "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 218546,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 95386,
       "name": "Stay",
       "url": "https://open.spotify.com/track/16ov7zgIXo9muo7SwQQPhN"
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 280760,
       "name": "Thank You for Being a Friend",
       "url": "https://open.spotify.com/track/5yNUgA66PbcPIJPOU2eBwR"
@@ -1784,6 +1802,24 @@
       "duration_ms": 198240,
       "name": "The Lady is a Tramp",
       "url": "https://open.spotify.com/track/6ZsKRsnPsdZvXfqqE6bTPy"
+    },
+    {
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "The Longest Time",
+      "url": "https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9"
     },
     {
       "album": {
@@ -1949,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "Pisnicky, ktere Karel miloval",
+        "url": "https://open.spotify.com/album/7DtH75CC7NpoenTvu8A0Av"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington Orchestra",
+          "url": "https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193973,
+      "name": "We Have All The Time In The World (feat. The Duke Ellington Orchestra)",
+      "url": "https://open.spotify.com/track/03qBsFKs6aD6SFk8RqpHm9"
+    },
+    {
+      "album": {
         "name": "Here Where There Is Love",
         "url": "https://open.spotify.com/album/1I5H0kXxePgiHJMFNhJws3"
       },
@@ -2003,6 +2061,24 @@
     },
     {
       "album": {
+        "name": "Now & Then (Reissue)",
+        "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "Yesterday Once More",
+      "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
+    },
+    {
+      "album": {
         "name": "Gossip In The Grain",
         "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
@@ -2050,7 +2126,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
@@ -2068,7 +2144,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 241400,
       "name": "You Win Again",
       "url": "https://open.spotify.com/track/5mwzpzRue1SBWwrbbhXfbf"

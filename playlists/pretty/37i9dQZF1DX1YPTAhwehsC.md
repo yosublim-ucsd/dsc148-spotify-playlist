@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,399 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,445 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 36 | [Stand By Me](https://open.spotify.com/track/33ivIh56dnTsz0kgQmLowp) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Fridayy](https://open.spotify.com/album/1SEcDNGPBdSmJox0dpMqIe) | 3:03 |
 | 37 | [Gang Gang \(feat\. Luh Tyler\)](https://open.spotify.com/track/1nLUcjQbw4rOc6DMNGzQDu) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Sorry 4 The Wait..\. \(Deluxe\)](https://open.spotify.com/album/1ZhwOV5hoXbZayFi89D4EL) | 2:26 |
 | 38 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 |
-| 39 | [Ghetto & Rachet](https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Ghetto & Rachet](https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC) | 2:06 |
+| 39 | [Ghetto & Ratchet](https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Ghetto & Ratchet](https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC) | 2:06 |
 | 40 | [GOTTA BE \(feat\. Rocko Ballin\)](https://open.spotify.com/track/4tyo4d8XntrKsT4fccDAvJ) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x), [Rocko Ballin](https://open.spotify.com/artist/2nfqejhxPMiJPGf8d4fCjl) | [Still Drenchin](https://open.spotify.com/album/4Z1Rgqq0vk5bFGo9OOIejC) | 3:00 |
 | 41 | [Boy Oh Boy](https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Boy Oh Boy](https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1) | 1:57 |
 | 42 | [Thinking Hurts](https://open.spotify.com/track/4g4cBK9ONBO2SCK9LYuTfI) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Thinking Hurts](https://open.spotify.com/album/7x4Z35NPBFuj5WRFURQ0ys) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/4fPJCekTxkvQREfrh27L1O) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Secrets \(feat\. Mariah the Scientist\)](https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu) | 3:13 |
 | 100 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 
-Snapshot ID: `MCw3ZTQ3MjJhODM4YmQ1ODA5MTE3ZTMwMjk4YjFjZjRlOGE3MGE4YTI5`
+Snapshot ID: `MCw3Y2VhYTIzNWQyOWQxMjU3M2RlYzYyNzdiOWNmNDVhYWNhMDAwYTc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Paper Kites
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,789 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,860 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 124 | [The Scull of Lucia](https://open.spotify.com/track/20bC86TdhHky8j8dkjVmpH) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [The Scull of Lucia](https://open.spotify.com/album/5RGqrKUuLfcRNMIN6iuBVy) | 4:11 |
 | 125 | [Cover You](https://open.spotify.com/track/2ieUJFsBqyqFY2ve0RuNyl) | [Phillip LaRue](https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT) | [Colors](https://open.spotify.com/album/54czM290XrgPLNKfs5WChy) | 3:14 |
 | 126 | [Together \(In That Way\)](https://open.spotify.com/track/0vlkQBJ7ARny1Q0sS0E79X) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Together \(In That Way\)](https://open.spotify.com/album/2ycFtiwrhuS5D0Fu4vxXaK) | 4:01 |
-| 127 | [Coming Down On Me](https://open.spotify.com/track/4e6kQ0UAoc9VC44sO1bft6) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Dear Departed](https://open.spotify.com/album/7bxQNgugE8yuO9483R3zrz) | 3:01 |
+| 127 | [Coming Down On Me](https://open.spotify.com/track/1adtRGleBoUUbdzq0m55gq) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Dear Departed](https://open.spotify.com/album/3qfkgLpdFXE7n44ysK6P64) | 3:01 |
 | 128 | [Everybody's Got to Learn](https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino Deluxe \(Child of Summer Edition\)](https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd) | 3:53 |
 | 129 | [Portrait Of A Clear Day](https://open.spotify.com/track/61NuERgW2NGX37TcCcoVfm) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:20 |
 | 130 | [Moonstruck](https://open.spotify.com/track/3c2EJZOuPkXFAqiroBQVox) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Moonstruck](https://open.spotify.com/album/1gEJ7uSk7dwenIOGNtKpuu) | 4:29 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Douglas Fir](https://open.spotify.com/track/4HpILLotJMwD8dWCqarnM6) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Douglas Fir](https://open.spotify.com/album/0h6Ixm40NarXch0eMUwvPe) | 2:44 |
 | 150 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 |
 
-Snapshot ID: `MCxmOGE4MDc3MWNiOGNjN2U2ODlkMGIzYTE4YzE1MDU1NWI0MmY1MTYy`
+Snapshot ID: `MCw4ODA0NGVjYjJjMmRiMTkzYzFkMGMwOGM4MzYxZjRjNGI4MDk3NjMx`

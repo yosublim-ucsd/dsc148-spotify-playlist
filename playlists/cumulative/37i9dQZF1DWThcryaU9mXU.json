@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Seattle to Greaseland",
+        "url": "https://open.spotify.com/album/4AEV6zOQHpeir1oa37YWRc"
+      },
+      "artists": [
+        {
+          "name": "Joel Astley",
+          "url": "https://open.spotify.com/artist/7IVBtfN5PK0ZVVQoU9zcGS"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303370,
+      "name": "Karma Wheel",
+      "url": "https://open.spotify.com/track/1rWNmWtcbwpuZlx1b5ep9x"
+    },
+    {
+      "album": {
         "name": "Big Walter Horton w/ Carey Bell",
         "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 180906,
       "name": "Since My Baby Gone",
       "url": "https://open.spotify.com/track/3usW1XSJR0B6t14znEAGJ9"

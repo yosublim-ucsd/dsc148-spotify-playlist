@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: oceanfromtheblue\)
 
-226 songs - 12 hr 47 min
+227 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 | 2022-11-15 |
 | [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 | 2023-01-10 | 2023-07-08 |
 | [Candy For You](https://open.spotify.com/track/7r32Oz3HuDHfurSAx4iokY) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Candy For You](https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA) | 2:38 | 2023-03-27 | 2023-04-28 |
-| [Candyfloss](https://open.spotify.com/track/6y1fjojRiAE2ZjqXNln4s7) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/14cvpnkqa4TAuqk07eV0Gc) | 3:16 | 2023-07-07 |  |
+| [Candyfloss](https://open.spotify.com/track/0JHkSP9Qdc8MXrF7TN05pT) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/6rvgvS5UBHKyehCptlQOga) | 3:16 | 2023-08-29 |  |
+| [Candyfloss](https://open.spotify.com/track/6y1fjojRiAE2ZjqXNln4s7) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/14cvpnkqa4TAuqk07eV0Gc) | 3:16 | 2023-07-07 | 2023-09-03 |
 | [Chain \(Feat\. Claire Hau\)](https://open.spotify.com/track/4lRkE7xbvrLknlufnkw4s7) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Bind](https://open.spotify.com/album/1sNuOX2i2Y7XiWP8jyPiwr) | 3:19 | 2022-12-05 | 2023-07-08 |
 | [Charging](https://open.spotify.com/track/2hbA6LMP7MrvXLXxgIbzaQ) | [Kiehl](https://open.spotify.com/artist/3booMg3lbOEj85POfZ61mV) | [Charging](https://open.spotify.com/album/2AmKqz3rPk7M0m5O8EBKXh) | 3:30 | 2022-05-28 | 2022-07-28 |
 | [chasing you](https://open.spotify.com/track/7g4ULCcCvfAQXDDRgVeyfv) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [chasing you](https://open.spotify.com/album/38K7xBBVe4XrZm7Y07lNhZ) | 3:06 | 2022-08-02 | 2023-01-21 |

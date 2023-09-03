@@ -4,7 +4,7 @@
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-74 songs - 5 hr 6 min
+75 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [20:30 Matlock](https://open.spotify.com/track/2oaJGdFU48klcIlBgy0hu1) | [King Emerald](https://open.spotify.com/artist/3w2bgMhJPzzbHGYXCtBSA1) | [20:30 Matlock](https://open.spotify.com/album/5AZ5WrnrEmXndCQfgU9Uas) | 3:29 | 2021-10-28 |  |
 | [A bite of papaya](https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [A bite of papaya](https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n) | 4:17 | 2021-10-28 |  |
 | [A Dream I have](https://open.spotify.com/track/4zEH0wmtKUm2T4vLmmJnBi) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:33 | 2021-10-28 |  |
-| [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 | 2021-10-28 |  |
+| [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 | 2021-10-28 | 2023-09-03 |
+| [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/2SHfsvx6kgQnbWD1us8RGp) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/5s7L9VhyEkIY5M4yLadgVR) | 4:29 | 2021-10-28 |  |
 | [All About You \(feat\. Foster The People\) \- Tensnake Remix](https://open.spotify.com/track/1DeI7qWSf8BRIIOtcbEssN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [All About You \(feat\. Foster The People\) \[Tensnake Remix\]](https://open.spotify.com/album/6Dwgd1sa4nYfzbW9eI7Vt6) | 5:26 | 2021-10-28 |  |
 | [Apnea Instructions 04 \- Johannes Albert Remix \- Radio Edit](https://open.spotify.com/track/3q2pd6hTEvTGCanQnKEwaB) | [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Apnea Instructions 04 \(Johannes Albert Remix \- Radio Edit\)](https://open.spotify.com/album/1dXxYYkSS5QtwL83JavGmE) | 4:03 | 2021-10-28 |  |
 | [Ascension](https://open.spotify.com/track/5zXkATrsSKmEWgutgNaJe8) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Ascension](https://open.spotify.com/album/3hleDhTxP5TllrUOUAFlzD) | 3:21 | 2021-10-28 | 2023-02-02 |

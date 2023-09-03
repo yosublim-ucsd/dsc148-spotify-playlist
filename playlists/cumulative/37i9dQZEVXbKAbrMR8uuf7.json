@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 200454,
       "name": "Cuerpo Natural",
       "url": "https://open.spotify.com/track/4EvvYJIu3l45MCUHDvZf7Q"
@@ -9963,6 +9963,32 @@
     },
     {
       "album": {
+        "name": "La Tola",
+        "url": "https://open.spotify.com/album/55eeUV58j5m4pZ53xlybik"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144015,
+      "name": "La Tola",
+      "url": "https://open.spotify.com/track/0hWLbSKDbg2iBhZg8cIRiT"
+    },
+    {
+      "album": {
         "name": "La T\u00f3xica",
         "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
       },
@@ -15000,7 +15026,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 207903,
       "name": "PIDE",
       "url": "https://open.spotify.com/track/2tAwNLAIBtgXdzQOtVq6mL"
@@ -21508,7 +21534,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 200120,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe"

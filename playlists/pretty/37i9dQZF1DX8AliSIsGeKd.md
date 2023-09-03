@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Tonic Walter
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,030 likes - 90 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,176 likes - 90 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 46 | [Venus \- Boys Noize Rework Edit](https://open.spotify.com/track/0wJiQ4ITkXyma4iQBDyD9l) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Venus \(Boys Noize Rework\)](https://open.spotify.com/album/0mALS96AIXJwbd7uNsemmJ) | 3:11 |
 | 47 | [I Like](https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd) | [Bae Blade](https://open.spotify.com/artist/6QWt63IsdMipMmiH0D0aIA) | [Mixed Feelings](https://open.spotify.com/album/3gFpta2STgjcAngM4dyM92) | 4:43 |
 | 48 | [Shankara](https://open.spotify.com/track/1aa8u7t0hlXm2BDUhAj26g) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Shankara](https://open.spotify.com/album/0oPGerf1zzgKbtLHwJtxFC) | 5:10 |
-| 49 | [Old School](https://open.spotify.com/track/0bIrl9bmKPztH1TQCTwuEr) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Old School](https://open.spotify.com/album/5n8Ql5AetOmyb7XNWIPuRw) | 5:31 |
+| 49 | [Old School](https://open.spotify.com/track/0bIrl9bmKPztH1TQCTwuEr) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Old School EP](https://open.spotify.com/album/5n8Ql5AetOmyb7XNWIPuRw) | 5:31 |
 | 50 | [Trouble so Hard](https://open.spotify.com/track/6jYqtmex9AN2MlMIooiWTX) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Matteo Vitanza](https://open.spotify.com/artist/5NjFXNobjTKu8ZV2lFiXRa) | [Trouble so Hard](https://open.spotify.com/album/6hRE7KZ4zdHu9nNuZBQyyT) | 7:06 |
 | 51 | [Cala](https://open.spotify.com/track/6eMVtHaCVxQTI4BhbYZX2w) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Cala](https://open.spotify.com/album/4i0wvUpKtMOz87aPtXXi8q) | 3:58 |
 | 52 | [Forest Mystery](https://open.spotify.com/track/1UfzVF3KVgc05I8HvPtJ6Y) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Forest Mystery](https://open.spotify.com/album/6VtN92LHbDON4S8KV6wPYL) | 6:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Heat Wave](https://open.spotify.com/track/5feuxpw7WjDoOGuL8iqRcG) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Heat Wave](https://open.spotify.com/album/7m0NNUZU9h4Gj7HjPvRQNV) | 6:08 |
 | 90 | [Higher](https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Raredub](https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4) | [HIGHER](https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT) | 5:41 |
 
-Snapshot ID: `MCw0ZmE2YWNlNjNmYzdlNmI0MzYzZmNhNTliYTAzNjQ5MDExODlkMGRi`
+Snapshot ID: `MCw1NjJhZjFmNmY4YTk0ZTc1NjVjMDYzNzhmZTNhNTlmNTY5Y2NkMWQz`

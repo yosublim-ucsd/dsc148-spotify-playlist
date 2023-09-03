@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a?si=n17uk\_oWR\_2qe6Z6WyHLtQ">theARTi$t</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,912 likes - 210 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,958 likes - 210 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 209 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
 | 210 | [Borderline](https://open.spotify.com/track/1wuboor2JTlBQMAdeVoGpi) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [1SRAEL](https://open.spotify.com/artist/1y02diTxNa2t9KTLm5S7bb) | [Borderline](https://open.spotify.com/album/5lz9iL7GHSTZ9HOUK8WFvw) | 4:09 |
 
-Snapshot ID: `MCwxOGQ2YTg2MTdjYTVmODNhNzM4ZGFlYzcwMDJjZjViOGZiNjNlYzMx`
+Snapshot ID: `MCwyYzVjMjhhZGUyYzJmZmQxM2NhNzYyMTZhYTVlODQ4NjdkNDE3Y2U4`

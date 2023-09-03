@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,696 likes - 49 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,752 likes - 49 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [Ooh Wee Another Blessing](https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc) | [Melvin Williams](https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 4:13 |
 | 49 | [Center Of My Joy \- Live](https://open.spotify.com/track/2oKFjzpOQrj2t0lwXlSrjV) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 7:25 |
 
-Snapshot ID: `MCw2NjNjMDY0N2M5ODMyOWU1ZDczYTQ0ZTM1YjU1MzU4ZmVkOTFhZDFk`
+Snapshot ID: `MCw0YWMxYThjOTRkNDUxNTNhMGIxNWY4Y2E0Y2IwYTI2MDI4MzZiZmIw`

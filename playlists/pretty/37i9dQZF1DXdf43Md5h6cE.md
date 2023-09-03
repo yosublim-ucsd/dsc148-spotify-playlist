@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,786 likes - 118 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,926 likes - 118 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 117 | [Eventually](https://open.spotify.com/track/3lRJJ1OntPtdX9lTB0w4io) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 9:00 |
 | 118 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 |
 
-Snapshot ID: `MCxjZDZkMzM3NWI1Mjc3ZDRhZmIxMmYyNDU0ZDg2MWFiOTJiNzRhZGQ2`
+Snapshot ID: `MCw2NmFlMThkOGIzZTliY2MzMTRmNjBiMzJhYTczMDQzOGE5MDE4OWZl`

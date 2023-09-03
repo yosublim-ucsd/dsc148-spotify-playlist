@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-158 songs - 11 hr 21 min
+160 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Behind](https://open.spotify.com/track/6HvtI4dnFqS2YHxQxSRN5R) | [Hyena Park](https://open.spotify.com/artist/1FPKbjt3JFJCUL0Tjo4V4E) | [JAZZ DIVA](https://open.spotify.com/album/46RpUdfLtkuprdnQh69cPb) | 5:21 | 2022-05-03 |  |
 | [Best Friend](https://open.spotify.com/track/32bStQb6gjhmWLoiAAYSno) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Retrospect](https://open.spotify.com/album/4Eb1dLsvOh15opaO5bVCru) | 2:47 | 2023-01-05 |  |
 | [Between Us \(Feat\. OVCOCO\)](https://open.spotify.com/track/7e6bMKP3CEeyg6jbjFDcrk) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE), [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght) | [Between Us \(Feat\. OVCOCO\)](https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs) | 3:19 | 2022-05-03 |  |
-| [Bird+Disposable \- Live at Nodeul Live House, 2021](https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202 \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/album/3bojTh831YuLITkk3ncNjh) | 4:51 | 2022-05-03 |  |
+| [Bird+Disposable \- Live at Nodeul Live House, 2021](https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202 \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/album/3bojTh831YuLITkk3ncNjh) | 4:51 | 2022-05-03 | 2023-09-03 |
 | [Blue in LED](https://open.spotify.com/track/1RuirFlIK2j9dlHoIUATWo) | [윤청미](https://open.spotify.com/artist/2ZzUbppeRa137R18Cxgj4A) | [Blue in LED](https://open.spotify.com/album/140zLUWx5AHU4b9PbDjaTI) | 3:30 | 2022-05-03 | 2022-07-29 |
 | [Blue in Led](https://open.spotify.com/track/1xZB3IMZ3LSbDoborownFf) | [윤청미](https://open.spotify.com/artist/05uzbpyy2ouCUFKFsmhiwV) | [Blue in Led](https://open.spotify.com/album/0wa11yZGqW3kCVb46jmKZD) | 3:30 | 2022-07-08 | 2023-02-08 |
 | [Bohemian](https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw) | [Gypsum](https://open.spotify.com/artist/6qV7FBGBGmMOuGRW8gzuP8) | [Bohemian](https://open.spotify.com/album/4yu5JDYqSwsPnO0gozaW6Q) | 4:18 | 2022-05-18 |  |
@@ -133,7 +133,8 @@
 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 | 2022-05-18 |  |
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 | 2023-02-08 |
 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 | 2022-05-03 | 2023-02-08 |
-| [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 | 2023-01-13 |  |
+| [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 | 2023-01-13 | 2023-09-03 |
+| [Tic Toc](https://open.spotify.com/track/3v8tZDqJGf67V31paDAbd8) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/1pPdybb7qeAsSFyxV2YerW) | 3:29 | 2023-07-24 |  |
 | [Time \(for Annie\)](https://open.spotify.com/track/4yWXTxic6c42tqgPpnZgOL) | [Sun\-Ho Frank Kim](https://open.spotify.com/artist/0DhWxMIv10oVw73Rkd3Ql7) | [Time](https://open.spotify.com/album/1Nr5iVRskqbUFA846VjmqI) | 3:07 | 2022-05-03 | 2023-02-08 |
 | [Time Flies](https://open.spotify.com/track/7f3VOozkefRBvZRyeEbsYk) | [Hyeonseok Jin](https://open.spotify.com/artist/264pWJmBJCG17xYUGdDWyG) | [Time Flies](https://open.spotify.com/album/0YO5jinKkBWg319JzpRxOt) | 3:37 | 2022-11-11 |  |
 | [Time of Love](https://open.spotify.com/track/5v3ESa7ytuyb2I2YJbCgPF) | [Leon Ivins](https://open.spotify.com/artist/1rtKDIjSOPLNteccCWJ3ON) | [Glowing Memory Puzzle](https://open.spotify.com/album/4qLsAEK84iy6iJJwb46MMZ) | 3:52 | 2023-07-19 |  |
@@ -161,6 +162,7 @@
 | [무지개나라](https://open.spotify.com/track/6hxwYtDkQ35mNuYsiRgqId) | [승연아빠](https://open.spotify.com/artist/4cEdf85FeV9HB2sxDxzyJg) | [Story 25](https://open.spotify.com/album/08hWM6WLKVBeHqP6vDyLM2) | 2:46 | 2022-11-11 |  |
 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/3u2k4Mr3hpobfuDp9BLE1K) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/3BTYvOdXNu6CEKExO8jX6F) | 4:18 | 2022-05-18 | 2022-07-29 |
 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/6IFdEC905IVfVKkEg5oCIf) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/5pQzpyLvHtOefFVPCRK0Wg) | 4:18 | 2022-07-08 | 2023-02-08 |
+| [새+일회용품 Bird+Disposable \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:51 | 2023-07-24 |  |
 | [수암로](https://open.spotify.com/track/1agp7haerf4CHKUOix59bO) | [Uri](https://open.spotify.com/artist/2tG5Ksvgakzg0AxoMutgwE) | [Diary 11 의정부](https://open.spotify.com/album/70xNNxytzLqRmn4X2XvvLf) | 2:58 | 2022-11-11 |  |
 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 | 2022-05-03 |  |
 | [퇴사하는 날 The Last Day of Work\(Dobby is Free\)](https://open.spotify.com/track/1cLGyPRsyMZzX23TbG9LdA) | [조영훈 Younghoon Cho](https://open.spotify.com/artist/7KOFCJ3yZTiPDj215mxq3G) | [퇴사하는 날 The Last Day of Work](https://open.spotify.com/album/2GwqgiOoFdm4lYEE5dztHW) | 2:25 | 2022-05-03 | 2022-05-19 |

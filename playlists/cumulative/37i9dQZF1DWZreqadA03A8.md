@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Day In The Life \- Remastered 2009](https://open.spotify.com/track/0hKRSZhUGEhKU6aNSPBACZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 5:37 | 2019-09-25 | 2023-09-02 |
+| [A Day In The Life \- Remastered 2009](https://open.spotify.com/track/0hKRSZhUGEhKU6aNSPBACZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 5:37 | 2019-09-25 |  |
 | [All You Need Is Love \- Remastered](https://open.spotify.com/track/2u8yti7fZtXMbwqex7M0DZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine \(Remastered\)](https://open.spotify.com/album/47bcKzmKgmMPHXNVOWpLiu) | 3:51 | 2019-09-25 | 2022-07-29 |
 | [All You Need Is Love \- Remastered 2009](https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Magical Mystery Tour \(Remastered\)](https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj) | 3:50 | 2019-09-25 |  |
 | [All You Need Is Love \- Remastered 2015](https://open.spotify.com/track/6KqiVlOLfDzJViJVAPym1p) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:47 | 2019-09-25 | 2022-11-13 |

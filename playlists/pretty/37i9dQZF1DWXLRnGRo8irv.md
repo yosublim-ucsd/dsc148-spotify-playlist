@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: OH MY GIRL\(오마이걸\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,075 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,073 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 33 | [rose](https://open.spotify.com/track/3m7FV7LDinrStxrowAjaoD) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [rose](https://open.spotify.com/album/3WuQnXDwZLuvQq51IgqPYD) | 3:13 |
 | 34 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 |
 | 35 | [Circle of MOOL](https://open.spotify.com/track/3Fi7vPZNFnpwn3shejR8uD) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [Circle of MOOL](https://open.spotify.com/album/71OQrc1x4ssp3AKuNQS50d) | 4:32 |
-| 36 | [Youth \(Prod\. PARKMOONCHI\)](https://open.spotify.com/track/2xnxOKwOW7xslbM6RrFj69) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [Youth](https://open.spotify.com/album/23RdCGWSBzuXlpJNrYwyad) | 4:10 |
+| 36 | [소년소녀 \(Prod\. 박문치\) Youth \(Prod\. PARKMOONCHI\)](https://open.spotify.com/track/60e9A6HuYFUlJlE2Aa27D5) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [소년소녀 Youth](https://open.spotify.com/album/1RgqMSEw7DqI8njfRLGWXe) | 4:10 |
 | 37 | [We Gonna Be](https://open.spotify.com/track/6JXQSnoQx0ilxgS0wchW7k) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [We Gonna Be](https://open.spotify.com/album/6LqbUc9zsE7M6Zj5SRuq5k) | 4:16 |
 | 38 | [Fever](https://open.spotify.com/track/6ebvjnh2XyjJYZIO4fDAR3) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [We Gonna Be](https://open.spotify.com/album/6LqbUc9zsE7M6Zj5SRuq5k) | 3:14 |
 | 39 | [EUROPA](https://open.spotify.com/track/4W4VAVZneeUiwApBDFFMoB) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [EUROPA](https://open.spotify.com/album/5yMQGkOurBkgYa6f1vDof9) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Bloom](https://open.spotify.com/track/72sm32NK5bCQFrzH7zNp1Q) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [The First Bloom](https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S) | 3:07 |
 | 50 | [heather](https://open.spotify.com/track/2KwNBFG4FWgwWnncn2g2pu) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [The First Bloom](https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S) | 1:54 |
 
-Snapshot ID: `MCwyOTYwNDhlZGVlOTdlNmY1MDc2NzYxNzMzMDFiMWZjNTVhY2YxNDMz`
+Snapshot ID: `MCwwYjFmNjgxYmZmY2M3YWM0N2U5NTA3NmQ5YjllNjMyNDIyNWE0YzE0`

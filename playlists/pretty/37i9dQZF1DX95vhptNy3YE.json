@@ -1,12 +1,12 @@
 {
   "description": "Duquesa e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 214968,
+  "num_followers": 215030,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGVmZTRjZTAzMDRkNmZhNmI2NGZjYWIwZmRjMjFhOTEyMTY0MzJm",
+  "snapshot_id": "MCw5MDUwOTVkMzMyZmY5OWQ1MjY2MDg5ZDYwZGYxY2QzOGUxNzlmYjlj",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -251,6 +251,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "DVD Fases Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1xyir17L6OpZDZzOJAVuwy"
+      },
+      "artists": [
+        {
+          "name": "Suel",
+          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
+        },
+        {
+          "name": "Tierry",
+          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
+        }
+      ],
+      "duration_ms": 194753,
+      "name": "Me Assume Ou Me Esquece - Ao Vivo",
+      "url": "https://open.spotify.com/track/4yz7AL8Ym6DkRlnekiA8vM"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Virus Love",
         "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 232195,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "DVD Fases Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1xyir17L6OpZDZzOJAVuwy"
-      },
-      "artists": [
-        {
-          "name": "Suel",
-          "url": "https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK"
-        },
-        {
-          "name": "Tierry",
-          "url": "https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8"
-        }
-      ],
-      "duration_ms": 194753,
-      "name": "Me Assume Ou Me Esquece - Ao Vivo",
-      "url": "https://open.spotify.com/track/4yz7AL8Ym6DkRlnekiA8vM"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -835,26 +835,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Hentai",
-        "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
+        "name": "De Repente... Curitiba - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/112AFXwCPqiMKowuRSCevu"
       },
       "artists": [
         {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Hentai",
-      "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+      "duration_ms": 327017,
+      "name": "T\u00f4 Com Saudade / Al\u00f4 / Fugidinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/6OHGjBE0LvIGTlRP7KMpdh"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -883,18 +875,50 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "De Repente... Curitiba - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/112AFXwCPqiMKowuRSCevu"
+        "name": "Hentai",
+        "url": "https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02"
       },
       "artists": [
         {
-          "name": "Rodriguinho",
-          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 327017,
-      "name": "T\u00f4 Com Saudade / Al\u00f4 / Fugidinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/6OHGjBE0LvIGTlRP7KMpdh"
+      "duration_ms": 142500,
+      "name": "Hentai",
+      "url": "https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1011,30 +1035,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Tanto Faz",
         "url": "https://open.spotify.com/album/241VujP1Ob0JUurQFAbhrx"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Nova Wave, Pt. 2",
-        "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
-      },
-      "artists": [
-        {
-          "name": "Shaodree",
-          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
-        }
-      ],
-      "duration_ms": 162767,
-      "name": "1 Minuto",
-      "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Falar de Amor",
         "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Nova Wave, Pt. 2",
+        "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "1 Minuto",
+      "url": "https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz"
     },
     {
       "added_at": "2023-09-01 03:01:00",

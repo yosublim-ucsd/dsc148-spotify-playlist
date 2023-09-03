@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Travis Scott
 
-834 songs - 1 day 15 hr 57 min
+835 songs - 1 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [5AM](https://open.spotify.com/track/3gYut1o4Wp1yPtpw8vLymj) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT) | [5AM](https://open.spotify.com/album/0OV7ADd4vn1iTdB1h3g0R9) | 2:18 | 2023-03-17 | 2023-03-28 |
 | [6 Months \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/15MObTsMBIdr35hEa4Fgz4) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 2:55 | 2022-06-17 | 2022-08-27 |
 | [\[Admire Her\] \(with Gunna\)](https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 2:37 | 2022-04-18 | 2022-05-20 |
-| [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8) | 2:09 | 2023-08-11 |  |
+| [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8) | 2:09 | 2023-08-11 | 2023-09-03 |
+| [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:09 | 2023-08-11 |  |
 | [Abandoned](https://open.spotify.com/track/5C0x9o6J37xbQgCWRvfHM7) | [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM) | [Abandoned](https://open.spotify.com/album/6aah8TZjuMfUTwq5dxYuYP) | 2:56 | 2021-12-17 | 2022-01-22 |
 | [Activate \(feat\. Future\)](https://open.spotify.com/track/5PRdakfAVoACShGYP4zOsj) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:42 | 2023-04-07 | 2023-05-27 |
 | [Active](https://open.spotify.com/track/04OW3p7V9ACVSttnuTfikE) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Active](https://open.spotify.com/album/3F3kfa81UeFxORdaFa8dzE) | 2:54 | 2022-07-01 | 2022-08-27 |

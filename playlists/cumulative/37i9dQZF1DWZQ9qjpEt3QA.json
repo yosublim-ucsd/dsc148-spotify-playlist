@@ -512,6 +512,28 @@
     {
       "album": {
         "name": "Groovin (Feat. Jue)",
+        "url": "https://open.spotify.com/album/6oTEsDbZevj1Q0XJIMPlwk"
+      },
+      "artists": [
+        {
+          "name": "JINex",
+          "url": "https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT"
+        },
+        {
+          "name": "Jue",
+          "url": "https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202499,
+      "name": "Groovin (feat. Jue)",
+      "url": "https://open.spotify.com/track/6U3c49IZbXVJopmisWnSnS"
+    },
+    {
+      "album": {
+        "name": "Groovin (Feat. Jue)",
         "url": "https://open.spotify.com/album/0os1fLqjWmaWiEdYik02c0"
       },
       "artists": [
@@ -526,7 +548,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 202500,
       "name": "Groovin (Feat. Jue)",
       "url": "https://open.spotify.com/track/3lU74wFGWyiuSCD3ePWwks"

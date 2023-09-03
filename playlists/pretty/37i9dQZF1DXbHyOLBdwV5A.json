@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 112191,
+  "num_followers": 112304,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWVjNGY1YzRkZmY3YzhhOWJiYmUxNzQ1ODE4YjVlMGIwODlhMDdh",
+  "snapshot_id": "MCxhOGFiNTNmYWY0YTY1YzMyMGVlMTIxNmUyOThiY2MzNTE3YWI0YjU1",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:53",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
         "name": "Joquebede (Remix)",
         "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 142285,
       "name": "Joquebede - Remix",
       "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -499,30 +499,6 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Passando pela Prova (Remix)",
-        "url": "https://open.spotify.com/album/6YqMXzETgPEmlzcTpaXe75"
-      },
-      "artists": [
-        {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        },
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        }
-      ],
-      "duration_ms": 123995,
-      "name": "Passando pela Prova - Remix",
-      "url": "https://open.spotify.com/track/2B7grlH1c3eXEBCrBdX85D"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
         "name": "Deus \u00c9 Bom o Tempo Todo",
         "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 160846,
       "name": "Deus \u00c9 Bom o Tempo Todo",
       "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "Passando pela Prova (Remix)",
+        "url": "https://open.spotify.com/album/6YqMXzETgPEmlzcTpaXe75"
+      },
+      "artists": [
+        {
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        }
+      ],
+      "duration_ms": 123995,
+      "name": "Passando pela Prova - Remix",
+      "url": "https://open.spotify.com/track/2B7grlH1c3eXEBCrBdX85D"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 247862,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
         "name": "Onde Eu Quero Habitar",
         "url": "https://open.spotify.com/album/0MfpVRkb3k8zJTFw8NfPmR"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 242990,
       "name": "Onde Eu Quero Habitar",
       "url": "https://open.spotify.com/track/6W4DedZJXKRSR9zlpvL2cY"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 247862,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -767,18 +767,26 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Ok!",
-        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
+        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
       },
       "artists": [
         {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "VITOHRIA SOUNDS",
+          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
         }
       ],
-      "duration_ms": 150062,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
+      "duration_ms": 195140,
+      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -807,26 +815,18 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+        "name": "Ok!",
+        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 195140,
-      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
+      "duration_ms": 150062,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -1347,26 +1347,22 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Vejo o Teu Amor",
-        "url": "https://open.spotify.com/album/1s57AU2OPwk6TvZukEe5RL"
+        "name": "Pique Rei Davi (Remix)",
+        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
       },
       "artists": [
         {
-          "name": "Drade Bass Music",
-          "url": "https://open.spotify.com/artist/5uFFkr6QDRc2toIDDVCqop"
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
         },
         {
-          "name": "Pedro Caciano",
-          "url": "https://open.spotify.com/artist/48Xgv6vVN4CQGgIWaQtbrN"
-        },
-        {
-          "name": "L\u00e9o Negrelli",
-          "url": "https://open.spotify.com/artist/05UjSySbfIVMmDJvpcq0zo"
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         }
       ],
-      "duration_ms": 150138,
-      "name": "Vejo o Teu Amor",
-      "url": "https://open.spotify.com/track/4BVlnHrTr3l58riMroKcT3"
+      "duration_ms": 113777,
+      "name": "Pique Rei Davi - Remix",
+      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
     },
     {
       "added_at": "2023-09-01 06:00:53",
@@ -1411,26 +1407,6 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Fogo de Deus",
-        "url": "https://open.spotify.com/album/2xrNzxLH7tyqjKtDiimLf0"
-      },
-      "artists": [
-        {
-          "name": "DJ MP7",
-          "url": "https://open.spotify.com/artist/4aul0cD22Afw1rdQZzJizF"
-        },
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Fogo de Deus",
-      "url": "https://open.spotify.com/track/4Ir1Kc6Re3iZRh2oLF5sTU"
-    },
-    {
-      "added_at": "2023-09-01 06:00:53",
-      "album": {
         "name": "Marcas (Remix)",
         "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
       },
@@ -1451,22 +1427,46 @@
     {
       "added_at": "2023-09-01 06:00:53",
       "album": {
-        "name": "Pique Rei Davi (Remix)",
-        "url": "https://open.spotify.com/album/0mhHx49Dugoxr3FEjjq60Q"
+        "name": "Vejo o Teu Amor",
+        "url": "https://open.spotify.com/album/1s57AU2OPwk6TvZukEe5RL"
       },
       "artists": [
         {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+          "name": "Drade Bass Music",
+          "url": "https://open.spotify.com/artist/5uFFkr6QDRc2toIDDVCqop"
         },
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "Pedro Caciano",
+          "url": "https://open.spotify.com/artist/48Xgv6vVN4CQGgIWaQtbrN"
+        },
+        {
+          "name": "L\u00e9o Negrelli",
+          "url": "https://open.spotify.com/artist/05UjSySbfIVMmDJvpcq0zo"
         }
       ],
-      "duration_ms": 113777,
-      "name": "Pique Rei Davi - Remix",
-      "url": "https://open.spotify.com/track/4c09bY8MeyRqyExO11rXIH"
+      "duration_ms": 150138,
+      "name": "Vejo o Teu Amor",
+      "url": "https://open.spotify.com/track/4BVlnHrTr3l58riMroKcT3"
+    },
+    {
+      "added_at": "2023-09-01 06:00:53",
+      "album": {
+        "name": "Fogo de Deus",
+        "url": "https://open.spotify.com/album/2xrNzxLH7tyqjKtDiimLf0"
+      },
+      "artists": [
+        {
+          "name": "DJ MP7",
+          "url": "https://open.spotify.com/artist/4aul0cD22Afw1rdQZzJizF"
+        },
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Fogo de Deus",
+      "url": "https://open.spotify.com/track/4Ir1Kc6Re3iZRh2oLF5sTU"
     },
     {
       "added_at": "2023-09-01 06:00:53",

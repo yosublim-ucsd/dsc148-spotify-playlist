@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150181,
+  "num_followers": 150187,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODMyNTQ2OTNmMjBjMmNlMzQ0ODBkYTI0OTcwYTUyNmQ1OTMwNWFi",
+  "snapshot_id": "MCw5MWMyNjk1NWE0OTRiNmI0MDcwZGM1ZmY1OWZjMDAwNDJmNmFjNDNm",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Was it Worth the Wait",
-        "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
-      },
-      "artists": [
-        {
-          "name": "Chris Hosier",
-          "url": "https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "Country Slide",
-      "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Mud Digger 10",
         "url": "https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 162332,
       "name": "Kiss My Ass",
       "url": "https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Was it Worth the Wait",
+        "url": "https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm"
+      },
+      "artists": [
+        {
+          "name": "Chris Hosier",
+          "url": "https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22"
+        }
+      ],
+      "duration_ms": 170026,
+      "name": "Country Slide",
+      "url": "https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4"
     },
     {
       "added_at": "2023-08-21 15:41:01",

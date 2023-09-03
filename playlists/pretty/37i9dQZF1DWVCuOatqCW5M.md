@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Palak Muchhal
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,960 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,000 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Bin Tere](https://open.spotify.com/track/3HmkI0yLP6fE6wPrjjTnWJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Bin Tere](https://open.spotify.com/album/4vTudmkF2X0nlMCcXMUixp) | 3:26 |
 | 50 | [Jannat](https://open.spotify.com/track/0qJO8QgG5C8mUyPA827c8R) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Jannat](https://open.spotify.com/album/4Bx8C5p2ElDIYTokkN7Ghz) | 2:33 |
 
-Snapshot ID: `MCwwYjJjMWNiZmE3M2I1YmUzNzg1MDNlYmJhZDE5YjQ5OTJmYjllYjAx`
+Snapshot ID: `MCwzN2U1MTg2YjVmZWM5Mzg1MzJkZjBiNDYxNDIwNmQ2M2ZiOTkwOGEz`

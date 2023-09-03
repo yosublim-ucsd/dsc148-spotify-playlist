@@ -4,7 +4,7 @@
 
 > Una relajante selección de sonidos de lluvia.
 
-276 songs - 13 hr 0 min
+277 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Agumbe \(Rain\)](https://open.spotify.com/track/7qq69TmR3SPVHsnk1avVvw) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Karnataka \(Rain\)](https://open.spotify.com/album/66ntfonNc1lpN3fuYFZ7lk) | 3:01 | 2023-06-16 |  |
 | [Aint No Sunshine When There's Rain](https://open.spotify.com/track/6SZvCnStgcYX3Rlj5ttODW) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2023-06-16 |  |
 | [Ambience: Forest Rain](https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Ambience: Forest Rain](https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9) | 2:48 | 2023-06-16 |  |
+| [Ambient Rain](https://open.spotify.com/track/4HgrTAqOd1cc5VGoq6j0m7) | [Mindful Audio](https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP) | [Gentle Rains](https://open.spotify.com/album/2gjjR6rmLktToYJtGmjHEs) | 2:40 | 2023-06-16 |  |
 | [Ambient Rain Noise](https://open.spotify.com/track/4g6Vw8odUtPpxCQqpZwfGR) | [Dark Focus](https://open.spotify.com/artist/2njHaC9RSwt6ySM3HgGgfB) | [Ambient Nature Noise](https://open.spotify.com/album/5i3bk6Nn1ypbejqfIgNhod) | 2:30 | 2023-06-16 |  |
 | [April Rain Meditation](https://open.spotify.com/track/5XBmqFwqD1vd7mDqQLLneb) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Magic Skies](https://open.spotify.com/album/38Qhx2XFJufpeO72WTYrQK) | 3:54 | 2023-06-16 |  |
 | [Backyard Drops](https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz) | [The Rainy Jungle](https://open.spotify.com/artist/4iBwOwjKNuOB8vlwQ3EAKC) | [Backyard Drops](https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ) | 2:24 | 2023-06-16 |  |
@@ -271,7 +272,7 @@
 | [That's Real Intense](https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I) | [Worrysome Skies](https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn) | [After Midnight](https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R) | 2:01 | 2023-06-16 |  |
 | [The Gentle Rains Of Summer](https://open.spotify.com/track/3FVvaFKKyjafGHkwzj73o4) | [Mississippi Nature Recording Society](https://open.spotify.com/artist/3JuC7m69FBuJpCuRLt6HLo) | [Mississippi Rain](https://open.spotify.com/album/3FAYpeYN8lseVewV0dvboL) | 3:24 | 2023-06-16 |  |
 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [Moods & Water sounds](https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 | 2023-06-16 |  |
-| [Thick White Rain](https://open.spotify.com/track/2BlC1NHJ7M27NlqIqwRoKa) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [White Noise Rain](https://open.spotify.com/album/788fJUzqwO7ZUut266HJu5) | 3:35 | 2023-06-16 |  |
+| [Thick White Rain](https://open.spotify.com/track/2BlC1NHJ7M27NlqIqwRoKa) | [Dr\. Dreammaker](https://open.spotify.com/artist/761jLrJ3YSvCWz7F0NPZJY) | [White Noise Rain](https://open.spotify.com/album/788fJUzqwO7ZUut266HJu5) | 3:35 | 2023-06-16 | 2023-09-03 |
 | [Total Rainlax](https://open.spotify.com/track/6V6H6D9oyYKDULYGlRvG2Z) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Total Relax Rain Sounds](https://open.spotify.com/album/2gk3zCG7C6FmrRDXHuiSG1) | 2:26 | 2023-06-16 |  |
 | [Tropic Rain](https://open.spotify.com/track/5gIOLEi9WsMudy3tfGfJNH) | [I See Rainbows](https://open.spotify.com/artist/3gsxqVDwafHaGerSAf235l) | [It's Raining Everywhere](https://open.spotify.com/album/4EZAPSadNgbhz6akdhN5vA) | 2:38 | 2023-06-16 |  |
 | [Tuck You In Rain](https://open.spotify.com/track/2bEXK4xPzMh7Q0TQkGAE06) | [Athmospherical FX](https://open.spotify.com/artist/1sOEjr4Po1kf0wbHl6aeGr) | [Athmospherical Rain](https://open.spotify.com/album/60DQWCF0KxebBjDY5Tprgr) | 2:44 | 2023-06-16 |  |

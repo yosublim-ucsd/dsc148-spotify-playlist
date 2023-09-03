@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 728222,
+  "num_followers": 728337,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDg2NmRkNjk1YWJmYjM3ZjhkYmI4NTdlMjA3YWIyMDczMzVkMTY4",
+  "snapshot_id": "MCw0ZjIwNTA4MGZjMjdhMTk5NjQxMGYyYWFmZDc1ZjUyMTc1ODVjODhh",
   "tracks": [
     {
       "added_at": "2023-09-01 17:03:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 309680,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "REKERE",
+        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        }
+      ],
+      "duration_ms": 465502,
+      "name": "Kwenzenjani",
+      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -791,22 +811,18 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "REKERE",
-        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
       },
       "artists": [
         {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Stakev",
-          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
         }
       ],
-      "duration_ms": 465502,
-      "name": "Kwenzenjani",
-      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -827,18 +843,18 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
       },
       "artists": [
         {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         }
       ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -859,18 +875,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+        "name": "Seymour",
+        "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
       },
       "artists": [
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+      "duration_ms": 327750,
+      "name": "Seymour",
+      "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -895,22 +915,18 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Seymour",
-        "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
       "artists": [
         {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
         }
       ],
-      "duration_ms": 327750,
-      "name": "Seymour",
-      "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -951,18 +967,18 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+        "name": "Kanasi",
+        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
       },
       "artists": [
         {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+          "name": "Solidmind",
+          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
         }
       ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+      "duration_ms": 387898,
+      "name": "Kanasi",
+      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -987,38 +1003,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Kanasi",
-        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
-      },
-      "artists": [
-        {
-          "name": "Solidmind",
-          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
-        }
-      ],
-      "duration_ms": 387898,
-      "name": "Kanasi",
-      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "RAI",
         "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Yoruba",
-        "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 427627,
-      "name": "Yoruba",
-      "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Boho",
         "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
       },
@@ -1083,22 +1067,6 @@
       "duration_ms": 293000,
       "name": "Boho",
       "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Humanidad",
-        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
-        }
-      ],
-      "duration_ms": 521547,
-      "name": "Tembo",
-      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1123,22 +1091,34 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
+        "name": "Humanidad",
+        "url": "https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6"
       },
       "artists": [
         {
-          "name": "Makebo",
-          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
-        },
-        {
-          "name": "Amonita",
-          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
         }
       ],
-      "duration_ms": 478764,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
+      "duration_ms": 521547,
+      "name": "Tembo",
+      "url": "https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Yoruba",
+        "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 427627,
+      "name": "Yoruba",
+      "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1163,18 +1143,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Samra Samra",
-        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/0m7ddoZFRqhiT6uktqefny"
       },
       "artists": [
         {
-          "name": "Karmakind",
-          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+          "name": "Makebo",
+          "url": "https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu"
+        },
+        {
+          "name": "Amonita",
+          "url": "https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc"
         }
       ],
-      "duration_ms": 304418,
-      "name": "Samra Samra",
-      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+      "duration_ms": 478764,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 201818,
       "name": "Raga",
       "url": "https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Samra Samra",
+        "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
+      },
+      "artists": [
+        {
+          "name": "Karmakind",
+          "url": "https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3"
+        }
+      ],
+      "duration_ms": 304418,
+      "name": "Samra Samra",
+      "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1279,58 +1279,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Latlal",
-        "url": "https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV"
-      },
-      "artists": [
-        {
-          "name": "Fairplay",
-          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
-        }
-      ],
-      "duration_ms": 357220,
-      "name": "Latlal",
-      "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Persian Nights",
-        "url": "https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Persian Nights",
-      "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -1355,26 +1303,54 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "15 Years of Akbal Music, Pt. 2",
-        "url": "https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT"
+        "name": "Persian Nights",
+        "url": "https://open.spotify.com/album/4JtiXGmWyNUB8uNaM2BsWP"
       },
       "artists": [
         {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
         },
         {
-          "name": "Robbie Akbal",
-          "url": "https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H"
-        },
-        {
-          "name": "Ay Sarita",
-          "url": "https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS"
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
         }
       ],
-      "duration_ms": 464237,
-      "name": "Caminando de Noche",
-      "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
+      "duration_ms": 198545,
+      "name": "Persian Nights",
+      "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Latlal",
+        "url": "https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV"
+      },
+      "artists": [
+        {
+          "name": "Fairplay",
+          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
+        }
+      ],
+      "duration_ms": 357220,
+      "name": "Latlal",
+      "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1395,6 +1371,30 @@
       "duration_ms": 451375,
       "name": "Mona Ki Ngi Xica - Everything Counts Remix",
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "15 Years of Akbal Music, Pt. 2",
+        "url": "https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT"
+      },
+      "artists": [
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        },
+        {
+          "name": "Robbie Akbal",
+          "url": "https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H"
+        },
+        {
+          "name": "Ay Sarita",
+          "url": "https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS"
+        }
+      ],
+      "duration_ms": 464237,
+      "name": "Caminando de Noche",
+      "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
     },
     {
       "added_at": "2023-09-01 17:03:00",

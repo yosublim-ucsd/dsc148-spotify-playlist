@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,934 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,937 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 55 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
 | 56 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/5unLOBl5QNJX50EVVr0tF6) | [Paul Loren](https://open.spotify.com/artist/2nDJWmL1CFvojp0T9FFOPt) | [Stuck In A Moment](https://open.spotify.com/album/0rlUp5UcdlNfxDauM54rM2) | 4:27 |
 | 57 | [Selfish Love](https://open.spotify.com/track/4fklgusc52EoLTiRx5hwOj) | [Emily Alexander](https://open.spotify.com/artist/3MT8riFDEyIoykxJ0rQAXc) | [Selfish Love](https://open.spotify.com/album/2sNd6MHVRN7p4uISWHoo4R) | 4:56 |
-| 58 | [Missing You Feels Right](https://open.spotify.com/track/0gEJwYN6aGOaPlAXxfGwDg) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Missing You Feels Right](https://open.spotify.com/album/0Pee6blyLwIG0DNI7kwY9S) | 3:15 |
+| 58 | [Missing You Feels Right](https://open.spotify.com/track/3t3aGS6XilzbV2g4olN8d4) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:15 |
 | 59 | [San Junipero \(Personal Heaven\)](https://open.spotify.com/track/47yy9VPldBmz4nG5MjWkyO) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw), [Charles August](https://open.spotify.com/artist/1s0b8CYKIPDbg6m2MJIWhy) | [San Junipero \(Personal Heaven\)](https://open.spotify.com/album/511ylApAZhVCUFKsk5P1AE) | 3:10 |
 | 60 | [Perfect Day](https://open.spotify.com/track/0cpdfHdRIhp0MQ9Cxk1MDV) | [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Glenn Lumanta](https://open.spotify.com/artist/1ZrIkUK72f4v7tYetjxxme) | [Perfect Day](https://open.spotify.com/album/2V5GaU7Cb8RtmAd7Qs9zWL) | 3:48 |
 | 61 | [I Think It’s You](https://open.spotify.com/track/5063zWIUKknkMJ7D9GbGSG) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Daylight](https://open.spotify.com/album/0ygqqR1cPZ8w0ZlHsjvqEu) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 | 100 | [Same Sunrise](https://open.spotify.com/track/6iyQhBdM54KoOdIfi8BDtX) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:31 |
 
-Snapshot ID: `MCwxYmRlYjc5Yjk2NjJhNWQ2MmZlZTI2ZDA1NGNkN2I1NzFmN2Y5Nzhh`
+Snapshot ID: `MCwzZWNlZDFiMGRiNzA3M2E1ODBjYjIxNDQ0Y2RhNDhkZmQ3YmVjYzUx`

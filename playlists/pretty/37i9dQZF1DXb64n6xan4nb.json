@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 26607,
+  "num_followers": 26617,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE4NTE3ZTA5NTAyNzRlNTU2M2RhNzEzZmFiYTk0YWE2MDA5OGQx",
+  "snapshot_id": "MCxmMWE5OTI2Mjg5YzhjZmVkYzY5NzU0NjQzNTVmYzk0NzU4ZmE4NDAw",
   "tracks": [
     {
       "added_at": "2022-06-13 13:22:46",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Third Eye",
+        "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
+      },
+      "artists": [
+        {
+          "name": "cherryfilter",
+          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "flying duck",
+      "url": "https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 246613,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Made In Korea?",
-        "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
-      },
-      "artists": [
-        {
-          "name": "cherryfilter",
-          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "sweet little kitty",
-      "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Third Eye",
-        "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
+        "name": "Made In Korea?",
+        "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
       },
       "artists": [
         {
@@ -1100,25 +1100,25 @@
           "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
         }
       ],
-      "duration_ms": 245866,
-      "name": "flying duck",
-      "url": "https://open.spotify.com/track/00ddDV60MFTJkWSGC7IGIv"
+      "duration_ms": 230240,
+      "name": "sweet little kitty",
+      "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
     },
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/2R0INDnQ0E1jwNVwTcbtBD"
+        "name": "Mc The Max - Solitude Love\u2026",
+        "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
       },
       "artists": [
         {
-          "name": "Loveholic",
-          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
         }
       ],
-      "duration_ms": 219376,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/0w7loHoKT2CDoqB091pWDd"
+      "duration_ms": 358870,
+      "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
+      "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Mc The Max - Solitude Love\u2026",
-        "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/2R0INDnQ0E1jwNVwTcbtBD"
       },
       "artists": [
         {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+          "name": "Loveholic",
+          "url": "https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2"
         }
       ],
-      "duration_ms": 358870,
-      "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
-      "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
+      "duration_ms": 219376,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/0w7loHoKT2CDoqB091pWDd"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Remake Romantic 2",
+        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
+      },
+      "artists": [
+        {
+          "name": "Seo Young Eun",
+          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
+        },
+        {
+          "name": "Kim Yeon Woo",
+          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
+        }
+      ],
+      "duration_ms": 213707,
+      "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Kim Hyung Joong 1",
         "url": "https://open.spotify.com/album/0y02warVY3sLwGqlBJh4K5"
       },
@@ -1319,22 +1339,6 @@
       "duration_ms": 269872,
       "name": "\uadf8\ub7ac\ub098\ubd10",
       "url": "https://open.spotify.com/track/4bDrbZHIKab9oKdEmkO4TU"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Lovers in Paris (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 249352,
-      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
-      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1371,22 +1375,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Remake Romantic 2",
-        "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
+        "name": "Lovers in Paris (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
       },
       "artists": [
         {
-          "name": "Seo Young Eun",
-          "url": "https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB"
-        },
-        {
-          "name": "Kim Yeon Woo",
-          "url": "https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd"
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
         }
       ],
-      "duration_ms": 213707,
-      "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
+      "duration_ms": 249352,
+      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
+        "name": "2nd",
+        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
       "artists": [
         {
-          "name": "Kim Yun A",
-          "url": "https://open.spotify.com/artist/1NgrW9iSVfCPihlIMku9oG"
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
         }
       ],
-      "duration_ms": 273773,
-      "name": "Spring day goes",
-      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+      "duration_ms": 249106,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
     }
   ],
   "unique_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",

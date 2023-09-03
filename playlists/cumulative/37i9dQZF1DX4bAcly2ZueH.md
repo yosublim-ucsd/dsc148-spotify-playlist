@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-127 songs - 6 hr 46 min
+128 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-15 |  |
 | [see](https://open.spotify.com/track/6m4SGZgICa4whATqFQXHMJ) | [sorami](https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98) | [see](https://open.spotify.com/album/0eywhLcTdxTE73zpDwFiyx) | 3:27 | 2022-10-11 |  |
 | [Shin](https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Shin](https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf) | 3:45 | 2022-10-11 |  |
-| [Shine](https://open.spotify.com/track/5SgkueQ89lqtDZOlZ31ssy) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [LaVida](https://open.spotify.com/album/2iIDFxLxV185KAwDUByb4w) | 2:11 | 2022-10-11 |  |
+| [Shine](https://open.spotify.com/track/7B0ciDEJ4KuqhLQ4Mib3c1) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [LaVida](https://open.spotify.com/album/1upwSmMlfl1JO2Mmdn1PMV) | 2:11 | 2023-08-15 |  |
+| [Shine](https://open.spotify.com/track/5SgkueQ89lqtDZOlZ31ssy) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [LaVida](https://open.spotify.com/album/2iIDFxLxV185KAwDUByb4w) | 2:11 | 2022-10-11 | 2023-09-03 |
 | [Sleepy Story.](https://open.spotify.com/track/5FL7eUhAFgmV6FzrNYbdUO) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 1:55 | 2022-10-11 |  |
 | [Somnolent Nova](https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a) | [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Somnolent Nova](https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv) | 3:03 | 2022-10-11 |  |
 | [story about you](https://open.spotify.com/track/2XxJ3ATExZmjEmxHqj1F53) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [story about you](https://open.spotify.com/album/54c5sAtiOXpwzOxWWrPgnx) | 2:56 | 2022-10-11 |  |

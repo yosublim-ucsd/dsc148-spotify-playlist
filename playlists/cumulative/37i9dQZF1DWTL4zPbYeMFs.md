@@ -4,7 +4,7 @@
 
 > A perfect mix for your Mehendi ceremony.
 
-67 songs - 5 hr 1 min
+68 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Liggi](https://open.spotify.com/track/7tbzfR8ZvZzJEzy6v0d6el) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Dev](https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE) | 3:01 | 2023-05-23 |  |
 | [London Thumakda](https://open.spotify.com/track/2qJAzSE6uC94oH2NRoPrGl) | [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Queen](https://open.spotify.com/album/2CpCvD6ZrMmiydad6IVEPU) | 3:50 | 2022-03-14 |  |
 | [Maahi Ve](https://open.spotify.com/track/7Czm0vv2sYL5z4P51KY66e) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Sujata Bhattacharya](https://open.spotify.com/artist/63gr7tdupR56177ARreusx), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 6:06 | 2022-03-14 |  |
-| [Madhaniya](https://open.spotify.com/track/1PJjB3p65wjdCbMTObhPxv) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniya \- Single](https://open.spotify.com/album/23eYpUkPcWs2ooPZNeVfTy) | 4:15 | 2022-03-14 |  |
+| [Madhaniya](https://open.spotify.com/track/1PJjB3p65wjdCbMTObhPxv) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniya \- Single](https://open.spotify.com/album/23eYpUkPcWs2ooPZNeVfTy) | 4:15 | 2022-03-14 | 2023-09-03 |
+| [Madhaniyan](https://open.spotify.com/track/6y3jAgOVnzVuq75OdlNUqy) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniyan](https://open.spotify.com/album/2qSzP3ckFfhXMUpzDGY3T4) | 4:15 | 2023-08-08 |  |
 | [Mahiya](https://open.spotify.com/track/5f6v7J2ifXZZijn0AGd0Bz) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/7DvAu6vwzu1iZEe5kHszLz) | 5:02 | 2022-03-14 | 2023-06-04 |
 | [Mahiya](https://open.spotify.com/track/7LeNFQku9FhmMqMvsMk7Zq) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mahiya](https://open.spotify.com/album/51DD5zCQbbTEXLKCt2tYK5) | 5:02 | 2023-05-23 |  |
 | [Maine Payal Hai Chhankai](https://open.spotify.com/track/51EUKH2M1QGN50iGUlnxmU) | [Falguni Pathak](https://open.spotify.com/artist/6nAVJkZZ55jorZmO5bpezv) | [Maine Payal Hai Chhankai & Other Hits](https://open.spotify.com/album/4qahs4ZSSw4yVX6HIghALw) | 4:39 | 2023-05-23 |  |

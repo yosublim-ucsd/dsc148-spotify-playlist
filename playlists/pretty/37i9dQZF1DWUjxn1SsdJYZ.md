@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Srirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,166 likes - 95 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,190 likes - 95 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 10 | [Remain The Same](https://open.spotify.com/track/18ykDJYV2RmdSpkRxf3etO) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Remain The Same](https://open.spotify.com/album/6wUlv3fppZczotLINqceBd) | 3:05 |
 | 11 | [Test Us](https://open.spotify.com/track/7A4j8vSJ1P256IxK3p2FEo) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Rhythm & Gutta](https://open.spotify.com/album/6E3Oy06YRd8PwT9Wq4ssZe) | 3:27 |
 | 12 | [By The Way](https://open.spotify.com/track/4jxAZx5LbZsTeGlYLVYQcX) | [ECB](https://open.spotify.com/artist/12qaVHWBtrTQ5KEvYgPQ2v), [Nate G](https://open.spotify.com/artist/4RvlcRTM1zHhPfTYLndVrp), [Chiggz](https://open.spotify.com/artist/4rxcNC4Af5eSLoUb4XIK5J), [DJ AN](https://open.spotify.com/artist/641DhlgREbDylmtl1D8I8l) | [By The Way](https://open.spotify.com/album/1XEl9GQxDsDNAXctajv1Ho) | 3:44 |
-| 13 | [Big Talk](https://open.spotify.com/track/7mzg0TkH5kdDyZFUAZCuEQ) | [KILL Carter](https://open.spotify.com/artist/6ZjGM1y9VoXBIdDspZAS04), [Jay Zayat](https://open.spotify.com/artist/2UXLHmTg9bsDjuDUM66ucR) | [Big Talk](https://open.spotify.com/album/0k0bEbEtysJhG5BL7jYEUc) | 2:22 |
+| 13 | [Big Talk](https://open.spotify.com/track/7mzg0TkH5kdDyZFUAZCuEQ) | [KILL Carter](https://open.spotify.com/artist/6ZjGM1y9VoXBIdDspZAS04), [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [Big Talk](https://open.spotify.com/album/0k0bEbEtysJhG5BL7jYEUc) | 2:22 |
 | 14 | [TOO HOT](https://open.spotify.com/track/5I8LL0HSQM1IjPSs2r34Ra) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [TOO HOT](https://open.spotify.com/album/3zK0Gw1Qnmx6tKbvCsE5lX) | 2:36 |
 | 15 | [Blessed](https://open.spotify.com/track/6BnIYAvijtCSwaX1pw7VUv) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [Blessed](https://open.spotify.com/album/6GVLxD0N3BiVtEld6sjHfc) | 3:15 |
 | 16 | [R U Dumb](https://open.spotify.com/track/7f9jxR913VDeAo5H1Shyon) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [R U Dumb](https://open.spotify.com/album/6m972DsqWPJb0rNOQOGVWS) | 3:33 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 94 | [Nothing To Something](https://open.spotify.com/track/3TMnFIjrBUMDcclBmG8gIt) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Nothing To Something](https://open.spotify.com/album/3dqBhhf7Gj8fjLdtGrOJi2) | 3:15 |
 | 95 | [Lights, Camera, Action!](https://open.spotify.com/track/3sQcBoba9CA04dzaymeb8v) | [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh) | [Lights, Camera, Action!](https://open.spotify.com/album/3RCkHHADAFzGAB0KBWlY7Z) | 2:51 |
 
-Snapshot ID: `MCxjY2NmNDk0YjliOWQ4ZjkxZjFmM2EyNGE3MjhlNzljNTc3MGIxMmI4`
+Snapshot ID: `MCw1Njg1MTdlOGY3MzdkMzZmMGVkYzk3NzExM2Q2NjkyYTQ3YTJlOGM5`

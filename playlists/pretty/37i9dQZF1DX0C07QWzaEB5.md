@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,888 likes - 122 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,896 likes - 122 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 18 | [그대여 이제 With Me \(feat\. Rhythme Power\)](https://open.spotify.com/track/3JBdWfoqGqDFkigIs6qdLB) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc) | [그대여 이제 With Me](https://open.spotify.com/album/6N1XVKkDPSaMqXW1Q5w2P3) | 3:45 |
 | 19 | [Dawn](https://open.spotify.com/track/4Umzv0vY5vDuXtYuJQp5Oq) | [FilmSound](https://open.spotify.com/artist/0sCvfEmo7OQ1cd2eID60rD), [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [Pairing](https://open.spotify.com/album/6A5WZUUzuktHTw1n6M03ya) | 3:22 |
 | 20 | [Michael Jackson \(Dance Ver.\)](https://open.spotify.com/track/2g3umQsrOCBk3mSKafF8Sd) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Michael Jackson](https://open.spotify.com/album/3XHOJvbNjgu8CFE2kd5hKg) | 2:54 |
-| 21 | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/track/5oodXSTHKXbciMByyywlC8) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/album/6KeFlvykuxCkKSHYPXrc8u) | 3:22 |
+| 21 | [Tonight \(feat\. Summer Soul\)](https://open.spotify.com/track/4NPN69b5VEUcYPRgvmaivb) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/album/30xrAhZXglgmndnRnDu6pg) | 3:22 |
 | 22 | [LINDA \(Feat\. Yoonmirae\)](https://open.spotify.com/track/5MsXTNu6DS3Qx5Ms7pTuoX) | [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:28 |
 | 23 | [SUNNY](https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:20 |
 | 24 | [After We Ride](https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [After ‘We Ride’](https://open.spotify.com/album/2W8nXNoRaD7zm1IljosJAa) | 3:22 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 40 | [Diver](https://open.spotify.com/track/1bJc2ivsnNXzMMysHN1tuB) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:40 |
 | 41 | [Lovemonth](https://open.spotify.com/track/5KnAca7g0lgwzCNA64WE9d) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Lovemonth](https://open.spotify.com/album/1aeo0A7JVTHNQtplMOORRk) | 3:33 |
 | 42 | [FEVER](https://open.spotify.com/track/6eKNfMj4VnioR0LcXo6ktd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:25 |
-| 43 | [SPACESHIP \(feat\. YOON DAMBECC\)](https://open.spotify.com/track/2WNGk3odxIGVNOzL5sdHjn) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l), [YOON DAMBECC](https://open.spotify.com/artist/4yXvzFlIKffG90jbbw685x) | [SPACESHIP \(feat\. YOON DAMBECC\)](https://open.spotify.com/album/4D3PvBQrTqYuUWSdq0AGwE) | 2:50 |
+| 43 | [SPACESHIP \(feat\. Yoon dambecc\)](https://open.spotify.com/track/0l6ehQa83hnGVp0EsH46a2) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l), [YOON DAMBECC](https://open.spotify.com/artist/4yXvzFlIKffG90jbbw685x) | [SPACESHIP](https://open.spotify.com/album/2SvMkYs7WawjlqXEfGQ8c5) | 2:50 |
 | 44 | [242 \(Shine\)](https://open.spotify.com/track/7MROe4VjFESir1jmgHRAlg) | [roomer](https://open.spotify.com/artist/20zFJZ21BJrOTytnwoNUgp), [Lody](https://open.spotify.com/artist/0gXfmv03XhH2sVSqW4VRaS), [Oul](https://open.spotify.com/artist/57JZZuDhppSQr6uyJNzKSa) | [In My Room : Vol.5 \(Our Diary\)](https://open.spotify.com/album/3TVWdZ8J8g1ZW6NWx2aulz) | 3:25 |
 | 45 | [Let's Dance](https://open.spotify.com/track/6P0KCRahk9c3d3HVqA6TMf) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:42 |
 | 46 | [SOUL LADY](https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 3:35 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 67 | [Alibis](https://open.spotify.com/track/2NuqKld8bDnPRiWYeV3DRR) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:25 |
 | 68 | [무자비 No Mercy](https://open.spotify.com/track/1Mu2WHJ7q2axc3xuq25nKA) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [무자비 No Mercy](https://open.spotify.com/album/7aWySG1r7rZtJSdokvFBTb) | 3:13 |
 | 69 | [Summer Memories](https://open.spotify.com/track/7iLZ20MyVlY3idlhFsBfiU) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Kang Seung Sik](https://open.spotify.com/artist/6KQYNyGaP0jX300OaEdaY0) | [Summer Memories](https://open.spotify.com/album/4gPX63erzSxNcWY0ndHwPz) | 3:54 |
-| 70 | [Rocking Roll Again](https://open.spotify.com/track/3RNlaKy6mTRPRiSaCkrRyB) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Rocking Roll Again](https://open.spotify.com/album/1vwBzikA02arxPivuxEuFt) | 4:08 |
+| 70 | [Rocking Roll Again](https://open.spotify.com/track/5pUFte88lrOobecyIvce3q) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 4:08 |
 | 71 | [Starry Night](https://open.spotify.com/track/7Iw3TOa9KqUoC4raYC70t9) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/0bQv27YqKRxlJ9KURup5RV) | 3:47 |
 | 72 | [Sha la la](https://open.spotify.com/track/3OdSPvclCmWDdAcYopixku) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:51 |
 | 73 | [City girl](https://open.spotify.com/track/2kRm4IYFPvg5knhriMdTEJ) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Homemade Love Story \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6gLrXf0gEMIKqHRk7xEht1) | 3:27 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 121 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 122 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MCxjZTNmOGRkNDU3MDY1OGViNWZlNDRlZTkyNzNmYTkwYjI4OTE5YTZk`
+Snapshot ID: `MCxkNGM2NDkwY2NjN2M5ODRhZDhmOGZlZjViZWU5YjBiNGNhZmI0NWI5`

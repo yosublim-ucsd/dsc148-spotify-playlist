@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: Whitney Houston",
-  "num_followers": 304705,
+  "num_followers": 304924,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2Q2ZmM0N2M0M2QzODgyYmM5MTFiOGMwYmUzOTBhZjkxNWY4N2U3",
+  "snapshot_id": "MCxhYmNlNjM4NDE0Zjc1M2RmYmVhMzI2ZGZlMmU3Y2Y3ODU2NTQ0Yjhm",
   "tracks": [
     {
       "added_at": "2022-11-10 16:45:53",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "18 Til I Die",
-        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
-      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
-    },
-    {
-      "added_at": "2022-11-10 16:45:53",
-      "album": {
         "name": "Love Always",
         "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+    },
+    {
+      "added_at": "2022-11-10 16:45:53",
+      "album": {
+        "name": "18 Til I Die",
+        "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
+      "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "added_at": "2022-11-10 16:45:53",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "The Comfort Zone",
-        "url": "https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Save The Best For Last",
-      "url": "https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM"
-    },
-    {
-      "added_at": "2022-11-10 16:45:53",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 235106,
       "name": "From This Moment On - Pop On-Tour Version",
       "url": "https://open.spotify.com/track/0vswnzoKvhNkT1ehc0Tt19"
+    },
+    {
+      "added_at": "2022-11-10 16:45:53",
+      "album": {
+        "name": "The Comfort Zone",
+        "url": "https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Save The Best For Last",
+      "url": "https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM"
     },
     {
       "added_at": "2022-11-10 16:45:53",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 332960,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
-    },
-    {
-      "added_at": "2022-11-10 16:45:53",
-      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 265333,
       "name": "Angels",
       "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
+    },
+    {
+      "added_at": "2022-11-10 16:45:53",
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 332960,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
     }
   ],
   "unique_name": "90s Ballads",

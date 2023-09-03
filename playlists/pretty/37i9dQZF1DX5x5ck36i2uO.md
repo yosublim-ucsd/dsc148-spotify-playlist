@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,568 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,575 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 49 | [Dance With Me \(feat\. Keemhyoeun, CHOILB\)](https://open.spotify.com/track/5Qlfc8kcBBiTQ0oWzAPO1q) | [RAUDI](https://open.spotify.com/artist/1Tf52Yc65Ghgb3DDBRBL1K), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Dance With Me \(feat\. Keemhyoeun, CHOILB\)](https://open.spotify.com/album/6Y9vQJ8Qem5DBYtIG16AL1) | 2:58 |
 | 50 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |
 
-Snapshot ID: `MCw1YjljNmRjYjg0OTQ0YzdlNTJjYWFjN2MyYWU0YjIzZmRmYjk3N2Rl`
+Snapshot ID: `MCxiZmUwOGZmMmM1NThkMTM2YTk5MzFkMTYzMDg5ZWRiMjcyNmJiZGJl`

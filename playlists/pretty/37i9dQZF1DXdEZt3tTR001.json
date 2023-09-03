@@ -1,12 +1,12 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 138987,
+  "num_followers": 139121,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWMzYTE2YTQ2ZmY5OTk3OTkxMzQxZjAzZDM0MzUzMjVmYTU1YTJi",
+  "snapshot_id": "MCw0ZjA5MzI4NGVkMTQ5MzIwMDM1YjAxMTM3MzMyN2Q1Y2IzMmU4Mjg4",
   "tracks": [
     {
       "added_at": "2023-08-31 23:14:01",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-08-31 23:14:01",
       "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
-    },
-    {
-      "added_at": "2023-08-31 23:14:01",
-      "album": {
         "name": "azz izz",
         "url": "https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 254106,
       "name": "He's Mine",
       "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
+    },
+    {
+      "added_at": "2023-08-31 23:14:01",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
       "added_at": "2023-08-31 23:14:01",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-08-31 23:14:01",
       "album": {
-        "name": "Don't Throw Rocks At The Moon",
-        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 104827,
-      "name": "LIMB",
-      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
-    },
-    {
-      "added_at": "2023-08-31 23:14:01",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 393733,
       "name": "Other Side Of The Game",
       "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
+    },
+    {
+      "added_at": "2023-08-31 23:14:01",
+      "album": {
+        "name": "Don't Throw Rocks At The Moon",
+        "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 104827,
+      "name": "LIMB",
+      "url": "https://open.spotify.com/track/5RG1HRQocUAafoCrGd9lY5"
     },
     {
       "added_at": "2023-08-31 23:14:01",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2023-08-31 23:14:01",
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1QZJpWXksSmGPnWImp4JE8"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "Ash Lee",
+          "url": "https://open.spotify.com/artist/5cLztgiKT0bPu4xzweQxKT"
+        }
+      ],
+      "duration_ms": 141555,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/47cZOrEp9js0X3E6tQt5b4"
+    },
+    {
+      "added_at": "2023-08-31 23:14:01",
+      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2023-08-31 23:14:01",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/1QZJpWXksSmGPnWImp4JE8"
-      },
-      "artists": [
-        {
-          "name": "SERAPHINE NOIR",
-          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
-        },
-        {
-          "name": "Ash Lee",
-          "url": "https://open.spotify.com/artist/5cLztgiKT0bPu4xzweQxKT"
-        }
-      ],
-      "duration_ms": 141555,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/47cZOrEp9js0X3E6tQt5b4"
-    },
-    {
-      "added_at": "2023-08-31 23:14:01",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 266560,
       "name": "Naked",
       "url": "https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7"
-    },
-    {
-      "added_at": "2023-08-31 23:14:01",
-      "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 292506,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe"
     },
     {
       "added_at": "2023-08-31 23:14:01",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-08-31 23:14:01",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
+    },
+    {
+      "added_at": "2023-08-31 23:14:01",
+      "album": {
         "name": "Make Me Say It Again, Girl",
         "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-08-31 23:14:01",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
-    },
-    {
-      "added_at": "2023-08-31 23:14:01",
-      "album": {
         "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
         "url": "https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 238965,
       "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
       "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
+    },
+    {
+      "added_at": "2023-08-31 23:14:01",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe"
     },
     {
       "added_at": "2023-08-31 23:14:01",

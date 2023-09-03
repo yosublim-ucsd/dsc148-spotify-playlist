@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Femme forte",
+        "url": "https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192580,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj"
+    },
+    {
+      "album": {
         "name": "Derti Rayek",
         "url": "https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq"
       },

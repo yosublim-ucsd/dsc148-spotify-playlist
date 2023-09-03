@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Bo Staloch \| Visual Artist: Bailey Elder
 
-811 songs - 2 day 0 hr 26 min
+812 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Falling for a Friend](https://open.spotify.com/track/0bVdwfTLrlL5TSvQdbLVOB) | [Zander Hawley](https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ) | [Falling for a Friend](https://open.spotify.com/album/5ilYcLW8z4y0D4F5QaqheC) | 3:37 | 2022-05-25 | 2022-08-04 |
 | [Familiar Face](https://open.spotify.com/track/1tgv5EAivEwdfJiHvC6ZhZ) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [Familiar Face](https://open.spotify.com/album/7A0h7lTs2LUIQ5FSoZqvyc) | 2:30 | 2023-04-20 | 2023-06-15 |
 | [Fantasize](https://open.spotify.com/track/6WaO7yDFhKcW4gls5m74Ua) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fantasize](https://open.spotify.com/album/2Pe9PWFv1S6LRUsY3EjBND) | 4:32 | 2022-05-25 | 2022-06-30 |
-| [Fantasy](https://open.spotify.com/track/4rAYSa93NeffeWcCgKMhGJ) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/5jIrySgqcujIymK4NxYoWU) | 4:58 | 2023-08-30 |  |
+| [Fantasy](https://open.spotify.com/track/0MqJDfnMDrYFUjmOIUpt3U) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/7BlFPn5FuyUisj4sJU0TcE) | 4:58 | 2023-08-30 |  |
+| [Fantasy](https://open.spotify.com/track/4rAYSa93NeffeWcCgKMhGJ) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/5jIrySgqcujIymK4NxYoWU) | 4:58 | 2023-08-30 | 2023-09-03 |
 | [Far Again](https://open.spotify.com/track/2telVUX3CDA5b4Mm8DAZSK) | [Declan Ryan](https://open.spotify.com/artist/4uhtAOY9Y8fEbAuUUQMhrG) | [Far Again](https://open.spotify.com/album/57qbojUp7MEDi5MPVsKvSi) | 3:03 | 2022-05-25 | 2022-08-04 |
 | [Far From You](https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Far From You](https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom) | 4:32 | 2023-04-05 | 2023-05-24 |
 | [Far Side of the World](https://open.spotify.com/track/0nnLkKVp5uL2o1mCSPD45x) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG), [Jake Fine](https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n) | [Far Side of the World](https://open.spotify.com/album/4QgzaZ3hmSQlfc6vHo3LK3) | 2:56 | 2022-05-25 | 2022-09-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Zatox
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,011 likes - 111 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,135 likes - 111 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 85 | [Riot](https://open.spotify.com/track/03yCWOsdgVJyww4SB5unJs) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [TOO FAST](https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF) | 2:57 |
 | 86 | [Illuminate](https://open.spotify.com/track/64ku5BW8EdFW7ygyMOC77k) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Illuminate](https://open.spotify.com/album/1FFFK7JQM6gcsD53nTSHUO) | 3:22 |
 | 87 | [Take It All](https://open.spotify.com/track/14mhMrKK9PcgLfWWiOnG9e) | [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [Take It All](https://open.spotify.com/album/63RJgFld599uqPCSzdwUr1) | 2:53 |
-| 88 | [Frontrow](https://open.spotify.com/track/6utKoO8KYpFWBnnu4ymJrS) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/5knZBXHk1XLTAAKVFqbL9F) | 3:54 |
+| 88 | [Frontrow](https://open.spotify.com/track/4KMWGXZnrn4GSKdBOo9hQR) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/1USRYjIm1mWDY6ZUtpQPwY) | 3:54 |
 | 89 | [Like a Bird](https://open.spotify.com/track/7FjjURvIeaQmNqKDoa5XcZ) | [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22) | [Like a Bird](https://open.spotify.com/album/7G9B6fzYU56FQVdZPlNmas) | 2:32 |
 | 90 | [Face Of Chaos \- Luminite Remix](https://open.spotify.com/track/5ea5bznm32Y9VZ8qFlhZ3E) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Face Of Chaos \(Luminite Remix\)](https://open.spotify.com/album/6Kf4PF4uTxI4iARE73OYyY) | 2:18 |
 | 91 | [Wildfire](https://open.spotify.com/track/3H6LR9VTflkGxkyrSM5xLW) | [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Wildfire](https://open.spotify.com/album/1Aep8odjbmyTlCalwMJTUg) | 3:50 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 110 | [Flow](https://open.spotify.com/track/63ZJtCRVf8akA75vrso6H9) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Flow](https://open.spotify.com/album/2AsgPfOW8KJbYNSTmxlKRy) | 3:12 |
 | 111 | [Make The Crowd Go](https://open.spotify.com/track/24NDSuRev3JPKVh0wdWLk9) | [JNXD](https://open.spotify.com/artist/4by5ENA6ZMNCQkOX3RIh0G), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [Make The Crowd Go](https://open.spotify.com/album/2rQno7OXZMZ6D264HB6QHt) | 3:12 |
 
-Snapshot ID: `MCw4Mzg2MzA3YWM2OTNkMDMxM2UzNTM2ZmQ5NzAzMjA2YmM4ODkxNDhi`
+Snapshot ID: `MCxhZWI3YzVjMGZiOTk2MTZlYjMzZjczMjBhODA3ZTRhNWFlYmJkNjJj`

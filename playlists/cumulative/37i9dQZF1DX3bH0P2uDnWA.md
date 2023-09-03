@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-313 songs - 18 hr 3 min
+314 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [1941 \(feat\. Virian\)](https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U) | [Klaypex](https://open.spotify.com/artist/4HBMToZ4yMR07eiK9IxtjK), [Virian](https://open.spotify.com/artist/5jYBAlIgga7KSy6mZLfHHR) | [Anything Goes](https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ) | 3:00 | 2020-10-30 |  |
 | [A Timeless Tale](https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Gone Rogue](https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ) | 3:06 | 2022-02-11 |  |
 | [AKH Odessa](https://open.spotify.com/track/5Y6jWzTtil6LwMChWEE8Tu) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Russian Gentlemen Club](https://open.spotify.com/artist/2n0QKE9OP6RYRkwbgI9nRG) | [AKH Odessa](https://open.spotify.com/album/3z0i8xWAB2svFBmzGbI0F0) | 4:00 | 2022-02-18 |  |
-| [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \- Electro Swing Mix](https://open.spotify.com/track/3Go7DAxPF8VVxofLHlCckK) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \[Electro Swing Mix\]](https://open.spotify.com/album/7n313qSyFyOyFMvWNhS0nV) | 2:26 | 2021-07-02 |  |
+| [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \- Electro Swing Mix](https://open.spotify.com/track/1gG97yvTy6IAwtKWD86VSD) | [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \[Electro Swing Mix\]](https://open.spotify.com/album/2zLzFonWf8IaDjp7nrnDT8) | 2:26 | 2022-11-07 |  |
+| [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \- Electro Swing Mix](https://open.spotify.com/track/3Go7DAxPF8VVxofLHlCckK) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \[Electro Swing Mix\]](https://open.spotify.com/album/7n313qSyFyOyFMvWNhS0nV) | 2:26 | 2021-07-02 | 2023-09-03 |
 | [Allez Viens \(Via Con Me\) \[feat\. Pierre Santini & Lada Redstar\]](https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Pierre Santini](https://open.spotify.com/artist/2sERfmcDISRbdIvSwc1srm), [Lada Redstar](https://open.spotify.com/artist/2hvVzDZUDCDV1CMEYefruX) | [Introducing, Bart&Baker](https://open.spotify.com/album/4nkLzdBaKeAHz0MqMWDjf9) | 3:29 | 2020-10-30 |  |
 | [Andrew's Break](https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY) | [AlgoRythmik](https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe) | [Show Breaks](https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42) | 3:38 | 2020-10-30 |  |
 | [Anything Goes \(Wolfgang Lohr Remix\)](https://open.spotify.com/track/0wOhiQLMavRdsBn0t8Nt2C) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Anything Goes \(Wolfgang Lohr Remix\)](https://open.spotify.com/album/1YbfYIeXI372Jt5FsM6wY5) | 2:50 | 2023-07-07 |  |

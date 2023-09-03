@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 68383,
+  "num_followers": 68501,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj",
+  "snapshot_id": "MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -211,26 +211,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "LOVE AND COMPROMISE",
-        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "What You Did (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "What You Did (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
       },
       "artists": [
         {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
         }
       ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
+      "duration_ms": 196363,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
       },
       "artists": [
         {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "New Spring",
-        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
-      },
-      "artists": [
-        {
-          "name": "Kappekoff",
-          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
-        },
-        {
-          "name": "Stefanos Yowhannes",
-          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
-        }
-      ],
-      "duration_ms": 197099,
-      "name": "New Spring",
-      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O"
       },
@@ -1623,6 +1603,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Sweet Insomnia",
         "url": "https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG"
       },
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
+        "name": "New Spring",
+        "url": "https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt"
       },
       "artists": [
         {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+          "name": "Kappekoff",
+          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
+        },
+        {
+          "name": "Stefanos Yowhannes",
+          "url": "https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/5QyHXXW3lUlVeoapWCXW2Y"
+      "duration_ms": 197099,
+      "name": "New Spring",
+      "url": "https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH"
     },
     {
       "added_at": "2023-07-06 22:00:00",

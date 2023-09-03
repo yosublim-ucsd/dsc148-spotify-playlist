@@ -4,7 +4,7 @@
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-112 songs - 10 hr 8 min
+113 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,9 +107,10 @@
 | [Soweto Disco](https://open.spotify.com/track/2Emwq6e9LijfaRNyqRiuqb) | [The Movers](https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6) | [Next Stop Soweto 4: Zulu Rock, Afro\-Disco & Mbaqanga 1975\-1985](https://open.spotify.com/album/6mthYemYv5h7k6XwIo9R8F) | 4:06 | 2018-07-02 |  |
 | [Stop Jealous](https://open.spotify.com/track/3Ify2qoyMuNjuMFHa0W2kb) | [Janka Nabay](https://open.spotify.com/artist/0uIXmyH9fptEsagZP6kv4w) | [Build Music](https://open.spotify.com/album/2JtuzTyHNRARIo5ou49rJX) | 3:54 | 2018-07-02 | 2022-07-29 |
 | [Stop Jealous](https://open.spotify.com/track/0KgG8DYWlLQwPJSpsHyafq) | [Janka Nabay and the Bubu Gang](https://open.spotify.com/artist/1zC407L9CgUmxSDswWVISu) | [Build Music](https://open.spotify.com/album/1MXaSZMAZDQOVMbxhotGPq) | 3:54 | 2018-07-02 |  |
-| [Sweet Fanta Diallo](https://open.spotify.com/track/12AzpzVW0p7gyMwCZbfN5L) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \- Remastered Edition](https://open.spotify.com/album/39rctsy2wAHsayxov0fvEH) | 5:19 | 2018-07-02 |  |
+| [Sweet Fanta Diallo](https://open.spotify.com/track/12AzpzVW0p7gyMwCZbfN5L) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \- Remastered Edition](https://open.spotify.com/album/39rctsy2wAHsayxov0fvEH) | 5:19 | 2018-07-02 | 2023-09-03 |
 | [Sweet Fanta Diallo](https://open.spotify.com/track/2js85SD3LHxyeNsoqQRq9H) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \- Remastered Edition](https://open.spotify.com/album/3U9cfJhS8H9AsuOtc9WMGT) | 5:19 | 2018-07-02 | 2022-07-29 |
 | [Sweet Fanta Diallo](https://open.spotify.com/track/2OvInx8L79Tf6ECNmhf1f2) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Sweet Fanta Diallo \(Original Version\) \- Single](https://open.spotify.com/album/0tSxsaDFFSokEqBQwdcXJe) | 5:19 | 2018-07-02 | 2022-11-14 |
+| [Sweet Fanta Diallo \- Remastered Edition](https://open.spotify.com/track/7HeMuHzQ1439ZpWmocNNXy) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \(Remastered Edition\)](https://open.spotify.com/album/7w57EeKZS9C5RDRS5rhqLs) | 5:19 | 2018-07-02 |  |
 | [The Coffee Cola Song](https://open.spotify.com/track/6qBkgf34enQ1CdaXDy46yr) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music 1975 \- 1982](https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz) | 5:05 | 2018-07-02 |  |
 | [The Coffee Cola Song](https://open.spotify.com/track/3Y9XSINHLe5C8XI5kNmCZI) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Afro Exotique \- Adventures In The Leftfield, Africa 1972\-82](https://open.spotify.com/album/06l60JOH4AVnCVX4UeIhXi) | 5:06 | 2018-07-02 | 2023-05-19 |
 | [The Coffee Cola Song](https://open.spotify.com/track/3GYBtgclotwzSnd3u21VY7) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music \(1975\-1982\)](https://open.spotify.com/album/7w99Aae1tYSTSb1OiDnxYY) | 5:06 | 2018-07-02 | 2023-03-25 |

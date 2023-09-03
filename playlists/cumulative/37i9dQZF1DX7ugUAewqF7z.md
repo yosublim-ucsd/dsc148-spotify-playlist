@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-89 songs - 5 hr 11 min
+90 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,11 +84,12 @@
 | [Wild Flower](https://open.spotify.com/track/6tohHT5sQRMjdWHMNn190u) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Wild Flower](https://open.spotify.com/album/4aLnzOsnBf5gqTDMJn3XLz) | 5:12 | 2023-09-01 |  |
 | [Wish](https://open.spotify.com/track/12n9WBfLII5EdQFzQiQFqv) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Hometown Cha\-Cha\-Cha, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0I9P3bt2K8NAB97yh7uBPf) | 3:57 | 2023-06-15 |  |
 | [Wrongful Meeting](https://open.spotify.com/track/5xYps20oq3shRA3TZsSkPI) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [잘못된 만남](https://open.spotify.com/album/0eqAutoBmz9KUKovFlv7Qg) | 4:18 | 2023-09-01 |  |
-| [Your Knight](https://open.spotify.com/track/4DmNIXSHfiguByW1g7OXcb) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [HEADACHE.](https://open.spotify.com/album/60fWmW12NbcOa8Bpm5F0Rv) | 3:11 | 2023-06-15 |  |
+| [Your Knight](https://open.spotify.com/track/4DmNIXSHfiguByW1g7OXcb) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [HEADACHE.](https://open.spotify.com/album/60fWmW12NbcOa8Bpm5F0Rv) | 3:11 | 2023-06-15 | 2023-09-03 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-07-07 |  |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-09-01 |  |
 | [그대를 사랑하는 10가지 이유](https://open.spotify.com/track/1irsHnzK1oo5x0eWJ3pqKx) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [인사](https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h) | 4:15 | 2023-08-28 |  |
 | [너 때문에 미쳐](https://open.spotify.com/track/5vCXnSlbAEkuJ3w2O0ALan) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Breaking Heart](https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF) | 3:14 | 2023-08-04 |  |
+| [너의 기사 Your Knight](https://open.spotify.com/track/4QEXiHUHiDe7OaqtwpbnUJ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [HEADACHE.](https://open.spotify.com/album/16v4mvD3Umt3hJLi7ZcUdX) | 3:11 | 2023-09-01 |  |
 | [새벽기차](https://open.spotify.com/track/6NGfh35DLX4MGelPQsWkD1) | [다섯손가락](https://open.spotify.com/artist/54OHfAKmQDzDFfXFjmxHuk) | [다섯손가락 골든 힛트곡 모음](https://open.spotify.com/album/0OKu2x5KBTXYjmACGASREU) | 3:58 | 2023-06-15 |  |
 | [아름다워](https://open.spotify.com/track/3fZWliK6TSGwx2feMCnu2Z) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [돈 벌 시간 2](https://open.spotify.com/album/0nU8PoUOKgmeiB78GKrFMT) | 3:40 | 2023-07-07 |  |
 | [연예인](https://open.spotify.com/track/5s3ESdthJZaA4Tuqj3Nz8V) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [싸집](https://open.spotify.com/album/2ZhAZPjsWtCJ6ZDgtl6E63) | 3:24 | 2023-06-23 |  |

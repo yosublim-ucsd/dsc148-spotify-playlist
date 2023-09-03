@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,733 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,775 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -280,7 +280,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 270 | [Baião](https://open.spotify.com/track/7yT5ePWhenVeXhMKQoZ3Mf) | [Paulo Diniz](https://open.spotify.com/artist/427OJ0p99wJvYou8vQ0Zh2) | [Ya'Ya High\-fi Vol\. 1](https://open.spotify.com/album/7aIiTweGR1fCVyAKMUAL6P) | 2:51 |
 | 271 | [Cumbia en el Monte](https://open.spotify.com/track/6WozspQ3YhGznIs4kXafnv) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk), [Pascual Rovira](https://open.spotify.com/artist/6gyi0MGsTAuGYSNeJ31ht4) | [Discos Fuentes Collection](https://open.spotify.com/album/3JNwdLqeNPHseXaXkyZtBs) | 2:34 |
 | 272 | [Together](https://open.spotify.com/track/02k4ORhygVxhNeNmcTaw4W) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Together](https://open.spotify.com/album/2c1SSf6RTyPmBNxPeanI8D) | 2:40 |
-| 273 | [Water No Get Enemy](https://open.spotify.com/track/0DtokGY2f0bi701NhGFpda) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/20IklXmkirz07Lpv6jnLNB) | 11:00 |
+| 273 | [Water No Get Enemy](https://open.spotify.com/track/4fGbjbqR2psf6zgwwBPecd) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 11:00 |
 | 274 | [I Know What You Want](https://open.spotify.com/track/7x0o8kaUElaXuWnP9kwe5p) | [André Marie Tala](https://open.spotify.com/artist/7zoESCAeVJ8h0e1k62snyS) | [Arabica](https://open.spotify.com/album/4Asgh45uEqx2UYyHxl51er) | 5:19 |
 | 275 | [A Deeper Shade Of Soul](https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 2:48 |
 | 276 | [Keep Going](https://open.spotify.com/track/18NSA1HkoJQyyyt7pyKys9) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2SUgDf5a0P3u98kdkEBF3R) | 1:26 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCwwMjQwZGQ5MjE5MzdjNzJmZGE1MzRkYmI5N2M2ZjBkN2FmNTgxMGU1`
+Snapshot ID: `MCxjZWE3NmM2Mzc1ZmY4M2FlMWIxYjA2MjFkNGQ5ODk4YzZlMzE4NTRm`

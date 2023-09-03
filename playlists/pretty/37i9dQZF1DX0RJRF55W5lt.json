@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 497022,
+  "num_followers": 497195,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWE4NDUwMDAzMDlkYjE4YmY2YWE4ZWZlNDllOGVmNDE4Y2EwYTBj",
+  "snapshot_id": "MCw2Yjg4OTJkZDU0MDZhYmQ5MThlODYxNzE5NTBlY2MzMzMyMDYyYWNk",
   "tracks": [
     {
       "added_at": "2023-08-11 10:13:10",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
+        "name": "It's the Way '99",
+        "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
+      },
+      "artists": [
+        {
+          "name": "Future Underground Nation",
+          "url": "https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws"
+        }
+      ],
+      "duration_ms": 303606,
+      "name": "It's the Way '99",
+      "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
         "name": "Love Shy",
         "url": "https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 221820,
       "name": "Love Shy - Club Asylum Remix",
       "url": "https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
-        "name": "It's the Way '99",
-        "url": "https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B"
-      },
-      "artists": [
-        {
-          "name": "Future Underground Nation",
-          "url": "https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws"
-        }
-      ],
-      "duration_ms": 303606,
-      "name": "It's the Way '99",
-      "url": "https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7"
     },
     {
       "added_at": "2023-08-11 10:13:10",

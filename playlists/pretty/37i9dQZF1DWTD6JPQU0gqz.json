@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 49399,
+  "num_followers": 49411,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDY4NGE2MzkxNTc5ODJkOGM5MzRhYTc2MGU0Njg2NTgwYTg2MDk5",
+  "snapshot_id": "MCw5YjRhZjRkNzNjY2RiOGI0M2VlZjUwZDRmNDYwYzkxZmRmMTFkYWU5",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Los del Vacile",
+        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
+      },
+      "artists": [
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        }
+      ],
+      "duration_ms": 213285,
+      "name": "Los del Vacile",
+      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "NO AZARA",
         "url": "https://open.spotify.com/album/6HbbphcRcKCbvbO6XHppND"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 149167,
       "name": "NO AZARA",
       "url": "https://open.spotify.com/track/6ZN6U9DZFVaquehTHGGag5"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Los del Vacile",
-        "url": "https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z"
-      },
-      "artists": [
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        }
-      ],
-      "duration_ms": 213285,
-      "name": "Los del Vacile",
-      "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Sigue y Sigue",
-        "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
+        "name": "A Quien Pueda Interesar",
+        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
       },
       "artists": [
         {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
         }
       ],
-      "duration_ms": 146269,
-      "name": "Sigue y Sigue",
-      "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
+      "duration_ms": 161739,
+      "name": "Dormir Sola",
+      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "A Quien Pueda Interesar",
-        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
+        "name": "Sigue y Sigue",
+        "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
       },
       "artists": [
         {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Dormir Sola",
-      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
+      "duration_ms": 146269,
+      "name": "Sigue y Sigue",
+      "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
     },
     {
       "added_at": "2023-06-20 14:37:46",

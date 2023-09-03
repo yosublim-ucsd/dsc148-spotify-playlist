@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 259603,
+  "num_followers": 259778,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzRhZjI1YTA2OTIxNDMzZjk2MjBjOGI4MmFhMjQxMzU3OGYwMmI3",
+  "snapshot_id": "MCw1ZjY0NzMzMDA3YjE3MWUxZDY3NDU0YmNkYThmNTc0MjZkYjg2MjUy",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Gereg",
+        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Yuve Yuve Yu",
+      "url": "https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Terrible Lie",
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "As They Bloom",
         "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
       },
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 208360,
       "name": "Gatekeepers",
       "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "The Gereg",
-        "url": "https://open.spotify.com/album/2QO1etZZ02yEcnAENH8KBJ"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Yuve Yuve Yu",
-      "url": "https://open.spotify.com/track/2huR9BaWUtNT8Txwy3nPOx"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -905,6 +905,22 @@
       "url": "https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
       "added_at": "2023-02-09 19:59:28",
       "album": {
         "name": "Don't Wait",
@@ -923,22 +939,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 78531,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Going Under",
@@ -1151,22 +1167,6 @@
       "duration_ms": 193281,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0hXSGi92Kprn6CEhULCGV3"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 78531,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
     },
     {
       "added_at": "2022-11-18 01:42:16",

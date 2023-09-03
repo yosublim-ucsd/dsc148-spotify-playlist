@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-326 songs - 1 day 4 hr 8 min
+327 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Aerial Phenomenon](https://open.spotify.com/track/7KCHXlwd0rWHfSlz5CmTSr) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Encounter](https://open.spotify.com/album/7KYsXYxYko9FpBfG8jF0XH) | 4:17 | 2023-08-04 | 2023-09-02 |
 | [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 | 2022-11-23 | 2023-08-22 |
 | [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 | 2022-12-01 |
-| [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 |  |
+| [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 | 2023-09-03 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-11-23 |  |
 | [All That Matters \- ARTBAT Remix](https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Troels Abrahamsen](https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [All That Matters \(Artbat Remix\)](https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai) | 8:49 | 2023-04-28 |  |
 | [Alone ft\. braev](https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [The Theory EP](https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr) | 4:46 | 2023-06-30 |  |
@@ -175,6 +175,7 @@
 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 | 2022-11-23 | 2023-06-03 |
 | [Mind Control \- Stephan Jolk Remix](https://open.spotify.com/track/2ig7zIzaD3omrWSgJdlx4W) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Mind Control Remixes](https://open.spotify.com/album/5ojPPLGixsheh2u3SXPYy5) | 5:12 | 2022-11-23 | 2023-01-15 |
 | [Mind Trip](https://open.spotify.com/track/73wy6f4ze5oQ8S3HcOYDjh) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Mind Trip](https://open.spotify.com/album/3rNc2OkY3q7FmEo3IVIl4I) | 3:12 | 2023-08-04 | 2023-08-16 |
+| [Miracle](https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Miracle](https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8) | 5:02 | 2023-09-01 |  |
 | [Mirage](https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mirage](https://open.spotify.com/album/5ZwqPuurXv0oKEZXvfAHZc) | 4:20 | 2022-11-23 | 2023-01-28 |
 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-04-21 |  |
 | [Moi](https://open.spotify.com/track/3yDjQd0EVv0MCInujX8Hfh) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Moi](https://open.spotify.com/album/0enurjaMmt7X36sP7nftvG) | 5:56 | 2023-06-16 | 2023-07-01 |

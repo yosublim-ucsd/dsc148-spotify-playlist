@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,447 likes - 66 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,487 likes - 66 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 32 | [On and On \(Till the End of Us\)](https://open.spotify.com/track/7EpEum94WKQsGwqsYbwzQc) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1zq50YlpfOS6j9wM8l6Lbn) | 5:26 |
 | 33 | [Brother](https://open.spotify.com/track/7gfui7vTdV6Jo7c804DnKh) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Brother](https://open.spotify.com/album/5qO8mU6qXhQUKMp4C5C62p) | 4:33 |
 | 34 | [Mr Blue](https://open.spotify.com/track/2PFM2HeWNP1omytVmtq9PQ) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Mr Blue \(Jadu Heart Mix\)](https://open.spotify.com/album/7m2SFt28E8jIawTtSBOW9F) | 4:32 |
-| 35 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 |
+| 35 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/2SHfsvx6kgQnbWD1us8RGp) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/5s7L9VhyEkIY5M4yLadgVR) | 4:29 |
 | 36 | [Wendy's Yard](https://open.spotify.com/track/50vGM1YiEN3aWv8zLsfqXF) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Wendy's Yard](https://open.spotify.com/album/2Wi2GBAUEzcwlq5pqnx2fk) | 3:35 |
 | 37 | [I Still Love You](https://open.spotify.com/track/5ATro8iHnekyweon2xjf36) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [I Still Love You](https://open.spotify.com/album/2HOO0SKx71DqVJ5exvWTrY) | 2:34 |
 | 38 | [Attention \- Moscoman Remix](https://open.spotify.com/track/0Sx8gyhFV4B7bnj8xh8kpt) | [Cagedbaby](https://open.spotify.com/artist/2sbZiktyjJtAAWs3LHeHzO), [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN), [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Attention](https://open.spotify.com/album/5dHNiXlC7nUK0KGvWymFqs) | 7:02 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 65 | [Turn It Into Love](https://open.spotify.com/track/0NguAN1GjgnNFXqqu3V3LT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Froya](https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI) | [Turn It Into Love](https://open.spotify.com/album/1QsRm8LBLS07AwJzaNZa9v) | 3:56 |
 | 66 | [Lights Out](https://open.spotify.com/track/3hzazse5o4NZA13isN8eMp) | [GRAEY](https://open.spotify.com/artist/7IWvzeznlyMEE1APQe9iFL) | [Lights Out](https://open.spotify.com/album/42vVIc93UsSgQKFrtsnoet) | 3:12 |
 
-Snapshot ID: `MCwwMDFlZTdkYzFlY2E0YWUwMzNhMmY4MTk0YzczYmMwZDgyM2M4NjI2`
+Snapshot ID: `MCxjZGFkNTM2ZDFjNDIzMjgxMTFlNTJmMjI3NzMwYjQ0ZjNiM2MxZTYx`

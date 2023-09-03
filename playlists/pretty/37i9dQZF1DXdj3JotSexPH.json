@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzMwYTdmNmZmNTFlM2NjNGM4MTcwZWYwNmY3NzAyYzA5ZGM3NmYz",
+  "snapshot_id": "MCw4MTE3MTc3ZTkxNWZiYTk0MDU1ZWIxMmJhNTIzMDI0ZjAyYzE3YzA1",
   "tracks": [
     {
       "added_at": "2023-07-10 09:24:11",
@@ -763,18 +763,26 @@
     {
       "added_at": "2023-07-10 09:24:11",
       "album": {
-        "name": "SHOOTA",
-        "url": "https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy"
+        "name": "3al Keif",
+        "url": "https://open.spotify.com/album/51Lof84YvtpZtdNOZonXkJ"
       },
       "artists": [
         {
           "name": "Vortex",
           "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        },
+        {
+          "name": "Slow Moe",
+          "url": "https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd"
+        },
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
         }
       ],
-      "duration_ms": 149536,
-      "name": "SHOOTA",
-      "url": "https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb"
+      "duration_ms": 229090,
+      "name": "3al Keif",
+      "url": "https://open.spotify.com/track/4SG09CqoJMKO7EGfJCD0VZ"
     },
     {
       "added_at": "2023-07-10 09:24:11",
@@ -891,26 +899,18 @@
     {
       "added_at": "2023-07-10 09:24:11",
       "album": {
-        "name": "3al Keif",
-        "url": "https://open.spotify.com/album/51Lof84YvtpZtdNOZonXkJ"
+        "name": "SHOOTA",
+        "url": "https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy"
       },
       "artists": [
         {
           "name": "Vortex",
           "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
-        },
-        {
-          "name": "Slow Moe",
-          "url": "https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd"
-        },
-        {
-          "name": "Wezza Montaser",
-          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
         }
       ],
-      "duration_ms": 229090,
-      "name": "3al Keif",
-      "url": "https://open.spotify.com/track/4SG09CqoJMKO7EGfJCD0VZ"
+      "duration_ms": 149536,
+      "name": "SHOOTA",
+      "url": "https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb"
     },
     {
       "added_at": "2023-07-10 09:24:11",

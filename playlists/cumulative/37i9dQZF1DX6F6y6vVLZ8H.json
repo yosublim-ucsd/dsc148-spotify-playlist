@@ -34,10 +34,28 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 225680,
       "name": "Afraid of Heights",
       "url": "https://open.spotify.com/track/0qlgfcFAsrlNCD4tBGVAY9"
+    },
+    {
+      "album": {
+        "name": "Afraid of Heights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4VvTNytClnO6CUaAAFQ26e"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "Afraid of Heights",
+      "url": "https://open.spotify.com/track/1MJ2PGCxb3DWkd7ES6Z2Nw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 169946,
+  "num_followers": 170095,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJmZGViZGM5OTU1NGExODVlYzJlZmU4MDUzMjcxMWEzYzA4Zjdj",
+  "snapshot_id": "MCxkMDUwMDg2OTU0OWRlOGYyZTE0YmJiNTI2OTA1OWFmNDAxMzAzMDY1",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Back To Work",
-        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 291663,
-      "name": "Canci\u00f3n",
-      "url": "https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
         "name": "Aqui Estoy Yo",
         "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 322360,
       "name": "Si Me Dejas Amarte",
       "url": "https://open.spotify.com/track/6WECgPu7PHErTFnehoRSc8"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Back To Work",
+        "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 291663,
+      "name": "Canci\u00f3n",
+      "url": "https://open.spotify.com/track/28F535MpSIBFy2DtsYbH7L"
     },
     {
       "added_at": "2022-12-30 20:18:36",

@@ -4,7 +4,7 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-80 songs - 4 hr 39 min
+81 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,10 +82,11 @@
 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 |  |
 | [Traveler](https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:14 | 2023-02-08 |  |
 | [Venus](https://open.spotify.com/track/5dX9TNpjvYtBgdVfyKcSkH) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 3:08 | 2023-02-09 |  |
-| [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/track/3jXJmRPGuCkkq3P6D9apMT) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [kim seungyoon](https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI) | [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/album/1iLbD5VKkdQPEYBcygEokK) | 3:18 | 2023-02-24 |  |
+| [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/track/3jXJmRPGuCkkq3P6D9apMT) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [kim seungyoon](https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI) | [walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/album/1iLbD5VKkdQPEYBcygEokK) | 3:18 | 2023-02-24 | 2023-09-03 |
 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 | 2023-05-02 |  |
 | [WHY YOU?](https://open.spotify.com/track/76ikZIYciIVbTPfNLTAAwX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [WHY YOU?](https://open.spotify.com/album/29OG07EpYadviilDMVEgd4) | 2:55 | 2023-02-08 |  |
 | [You know, I..](https://open.spotify.com/track/6kkFS4iHPPDvmoIElvJgO6) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Sue Museum](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Dreaming](https://open.spotify.com/album/7IzsDD8eL1pq38mXO6q0Yc) | 2:56 | 2023-02-08 |  |
+| [걸어서 달까지 walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/track/6KK53NBegVg1DjUh9w5Wtn) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB), [kim seungyoon](https://open.spotify.com/artist/4JLS2R4A5ob8Fra7UpUtBI) | [걸어서 달까지 walk to the moon \(feat\. kim seungyoon\)](https://open.spotify.com/album/0BgBKmOe0WnWjMkVuxLSAS) | 3:18 | 2023-08-25 |  |
 | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [긴 밤 \(feat\. GIRIBOY\)](https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043) | 3:30 | 2023-02-08 |  |
 | [목욕해](https://open.spotify.com/track/7vvakctfHY7xQB3kKAz2B9) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [목욕해](https://open.spotify.com/album/4NUMVg27eQ6OScjETNP5Ra) | 3:01 | 2023-02-08 |  |
 

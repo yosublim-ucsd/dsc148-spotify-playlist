@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Bakar
 
-1,263 songs - 3 day 2 hr 45 min
+1,264 songs - 3 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,7 +696,8 @@
 | [Lucky Few](https://open.spotify.com/track/4qHrz46MUEcedA0kPTHRo4) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Lucky Few](https://open.spotify.com/album/4SzShpvonJdCBrsXSKSnJC) | 3:05 | 2022-05-13 | 2022-06-25 |
 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 | 2023-06-23 |  |
 | [Lunchtime](https://open.spotify.com/track/6N62tx63qPmn4KvXJszqgr) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Lunchtime](https://open.spotify.com/album/2CMjz9lnTrLQAecRlZZiL9) | 3:18 | 2021-12-31 | 2022-01-15 |
-| [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 | 2023-07-07 |  |
+| [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 | 2023-07-07 | 2023-09-03 |
+| [Lwonesome Tonight](https://open.spotify.com/track/6Yhk3snL6uYrbzIjU4xKzI) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/2ik9ifrDdzxRsJU9fy9TFc) | 3:48 | 2023-08-25 |  |
 | [Magazine Man](https://open.spotify.com/track/1fdKtCzN4rl4G0LIM04RMP) | [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Magazine Man](https://open.spotify.com/album/45Lc43lPyFWYJQN4JgXARq) | 3:41 | 2023-03-31 | 2023-04-09 |
 | [Make Peace with That](https://open.spotify.com/track/2Ps3rsuD8K52laHDdQLIJw) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 2:02 | 2021-12-31 | 2022-01-15 |
 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 | 2022-07-02 |

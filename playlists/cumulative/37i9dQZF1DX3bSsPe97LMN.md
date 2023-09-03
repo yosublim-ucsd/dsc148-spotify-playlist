@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. ERRE en portada.
 
-403 songs - 20 hr 49 min
+404 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [De Este Lado](https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT) | [Jose Torres El Rey De Alto Mando](https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o) | [De Este Lado](https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG) | 3:07 | 2023-06-09 |  |
 | [De La Nada](https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf), [Hd\_offisial](https://open.spotify.com/artist/5nKa5tAE66U8DCpVmR3AsX) | [De La Nada](https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ) | 4:24 | 2023-01-27 | 2023-08-05 |
 | [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-04-14 | 2023-07-08 |
-| [De Ti No Lo Esperaba](https://open.spotify.com/track/1aEq8Z97NDTiqnC3kBLgqb) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/1inwitAIaD1Fe5Yx8f8NmK) | 3:13 | 2023-07-21 |  |
+| [De Ti No Lo Esperaba](https://open.spotify.com/track/1aEq8Z97NDTiqnC3kBLgqb) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [De Ti No Lo Esperaba](https://open.spotify.com/album/1inwitAIaD1Fe5Yx8f8NmK) | 3:13 | 2023-07-21 | 2023-09-03 |
 | [Dejémoslo Así](https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Dejémoslo Así](https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1) | 3:29 | 2023-06-23 |  |
 | [Despues De Ti](https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Despues De Ti](https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx) | 2:15 | 2022-07-08 | 2022-08-06 |
 | [Después De Ella](https://open.spotify.com/track/7Hj5ZFc2W1AVfyN4FNW7Tt) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [2023](https://open.spotify.com/album/15IMqHJ9SDCObrchMwqUPY) | 2:58 | 2023-05-05 | 2023-07-22 |
@@ -241,6 +241,7 @@
 | [Mi Peor Versión](https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Mi Peor Versión](https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk) | 2:36 | 2023-05-19 |  |
 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 | 2022-02-23 | 2022-09-24 |
 | [MIA](https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [MIA](https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw) | 3:17 | 2022-12-23 | 2023-04-15 |
+| [Mil Amores](https://open.spotify.com/track/2eeTM1WSUz8ge39RZVpiQd) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX) | [Mil Amores](https://open.spotify.com/album/1yNYaCIrzyFjCoCeeMDCwK) | 2:42 | 2023-09-01 |  |
 | [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 | 2022-11-18 | 2023-02-25 |
 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 | 2022-05-13 | 2022-10-08 |
 | [Mix El Chúntaro Style\-Tu Cariñito \- En Vivo](https://open.spotify.com/track/7LcHdy74Uy18kqCjidLrPR) | [Banda La Tocadora](https://open.spotify.com/artist/0OasfAJiGwikx5wG5wuSy6) | [Mix El Chúntaro Style\-Tu Cariñito \(En Vivo\)](https://open.spotify.com/album/0vLBpea6TFRVmYYEohGhF5) | 6:29 | 2023-08-18 |  |

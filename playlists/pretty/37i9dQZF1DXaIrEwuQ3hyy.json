@@ -1,12 +1,12 @@
 {
   "description": "Die Tage werden k\u00fcrzer und die Luft frischer. Hier ist dein Soundtrack f\u00fcr den goldenen Herbst.",
-  "num_followers": 1006599,
+  "num_followers": 1006863,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmQ4OWM3MmUxNjcyZDYxNzliMTI5NzI0Mjk3NTYyODFmYTAxY2Ew",
+  "snapshot_id": "MCw0ZDZhNzRiOGRmM2M3Y2UzMjA4ZjkwYzRjMjY5MTg2NTI4OGRjZTQw",
   "tracks": [
     {
       "added_at": "2023-09-01 17:48:04",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-09-01 17:48:04",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
-    },
-    {
-      "added_at": "2023-09-01 17:48:04",
-      "album": {
         "name": "Inspirations",
         "url": "https://open.spotify.com/album/0i73CBJl788pVN1OendqgI"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2023-09-01 17:48:04",
       "album": {
-        "name": "Guitar",
-        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Guitar",
-      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-09-01 17:48:04",
@@ -883,6 +867,22 @@
       "duration_ms": 197748,
       "name": "Jessie (i miss you)",
       "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
+    },
+    {
+      "added_at": "2023-09-01 17:48:04",
+      "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Guitar",
+      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
     },
     {
       "added_at": "2023-09-01 17:48:04",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-01 17:48:04",
       "album": {
-        "name": "Home (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 226057,
-      "name": "Home (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
-    },
-    {
-      "added_at": "2023-09-01 17:48:04",
-      "album": {
         "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
         "url": "https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 267880,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
+    },
+    {
+      "added_at": "2023-09-01 17:48:04",
+      "album": {
+        "name": "Home (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 226057,
+      "name": "Home (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
     },
     {
       "added_at": "2023-09-01 17:48:04",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-09-01 17:48:04",
       "album": {
-        "name": "trip",
-        "url": "https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Friedberg",
-          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "luft (feat. Friedberg)",
-      "url": "https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9"
-    },
-    {
-      "added_at": "2023-09-01 17:48:04",
-      "album": {
         "name": "Kahan (last year)",
         "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 216000,
       "name": "Kahan (last year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": "2023-09-01 17:48:04",
+      "album": {
+        "name": "trip",
+        "url": "https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "luft (feat. Friedberg)",
+      "url": "https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9"
     },
     {
       "added_at": "2023-09-01 17:48:04",

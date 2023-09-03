@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 16 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
 | 17 | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj) | 2:43 |
 | 18 | [Decide](https://open.spotify.com/track/1agoTVhdFUt7ELV8MTDBvc) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Decide](https://open.spotify.com/album/2slywIgmb7LB6uZxh68HCO) | 4:28 |
-| 19 | [FASHION](https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [FASHION](https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH) | 3:13 |
-| 20 | [Us vs](https://open.spotify.com/track/06Fl6Sd3IA4pdK7vlAdTvr) | [Rock N Roll Mafia](https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc), [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Unreleased Project, Vol\. 1](https://open.spotify.com/album/2YFa7bbWA742O1sgbXfCZi) | 3:50 |
+| 19 | [Us vs](https://open.spotify.com/track/06Fl6Sd3IA4pdK7vlAdTvr) | [Rock N Roll Mafia](https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc), [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Unreleased Project, Vol\. 1](https://open.spotify.com/album/2YFa7bbWA742O1sgbXfCZi) | 3:50 |
+| 20 | [FASHION](https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [FASHION](https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH) | 3:13 |
 | 21 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 |
 | 22 | [I'm Da Man](https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Da Man](https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm) | 3:04 |
 | 23 | [bad minah \(feat\. Hullera\)](https://open.spotify.com/track/2XdPqdiH87qb1101BEbfGL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:32 |
-| 24 | [Take Me Back](https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:41 |
-| 25 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 |
+| 24 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 |
+| 25 | [Take Me Back](https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:41 |
 | 26 | [Ain't Gonna Give Up](https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Ain't Gonna Give Up](https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3) | 3:53 |
 | 27 | [I'm Ugly](https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Ugly](https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E) | 2:22 |
 | 28 | [Fake Friends](https://open.spotify.com/track/1pl99AShk41rIlUkVzI4lu) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Fake Friends](https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu) | 2:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 39 | [i make time \(feat\. Matter Mos\)](https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:54 |
 | 40 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 
-Snapshot ID: `MjgyMjYxNDYsMDAwMDAwMDBiMDEwYjUzOTBiNTcyNmYxMzRmNGNiNjg2OGE2Zjc2Nw==`
+Snapshot ID: `MjgyMjc2OTMsMDAwMDAwMDAxZjlmZGYyYWFiM2ViYTM5YmIxZDdhNzAxNDM4ZGZkZg==`

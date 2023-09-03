@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Leatherette in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,548 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,555 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 20 | [Lavanda](https://open.spotify.com/track/70cCqfIrYQDRw7VVl7WE6Y) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP) | [Lavanda](https://open.spotify.com/album/2aVxyEwRpBg3QYmSPkuMeB) | 3:12 |
 | 21 | [CRISTALLI](https://open.spotify.com/track/4ZVyFW3LQyCuAogzMSaoox) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [CRISTALLI](https://open.spotify.com/album/52KLBDTEnwxIkJCjh0gRpK) | 2:35 |
 | 22 | [sanguino](https://open.spotify.com/track/4kQhL1adPsW5kKTORVdZA4) | [Porpora](https://open.spotify.com/artist/2FUNKcLYXzzgrQmxeSD6LN) | [sanguino](https://open.spotify.com/album/1eGCDgJO0MIxMQqbiWdfEf) | 2:26 |
-| 23 | [Non si può fermare](https://open.spotify.com/track/1uxWbcEqOMNWCiZs1o0uok) | [GOLA](https://open.spotify.com/artist/3FfyP3ijUGlnkFF5SSdDSG) | [Non si può fermare](https://open.spotify.com/album/7mqKwmPGBO9WoUcUmeMCf4) | 3:49 |
+| 23 | [Non si può fermare](https://open.spotify.com/track/1uxWbcEqOMNWCiZs1o0uok) | [GOLA](https://open.spotify.com/artist/3FfyP3ijUGlnkFF5SSdDSG) | [Non si può fermare](https://open.spotify.com/album/7mqKwmPGBO9WoUcUmeMCf4) | 3:52 |
 | 24 | [Senza mai guardarsi indietro](https://open.spotify.com/track/3QGx90XyhQZZUz7WKWMUCk) | [And So Your Life Is Ruined](https://open.spotify.com/artist/33mryanYYlYMiJnYAobfEk) | [Senza mai guardarsi indietro](https://open.spotify.com/album/6yTRDmKQJqpdXm0yNFFsTe) | 2:17 |
 | 25 | [Vento Triste](https://open.spotify.com/track/2jJEohR7Rxov9pb0qaLEe1) | [Spirito Di Lupo](https://open.spotify.com/artist/0XSkDAZ3BpvIpAnFSEfxvC) | [Vedo La Tua Faccia Nei Giorni Di Pioggia](https://open.spotify.com/album/5SKFyA8AeGpSVZFJoAJq1g) | 2:46 |
 | 26 | [Giovedì al fiume](https://open.spotify.com/track/4VVVxQnFbWbsyrAmH2KDKp) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [PRIME DUE](https://open.spotify.com/album/0sb4eecDOevF7nhZCP1Nni) | 4:15 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 50 | [Sbaglio peggiore](https://open.spotify.com/track/3496cFB078fy8zXdX108Gr) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Sbaglio peggiore](https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG) | 3:14 |
 | 51 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCwzZmM3OTU5YWRkOTAyYmY4NjVjYmY2OTY4MmZiNmJlNmI4N2EwZjNm`
+Snapshot ID: `MCw0YTZmNWZlMTk2N2JkZGY2ZDI5Mjc2NzA4NTQzZmViZTNiMDNmZjk2`

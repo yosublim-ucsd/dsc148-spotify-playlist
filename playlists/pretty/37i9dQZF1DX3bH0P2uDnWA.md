@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,426 likes - 138 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,566 likes - 138 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 104 | [You Meet the Nicest People \(In Your Dreams\) \(Electro Swing\)](https://open.spotify.com/track/0xLdR1lvZfsyXepQwDY9Jf) | [Swing City](https://open.spotify.com/artist/3APMjlZOb1eQ3yX5jUz6GR) | [You Meet the Nicest People \(In Your Dreams\) \(Electro Swing\)](https://open.spotify.com/album/4eo0MYjW0dziEPmKb6t2fh) | 3:07 |
 | 105 | [Code Red](https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN) | [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Code Red](https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9) | 3:48 |
 | 106 | [Small Town](https://open.spotify.com/track/6YbPQJkQVSNiXy0b1O49W6) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Electro Swing Sound System](https://open.spotify.com/album/0RRXuqJLde0suW2gLiBOtw) | 3:20 |
-| 107 | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \- Electro Swing Mix](https://open.spotify.com/track/3Go7DAxPF8VVxofLHlCckK) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \[Electro Swing Mix\]](https://open.spotify.com/album/7n313qSyFyOyFMvWNhS0nV) | 2:26 |
+| 107 | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \- Electro Swing Mix](https://open.spotify.com/track/1gG97yvTy6IAwtKWD86VSD) | [DanyloM](https://open.spotify.com/artist/6BzwqcclY8c6FNvMZc7Wtx), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Allegro Molto Vivace \(Piano Concerto in E Minor No\. 1\) \[Electro Swing Mix\]](https://open.spotify.com/album/2zLzFonWf8IaDjp7nrnDT8) | 2:26 |
 | 108 | [Love Us a Ruckus](https://open.spotify.com/track/6AUwEemrg6TQjYkGTr3det) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Bad Manners](https://open.spotify.com/album/2ChFqWOdeu5Wyppaaxfy51) | 4:04 |
 | 109 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 |
 | 110 | [Sing Sing Sing \- Extra Medium Remix](https://open.spotify.com/track/0DFuVQeTeIPYWvs4EbRSGC) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs), [Extra Medium](https://open.spotify.com/artist/4kCp7egBIcDpMGdlnsPv4I) | [Dance, Dance, Dance \(Extra Steps\)](https://open.spotify.com/album/1uXmunFGuc2alC1IIL2MoS) | 4:18 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 137 | [A Timeless Tale](https://open.spotify.com/track/6un59YUiVc6N1Sos22rE4f) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Gone Rogue](https://open.spotify.com/album/4vHMwdn3omUHLhCTDjOuOQ) | 3:06 |
 | 138 | [Cookie Monster \- Radio Edit](https://open.spotify.com/track/4zU15t9fJ5J0ERwbS7tGA7) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Lamuzgueule](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g) | [Cookie Monster \(Atom Smith Remix\)](https://open.spotify.com/album/2A4LLbcPe9eVG7bmBDfuM4) | 3:27 |
 
-Snapshot ID: `MCxhMGFkOGMxZjVhYTBhNjc4ZTZmYjM2MGJmMTJmMzhiNzVlZmE3M2Y5`
+Snapshot ID: `MCxkYTAwNmQ2ZjJjYmUzOTJjNjUzMGNjYTlmODgxODJkMGM2ZTVjNjkz`

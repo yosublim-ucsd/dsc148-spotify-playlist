@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/0xWkMSvVSUq5WvvijluVNW">2Shoes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,054 likes - 48 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,087 likes - 48 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 47 | [Indlela](https://open.spotify.com/track/20biXVfOt8Fm1Mxo123d5c) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Indlela](https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2) | 6:08 |
 | 48 | [Inkumbulo](https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Inkumbulo](https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt) | 5:22 |
 
-Snapshot ID: `MCwxZTcwNjcxYzYwZGEzMTgzZDVmZjM0MjgxNTM3MzVhYTFlYjg2NDE1`
+Snapshot ID: `MCw0NjgyMjNmMTBjNjNhNzBkNzYxZTY1MjRjZDE1OWMwNmVmYWIwOTQy`

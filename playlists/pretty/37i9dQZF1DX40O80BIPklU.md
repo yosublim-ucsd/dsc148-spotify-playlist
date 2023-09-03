@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Trueno y Cypress Hill en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,750 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,875 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 |
+| 1 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 |
 | 2 | [FUCK EL POLICE \- REMIX](https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [FUCK EL POLICE \(REMIX\)](https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s) | 2:22 |
 | 3 | [Quiero Ser Baladista](https://open.spotify.com/track/5vn7LJgmLIy8Xxg7359eO6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Quiero Ser Baladista](https://open.spotify.com/album/3jaL3oDxPdCwhCklNYFEaL) | 5:42 |
 | 4 | [\#B2B](https://open.spotify.com/track/4Jp9fqZoO1CVctAPJB29eC) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [\#B2B](https://open.spotify.com/album/4SXhzfcLwMl2sTSOkGBx5t) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Underrated](https://open.spotify.com/track/42EDLkzqnTmw2xZZ9bkfYT) | [Lego Skillz](https://open.spotify.com/artist/7jk87weJfexobhc1bJJt9M), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [Haze](https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr) | [Underrated](https://open.spotify.com/album/4bTHEqX5vfP9UiFairPree) | 3:00 |
 | 100 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 |
 
-Snapshot ID: `MCxmNmEzMGQyZTNkYzNlZmY4NzZmMTVlZTg1YmMzNjYzYWMzOTZlOTk3`
+Snapshot ID: `MCw3ODBhOTFjOWM1ODI5ZGE3Y2ZjOGM0ZmNhMmY1NmI3NDljNTY1YmNh`

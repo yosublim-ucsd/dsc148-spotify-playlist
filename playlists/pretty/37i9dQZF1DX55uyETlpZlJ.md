@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,650 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,654 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 6 | [Chaa](https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2) | [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chaa](https://open.spotify.com/album/3fNlWxPWdY8mzxgzXlLkNm) | 3:21 |
 | 7 | [Stronger](https://open.spotify.com/track/4bOP9QVpv7oFJEgm0xmX25) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [Stronger](https://open.spotify.com/album/52uN6o62Z7y2cvUD3LXZyR) | 1:02 |
 | 8 | [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 |
-| 9 | [Thukaali](https://open.spotify.com/track/3fibRdjawJagXWApjATWdg) | [Shiv Prasad](https://open.spotify.com/artist/6Hxm7zNBGOmCFJFFUS0OWO), [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [Thukaali](https://open.spotify.com/album/3eE3i02aV4DlfJFXzrY96k) | 3:57 |
+| 9 | [Thukaali](https://open.spotify.com/track/3fibRdjawJagXWApjATWdg) | [Shiv Prasad](https://open.spotify.com/artist/6Hxm7zNBGOmCFJFFUS0OWO), [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Mahadeva Swamy](https://open.spotify.com/artist/6AaB3Ib8emAWvrJADBOn4l) | [Thukaali](https://open.spotify.com/album/3eE3i02aV4DlfJFXzrY96k) | 3:57 |
 | 10 | [The Bengaluru Rap](https://open.spotify.com/track/531J3aPQNOF5MI0yq9ExwV) | [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp), [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [The Bengaluru Rap](https://open.spotify.com/album/6RMWhzbNAT2B1sQnwrBpGe) | 1:02 |
 | 11 | [Kaaduvalavale](https://open.spotify.com/track/5AnZosJYFmi1kkh4LdVVEO) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kaaduvalavale](https://open.spotify.com/album/6w8fcNBCtvW5rtAnpoJyLv) | 4:04 |
 | 12 | [Chii](https://open.spotify.com/track/2yYr2lCywrNP3y0VjijtTV) | [Shashi Bhat](https://open.spotify.com/artist/6zrtwiBmXEAANnSe1wFYdL), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Chii](https://open.spotify.com/album/4KyidUqwKaQKzYs1OGVSPJ) | 2:42 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 75 | [Hey Sanchari](https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN) | [Aravind Murali](https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy), [Sunil BT](https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9) | [Hey Sanchari](https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S) | 3:22 |
 | 76 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 |
 
-Snapshot ID: `MCw0MTNmOWQyZGE0YTFmYjIzNjkxYWQxMGIxYzBlMTNlZmViNTEyOTQ2`
+Snapshot ID: `MCxmNGRhNzc4YTQyZjQ0NDg5YmZkYjMyOWRhMWEzOTM2OGQxY2RiYTU4`

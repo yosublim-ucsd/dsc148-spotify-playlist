@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 571909,
+  "num_followers": 572051,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmUyODhiZTFkNGJhZDYxYmVkOTk3NDc1ZDRjNTE1YzFlZTAyM2U5",
+  "snapshot_id": "MCw0NmQzNzA1ZDllODVjMGQ1NGNkNTZiOWE0ZTVlYzI2YTQyZmJmMzA1",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Leoniden",
         "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 191169,
       "name": "Sisters",
       "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Here, Right Now",
-        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Going with You",
-      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Tenderfoot",
         "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Here, Right Now",
+        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Going with You",
+      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Heavy Objects",
-        "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 123200,
-      "name": "Heavy Objects",
-      "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Proportions",
         "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 178240,
       "name": "Sweet Melancholy",
       "url": "https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Heavy Objects",
+        "url": "https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 123200,
+      "name": "Heavy Objects",
+      "url": "https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Red & Blue",
-        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 213418,
-      "name": "Red & Blue",
-      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Kalif Onya",
         "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 238936,
       "name": "Kalif Onya",
       "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 213418,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Majored In Broken Hearts",
         "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
         "name": "Mirage Morning",
         "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
       },
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "hunger",
-        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
+        "name": "Aloe Vera (Clear My Mind)",
+        "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
       },
       "artists": [
         {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+          "name": "Some Sprouts",
+          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
         }
       ],
-      "duration_ms": 191297,
-      "name": "hunger",
-      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
+      "duration_ms": 163327,
+      "name": "Aloe Vera (Clear My Mind)",
+      "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Aloe Vera (Clear My Mind)",
-        "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
+        "name": "hunger",
+        "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
       },
       "artists": [
         {
-          "name": "Some Sprouts",
-          "url": "https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp"
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
         }
       ],
-      "duration_ms": 163327,
-      "name": "Aloe Vera (Clear My Mind)",
-      "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
+      "duration_ms": 191297,
+      "name": "hunger",
+      "url": "https://open.spotify.com/track/00FRYCC99BHS1ewIqteTwh"
     },
     {
       "added_at": "2023-08-29 08:42:33",

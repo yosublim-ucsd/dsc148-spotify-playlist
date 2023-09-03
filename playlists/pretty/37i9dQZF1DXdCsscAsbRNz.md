@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,603 likes - 226 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,599 likes - 226 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 20 | [Soft Remembrance](https://open.spotify.com/track/2Dn6n9kmDoHbP51xVeNM6s) | [The Eternalists](https://open.spotify.com/artist/5QtPdyrH3QEW55lpWcupc5) | [Soft Remembrance](https://open.spotify.com/album/77ysdKUcg8byKdeOykNDEb) | 2:44 |
 | 21 | [Dreamy Days](https://open.spotify.com/track/383UHUBQYnyrnFnfY1n3b8) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Dreamy Days](https://open.spotify.com/album/0mrp5JodYIw5JHNkszmJlj) | 2:28 |
 | 22 | [Some Of The Best](https://open.spotify.com/track/4zpLwv9T5KynW7NNrJH2RR) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [The Sleepers](https://open.spotify.com/album/0TavgJey3rSIHxqw3y3tm3) | 3:47 |
-| 23 | [Simplicity](https://open.spotify.com/track/1BYHA0Mfycu07N6t8lQnpW) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [The Gift](https://open.spotify.com/album/6vuNm2mA7rmAuiFC8Sj9pU) | 3:39 |
+| 23 | [Simplicity](https://open.spotify.com/track/1BYHA0Mfycu07N6t8lQnpW) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Gift](https://open.spotify.com/album/6vuNm2mA7rmAuiFC8Sj9pU) | 3:39 |
 | 24 | [In The Flow](https://open.spotify.com/track/6pIMPHYvfqfBeeuDkUbmu2) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [In The Flow](https://open.spotify.com/album/6bHR1V6UimjQDqRbG3QMKS) | 3:24 |
 | 25 | [The Space Between Us](https://open.spotify.com/track/6sjD1SSw6kbkSDi5qIUxQO) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Born Again](https://open.spotify.com/album/4VhkKxDXLDSmk9XxzJYWKo) | 2:54 |
 | 26 | [Amedeo](https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo](https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch) | 2:17 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 86 | [Merak](https://open.spotify.com/track/4saUR7QV5oTnzqj9XaZJFp) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Merak](https://open.spotify.com/album/3C3x7kYNc1rQdTC35wNNDX) | 2:48 |
 | 87 | [Divine](https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 3:07 |
 | 88 | [Looking Outside](https://open.spotify.com/track/3U2he6501wx8MSdGtGobri) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Room In Space](https://open.spotify.com/album/0xruoQGbzb2ttTqOevmAoW) | 3:02 |
-| 89 | [Breathhold](https://open.spotify.com/track/3NM51TRi6mY2S60vbMq1X6) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Breathhold](https://open.spotify.com/album/3somiBkLvnnEkPPzjSIlE2) | 3:08 |
+| 89 | [Breathhold](https://open.spotify.com/track/3NM51TRi6mY2S60vbMq1X6) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [Breathhold](https://open.spotify.com/album/3somiBkLvnnEkPPzjSIlE2) | 3:08 |
 | 90 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 91 | [Autumn Forest](https://open.spotify.com/track/4rYbGAvD3Es5dOulUhAviv) | [Park Leaf](https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ) | [Seasons EP](https://open.spotify.com/album/0G1Ho8P2ZzSv1o7beY3m7Y) | 2:50 |
 | 92 | [Sintra \- Ambient Mix](https://open.spotify.com/track/6Jvp6beybIW9umUJkjkWXV) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 |
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 177 | [A Presence Felt](https://open.spotify.com/track/1Uli6hijxurqXnmkNCZuyK) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5o7ZYBKSmXLLm9mIHIqJUc) | 3:04 |
 | 178 | [The Dusk](https://open.spotify.com/track/1IP6Rxvohb7Sv6c7eqCzx8) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [The Dusk](https://open.spotify.com/album/0Ed6n6t6YsIFh4XbInQaVv) | 2:40 |
 | 179 | [Vidda](https://open.spotify.com/track/56KUAxpFTyKJRWyAJGP1P8) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Vidda](https://open.spotify.com/album/1YbvVdTNlGGHfVOM7uL9FG) | 2:31 |
-| 180 | [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 |
+| 180 | [Storytelling](https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Storytelling](https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM) | 4:44 |
 | 181 | [The Flow \- Ambient Version](https://open.spotify.com/track/1npBONsS8I6x9PUwBVvGKl) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [The Flow](https://open.spotify.com/album/4No1BWcLfp9OnirTStsSPC) | 2:45 |
 | 182 | [Eau Rouge](https://open.spotify.com/track/0H9dq2PB8RxswjJaECzwoC) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Eau Rouge](https://open.spotify.com/album/3BC8lAsB5VUcdgIVhCdmZh) | 3:38 |
 | 183 | [Origins of Light](https://open.spotify.com/track/1cFNjRpfevyUzmUnyHLPfe) | [Night Poets](https://open.spotify.com/artist/13Dj1DIYUAAhlmDPdgoDui) | [Parts Unknown](https://open.spotify.com/album/0DY9PT0TNIiAmWSPw3GhK6) | 3:18 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 225 | [Lost But Not Forgotten](https://open.spotify.com/track/50F8hTHpGzxthbPiEEvDfE) | [Pacific Humble](https://open.spotify.com/artist/0OhoLNQJv9eCwRiwEUjv4e) | [Lost But Not Forgotten](https://open.spotify.com/album/3poS1xDMOdeoRHHXE21McX) | 2:03 |
 | 226 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 |
 
-Snapshot ID: `MCxjNzBmMjQyMzc3ODYyMTI5MjIyYzM1NTMyOTAxOTEyMWU0NDk5Zjc3`
+Snapshot ID: `MCwzYjI2NzkzMjFiOTM0NGE5OTRhOTFjMTYxMWMwZWVhZjk4NWQ5MTU4`

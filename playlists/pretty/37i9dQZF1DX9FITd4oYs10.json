@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17049,
+  "num_followers": 17053,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmU3OTFkMTkzYWQ0NmQ2MDA3M2IxOTNjNDJmN2ZhNmQ1NWZiMjk2",
+  "snapshot_id": "MCxhNGQ1ZWEyNDM5ZDJiNzgyYjVhZmJiNmYwYTQwZTY1ZDk3MWZkYzlm",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -623,38 +623,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Bonde da Madrugada pt. 2",
-        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 251050,
-      "name": "Rap, Cerva, Erva e Muita Larica",
-      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Oriente (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 529597,
-      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 256161,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 529597,
+      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Bonde da Madrugada pt. 2",
+        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 251050,
+      "name": "Rap, Cerva, Erva e Muita Larica",
+      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -763,6 +763,26 @@
       "duration_ms": 174211,
       "name": "Estilo Coyote",
       "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -867,26 +887,6 @@
       "duration_ms": 256760,
       "name": "Babylon By Gus",
       "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/2QsawLES5BqdJ9yYp5wjYs"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Racionais Mc's",
+        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 270188,
+      "name": "Mente do Vil\u00e3o",
+      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "A Divina Com\u00e9dia",
         "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 320744,
       "name": "A Divina Com\u00e9dia",
       "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Racionais Mc's",
-        "url": "https://open.spotify.com/album/0whm9a0ytiWcZLP7AbaDM4"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 270188,
-      "name": "Mente do Vil\u00e3o",
-      "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
     },
     {
       "added_at": "2023-03-10 03:01:00",

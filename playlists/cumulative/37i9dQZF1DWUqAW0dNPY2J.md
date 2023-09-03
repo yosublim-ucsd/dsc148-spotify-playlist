@@ -4,7 +4,7 @@
 
 > Songs that grace Suki Waterhouse's headphones whilst strolling NYC thinking about love\. Welcome to mixtape, a curator's playground.
 
-75 songs - 5 hr 5 min
+76 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Heaven's Only Wishful](https://open.spotify.com/track/0kKkbVim9GLVFsWDDcmgVb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Heaven's Only Wishful](https://open.spotify.com/album/1XHJnDkjL5yrkdRgl30SMM) | 4:03 | 2023-06-24 |  |
 | [I Do This All The Time](https://open.spotify.com/track/6Pgc3ulraOY7usQgIaIpK6) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [I Do This All The Time](https://open.spotify.com/album/2fOkjRk00FwotcjUliTv6x) | 4:51 | 2023-06-24 |  |
 | [I Don't Want Nobody](https://open.spotify.com/track/3jV9iL4dF5bzlDzNAd7P9c) | [Eddie Harris](https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4) | [I Need Some Money](https://open.spotify.com/album/4Wi9MPdAtk72NVE1LMYY9t) | 11:55 | 2023-06-24 |  |
-| [I Love You](https://open.spotify.com/track/4mKn6gwhP3HYuo11aNqI2y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:05 | 2023-06-24 |  |
+| [I Love You](https://open.spotify.com/track/4N8idxy0W2GDaEosAwPOMg) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 5:05 | 2023-06-24 |  |
+| [I Love You](https://open.spotify.com/track/4mKn6gwhP3HYuo11aNqI2y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:05 | 2023-06-24 | 2023-09-03 |
 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 | 2023-06-24 |  |
 | [I'd Love You to Want Me](https://open.spotify.com/track/6bKuIK89XZFe5fwW8whUlK) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [The Best Of Lobo](https://open.spotify.com/album/5FXBEje9MaN8rSPODQaXAL) | 4:07 | 2023-06-24 |  |
 | [It's you](https://open.spotify.com/track/366ZWAQxSeFY4HTXUJ1Kix) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Soliloquy](https://open.spotify.com/album/4MnvtQrwrK5SbdDWZULFyv) | 3:03 | 2023-06-24 |  |

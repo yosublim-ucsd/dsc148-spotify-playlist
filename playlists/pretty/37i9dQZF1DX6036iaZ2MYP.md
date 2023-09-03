@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Nana Fofie
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,038 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,048 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
 | 50 | [If U Fall](https://open.spotify.com/track/4pjSVYnxltm23BRjfDoA2q) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [If U Fall](https://open.spotify.com/album/76xbewSXevqMGgMTI2WQBb) | 2:36 |
 
-Snapshot ID: `MCxkOGZmODBlM2RjMTBhN2Q0ZjQ4Mzg4ZGE4ZWIzNzk0YjNlODI4YWU5`
+Snapshot ID: `MCwwNmU1YTRiMDEzNTRlMTA5NWRmMjBiNGY4OTY1YjM1NmQxNTZiMDRm`

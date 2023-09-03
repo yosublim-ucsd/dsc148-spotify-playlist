@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,546 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,579 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
 | 60 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 |
 | 61 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
-| 62 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
-| 63 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 |
-| 64 | [Feelings](https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp) | [Tonny K](https://open.spotify.com/artist/337etR6tCrVdPEREaN9Qqc), [Lil Saint](https://open.spotify.com/artist/7odbCfUO9CRAZH4NE4GdU4) | [Feelings](https://open.spotify.com/album/7hJtnNxChO1mGUtdWUuG6F) | 3:04 |
-| 65 | [Será Que Sentes](https://open.spotify.com/track/2XeXwzaBmXXHq2yQvvvqJE) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Será Que Sentes](https://open.spotify.com/album/76Hyfry2p94YnfTJrnbh64) | 2:52 |
+| 62 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 |
+| 63 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
+| 64 | [Será Que Sentes](https://open.spotify.com/track/2XeXwzaBmXXHq2yQvvvqJE) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Será Que Sentes](https://open.spotify.com/album/76Hyfry2p94YnfTJrnbh64) | 2:52 |
+| 65 | [Feelings](https://open.spotify.com/track/5vwt5fdPoIbNYkWPOBInfp) | [Tonny K](https://open.spotify.com/artist/337etR6tCrVdPEREaN9Qqc), [Lil Saint](https://open.spotify.com/artist/7odbCfUO9CRAZH4NE4GdU4) | [Feelings](https://open.spotify.com/album/7hJtnNxChO1mGUtdWUuG6F) | 3:04 |
 | 66 | [Bebé](https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Bebé](https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4) | 2:43 |
 | 67 | [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 |
 | 68 | [Só Uma Noite](https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [Só Uma Noite](https://open.spotify.com/album/28PX9MrdXuq9RbiOpE8Cfw) | 2:36 |
 | 69 | [tinha + sonhos](https://open.spotify.com/track/0TNO84l24GT3hyFpqxJ8U6) | [Curly](https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er) | [tinha + sonhos](https://open.spotify.com/album/58eeO1jjsoWAHQo8Y4MLbe) | 2:31 |
 | 70 | [Contigo](https://open.spotify.com/track/6vRa0xwMWiBR8fvGd7brnb) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Contigo](https://open.spotify.com/album/1dav5pLvS9gKsxuCcH5M1j) | 2:31 |
 
-Snapshot ID: `MCwyYzQ4YjI4ZjNhOGE2MWYyNGI0YjBhM2Q2MDM0MzNhMmY4Y2MxNWFi`
+Snapshot ID: `MCw3YTBkMzI4ZmY1MGIxYWFlYTAxODNhN2RlODgwMjBiNzUxZDM2N2Y1`

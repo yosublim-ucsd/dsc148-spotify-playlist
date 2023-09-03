@@ -317,20 +317,24 @@
     },
     {
       "album": {
-        "name": "Everybody's Talking (feat. Greg Blackman)",
+        "name": "Everybody's Talking",
         "url": "https://open.spotify.com/album/0b9Rn4o1UbsyW3rM4qR8tg"
       },
       "artists": [
         {
           "name": "Dutty Moonshine Big Band",
           "url": "https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W"
+        },
+        {
+          "name": "Greg Blackman",
+          "url": "https://open.spotify.com/artist/7r75JahMqaqUitdEipf65c"
         }
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176529,
-      "name": "Everybody's Talking (feat. Greg Blackman)",
+      "name": "Everybody's Talking",
       "url": "https://open.spotify.com/track/40JozCcMFdIbiqwjqu2iCc"
     },
     {

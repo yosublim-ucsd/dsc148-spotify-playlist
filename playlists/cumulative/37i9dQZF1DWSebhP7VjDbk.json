@@ -232,10 +232,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 193466,
       "name": "Cedo Ou Tarde",
       "url": "https://open.spotify.com/track/24vGY15CbB5vYtUEhirsGm"
+    },
+    {
+      "album": {
+        "name": "Daqui Pra Frente - NX Zero",
+        "url": "https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "Cedo Ou Tarde",
+      "url": "https://open.spotify.com/track/4chg7pMn6KWQSqisDBuOSn"
     },
     {
       "album": {

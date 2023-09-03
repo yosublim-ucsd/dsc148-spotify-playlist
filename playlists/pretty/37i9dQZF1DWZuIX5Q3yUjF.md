@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Angela Iris
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,254 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,264 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 26 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |
 | 27 | [non siamo crazy in love](https://open.spotify.com/track/6Xv6BTZfLTsOQgkPIIg1Nd) | [Francesco Kairos](https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [non siamo crazy in love](https://open.spotify.com/album/4w9xShJXyN7CWh1ShpkUFN) | 2:51 |
 | 28 | [Zucchero e Sale](https://open.spotify.com/track/7j0VFuLHABoRBuNHiAKclJ) | [Galèn](https://open.spotify.com/artist/6BfdGC99OcQ2v5ybCxWIR0) | [Zucchero e Sale](https://open.spotify.com/album/2CcnyLHcE1xqn2AtVBzHDM) | 2:54 |
-| 29 | [PARLAME 'E TE \(con Federico di Napoli & O'Tsunami\)](https://open.spotify.com/track/5hdEy03sDt2rk2hDMGUIUg) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [PARLAME 'E TE \(con Federico di Napoli & O'Tsunami\)](https://open.spotify.com/album/4ruBCav6dbun5BYOPQq2hd) | 2:53 |
+| 29 | [PARLAME 'E TE \(con Federico Di Napoli & O'Tsunami\)](https://open.spotify.com/track/5hdEy03sDt2rk2hDMGUIUg) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [PARLAME 'E TE \(con Federico Di Napoli & O'Tsunami\)](https://open.spotify.com/album/4ruBCav6dbun5BYOPQq2hd) | 2:53 |
 | 30 | [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/23nOsvRqMxX1pOb87u4xS2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 2:37 |
 | 31 | [Sad](https://open.spotify.com/track/08aoaYZTHhjUrB8sfDjk75) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Sad](https://open.spotify.com/album/629H7nL8k2fc0etekuLo27) | 2:58 |
 | 32 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 |
 | 65 | [Limite](https://open.spotify.com/track/1HYwX6zxcel9LD2ej5QEGR) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL) | [Limite](https://open.spotify.com/album/03InZ9HBmYZswI4ZAmaz4j) | 2:58 |
 
-Snapshot ID: `MCw0MTUwMWY1ZDFmNmM2Y2VkNjhlNmEzYTdhYzhlMWZhNzc4NjgwY2Iy`
+Snapshot ID: `MCxmZjk1ZWFmMjNmZmRmYmYzMTVmZDQxMzI4NGI1ZWY5YTUyNjJhZGIw`

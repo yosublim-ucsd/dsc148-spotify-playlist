@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj?si=P1uKXwPNRYePfDFuwLE1yA">Ilán van Staden</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,721 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,757 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Frikkie vir 'n Rukkie](https://open.spotify.com/track/3AnjywbfTox9a73rDCCEJy) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Frikkie vir 'n Rukkie](https://open.spotify.com/album/1HnATyn4XtduEf1IU1nOGj) | 2:55 |
 | 50 | [Tekkies Brand \- Cre8tro Remix](https://open.spotify.com/track/60xg0myi1c2g3dBhnE77DO) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma), [Cre8tro](https://open.spotify.com/artist/59ht5rH8CKq06KBYaks85z) | [Tekkies Brand \(Cre8tro Remix\)](https://open.spotify.com/album/1nSbpOqMKbjca12K49xPFL) | 3:54 |
 
-Snapshot ID: `MCwyMzI0OWViMzhiNzcxMWU4NmRkZDBmZTI3MGI5NjlmZTI5NmViYWVk`
+Snapshot ID: `MCxlN2FmN2YxYTAwMjY3MjQzMTFhZTM3Mjk1OWFmNWRkY2Y2NWZkYWMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Helena Deland
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,187 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,237 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [God Above](https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 |
 | 100 | [All At Once](https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [All At Once](https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO) | 3:47 |
 
-Snapshot ID: `MCwzYzU5MzdjNWViNWU0OGFiZjM5YWRjYzQ0ODhmNWI1MjBjZWU0MzZm`
+Snapshot ID: `MCxiZDAwMDZmMjA2Mzc5MTE5ZWRmYTU5MWIyMTVjZTc2YzdmYzM4ZDI4`

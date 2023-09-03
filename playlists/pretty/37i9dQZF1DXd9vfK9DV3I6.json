@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 278423,
+  "num_followers": 278574,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzVjZWE0OTM4MDBjMTNmMzU4OTU4NTYzZDJjZTIyZjgyNGRmZjZh",
+  "snapshot_id": "MCxmODI0NmQwMTZiODI1ODA0MTQ2ZGI5YWRmMGI4NDYzNDlhZmE4Nzdi",
   "tracks": [
     {
       "added_at": "2023-08-29 06:11:23",
@@ -543,26 +543,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
+        "name": "My Name Is Tokyo",
+        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
       },
       "artists": [
         {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+          "name": "Ilkan Gunuc",
+          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
         },
         {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "Rhi'N'B",
-          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
+          "name": "Emrah Turken",
+          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+      "duration_ms": 172216,
+      "name": "My Name Is Tokyo",
+      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -587,22 +583,26 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "My Name Is Tokyo",
-        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
       "artists": [
         {
-          "name": "Ilkan Gunuc",
-          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
         },
         {
-          "name": "Emrah Turken",
-          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Rhi'N'B",
+          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
         }
       ],
-      "duration_ms": 172216,
-      "name": "My Name Is Tokyo",
-      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
+      "duration_ms": 158400,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
+      },
+      "artists": [
+        {
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Il Mattino",
         "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 331206,
       "name": "Il Mattino",
       "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
-      },
-      "artists": [
-        {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -967,18 +983,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
       },
       "artists": [
         {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         }
       ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+      "duration_ms": 219202,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2eNP8ynGQaauz1pwPnsYH0"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 219202,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Ahwak (Deeper Remix)",
         "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
       },
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 435121,
       "name": "Tawada - Saint Evo Remix",
       "url": "https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
         "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
         "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 166416,
       "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
       "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
       "artists": [
         {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
         }
       ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1527,22 +1531,18 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
       "artists": [
         {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
         }
       ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-08-29 06:11:23",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-08-29 06:11:23",
       "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2023-08-29 06:11:23",
+      "album": {
         "name": "Yasameen",
         "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 344000,
       "name": "Yasameen",
       "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
-    },
-    {
-      "added_at": "2023-08-29 06:11:23",
-      "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     },
     {
       "added_at": "2023-08-29 06:11:23",

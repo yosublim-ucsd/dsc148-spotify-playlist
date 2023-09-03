@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-103 songs - 5 hr 59 min
+104 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [West II](https://open.spotify.com/track/5BEQ4qfouCdsNRgIA0byJR) | [RENNAN](https://open.spotify.com/artist/1Sq3SWhfNjw1e3gpCDTry0), [Sleep Down](https://open.spotify.com/artist/4WPd7xkPJiNiYPYhN2wlcO) | [West II](https://open.spotify.com/album/5yWHvuk4vUjNV1iu4ZonU1) | 3:54 | 2021-12-17 | 2022-04-29 |
 | [Where I Wanna Go](https://open.spotify.com/track/2hSLLqvbsCEozc2vXe1WzO) | [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Where I Wanna Go](https://open.spotify.com/album/443dlxphssrK2bGdYn1Nwm) | 3:52 | 2021-12-17 | 2022-04-09 |
 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 | 2021-12-17 |  |
-| [Yakuza](https://open.spotify.com/track/2v8UL40Ar3MlaPrdz81PDs) | [YZY](https://open.spotify.com/artist/4kbQi1dGkZxrgEQxwTzQzf) | [Yakuza](https://open.spotify.com/album/5DBTlrLRsXyd8XtBRMyXZw) | 2:24 | 2021-12-17 |  |
+| [Yakuza](https://open.spotify.com/track/2v8UL40Ar3MlaPrdz81PDs) | [YZY](https://open.spotify.com/artist/4kbQi1dGkZxrgEQxwTzQzf) | [Yakuza](https://open.spotify.com/album/5DBTlrLRsXyd8XtBRMyXZw) | 2:24 | 2021-12-17 | 2023-09-03 |
+| [Yakuza](https://open.spotify.com/track/64CQmRKekdMxt1JEpvglHT) | [YZY](https://open.spotify.com/artist/4kbQi1dGkZxrgEQxwTzQzf) | [Yakuza](https://open.spotify.com/album/0MJA5ttkLmoGnAnjXUcYI2) | 2:24 | 2023-08-25 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

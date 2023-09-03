@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Dynamic Duo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,732 likes - 135 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,693 likes - 135 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 130 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 |
 | 131 | [MAPSI](https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [MAPSI](https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05) | 2:40 |
 | 132 | [Glow \(feat\. Royal 44\)](https://open.spotify.com/track/3eO9L6VaAiXmX1s59uD3b1) | [Xwally](https://open.spotify.com/artist/1bJudkGbYinY2AIQeEi9Cd), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [XARCHIVE](https://open.spotify.com/album/4cP3cA5rtTkXi5iIDrfwaW) | 3:25 |
-| 133 | [Nonsense](https://open.spotify.com/track/4F9lsEUqiJlpW1SE3DQMBX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [EDDY](https://open.spotify.com/artist/2I5WCuHrCLEemr7N04T9KN) | [LovebrûléeADVISORY](https://open.spotify.com/album/1VVGCxNDKpsU7ya1oOM6dI) | 2:40 |
+| 133 | [말도 안 돼 Nonsense](https://open.spotify.com/track/0mrrVsJ5EGGY84ugYzTWbz) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [EDDY](https://open.spotify.com/artist/2I5WCuHrCLEemr7N04T9KN) | [애브륄레어드바이져리 LovebrûléeADVISORY](https://open.spotify.com/album/4EqrHsknZhGp75bi2lbjkk) | 2:40 |
 | 134 | [WOW \(Prod\. GroovyRoom\)](https://open.spotify.com/track/7ess2wDLy17GpjWSWJuIw0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:25 |
 | 135 | [KrOWN\_lIlBOI](https://open.spotify.com/track/3Qdm41qaQkvYqL4SBP41fj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [KrOWN audio liner](https://open.spotify.com/album/7C0wLTmWoth1H3ZCTAVxDf) | 0:04 |
 
-Snapshot ID: `MCxjNjI2MzhiYTM1ZTE5ZjQzZjI1M2FlNjQ1YThjNjI1MmE1ZjAyMzEy`
+Snapshot ID: `MCw2NDQ1Y2ZkMDZjZjY0YWMyNWIwYjU0YjQzZmJlNzQ4MGNkMWM5YzE3`

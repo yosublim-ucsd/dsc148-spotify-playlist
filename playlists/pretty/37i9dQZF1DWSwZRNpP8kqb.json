@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 19670,
+  "num_followers": 19687,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTdmNDkyNTM1OWVmMGUwNjlkMWY0MWNkZGFiMDYyMDNkNWFjNGRh",
+  "snapshot_id": "MCw3MDhhN2QzZDZkMjA2MzY0OTE5YzVkODFjZmU5MWFjM2NmNTAxZDY3",
   "tracks": [
     {
       "added_at": "2023-09-01 22:13:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
+        "name": "Escondido En Mi Pa\u00eds",
+        "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Para Cantar He Nacido",
+      "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
         "name": "Entre Valles y Quebradas",
         "url": "https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 211200,
       "name": "Viene Clareando",
       "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Escondido En Mi Pa\u00eds",
-        "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Para Cantar He Nacido",
-      "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+    },
+    {
+      "added_at": "2023-09-01 22:13:00",
+      "album": {
         "name": "Coraz\u00f3n de Agua",
         "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 263428,
       "name": "Coraz\u00f3n de Agua",
       "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
-    },
-    {
-      "added_at": "2023-09-01 22:13:00",
-      "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -831,18 +831,26 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Gaucha",
-        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+        "name": "Ysyry",
+        "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
       },
       "artists": [
         {
-          "name": "Mavi Diaz &  Las Folkies",
-          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+          "name": "D\u00fao Bote",
+          "url": "https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL"
+        },
+        {
+          "name": "Abel Tesoriere",
+          "url": "https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS"
+        },
+        {
+          "name": "Flor Bobadilla Oliva",
+          "url": "https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j"
         }
       ],
-      "duration_ms": 107710,
-      "name": "La Arruguita",
-      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
+      "duration_ms": 154644,
+      "name": "Camb\u00e1 Galleta",
+      "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
     },
     {
       "added_at": "2023-09-01 22:13:00",
@@ -883,26 +891,18 @@
     {
       "added_at": "2023-09-01 22:13:00",
       "album": {
-        "name": "Ysyry",
-        "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
+        "name": "Gaucha",
+        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
       },
       "artists": [
         {
-          "name": "D\u00fao Bote",
-          "url": "https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL"
-        },
-        {
-          "name": "Abel Tesoriere",
-          "url": "https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS"
-        },
-        {
-          "name": "Flor Bobadilla Oliva",
-          "url": "https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j"
+          "name": "Mavi Diaz &  Las Folkies",
+          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
         }
       ],
-      "duration_ms": 154644,
-      "name": "Camb\u00e1 Galleta",
-      "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
+      "duration_ms": 107710,
+      "name": "La Arruguita",
+      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
     },
     {
       "added_at": "2023-09-01 22:13:00",

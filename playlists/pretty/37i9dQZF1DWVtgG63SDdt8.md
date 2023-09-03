@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh?si=b4a9f921838d44fb">JJ Heller</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,923 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,125 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Look for Miracles](https://open.spotify.com/track/0E4zJBBIpN7xtit7XRMlce) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Look for Miracles](https://open.spotify.com/album/58vk9WN6LAG5Pj2t4QKDQw) | 3:29 |
 | 2 | [Slow Down](https://open.spotify.com/track/6qADTQ9d3X2mK9ZvMC2EN3) | [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E) | [Slow Down](https://open.spotify.com/album/2PVZfplzjgtRvEpEniJWew) | 3:11 |
-| 3 | [I Lay It Down](https://open.spotify.com/track/00pIogLJIuzEt6BgGqmeSU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Lay It Down](https://open.spotify.com/album/4zCQTxGGVRYQXQtakZeqnV) | 4:53 |
+| 3 | [Lay It Down](https://open.spotify.com/track/00pIogLJIuzEt6BgGqmeSU) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Lay It Down](https://open.spotify.com/album/4zCQTxGGVRYQXQtakZeqnV) | 4:53 |
 | 4 | [My Inheritance](https://open.spotify.com/track/2WqciR3rQkk09eWCrxtjo3) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [My Inheritance](https://open.spotify.com/album/7LxrrpGOizlJSuXhVGNWUR) | 3:34 |
 | 5 | [Oh My Soul](https://open.spotify.com/track/0uQfatIe71HRJHJrBdtlNc) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Voice of Truth](https://open.spotify.com/album/5g3V6zzN6xNcdPzJOaak14) | 4:23 |
 | 6 | [The Prodigal](https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Fall of Jericho](https://open.spotify.com/track/7hOYbrfXukER0EfR9qs2Nk) | [Jordan Merritt](https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Fall of Jericho](https://open.spotify.com/album/4n4PdRG45xcXy5Ux88JmEU) | 5:14 |
 | 100 | [Glory](https://open.spotify.com/track/05OXsOuUQCXHiIN0n9OZGv) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Glory](https://open.spotify.com/album/0C73WdxXWeUXdAV84fOg0v) | 3:20 |
 
-Snapshot ID: `MCxhODE4Y2YzNDk0YWMyODMyOWJjOTlkZGM1ODVlNGFhNjBmNmJkYWM2`
+Snapshot ID: `MCw3NmUzNTFlNjQ5ZWUyODlhYTY1ZDYzZGYxYzY2ZDQ2NjA5OTA4NWI4`

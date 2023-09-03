@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Ganas (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215478,
+      "name": "Ganas - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
+    },
+    {
+      "album": {
         "name": "Gozando",
         "url": "https://open.spotify.com/album/5qlTbCPV7gUDC9uWZygodC"
       },
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 272013,
       "name": "No hay nadie m\u00e1s",
       "url": "https://open.spotify.com/track/7dBAzD9u3759XcFKFQdVaD"

@@ -633,6 +633,28 @@
     },
     {
       "album": {
+        "name": "Nightdrive with You (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/7xBJCm0QkQTddVvnldfHeJ"
+      },
+      "artists": [
+        {
+          "name": "Anoraak",
+          "url": "https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC"
+        },
+        {
+          "name": "Fear Of Tigers",
+          "url": "https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy"
+        }
+      ],
+      "date_added": "2022-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355080,
+      "name": "Nightdrive with You (Fear Of Tigers Remix) - Bonus Track",
+      "url": "https://open.spotify.com/track/7el1SndXaSC3EiuafO7UKB"
+    },
+    {
+      "album": {
         "name": "Odd Look",
         "url": "https://open.spotify.com/album/3FHMLI0Vz2t0gdypH1yImX"
       },
@@ -720,7 +742,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 312466,
       "name": "Romance Noire",
       "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"

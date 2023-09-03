@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 28993,
+  "num_followers": 29008,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
+  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly George Morel",
+        "url": "https://open.spotify.com/album/3lG38OKSc0AHVmbY3V685C"
+      },
+      "artists": [
+        {
+          "name": "George Morel",
+          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
+        }
+      ],
+      "duration_ms": 417466,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/09YDYNdzjCbKI3lF8Sr2UO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
         "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 566026,
       "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
       "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly George Morel",
-        "url": "https://open.spotify.com/album/3lG38OKSc0AHVmbY3V685C"
-      },
-      "artists": [
-        {
-          "name": "George Morel",
-          "url": "https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy"
-        }
-      ],
-      "duration_ms": 417466,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/09YDYNdzjCbKI3lF8Sr2UO"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "So Deep, So Good",
-        "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
-      },
-      "artists": [
-        {
-          "name": "M & M",
-          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
-        }
-      ],
-      "duration_ms": 456240,
-      "name": "So Deep, So Good - Ndako Gboya Mix",
-      "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 350066,
       "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
       "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "So Deep, So Good",
+        "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
+      },
+      "artists": [
+        {
+          "name": "M & M",
+          "url": "https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7"
+        }
+      ],
+      "duration_ms": 456240,
+      "name": "So Deep, So Good - Ndako Gboya Mix",
+      "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Move Your Body (feat. LaVette) [Mixes]",
+        "url": "https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH"
+      },
+      "artists": [
+        {
+          "name": "Chicago Syndicate",
+          "url": "https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK"
+        },
+        {
+          "name": "LaVette",
+          "url": "https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY"
+        }
+      ],
+      "duration_ms": 228238,
+      "name": "Move Your Body (feat. LaVette) - Radio Mix",
+      "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Move Your Body (feat. LaVette) [Mixes]",
-        "url": "https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH"
-      },
-      "artists": [
-        {
-          "name": "Chicago Syndicate",
-          "url": "https://open.spotify.com/artist/5befKalz5kgPwZbF4eXtXK"
-        },
-        {
-          "name": "LaVette",
-          "url": "https://open.spotify.com/artist/4iEyCQwLkQtfrBUu0KIjTY"
-        }
-      ],
-      "duration_ms": 228238,
-      "name": "Move Your Body (feat. LaVette) - Radio Mix",
-      "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam"
-      },
-      "artists": [
-        {
-          "name": "Motion Lotion",
-          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
-        }
-      ],
-      "duration_ms": 554971,
-      "name": "The Sound - The Studio 54 Mix",
-      "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Muzik",
         "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
       },
@@ -1295,6 +1279,26 @@
       "duration_ms": 379760,
       "name": "Muzik - The Siren Mix",
       "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Generate Power (Mixes)",
+        "url": "https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl"
+      },
+      "artists": [
+        {
+          "name": "Photon Inc.",
+          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
+        },
+        {
+          "name": "Paula Brion",
+          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Generate Power (feat. Paula Brion) - Radio Mix",
+      "url": "https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

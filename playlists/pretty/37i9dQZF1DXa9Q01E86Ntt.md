@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,945 likes - 57 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,133 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 |
-| 2 | [energy flow](https://open.spotify.com/track/3lam56BGPAHGpzKeOZwBW1) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [ウラBTTB](https://open.spotify.com/album/5uJn2krSFUsP5CrtP8ccFL) | 4:35 |
+| 2 | [energy flow](https://open.spotify.com/track/6rXnP6n3myylS9PV4N53ID) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:32 |
 | 3 | [20210310](https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 6:53 |
 | 4 | [い・け・な・い ルージュマジック](https://open.spotify.com/track/3fPcPSsCUT4jL7tUvbAYOC) | [Kiyoshiro Imawano](https://open.spotify.com/artist/65su2o6jvWfsVRK5uRfvF9), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [ベストヒット清志郎](https://open.spotify.com/album/68lNNhlnQMNTYgQq8kh0tT) | 4:10 |
 | 5 | [Blu](https://open.spotify.com/track/2sKNqfBuZ9Z1Q9JIF3e1D8) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Best of 'Playing the Orchestra 2014'](https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I) | 5:19 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 56 | [Reunion](https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:39 |
 | 57 | [Discovering River](https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 1:11 |
 
-Snapshot ID: `MCxjNGU5NzkwZWVkYzM3ZmJiYWRjNGJjNTZiZmQ5NTZhNWIxYzM0NWEy`
+Snapshot ID: `MCw1ZGYzYjIxOTAzZTFiOTBmODVmZTY3MWQ3YmE4OTBiNDk4OGE5YTQ2`

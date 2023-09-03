@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 
 > Soothing piano and strings to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,996 likes - 128 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,122 likes - 128 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 45 | [Stuor Muorkke](https://open.spotify.com/track/0YicEESY4K4uK5iXldrVN6) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 1:47 |
 | 46 | [From This Day](https://open.spotify.com/track/3f7zGUeL92BJGxz5SYIiU8) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [From This Day](https://open.spotify.com/album/2m5DbSFjN1uUuvQ55QxAr1) | 3:16 |
 | 47 | [Mistral](https://open.spotify.com/track/5jagNBf5f4KJuUtt1SG1ID) | [Eva Nordstroem](https://open.spotify.com/artist/0UbUiRmguo8sTWZMEaG1ZO) | [Mistral](https://open.spotify.com/album/2Zeq0dsOsavJwQisliP7FB) | 1:13 |
-| 48 | [Divinity](https://open.spotify.com/track/2IPARS6gREjiJ8DMO0zRte) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Divinity](https://open.spotify.com/album/0I8qM3zwamIBPBcqt08e5J) | 3:56 |
+| 48 | [Divinity](https://open.spotify.com/track/2IPARS6gREjiJ8DMO0zRte) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [Divinity](https://open.spotify.com/album/0I8qM3zwamIBPBcqt08e5J) | 3:56 |
 | 49 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 |
 | 50 | [Tender](https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Tender](https://open.spotify.com/album/3NfGrGowW0H58RO8ZBDcP6) | 2:45 |
 | 51 | [Missing Harmony](https://open.spotify.com/track/2W08tDSfh59v7bw7v3Jani) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Missing Harmony](https://open.spotify.com/album/59FcURvu4YbOKsC0tvyXAe) | 3:41 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 127 | [Thankful](https://open.spotify.com/track/0fLniMyx3JO0FBuW8AjvNz) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Spring is Here](https://open.spotify.com/album/59xOA3f8FmCObSHn9pJuxk) | 3:07 |
 | 128 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 |
 
-Snapshot ID: `MCwxOGU1YjZiZTUyYTRlMTFhNTIyNDIwN2NmYTc3NzRkNzEyNDJhZTc0`
+Snapshot ID: `MCxjYjEyMWI3MmE0N2U3MWIyZDBhMTY1N2FiY2Q3NmZmOTFiYTkwYTAz`

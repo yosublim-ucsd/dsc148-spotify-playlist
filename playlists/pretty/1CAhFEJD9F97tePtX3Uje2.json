@@ -6,7 +6,7 @@
     "name": "leoyuki",
     "url": "https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw"
   },
-  "snapshot_id": "MjQwLGZjY2NmMjhkOGRmYzMxZmI4NjI5YWVkMWFmY2ZjODU1YmYzY2M2M2Q=",
+  "snapshot_id": "MjQxLDk0NDEwYWEzZjVhYzgyNGEzNmE5MDI4YTc0NTVkN2E4YjE0YzkxNGI=",
   "tracks": [
     {
       "added_at": "2018-11-27 22:12:08",
@@ -3827,6 +3827,26 @@
       "duration_ms": 209416,
       "name": "Memory Reboot",
       "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
+    },
+    {
+      "added_at": "2023-09-02 22:18:28",
+      "album": {
+        "name": "Tel Aviv (Lvst Remix)",
+        "url": "https://open.spotify.com/album/34ODEhPO5R9WWY64OjhDAq"
+      },
+      "artists": [
+        {
+          "name": "Skeler",
+          "url": "https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB"
+        },
+        {
+          "name": "Lvst",
+          "url": "https://open.spotify.com/artist/37tqE9Ue451lRMSdcy8BA5"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Tel Aviv (Lvst Remix)",
+      "url": "https://open.spotify.com/track/3LFAHDElPcGRmRoQBSnqGF"
     }
   ],
   "unique_name": "hardwave~phonk",

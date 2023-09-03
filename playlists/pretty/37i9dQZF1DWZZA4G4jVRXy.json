@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 125415,
+  "num_followers": 125441,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWFkY2U0MjNlNTgzNTIyMGVhYmVjZmNhZmZkMTJhNWYxODdhNTIz",
+  "snapshot_id": "MCxiMGQ0YmYzMGQxNmY1MzlmMzM4ZGQ2ZTFlOGE5OWU0ZmVlZGUzYzU0",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
-      },
-      "artists": [
-        {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Maunalua",
         "url": "https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 324920,
       "name": "Uilani / Baby Kalae",
       "url": "https://open.spotify.com/track/7JJfyOiDqeunc2wUc6Ryx1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge: Bongoland",
-        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
-      },
-      "artists": [
-        {
-          "name": "Terry Snyder",
-          "url": "https://open.spotify.com/artist/0iEZsPAuFqcd3MzuyxMIOc"
-        }
-      ],
-      "duration_ms": 341760,
-      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
-      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Don Ho Show! (Live)",
         "url": "https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 244800,
       "name": "Shells - Live from Hawaii",
       "url": "https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Bongoland",
+        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
+      },
+      "artists": [
+        {
+          "name": "Terry Snyder",
+          "url": "https://open.spotify.com/artist/0iEZsPAuFqcd3MzuyxMIOc"
+        }
+      ],
+      "duration_ms": 341760,
+      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
+      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
     },
     {
       "added_at": "2021-01-20 03:50:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Luna Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,951 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,964 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 3 | [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 |
 | 4 | [No hacía Falta](https://open.spotify.com/track/1IEYeI8x8kzDtmIVt4q87F) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Inteligencia Emocional](https://open.spotify.com/album/645SXZ5s04TQtgmfgwlzql) | 2:36 |
 | 5 | [Cafè](https://open.spotify.com/track/6sCofmkLZC3a2cCf7nU8Pa) | [ROJAZ](https://open.spotify.com/artist/2d0BUP7WeJ6caBJZHIn5G6) | [Cafè](https://open.spotify.com/album/1Q4lMGQ5B7eGyiV1fmnQsH) | 3:23 |
-| 6 | [Cuidare De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 |
+| 6 | [Cuidaré De Ti](https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Cuidaré De Ti](https://open.spotify.com/album/66t7uYODEltF75JDOSgroj) | 2:28 |
 | 7 | [Babel](https://open.spotify.com/track/4PO19uhmdFzNJIoYk0JVEm) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Babel](https://open.spotify.com/album/6OG8YyeIHzl4CPKad32yjN) | 3:40 |
 | 8 | [Claroscuro](https://open.spotify.com/track/6t5AmoKLAhN6XWNDUQAltS) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Claroscuro](https://open.spotify.com/album/3BheiqC8lenljgyXe4pkcu) | 2:41 |
 | 9 | [No Queda Duda](https://open.spotify.com/track/7xRS8KzaVSah3wiyYo7i8c) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [No Queda Duda](https://open.spotify.com/album/4MDmlRTMhSJLHbObCk08ag) | 2:44 |
 | 10 | [La Boda](https://open.spotify.com/track/4CxBy3zCERopNB0sqaY4p4) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [La Boda](https://open.spotify.com/album/1Csii0zzduzTYqvXS7Us3W) | 4:11 |
 | 11 | [Sunset](https://open.spotify.com/track/2YA3RGYuXPsuVy2tQOa0cf) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Sunset](https://open.spotify.com/album/0zemhsDxtW61XHT0BYvaG0) | 3:05 |
-| 12 | [Y SI NO SOY YO \(feat\. Gabriel de la Rosa\)](https://open.spotify.com/track/7fZ69MUMb7kDKGoJbOJ8vT) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Gabriel De La Rosa](https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX) | [Y SI NO SOY YO \(feat\. Gabriel de la Rosa\)](https://open.spotify.com/album/4f4fG0nuedXodaN5m0gUFa) | 2:52 |
-| 13 | [Elevarte Caer \(feat\. Repion\)](https://open.spotify.com/track/2Qkjg5aGBQl9PFdl6dxNRv) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Elevarte Caer \(feat\. Repion\)](https://open.spotify.com/album/6KER7OazGSboZWMKkXERXc) | 4:18 |
+| 12 | [Y SI NO SOY YO \(feat\. Gabriel de la Rosa, Shinova\)](https://open.spotify.com/track/7fZ69MUMb7kDKGoJbOJ8vT) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Gabriel De La Rosa](https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Y SI NO SOY YO \(feat\. Gabriel de la Rosa, Shinova\)](https://open.spotify.com/album/4f4fG0nuedXodaN5m0gUFa) | 2:52 |
+| 13 | [Elevarte Caer](https://open.spotify.com/track/2Qkjg5aGBQl9PFdl6dxNRv) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Elevarte Caer](https://open.spotify.com/album/6KER7OazGSboZWMKkXERXc) | 4:18 |
 | 14 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
 | 15 | [Comala](https://open.spotify.com/track/7zWSYeMxy8T9TdMlmJG4se) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Comala](https://open.spotify.com/album/7yzqVCp7b2CUBQvLemfwjn) | 1:39 |
 | 16 | [nunca me dejes </3](https://open.spotify.com/track/1Fo6FrFsz0QygL1Ti103Aj) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [nunca me dejes </3](https://open.spotify.com/album/1DjcS2GNrwG9nkt6J1rcR0) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Amor](https://open.spotify.com/track/45v5rMeDnY1wHTkhaDgNxi) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Amor](https://open.spotify.com/album/6FwDN1bjkhQGnDEfHDALTY) | 3:20 |
 | 50 | [Acá](https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Acá](https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX) | 4:10 |
 
-Snapshot ID: `MCw4YzU0YWQxMDE2YmIwODYzYjI1ZjgzZjA5ZjcxZTkxMzkxNzg2N2Rl`
+Snapshot ID: `MCw5YWY2N2Y5NWM0MjgwOWQ4ZjEzN2ZiY2JmZjk0ZDlmMDQ3NGZhOGE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,562 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,610 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 42 | [Simply Falling](https://open.spotify.com/track/1ssJNXZibBxgDu9uIJ2ZQC) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Simply Falling](https://open.spotify.com/album/74T1wuXtwHkyRKt9rprUDA) | 3:38 |
 | 43 | [Wave](https://open.spotify.com/track/3aeNpoG9S3aI7eNPa0mLvT) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Wave](https://open.spotify.com/album/7BTqJAt1W89dyEWNXc83J9) | 3:23 |
 | 44 | [My Foolish Heart](https://open.spotify.com/track/0MjqmuJitgjV1E740JPEKl) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Alexa Tarantino](https://open.spotify.com/artist/4iP863xgxxSQUbKm7SVwXh) | [My Foolish Heart](https://open.spotify.com/album/0w0pgJhk04uc0e7SklDhlM) | 7:37 |
-| 45 | [Bad Girls](https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv) | 2:35 |
+| 45 | [Bad Girls](https://open.spotify.com/track/1bYpricJVlO7D6kmjf8Whf) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/6jeJZLPCFkSP0FbmC0X5CM) | 2:35 |
 | 46 | [Twister \(Acoustic\)](https://open.spotify.com/track/1t2PpPL5LDIcyRQUmtZlte) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Body of Work](https://open.spotify.com/album/4wAYsm2I46h2o2X1UEQp06) | 2:42 |
 | 47 | [Can't Take That Away from Me](https://open.spotify.com/track/3mnQXluz888vO8694m8rB5) | [Parry Ray](https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN) | [Can't Take That Away from Me](https://open.spotify.com/album/7DqNj4dHTG1Y3yWc2SnpKP) | 3:01 |
 | 48 | [Don't Wait Too Long](https://open.spotify.com/track/04OP7yV8CcYOhPsqEsetha) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz), [The SWR Big Band](https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW) | [Don’t Wait Too Long](https://open.spotify.com/album/34MuhV45usZj0gpyhXCMUL) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCw1YmUzZGU5MmFiY2ZjMTBkYTNmYzJiZGRiYWYwZDRjZjViZWI0MDM2`
+Snapshot ID: `MCxjYTY5ZjQ4ZDdmZmM0NzdlZDE2ZmYyOWRiMzhmZWY2YmYyNDM5NTNj`

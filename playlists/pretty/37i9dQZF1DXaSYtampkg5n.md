@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,166 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,167 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 13 | [Bamako](https://open.spotify.com/track/1oSip9aq8h5GyJW0t3rcfn) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Résistance](https://open.spotify.com/album/4Ihzwun58CM5vmphpBngFG) | 3:40 |
 | 14 | [Asa\-Sa](https://open.spotify.com/track/6qjqjWxDUQJ9XPfCzwxPOW) | [Fred Fisher](https://open.spotify.com/artist/3XQnrGFC2HRRgTt2N2TXWC) | [51 Lex Presents Funketeers, Vol\. 3](https://open.spotify.com/album/4USOs3dK9IXZShjZasmKJ2) | 8:08 |
 | 15 | [Nijaay](https://open.spotify.com/track/3rZn8W62JE6eZrzBLZw95D) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made in Dakar](https://open.spotify.com/album/5T2htXMWcRmuYQdoHJEgi9) | 7:11 |
-| 16 | [Sweet Fanta Diallo](https://open.spotify.com/track/12AzpzVW0p7gyMwCZbfN5L) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \- Remastered Edition](https://open.spotify.com/album/39rctsy2wAHsayxov0fvEH) | 5:19 |
+| 16 | [Sweet Fanta Diallo \- Remastered Edition](https://open.spotify.com/track/7HeMuHzQ1439ZpWmocNNXy) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \(Remastered Edition\)](https://open.spotify.com/album/7w57EeKZS9C5RDRS5rhqLs) | 5:19 |
 | 17 | [Ne Te Fache Pas](https://open.spotify.com/track/1OXWh5wI5uospTQMLnjDQ2) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb) | [Cotonou Club](https://open.spotify.com/album/07TRtwC1H4J3QcRu5mRVhd) | 4:38 |
 | 18 | [Assa](https://open.spotify.com/track/6ChuADJJyE7bfPUecz0vmN) | [Balla Et Ses Balladins](https://open.spotify.com/artist/2qNmQvibIVFYLfpbWmyWuO) | [Objectif perfection](https://open.spotify.com/album/6K7NZTRRjzo8gNCMUoZKT4) | 6:24 |
 | 19 | [Shaka Bundu](https://open.spotify.com/track/3XUjBarjhIMhwdIqHEYpPq) | [Penny Penny](https://open.spotify.com/artist/06Q8GDhLVAoLAQwwFCPiAp) | [Shaka Bundu](https://open.spotify.com/album/6rAslHNWd1rE26WNyu1tM7) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 49 | [Disco Hi \- Life](https://open.spotify.com/track/7LRRSTX1m4CzW8MXnfoxa0) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3imgLN3LrdTmKN5ZyoDBxU) | 8:55 |
 | 50 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 |
 
-Snapshot ID: `MCw5YTMzYzMyOTFmMTQ4MWRiY2FiMjI5MTY2MjZkZmY4ZTVjNThlOGIw`
+Snapshot ID: `MCxhYTdlOGZjYmJkY2NlNDRhZTUzYzZlYWM1ZTJjMzg0ZmZhMDQ5OGNl`

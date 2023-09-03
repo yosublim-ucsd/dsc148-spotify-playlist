@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,418 likes - 79 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,483 likes - 79 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 78 | [RagJazz](https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU) | [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [RagJazz](https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ) | 4:19 |
 | 79 | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/track/4ptwKUD9Tsbi5Tz5MVehvy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/album/5ZGQes5uklrLNQvwUxVBhN) | 4:42 |
 
-Snapshot ID: `MCwxMjQ1ZjI1NzA0NWE2MjE0MWNlZTA3MGEzYjA0ZDA4NmY3NTQ5ZDk0`
+Snapshot ID: `MCw4NWM4ZDEzOWQ5MTUwNGI5MjQwNTI2MDlmZmQxM2YyMzE3MmMyMmRl`

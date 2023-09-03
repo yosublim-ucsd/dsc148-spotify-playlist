@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,904 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,912 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 4 | [Ni Main Jaana](https://open.spotify.com/track/2poslma1d7VYdvEO5wIoh0) | [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Ni Main Jaana](https://open.spotify.com/album/5Bns2L2O7anzhOPM1xAibK) | 4:17 |
 | 5 | [Wedding Mashup](https://open.spotify.com/track/1CJv2VY3VYGKtUXifClgXU) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Wedding Mashup](https://open.spotify.com/album/7eBcg17oRERBT6Swk0UT0K) | 1:45 |
 | 6 | [Mehndi Rach Gayi](https://open.spotify.com/track/4r2fV0KNndCU7txcDtozPp) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Raghav](https://open.spotify.com/artist/3eU2hgCTO4RdLni6qYMEtr) | [Mehndi Rach Gayi](https://open.spotify.com/album/1QWCGnoYkQ1nHH31CMIxbs) | 3:48 |
-| 7 | [Madhaniya](https://open.spotify.com/track/1PJjB3p65wjdCbMTObhPxv) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniya \- Single](https://open.spotify.com/album/23eYpUkPcWs2ooPZNeVfTy) | 4:15 |
+| 7 | [Madhaniyan](https://open.spotify.com/track/6y3jAgOVnzVuq75OdlNUqy) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Madhaniyan](https://open.spotify.com/album/2qSzP3ckFfhXMUpzDGY3T4) | 4:15 |
 | 8 | [Kabira \(Encore\)](https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:30 |
 | 9 | [Aaj Sajeya](https://open.spotify.com/track/1Oyfarj5ipZwEup8DUM7hA) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Aaj Sajeya \- Single](https://open.spotify.com/album/5K07SMgR7RxfpsgDcNmD2o) | 3:49 |
 | 10 | [Saj Ke](https://open.spotify.com/track/0f2E2QWspTyRSygY4fx7Y8) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Saj Ke](https://open.spotify.com/album/73JIHgoqQgfNCgEfTxaIId) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 49 | [Laung Gawacha](https://open.spotify.com/track/5ol7uDVpF1pHQitme6AJpm) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Laung Gawacha](https://open.spotify.com/album/4ZHC2cpwbxzyktk4pXEBLv) | 2:41 |
 | 50 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 |
 
-Snapshot ID: `MCw5YTQ1NzM3OTI3ZGJlODljZmRmY2FiNWYyZDJiNWU4YzNhMTVlY2I5`
+Snapshot ID: `MCw3YTExNDJmYTQ4OWU2YzEyNDg3MzY4MjkxMmU4NDAyZjA2NWRiZjA2`

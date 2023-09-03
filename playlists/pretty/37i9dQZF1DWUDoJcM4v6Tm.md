@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 
 > Explore a sprawling musical landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,491 likes - 132 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,510 likes - 132 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 65 | [Seventeen](https://open.spotify.com/track/0eckrKW5fvpbYGaFxx0RkF) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/3fNsNoodAejnATNg10sXgr) | 4:31 |
 | 66 | [Pallid Eyes](https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:54 |
 | 67 | [What Is Love ft\. Dylan LeBlanc](https://open.spotify.com/track/0lNiVU3MHSeFyrRVB0sz2R) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7), [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Plays Well With Others](https://open.spotify.com/album/4aHyH0AmCxSsB0ZYKIEcuk) | 3:14 |
-| 68 | [I Still Remain](https://open.spotify.com/track/4PRgUvIwL0u3fSe5Eyg7oS) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/6IY3dzTK8UZCJpzMO3TqyH) | 4:29 |
+| 68 | [I Still Remain](https://open.spotify.com/track/5Q1Bjrgo3VqdyyojOkpXvW) | [The Western Den](https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z) | [A Light Left On](https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX) | 4:29 |
 | 69 | [The Eye](https://open.spotify.com/track/7ban1bFTZM96OVmKKmZqQw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 4:18 |
 | 70 | [The Way It Shapes You](https://open.spotify.com/track/6LtBn5ySVXDQOdFzxkizfS) | [Tall Tree 6ft Man](https://open.spotify.com/artist/4tEG6lwRBr7Lit0tjCnb1o) | [Fools EP](https://open.spotify.com/album/1HvqHgLUFtsW27Bf0HTcw4) | 2:56 |
 | 71 | [On a Gravel Road](https://open.spotify.com/track/2dWXOBymnxXKptxhtlNcgf) | [Tom Brosseau](https://open.spotify.com/artist/2N8B0dQLfpwOtput9mRlko) | [North Dakota Impressions](https://open.spotify.com/album/32RN7tMf61oh02vpv936KW) | 3:00 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDoJcM4v6Tm.md) - [plain]
 | 131 | [The Kingfisher](https://open.spotify.com/track/18wuWtph9JW9dA9nNLwPx5) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 3:26 |
 | 132 | [Imogen](https://open.spotify.com/track/0X61Ud5Uzv44RvY3s1SsuO) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 4:15 |
 
-Snapshot ID: `MCxiMGI0MTY2ZmE0YWYwY2FlMWJjODYyNmQxZWRhYmI4OGFlNjgwMDE1`
+Snapshot ID: `MCw4YTIyNjAyZmI0YjJhYjg0ZTg0ZWQyMDA4MTQ3Yzc1NjBhYWE4ZjEy`

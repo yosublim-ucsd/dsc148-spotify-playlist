@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。8月31日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,771 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,857 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Winter Bear](https://open.spotify.com/track/74ewFAgDzRkhZ7EX2eLtfZ) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Winter Bear](https://open.spotify.com/album/14q6R8M7lDDjWuLjGNKQDj) | 2:54 |
 | 50 | [セプテンバーさん](https://open.spotify.com/track/0D2ZQ5DKyys3UPAfeKpvwp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 3 \~無人島に持っていき忘れた一枚\~](https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f) | 5:07 |
 
-Snapshot ID: `MCxmN2U0ZDIxYWNiMWViMTRmNWVjNTA4MWZiZjk2YzFkNWU4YjA5OWE4`
+Snapshot ID: `MCxkNTdiYTVmZWFhMmIyZWFkOTM5MDk4M2I5ZTE1MGFjMGEzZDhkMDMz`

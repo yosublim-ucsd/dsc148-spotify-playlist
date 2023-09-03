@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 82180,
+  "num_followers": 82267,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWQ1YTkyNzBhYjJjMGNlMTdlODgwOTVjMzc2OGIyNGU2MjhhMDc2",
+  "snapshot_id": "MCwyODI2NTNlYzlmY2U0ZWZmMWYyN2VkODViMTM3NTUyZDUwOGQ5ZWNh",
   "tracks": [
     {
       "added_at": "2023-05-23 12:45:45",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "In\u00e9dits 1968-1998",
-        "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "Laissons entrer le soleil",
-      "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "D\u00e9cembre en \u00e9t\u00e9",
         "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 185065,
       "name": "L'ind\u00e9cision",
       "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "In\u00e9dits 1968-1998",
+        "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "Laissons entrer le soleil",
+      "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Les Annees Barclay",
-        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
-      },
-      "artists": [
-        {
-          "name": "Les Poppys",
-          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Non non rien n'a chang\u00e9",
-      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Vari\u00e9ty",
         "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 219933,
       "name": "Ding Dang Dong (Ringing at Your Bell)",
       "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
+      },
+      "artists": [
+        {
+          "name": "Les Poppys",
+          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Non non rien n'a chang\u00e9",
+      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 281373,
       "name": "Seul",
       "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 326186,
-      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
-      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "caravane",
         "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 193000,
       "name": "Ne partons pas f\u00e2ch\u00e9s",
       "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 326186,
+      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
+      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Unis vers l'uni",
-        "url": "https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns"
-      },
-      "artists": [
-        {
-          "name": "Michel Jonasz",
-          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
-        }
-      ],
-      "duration_ms": 182047,
-      "name": "La bo\u00eete de jazz",
-      "url": "https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 216400,
       "name": "La vie ne vaut rien",
       "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Unis vers l'uni",
+        "url": "https://open.spotify.com/album/3NsxgHg4EJL5qCmxeUVbns"
+      },
+      "artists": [
+        {
+          "name": "Michel Jonasz",
+          "url": "https://open.spotify.com/artist/1xbjT6BnZk2j6PZhf5VZR7"
+        }
+      ],
+      "duration_ms": 182047,
+      "name": "La bo\u00eete de jazz",
+      "url": "https://open.spotify.com/track/74TeGcp8PfGffFx9CjR3H0"
     }
   ],
   "unique_name": "Bleu Blanc Route",

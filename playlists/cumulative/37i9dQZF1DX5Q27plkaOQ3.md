@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Subtronics & HOL!
 
-397 songs - 22 hr 40 min
+398 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bakin'](https://open.spotify.com/track/7mOcONitM15kWhBYr6fW1r) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [YKES](https://open.spotify.com/artist/1qHnyADaXNasNXl7aJn3op), [Peytn](https://open.spotify.com/artist/5Liz6tTU5sIQkKCDwQonov) | [Bakin'](https://open.spotify.com/album/5IcN6G9WOIw87haM2q63X9) | 2:56 | 2021-12-17 | 2022-07-28 |
 | [Ballad of the Ravenous](https://open.spotify.com/track/6hbcSe4pcw8I2vhDG4XnWt) | [Midnight Tyrannosaurus](https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ), [Stepps](https://open.spotify.com/artist/4oi1tAN4e3J3PnohTxiG96) | [Ballad of the Ravenous](https://open.spotify.com/album/47cURSR5K78UxX1zgzN9AO) | 4:11 | 2023-06-23 |  |
 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 | 2023-06-09 |  |
+| [Bassface](https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH) | [Bassface](https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy) | 3:06 | 2023-09-01 |  |
 | [BDASWY](https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 03](https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l) | 2:27 | 2023-01-13 |  |
 | [Be Kind, Rewind](https://open.spotify.com/track/3AlizcdWe1hKHrSgnwZYSp) | [Infekt](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Be Kind, Rewind](https://open.spotify.com/album/5YNWyJ6NIuW7U5AU7GRc4R) | 2:49 | 2023-07-14 |  |
 | [Better Off Alone](https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Better Off Alone](https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5) | 4:51 | 2021-12-17 | 2023-04-01 |
@@ -128,7 +129,7 @@
 | [Event Horizon](https://open.spotify.com/track/0l2DanUokW2ZR69z2nGILg) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34), [INVCT](https://open.spotify.com/artist/5cu8lLNHcyHp1w6U1s5JZK) | [Event Horizon](https://open.spotify.com/album/1NyJ0JVameoQbDzzaR6liX) | 2:52 | 2023-04-28 |  |
 | [Everybody Move](https://open.spotify.com/track/4XNTYpRC1LxSbR53VklBEG) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Everybody Move](https://open.spotify.com/album/444TIRJsZxH1sCg9OLjXI8) | 3:16 | 2022-02-11 | 2022-08-14 |
 | [Everyday](https://open.spotify.com/track/7GgDbcLEkhNhCX2UIq3vWo) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [RAVVA](https://open.spotify.com/artist/2ZppcH5NCmZmzoHzAepLcD) | [Everyday](https://open.spotify.com/album/3UB9STjiD6hbR0ZUQJloPW) | 2:59 | 2022-03-25 | 2022-08-16 |
-| [Excalibur](https://open.spotify.com/track/0URVvPEQafAqfYVBVoWyI0) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Excalibur](https://open.spotify.com/album/0l9LvoGnkAS5xe1KjLT7SU) | 3:08 | 2023-06-09 |  |
+| [Excalibur](https://open.spotify.com/track/0URVvPEQafAqfYVBVoWyI0) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Excalibur](https://open.spotify.com/album/0l9LvoGnkAS5xe1KjLT7SU) | 3:08 | 2023-06-09 | 2023-09-03 |
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 | 2023-01-16 |
 | [Fall Apart](https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Thrones of Blood](https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX) | 5:20 | 2023-03-31 |  |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-24 | 2023-04-15 |

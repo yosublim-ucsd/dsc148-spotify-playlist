@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,495 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,698 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 53 | [Splurge](https://open.spotify.com/track/6by0oknFYQAcUW1i8qItJi) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Proof](https://open.spotify.com/album/3n6na8Z7WtwBG7bg9e7Dnw) | 2:42 |
 | 54 | [Get Back](https://open.spotify.com/track/7jwRq3gjpzHFuPNwSPLhBi) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Get Back](https://open.spotify.com/album/2QFWsFsh9RMFDyaGY5qQN5) | 2:35 |
 | 55 | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3) | 2:54 |
-| 56 | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8) | 2:09 |
+| 56 | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:09 |
 | 57 | [Uh Uh](https://open.spotify.com/track/3UiZ39DYOKbmmuIlqsTxU5) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [DAT BOY DEN](https://open.spotify.com/album/5C3aeXqLo3LCplPnUmsi9q) | 2:26 |
 | 58 | [Equal Dirt](https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:01 |
 | 59 | [Knowing \(feat\. BigWalkDog\)](https://open.spotify.com/track/6tZkiw9Uw6kYQyINbsUCZV) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Knowing \(feat\. BigWalkDog\)](https://open.spotify.com/album/1A8BuBrelEEYmBRPwYQYWs) | 2:53 |
 | 60 | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/album/6dTPh7wqxX0nS45AGIVt7T) | 2:23 |
 
-Snapshot ID: `MCxkYzI0MDdiYmFhNzRmMGYwYmE0MGFhNGUyMDRkYjg4MzQ2Y2VhNGRm`
+Snapshot ID: `MCw4NDdmYTEzOWQ1MDNlMmMyM2M1ODFjOGY3YzM3OGQ1N2JhZDgzZmI5`

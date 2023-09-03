@@ -1,12 +1,12 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 24193,
+  "num_followers": 24229,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTUxOWMwYTcxZTgzM2YzMzg2MzhlODBjYzBmNDIxZWEyODRjMGNl",
+  "snapshot_id": "MCwwOGMwMmMzMTA5YTQyOGY2NjJjOGI4OGVjMWUzYjc4ZmIxZjRiNTUw",
   "tracks": [
     {
       "added_at": "2023-05-05 23:37:46",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "El Jard\u00edn",
-        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
-      },
-      "artists": [
-        {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "El Jard\u00edn",
-      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 190000,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "El Jard\u00edn",
+        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "El Jard\u00edn",
+      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
     },
     {
       "added_at": "2023-07-21 19:47:19",
@@ -187,18 +187,22 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Copihue",
-        "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        },
+        {
+          "name": "Bryan Pelayo",
+          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Copihue",
-      "url": "https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR"
+      "duration_ms": 93000,
+      "name": "Ukelele At Night",
+      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -259,22 +263,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+        "name": "Copihue",
+        "url": "https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Bryan Pelayo",
-          "url": "https://open.spotify.com/artist/2yyl2RfsLST1G07MAABDPK"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 93000,
-      "name": "Ukelele At Night",
-      "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
+      "duration_ms": 157500,
+      "name": "Copihue",
+      "url": "https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Dalia",
         "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 173333,
       "name": "Dalia",
       "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "El D\u00eda M\u00e1s Corto",
         "url": "https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 142939,
       "name": "Ukulele en Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/42JzhKGXF2N2mEYkaMsyTu"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
@@ -691,6 +711,22 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "abducci\u00f3n",
+        "url": "https://open.spotify.com/album/5OGkfE8wPVLQYGoyAQbqtN"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 96300,
+      "name": "abduccion (bonus andromeda)",
+      "url": "https://open.spotify.com/track/7lDTPjWoIT68uiiQ8v4KLS"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "Playa del amor",
         "url": "https://open.spotify.com/album/4AZ4bVmrlluC4ajS7DUf2N"
       },
@@ -711,18 +747,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "abducci\u00f3n",
-        "url": "https://open.spotify.com/album/5OGkfE8wPVLQYGoyAQbqtN"
+        "name": "Ramito de Violetas",
+        "url": "https://open.spotify.com/album/17ztHokcDbkWlHbij2grmv"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Rex Akumu",
+          "url": "https://open.spotify.com/artist/5EwriJfF6OQlLXkKByKrnq"
         }
       ],
-      "duration_ms": 96300,
-      "name": "abduccion (bonus andromeda)",
-      "url": "https://open.spotify.com/track/7lDTPjWoIT68uiiQ8v4KLS"
+      "duration_ms": 316235,
+      "name": "Ramito de Violetas",
+      "url": "https://open.spotify.com/track/60FhpIfgJmUnmqSItvnapx"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -739,42 +775,6 @@
       "duration_ms": 95040,
       "name": "Dreaming of summer",
       "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Ramito de Violetas",
-        "url": "https://open.spotify.com/album/17ztHokcDbkWlHbij2grmv"
-      },
-      "artists": [
-        {
-          "name": "Rex Akumu",
-          "url": "https://open.spotify.com/artist/5EwriJfF6OQlLXkKByKrnq"
-        }
-      ],
-      "duration_ms": 316235,
-      "name": "Ramito de Violetas",
-      "url": "https://open.spotify.com/track/60FhpIfgJmUnmqSItvnapx"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "El Chavito Triste",
+      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "van life",
         "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 135714,
       "name": "van life",
       "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
-      },
-      "artists": [
-        {
-          "name": "Raouf Beats",
-          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 111219,
-      "name": "Extra\u00f1os (Strangers)",
-      "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -911,38 +911,22 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Just A Cool Day",
-        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Just A Cool Day",
-      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
         },
         {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 115500,
-      "name": "El Chavito Triste",
-      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+      "duration_ms": 111219,
+      "name": "Extra\u00f1os (Strangers)",
+      "url": "https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -963,6 +947,38 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
+        "name": "Just A Cool Day",
+        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Just A Cool Day",
+      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Efecto Foehn",
+        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
+      },
+      "artists": [
+        {
+          "name": "Sh\u014d.gun",
+          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
+        }
+      ],
+      "duration_ms": 129350,
+      "name": "Efecto Foehn",
+      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
         "name": "To My Past Self",
         "url": "https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8"
       },
@@ -975,6 +991,22 @@
       "duration_ms": 111303,
       "name": "Habits",
       "url": "https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
+      },
+      "artists": [
+        {
+          "name": "Andros",
+          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
+        }
+      ],
+      "duration_ms": 74347,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -999,54 +1031,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E"
-      },
-      "artists": [
-        {
-          "name": "Andros",
-          "url": "https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7"
-        }
-      ],
-      "duration_ms": 74347,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Efecto Foehn",
-        "url": "https://open.spotify.com/album/5yFtvEfmWF2dLlTqQUdjcF"
-      },
-      "artists": [
-        {
-          "name": "Sh\u014d.gun",
-          "url": "https://open.spotify.com/artist/6plLhphWU2xkdF23mooUF8"
-        }
-      ],
-      "duration_ms": 129350,
-      "name": "Efecto Foehn",
-      "url": "https://open.spotify.com/track/2T28Oqg9N0IU19GaienS6N"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
-        "name": "Sayulita Vibes",
-        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Sayulita Vibes",
-      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Buena Onda",
         "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 140000,
       "name": "Buena Onda",
       "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "22 Hrs.",
+      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Opinable",
-        "url": "https://open.spotify.com/album/5f7XpTfXYCt8GWvk9sqEjT"
+        "name": "Sayulita Vibes",
+        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 185791,
-      "name": "Opinable",
-      "url": "https://open.spotify.com/track/6tSkvfWiXCkjqUXKXbLFKk"
+      "duration_ms": 118588,
+      "name": "Sayulita Vibes",
+      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+        "name": "Opinable",
+        "url": "https://open.spotify.com/album/5f7XpTfXYCt8GWvk9sqEjT"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 179000,
-      "name": "22 Hrs.",
-      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
+      "duration_ms": 185791,
+      "name": "Opinable",
+      "url": "https://open.spotify.com/track/6tSkvfWiXCkjqUXKXbLFKk"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
-      },
-      "artists": [
-        {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
-        }
-      ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Hide n Seek",
         "url": "https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 130714,
       "name": "Hide n Seek",
       "url": "https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+      },
+      "artists": [
+        {
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+        }
+      ],
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
     },
     {
       "added_at": "2023-05-05 23:37:46",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Terra Incognita",
-        "url": "https://open.spotify.com/album/2HE2I2GlIegVhwEMFLgMz5"
-      },
-      "artists": [
-        {
-          "name": "Lightfoot",
-          "url": "https://open.spotify.com/artist/4hKUEllZNA2iRQ8J5P1lpL"
-        }
-      ],
-      "duration_ms": 132234,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/3w5U0L7t320RdJnkO2gZU5"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Canciones Para Ver Las Nubes Pasar",
         "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
       },
@@ -1291,22 +1275,6 @@
     {
       "added_at": "2023-05-05 23:37:46",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt"
-      },
-      "artists": [
-        {
-          "name": "B.L.U.N.T.S",
-          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
-        }
-      ],
-      "duration_ms": 136941,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
-    },
-    {
-      "added_at": "2023-05-05 23:37:46",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
       },
@@ -1319,6 +1287,38 @@
       "duration_ms": 144283,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Terra Incognita",
+        "url": "https://open.spotify.com/album/2HE2I2GlIegVhwEMFLgMz5"
+      },
+      "artists": [
+        {
+          "name": "Lightfoot",
+          "url": "https://open.spotify.com/artist/4hKUEllZNA2iRQ8J5P1lpL"
+        }
+      ],
+      "duration_ms": 132234,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/3w5U0L7t320RdJnkO2gZU5"
+    },
+    {
+      "added_at": "2023-05-05 23:37:46",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        }
+      ],
+      "duration_ms": 136941,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8"
     },
     {
       "added_at": "2023-05-05 23:37:46",

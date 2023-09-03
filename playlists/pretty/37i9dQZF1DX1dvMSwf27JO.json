@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 526062,
+  "num_followers": 526317,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGI2MzJjM2JiYjg1MDg3ZDRkMGU1ZWM4OGVhZjMzMzIwMWY0ZGJh",
+  "snapshot_id": "MCw3N2IyMWNiZmM5YTcwNmRhYmFhMjgwZjI4YjFjOGFlNjFlMTVlZDNj",
   "tracks": [
     {
       "added_at": "2023-08-14 17:47:19",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/74yA2S6c71vhUvfh8VkCBY"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 203626,
       "name": "Feel so Good",
       "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/4NGzLSTgDOfMFPEQvB5MDc"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/74yA2S6c71vhUvfh8VkCBY"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "girlfriend",
-        "url": "https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 133150,
-      "name": "girlfriend",
-      "url": "https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 135386,
       "name": "on & on",
       "url": "https://open.spotify.com/track/5mfGEs5n647v4WE3K5YmBy"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "girlfriend",
+        "url": "https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 133150,
+      "name": "girlfriend",
+      "url": "https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "fantasize",
         "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Oranges",
+        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 103688,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Chrome Bull",
         "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
       },
@@ -1071,18 +1087,34 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Oranges",
-        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Bickle",
+          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
         }
       ],
-      "duration_ms": 103688,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
+      "duration_ms": 210004,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 121379,
+      "name": "Time Goes By",
+      "url": "https://open.spotify.com/track/7fhg7ofLpD5Maiy9Iy2PJC"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1103,38 +1135,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT"
-      },
-      "artists": [
-        {
-          "name": "Bickle",
-          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
-        }
-      ],
-      "duration_ms": 210004,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Just Sayin' Shit",
         "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
       "artists": [
         {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 121379,
-      "name": "Time Goes By",
-      "url": "https://open.spotify.com/track/7fhg7ofLpD5Maiy9Iy2PJC"
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Leave It Alone",
-        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Tyler Mann",
-          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "Leave It Alone",
-      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "BACKWARDS",
         "url": "https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 106046,
       "name": "BACKWARDS",
       "url": "https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Leave It Alone",
+        "url": "https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Cry Alone",
+        "url": "https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU"
+      },
+      "artists": [
+        {
+          "name": "Cydnee with a C",
+          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
+        }
+      ],
+      "duration_ms": 102492,
+      "name": "Cry Alone",
+      "url": "https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "HEATWAVE",
         "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 108626,
       "name": "No Good Reason",
       "url": "https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Cry Alone",
-        "url": "https://open.spotify.com/album/5HNAP2fit3ueHHo5Zsb2dU"
-      },
-      "artists": [
-        {
-          "name": "Cydnee with a C",
-          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
-        }
-      ],
-      "duration_ms": 102492,
-      "name": "Cry Alone",
-      "url": "https://open.spotify.com/track/1ijdK77sk67rPi450Pmm8O"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Janet",
+      "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
+        "name": "pawwwfect!",
+        "url": "https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P"
       },
       "artists": [
         {
-          "name": "Al\u00e9 Araya",
-          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+          "name": "lil hero",
+          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
         }
       ],
-      "duration_ms": 115764,
-      "name": "Janet",
-      "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
+      "duration_ms": 129494,
+      "name": "big flirt",
+      "url": "https://open.spotify.com/track/4DWXFYTDoiRoZxQ5AckERs"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1675,22 +1691,6 @@
       "duration_ms": 67768,
       "name": "UDANCE?",
       "url": "https://open.spotify.com/track/4S5sRziA27r5N3bi5dvMyD"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "pawwwfect!",
-        "url": "https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P"
-      },
-      "artists": [
-        {
-          "name": "lil hero",
-          "url": "https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO"
-        }
-      ],
-      "duration_ms": 129494,
-      "name": "big flirt",
-      "url": "https://open.spotify.com/track/4DWXFYTDoiRoZxQ5AckERs"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1747,18 +1747,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "VIRGINIA CREEPER",
-        "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/2yMNrSSdvvRptq7Zs3YDdl"
       },
       "artists": [
         {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 172307,
-      "name": "VIRGINIA CREEPER",
-      "url": "https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A"
+      "duration_ms": 185792,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/1RmakRsIJE6qsP1OjiUboJ"
     }
   ],
   "unique_name": "'fit check",

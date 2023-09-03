@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > For all the beautiful queens! Guest curated by Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,077 likes - 53 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,451 likes - 53 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 52 | [Girl](https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 3:44 |
 | 53 | [Best Friends \(feat\. Aaliyah\)](https://open.spotify.com/track/0hq4njfuLWfjlfinVFCXhA) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:07 |
 
-Snapshot ID: `MCxhMjJlZjMzZjcxN2IxZjlkODU4MTA0OWIzMjRiMTU3ZTg0ZGUwZGZk`
+Snapshot ID: `MCxjODJhNGU4NjVjOWRkNTU3YjYyZDMxYWZlNmUwYjczMDMzMjZiNDc0`

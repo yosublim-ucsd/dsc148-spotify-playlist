@@ -4580,6 +4580,28 @@
     {
       "album": {
         "name": "Coming Home (feat. John Martin)",
+        "url": "https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "Coming Home (feat. John Martin)",
+      "url": "https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v"
+    },
+    {
+      "album": {
+        "name": "Coming Home (feat. John Martin)",
         "url": "https://open.spotify.com/album/73vidbzZG7bYIoCf9OfH6q"
       },
       "artists": [
@@ -12096,7 +12118,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 335043,
       "name": "Kiss U",
       "url": "https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr"
@@ -18354,7 +18376,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 154730,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/2XqUheri1UqUWzzMGIN2fW"
@@ -18640,6 +18662,24 @@
       "duration_ms": 283953,
       "name": "See You",
       "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+    },
+    {
+      "album": {
+        "name": "Together As One",
+        "url": "https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238095,
+      "name": "September Nights",
+      "url": "https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi"
     },
     {
       "album": {
@@ -21020,7 +21060,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 193362,
       "name": "Take You",
       "url": "https://open.spotify.com/track/1srLMwr9cVpEnFeHgOpHnC"
@@ -21068,6 +21108,28 @@
       "duration_ms": 235800,
       "name": "Talk To Myself",
       "url": "https://open.spotify.com/track/5IZg7Ngm3CTOj9l00YSrt9"
+    },
+    {
+      "album": {
+        "name": "Talking Like That",
+        "url": "https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231014,
+      "name": "Talking Like That",
+      "url": "https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF"
     },
     {
       "album": {

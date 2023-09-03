@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 187187,
+  "num_followers": 187270,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGVlYzk4MjgzMWQwZmZjZDEwNjNhYjg5NWE2NjAzNzViM2JmYjMx",
+  "snapshot_id": "MCxlYzE2MjI4NjZlOTk4MTdlYmEyZWUwYzUzMzU1OTQzYTFmNmRkYzU2",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "george's shelter",
+        "url": "https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY"
+      },
+      "artists": [
+        {
+          "name": "Planet Ibiza",
+          "url": "https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "george's shelter",
+      "url": "https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Unknown / (It's Not About) Running",
         "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 195741,
       "name": "Hunting Sky",
       "url": "https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Poetry & Airplanes",
-        "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
-      },
-      "artists": [
-        {
-          "name": "Teitur",
-          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "I Was Just Thinking",
-      "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
     }
   ],
   "unique_name": "Nordic Folk",

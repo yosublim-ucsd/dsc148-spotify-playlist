@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Halle
 
-248 songs - 12 hr 34 min
+249 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 | 2023-06-08 | 2023-07-15 |
 | [Better Man](https://open.spotify.com/track/2CZjjlYWasiqbCOors8pAC) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Better Man](https://open.spotify.com/album/6y78B6grK5x7soppUlOwcX) | 2:43 | 2022-02-04 | 2023-01-28 |
 | [Better Off Alone](https://open.spotify.com/track/1CuGuLSXI9k85Ppxw908yP) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/1B65FjcrhMSeAK719d2Jz2) | 2:42 | 2023-01-27 | 2023-05-11 |
-| [Better Off Alone](https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR: The Full Spectrum](https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7) | 2:42 | 2023-05-05 |  |
+| [Better Off Alone](https://open.spotify.com/track/5XZctn11QB8rHaPWkqtiSn) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/5exi3yRTbh6d22GFMToL0z) | 2:42 | 2023-08-18 |  |
+| [Better Off Alone](https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR: The Full Spectrum](https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7) | 2:42 | 2023-05-05 | 2023-09-03 |
 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 | 2023-01-27 |  |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3) | 3:01 | 2022-04-15 | 2023-01-28 |
 | [Bitter Bitch](https://open.spotify.com/track/6SN58S8GAqUhl5SXcxmpiY) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Bitter Bitch](https://open.spotify.com/album/6Si3G23umj6SBMFGiUbTTm) | 2:17 | 2022-02-04 | 2023-01-28 |

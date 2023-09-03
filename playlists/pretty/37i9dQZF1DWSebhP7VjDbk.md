@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 16 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [So No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 |
 | 17 | [Carla](https://open.spotify.com/track/79f21uRzn79zWCxrsF17hj) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [V.I.B.E.](https://open.spotify.com/album/0dUTLlo7mTukUVVUry5wkJ) | 4:08 |
 | 18 | [Sem radar](https://open.spotify.com/track/4MOC8XHvAL6mmgEWyntQTb) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [Tudo outra vez](https://open.spotify.com/album/2s0V8kS2t739EnTahL8DX3) | 3:52 |
-| 19 | [Cedo Ou Tarde](https://open.spotify.com/track/24vGY15CbB5vYtUEhirsGm) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock 2000](https://open.spotify.com/album/3dKw5eWf7K6DEvplfjWQzd) | 3:13 |
+| 19 | [Cedo Ou Tarde](https://open.spotify.com/track/4chg7pMn6KWQSqisDBuOSn) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:13 |
 | 20 | [Razões E Emoções](https://open.spotify.com/track/4w0UUctedmEbrpUtlrHuaN) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:42 |
 | 21 | [Pela Última Vez](https://open.spotify.com/track/7MET1T0l4V7FdyXZDk8z3B) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:44 |
 | 22 | [Deixa Disso](https://open.spotify.com/track/35maQwTqpvsiKaNbC6o0sE) | [Felipe Dylon](https://open.spotify.com/artist/2sohJaAXhL0jr1SiMuzBDd) | [Felipe Dylon](https://open.spotify.com/album/41dBnb3mhyp51ObwgaA4bv) | 3:00 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSebhP7VjDbk.md) - [plain]
 | 67 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
 | 68 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 
-Snapshot ID: `MCxkNzliOTZkODc1MjI2NDlhODdlMTIxYjI5NmFlYTg4Nzg3YjJjM2Ez`
+Snapshot ID: `MCxjMzA3OWM4ZThjMWM2OGU3OGM3YzM3ZjhjMDE5Y2M1MDM2YjgzZTkz`

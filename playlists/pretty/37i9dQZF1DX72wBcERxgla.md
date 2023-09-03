@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,242 likes - 318 songs - 16 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,362 likes - 318 songs - 16 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 167 | [Till There Was You](https://open.spotify.com/track/3bGhklfS5vo11uM9kBnbyB) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Till There Was You](https://open.spotify.com/album/5p2c7pdxKRryVmsKsAM7Ud) | 2:50 |
 | 168 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0chVjrd8FC2hVUpPzZBfJu) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/0cm5nvQQ3rAq5GlV3UL5nr) | 6:02 |
 | 169 | [Night Mood](https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Night Mood](https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF) | 2:51 |
-| 170 | [Sharing](https://open.spotify.com/track/7C6IP9aWS01qVzYTewBlOQ) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 3:44 |
+| 170 | [Sharing](https://open.spotify.com/track/7C6IP9aWS01qVzYTewBlOQ) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 3:44 |
 | 171 | [Cherokee](https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [Cherokee](https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR) | 2:59 |
 | 172 | [Happy Days](https://open.spotify.com/track/6OXbT5aTGZDURNRG9XBNi9) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Happy Days](https://open.spotify.com/album/7DIg6LQbbwVZNioht5hana) | 2:57 |
 | 173 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 |
@@ -327,4 +327,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 317 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 |
 | 318 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
 
-Snapshot ID: `MCwzMTcxOTIzY2QwNTc1NWY0OTUxMzVlY2VkMTNhYWM5YTY3NThmNjQw`
+Snapshot ID: `MCwwNGI0ZGE2NTVmMjczMzQ5MzRkZWM1MjBkODExMDljNTc4ZjJjMjY2`

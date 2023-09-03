@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: BLŪMĒ, Flaming Gorge, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,535 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,534 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Wasting Time](https://open.spotify.com/track/3DH3S7OXN3DyH9P94t9TCt) | [Ant Antic](https://open.spotify.com/artist/34jTCtoMOb0kkqoKXpafPh) | [Wasting Time](https://open.spotify.com/album/7M2fRWS5vhr1BqoCrrhmZm) | 3:11 |
 | 80 | [Detox](https://open.spotify.com/track/2sm65RQx1yhBofJOv5xNSN) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [Detox](https://open.spotify.com/album/5399Q2guZjpCC6jQ3pBRg1) | 2:55 |
 
-Snapshot ID: `MCw0YzhhOWZlMmIzN2VkYjc0MzQ1ZDA0YjA2NjE2ODkyNjhiMTYxNjg4`
+Snapshot ID: `MCwxYjcwNmExMWZjYTkwZDQ5M2RiZWUxYWNkMzNiYmI0Y2MxOWI5NmJm`

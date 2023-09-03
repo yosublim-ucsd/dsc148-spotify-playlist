@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 7757,
+  "num_followers": 7765,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWVlMzQxZmQyOGE5NjUxYWU1NzY0MjVhZWExMmZmY2FhMGQxMjFi",
+  "snapshot_id": "MCw2ZDYyYjYzMWIwMzkzYzAwMDJmNGM3ZjY1NGM1NzZkMmY5MjE3ZjZm",
   "tracks": [
     {
       "added_at": "2023-07-17 05:25:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-07-17 05:25:27",
       "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
-    },
-    {
-      "added_at": "2023-07-17 05:25:27",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 345620,
       "name": "\uc544\ub9c8\ub450 (feat. \uc6b0\uc6d0\uc7ac, \uae40\ud6a8\uc740, \ub109\uc0b4 & \ud5c8\ud074\ubca0\ub9ac\ud53c)",
       "url": "https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3"
+    },
+    {
+      "added_at": "2023-07-17 05:25:27",
+      "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
     },
     {
       "added_at": "2023-07-17 05:25:27",
@@ -927,26 +927,26 @@
     {
       "added_at": "2023-07-17 05:25:27",
       "album": {
-        "name": "School Rapper2 Team-battle Pt. 2",
-        "url": "https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2"
+        "name": "School Rapper 2 Final",
+        "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
       },
       "artists": [
         {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
         },
         {
-          "name": "PULLIK",
-          "url": "https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z"
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
         },
         {
-          "name": "Godic",
-          "url": "https://open.spotify.com/artist/2uxZlbouekTNiuOnjTzbKV"
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
         }
       ],
-      "duration_ms": 164035,
-      "name": "The Little Prince (Prod. Godic)",
-      "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
+      "duration_ms": 279884,
+      "name": "Lee Rohan (Prod. by Padi)",
+      "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
     },
     {
       "added_at": "2023-07-17 05:25:27",
@@ -971,26 +971,26 @@
     {
       "added_at": "2023-07-17 05:25:27",
       "album": {
-        "name": "School Rapper 2 Final",
-        "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
+        "name": "School Rapper2 Team-battle Pt. 2",
+        "url": "https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2"
       },
       "artists": [
         {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
         },
         {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+          "name": "PULLIK",
+          "url": "https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z"
         },
         {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+          "name": "Godic",
+          "url": "https://open.spotify.com/artist/2uxZlbouekTNiuOnjTzbKV"
         }
       ],
-      "duration_ms": 279884,
-      "name": "Lee Rohan (Prod. by Padi)",
-      "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
+      "duration_ms": 164035,
+      "name": "The Little Prince (Prod. Godic)",
+      "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
     },
     {
       "added_at": "2023-07-17 05:25:27",

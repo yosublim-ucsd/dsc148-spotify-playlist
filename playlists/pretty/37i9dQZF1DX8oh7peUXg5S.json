@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 307554,
+  "num_followers": 307737,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmRhYzFlNmU0YjJjOGFiMjk4ZWE2OGU2ZGI4YTVlNTQzMzM3MmRj",
+  "snapshot_id": "MCwxMjIwOGZkZjU3M2YxZjQ3ZjA1NTBkMGQwNWRhODZkMzY0Y2E5Mjkw",
   "tracks": [
     {
       "added_at": "2023-09-01 08:46:44",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-09-01 08:46:44",
       "album": {
-        "name": "Oceano De Sol",
-        "url": "https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp"
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
       "artists": [
         {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 190600,
-      "name": "El Sitio De Mi Recreo",
-      "url": "https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A"
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2023-09-01 08:46:44",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-09-01 08:46:44",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+        "name": "Oceano De Sol",
+        "url": "https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
+      "duration_ms": 190600,
+      "name": "El Sitio De Mi Recreo",
+      "url": "https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A"
     },
     {
       "added_at": "2023-09-01 08:46:44",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-09-01 08:46:44",
       "album": {
-        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
-        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
-    },
-    {
-      "added_at": "2023-09-01 08:46:44",
-      "album": {
         "name": "Cuerpo a Cuerpo (Remasterizado)",
         "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 302000,
       "name": "Sin Tu Latido - Remasterizado",
       "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
+    },
+    {
+      "added_at": "2023-09-01 08:46:44",
+      "album": {
+        "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
+        "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
     },
     {
       "added_at": "2023-09-01 08:46:44",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-09-01 08:46:44",
       "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Las Cuatro y Diez",
+      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+    },
+    {
+      "added_at": "2023-09-01 08:46:44",
+      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 170906,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
-    },
-    {
-      "added_at": "2023-09-01 08:46:44",
-      "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Las Cuatro y Diez",
-      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
     },
     {
       "added_at": "2023-09-01 08:46:44",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-09-01 08:46:44",
       "album": {
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
+      },
+      "artists": [
+        {
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
+    },
+    {
+      "added_at": "2023-09-01 08:46:44",
+      "album": {
         "name": "Silvio Rodriguez y Pablo Milanes",
         "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 231706,
       "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
-    },
-    {
-      "added_at": "2023-09-01 08:46:44",
-      "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
-      },
-      "artists": [
-        {
-          "name": "Victor Jara",
-          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Manifiesto",
-      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
     },
     {
       "added_at": "2023-09-01 08:46:44",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-09-01 08:46:44",
       "album": {
-        "name": "Interludio para mi Julita",
-        "url": "https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH"
-      },
-      "artists": [
-        {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
-        }
-      ],
-      "duration_ms": 89174,
-      "name": "Interludio para mi Julita",
-      "url": "https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY"
-    },
-    {
-      "added_at": "2023-09-01 08:46:44",
-      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 281095,
       "name": "Qui\u00e9reme Bien (feat. Leiva)",
       "url": "https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m"
+    },
+    {
+      "added_at": "2023-09-01 08:46:44",
+      "album": {
+        "name": "Interludio para mi Julita",
+        "url": "https://open.spotify.com/album/3C6poAVbvKcs2CY8P2SzwH"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        }
+      ],
+      "duration_ms": 89174,
+      "name": "Interludio para mi Julita",
+      "url": "https://open.spotify.com/track/7HStg28f1GBPvMY1WkPVTY"
     },
     {
       "added_at": "2023-09-01 08:46:44",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-09-01 08:46:44",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
-    },
-    {
-      "added_at": "2023-09-01 08:46:44",
-      "album": {
         "name": "Albanta",
         "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 297040,
       "name": "Al Alba",
       "url": "https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt"
+    },
+    {
+      "added_at": "2023-09-01 08:46:44",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
     }
   ],
   "unique_name": "Cantautores",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Griff \(pictured\), Doja Cat, Royal Blood and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,678 likes - 115 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,757 likes - 115 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 20 | [Blinded By The Lights 23](https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD) | [Mixtress](https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il), [Pete Cannon](https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA) | [Blinded By The Lights 23](https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ) | 3:14 |
 | 21 | [PROUD OF YOU](https://open.spotify.com/track/7n3CKABtbleV5KiTOh0QXN) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [PROUD OF YOU](https://open.spotify.com/album/78syZOIQs6EZ1fvjpfnhV0) | 3:35 |
 | 22 | [inferno \- Edit](https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 2:19 |
-| 23 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
+| 23 | [Toddla T x Aitch \- Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Toddla T x Aitch \- Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
 | 24 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 |
 | 25 | [Spiral](https://open.spotify.com/track/1IutoMzbuf3hVtP4KS9W37) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Spiral](https://open.spotify.com/album/1VkpBOu4KIcL8u9tAkocie) | 2:48 |
 | 26 | [Haunted](https://open.spotify.com/track/04OnsBlFeWEO8z4vwEPQQI) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [Haunted](https://open.spotify.com/album/50nbWtinvZNMWnuho2OFtx) | 3:01 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 47 | [Beautiful World](https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 6:15 |
 | 48 | [Unbreakup](https://open.spotify.com/track/1G5J3sCY4PkxMg54ZUONv8) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Unbreakup / Brainwash \- A Super Over Double Feature](https://open.spotify.com/album/0loL4wV9WClA5j6GGoG5Fd) | 3:17 |
 | 49 | [Slow Motion](https://open.spotify.com/track/74zgUHiAs8U4t8Yy2lVO63) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Slow Motion](https://open.spotify.com/album/6wO58tdQbSRH4S9AX1Trd4) | 2:53 |
-| 50 | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b) | 2:27 |
+| 50 | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b) | 2:25 |
 | 51 | [I Dont Know Why \(But I Love You\)](https://open.spotify.com/track/3v0OhBczTCfAGy8us1knvP) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [I Dont Know Why \(But I Love You\)](https://open.spotify.com/album/3vyTjazIuT9jP3v8GdenhN) | 2:29 |
 | 52 | [Call My Name](https://open.spotify.com/track/25otaaQaySgAkOW61WibDs) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Call My Name](https://open.spotify.com/album/0EzgsLTpps8HovqZA1aMNK) | 3:25 |
 | 53 | [Not Guilty](https://open.spotify.com/track/3lIh24EtpWzwDbChSrcrCR) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi) | [Not Guilty](https://open.spotify.com/album/13wr72XvxJO38y1lfjkXcL) | 3:00 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 114 | [Uncut Gems](https://open.spotify.com/track/6wfXFEikmlL1e7VJpOtwhu) | [Odd Numbers](https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6), [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Uncut Gems](https://open.spotify.com/album/1bdbYgjDWdQx23SW3b5ARY) | 2:57 |
 | 115 | [That's What Friends Are For](https://open.spotify.com/track/4M55dboflxpATMH0BSRgxr) | [Denise Van Outen](https://open.spotify.com/artist/0T17VKgopV3csTElVlDpXF), [Duncan James](https://open.spotify.com/artist/2m0JoCqbe2cnauFT4hEUfR) | [That's What Friends Are For](https://open.spotify.com/album/5fTB4EVCe8GJ99YuCbYgRz) | 4:28 |
 
-Snapshot ID: `MCxlMTUyOTk1NTkxYjhjZGEyODQxMmExODE5MzRmZTRhODFkMWE4Zjhk`
+Snapshot ID: `MCw4MGI3YTFkNTU1Y2Q1YzQ2N2I5NTIzNGIxZTBmNTcyNzU0ZDEwMjEz`

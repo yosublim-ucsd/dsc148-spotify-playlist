@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 920566,
+  "num_followers": 920537,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjhiZDg3ODM5MjAzZDU0MWMxZDYxYTM2Y2Y2NDcyNmM3MzJiOWM2",
+  "snapshot_id": "MCw2MWI5ODkwYzkzYmQyOWI4YWU3ZmViMWY4ZmYwZjE5ZmZkMTNmYjA4",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 162098,
-      "name": "Qui\u00e9nes Son?",
-      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 131480,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 162098,
+      "name": "Qui\u00e9nes Son?",
+      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Cheat (feat. JoJo)",
-        "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 202009,
-      "name": "Cheat (feat. JoJo)",
-      "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Cheat (feat. JoJo)",
+        "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 202009,
+      "name": "Cheat (feat. JoJo)",
+      "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Vas de Salida",
+        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Vas de Salida",
+      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Cumbiecitas Elegantes",
         "url": "https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Vas de Salida",
-        "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
+        "name": "Flori de mai",
+        "url": "https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
         }
       ],
-      "duration_ms": 182160,
-      "name": "Vas de Salida",
-      "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
+      "duration_ms": 177391,
+      "name": "Flori de mai",
+      "url": "https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -691,22 +707,6 @@
       "duration_ms": 192452,
       "name": "Autodeadma - Solo Version",
       "url": "https://open.spotify.com/track/0jBT10y68IpZhHIFz9MAx7"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Flori de mai",
-        "url": "https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP"
-      },
-      "artists": [
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Flori de mai",
-      "url": "https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc"
-      },
-      "artists": [
-        {
-          "name": "wadfah",
-          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "\u0414\u0420\u0423\u0413 (XenjeS Remix)",
         "url": "https://open.spotify.com/album/3AN1cICMOqUfIwDjCkGhPJ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 207272,
       "name": "\u0414\u0420\u0423\u0413 - XenjeS Remix",
       "url": "https://open.spotify.com/track/0JX0BeZeWpZfYmMbAhCdC8"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc"
+      },
+      "artists": [
+        {
+          "name": "wadfah",
+          "url": "https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "What's The Holy (Nobel) Today?",
-        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 226712,
-      "name": "What's The Holy (Nobel) Today?",
-      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "A Goddess, WBU?",
         "url": "https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 143506,
       "name": "Pap",
       "url": "https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "What's The Holy (Nobel) Today?",
+        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 226712,
+      "name": "What's The Holy (Nobel) Today?",
+      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2023-08-02 04:00:00",

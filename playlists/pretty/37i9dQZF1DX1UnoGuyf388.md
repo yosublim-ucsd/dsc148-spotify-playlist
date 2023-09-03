@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Halle
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,947 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,980 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 59 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 |
 | 60 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 |
 | 61 | [Why Is She Calling?](https://open.spotify.com/track/5Sb83ml5k9pdRIqIkWfWNv) | [Black Peppa](https://open.spotify.com/artist/07CsKr37FQnxbfQxokCBFs) | [Why Is She Calling?](https://open.spotify.com/album/4XhHHcPjfMsdvuVBGBtOi8) | 2:56 |
-| 62 | [Better Off Alone](https://open.spotify.com/track/5oT0W6JKJo8or78vqzd5XX) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR: The Full Spectrum](https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7) | 2:42 |
+| 62 | [Better Off Alone](https://open.spotify.com/track/5XZctn11QB8rHaPWkqtiSn) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/5exi3yRTbh6d22GFMToL0z) | 2:42 |
 | 63 | [ur a bitch](https://open.spotify.com/track/0rIyGzKYFeYGUKrQUnZwR5) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [ur a bitch](https://open.spotify.com/album/6NKD7pZV97cesnUVyMToGO) | 2:30 |
 | 64 | [Romance](https://open.spotify.com/track/6UdBnXVvJTHm4o8E3ZCo1O) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Romance](https://open.spotify.com/album/10Or98Yy7DO1vUVaHhLY8I) | 3:18 |
 | 65 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 69 | [Big Energy](https://open.spotify.com/track/5lHxARJJrZc3ss4ZVmGWfz) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/4tY28Pau74a3kkOEQGGS0b) | 2:53 |
 | 70 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 
-Snapshot ID: `MCwzYzYyYTc3NjNmYmE3ZTM5MjQ1ZTQxYTQzYmZhOWNlNzBhMGI4OTIz`
+Snapshot ID: `MCw3YzhmOTYyZDk4ZjhiZjYzYzBjMDFlNzk5NzAxYzMxZmRhYWQzZjg4`

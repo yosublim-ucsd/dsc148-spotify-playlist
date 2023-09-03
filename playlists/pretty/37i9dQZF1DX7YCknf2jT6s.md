@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kiefer
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,476 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,634 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 37 | [Mountains, Trees and Seas](https://open.spotify.com/track/6h52zNa8ChwfY3SuQb1NzD) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Mountains, Trees and Seas](https://open.spotify.com/album/16xRAk41n6Qpmz0kput949) | 5:06 |
 | 38 | [People of The Sun](https://open.spotify.com/track/5yiRpEYb8n6NWuPx3u3EcW) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Jean Carne](https://open.spotify.com/artist/3ejLRcSbNwwvFbVWnStKvB) | [People of The Sun](https://open.spotify.com/album/5d3LrvZRe23YqwU2GJwQ62) | 3:14 |
 | 39 | [For Roy](https://open.spotify.com/track/10d2cJq5gUpMfJ7sO1VtIK) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [For Roy](https://open.spotify.com/album/0FAN1nY9LMj2mShCOorekg) | 3:43 |
-| 40 | [Lady Tambourine](https://open.spotify.com/track/0TuBBxv6FQ7hroCLA1GX4f) | [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ), [Dan Hemmer](https://open.spotify.com/artist/1dmEVxj0YBAnoaEepaB2oz), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl) | [Lady Tambourine](https://open.spotify.com/album/2xzCpb6RdDdl933rpxOKrJ) | 6:21 |
+| 40 | [Lady Tambourine](https://open.spotify.com/track/14rGX5Y9cBz9W63q49Qf9T) | [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ), [Dan Hemmer](https://open.spotify.com/artist/1dmEVxj0YBAnoaEepaB2oz), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl) | [It Will Be Alright](https://open.spotify.com/album/1wiaMRwz6tXmTAQhKMKMDa) | 6:21 |
 | 41 | [Maimoun](https://open.spotify.com/track/46ZgUJQCJMI6IMhqCEskzU) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Maimoun](https://open.spotify.com/album/79UDB7HDZK5w89ymNY5YPs) | 8:29 |
 | 42 | [Baltimore](https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Baltimore](https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ) | 5:37 |
 | 43 | [Akka\-Safad](https://open.spotify.com/track/29Pk4XB98ecmEFZXKyQNfj) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Akka\-Safad](https://open.spotify.com/album/1ZyeuEB5sVY0h5na75PeOF) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [BIG](https://open.spotify.com/track/29xIkYBI18k0sQLk0mmaRt) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [BIG](https://open.spotify.com/album/0sLWffIotCNNIvcStSlkQa) | 2:50 |
 | 100 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 |
 
-Snapshot ID: `MCw3MTFiMjgyNzE4NGQ0NmZjNzY4NDFlMWNmZTUxYzA5NTU3YTQxMzdl`
+Snapshot ID: `MCwxMDkzZGFlM2RhM2Q5MDI1ZGEzZTE5MWU0YzQ2ZDg4ZTU2NmZhZWUw`

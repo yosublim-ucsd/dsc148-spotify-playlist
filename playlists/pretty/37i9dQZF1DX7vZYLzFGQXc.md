@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: YeonJeong \(연정\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,220 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,234 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 59 | [Queen](https://open.spotify.com/track/24Ieko0aIvr5wXFZq8DQyc) | [We;Na](https://open.spotify.com/artist/1nlvVchkTmecxdFNflxucN) | [Queen](https://open.spotify.com/album/4WiCWr9j5QYUxqQsKMO6Gi) | 3:27 |
 | 60 | [six weeks](https://open.spotify.com/track/5LNmAzMtnESulx9AKY8S78) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [hayawn](https://open.spotify.com/artist/11pZfkzrWyui2d6ExeB6Oo) | [six weeks](https://open.spotify.com/album/38lwuQtJPv6TghQUU73VzM) | 3:13 |
 | 61 | [Love is so](https://open.spotify.com/track/52Y0IPuMnk7Nii8uQ9ltqr) | [yemin](https://open.spotify.com/artist/7L5bFcluaa4oYqVd1WLHn8) | [L's Birthday](https://open.spotify.com/album/2XQxP7zbrEC7d78uKsN81U) | 2:59 |
-| 62 | [1392010](https://open.spotify.com/track/74ZlcicvpBVqdVECsyMF9F) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Essential](https://open.spotify.com/album/4ZsrFVUViZhHapCNySva1G) | 4:02 |
+| 62 | [1392010](https://open.spotify.com/track/3U6oTyFXo19b9faKHx9l3z) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Essential](https://open.spotify.com/album/0qhbg9fwCAk6hfZFMbJeUp) | 4:02 |
 | 63 | [HOLIDAY](https://open.spotify.com/track/5tmqXjumG4kafXDA9p6Sta) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HOLIDAY](https://open.spotify.com/album/1NJlfw8rOaZpcwq7TwrLk6) | 2:48 |
 | 64 | [Your name, youth](https://open.spotify.com/track/1GL9gnHCydIzOOFtFBT637) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Your name, youth](https://open.spotify.com/album/2UiwEirnSTpwZtVgfZEuDR) | 3:53 |
 | 65 | [Melt Down \(feat\. Jayci yucca\)](https://open.spotify.com/track/1HhNjQKkjteSfHEJ3EdvRF) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [Melt Down \(feat\. Jayci yucca\)](https://open.spotify.com/album/7cjpGHLGjSF8RcPgnlNhsp) | 3:51 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 87 | [Maze](https://open.spotify.com/track/4ajdU7CN9sShzGyrWh4XdE) | [HANDAM](https://open.spotify.com/artist/6rh2Qeb3PJ8dFCL7F3Xuyn) | [Maze](https://open.spotify.com/album/1uNKnhsP47vP4zmrq94dSc) | 3:19 |
 | 88 | [Salad Days](https://open.spotify.com/track/74QAbcyw4wt5cN8QX22pMM) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Salad Days](https://open.spotify.com/album/3Di20DXIE3cTSUwRP0dqDF) | 2:01 |
 | 89 | [Masquerade \(Korean Ver.\)](https://open.spotify.com/track/5PZA7uiIdIvRMTPftv0LF9) | [MIDNATT](https://open.spotify.com/artist/1gfsloydrPP6CvkltAHUTd) | [Masquerade](https://open.spotify.com/album/65eQsZ1Wq51wjJk2DNH4nm) | 3:25 |
-| 90 | [Candyfloss](https://open.spotify.com/track/6y1fjojRiAE2ZjqXNln4s7) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/14cvpnkqa4TAuqk07eV0Gc) | 3:16 |
+| 90 | [Candyfloss](https://open.spotify.com/track/0JHkSP9Qdc8MXrF7TN05pT) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/6rvgvS5UBHKyehCptlQOga) | 3:16 |
 | 91 | [i](https://open.spotify.com/track/6TgZn4L1lPFBDSSBYUENOH) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [i](https://open.spotify.com/album/4Isqr04kGZjdCo3rMiouQf) | 3:01 |
 | 92 | [compromise \(feat\. Soo\-Yeony & bluewoods\)](https://open.spotify.com/track/5Uy0nfGGfNP3NN6ElzJi5f) | [DJ Sparrow](https://open.spotify.com/artist/2D3tLAHBKITd7X6ys2Lz1N), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki), [Bluewoods](https://open.spotify.com/artist/2zjQ03r51skqNDg0kUjAMV) | [compromise \(feat\. Soo\-Yeony & bluewoods\)](https://open.spotify.com/album/2x7ql8FguTwmA6PhesCUOS) | 2:40 |
 | 93 | [narodo \(feat\. Ivwan\)](https://open.spotify.com/track/1aV4n8oijIobGLnCVM4lrI) | [SoulMilK](https://open.spotify.com/artist/2dXAG5AlkdYlscgf2ZuyA9), [ivwan](https://open.spotify.com/artist/3fI6eZ96RQ6rmmgQZziHM9) | [narodo \(feat\. Ivwan\)](https://open.spotify.com/album/78jYuqKftX0PMogLsk7jYg) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [our gloomy](https://open.spotify.com/track/3FYErI4z6JZYQnp9SKcdym) | [Kim Bom](https://open.spotify.com/artist/4oMzeJwje9yxn5qkx9rXpC) | [our gloomy](https://open.spotify.com/album/1jfOiaI6cBnIP4PiU9mfew) | 2:39 |
 | 100 | [Hatred](https://open.spotify.com/track/6wZAYtq58NtIuF2fhlsy8t) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Hatred](https://open.spotify.com/album/0lQvanEeBBKXPsa4sw5tbb) | 3:04 |
 
-Snapshot ID: `MCwxZjQxNGY2ZGIyZjQ3OTkxNmQyNWU3ZDdlODFhZGZjMzJkMWY0Yzcz`
+Snapshot ID: `MCwzYjgyZjg0YjNhMGE5YjYyNDg1ZmFkZTc5NDgyMGI2MDM0MjE5NWYx`

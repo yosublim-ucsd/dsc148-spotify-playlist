@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,525 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,563 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vida Chique Madame](https://open.spotify.com/track/6VpqXQLljVXPTAdUbOaXOt) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Vida Chique Madame](https://open.spotify.com/album/2vm6G0MiLRBKJENg1HJIti) | 2:58 |
 | 2 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 |
 | 3 | [Sintomas de Prazer \- Live](https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sintomas de Prazer \- Live](https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4) | 2:31 |
-| 4 | [Ninguém Ama Ninguém](https://open.spotify.com/track/1z2JhprrpIx3Frjh59NXud) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Ninguém Ama Ninguém](https://open.spotify.com/album/5pNjfoqyUbZi2msTjdxPWM) | 1:55 |
+| 4 | [Ninguém Ama Ninguém](https://open.spotify.com/track/1z2JhprrpIx3Frjh59NXud) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Ninguém Ama Ninguém](https://open.spotify.com/album/5pNjfoqyUbZi2msTjdxPWM) | 1:55 |
 | 5 | [Meia Noite](https://open.spotify.com/track/117CW2893WqAWbhYoT1r1T) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [Meia Noite](https://open.spotify.com/album/0vK40migZmPRt5MWOut01C) | 2:14 |
 | 6 | [Good Vibe](https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:01 |
 | 7 | [Babalú](https://open.spotify.com/track/0ytXiW13nB8clgHdr0hQ1z) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Babalú](https://open.spotify.com/album/3jryV1YzSn8RAxxgCtaDoc) | 2:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Não Demora](https://open.spotify.com/track/2upeA1eDVdtH4t7zUdGULn) | [Mati](https://open.spotify.com/artist/6q4OTLGMcroTVXFFKSkzzC), [Ni Munhoz](https://open.spotify.com/artist/3e0wWnjJSczRhvjFKT7kQZ) | [Não Demora](https://open.spotify.com/album/0NtFR23BCN7A9jCfbaj54z) | 2:46 |
 | 75 | [Na Sua Rota](https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y) | [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [VK](https://open.spotify.com/artist/00fzfkVD3y9sfUfdaYDAGf) | [Smooth](https://open.spotify.com/album/4Tp411Bh9vDjXlJRHsSpLD) | 3:32 |
 
-Snapshot ID: `MCwxMTBhMjg4YjcyYTIxZjgxY2E1Yjg5MzVlZTU2N2I2MDdlNDIwMDhl`
+Snapshot ID: `MCw5M2RmYmY0OGU5MWNmMjNiN2I5ODc3MDhiOGRlYmRhMmRkMTUzZDkx`

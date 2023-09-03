@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 269746,
       "name": "I Still Remain",
       "url": "https://open.spotify.com/track/4PRgUvIwL0u3fSe5Eyg7oS"
@@ -2122,6 +2122,24 @@
       "duration_ms": 269746,
       "name": "I Still Remain",
       "url": "https://open.spotify.com/track/4UAU42ODxTYJg1cJR0yewL"
+    },
+    {
+      "album": {
+        "name": "A Light Left On",
+        "url": "https://open.spotify.com/album/1AexYaxNPcGb3PY3icXXIX"
+      },
+      "artists": [
+        {
+          "name": "The Western Den",
+          "url": "https://open.spotify.com/artist/3AKIOaRG1CUS6JYtgavz1z"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "I Still Remain",
+      "url": "https://open.spotify.com/track/5Q1Bjrgo3VqdyyojOkpXvW"
     },
     {
       "album": {

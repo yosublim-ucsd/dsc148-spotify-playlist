@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 64988,
+  "num_followers": 65072,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzA3ZDY0NGMyMDQwMmJjOWMyNjAxNTc4ZjA3ZmMwY2I5ZjZlZmYw",
+  "snapshot_id": "MCwzMGRkOGE3NjZiN2IwZTJiMzI5MmM4ODNlNTM4NTMyYmE1MjZkYzA1",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -603,22 +603,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Million Rings",
-        "url": "https://open.spotify.com/album/4r9jyeljiOBrOX1O9vYoSm"
+        "name": "Alright (feat. Lucy Virji)",
+        "url": "https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au"
       },
       "artists": [
         {
-          "name": "Hardy Caprio",
-          "url": "https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         },
         {
-          "name": "Lost Girl",
-          "url": "https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS"
+          "name": "Lucy Virji",
+          "url": "https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E"
         }
       ],
-      "duration_ms": 162104,
-      "name": "Million Rings",
-      "url": "https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB"
+      "duration_ms": 277000,
+      "name": "Alright (feat. Lucy Virji)",
+      "url": "https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -639,22 +639,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Alright (feat. Lucy Virji)",
-        "url": "https://open.spotify.com/album/0EkRVya5ip9pn0Vp6Tj4Au"
+        "name": "Million Rings",
+        "url": "https://open.spotify.com/album/4r9jyeljiOBrOX1O9vYoSm"
       },
       "artists": [
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Hardy Caprio",
+          "url": "https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd"
         },
         {
-          "name": "Lucy Virji",
-          "url": "https://open.spotify.com/artist/21r2Bc1mCeYM6f8F5xzJ8E"
+          "name": "Lost Girl",
+          "url": "https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Alright (feat. Lucy Virji)",
-      "url": "https://open.spotify.com/track/1FlZn4gmHOIriuqNxWIyOX"
+      "duration_ms": 162104,
+      "name": "Million Rings",
+      "url": "https://open.spotify.com/track/3xPIndCsBuz27cLygsUhSB"
     },
     {
       "added_at": "2023-06-08 23:00:00",

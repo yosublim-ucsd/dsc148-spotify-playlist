@@ -4,7 +4,7 @@
 
 > 
 
-224 songs - 13 hr 22 min
+225 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Synergy](https://open.spotify.com/track/6BWjy4BEMpbEzgwJm1637h) | [Lowly, Juche](https://open.spotify.com/artist/2oEQmXB8z2M6cenJyyrKDB) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:21 | 2020-11-05 |  |
 | [Taurine](https://open.spotify.com/track/4bL55alSleHn3g4BOfoZ1c) | [Dyzphoria](https://open.spotify.com/artist/6SehYBqIfg08SBrc7Ydreg) | [Taurine](https://open.spotify.com/album/6YQcG5LCig3DmaNd6HWtLv) | 3:24 | 2019-11-03 |  |
 | [Tel Aviv](https://open.spotify.com/track/45KsTd0ZqKlgw0fNc8oyC5) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Tel Aviv](https://open.spotify.com/album/7ehAB57WfQmu4O2W82Fjq8) | 3:36 | 2018-11-27 |  |
+| [Tel Aviv \(Lvst Remix\)](https://open.spotify.com/track/3LFAHDElPcGRmRoQBSnqGF) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Lvst](https://open.spotify.com/artist/37tqE9Ue451lRMSdcy8BA5) | [Tel Aviv \(Lvst Remix\)](https://open.spotify.com/album/34ODEhPO5R9WWY64OjhDAq) | 3:38 | 2023-09-02 |  |
 | [The Colour](https://open.spotify.com/track/7hX9qdzPpw2CFYbj4LfCKE) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [The Colour](https://open.spotify.com/album/4QGWNvtGBjBkLoQN0rT7gh) | 3:55 | 2018-11-27 |  |
 | [The Freedom Area \[3.3\]](https://open.spotify.com/track/2CIQ6X83rBDBU4vUERNaKd) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [The Freedom Area \[3.3\]](https://open.spotify.com/album/2NBJrq86LzbHhqbL8ehlDb) | 3:56 | 2018-11-27 |  |
 | [The Great Beast](https://open.spotify.com/track/7HQKsDrhyxWVflTFPSjZbD) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Anthology, Pt\. 2](https://open.spotify.com/album/3n4SeHfULyCQNQSOhsEUoY) | 4:00 | 2019-02-04 |  |

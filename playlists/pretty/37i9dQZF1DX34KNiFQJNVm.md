@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima e Ana Castela, Luísa Sonza, MC IG, Péricles e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,910,457 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,911,188 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 71 | [Cambaleando \- Ao Vivo](https://open.spotify.com/track/3vaUz8TrIF6z4gKH8NSedO) | [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi), [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Cambaleando \(Ao Vivo\)](https://open.spotify.com/album/3RmyCoHxUhHJfDnMViXx4p) | 2:46 |
 | 72 | [História Mal Resolvida \- Ao Vivo](https://open.spotify.com/track/6NhDkyZkrpeaVyAfhiEWlp) | [Leandro & Romário](https://open.spotify.com/artist/3BwrR3T9qKOrTV42JkJkOk) | [História Mal Resolvida \(Ao Vivo\)](https://open.spotify.com/album/70oeikkX8kGhxhRAWbuO98) | 3:01 |
 | 73 | [Esqueceu de Me Largar](https://open.spotify.com/track/0as2FrzjBHM9J4fl34HyzV) | [Camila Gabriel](https://open.spotify.com/artist/0F1dbxeY5qm9H42CWYxwoY), [John Amplificado](https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy) | [Esqueceu de Me Largar](https://open.spotify.com/album/61lKl5neyb6Z81WhWjxoI4) | 2:14 |
-| 74 | [Ninguém Ama Ninguém](https://open.spotify.com/track/1z2JhprrpIx3Frjh59NXud) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Ninguém Ama Ninguém](https://open.spotify.com/album/5pNjfoqyUbZi2msTjdxPWM) | 1:55 |
+| 74 | [Ninguém Ama Ninguém](https://open.spotify.com/track/1z2JhprrpIx3Frjh59NXud) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Ninguém Ama Ninguém](https://open.spotify.com/album/5pNjfoqyUbZi2msTjdxPWM) | 1:55 |
 | 75 | [Artista e ladrão](https://open.spotify.com/track/1r8lBfrMv4uxU9eRSZIQoV) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI), [MC Jhony](https://open.spotify.com/artist/4Lsdb5yqOkOjgMbFRr2sXK), [Mc Leo da Baixada](https://open.spotify.com/artist/7BcNoOEIx29j5XjfDxCIUy) | [Artista e ladrão](https://open.spotify.com/album/3gXLPGN36WyOdmXT6NAuLW) | 4:48 |
 | 76 | [Odyssey Ritmado](https://open.spotify.com/track/2l145iqUMMnrd1RgKKq6Q3) | [DJ JDL](https://open.spotify.com/artist/6sHbP7X41C0Jz87Bw3P9Bo), [MC GG DA LESTE](https://open.spotify.com/artist/3Gq6F4ek2q2qvJbtUAyPg5), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sonoridade Celestial](https://open.spotify.com/album/0tdCnfWR5gylJZCjudI4cy) | 1:52 |
 | 77 | [Qualquer Lugar](https://open.spotify.com/track/6yPFuCPRlbrhlMfrFLZIOC) | [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg) | [Qualquer Lugar](https://open.spotify.com/album/5qhAZvI6PJykS3P2D9PO0X) | 1:58 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Hey Baby](https://open.spotify.com/track/0ZX1bxYtFUenUaS1qDFdDP) | [LEO PICON](https://open.spotify.com/artist/45TcI7iDzGzBpe6YTQMEZ2), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Hey Baby](https://open.spotify.com/album/2wRwEduAaPPz34xIvXYG8y) | 2:49 |
 | 99 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 
-Snapshot ID: `MCwwNzk3ZmRjNDlmZDEyMWEwN2E0OTEzOWVlMDg1MDI4YzExNTk1OTVh`
+Snapshot ID: `MCwxZDFkMTc5ZWZkOWM2OTFjZGYyN2Y1NDA1ZjBmMGFhZTcyMzlhNTEx`

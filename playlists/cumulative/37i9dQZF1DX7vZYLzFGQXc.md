@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: YeonJeong \(연정\)\) \(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,151 songs - 2 day 16 hr 57 min
+1,153 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [11 o'clock Classic \- MSG version](https://open.spotify.com/track/6BMf0G0117dcVJBOgnO4vD) | [Claudio Jung](https://open.spotify.com/artist/7nUfwOW4l5NLvcGWzHCNms) | [11 o'clock Classic](https://open.spotify.com/album/5gPzzC3LBpZZ6p3s0VE4TZ) | 4:21 | 2022-06-09 | 2022-07-05 |
 | [113](https://open.spotify.com/track/0GgJyPJa1d5k2UD1KwiBHT) | [SONG YERIN](https://open.spotify.com/artist/25aScl6kfWpLHcAwRKvwU3) | [Seed](https://open.spotify.com/album/0TEuhEXenTug7J7CINrZsT) | 4:01 | 2022-04-20 | 2022-06-10 |
 | [1234](https://open.spotify.com/track/2pyzRAkH7STuxtpmQd5gnT) | [CCOLA](https://open.spotify.com/artist/0L5oGqofGKJNZzFPLwXxpS) | [1234](https://open.spotify.com/album/517jRNEKwAIZ6eDi4A0AAY) | 3:13 | 2022-04-07 | 2022-06-10 |
-| [1392010](https://open.spotify.com/track/74ZlcicvpBVqdVECsyMF9F) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Essential](https://open.spotify.com/album/4ZsrFVUViZhHapCNySva1G) | 4:02 | 2023-07-06 |  |
+| [1392010](https://open.spotify.com/track/3U6oTyFXo19b9faKHx9l3z) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Essential](https://open.spotify.com/album/0qhbg9fwCAk6hfZFMbJeUp) | 4:02 | 2023-08-31 |  |
+| [1392010](https://open.spotify.com/track/74ZlcicvpBVqdVECsyMF9F) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Essential](https://open.spotify.com/album/4ZsrFVUViZhHapCNySva1G) | 4:02 | 2023-07-06 | 2023-09-03 |
 | [18 \(feat\. Paloalto\)](https://open.spotify.com/track/3ZqR0AfhgdSq3m4Ebd9TmR) | [SEONGSOO](https://open.spotify.com/artist/74yvueu6UeAWrJByKK0a7Z), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [18](https://open.spotify.com/album/1dzpX2Rvs0Ol52fcRoRyij) | 3:12 | 2022-09-05 | 2022-11-08 |
 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 | 2022-02-04 | 2023-01-12 |
 | [20](https://open.spotify.com/track/52zbeFcxoKyH47w7OhYvSM) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6), [Geuneul](https://open.spotify.com/artist/6uSaCBHrprsu7g60k2pcIW) | [20](https://open.spotify.com/album/4V0r9nkH1B4uxgodJi8rvp) | 3:03 | 2021-12-02 | 2022-01-11 |
@@ -157,7 +158,8 @@
 | [CAN WE GO](https://open.spotify.com/track/0Pz9D1XQiOTfxOvKSUy5N9) | [GODOK](https://open.spotify.com/artist/1yBiXTTYAT8dRwiwiF7FvZ) | [CAN WE GO](https://open.spotify.com/album/5Yu338A6dBvJFuyDjEvwxK) | 3:06 | 2022-01-24 | 2022-03-03 |
 | [can you? \(feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/5dKbeXS8iVNVsihyxoQ4le) | [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [can you?](https://open.spotify.com/album/1dGIhcXf7UOpkqHk4f0pIT) | 3:09 | 2023-02-15 | 2023-05-02 |
 | [Can't Leave You \(feat\. Hyea\)](https://open.spotify.com/track/3nEdvRYgm72v0J5ybnnHYT) | [Deep Light](https://open.spotify.com/artist/1nPoM5oWENGalb5UmbNED7), [혜아](https://open.spotify.com/artist/4vKJhvRlieXS3eOIg0RxzG) | [Can't Leave You](https://open.spotify.com/album/5nPSsxAP3NASDIeN9W8zzS) | 2:50 | 2022-04-20 | 2022-06-10 |
-| [Candyfloss](https://open.spotify.com/track/6y1fjojRiAE2ZjqXNln4s7) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/14cvpnkqa4TAuqk07eV0Gc) | 3:16 | 2023-06-01 |  |
+| [Candyfloss](https://open.spotify.com/track/0JHkSP9Qdc8MXrF7TN05pT) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/6rvgvS5UBHKyehCptlQOga) | 3:16 | 2023-08-31 |  |
+| [Candyfloss](https://open.spotify.com/track/6y1fjojRiAE2ZjqXNln4s7) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/14cvpnkqa4TAuqk07eV0Gc) | 3:16 | 2023-06-01 | 2023-09-03 |
 | [canvas](https://open.spotify.com/track/5ttHPxyyZ7Q4wyL97xY8Uy) | [BF](https://open.spotify.com/artist/5OEMDYLpNg4tqtn3LYShEt) | [canvas](https://open.spotify.com/album/2GdUyQUchI6RyU3F3e6VyG) | 4:22 | 2022-06-09 | 2022-06-21 |
 | [Cashmere](https://open.spotify.com/track/1KcGvRoKKUMvtIFw58BXUN) | [LYSON](https://open.spotify.com/artist/4WMjJap2uHbCWKCzvL1BCU), [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Cashmere](https://open.spotify.com/album/20xKFWLF5I82u5JvLrdC4s) | 2:31 | 2022-03-23 | 2022-05-03 |
 | [CG](https://open.spotify.com/track/7jWMGFX1SoWtHeH0vrhLAU) | [jerd](https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA) | [CG](https://open.spotify.com/album/6IlQLNRAJnCUpU1DIfqGFw) | 3:36 | 2022-06-09 | 2022-07-05 |

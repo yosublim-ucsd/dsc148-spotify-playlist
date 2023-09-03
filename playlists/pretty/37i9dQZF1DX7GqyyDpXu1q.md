@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Southern rock swagger served neat\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,951 likes - 101 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,997 likes - 101 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 100 | [In Stride](https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u) | 3:47 |
 | 101 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 |
 
-Snapshot ID: `MCw1MWM0MTIwZDdkODFlOWQ5MmU0YjcxMWE3ZGFjYmYzYjZhMzllMDkw`
+Snapshot ID: `MCxlZTI1OGYwN2UwYTNhZDQzODU3YTZjMGNmOGVkMzJjMmY5ZmYxNWE0`

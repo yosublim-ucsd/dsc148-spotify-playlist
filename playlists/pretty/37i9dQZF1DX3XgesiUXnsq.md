@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Earl Sweatshirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,845 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,943 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 50 | [TRUTH OR DARE](https://open.spotify.com/track/5FNgzQI7b3PqEBrL9RHjBP) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [TRUTH OR DARE](https://open.spotify.com/album/5BJ69eEkaAShh1YxodOnb8) | 4:05 |
 | 51 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 | 52 | [The Getaway](https://open.spotify.com/track/62XMMjGkRhNyLmyRJnyxTN) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [The Getaway](https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb) | 3:11 |
-| 53 | [Since Elementary](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
+| 53 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
 | 54 | [Wide Awake](https://open.spotify.com/track/4gu103x5nz3NpN6lRKSeWC) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE), [Planet Asia](https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo) | [Wide Awake](https://open.spotify.com/album/5sNNL10Qqlgix8lBHPibqj) | 3:43 |
 | 55 | [My Own Lane](https://open.spotify.com/track/4Vp0ivRVcWXrPrxZA7w7gi) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [My Own Lane](https://open.spotify.com/album/4Pct0jmajIPalLfYBY2ghD) | 2:17 |
 | 56 | [Found Love](https://open.spotify.com/track/6tQ5E896MerZcJ9A5kwWMD) | [freekind.](https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV) | [Since Always and Forever](https://open.spotify.com/album/5LbUG3bpLruW7Hc3PkVACy) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 |
 | 100 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
 
-Snapshot ID: `MCwwNmJhOWUxZGI5ZDdmZGU3ZTE4Yjk0MjQzNWNkOTNkYzhiNDU1Mjg1`
+Snapshot ID: `MCw5ZTc5YWQ4ZmRkNjY1YzBmYWJkYTliMzAzY2Q0Y2M4YzMwYzllZWVk`

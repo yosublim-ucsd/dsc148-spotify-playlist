@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-282 songs - 23 hr 13 min
+283 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Left Alone](https://open.spotify.com/track/66EfRZTVNbOU5hQasXP1dK) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Left Alone](https://open.spotify.com/album/6R6AEilPIJEoPSDITHiJIn) | 6:04 | 2022-05-18 | 2022-07-29 |
 | [Left Alone](https://open.spotify.com/track/1S3iCPwpLZGi2Usp3fJWpy) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3) | [Cat Walk](https://open.spotify.com/album/3PtjzG5e4nTStVE0347nFb) | 6:07 | 2022-06-29 | 2022-09-23 |
 | [Life And Death](https://open.spotify.com/track/3mIAMz6nLlzUawJZZzMZ5P) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [Into The Silence](https://open.spotify.com/album/71IfxXKpjfjsYRIGaYfdeD) | 9:18 | 2022-06-03 |  |
-| [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-06-03 |  |
+| [Little Girl Blue](https://open.spotify.com/track/4JvwftqbcCk6yW6i6Nypcx) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Standards In Norway](https://open.spotify.com/album/1mge7MpZUjYEUW04dTleUt) | 6:43 | 2022-06-03 | 2023-09-03 |
 | [Little Person](https://open.spotify.com/track/4ahjjiW9EWNwJKiOcCjb12) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 3:53 | 2022-05-18 |  |
 | [Lonnie's Lament](https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 11:47 | 2022-05-18 | 2023-03-18 |
 | [Losing You](https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S) | 3:24 | 2022-06-29 | 2022-08-27 |
@@ -260,6 +260,7 @@
 | [These Foolish Things \(Remind Me of You\)](https://open.spotify.com/track/59VHmPVQP4XPbOeiiIwqG6) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Blues and Ballads](https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP) | 6:00 | 2022-09-08 | 2022-11-11 |
 | [Time Remembered \- Live](https://open.spotify.com/track/7wpeyD7ZlOmN4JGyEvfg38) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Time Remembered](https://open.spotify.com/album/4F1Rr08dCuQjaeTrho8qrX) | 5:35 | 2022-05-18 | 2022-12-26 |
 | [Too Young To Go Steady](https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 5:41 | 2022-05-18 | 2022-08-27 |
+| [Une Histoire Flamande](https://open.spotify.com/track/0gbrsvaa2jjGBPaDCjBaIw) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [Une Histoire Flamande](https://open.spotify.com/album/5FgTkk5OWzO0vyWiZHANLZ) | 3:26 | 2023-08-31 |  |
 | [Unsentimental](https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Unsentimental](https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d) | 5:00 | 2022-05-18 |  |
 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 | 2022-09-08 |  |
 | [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-11-10 |  |

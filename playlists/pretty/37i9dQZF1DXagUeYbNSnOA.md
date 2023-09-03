@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Priscilla Félix\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,090 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,089 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 21 | [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 |
 | 22 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
 | 23 | [Mal Marzo](https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Pulsión](https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2) | 2:25 |
-| 24 | [TUYO](https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [TUYO](https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ) | 3:09 |
-| 25 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |
+| 24 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |
+| 25 | [TUYO](https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [TUYO](https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ) | 3:09 |
 | 26 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 | 27 | [La Vida No Quiso](https://open.spotify.com/track/0Fbi1j0XLOqJgPu52qul4w) | [Tania Matus](https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF) | [La Vida No Quiso](https://open.spotify.com/album/3ShZboS3roaTDJqsU1CVcz) | 3:36 |
 | 28 | [Y vos decís que me gustás](https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Y vos decís que me gustás](https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q) | 2:33 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 35 | [Estás Aquí](https://open.spotify.com/track/48bK7pREsOWZC7Y8Jl78zu) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Estás Aquí](https://open.spotify.com/album/7nY3pbZRnpn74B2EjV3c9n) | 3:58 |
 | 36 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 |
 | 37 | [Pedazos](https://open.spotify.com/track/5lgdQPbRTR9uz6licN1dIZ) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Pedazos](https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd) | 2:57 |
-| 38 | [Traigo](https://open.spotify.com/track/0jF5hqfBANeJ6E7K1bxbdP) | [Pedro Bulgakov](https://open.spotify.com/artist/0oDPpQb7y6vv0sXFNDmfKa) | [Traigo](https://open.spotify.com/album/00tWe5KGlP68ZflhhneSMr) | 3:49 |
-| 39 | [DTB](https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [DTB](https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU) | 3:05 |
+| 38 | [DTB](https://open.spotify.com/track/6V7RsNWYKH4IrFNotrobMw) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [DTB](https://open.spotify.com/album/0PuGowIixFZPjYBZaBY2yU) | 3:05 |
+| 39 | [Traigo](https://open.spotify.com/track/0jF5hqfBANeJ6E7K1bxbdP) | [Pedro Bulgakov](https://open.spotify.com/artist/0oDPpQb7y6vv0sXFNDmfKa) | [Traigo](https://open.spotify.com/album/00tWe5KGlP68ZflhhneSMr) | 3:49 |
 | 40 | [la piedad](https://open.spotify.com/track/4WRT9VV9YcsdMJEFJbHX8J) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [peek!](https://open.spotify.com/album/33BXeFZabK1YWgJCKfGeF8) | 3:38 |
-| 41 | [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 |
-| 42 | [Lento](https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR) | [Lento](https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm) | 3:28 |
+| 41 | [Lento](https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR) | [Lento](https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm) | 3:28 |
+| 42 | [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 |
 | 43 | [Patio de Adelante](https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa) | [Playa Gótica](https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz) | [Patio de Adelante](https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj) | 3:56 |
 | 44 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 |
-| 45 | [Tantas cosas que decir](https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS) | [4 x el desamor](https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr) | 3:01 |
-| 46 | [Intermodal](https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Intermodal](https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f) | 2:54 |
+| 45 | [Intermodal](https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Intermodal](https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f) | 2:54 |
+| 46 | [Tantas cosas que decir](https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS) | [4 x el desamor](https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr) | 3:01 |
 | 47 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 |
 | 48 | [En el dolor también hay dios](https://open.spotify.com/track/6ZUCiqcbTFd2fPbDYz9xNi) | [Max Valdés](https://open.spotify.com/artist/4aDtvnSRjsWzbXZFQTnDwY) | [En el dolor también hay dios](https://open.spotify.com/album/26utTCFELgXMcQM9yguHEW) | 3:44 |
 | 49 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
 | 50 | [Sad Brillo](https://open.spotify.com/track/70D1DWrZqhxtiBNCs9LC8d) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Sad Brillo](https://open.spotify.com/album/4eN5vemrQsubJb5HVFPHbv) | 3:02 |
 
-Snapshot ID: `MCw5ZGI5NjRkNTA2MWM1NWUyMDk0ZTEwYWM4MTE0Zjk2NTkwNmFlMWE3`
+Snapshot ID: `MCw2NDg3MWM3MmY1OTE2ZDRlMjNjNTQ4MmMxNGI0Y2RmM2QxOGE1NDE0`

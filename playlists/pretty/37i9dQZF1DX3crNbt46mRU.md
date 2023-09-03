@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Timbaland, Nelly Furtado, Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,805 likes - 93 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,806 likes - 93 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 48 | [Wenn die Sonne scheint](https://open.spotify.com/track/147m9a0XMGmDfX8bMAJ6Bg) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [Teenage Tears](https://open.spotify.com/album/5d7fleGCiM08wDF5vv3qW0) | 2:11 |
 | 49 | [I'll Be Fine](https://open.spotify.com/track/59WiBzyaQCr8QxqG06jyDl) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [One Eyed King](https://open.spotify.com/album/1XCJfD27MBabgyTHd1z2Kq) | 2:59 |
 | 50 | [blue](https://open.spotify.com/track/1WL5aNWaoWjtbqOKOphCSv) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [blue](https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl) | 2:58 |
-| 51 | [Colors](https://open.spotify.com/track/1tJZQpTt0qyjy2wb4Yx2kG) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Colors](https://open.spotify.com/album/6SgmRJPjRayvF9q8IpD0PQ) | 2:55 |
+| 51 | [Colors](https://open.spotify.com/track/1tJZQpTt0qyjy2wb4Yx2kG) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [Giselle](https://open.spotify.com/artist/4DrxQj1o522Xy5X0FCB7ni) | [Colors](https://open.spotify.com/album/6SgmRJPjRayvF9q8IpD0PQ) | 2:55 |
 | 52 | [Interstate Bridge](https://open.spotify.com/track/2k33m5kYVtQzTJXyUarRuu) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Interstate Bridge](https://open.spotify.com/album/4YY8cfIETTVzSVMtJRuzxl) | 4:11 |
 | 53 | [Summertime Love](https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Summertime Love](https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb) | 2:35 |
 | 54 | [Rosaroter Rausch](https://open.spotify.com/track/1JxVRwmJkEwHFv4lv1EIgP) | [BEVN](https://open.spotify.com/artist/6yhoNaKEJd3CH33hl26How) | [Rosaroter Rausch](https://open.spotify.com/album/7Am1uzB89xuCN0jthEmHYi) | 3:16 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 62 | [Einzelkämpfer](https://open.spotify.com/track/6i5jws2qkJqoevUrj1kAOR) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Einzelkämpfer](https://open.spotify.com/album/2KBXm02K9uavu8Fz7tL9oP) | 2:22 |
 | 63 | [Loser!](https://open.spotify.com/track/0aAidqSvnUC6LX7D88l93j) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [Loser!](https://open.spotify.com/album/1Tl0l42fKSNIGQvSvSyCX9) | 2:39 |
 | 64 | [Vatta Morgana](https://open.spotify.com/track/1ysveV4DKZ7lc6SvPYlmTH) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Vatta Morgana](https://open.spotify.com/album/2N2wprOKBpBBq1XrXx7u7l) | 3:12 |
-| 65 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
+| 65 | [Toddla T x Aitch \- Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Toddla T x Aitch \- Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
 | 66 | [Flowers \(We Have Grown\)](https://open.spotify.com/track/6QJPFeIz6EBx852kY2WZJe) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [Flowers \(We Have Grown\)](https://open.spotify.com/album/10CvwyC6IKbhX9MydD6DwM) | 3:03 |
 | 67 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 68 | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/track/2NqpZD00BADhsvldFVdO0j) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/album/732QIKM3qkHhwZgxaZsBLZ) | 2:40 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 75 | [Miracle](https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Miracle](https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8) | 5:02 |
 | 76 | [Blindenschrift](https://open.spotify.com/track/1y5J2dPHAozHN3hWs8CXZc) | [AVY](https://open.spotify.com/artist/1QtJHKvmKyBtgZjAbhADM6) | [Blindenschrift](https://open.spotify.com/album/1aIn66TTDFnqpC93gLJkdU) | 2:14 |
 | 77 | [SOMMERNACHT](https://open.spotify.com/track/2TIhRLRhKw8fy5pU6un2B5) | [LUVRE47](https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz) | [SOMMERNACHT](https://open.spotify.com/album/05osoYd1PtJ7IgUO91QD98) | 3:18 |
-| 78 | [Moving Backwards](https://open.spotify.com/track/2ZP9W7cU1UAxaZuSerW1GM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Moving Backwards](https://open.spotify.com/album/6epKRPQ657MwfH5reZCEtA) | 2:52 |
+| 78 | [MOVING BACKWARDS](https://open.spotify.com/track/2ZP9W7cU1UAxaZuSerW1GM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MOVING BACKWARDS](https://open.spotify.com/album/6epKRPQ657MwfH5reZCEtA) | 2:52 |
 | 79 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
 | 80 | [SNACKS](https://open.spotify.com/track/1EFiUnowtm0apXZcy0WS62) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [SNACKS](https://open.spotify.com/album/0lw9eCEYXFQFoVyDiiGD5D) | 2:49 |
 | 81 | [Overrated](https://open.spotify.com/track/6UriMNY0q5RTcZmgRhuRZC) | [Liam Mockridge](https://open.spotify.com/artist/2AVSP0Z9axRhpkMC4EImbG), [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Overrated](https://open.spotify.com/album/2Dn3GTcYRaiX357D4YEzyY) | 3:29 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 92 | [Wonderful & Great](https://open.spotify.com/track/3Ua9ii7k19DUUaqxDo2ivr) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Wonderful & Great](https://open.spotify.com/album/5iTRTDFuXfvZO6Uv9hMlm5) | 2:24 |
 | 93 | [29 YEARS](https://open.spotify.com/track/1YJagR60EwtmiQkqW7nLpy) | [TJ\_beastboy](https://open.spotify.com/artist/7l8dcABCTyZKrkskt53Z2u) | [29 YEARS](https://open.spotify.com/album/68jGl9AsJv9BWeE19gbI1V) | 2:25 |
 
-Snapshot ID: `MCwyN2JhZmM5MTA0YmZjMmUzOWU5OWNjMGI5ZWQyNWI5YmE3ZDQ4YzBm`
+Snapshot ID: `MCw2OTdlZTM5MDk1OGFlMzM3Mjc3YmU5YWJhOWRlODcwMjhkZDc0NDRh`

@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: \uc608\ube5b(Yebit))",
-  "num_followers": 10985,
+  "num_followers": 10994,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWVlZWViZmIzOWNlY2JiMGNkN2YzN2YyMmU2ODdlNzExYzQ0ODY5",
+  "snapshot_id": "MCxmZGFmY2E1NjI1MzFiM2E1MGE4ZjM2OWZjZmQxOTVlYzliNTc5MGVl",
   "tracks": [
     {
       "added_at": "2023-09-01 08:31:45",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-01 08:31:45",
       "album": {
-        "name": "The First Bloom",
-        "url": "https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S"
-      },
-      "artists": [
-        {
-          "name": "Blue.D",
-          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
-        }
-      ],
-      "duration_ms": 187221,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/72sm32NK5bCQFrzH7zNp1Q"
-    },
-    {
-      "added_at": "2023-09-01 08:31:45",
-      "album": {
         "name": "Year to Year / 29",
         "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 254507,
       "name": "Year to Year",
       "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
+    },
+    {
+      "added_at": "2023-09-01 08:31:45",
+      "album": {
+        "name": "The First Bloom",
+        "url": "https://open.spotify.com/album/1cFnuOep138fqDsALVDZ6S"
+      },
+      "artists": [
+        {
+          "name": "Blue.D",
+          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
+        }
+      ],
+      "duration_ms": 187221,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/72sm32NK5bCQFrzH7zNp1Q"
     },
     {
       "added_at": "2023-09-01 08:31:45",

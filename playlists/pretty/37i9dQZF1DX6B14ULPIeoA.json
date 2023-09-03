@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 46044,
+  "num_followers": 46091,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDdiMjYzMDEyNTExYWY1ZjkwOTU5MTc2MDk5NGE5ZTg5NzI4ODQ2",
+  "snapshot_id": "MCxjODBlM2E0MmY1YmEwMDAyZTVlYjgyNTUxMGVmMzg3YmQwMTlkOTUw",
   "tracks": [
     {
       "added_at": "2023-08-18 20:27:37",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Quiereme Corazon Quiereme",
         "url": "https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 174480,
       "name": "Quiereme Corazon Quiereme",
       "url": "https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -771,22 +771,18 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
       "artists": [
         {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 124613,
-      "name": "No Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv"
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
+      "duration_ms": 124613,
+      "name": "No Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 148750,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Tristango",
-        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        }
-      ],
-      "duration_ms": 199230,
-      "name": "Tristango",
-      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
         "name": "Pero Te Vas A Arrepentir",
         "url": "https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 266582,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Tristango",
+        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        }
+      ],
+      "duration_ms": 199230,
+      "name": "Tristango",
+      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 183400,
-      "name": "La barca",
-      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
+      "duration_ms": 176093,
+      "name": "De que manera te olvido",
+      "url": "https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
+        "name": "Recuerdos De Mi Tierra",
+        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Premier",
+          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
+        }
+      ],
+      "duration_ms": 149623,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1Ph7ahP8j4viFmpXB4Krgj"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
         "name": "Alma Mexicana",
         "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 145125,
       "name": "Me Muero Sin Tus Besos",
       "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Recuerdos De Mi Tierra",
-        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Premier",
-          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
-        }
-      ],
-      "duration_ms": 149623,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1Ph7ahP8j4viFmpXB4Krgj"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-08-18 20:27:37",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
       },
       "artists": [
         {
-          "name": "Mau Soles",
-          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 193674,
-      "name": "Adio\u0301s Amor",
-      "url": "https://open.spotify.com/track/2kA8HXXFHGu9Ml8TYrK2sx"
+      "duration_ms": 249000,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1656,9 +1656,25 @@
           "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 176093,
-      "name": "De que manera te olvido",
-      "url": "https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx"
+      "duration_ms": 183400,
+      "name": "La barca",
+      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
+    },
+    {
+      "added_at": "2023-08-18 20:27:37",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
+      },
+      "artists": [
+        {
+          "name": "Mau Soles",
+          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
+        }
+      ],
+      "duration_ms": 193674,
+      "name": "Adio\u0301s Amor",
+      "url": "https://open.spotify.com/track/2kA8HXXFHGu9Ml8TYrK2sx"
     },
     {
       "added_at": "2023-08-18 20:27:37",
@@ -1675,22 +1691,6 @@
       "duration_ms": 193670,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
-    },
-    {
-      "added_at": "2023-08-18 20:27:37",
-      "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7J3hUdS1aHBvb2DQASIUhP"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/2kyYCNAMtQSTik4L9ps1xH"
     },
     {
       "added_at": "2023-08-18 20:27:37",

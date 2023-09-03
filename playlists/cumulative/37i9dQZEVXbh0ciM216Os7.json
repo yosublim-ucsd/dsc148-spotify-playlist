@@ -3528,7 +3528,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 368624,
       "name": "Eyes of the World (Take 6) [Not Slated] - 8/10/73",
       "url": "https://open.spotify.com/track/47EPpubUrCiEqSWUWSnm2p"
@@ -12190,6 +12190,24 @@
       "duration_ms": 221226,
       "name": "We Should Get Married",
       "url": "https://open.spotify.com/track/2syH39iwALerO994Pod9dB"
+    },
+    {
+      "album": {
+        "name": "Wake of the Flood: The Angel's Share",
+        "url": "https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 796202,
+      "name": "Weather Report Suite (Take 8) [Slated] - 8/17/73",
+      "url": "https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz"
     },
     {
       "album": {

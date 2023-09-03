@@ -1,12 +1,12 @@
 {
   "description": "That's that big energy. Cover: Ruger",
-  "num_followers": 1398,
+  "num_followers": 1535,
   "original_name": "Bounce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmExMGU4MzQ2ODNlOGE0MWI4OGRmNWJiOTU4NWVkZjQxZjQ3MGYx",
+  "snapshot_id": "MCxmOTI1MmRkNTBiOTFhMWZiYzI1NjcyMjUyY2UyZmM4N2E2OGNlZmY1",
   "tracks": [
     {
       "added_at": "2023-09-02 00:14:17",
@@ -191,7 +191,7 @@
     {
       "added_at": "2023-09-02 00:14:17",
       "album": {
-        "name": "Hide N Seek (feat. TAET)",
+        "name": "Toddla T x Aitch - Hide N Seek (feat. TAET)",
         "url": "https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ"
       },
       "artists": [
@@ -209,7 +209,7 @@
         }
       ],
       "duration_ms": 168015,
-      "name": "Hide N Seek (feat. TAET)",
+      "name": "Toddla T x Aitch - Hide N Seek (feat. TAET)",
       "url": "https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP"
     },
     {
@@ -251,7 +251,7 @@
     {
       "added_at": "2023-09-02 00:14:17",
       "album": {
-        "name": "Ghetto & Rachet",
+        "name": "Ghetto & Ratchet",
         "url": "https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC"
       },
       "artists": [
@@ -261,7 +261,7 @@
         }
       ],
       "duration_ms": 126642,
-      "name": "Ghetto & Rachet",
+      "name": "Ghetto & Ratchet",
       "url": "https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64"
     },
     {
@@ -638,6 +638,10 @@
         {
           "name": "Sam Diem",
           "url": "https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn"
+        },
+        {
+          "name": "Beatz Akademy",
+          "url": "https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI"
         }
       ],
       "duration_ms": 170086,

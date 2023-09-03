@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 291493,
       "name": "Bird+Disposable - Live at Nodeul Live House, 2021",
       "url": "https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE"
@@ -2366,10 +2366,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 209638,
       "name": "Tic Toc",
       "url": "https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o"
+    },
+    {
+      "album": {
+        "name": "Tic Toc",
+        "url": "https://open.spotify.com/album/1pPdybb7qeAsSFyxV2YerW"
+      },
+      "artists": [
+        {
+          "name": "Jue",
+          "url": "https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209638,
+      "name": "Tic Toc",
+      "url": "https://open.spotify.com/track/3v8tZDqJGf67V31paDAbd8"
     },
     {
       "album": {
@@ -2872,6 +2890,24 @@
       "duration_ms": 258962,
       "name": "\ube44\uae34\uc5b4\uac8c\uc778 \uc624\ud508\ub9c8\uc774\ud06c EPISODE. 34 -\uc77c\ub801\uc784\uc758 \ucc30\ub098",
       "url": "https://open.spotify.com/track/6IFdEC905IVfVKkEg5oCIf"
+    },
+    {
+      "album": {
+        "name": "1202",
+        "url": "https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291493,
+      "name": "\uc0c8+\uc77c\ud68c\uc6a9\ud488 Bird+Disposable (Live at Nodeul Live House, 2021)",
+      "url": "https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ"
     },
     {
       "album": {

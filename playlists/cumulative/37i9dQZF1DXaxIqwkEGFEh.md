@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Gunna
 
-1,004 songs - 1 day 22 hr 42 min
+1,005 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [650 \(feat\. Baby Money\)](https://open.spotify.com/track/0zbr1kb6Ojd3UaV7n7f3St) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [650 \(feat\. Baby Money\)](https://open.spotify.com/album/4U5BPISYxkVN9Iz3pjYvMK) | 2:42 | 2022-04-22 | 2022-07-16 |
 | [712PM](https://open.spotify.com/track/1YWE7cMqo4iVNdPTpH4Khj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:53 | 2022-06-03 | 2022-10-08 |
 | [7sixers \(feat\. Babyface Ray and Icewear Vezzo\)](https://open.spotify.com/track/1pf4HwR9cjrtHg0JsUKusN) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Ganger](https://open.spotify.com/album/0sUPNmEalAzqWNEhPTykCn) | 3:00 | 2023-06-30 | 2023-08-12 |
-| [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8) | 2:09 | 2023-08-11 |  |
+| [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/2EGKdHT9uWNKHvxEFkCbXK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/album/1DCHs8BQNGM7qJ5Y8QpVr8) | 2:09 | 2023-08-11 | 2023-09-03 |
+| [A MOMENT WITH GOTTI \(FEAT\. YO GOTTI\)](https://open.spotify.com/track/58Oj2g9GDO4xYKrtgDNeUv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:09 | 2023-08-11 |  |
 | [Active](https://open.spotify.com/track/04OW3p7V9ACVSttnuTfikE) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Active](https://open.spotify.com/album/3F3kfa81UeFxORdaFa8dzE) | 2:54 | 2022-07-01 | 2022-07-09 |
 | [Add A K \- Part 2](https://open.spotify.com/track/3XSLBRHVGRlcmkCjDy74rJ) | [Whoppa Wit Da Choppa](https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq), [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Add A K \(Part 2\)](https://open.spotify.com/album/310KcDvru9J7ixZeSZLdbl) | 2:37 | 2022-06-03 | 2022-06-25 |
 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 | 2022-10-28 | 2022-12-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: NAYEON(\ub098\uc5f0))",
-  "num_followers": 165796,
+  "num_followers": 165978,
   "original_name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWY1Y2U0YjM3NDBhMzBkZGUxODBmNDAwZTRjNTczNzJjNDQ3MDRk",
+  "snapshot_id": "MCxkNGNhMmVkZjgxN2FjMTcxZDcxZjVkZmVhN2Q1YWYwYWI0NGEwYzU5",
   "tracks": [
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 217486,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
         "name": "HOLIDAY",
         "url": "https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 221466,
       "name": "Wind And Wish",
       "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
-        "name": "Present : YOU",
-        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 217486,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "COME TO ME",
-      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
         "name": "Bare&Rare, Pt. 1",
         "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
-        "name": "SELF",
-        "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
       },
       "artists": [
         {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 187480,
-      "name": "D N D",
-      "url": "https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU"
+      "duration_ms": 204493,
+      "name": "COME TO ME",
+      "url": "https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2023-08-24 02:18:13",
       "album": {
+        "name": "SELF",
+        "url": "https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "D N D",
+      "url": "https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
         "name": "I Don't Miss You",
         "url": "https://open.spotify.com/album/0MdZdkVzAdqv9QcBqnWmes"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 200125,
       "name": "SEE SEA",
       "url": "https://open.spotify.com/track/09Pp9Q9593vnr91Ldi4let"
-    },
-    {
-      "added_at": "2023-08-24 02:18:13",
-      "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "B.L.T (BLING LIKE THIS)",
-      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
     },
     {
       "added_at": "2023-08-24 02:18:13",
@@ -1459,6 +1443,22 @@
       "duration_ms": 217320,
       "name": "Chi Mat Ba Ram",
       "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
+    },
+    {
+      "added_at": "2023-08-24 02:18:13",
+      "album": {
+        "name": "THE FIRST STEP : TREASURE EFFECT",
+        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "B.L.T (BLING LIKE THIS)",
+      "url": "https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl"
     },
     {
       "added_at": "2023-08-24 02:18:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGwK1DVdGDJ.md) - [plain]
 
 > 🐰 This Is NewJeans\. The essential tracks, all in one playlist\. 🐇
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,671 likes - 24 songs - 47 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 87,534 likes - 24 songs - 47 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGwK1DVdGDJ.md) - [plain]
 | 23 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 24 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
 
-Snapshot ID: `MCwzZmM2NDE5MjUwMjFhYWUwYTdlMmE1OTY2Nzg5NWQ3OTg2OTBiZWIz`
+Snapshot ID: `MCwwMjc3NmY4ZGY5YWVlNzVjOTYzNTZkODk2NDJjYWRmOWYzN2RmZmFi`

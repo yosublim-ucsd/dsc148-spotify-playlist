@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,427 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,463 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 | 59 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
 | 60 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 |
 
-Snapshot ID: `MCwyYmZhZDMxNDAxNmU4YTRhNDEwNzM5NTMwNjcwYjBjNzE5ODg5YjBm`
+Snapshot ID: `MCw5NzY2NTc2MTgyN2IyMTA1ZWQwOGM3YTVjZDgyMjc0YTdjMTFlNTEy`

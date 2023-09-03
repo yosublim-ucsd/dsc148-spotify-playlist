@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 39600,
+  "num_followers": 39631,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2Y1OWQyOTg3ZDhkYTFhNDEyM2IzNTQyNWYxZTI3OTg4MGVlM2E2",
+  "snapshot_id": "MCw2MGMzNzY5ZTk0Yzk4MzA0MDhhMTU1ZDM2YmExNWI3ZjZhZGIzOGRk",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -175,26 +175,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Independence Jump Up Calypso",
-        "url": "https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE"
+        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
+        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
       },
       "artists": [
         {
-          "name": "Count Lasher",
-          "url": "https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl"
-        },
-        {
-          "name": "Lynn Taitt",
-          "url": "https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy"
-        },
-        {
-          "name": "The Baba Brooks Band",
-          "url": "https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ"
+          "name": "Calypso Mama",
+          "url": "https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy"
         }
       ],
-      "duration_ms": 179026,
-      "name": "The Weed (Man Pyabba)",
-      "url": "https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y"
+      "duration_ms": 134562,
+      "name": "Don't Touch Me Tomato",
+      "url": "https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -231,18 +223,26 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
-        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
+        "name": "Independence Jump Up Calypso",
+        "url": "https://open.spotify.com/album/2dfghX8adIwzkl4LwWLoRE"
       },
       "artists": [
         {
-          "name": "Calypso Mama",
-          "url": "https://open.spotify.com/artist/2t2wB82iIBJwcj0kVkgupy"
+          "name": "Count Lasher",
+          "url": "https://open.spotify.com/artist/0J2rvUNb5LPOFUV3aWY6Xl"
+        },
+        {
+          "name": "Lynn Taitt",
+          "url": "https://open.spotify.com/artist/2AOn8ToM1vaab3wtU74ldy"
+        },
+        {
+          "name": "The Baba Brooks Band",
+          "url": "https://open.spotify.com/artist/2CvWN4mkeo5qpINkGALdgQ"
         }
       ],
-      "duration_ms": 134562,
-      "name": "Don't Touch Me Tomato",
-      "url": "https://open.spotify.com/track/4T0vtk187B4c75WSc71jeq"
+      "duration_ms": 179026,
+      "name": "The Weed (Man Pyabba)",
+      "url": "https://open.spotify.com/track/6vFcUp67PGMjZdSKvney6Y"
     },
     {
       "added_at": "2021-04-23 15:05:50",

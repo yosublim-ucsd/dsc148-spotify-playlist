@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: GRAPEVINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,790 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,847 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 59 | [Bitter Sweet](https://open.spotify.com/track/3vZs0XaH2UZTG5oBHCunKZ) | [D'ERLANGER](https://open.spotify.com/artist/0nYrpm7D3gcQEcP7i84ABO) | [Bitter Sweet](https://open.spotify.com/album/6FKtwyMZi2YeQsQPAvKzo2) | 3:38 |
 | 60 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 
-Snapshot ID: `MCw4NDczOTVhYzdhZjY3ZDM0YWUzODVjNWY1YjZkOGMxODBkYjM4MTk4`
+Snapshot ID: `MCxiNDEyZTZlODFhOTJjMDJiMDYxMGM0MmNiOWIxMjliYmY2NTc5NGVh`

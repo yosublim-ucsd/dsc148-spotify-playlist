@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Vins in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,135 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,153 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/track/5OPX34gJT9DgYl2C9jgHZF) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [NON TI SEI MAI DIVERTITA COSÌ](https://open.spotify.com/album/2GBE6xcPpKC1QoDu45277o) | 2:09 |
 | 2 | [RATATA](https://open.spotify.com/track/05n2Sub4M3QV0thT5Hmbm1) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [RATATA](https://open.spotify.com/album/2wr4eGrYA8CzZ2VXUAxrNK) | 2:24 |
 | 3 | [TOP G \(feat\. Sacky\)](https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:40 |
-| 4 | [OH MIO DIO](https://open.spotify.com/track/4oy0YfpS0jl68DD0QBNyzX) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/3HRMe06vdRgaES4eEh1Pwo) | [OH MIO DIO](https://open.spotify.com/album/5zFDxiDnv7dk7xmcwpfjVO) | 1:52 |
+| 4 | [OH MIO DIO](https://open.spotify.com/track/4oy0YfpS0jl68DD0QBNyzX) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [OH MIO DIO](https://open.spotify.com/album/5zFDxiDnv7dk7xmcwpfjVO) | 1:52 |
 | 5 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 |
 | 6 | [Rotto](https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Rotto](https://open.spotify.com/album/1RX1BgY0VoxOjW6KJoyZHk) | 2:43 |
 | 7 | [Victoria \(feat\. Artie 5ive\)](https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [ME IN TE](https://open.spotify.com/track/5mGIE4EskZ2guDm1gKZPj8) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp) | [ME IN TE](https://open.spotify.com/album/3FZxwI7F2232N7DRcj5jrX) | 3:26 |
 | 50 | [SANGUE CALDO](https://open.spotify.com/track/0G9LVojrr4a6heAOEmoaBX) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [SANGUE CALDO](https://open.spotify.com/album/5tdfN8S68psImgoiru1bfT) | 2:05 |
 
-Snapshot ID: `MCxlNzJiODg2NmY1Njg0ZjQ2MzFlNzE3OTk2ODliNzAwNTk0ODJkZWI4`
+Snapshot ID: `MCw4NzMzMzVlN2MwMjVlMDQ1MzBkMDk0ZmZjNmEyNzc4NDBlOWNhNzcz`

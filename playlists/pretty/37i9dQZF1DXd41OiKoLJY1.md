@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: KV Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,933 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,936 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PAALAM](https://open.spotify.com/track/1EAyjNIZQrTPMRwA3BqXWv) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [PAALAM](https://open.spotify.com/album/6RCw6WQusUr5nqcBvrdxK0) | 4:28 |
 | 2 | [You Know Why](https://open.spotify.com/track/2jDBOI6k7xdrKnriP7UZqE) | [Just Matthew™](https://open.spotify.com/artist/3SARdpOn4J888NAfbGi5Aa) | [You Know Why](https://open.spotify.com/album/5apkeU6giPiXDWy3opgoHB) | 3:32 |
-| 3 | [Magdamag](https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Magdamag](https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh) | 2:00 |
+| 3 | [Magdamag](https://open.spotify.com/track/1t3YrmdkNAjonhIUBIpm8Y) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Magdamag](https://open.spotify.com/album/3iDeh0fFf7vcAPSDA6eSTh) | 1:59 |
 | 4 | [Better Off](https://open.spotify.com/track/5Xzg002lXQpUmJCZHeLPKK) | [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0), [JUNA](https://open.spotify.com/artist/320c4FrMt0pfsfhhawLm0a) | [Better Off](https://open.spotify.com/album/5lCiWYQZF7CLhirdeuFXEK) | 3:27 |
 | 5 | [lately](https://open.spotify.com/track/3YnTdXRTanguQKUxkPwgC7) | [sxber](https://open.spotify.com/artist/5Xb3coCF1TSOuJkZMJqdz2) | [lately](https://open.spotify.com/album/2E8kbBu4PvlhK6eABA7hzf) | 2:09 |
 | 6 | [Mahimbing](https://open.spotify.com/track/1BIWy84Qpw2TTXUxTeNEQH) | [JESTUR](https://open.spotify.com/artist/4MK8tlJZVaE5mIsrnkjzSY) | [Mahimbing](https://open.spotify.com/album/0aPDajq1yOzGLYMgz3e952) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Kung Ikaw Ay Lalayo](https://open.spotify.com/track/43lnLp5LtC84sIRisV4GLL) | [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Kung Ikaw Ay Lalayo](https://open.spotify.com/album/3UFZrvE59KTO3odZnBGRmQ) | 3:50 |
 | 75 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 |
 
-Snapshot ID: `MCxiY2VkZmM0NDBjZmE1ZDE4MmZkOTVkNWM0YTY1MmVlMmE5MGJiZTA0`
+Snapshot ID: `MCw2ZmQ1YjY5OTQ3Nzg1M2JkZjRlZTQ2YWU5NjAwYzNkNWM5ODllNTMx`

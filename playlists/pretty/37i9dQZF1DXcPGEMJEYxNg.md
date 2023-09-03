@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,492 likes - 58 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,499 likes - 58 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 48 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 49 | [HATELOVE](https://open.spotify.com/track/0zDBdVVqplM1fraqw0Au81) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [HATELOVE](https://open.spotify.com/album/3HXLsudy18Zldq74H5KP5R) | 2:51 |
 | 50 | [Ol' Dude](https://open.spotify.com/track/4LYQZVXSnW7IZYmyaW32U5) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [Ol' Dude](https://open.spotify.com/album/6qZ81JK9kCmzJZR0lNTjHL) | 2:57 |
-| 51 | [don't cry over spilled milk](https://open.spotify.com/track/4Xq3z2mHOqoimyVcS5IOJ0) | [OKAY! KENJI](https://open.spotify.com/artist/00zm8dLiIe8eTAWaEsrOrm), [Sewerperson](https://open.spotify.com/artist/6bPjJVb3mKaiW1qIT0b7ZF) | [hear me now, believe me later EP](https://open.spotify.com/album/0HjzTDd2HOpZeWxVt1mvT4) | 3:00 |
+| 51 | [don't cry over spilled milk](https://open.spotify.com/track/6eocjZ7OFfRprtjmhC7Sjy) | [OKAY! KENJI](https://open.spotify.com/artist/00zm8dLiIe8eTAWaEsrOrm), [Sewerperson](https://open.spotify.com/artist/6bPjJVb3mKaiW1qIT0b7ZF) | [don't cry over spilled milk](https://open.spotify.com/album/60AgXcvaPhzDsDdtQ1ekRO) | 3:00 |
 | 52 | [Devil In A Dress](https://open.spotify.com/track/3wNsLWIAFQsi5RuLyHFfMN) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/37Hau8GSFmAPCUHBpyZC6Z) | 1:51 |
 | 53 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
 | 54 | [DEATH TRIP](https://open.spotify.com/track/1cENnHoIyYcBm5ubz3h1q9) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [DEATH TRIP](https://open.spotify.com/album/6RF7gZXUtYNfLngg1ziZQJ) | 3:42 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 57 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 |
 | 58 | [Fashionably Late](https://open.spotify.com/track/4gG73FSWLBH5DlkmgaKJtv) | [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR) | [Fashionably Late](https://open.spotify.com/album/4eBlEJK3JKGWGeElVlxJhI) | 3:17 |
 
-Snapshot ID: `MCxkM2YwMzY4NmIyYzAyMWFjYTVjMmZhNzU0YmY3NjFkZTk2MTdlYjhk`
+Snapshot ID: `MCwxNDNkNmRlODAxMDA3NjZhMjVmZDQxNzAxYzc4MTI0ZmUxMTMwOTgy`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,439 songs - 3 day 4 hr 38 min
+1,440 songs - 3 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,7 +711,8 @@
 | [La kiffance](https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La kiffance](https://open.spotify.com/album/1YrIKS84a899NhW15PDswr) | 2:59 | 2021-03-27\* | 2021-04-04 |
 | [La Kush](https://open.spotify.com/track/0RAeV4QzrdHzsn4R0Pdgcp) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Tony Corrida](https://open.spotify.com/artist/5lCpbjOjBZTwEIizNuhEhC) | [La Kush](https://open.spotify.com/album/1JHZrthJic7JLR83GFvloZ) | 2:19 | 2022-10-29 | 2022-11-06 |
 | [La Kush](https://open.spotify.com/track/3803TnTgCIn4rq6ZdEoPAl) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Tony Corrida](https://open.spotify.com/artist/5lCpbjOjBZTwEIizNuhEhC) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:19 | 2022-12-04 | 2022-12-20 |
-| [La League](https://open.spotify.com/track/1WkliDsYrTr7UdNcQVDy2Q) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [La League](https://open.spotify.com/album/3D2cLTuh5v4AXHnJZbhrD6) | 2:59 | 2023-05-12 |  |
+| [La League](https://open.spotify.com/track/38KQ5zKDeF3kUH18ZjzBbZ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [La League](https://open.spotify.com/album/4eXYDLQHtqHHdpAhNIDXUZ) | 2:53 | 2023-09-02 |  |
+| [La League](https://open.spotify.com/track/1WkliDsYrTr7UdNcQVDy2Q) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [La League](https://open.spotify.com/album/3D2cLTuh5v4AXHnJZbhrD6) | 2:59 | 2023-05-12 | 2023-09-03 |
 | [La loi du plus fort](https://open.spotify.com/track/6B8weBKcdSVs3LbS8E6Yeb) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 2:43 | 2022-06-11 | 2022-06-16 |
 | [LA LUMIÈRE](https://open.spotify.com/track/3Bc9vObMRjShmk339aD5JA) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:27 | 2023-03-18 | 2023-03-20 |
 | [La maison que je voulais](https://open.spotify.com/track/6xVRI3rGcsgi8ZCfdf90Oe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:41 | 2021-12-05 | 2022-01-08 |
@@ -750,7 +751,7 @@
 | [Le coup d’avance](https://open.spotify.com/track/6YqWoncdvGUY4pfuLiuyRb) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 1:16 | 2021-03-27\* | 2021-03-27 |
 | [Le crime parfait](https://open.spotify.com/track/5L00AR9P5b2iaizne5PVUS) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/0FZwklnVBdxhcCQLhIgPU2) | 2:39 | 2023-02-25 | 2023-02-27 |
 | [Le Daron](https://open.spotify.com/track/6YHji06k5DxaQgnYh3Za9y) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Jean Dujardin](https://open.spotify.com/artist/1SNXHU6Ra98YVdhuoZC5FM), [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 3:34 | 2022-12-07 | 2022-12-20 |
-| [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 | 2023-06-25 |  |
+| [Le feu](https://open.spotify.com/track/7tChNCtleS9bUPD4uDXvJf) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [L'école de la vie](https://open.spotify.com/album/25snFHoT0AM49Ap6PzVdnq) | 3:57 | 2023-06-25 | 2023-09-03 |
 | [Le maire](https://open.spotify.com/track/7w9SKMYEfvOnxJDNuOoCTF) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:18 | 2021-11-28 | 2021-12-05 |
 | [Le miel et le vinaigre](https://open.spotify.com/track/4gPVkvBL2TSyk4y4feOkot) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 2:36 | 2022-09-17 | 2022-09-25 |
 | [Le Moine](https://open.spotify.com/track/3mXiiDURmE5ieq3P6os0AT) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 3:27 | 2023-03-11 | 2023-03-16 |
@@ -1294,7 +1295,7 @@
 | [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 | 2023-08-03 |
 | [Thank God It's Christmas \- Non\-Album Single](https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:21 | 2021-12-25 | 2022-12-28 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-05-08 |
-| [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-04-30 | 2023-08-14 |
+| [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-04-30 |  |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-04-05 | 2021-04-17 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-25 | 2022-12-28 |
 | [The Fool](https://open.spotify.com/track/4bArJbevzjgIfbPupg9GEl) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw) | 3:27 | 2023-04-30 | 2023-06-28 |

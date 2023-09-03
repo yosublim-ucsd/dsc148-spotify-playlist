@@ -2250,6 +2250,24 @@
     {
       "album": {
         "name": "Ego Killah",
+        "url": "https://open.spotify.com/album/3qlhwRcMzkHVoUnq6uNGtw"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355493,
+      "name": "Ego Killah",
+      "url": "https://open.spotify.com/track/4i1vC7Wy7Zgg5c3Fl58gNN"
+    },
+    {
+      "album": {
+        "name": "Ego Killah",
         "url": "https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa"
       },
       "artists": [
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 264870,
       "name": "Fragile Eyes",
       "url": "https://open.spotify.com/track/0JTZDtBqZTCQZlVER9Z9E3"
@@ -4291,6 +4309,28 @@
     },
     {
       "album": {
+        "name": "Lady (Ezra Collective Version)",
+        "url": "https://open.spotify.com/album/3OuYAZDQ1dxL3GQcYbzc0Q"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347266,
+      "name": "Lady - Ezra Collective Version",
+      "url": "https://open.spotify.com/track/3pOT3YM1WPFsCyQIRgSBNP"
+    },
+    {
+      "album": {
         "name": "What Kinda Music",
         "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
@@ -4452,7 +4492,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 203560,
       "name": "Life Goes On (feat. Sampa the Great)",
       "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
@@ -7378,7 +7418,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 204254,
       "name": "Statue",
       "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
@@ -8940,6 +8980,24 @@
       "duration_ms": 220853,
       "name": "We Give Thanks",
       "url": "https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75"
+    },
+    {
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434346,
+      "name": "Welcome To My World",
+      "url": "https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y"
     },
     {
       "album": {

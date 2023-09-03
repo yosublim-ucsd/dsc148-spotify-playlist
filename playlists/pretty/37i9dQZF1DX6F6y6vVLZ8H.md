@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,657 likes - 53 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,693 likes - 53 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 6 | [Step It Up](https://open.spotify.com/track/5liKx12bn3B3Afr6f1BljQ) | [Backchat](https://open.spotify.com/artist/2y9Lrb9drybmVaUxFtDxFI) | [Step It Up](https://open.spotify.com/album/7xJ6ofdNz8GXyzU65ksafW) | 2:30 |
 | 7 | [You](https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 2:06 |
 | 8 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 |
-| 9 | [Afraid of Heights](https://open.spotify.com/track/0qlgfcFAsrlNCD4tBGVAY9) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights](https://open.spotify.com/album/4Qw31hg9NZ6dVITZb05TRN) | 3:45 |
+| 9 | [Afraid of Heights](https://open.spotify.com/track/1MJ2PGCxb3DWkd7ES6Z2Nw) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights \(Deluxe Version\)](https://open.spotify.com/album/4VvTNytClnO6CUaAAFQ26e) | 3:45 |
 | 10 | [The Struggle](https://open.spotify.com/track/7kBP4kOVgeAv7NWcpowA4y) | [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz), [KID SOMETHING](https://open.spotify.com/artist/0ZUzov4ewXiJRz0uO2DiLO) | [The Struggle](https://open.spotify.com/album/67HP7rGmoX7rZGAFEC41Uc) | 3:31 |
 | 11 | [South](https://open.spotify.com/track/4P4oazg6dLImZsqNAb9JlZ) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [South](https://open.spotify.com/album/5b3B3DiNKPnuESmFv2o72m) | 2:09 |
 | 12 | [Confisco](https://open.spotify.com/track/2vV3fHWrEIdDBygY35PyuY) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Transpiração Contínua Prolongada \- Edição Comemorativa](https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp) | 2:58 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6F6y6vVLZ8H.md) - [plain]
 | 52 | [Slow Learner](https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Street Worms](https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F) | 3:11 |
 | 53 | [All My Friends Are Nobodies](https://open.spotify.com/track/0ImdOZzfzWSIkB4ToC2buF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [All My Friends Are Nobodies](https://open.spotify.com/album/6VTNdekziQXzcf4gvy9hcM) | 3:03 |
 
-Snapshot ID: `MCxmNDJjNDRkYmM0N2ZmNjNiMTg4ZmY1MTQ5MDQ5MGI2YjJhYzhjMjc4`
+Snapshot ID: `MCw5MmY1MTQ0NTM3ZjM0NWRiNjFmNGRkZjk5MzkzYzg0NjQyMDhlZmM3`

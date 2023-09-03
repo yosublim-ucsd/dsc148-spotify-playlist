@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: BM & Hernan y La Champion's Liga
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,964 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,987 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 24 | [Pero tú no estás](https://open.spotify.com/track/6xn6ep1MsFYg1bGgM112ji) | [El Encanto De Corazón](https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2) | [Pero tú no estás](https://open.spotify.com/album/34YrUJ2QfOzx6KraTWTEUY) | 3:09 |
 | 25 | [Agachadita](https://open.spotify.com/track/2wxEH0qz9ugDQq4OrvmiMd) | [Tropilatinos](https://open.spotify.com/artist/232aQvrL4wdzcJK5tZYydI) | [Agachadita](https://open.spotify.com/album/3LiHEAinLA9LNXXNRw9aop) | 3:30 |
 | 26 | [Popurrí: La Carcacha, Baila Esta Cumbia, Bidi Bidi Bom Bom \- En Vivo](https://open.spotify.com/track/6IudcjM0pui0jffjE5ZDjM) | [Conjunto La Duracion](https://open.spotify.com/artist/047wqZpbKCmKxAcWHdykd5) | [Desde La Marquesa \(En Vivo\)](https://open.spotify.com/album/0jQ49x6Lr9OvmhsjlxBnbN) | 4:05 |
-| 27 | [Que mal me va](https://open.spotify.com/track/1as2TrglGrNix4jOfhbtzO) | [Invandra](https://open.spotify.com/artist/4ftKfaIj81n7XQ5RGtQCND), [Xcese](https://open.spotify.com/artist/6q0a8EJVDLXee3CE2FHpIv) | [El Profanador](https://open.spotify.com/album/3exfP0MZhc0HemPaiOtDvb) | 3:59 |
+| 27 | [Que mal me va](https://open.spotify.com/track/1as2TrglGrNix4jOfhbtzO) | [Invandra](https://open.spotify.com/artist/4ftKfaIj81n7XQ5RGtQCND), [Xcese](https://open.spotify.com/artist/6q0a8EJVDLXee3CE2FHpIv) | [Willie el profanador](https://open.spotify.com/album/3exfP0MZhc0HemPaiOtDvb) | 3:59 |
 | 28 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 |
 | 29 | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [MYA LIVE P2: Corazón Guerrero](https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz) | 2:59 |
 | 30 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Diganle](https://open.spotify.com/track/4tvxEdNhLHdhYkplr2YVot) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Diganle](https://open.spotify.com/album/12f3s7wfWqaxmulXQLRcIc) | 2:13 |
 | 50 | [Dirección Equivocada](https://open.spotify.com/track/4ilqzZvzZi3gRgkohedPbS) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Dirección Equivocada](https://open.spotify.com/album/5z3PKaHFBiZXLVcHJKX4Ol) | 3:48 |
 
-Snapshot ID: `MCw4ZDdkNWE2ZWFjZGM1YjI4Y2RiODM1YzhjY2I5NmZiN2JlNmFmZTM5`
+Snapshot ID: `MCw0MWQyYjIyNDFlODY1YTA4ZGZlODExYTEwNDk3ZDU4MDAwMTU1MmRk`

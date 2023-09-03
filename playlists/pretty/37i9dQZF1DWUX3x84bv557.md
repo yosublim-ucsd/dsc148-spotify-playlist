@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Dio
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,435 likes - 85 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,466 likes - 85 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 21 | [Door Weer En Wind](https://open.spotify.com/track/1kAPdyoWB9Mw5CA6zuRVyD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 4:01 |
 | 22 | [App me als je thuis bent](https://open.spotify.com/track/7F8autsIk3qKOhBHth4O82) | [Sophia Mason](https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [App me als je thuis bent](https://open.spotify.com/album/1avOhAMcwqKToin3pv37y8) | 2:25 |
 | 23 | [Mijn Stad](https://open.spotify.com/track/38BGAS5sGF07IDiQBe9TpO) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Mijn Stad](https://open.spotify.com/album/0dpAll3S247sdlkRXBGtrL) | 3:02 |
-| 24 | [Zonder jou](https://open.spotify.com/track/73O00q0bRA60M6LoVfrIpd) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 3:03 |
+| 24 | [Zonder Jou](https://open.spotify.com/track/73O00q0bRA60M6LoVfrIpd) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 3:03 |
 | 25 | [Datediner](https://open.spotify.com/track/4IDU19J711XA1ls4M9QWsL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Datediner](https://open.spotify.com/album/7sEuys399UPSZiYX88MPXk) | 2:25 |
 | 26 | [Naar Huis](https://open.spotify.com/track/30JpaNQvqcoyt44nJZFwrk) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn), [Léon Paul](https://open.spotify.com/artist/0pDwk6nkLY7XjnffKNEqcU) | [Naar Huis](https://open.spotify.com/album/468MMnsWRo8xYnZxaDncv4) | 3:30 |
 | 27 | [volgens mij ben ik verliefd](https://open.spotify.com/track/3v7jPB2LvWc0WA9cRHqYHS) | [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE), [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [volgens mij ben ik verliefd](https://open.spotify.com/album/27K7UVc24nW01l6WhvipId) | 2:27 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 84 | [Het Gaat Niet Meer](https://open.spotify.com/track/15QecetmQsVjqqB6pkmaBG) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Het Gaat Niet Meer](https://open.spotify.com/album/6maAcQQlUQE5Ns4JXA5OYf) | 2:36 |
 | 85 | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/track/39IfUdhato88j7BGmWikCV) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/album/1jyMBGyKOjJGGFISEImvEm) | 3:34 |
 
-Snapshot ID: `MCwxOWNiMTJjMjFiNmViMDkzYWNhYTdmZTcwOTQwNDdjMDhlYTVhODYx`
+Snapshot ID: `MCwzODkyNDhkNmMyNWJmZGM0NzI3ZmU0NDRlM2RjZDFiMDhlZmIzOTYy`

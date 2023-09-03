@@ -1092,7 +1092,7 @@
     {
       "album": {
         "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv"
+        "url": "https://open.spotify.com/album/6jeJZLPCFkSP0FbmC0X5CM"
       },
       "artists": [
         {
@@ -1103,6 +1103,24 @@
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 155450,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1bYpricJVlO7D6kmjf8Whf"
+    },
+    {
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv"
+      },
+      "artists": [
+        {
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
       "duration_ms": 155637,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg"

@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Kiefer
 
-1,054 songs - 3 day 12 hr 55 min
+1,055 songs - 3 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,8 @@
 | [Kuti](https://open.spotify.com/track/57i1ED22zmDO9IuOxDlbir) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Trios: Sacred Thread](https://open.spotify.com/album/1l364boKK5wB6pUhVDDlWo) | 7:51 | 2022-11-18 | 2022-12-24 |
 | [La Bandera](https://open.spotify.com/track/3mEAznc6Vz2FhfQALcAzMT) | [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh) | [La Bandera](https://open.spotify.com/album/2k7zyttiEceMFHaXAIWXP7) | 5:25 | 2023-06-30 | 2023-08-12 |
 | [Lady \(Ezra Collective Version\)](https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Lady \(Ezra Collective Version\)](https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3) | 5:47 | 2023-01-13 | 2023-07-01 |
-| [Lady Tambourine](https://open.spotify.com/track/0TuBBxv6FQ7hroCLA1GX4f) | [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ), [Dan Hemmer](https://open.spotify.com/artist/1dmEVxj0YBAnoaEepaB2oz), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl) | [Lady Tambourine](https://open.spotify.com/album/2xzCpb6RdDdl933rpxOKrJ) | 6:21 | 2023-08-04 |  |
+| [Lady Tambourine](https://open.spotify.com/track/0TuBBxv6FQ7hroCLA1GX4f) | [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ), [Dan Hemmer](https://open.spotify.com/artist/1dmEVxj0YBAnoaEepaB2oz), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl) | [Lady Tambourine](https://open.spotify.com/album/2xzCpb6RdDdl933rpxOKrJ) | 6:21 | 2023-08-04 | 2023-09-03 |
+| [Lady Tambourine](https://open.spotify.com/track/14rGX5Y9cBz9W63q49Qf9T) | [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ), [Dan Hemmer](https://open.spotify.com/artist/1dmEVxj0YBAnoaEepaB2oz), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl) | [It Will Be Alright](https://open.spotify.com/album/1wiaMRwz6tXmTAQhKMKMDa) | 6:21 | 2023-08-04 |  |
 | [Landsdown](https://open.spotify.com/track/6lbuVBl5B06FqVc6v0dRwS) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Landsdown](https://open.spotify.com/album/6ivj7sRDxqcYDQ75rqxVJm) | 5:10 | 2022-06-24 | 2022-09-10 |
 | [Laugh Up](https://open.spotify.com/track/0hTty8X57SYsLYsOTcrBsD) | [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG), [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk), [Jimi Prasad Orchestra](https://open.spotify.com/artist/6liLn1iLVDGnyE3Cprb97m) | [Laugh Up](https://open.spotify.com/album/5aOl6fFyPjzp4rxf1cNV59) | 2:59 | 2023-06-02 | 2023-08-12 |
 | [Lawd Why](https://open.spotify.com/track/39VnaoDW2jT2QuWQ3gk9j2) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Butcher Brown Presents Triple Trey](https://open.spotify.com/album/6KPa5VJzFraZ3RUZksMb23) | 3:25 | 2022-09-16 | 2023-04-09 |

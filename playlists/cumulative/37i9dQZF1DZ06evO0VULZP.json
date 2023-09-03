@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Dead Tracks, Vol. 2",
+        "url": "https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI"
+      },
+      "artists": [
+        {
+          "name": "The Bronx",
+          "url": "https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4"
+        },
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY"
+    },
+    {
+      "album": {
         "name": "Enjoy!",
         "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
       },

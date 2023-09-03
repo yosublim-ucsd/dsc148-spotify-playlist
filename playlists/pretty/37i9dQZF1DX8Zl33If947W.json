@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 140962,
+  "num_followers": 141047,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2NhNmE5YzYxNDI1ZDhjNjE1NzA3NzBlNWI2ZDY1ZjAzNGY0MTBj",
+  "snapshot_id": "MCwwZTY1OWVlY2UwM2ZlOTUxZDEyNGZmNGI3ODQyMTQ3Y2NkM2ZlOTBl",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Von hier an blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
+      },
+      "artists": [
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Nur ein Wort",
+      "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Von hier an blind",
-        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
-      },
-      "artists": [
-        {
-          "name": "Wir sind Helden",
-          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Nur ein Wort",
-      "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 190186,
       "name": "Lieblingsmensch",
       "url": "https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Powerbausa",
-        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Was du Liebe nennst",
-      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
+        "name": "Er geh\u00f6rt zu mir",
+        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
+      },
+      "artists": [
+        {
+          "name": "Marianne Rosenberg",
+          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Er geh\u00f6rt zu mir",
+      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
         "name": "MISS YOU",
         "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 129587,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
-        "name": "Er geh\u00f6rt zu mir",
-        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
-      },
-      "artists": [
-        {
-          "name": "Marianne Rosenberg",
-          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Er geh\u00f6rt zu mir",
-      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
     },
     {
       "added_at": "2023-03-06 08:21:00",

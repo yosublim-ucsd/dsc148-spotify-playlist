@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,807 likes - 80 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,886 likes - 80 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,24 +69,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 59 | [Summer Wine](https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Summer Wine](https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj) | 4:05 |
 | 60 | [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 |
 | 61 | [Dragonwings](https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ) | [Pagefire](https://open.spotify.com/artist/1gKEQdxsZV3e97GIhOwTmF), [Craig Cairns](https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK) | [Dragonwings](https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0) | 4:03 |
-| 62 | [If I](https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [If I](https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq) | 3:43 |
-| 63 | [Not All Those Who Wander Are Lost](https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Not All Those Who Wander Are Lost](https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65) | 4:46 |
-| 64 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 |
-| 65 | [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 |
+| 62 | [Not All Those Who Wander Are Lost](https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Not All Those Who Wander Are Lost](https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65) | 4:46 |
+| 63 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 |
+| 64 | [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 |
+| 65 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
 | 66 | [Drink with the Gods](https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Drink with the Gods](https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW) | 4:10 |
-| 67 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
-| 68 | [Experience](https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Experience](https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM) | 5:14 |
+| 67 | [If I](https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [If I](https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq) | 3:43 |
+| 68 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
 | 69 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 |
 | 70 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
 | 71 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
-| 72 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
-| 73 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 |
-| 74 | [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 |
+| 72 | [Juokse Sinä Humma](https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Juokse Sinä Humma](https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN) | 3:16 |
+| 73 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
+| 74 | [Lonely](https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D) | [After Forever](https://open.spotify.com/artist/6ISyfZw4EVt16zhmH2lvxp) | [After Forever \(15th Anniversary Edition\)](https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE) | 3:26 |
 | 75 | [Altar of Power](https://open.spotify.com/track/0VwzxtkLcWVsFwdLSHfHfX) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Elements of Power](https://open.spotify.com/album/3KVsdtxgGQN5hKi0AWqU0A) | 4:21 |
-| 76 | [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 |
-| 77 | [Juokse Sinä Humma](https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Juokse Sinä Humma](https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN) | 3:16 |
+| 76 | [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 |
+| 77 | [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 |
 | 78 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 |
 | 79 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
 | 80 | [Victorious Dinogods](https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf) | [Victorius](https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN) | [Dinosaur Warfare Pt\. 2 – The Great Ninja War](https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr) | 4:46 |
 
-Snapshot ID: `MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz`
+Snapshot ID: `MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3`

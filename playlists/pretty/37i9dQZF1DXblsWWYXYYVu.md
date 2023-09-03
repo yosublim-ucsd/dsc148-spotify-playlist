@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,520 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,532 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 56 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 |
 | 57 | [Won't Let Go](https://open.spotify.com/track/7J2PKevNeTneR2gPdc5EBg) | [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Won't Let Go](https://open.spotify.com/album/4s2LOOskqLO04nW8j4FLW4) | 2:22 |
 | 58 | [Revvin' My Cj7 \- Juniper Version](https://open.spotify.com/track/7hxIicKl9uy1IRHhthOCnt) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [The Juniper Songbook](https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0) | 3:20 |
-| 59 | [To Be Alone](https://open.spotify.com/track/2rMRJx6otE8fMl5hXQn91g) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:36 |
+| 59 | [To Be Alone](https://open.spotify.com/track/7msllzKBb0NOvdOjqsGq4h) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Nothing, Something, Everything](https://open.spotify.com/album/7FcralsMBehsJT4Xx7DHfk) | 3:36 |
 | 60 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 |
 | 61 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 |
 | 62 | [Passengers \- Acoustic](https://open.spotify.com/track/5IMQlqI9uG3gASyw3ActK1) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy Solo Sessions](https://open.spotify.com/album/7sq4LBwgMO1hcw4HWdd8Ja) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [I Will Stay](https://open.spotify.com/track/4Y0qZxIXZrb2CKonEwCDzf) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 2:34 |
 | 100 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 |
 
-Snapshot ID: `MCwzNTZjNjQxMGNiNTVhYTdiZjJlMzkwYWQ1ZGM2NWM3YTBjMWQ0ODE2`
+Snapshot ID: `MCw4YmVjOGRmMjQ2ZWQxOWI1MWNiNDk2YmZjZjdjNGEyNTY3N2U4ZmVh`

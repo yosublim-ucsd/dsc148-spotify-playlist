@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 307080,
       "name": "The Edges",
       "url": "https://open.spotify.com/track/6TFOEo0xcW0GhpVrubea9k"
@@ -3868,6 +3868,24 @@
       "duration_ms": 114857,
       "name": "this feeling (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/1PEKGePNN1XrdKG2QQDUCv"
+    },
+    {
+      "album": {
+        "name": "this feels like the beginning",
+        "url": "https://open.spotify.com/album/5SOdDcqDqIjugvKJcMdztD"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "this feels like the beginning",
+      "url": "https://open.spotify.com/track/2SslDUGBv2etZLquEm0OIX"
     },
     {
       "album": {

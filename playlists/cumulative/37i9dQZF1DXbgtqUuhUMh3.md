@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Zena Emad
 
-537 songs - 1 day 7 hr 14 min
+538 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [El Raasha](https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Raasha](https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV) | 2:42 | 2023-07-17 | 2023-08-18 |
 | [El Sa3a Tes3a](https://open.spotify.com/track/0vRNQJC5feiuVq99FruVL6) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/6C84DA6uO6CmULWHzZlUxO) | 3:25 | 2022-10-27 | 2023-02-24 |
 | [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 | 2022-03-07 | 2022-10-14 |
+| [El Sabr Gamel \- الصبر جميل](https://open.spotify.com/track/3ST6FyGv2gHjpjm3hCkPon) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [El Sabr Gamel \(الصبر جميل\)](https://open.spotify.com/album/481bZ4bWvtGaKVaPzUytIi) | 4:59 | 2023-09-01 |  |
 | [El Sabr Gamel \-الصبر جميل](https://open.spotify.com/track/5DWgoXhsm5LjfyERSbaqzO) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [El Sabr Gamel \-الصبر جميل](https://open.spotify.com/album/5jnqYPsl7285qQeqUkYYlk) | 4:59 | 2023-05-10 | 2023-09-02 |
 | [El Tabour \- Arabic adaptation of Bambino](https://open.spotify.com/track/0URyUHND8op34XymZ2mP5y) | [Lara Scandar](https://open.spotify.com/artist/3eh2JDunlzmEpvdUzaxDji) | [El Tabour \(Arabic adaptation of Bambino\)](https://open.spotify.com/album/5LeC664WD7waXmySxsmUua) | 3:24 | 2021-12-23 | 2022-02-26 |
 | [El Tofah w El Farawla](https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [El Tofah w El Farawla](https://open.spotify.com/album/2N2XSkFrcw73VFlfQsPE5g) | 3:56 | 2023-02-23 | 2023-07-14 |
@@ -236,7 +237,7 @@
 | [Khaleh Ala Halah](https://open.spotify.com/track/6o0aWKaBbVDPhcvsO4tgg6) | [Waham](https://open.spotify.com/artist/6xXZ8rexkcFBhqiQriNwc2) | [Khaleh Ala Halah](https://open.spotify.com/album/3eS0m5NofSBF8k9FcFiGZE) | 3:23 | 2021-12-23 | 2022-03-02 |
 | [Khalleena](https://open.spotify.com/track/5c1fYVYWBs0vEdEnzcRikY) | [Rula Zaki](https://open.spotify.com/artist/1f5tpK7TPfwv7DoqhDu6bX) | [Khalleena](https://open.spotify.com/album/0gE4qgQVgcofnNP2JQmLPf) | 4:14 | 2021-12-23 | 2022-03-02 |
 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-11-15 | 2023-02-02 |
-| [Kheles El Kalam](https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Kheles El Kalam](https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL) | 2:35 | 2023-07-21 |  |
+| [Kheles El Kalam](https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Kheles El Kalam](https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL) | 2:35 | 2023-07-21 | 2023-09-03 |
 | [Khelini Alik](https://open.spotify.com/track/6qkjfgOcxWennvjcDo8ZdJ) | [Jihane Bougrine](https://open.spotify.com/artist/04QV0Mr3uTHEVHav1mQ8sq) | [Khelini Alik](https://open.spotify.com/album/3xxDAETT4jq0Ee1ZR8MqH2) | 4:49 | 2021-12-23 | 2022-03-02 |
 | [Khyali](https://open.spotify.com/track/5amkmXiRwzdTGwNAasS0SG) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Khyali](https://open.spotify.com/album/5HSvsUzTzmqwIC4zFESH1M) | 2:50 | 2021-12-23 | 2022-03-02 |
 | [Kifak](https://open.spotify.com/track/6qC6yW3SkH0FlvnkqOesJe) | [Jamale Abou Hamad](https://open.spotify.com/artist/3XlntSeDXFe5jnxPFLNJPD) | [Kifak](https://open.spotify.com/album/3iUGlEWRup7CgaFHXsLwSX) | 3:03 | 2022-03-18 | 2022-07-29 |

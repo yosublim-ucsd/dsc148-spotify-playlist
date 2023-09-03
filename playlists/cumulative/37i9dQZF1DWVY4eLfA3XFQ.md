@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Lee Foss & Ralf
 
-1,248 songs - 2 day 23 hr 57 min
+1,249 songs - 3 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [Glasgow's Jazz \- Derrick Carter Remix](https://open.spotify.com/track/1EjJxLLLN0f19k9scdmmZN) | [DJ Q](https://open.spotify.com/artist/1MrYB01nLTzUsGov6Srt3C), [Derrick Carter](https://open.spotify.com/artist/3XwBizyFmbCCUFcdcsvMmm) | [Elvis Never Meant Shit to me](https://open.spotify.com/album/6KIh5vfylDn73InRJIQMRY) | 7:49 | 2022-12-28 | 2023-01-06 |
 | [Glitch](https://open.spotify.com/track/0sTov9ww1527jTeEVMqnkH) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP), [Rhiannon Roze](https://open.spotify.com/artist/3epScA5vlvqzr2AfI7JJ2f) | [Glitch](https://open.spotify.com/album/2qe8Xkm0zesMie1YnIshzD) | 2:18 | 2023-06-09 | 2023-06-11 |
 | [Goa](https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc) | [Goa](https://open.spotify.com/album/4Y3cDaMSVNiZ2LJwNO0ANm) | 2:31 | 2023-02-17 | 2023-04-14 |
-| [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-06-09 |  |
+| [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Gonna Be Mine \(feat\. Sydney Jo Jackson\)](https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H) | 2:20 | 2023-06-09 | 2023-09-03 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-19 |  |
 | [Good Times](https://open.spotify.com/track/6nvO3c3iVUQNbJaloeK7Xd) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Good Times](https://open.spotify.com/album/4VmCjK9fPJfGNrMbuUcU4c) | 3:02 | 2023-03-10 | 2023-04-26 |
 | [Goodbye](https://open.spotify.com/track/032mY5wKypQnE3rImwNvh8) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Goodbye](https://open.spotify.com/album/12U8vTW7jtYAbmEAei5h3B) | 2:45 | 2023-08-11 |  |
@@ -1063,6 +1063,7 @@
 | [Tell It To My Heart \(feat\. Hozier\) \- KREAM Remix](https://open.spotify.com/track/4vGqY0JSAVwfHrntpsWgYE) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Tell It To My Heart \(KVSH Remix\)](https://open.spotify.com/album/1mH6foqOI76VKUn1RvAFYb) | 3:52 | 2022-01-21 | 2022-03-12 |
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2022-01-21 | 2022-04-23 |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-04-28 | 2023-08-12 |
+| [Temperature](https://open.spotify.com/track/6t0rJSmrgU8EyA5gI2Np3d) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4) | [Temperature](https://open.spotify.com/album/6Pf1ng16MUqpiQ2TA9nXtG) | 2:30 | 2023-08-11 |  |
 | [Tempo](https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Tempo](https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa) | 3:18 | 2022-11-18 | 2023-01-28 |
 | [Tequila](https://open.spotify.com/track/5PQXYypgc0syPHLT6dIuvM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ) | [Tequila](https://open.spotify.com/album/6obdoKvDd4xA7Ukrw0BiXF) | 3:30 | 2022-09-30 | 2022-11-29 |
 | [Terraza](https://open.spotify.com/track/5fi3bVjGZQACpKP7cy4wYB) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Terraza](https://open.spotify.com/album/1mYN1fZaQHl65NwoppAUYw) | 3:59 | 2022-12-16 | 2023-02-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > Bringt dir good vibes + Sonne 😎😎😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,204 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,230 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 79 | [SAG WAS](https://open.spotify.com/track/6OPDrjsOk3SwLUBHekx2Ym) | [CHRIS](https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL) | [SAG WAS](https://open.spotify.com/album/4ehfcuqXfvTIgsdp1T8WMs) | 2:12 |
 | 80 | [Make My Day \(with David Guetta\)](https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 |
 
-Snapshot ID: `MCwxYjgzNTJjMWExZTc1MWZlODcxMjYzYWQzMzQ3YmU3ODRiZmI1NTQx`
+Snapshot ID: `MCw2YzE4YTRmMTBlMjQyOTZhYTljMjU5YmUyMDNmMzdiMTM5ZmQyYmRl`

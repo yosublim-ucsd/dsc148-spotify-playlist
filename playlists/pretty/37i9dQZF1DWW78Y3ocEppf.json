@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Fridayy",
-  "num_followers": 42659,
+  "num_followers": 42670,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjhhMTdlMTkyZjM2YzUyN2UwZjk4MmQ4ZDk2ZjRlODM5MDhkOGZh",
+  "snapshot_id": "MCw0ZTkwMjY0NTE1ZjQ5YjQwOTAzYTdjNGU3YTc0MGMxZTNhNGQzYjJi",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Don't Mind Me",
-        "url": "https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 189929,
-      "name": "Don\u2019t Mind Me",
-      "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Fridayy",
@@ -597,6 +581,22 @@
       "url": "https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Don't Mind Me",
+        "url": "https://open.spotify.com/album/5h64dBlmKAOEMMU4OCfWWo"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 189929,
+      "name": "Don\u2019t Mind Me",
+      "url": "https://open.spotify.com/track/1ZsNLqqBzUbDG9LDosVk2p"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Um, Hello",
@@ -611,6 +611,22 @@
       "duration_ms": 184586,
       "name": "Crazy Down",
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
+    },
+    {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Bout Mine",
+        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Bout Mine",
+      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -631,22 +647,6 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
-    },
-    {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Bout Mine",
-        "url": "https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Bout Mine",
-      "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Bands On You",
-        "url": "https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Bands On You",
-      "url": "https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Lost In Melody (Deluxe)",
@@ -997,36 +981,20 @@
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
+      "added_at": "2023-07-28 08:00:10",
       "album": {
-        "name": "Spin Again",
-        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
+        "name": "Bands On You",
+        "url": "https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx"
       },
       "artists": [
         {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
         }
       ],
-      "duration_ms": 248872,
-      "name": "Spin Again",
-      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
+      "duration_ms": 169846,
+      "name": "Bands On You",
+      "url": "https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -1049,20 +1017,36 @@
       "url": "https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "Glowin 4 Me",
-        "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
       },
       "artists": [
         {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
         }
       ],
-      "duration_ms": 145609,
-      "name": "Glowin 4 Me",
-      "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
+      "duration_ms": 168000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Spin Again",
+        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
+      },
+      "artists": [
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        }
+      ],
+      "duration_ms": 248872,
+      "name": "Spin Again",
+      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Glowin 4 Me",
+        "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Glowin 4 Me",
+      "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Sadboy",
-      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
-    },
-    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "What It Do",
@@ -1329,20 +1313,20 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "Recalling",
-        "url": "https://open.spotify.com/album/1Itqs7iyazBGQq9abvXDvD"
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
       },
       "artists": [
         {
-          "name": "PAULSN",
-          "url": "https://open.spotify.com/artist/4uBkOGR9CiYGQcILcNQ1HV"
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
         }
       ],
-      "duration_ms": 146500,
-      "name": "Recalling",
-      "url": "https://open.spotify.com/track/3SvMSGyG1Ub7BzWRBI5KbZ"
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1381,6 +1365,22 @@
       "url": "https://open.spotify.com/track/0Yb6xqb1lqVJKc71pzqjic"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Recalling",
+        "url": "https://open.spotify.com/album/1Itqs7iyazBGQq9abvXDvD"
+      },
+      "artists": [
+        {
+          "name": "PAULSN",
+          "url": "https://open.spotify.com/artist/4uBkOGR9CiYGQcILcNQ1HV"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Recalling",
+      "url": "https://open.spotify.com/track/3SvMSGyG1Ub7BzWRBI5KbZ"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Sin on Purpose",
@@ -1417,6 +1417,22 @@
       "url": "https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN"
     },
     {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "C+A",
+        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "duration_ms": 159225,
+      "name": "C+A",
+      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
+    },
+    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "'95 Civic",
@@ -1433,20 +1449,20 @@
       "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "C+A",
-        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
+        "name": "Man on Fire",
+        "url": "https://open.spotify.com/album/0pTpY3EXd0aC1xCilBsG5v"
       },
       "artists": [
         {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
         }
       ],
-      "duration_ms": 159225,
-      "name": "C+A",
-      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/2sj3vQG3dgYgGVmr3J4HXH"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 146799,
       "name": "212",
       "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Man on Fire",
-        "url": "https://open.spotify.com/album/0pTpY3EXd0aC1xCilBsG5v"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/2sj3vQG3dgYgGVmr3J4HXH"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1549,26 +1549,6 @@
       "url": "https://open.spotify.com/track/3QfAjgURz2FywuZFyTM8z5"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Sex & Empathy",
-        "url": "https://open.spotify.com/album/3Tn9YalQNmNhbFJP7XpzJz"
-      },
-      "artists": [
-        {
-          "name": "Lyfe Harris",
-          "url": "https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2"
-        },
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        }
-      ],
-      "duration_ms": 171686,
-      "name": "Sex & Empathy",
-      "url": "https://open.spotify.com/track/5U0Gbz6YQl48Alts9Iqfnv"
-    },
-    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Take II",
@@ -1587,6 +1567,26 @@
       "duration_ms": 128506,
       "name": "For The Girls",
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Sex & Empathy",
+        "url": "https://open.spotify.com/album/3Tn9YalQNmNhbFJP7XpzJz"
+      },
+      "artists": [
+        {
+          "name": "Lyfe Harris",
+          "url": "https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2"
+        },
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        }
+      ],
+      "duration_ms": 171686,
+      "name": "Sex & Empathy",
+      "url": "https://open.spotify.com/track/5U0Gbz6YQl48Alts9Iqfnv"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 140474,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq"
+    },
+    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "The Other Side",
@@ -1703,22 +1719,6 @@
       "duration_ms": 175999,
       "name": "Life",
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "More Than Anything",
-        "url": "https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV"
-      },
-      "artists": [
-        {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
-        }
-      ],
-      "duration_ms": 140474,
-      "name": "More Than Anything",
-      "url": "https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq"
     },
     {
       "added_at": "2023-05-26 12:10:47",

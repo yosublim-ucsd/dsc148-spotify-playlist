@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,374 likes - 111 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,377 likes - 111 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 11 | [Fade Away](https://open.spotify.com/track/6D24uCuTJOhirnmRDtyB0m) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Fade Away](https://open.spotify.com/album/0ukJ3I2mxiZVacGtaOIXo5) | 2:51 |
 | 12 | [I’ve Got A Thing For You](https://open.spotify.com/track/4B2xBFnyZsYwMYdpZqiwLL) | [YEN](https://open.spotify.com/artist/2IhtAFwyLFcLh6MXMK1o2x) | [I’ve Got A Thing For You](https://open.spotify.com/album/4eHs30w2JsgW6DfcMI2OoL) | 3:08 |
 | 13 | [Water](https://open.spotify.com/track/2l26SisqsxD0MCZoarxlL3) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [22522](https://open.spotify.com/album/52uiwubDec4Tmm5B2sQu1w) | 3:41 |
-| 14 | [Sad Ending](https://open.spotify.com/track/78APQTb2q1QA0hLNxwOgYj) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/3qfh85jIr3P7G6lS9S8WaK) | 3:15 |
+| 14 | [Sad Ending](https://open.spotify.com/track/2GlWK4iniHxyFvVSWYsC4j) | [Hippo](https://open.spotify.com/artist/6o2llz8JozEXnyRq3XdJY1) | [Sad Ending](https://open.spotify.com/album/5ZgWAPNaBkkZ6huR1caLv3) | 3:15 |
 | 15 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 |
 | 16 | [Globe](https://open.spotify.com/track/6l7jth8VMA9Wo52NeNwwwm) | [LIZRO](https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF), [near](https://open.spotify.com/artist/6uCPb1SLQSd3ElSU72nJIR) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 13](https://open.spotify.com/album/3yCc0PMldpvQXlmM7rgdZn) | 2:41 |
 | 17 | [I got lucky](https://open.spotify.com/track/2xqZgDhbEzNIQGEz8HdrkJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:16 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 85 | [일기예보 \(feat\. 명다원\)](https://open.spotify.com/track/0L0fkd5rNncIy3PWKe4OW9) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [weather forecast](https://open.spotify.com/album/1y0mXaR9Zo3nIKUdxldpnF) | 3:13 |
 | 86 | [love talk](https://open.spotify.com/track/5WS5YCbjqhjRAJKdaExiEC) | [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs), [Kaution](https://open.spotify.com/artist/1mXj07DVCv5GprCk5Adca0) | [love talk](https://open.spotify.com/album/11nXCEJxH1lgp1rA9Uanyk) | 3:32 |
 | 87 | [Always Remember](https://open.spotify.com/track/0RCYjmOB2pLojrcyGIyC5f) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [도도솔솔라라솔 OST Part.10](https://open.spotify.com/album/1rxId9OlGTuVGW6zlDmote) | 3:25 |
-| 88 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
+| 88 | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
 | 89 | [My Heart](https://open.spotify.com/track/1K9aHp1cak4AR7FghqIO8C) | [YELLOW BENCH](https://open.spotify.com/artist/39sjkhnRSciccucSsramsQ) | [My Heart](https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz) | 3:56 |
 | 90 | [Petal](https://open.spotify.com/track/32FYSYIIpc1j6To2Qgl4hq) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Petal](https://open.spotify.com/album/4YuNLaeHfW3p5tzSaEiFB1) | 4:04 |
 | 91 | [Sorry That I Love You Still](https://open.spotify.com/track/3LFmXXj0rErybNgbmlx5lL) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Sorry That I Love You Still](https://open.spotify.com/album/2dd1k75R0SlWlEGJgBw07G) | 2:27 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 98 | [Vague Hope](https://open.spotify.com/track/4aGsNc3T9qlk1y9MFBnJs8) | [DALIE](https://open.spotify.com/artist/2l6ZqfOMnjK1q6B5DGxjhn) | [Vague Hope](https://open.spotify.com/album/6DDSlFpCeZyn0Zam7OFE0k) | 3:21 |
 | 99 | [잊어줄 순 없을까 \(feat\. 명다원\)](https://open.spotify.com/track/5A9T2kIskC3ei72QWs9lvz) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [forget it](https://open.spotify.com/album/2Ptu3GcNcF8v42IN733NTt) | 3:41 |
 | 100 | [Leaf \(feat\. 10CM\)](https://open.spotify.com/track/012syLYaTalPGsorWvJJSJ) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Leaf \(feat\. 10CM\)](https://open.spotify.com/album/7e8DEKMXqSQ8SkQS8nWyis) | 3:19 |
-| 101 | [HYE](https://open.spotify.com/track/5tx6Y6j4Q8MCdTOtVILLX5) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/4u5ud7hSAmYr5KEXltpwk8) | 4:07 |
+| 101 | [HYE](https://open.spotify.com/track/2hMLyprzSqOWiW2RCdhXWa) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/6BoAOP9rSYxsCiucBIUwXC) | 4:07 |
 | 102 | [He'll be good to you\. \(feat.KURO\)](https://open.spotify.com/track/5O6OjZxFxxroClXNp6hHK8) | [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK), [KURO](https://open.spotify.com/artist/4Hw8Xf4xtbRExhhYgX95eE) | [He'll be good to you.](https://open.spotify.com/album/7kh037xNhXtxAgwMnWS49V) | 3:32 |
 | 103 | [우린 알고 있잖아](https://open.spotify.com/track/41ZWcnUBJnwvvqCeqIf8TA) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [스물아홉](https://open.spotify.com/album/7f2UlqqrxEscD2ffbGPBnd) | 3:42 |
 | 104 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 110 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 111 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCwzMDZkZmZkZDllYmY2NTliMWExNzhiZDUyZGY5ODMyMmRkZmMzMDg0`
+Snapshot ID: `MCxhNDNkNDRjYTEzMzY3N2I2Y2JmZDY1MjgyMDE3YmE4ZWFmODc0Mzk1`

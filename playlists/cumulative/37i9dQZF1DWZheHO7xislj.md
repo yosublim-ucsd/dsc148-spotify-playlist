@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner.
 
-353 songs - 22 hr 53 min
+354 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Shake You Down](https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh) | [Gregory Abbott](https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r) | [Shake You Down \(Expanded Edition\)](https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3) | 4:05 | 2023-01-09 |  |
 | [Shame, Shame, Shame](https://open.spotify.com/track/1omsOCgn46ZJ2UfK84qheK) | [Linda Fields](https://open.spotify.com/artist/3PKRTSpBoqD2cYZUVLoHHM), [Funky Boys](https://open.spotify.com/artist/028zxw8cFIPpjGg6BEn86e) | [Super 20 \- Discoparty](https://open.spotify.com/album/2pGLHCFQ88rB92jw0pWlz7) | 3:57 | 2023-01-09 | 2023-06-28 |
 | [She's Gone](https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Abandoned Luncheonette](https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu) | 5:13 | 2023-01-09 |  |
-| [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 | 2023-08-15 |  |
+| [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 | 2023-08-15 | 2023-09-03 |
+| [Side By Side](https://open.spotify.com/track/6UuMxlYqfGzN0PhFO4PqCo) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:16 | 2023-08-15 |  |
 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 | 2023-01-09 |  |
 | [Silly \- Single Version](https://open.spotify.com/track/4f8sTGdbepee0EIFve7G2s) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [My Melody \(Expanded\)](https://open.spotify.com/album/29qGTutavRfDv7gAcUC9pz) | 4:35 | 2023-01-09 | 2023-06-28 |
 | [Small World](https://open.spotify.com/track/2DugUShG2wj81Zf51l29Je) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Glenn Osser](https://open.spotify.com/artist/5IzlXnIwa5PWqv5Eh4vJnj) | [More: Johnny's Greatest Hits](https://open.spotify.com/album/2CB8bmEPNvBmBMglM7lFW7) | 3:20 | 2023-01-09 | 2023-06-28 |

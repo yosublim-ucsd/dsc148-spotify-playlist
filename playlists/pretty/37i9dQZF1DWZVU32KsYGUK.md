@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style background music for chill dinner ambiance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,810 likes - 189 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,833 likes - 189 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 61 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 |
 | 62 | [Vicino Al Mare](https://open.spotify.com/track/0evg2YZZKEKnKkjraD4LGQ) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 2:08 |
 | 63 | [An Autumn Waltz](https://open.spotify.com/track/6uvB5f8P0Jdk37Ysem3rZt) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [About Winter](https://open.spotify.com/album/2rahePpMvRhAZrhymPwHPw) | 2:20 |
-| 64 | [Gloria](https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Gloria](https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1) | 2:55 |
+| 64 | [Gloria](https://open.spotify.com/track/4WuRXkwTMiOy0OuGPqOpD7) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Gloria](https://open.spotify.com/album/1xrFFEPBJp6zGo7WYCBIV1) | 2:55 |
 | 65 | [A Light Breeze](https://open.spotify.com/track/0AkNnk1qSrK5dSlFH2K56k) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [A Light Breeze](https://open.spotify.com/album/2lkElaZbytPkBxTxzOL8wn) | 2:13 |
 | 66 | [momento](https://open.spotify.com/track/0jc45ayOCYylnDYe7XLxGR) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [momento](https://open.spotify.com/album/1gHpdRJRGaIkk9CoUV7B97) | 2:04 |
 | 67 | [My beloved](https://open.spotify.com/track/0RG3MSnGOZLDB7ksmWlzDc) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [My beloved](https://open.spotify.com/album/6ucqRTMn10VOvWl55D0wxz) | 2:25 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 87 | [Disappear for a while](https://open.spotify.com/track/1l3yPgvEagEz4OYS2hxMdc) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Disappear for a while](https://open.spotify.com/album/33IUKxm4PwH3avUizMk9L1) | 2:52 |
 | 88 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 |
 | 89 | [What Matters Most](https://open.spotify.com/track/597PVVj8epaZ5L8vmHvNlW) | [Art Bandini](https://open.spotify.com/artist/5qCbYD7FoGfRfi4UpgiVko) | [What Matters Most](https://open.spotify.com/album/5iExwcFIoM0ZNzalpnrOKW) | 2:40 |
-| 90 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 |
+| 90 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 |
 | 91 | [Wonder Where](https://open.spotify.com/track/4q5s8c5HK3PtWFmveMW6ZR) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [To the Rain](https://open.spotify.com/album/30HSC1ogeWpwBZXroMTTDW) | 2:32 |
 | 92 | [Wolken Traum](https://open.spotify.com/track/420yXNkrV1qcTT3M5vGgLi) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Wolken Traum](https://open.spotify.com/album/7kxUeMvHOTyuC39A3Mq2Z6) | 2:45 |
 | 93 | [Borrowed Time](https://open.spotify.com/track/08DMzELdDyuk2DDd26C28y) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [Borrowed Time](https://open.spotify.com/album/491ZoXaPJ7oPnLKEEkofpz) | 2:15 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 188 | [La consolation](https://open.spotify.com/track/1rmTdklw8wgOStLgI4B25Q) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [La consolation](https://open.spotify.com/album/7JdF9ISUD6AReDwZhvJ4K0) | 2:45 |
 | 189 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MCw5MjExZWMwMTM2MDFlMGY2ZjUxNDAwZDE2NzFmNWUxMGNlZDkxZWJk`
+Snapshot ID: `MCw3YmZmZGJmM2FkZmNkZWVjMjczZmQ3ODI4MTQ4MmI5NWZiMmZkYjZl`

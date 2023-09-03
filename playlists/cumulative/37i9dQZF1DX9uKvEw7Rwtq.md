@@ -4,7 +4,7 @@
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-139 songs - 11 hr 52 min
+140 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Above the Fog \(Pt.2\)](https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr) | [The Best Pessimist](https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ) | [Love Is...](https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn) | 8:46 | 2022-03-18 |  |
 | [Abschied](https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy) | [Ausklang](https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z) | [Chronos](https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn) | 5:55 | 2022-03-18 |  |
 | [Altar of Tammy](https://open.spotify.com/track/0vY8f5mk1hJJ9qVWqYy0pU) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Altar of Tammy](https://open.spotify.com/album/0X4MaivNbTViISJ5anYIbc) | 7:58 | 2022-03-25 | 2023-04-30 |
-| [Altar of Tammy](https://open.spotify.com/track/1ZXY4vBNHhaOwTQLjWKGkV) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [West Kensington](https://open.spotify.com/album/60JgMML7iNBhaRhcKfRRpf) | 7:58 | 2023-01-27 |  |
+| [Altar of Tammy](https://open.spotify.com/track/1ZXY4vBNHhaOwTQLjWKGkV) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [West Kensington](https://open.spotify.com/album/60JgMML7iNBhaRhcKfRRpf) | 7:58 | 2023-01-27 | 2023-09-03 |
 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 | 2022-03-25 |  |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2022-03-25 |  |
 | [Are You There?](https://open.spotify.com/track/4uGWu07IXviuhwKIK9yafr) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [You Are There](https://open.spotify.com/album/3eNhcJ548UV4f8lcviRGYZ) | 10:25 | 2022-03-18 | 2022-07-24 |
@@ -31,7 +31,7 @@
 | [Be the Light](https://open.spotify.com/track/3BgjBJHBnRWY2Ah4L5vLz4) | [Stray Theories](https://open.spotify.com/artist/6zrYVEFX8UvqKu99mWVOKs) | [This Light](https://open.spotify.com/album/6jreztqQw5fcT87HVRPVe3) | 5:46 | 2022-03-18 | 2023-04-30 |
 | [Be the Light](https://open.spotify.com/track/7lzOZfO08GlKkSBz7TPX6t) | [Stray Theories](https://open.spotify.com/artist/6zrYVEFX8UvqKu99mWVOKs) | [This Light](https://open.spotify.com/album/6ccahDchi2b0LObfYsiQTT) | 5:46 | 2023-08-18 |  |
 | [Blowback \- Edit](https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Blowback](https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5) | 5:09 | 2022-03-18 |  |
-| [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 | 2022-04-01 | 2023-08-23 |
+| [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 | 2022-04-01 |  |
 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 | 2022-03-25 |  |
 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 | 2022-03-18 |  |
 | [Didn't See The Comet](https://open.spotify.com/track/02iSZuD2mo9C7bEAsrDmWr) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Paul Sukeena](https://open.spotify.com/artist/2BATlF7iN0eToMP3ev80mH) | [Didn't See The Comet](https://open.spotify.com/album/1yNLDRaMnJDZ1Xp81WQAfg) | 6:03 | 2022-05-06 | 2023-04-29 |
@@ -81,6 +81,7 @@
 | [Love Is in Beauty and Chaos](https://open.spotify.com/track/6TIRgqVHNPohNq1spT1MFB) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [This Patch of Sky](https://open.spotify.com/album/3OeVIYkOUed91ddyccGMmO) | 4:42 | 2022-03-25 | 2022-10-15 |
 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob) | 5:08 | 2022-05-27 |  |
 | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/track/7mYRgsciCSgPPPcRNSghuQ) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Maybe They Will Sing for Us Tomorrow](https://open.spotify.com/album/7gi9H6xQKjHG4KlPn9bYsS) | 5:08 | 2022-03-25 | 2022-07-29 |
+| [Meteor Shower](https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Meteor Shower](https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH) | 3:56 | 2023-08-18 |  |
 | [Monastic](https://open.spotify.com/track/4VZAiJm5BugPrnlsMzqgUu) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 6:33 | 2022-03-18 | 2023-02-02 |
 | [Monastic](https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 6:33 | 2023-01-24 |  |
 | [My Courtesan](https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Mockingbird Love](https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq) | 2:53 | 2022-03-18 |  |
@@ -92,7 +93,7 @@
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2023-01-24 | 2023-03-03 |
 | [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 | 2022-04-01 | 2023-02-04 |
 | [Nova](https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Nova](https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f) | 7:00 | 2022-03-18 |  |
-| [Old Moon](https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Songs to Disappear to](https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz) | 4:17 | 2022-03-25 |  |
+| [Old Moon](https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Songs to Disappear to](https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz) | 4:17 | 2022-03-25 | 2023-09-03 |
 | [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 | 2022-03-25 | 2023-08-29 |
 | [OUR SIDE HAS TO WIN \(for D.H.\)](https://open.spotify.com/track/5RH06Chc3TES0rnnlSsecj) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/1RDLG5wi0a2Lrgdxs32tKL) | 6:30 | 2022-03-18 | 2022-07-29 |
 | [OUR SIDE HAS TO WIN \(for D.H.\)](https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 6:30 | 2022-05-27 |  |

@@ -1441,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "Hip Trumpets",
+        "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "KVISION",
+          "url": "https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195238,
+      "name": "Hip Trumpets",
+      "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
+    },
+    {
+      "album": {
         "name": "Honey Bee",
         "url": "https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX"
       },
@@ -3806,7 +3828,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 332307,
       "name": "TRiiiBAILE",
       "url": "https://open.spotify.com/track/6hdJvYTJ27MdcsDSE2XaVv"

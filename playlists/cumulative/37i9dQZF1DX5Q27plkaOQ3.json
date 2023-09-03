@@ -703,6 +703,28 @@
     },
     {
       "album": {
+        "name": "Bassface",
+        "url": "https://open.spotify.com/album/0TKYjk3EGuVVhyj1KvL0Xy"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "Bassface",
+      "url": "https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf"
+    },
+    {
+      "album": {
         "name": "MIDHEAVEN: OPUS 03",
         "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
       },
@@ -2548,7 +2570,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 188749,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/0URVvPEQafAqfYVBVoWyI0"

@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-76 songs - 5 hr 25 min
+77 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Demu Wangu](https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Demu Wangu \(Remix\)](https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ) | 4:07 | 2023-04-07 |  |
 | [EX wangu \- Remix](https://open.spotify.com/track/1Nel9Cc2vqiK7lTj31ngMk) | [Hamisa Mobetto](https://open.spotify.com/artist/3LFryQzJgUAZKT0cBNwNiE), [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [EX wangu \(Remix\)](https://open.spotify.com/album/1N0TIGGTYrg5iXOoIzcloI) | 4:41 | 2022-08-05 |  |
 | [Hainaga Ushemeji](https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Hainaga Ushemeji](https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6) | 4:56 | 2022-08-05 |  |
-| [Happy birthday](https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Kidakizo mc](https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N) | [Happy birthday](https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp) | 3:31 | 2023-06-01 |  |
+| [Happy birthday](https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13), [Kidakizo mc](https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N) | [Happy birthday](https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp) | 3:31 | 2023-06-01 | 2023-09-03 |
 | [Hatujui](https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 4:30 | 2022-08-05 |  |
 | [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 | 2022-08-05 |  |
 | [Hujafika](https://open.spotify.com/track/0Cs5QmEaFHNdTn93GUZbz1) | [Swallah Boy](https://open.spotify.com/artist/28zsrbRGqavxYLzkVF03cX) | [Hujafika](https://open.spotify.com/album/7drsSeRr9mpAnM8WH7463n) | 3:35 | 2023-04-07 | 2023-06-02 |
@@ -63,6 +63,7 @@
 | [Sanamu La Michelini](https://open.spotify.com/track/4izbp6tGtMpur0Dw05Wmql) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sanamu La Michelini](https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG) | 3:53 | 2022-08-05 |  |
 | [Sawa Nitaacha](https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Sawa Nitaacha](https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ) | 3:38 | 2022-08-05 |  |
 | [Shemeji](https://open.spotify.com/track/7iipqXuExfDhxf9DCxASFx) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk) | [Shemeji](https://open.spotify.com/album/7dJUtISG7x3p4L7fdisu87) | 4:49 | 2022-09-01 |  |
+| [Shobo](https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Shobo](https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ) | 3:06 | 2023-09-01 |  |
 | [Simu Yangu \- Remix](https://open.spotify.com/track/0a7roGzPErbKY6NLCZPSq4) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Mbrasil](https://open.spotify.com/artist/2y4fe1JlBfqMTvScV2lYu6) | [Simu Yangu \(Remix\)](https://open.spotify.com/album/1lQ6mMdnmZ44RFxY3y6EgH) | 3:44 | 2023-06-30 |  |
 | [Sina](https://open.spotify.com/track/18BfciF0Zk46ZDuCVGj5gv) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/79dZuymOBdhdcLjwkiHa18) | 4:57 | 2022-08-05 | 2023-05-14 |
 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 | 2023-04-07 |  |

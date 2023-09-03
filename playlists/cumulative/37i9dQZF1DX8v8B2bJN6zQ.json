@@ -2216,10 +2216,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 144000,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/2v8UL40Ar3MlaPrdz81PDs"
+    },
+    {
+      "album": {
+        "name": "Yakuza",
+        "url": "https://open.spotify.com/album/0MJA5ttkLmoGnAnjXUcYI2"
+      },
+      "artists": [
+        {
+          "name": "YZY",
+          "url": "https://open.spotify.com/artist/4kbQi1dGkZxrgEQxwTzQzf"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Yakuza",
+      "url": "https://open.spotify.com/track/64CQmRKekdMxt1JEpvglHT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8v8B2bJN6zQ"

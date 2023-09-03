@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 208277,
+  "num_followers": 208684,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2Y3ZmJmZjM4NmQ2ODEzMjAwZTMwMjE0Y2UzZjllYzVkMGFhYjgy",
+  "snapshot_id": "MCwzNzZiOWUyMTcwYmY1N2MwY2Q2YTk4M2NhMzhmMzJlZjkzNGIzMzc4",
   "tracks": [
     {
       "added_at": "2023-08-25 16:00:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2023-08-25 16:00:00",
       "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        },
+        {
+          "name": "Prinz (DE)",
+          "url": "https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
+    },
+    {
+      "added_at": "2023-08-25 16:00:00",
+      "album": {
         "name": "Veritas",
         "url": "https://open.spotify.com/album/7fKwFEf1MWzZN6kpuCBPGj"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
-    },
-    {
-      "added_at": "2023-08-25 16:00:00",
-      "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/4LlEfXlhlbTDGanGNkDVp6"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        },
-        {
-          "name": "Prinz (DE)",
-          "url": "https://open.spotify.com/artist/0GD0SLVdfK2C9tDOw9GPmK"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/3iRA2hmhlJbODmuEahxdEU"
     },
     {
       "added_at": "2023-08-25 16:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-08-25 16:00:00",
       "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+    },
+    {
+      "added_at": "2023-08-25 16:00:00",
+      "album": {
         "name": "Alle meine Raver",
         "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 314666,
       "name": "Alle meine Raver",
       "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
-    },
-    {
-      "added_at": "2023-08-25 16:00:00",
-      "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2023-08-25 16:00:00",

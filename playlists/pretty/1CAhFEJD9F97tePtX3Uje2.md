@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 351 likes - 224 songs - 13 hr 22 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 351 likes - 225 songs - 13 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,5 +232,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 222 | [GRAVE](https://open.spotify.com/track/38PjAxXt90vy4DQuYx9AtS) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 2:24 |
 | 223 | [Millennium](https://open.spotify.com/track/05MM2yRLitXXawfcjG2Fgc) | [SLEEP SPIRIT](https://open.spotify.com/artist/3lDVrf2eFWSBZm4EQrFsN3) | [Millennium](https://open.spotify.com/album/2ei19Xmi2aoOsGmoqltmbE) | 2:56 |
 | 224 | [Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx) | 3:29 |
+| 225 | [Tel Aviv \(Lvst Remix\)](https://open.spotify.com/track/3LFAHDElPcGRmRoQBSnqGF) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Lvst](https://open.spotify.com/artist/37tqE9Ue451lRMSdcy8BA5) | [Tel Aviv \(Lvst Remix\)](https://open.spotify.com/album/34ODEhPO5R9WWY64OjhDAq) | 3:38 |
 
-Snapshot ID: `MjQwLGZjY2NmMjhkOGRmYzMxZmI4NjI5YWVkMWFmY2ZjODU1YmYzY2M2M2Q=`
+Snapshot ID: `MjQxLDk0NDEwYWEzZjVhYzgyNGEzNmE5MDI4YTc0NTVkN2E4YjE0YzkxNGI=`

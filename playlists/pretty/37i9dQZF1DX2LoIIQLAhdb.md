@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,722 likes - 39 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,800 likes - 39 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 38 | [KM](https://open.spotify.com/track/3JAhkNrtJBjeAoJB2B5Aei) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [UNE LARME DE +](https://open.spotify.com/album/5p22pIQyjHxtEU9ZflwmKc) | 2:39 |
 | 39 | [Bobo](https://open.spotify.com/track/4vUDJ6ajc7zjVjCu132UvT) | [SisiK](https://open.spotify.com/artist/2uCRg5frmbfGvzlLRR0Pyi) | [Bobo](https://open.spotify.com/album/7nLkUKpKDd9ZUxAi2O0YKQ) | 2:38 |
 
-Snapshot ID: `MCw4ODM3MjM2MjQ3ZGVlYzk4YTRiMDNhYjc3MTYwZTE1YTdkN2YxMWE3`
+Snapshot ID: `MCxlODY2NTBjOGIxYmFiNjE1ZmVmMDM0MTNhNGZhZDc3Y2IxYmY0M2Yw`

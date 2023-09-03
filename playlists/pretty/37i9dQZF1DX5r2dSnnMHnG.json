@@ -1,12 +1,12 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 4713,
+  "num_followers": 4726,
   "original_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmQzMjgyNjk0MTY1MzdkMTVkMmYwMDc0MGJhN2ZmNjM1ZGViMTJj",
+  "snapshot_id": "MCw4ZjRkNWU5OGFkNTQ3YmIyNGY4MGJiM2IwODk4ZWZkMWVlYzkwNjI5",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "blooming",
-        "url": "https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3"
-      },
-      "artists": [
-        {
-          "name": "Kim Marie",
-          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "blooming",
-      "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
       },
@@ -1303,6 +1287,30 @@
       "duration_ms": 223629,
       "name": "SOME",
       "url": "https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "Paints (feat. 1ho)",
+        "url": "https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "GODAK",
+          "url": "https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn"
+        },
+        {
+          "name": "1ho",
+          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+        }
+      ],
+      "duration_ms": 182315,
+      "name": "Paints (feat. 1ho)",
+      "url": "https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7"
     }
   ],
   "unique_name": "\ubd04\uac19\uc740 \uc124\ub808\uc784",

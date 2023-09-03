@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,007 likes - 176 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,065 likes - 176 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 121 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
 | 122 | [Doing What](https://open.spotify.com/track/7xEQu4lEHFsschQceaVpcT) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x) | [Doing What](https://open.spotify.com/album/4l31MW9es2uvMFbbZy6vnn) | 3:19 |
 | 123 | [SHAWTS](https://open.spotify.com/track/2K55xVGnOBFwIlZLsPlYp5) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [SHAWTS](https://open.spotify.com/album/7dkctnbRQ9tsMauVbu4B6s) | 3:23 |
-| 124 | [Losing My Perfection](https://open.spotify.com/track/5Ovlr0JABJiCMAhVHq6xiB) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Losing My Perfection](https://open.spotify.com/album/0C7bqhOiwfgGuPR0jlUDF2) | 3:02 |
+| 124 | [Losing My Perfection](https://open.spotify.com/track/5Fmi8gEdTDTARDnxdwiY7v) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:02 |
 | 125 | [Rollercoaster](https://open.spotify.com/track/1fowwO5FLJpv7Suxf0vOC6) | [Marra](https://open.spotify.com/artist/1K0pCVhJZHTvrCmGItXoq5), [whinn](https://open.spotify.com/artist/3R9yGzKCvht9vUyRyV3tU9), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Rollercoaster](https://open.spotify.com/album/3AyZzhTDxJ0sl7XECu6NUL) | 3:12 |
 | 126 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
 | 127 | [Paradise \- Remix](https://open.spotify.com/track/0tvQweVX5PIzspqVZdyB7b) | [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq), [Travis Allen](https://open.spotify.com/artist/0l0pHgoBrCcr7wQTrBwbCp), [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Paradise \(Remix\)](https://open.spotify.com/album/5byhhtBBucKX4zNAyRVbbu) | 3:16 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 175 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
 | 176 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCxlZjE2YTdmMzRhOWE5N2FlODMxOThhNjliNWJiY2U3MDBhMzNlOTc0`
+Snapshot ID: `MCw0NWFhYWMwZWYwZDhjMDIyZTVhNGYzYTYzNjdiY2I3OTA3NWNiOWVi`

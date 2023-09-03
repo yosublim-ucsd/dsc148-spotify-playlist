@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,335 likes - 53 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,352 likes - 53 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 32 | [Latthe Di Chadar](https://open.spotify.com/track/7ChxPqmCd0XQB8TXMGGg9V) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/67THXG06aDn1odJW7DRGqa) | 3:02 |
 | 33 | [Challa](https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7) | 6:46 |
 | 34 | [Daana Paani \(From "Daana Paani" Soundtrack\)](https://open.spotify.com/track/7xT9DUDXxmjb1hsIcnzGrq) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi) | [Daana Paani \(From "Daana Paani" Soundtrack\)](https://open.spotify.com/album/73oPRBDmqdR1SWaFWd8WzO) | 2:36 |
-| 35 | [Mathe Te Chamkan Vaal \- Live](https://open.spotify.com/track/3SkUaDTh5M4BDdQOLzLiol) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal / Gidde Vich \(Live\) \- Single](https://open.spotify.com/album/4FMCAGhni2EPuBGxw6Dq9O) | 3:38 |
+| 35 | [Mathe Te Chamkan Vaal \(Live\)](https://open.spotify.com/track/5A3PfcBVxvN06YcWBrAbCU) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Mathe Te Chamkan Vaal \(Live\)](https://open.spotify.com/album/6M5JcBhM7iAJBsO4jDJGPC) | 3:38 |
 | 36 | [Kan Kar Gal Sun Makhna](https://open.spotify.com/track/5UGwIlr0mTtFdOM6SeY21Z) | [Amar Singh Chamkila](https://open.spotify.com/artist/2yZ5VRE8Cy4H81VL9biNbQ), [Amarjot](https://open.spotify.com/artist/3cE16YWyzYxHOfnm64kKgg) | [Desi Rakaad](https://open.spotify.com/album/750iSHcA6T5zZMC0jvpJrN) | 3:56 |
-| 37 | [Sasse Ladeya \(Live\)](https://open.spotify.com/track/61J3Yk08StGFBKAQ3dsInA) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Sasse Ladeya / Saam Kunjiya \(Live\)](https://open.spotify.com/album/53ogb57aAnxhx27Y65bRWY) | 3:33 |
+| 37 | [Sasse Ladeya Na Kar \(Live\)](https://open.spotify.com/track/2g8du862hgmdr9lCTstZa3) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Sasse Ladeya Na Kar \(Live\)](https://open.spotify.com/album/5DDqR5ZFD4WLyaapIfRkOo) | 3:33 |
 | 38 | [Chan Kithan \- Folk Recreation](https://open.spotify.com/track/2gc2744uSnOSwTIbT78khL) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Chan Kithan \(Folk Recreation\)](https://open.spotify.com/album/0ZKhRD4v1zVQmEdsrVJxS8) | 2:58 |
 | 39 | [Pinda Vichon Pind \- Folk Recreation](https://open.spotify.com/track/1jEzFM4KUY7Zi2X7taKiZ8) | [Mickey Singh](https://open.spotify.com/artist/4TytLlhbWaVCpuyATg6syY) | [Pinda Vichon Pind \(Folk Recreation\)](https://open.spotify.com/album/5yFJPxffYbmIqmSdybpk1A) | 2:17 |
 | 40 | [Das Main Ki Pyar Wichon Khatyal](https://open.spotify.com/track/2sHtt2EVbN0vFZTFYuYdlQ) | [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4v2E9Up8kfr2W0gkUrlL4P) | 3:15 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 43 | [Majhe Diye Mombattiye](https://open.spotify.com/track/2gP09WRLU9PajUoOgCDYWU) | [Balkar Sidhu](https://open.spotify.com/artist/6uBqTShUAXu6jwhxxvhuhZ) | [Best of Balkar Sidhu](https://open.spotify.com/album/72HqqELNR5MK8wGgPxjOfQ) | 7:31 |
 | 44 | [Babul \(Live\)](https://open.spotify.com/track/7IiwtbLcUg8MawnwL62KgP) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Babul \(Live\)](https://open.spotify.com/album/1gpYSSN7MeFeLZSHIEZzwV) | 4:01 |
 | 45 | [Boliyan](https://open.spotify.com/track/4nX7vCRUiySBcVHyy8xWBJ) | [Kulwinder Dhillon](https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t) | [Kacheriyan Ch Mele Lagde](https://open.spotify.com/album/2mxYO1V5PTqFGgYrmeiGi8) | 5:04 |
-| 46 | [Jutti Meri \(Live\)](https://open.spotify.com/track/4RXpYrUS1ARaN3euvGHpTj) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\) \- Single](https://open.spotify.com/album/1T18aurspe5ouDMzg9Xaas) | 3:28 |
+| 46 | [Jutti Meri \(Live\)](https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Jutti Meri \(Live\)](https://open.spotify.com/album/3R2cCLXlBCGtV7TKDN1AoE) | 3:28 |
 | 47 | [Kala Shah Kala](https://open.spotify.com/track/0AsI6bQU0DWpjuotmAnrdR) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa, Vol\. 2](https://open.spotify.com/album/4tvEZ7lQ6w8yeLJV54oOBH) | 2:55 |
 | 48 | [Chan Kithe Guzari Ayeerat](https://open.spotify.com/track/1cru0v9dm9EkUrCwtOwNA5) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Virasat\-E\-Punjab, Vol\. 1](https://open.spotify.com/album/7BLztbcJkDA2UvmCsrU7fW) | 3:15 |
 | 49 | [Akhiyan Ch Ton Wasda](https://open.spotify.com/track/1g0d3PK9XuCwUVpD45JFDw) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Luti Heer Ve Gaman Ne](https://open.spotify.com/album/3o3F1DVHaw3L5xiODNHuyG) | 4:00 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 52 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
 | 53 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 |
 
-Snapshot ID: `MCxlMmRlOTk1ODA4ZWFiNWY1MDhiOTlkYzY2YzU0NmRlNzA5NDU1Yzg3`
+Snapshot ID: `MCw4ZTVkZDczMGI0YTdlNDk1MGRjODFlNTFjYzZmYzAxNjI2ZjlkYjk5`

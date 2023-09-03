@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 372,
+  "num_followers": 373,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
+  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -643,8 +643,8 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Turista",
-        "url": "https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK"
+        "name": "La Nueva Esquina",
+        "url": "https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM"
       },
       "artists": [
         {
@@ -652,13 +652,13 @@
           "url": "https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F"
         },
         {
-          "name": "Raquel Berr\u00edos",
-          "url": "https://open.spotify.com/artist/389m1TNMBlLANojDHI4qj9"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 294192,
-      "name": "Naturaleza Humana (feat. Raquel Berr\u00edos)",
-      "url": "https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu"
+      "duration_ms": 227148,
+      "name": "Subo Subo",
+      "url": "https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -731,18 +731,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Si T\u00fa Quieres M\u00e1s",
-        "url": "https://open.spotify.com/album/1xU1Zj9cCqcRKkORRF71zw"
+        "name": "No la Controles",
+        "url": "https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy"
       },
       "artists": [
         {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+          "name": "Vic Contreras",
+          "url": "https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev"
+        },
+        {
+          "name": "La Alucinante Banda",
+          "url": "https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo"
         }
       ],
-      "duration_ms": 264760,
-      "name": "Si T\u00fa Quieres M\u00e1s",
-      "url": "https://open.spotify.com/track/4dfDK5mveASz4gFx3XzQGH"
+      "duration_ms": 205114,
+      "name": "No la Controles",
+      "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -779,22 +783,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "No la Controles",
-        "url": "https://open.spotify.com/album/1LYj7dodHz75dXhEeBWUWy"
+        "name": "Si T\u00fa Quieres M\u00e1s",
+        "url": "https://open.spotify.com/album/1xU1Zj9cCqcRKkORRF71zw"
       },
       "artists": [
         {
-          "name": "Vic Contreras",
-          "url": "https://open.spotify.com/artist/6P93ryoAZ536dC2ZvPWtev"
-        },
-        {
-          "name": "La Alucinante Banda",
-          "url": "https://open.spotify.com/artist/4MzZm21ozsCMzX4SwntjBo"
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
         }
       ],
-      "duration_ms": 205114,
-      "name": "No la Controles",
-      "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
+      "duration_ms": 264760,
+      "name": "Si T\u00fa Quieres M\u00e1s",
+      "url": "https://open.spotify.com/track/4dfDK5mveASz4gFx3XzQGH"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -815,8 +815,8 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "La Nueva Esquina",
-        "url": "https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM"
+        "name": "Turista",
+        "url": "https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK"
       },
       "artists": [
         {
@@ -824,13 +824,13 @@
           "url": "https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F"
         },
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Raquel Berr\u00edos",
+          "url": "https://open.spotify.com/artist/389m1TNMBlLANojDHI4qj9"
         }
       ],
-      "duration_ms": 227148,
-      "name": "Subo Subo",
-      "url": "https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz"
+      "duration_ms": 294192,
+      "name": "Naturaleza Humana (feat. Raquel Berr\u00edos)",
+      "url": "https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu"
     },
     {
       "added_at": "2022-08-13 03:00:56",

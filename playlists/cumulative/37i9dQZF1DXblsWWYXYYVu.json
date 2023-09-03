@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 216344,
       "name": "To Be Alone",
       "url": "https://open.spotify.com/track/2rMRJx6otE8fMl5hXQn91g"
@@ -2988,6 +2988,24 @@
       "duration_ms": 216344,
       "name": "To Be Alone",
       "url": "https://open.spotify.com/track/3LLC6zTTtVHf5tuHN2VtSw"
+    },
+    {
+      "album": {
+        "name": "Nothing, Something, Everything",
+        "url": "https://open.spotify.com/album/7FcralsMBehsJT4Xx7DHfk"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216344,
+      "name": "To Be Alone",
+      "url": "https://open.spotify.com/track/7msllzKBb0NOvdOjqsGq4h"
     },
     {
       "album": {

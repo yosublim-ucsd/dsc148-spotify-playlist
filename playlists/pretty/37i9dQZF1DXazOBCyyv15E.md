@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Slowdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,125 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,153 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 79 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 |
 | 80 | [fantasise](https://open.spotify.com/track/3sGdim1cukRO7bEkkAsaAc) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [fantasise](https://open.spotify.com/album/17PTc2JmgO98g3r4qyXHzf) | 2:49 |
 
-Snapshot ID: `MCw5MDBlMjBiZWU4NGE2NWQ3ZDRhODFmOTU0ZGZkMzQ4MDhlZTFlMWZk`
+Snapshot ID: `MCw1ZmRmNGExM2JlYzliNjQzMzZkY2Q3MGY1YmE4MTMwYWZhMTNjNDA0`

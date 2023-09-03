@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-213 songs - 13 hr 8 min
+214 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,8 +126,9 @@
 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 | 2023-02-16 | 2023-03-25 |
 | [wind blows \- softly \-](https://open.spotify.com/track/1muPqbyGs2w8dta3GOTEUv) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo) | [wind blows \- softly \-](https://open.spotify.com/album/6TxFJQgoHoxpcxRqJE1ovS) | 2:29 | 2023-08-08 |  |
 | [wind blows \- softly \-](https://open.spotify.com/track/7yChFpLeFv68tGKEH77gHl) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo) | [wind blows \- softly \-](https://open.spotify.com/album/2XPQI1hw4aQKLCXK22o6uW) | 2:29 | 2023-08-08 | 2023-08-10 |
-| [Windmills](https://open.spotify.com/track/1aha4I89HovVYkb2O4udUM) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Windmills](https://open.spotify.com/album/4DzOrai5gfKhWBEazJUP5W) | 3:30 | 2023-07-25 |  |
+| [Windmills](https://open.spotify.com/track/1aha4I89HovVYkb2O4udUM) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Windmills](https://open.spotify.com/album/4DzOrai5gfKhWBEazJUP5W) | 3:30 | 2023-07-25 | 2023-09-03 |
 | [Windmills](https://open.spotify.com/track/7EOtFyHjdSrnUdYlydmxNM) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Windmills](https://open.spotify.com/album/5lvjELLjKZi7YaIsnQgbWu) | 3:30 | 2023-07-25 | 2023-07-27 |
+| [Windmills](https://open.spotify.com/track/5XatLyBlHcQlbriJ6ZYSI7) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [Unready](https://open.spotify.com/album/1DmKbuLnlnXvW6a4ENlc0x) | 3:31 | 2023-08-31 |  |
 | [wish](https://open.spotify.com/track/50rEk6sqB0jBkf8mx3AgTt) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [wish](https://open.spotify.com/album/4EWxK7qxIEXWF8bv3BSeuO) | 4:24 | 2022-12-15 | 2023-01-15 |
 | [without a word](https://open.spotify.com/track/4zefF6Sz5tyALMS8eVetPC) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [SIGN](https://open.spotify.com/album/3UnGVlmqObAzmtrFFBMXcF) | 2:37 | 2022-12-20 | 2023-02-22 |
 | [without a word](https://open.spotify.com/track/70E8D4N96XHb90QFufmzY6) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [SIGN](https://open.spotify.com/album/6LquM3nRoIbpO7RduSYhEF) | 2:37 | 2022-12-20 | 2022-12-22 |

@@ -4,7 +4,7 @@
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 
-36 songs - 1 hr 50 min
+37 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Curated by Rockstar Cookie](https://open.spotify.com/track/0cVmZSW9OvZj2Xydl5A0Qg) | [Rockstar Cookie](https://open.spotify.com/artist/5dKAbu1nRg7VPCMYfkmxJc) | [Rockstar Cookie audio liners](https://open.spotify.com/album/7ja0j7TQ5JT9N6ZZrQ86Uc) | 0:15 | 2023-07-11 |  |
 | [Curated by Shining Glitter Cookie](https://open.spotify.com/track/1pOhFArU9McNeoDZj4ADLR) | [Shining Glitter Cookie](https://open.spotify.com/artist/2Z1pjMZED8XfUqF5qmlIii) | [Shining Glitter Cookie audio liners](https://open.spotify.com/album/5Xlrdk16qXsq3vIjaMAYX8) | 0:12 | 2023-07-11 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2023-07-11 |  |
-| [Drive](https://open.spotify.com/track/62RxVBrMVey7CjROBLsMIL) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Drive](https://open.spotify.com/album/0FvWAtuJrMGOd2UQ3sAvdI) | 4:00 | 2023-07-11 |  |
+| [Drive](https://open.spotify.com/track/62RxVBrMVey7CjROBLsMIL) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Drive](https://open.spotify.com/album/0FvWAtuJrMGOd2UQ3sAvdI) | 4:00 | 2023-07-11 | 2023-09-03 |
 | [Ending Ment from Rockstar Cookie](https://open.spotify.com/track/6LpbWSrYiCrK9VWcSXTUoC) | [Rockstar Cookie](https://open.spotify.com/artist/5dKAbu1nRg7VPCMYfkmxJc) | [Rockstar Cookie audio liners](https://open.spotify.com/album/7ja0j7TQ5JT9N6ZZrQ86Uc) | 0:30 | 2023-07-11 |  |
 | [Even If the World Ends Tomorrow](https://open.spotify.com/track/3V3ORDW5cCr8LuGnWyUCMj) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 4:22 | 2023-07-11 |  |
 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 | 2023-07-11 |  |
@@ -43,6 +43,7 @@
 | [Water Roof](https://open.spotify.com/track/26LaK1Z9hUINXdk8SvxiOi) | [LudiSTELO](https://open.spotify.com/artist/0EnwklCF9zZ5r5m6uZrve5) | [Experience](https://open.spotify.com/album/0rXMja4kiy7d5IzYOHwtrK) | 6:06 | 2023-07-11 |  |
 | [WHAT TIME IS IT NOW?](https://open.spotify.com/track/096Bx2bni4EOMZxfb2Hvm3) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [of us](https://open.spotify.com/album/4x6THVlohmI8deJv3I1kU3) | 3:35 | 2023-07-11 |  |
 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 | 2023-07-11 |  |
+| [드라이브 Drive](https://open.spotify.com/track/0S7z9zHni3mSttpQcmQZDs) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Enjoy Perfect Lemon Recipes vol.2 \- My Own Summer](https://open.spotify.com/album/73AbS440N3i0SY0VkYZ9ZF) | 4:00 | 2023-07-20 |  |
 | [바보들의 왕 The Queen of fools](https://open.spotify.com/track/6stEqx6YkXslgAJgPZVuuy) | [Ego Function Error](https://open.spotify.com/artist/4EhoOhM4d7P3EkLZhjqVa6) | [EGO FUN SHOW](https://open.spotify.com/album/0g3Zm9Oya85UK6EkjO8GMk) | 6:41 | 2023-07-11 |  |
 
 \*This playlist was first scraped on 2023-07-12. Prior content cannot be recovered.

@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 224939,
       "name": "Again!",
       "url": "https://open.spotify.com/track/3gQY0ZPLRoANIVHwNtnsz3"
@@ -1596,10 +1596,28 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 185032,
       "name": "Distance",
       "url": "https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS"
+    },
+    {
+      "album": {
+        "name": "Distance (Mandarin Version)",
+        "url": "https://open.spotify.com/album/6QOeB6q1acypIqwuDpsKkI"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200497,
+      "name": "Distance (Mandarin Version)",
+      "url": "https://open.spotify.com/track/3qUObXucAc56ax5DSzcUF1"
     },
     {
       "album": {
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
@@ -3762,7 +3780,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -6329,6 +6347,24 @@
     },
     {
       "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "album": {
         "name": "MY WORLD - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
       },
@@ -6586,7 +6622,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 68363,
       "name": "Super Tuna",
       "url": "https://open.spotify.com/track/5EaVikAxSRponyifRP6Fhp"
@@ -6886,7 +6922,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -8296,7 +8332,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 205653,
       "name": "\u4f01\u597d",
       "url": "https://open.spotify.com/track/7DtzElK1X4H5FWQMPX7ZYH"
@@ -8866,7 +8902,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 228819,
       "name": "\u53cd\u5c0d\u7121\u6548",
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
@@ -9028,7 +9064,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 193747,
       "name": "\u570b\u969b\u5b64\u7368\u7b49\u7d1a",
       "url": "https://open.spotify.com/track/5KpWHEh32vzxkttIK3KHKI"
@@ -10104,7 +10140,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 220938,
       "name": "\u6642\u5019\u4e0d\u65e9",
       "url": "https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO"
@@ -10796,7 +10832,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 67527,
       "name": "\u7121\u7cd6\u53ef\u53e3\u53ef\u6a02 X \u59dc\u6fe4 \u2022 \u7121\u53ef\u53d6\u4ee3",
       "url": "https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH"
@@ -11338,7 +11374,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 237403,
       "name": "\u7d66\u7f3a\u5e2d\u7684\u4eba\u5531\u9996\u6b4c",
       "url": "https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB"
@@ -11588,7 +11624,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 177560,
       "name": "\u82b1\u6d77",
       "url": "https://open.spotify.com/track/4EtIyBLHlEJoNPsb3Kv3CQ"
@@ -12178,7 +12214,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 233187,
       "name": "\u96b1\u5f62\u904a\u6a02\u5834",
       "url": "https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY"

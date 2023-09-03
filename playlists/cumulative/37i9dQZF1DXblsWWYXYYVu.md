@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-185 songs - 10 hr 21 min
+186 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,9 +168,10 @@
 | [Til the River Takes Us Home](https://open.spotify.com/track/3EiIk1CUYBxFhDo2c38Elp) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Til the River Takes Us Home](https://open.spotify.com/album/3fDaftBNXBv1wNCGUmi7Ms) | 4:21 | 2021-08-27 | 2022-08-13 |
 | [Time](https://open.spotify.com/track/34ncyljvlMvfj2yJDhPaJf) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [West on I\-10](https://open.spotify.com/album/2Xz0fS1DBBIjLRVkImPFD0) | 3:26 | 2023-04-28 |  |
 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2021-04-19 | 2022-04-29 |
-| [To Be Alone](https://open.spotify.com/track/2rMRJx6otE8fMl5hXQn91g) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:36 | 2022-03-11 |  |
+| [To Be Alone](https://open.spotify.com/track/2rMRJx6otE8fMl5hXQn91g) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:36 | 2022-03-11 | 2023-09-03 |
 | [To Be Alone](https://open.spotify.com/track/2yqWZjDv5jJaBdco4z5kkp) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [To Be Alone](https://open.spotify.com/album/2weElGUGM0TUzRMLmpcayX) | 3:36 | 2022-03-11 | 2022-10-21 |
 | [To Be Alone](https://open.spotify.com/track/3LLC6zTTtVHf5tuHN2VtSw) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Nothing, Something, Everything](https://open.spotify.com/album/2nP5mY1dKbzBwQ2sXYEYFT) | 3:36 | 2022-03-11 | 2022-11-13 |
+| [To Be Alone](https://open.spotify.com/track/7msllzKBb0NOvdOjqsGq4h) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Nothing, Something, Everything](https://open.spotify.com/album/7FcralsMBehsJT4Xx7DHfk) | 3:36 | 2022-03-11 |  |
 | [Troubled Soul](https://open.spotify.com/track/6jRlhzI3CNe4DOuEoF0rkw) | [Paper Wings](https://open.spotify.com/artist/42CYIYwKRNIYAHPrnjPvVn) | [Clementine](https://open.spotify.com/album/2xZS1wCPPJxPqRkTh8nhKB) | 3:54 | 2021-04-19 |  |
 | [True Believer](https://open.spotify.com/track/7MU641dWQo8zzExfQD7HW0) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [True Believer](https://open.spotify.com/album/5JSL79s5wVIDQeIy2xI05Z) | 3:15 | 2021-04-19 |  |
 | [True Love](https://open.spotify.com/track/7sigUoQGHreBIG14Rn7LGp) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [Break Your Crowns](https://open.spotify.com/album/3GFaakqzHGqLPB2er6noUD) | 3:23 | 2021-04-19 |  |

@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-479 songs - 1 day 4 hr 37 min
+480 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 | 2023-07-28 |  |
 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 | 2022-08-12 | 2023-03-11 |
 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 | 2022-11-11 | 2023-04-15 |
-| [Bad Girls](https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv) | 2:35 | 2023-05-26 |  |
+| [Bad Girls](https://open.spotify.com/track/1bYpricJVlO7D6kmjf8Whf) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/6jeJZLPCFkSP0FbmC0X5CM) | 2:35 | 2023-05-26 |  |
+| [Bad Girls](https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/7CIwg53mH7BD5y3RZ4KyGv) | 2:35 | 2023-05-26 | 2023-09-03 |
 | [Bald Men Anthem](https://open.spotify.com/track/3rJzQDT5O5pgyLWzpzU7oN) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Anthem](https://open.spotify.com/album/28eqkHAkRq6mpW0qeH8e4Z) | 4:14 | 2021-11-12 | 2022-02-19 |
 | [Be Better](https://open.spotify.com/track/6Z1lZYniJVYG8el7HgFEAQ) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Be Better](https://open.spotify.com/album/4h7qo3mx5g84uLwfyxAO7v) | 2:39 | 2021-11-12 | 2022-02-19 |
 | [Beast Mode](https://open.spotify.com/track/468bLIu92tWlKhnuIUFqeE) | [Dope Knife](https://open.spotify.com/artist/1NuyIyXEUSZIMxj3WXDSeW), [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Beast Mode](https://open.spotify.com/album/1w382jEqdoA1uZR7Dgubzx) | 3:44 | 2022-09-09 | 2023-03-18 |

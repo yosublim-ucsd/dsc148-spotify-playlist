@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 32390,
+  "num_followers": 32404,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzEwNGI1NzU5ZmM4ZDhmMTBlODcwNmRkNTBkMjUzMzY1ZGE1NDEw",
+  "snapshot_id": "MCw3ODE0ZTY3ZGE4YjU2YTk2MzFiMGQzNWE5YmMwZDFlMTY2OGE5ZTMy",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Runner (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy"
-      },
-      "artists": [
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "Showlivre",
-          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
-        }
-      ],
-      "duration_ms": 132884,
-      "name": "Runner - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 134893,
       "name": "Versos Fortes",
       "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Runner (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy"
+      },
+      "artists": [
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "duration_ms": 132884,
+      "name": "Runner - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9"
     },
     {
       "added_at": "2023-09-01 03:01:00",

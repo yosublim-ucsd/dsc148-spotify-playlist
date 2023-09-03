@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 203911,
       "name": "Beep-Boop, Beep-Boop",
       "url": "https://open.spotify.com/track/1Bzyh2PDRbIR1Q1A8u3U9b"
@@ -592,10 +592,28 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 143986,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/0XrOG2I7stfgSx8CPzsTPL"
+    },
+    {
+      "album": {
+        "name": "COBALT",
+        "url": "https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272386,
+      "name": "COBALT",
+      "url": "https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI"
     },
     {
       "album": {
@@ -610,7 +628,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 272386,
       "name": "COBALT",
       "url": "https://open.spotify.com/track/28ZZvL8qrT4kSCb6imjaUa"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 223088,
       "name": "Dancing in the rain",
       "url": "https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k"
@@ -1296,10 +1314,28 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 202581,
       "name": "Garden",
       "url": "https://open.spotify.com/track/0odZSHqoof9UZWUrZqg3L0"
+    },
+    {
+      "album": {
+        "name": "At My Peaceful Garden",
+        "url": "https://open.spotify.com/album/5gaBBoN59i9HBda2z4hY7P"
+      },
+      "artists": [
+        {
+          "name": "JKC",
+          "url": "https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202581,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/1uD85PhapaHJdaIkeZi3Xb"
     },
     {
       "album": {
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 249466,
       "name": "Gureumi",
       "url": "https://open.spotify.com/track/1IAE1TN9H3WKoIG6FqpuM7"
@@ -2874,7 +2910,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 225653,
       "name": "Sand",
       "url": "https://open.spotify.com/track/1VcqBhuVXWFvA6HIWuGCPV"
@@ -3224,10 +3260,28 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 243373,
       "name": "Summer For You",
       "url": "https://open.spotify.com/track/1i2mGWu5fJCUEW6yFHYokf"
+    },
+    {
+      "album": {
+        "name": "Summer For You",
+        "url": "https://open.spotify.com/album/1D5xRbEagBQAnQvUzRWivs"
+      },
+      "artists": [
+        {
+          "name": "JKC",
+          "url": "https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "Summer For You",
+      "url": "https://open.spotify.com/track/4hoXJARvMTu2qBVQyjLbGg"
     },
     {
       "album": {
@@ -3250,6 +3304,28 @@
     {
       "album": {
         "name": "Sweet Violet Flame",
+        "url": "https://open.spotify.com/album/6xMKaTOYH12iOYBUNSAj1C"
+      },
+      "artists": [
+        {
+          "name": "hathaw9y",
+          "url": "https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN"
+        },
+        {
+          "name": "Seulhan Koo",
+          "url": "https://open.spotify.com/artist/6d1ogGM3Uc7jhpRWWd1t92"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "Sweet (feat. Seulhan Koo)",
+      "url": "https://open.spotify.com/track/1KuMtHlwA7FJhEHONmSELQ"
+    },
+    {
+      "album": {
+        "name": "Sweet Violet Flame",
         "url": "https://open.spotify.com/album/2WQHK8zN9wCopxSGPKZFdG"
       },
       "artists": [
@@ -3264,7 +3340,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 213826,
       "name": "Sweet (feat. Seulhan Koo)",
       "url": "https://open.spotify.com/track/6oBDFqc4gitPNRfH5F5pZq"
@@ -3318,7 +3394,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 187873,
       "name": "The End of the Ocean",
       "url": "https://open.spotify.com/track/1SmuDqAn0DIjmdtUhICTRv"
@@ -3542,10 +3618,28 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 305280,
       "name": "Violet",
       "url": "https://open.spotify.com/track/2PKkTvDA6TDs96Hm7I0YAG"
+    },
+    {
+      "album": {
+        "name": "Sweet Violet Flame",
+        "url": "https://open.spotify.com/album/6xMKaTOYH12iOYBUNSAj1C"
+      },
+      "artists": [
+        {
+          "name": "hathaw9y",
+          "url": "https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305280,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/426qM1AmVCXywoOarNthxv"
     },
     {
       "album": {
@@ -3716,6 +3810,24 @@
     {
       "album": {
         "name": "You Are My Universe",
+        "url": "https://open.spotify.com/album/6j77Nb91cW1AMLH2ZkzwA0"
+      },
+      "artists": [
+        {
+          "name": "Low Hanging Fruits",
+          "url": "https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275500,
+      "name": "You Are My Universe",
+      "url": "https://open.spotify.com/track/1ICjwEhYnq72EHiqF4KXk5"
+    },
+    {
+      "album": {
+        "name": "You Are My Universe",
         "url": "https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ"
       },
       "artists": [
@@ -3726,7 +3838,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 275500,
       "name": "You Are My Universe",
       "url": "https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs"
@@ -4039,6 +4151,42 @@
     },
     {
       "album": {
+        "name": "\ubaa8\ub798 Sand",
+        "url": "https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB"
+      },
+      "artists": [
+        {
+          "name": "Bosudongcooler",
+          "url": "https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "\uad6c\ub984\uc774 Gureumi",
+      "url": "https://open.spotify.com/track/3TbWEIZdm9Unz5zDjwQt1i"
+    },
+    {
+      "album": {
+        "name": "\ubaa8\ub798 Sand",
+        "url": "https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB"
+      },
+      "artists": [
+        {
+          "name": "Bosudongcooler",
+          "url": "https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143986,
+      "name": "\uade4 Clementine",
+      "url": "https://open.spotify.com/track/3ytsxIZUcQaEXpaKVvzRWU"
+    },
+    {
+      "album": {
         "name": "Noise on Fire (Remastered)",
         "url": "https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ"
       },
@@ -4075,6 +4223,42 @@
     },
     {
       "album": {
+        "name": "\ubaa8\ub798 Sand",
+        "url": "https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB"
+      },
+      "artists": [
+        {
+          "name": "Bosudongcooler",
+          "url": "https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225653,
+      "name": "\ubaa8\ub798 Sand",
+      "url": "https://open.spotify.com/track/7vOkJsWdlHZF2NXwliYsrg"
+    },
+    {
+      "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/2dqw4DKZNV1MDOldzdt4SU"
+      },
+      "artists": [
+        {
+          "name": "JKC",
+          "url": "https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187873,
+      "name": "\ubc14\ub2e4 \ub05d The End of the Ocean",
+      "url": "https://open.spotify.com/track/7IJQA8XB7JlkCyiaSHxdJu"
+    },
+    {
+      "album": {
         "name": "Frankly I\u2026",
         "url": "https://open.spotify.com/album/1ZnN6DgqZVnxRHd6OxGsBh"
       },
@@ -4090,6 +4274,24 @@
       "duration_ms": 246736,
       "name": "\ubc84\uac70 Burger",
       "url": "https://open.spotify.com/track/51f4A9WcjkND9aGHpuAh8Q"
+    },
+    {
+      "album": {
+        "name": "COBALT",
+        "url": "https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223088,
+      "name": "\ube44 \uc624\ub294 \uac70\ub9ac\uc5d0\uc11c \ucda4\uc744 \ucd94\uc790 Dancing in the rain",
+      "url": "https://open.spotify.com/track/7bQy0LIiXWN0ybCi9I73Uc"
     },
     {
       "album": {
@@ -4144,6 +4346,24 @@
       "duration_ms": 361848,
       "name": "\ube44\uc640 \ub2f9\uc2e0\uc758 \uc774\uc57c\uae30",
       "url": "https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB"
+    },
+    {
+      "album": {
+        "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203911,
+      "name": "\uc090\ubf40\uc090\ubf40 Beep-Boop, Beep-Boop",
+      "url": "https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu"
     },
     {
       "album": {

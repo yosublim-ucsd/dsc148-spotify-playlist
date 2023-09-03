@@ -173,7 +173,7 @@
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 123807,
+      "duration_ms": 123296,
       "name": "ABOUTYOU",
       "url": "https://open.spotify.com/track/7FkqDr0d8OSXfRT8vVjKEk"
     },
@@ -3664,7 +3664,7 @@
     {
       "album": {
         "name": "Heart Under",
-        "url": "https://open.spotify.com/album/0IxkOdfNHkZBUJECtBgMUZ"
+        "url": "https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb"
       },
       "artists": [
         {
@@ -3675,6 +3675,24 @@
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230133,
+      "name": "I Am You",
+      "url": "https://open.spotify.com/track/1hH8iCAI7si2uM6JGn7Pdl"
+    },
+    {
+      "album": {
+        "name": "Heart Under",
+        "url": "https://open.spotify.com/album/0IxkOdfNHkZBUJECtBgMUZ"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
       "duration_ms": 230133,
       "name": "I Am You",
       "url": "https://open.spotify.com/track/47PWH8PEvoWpYJ6AkzoSyu"

@@ -4,7 +4,7 @@
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-74 songs - 3 hr 20 min
+75 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Daytona Beach Waves](https://open.spotify.com/track/5bV68Ar7VlCSyDyTnAQsTD) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 1:23 | 2022-11-23 | 2023-06-20 |
 | [Deep And Beautiful \- Seamless](https://open.spotify.com/track/4GahIgDfF61wccryMGdTeu) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Thunderous Ocean](https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX) | 2:57 | 2022-11-23 |  |
 | [Distant Waves](https://open.spotify.com/track/4Ql30uKSojQ49MCRV7IMV5) | [Michael Pole](https://open.spotify.com/artist/5QOg8xdFwY9ttJgSXlp8Jk) | [Ocean Beach Samples](https://open.spotify.com/album/0rp2448Xx1xBQrHCRGdlcX) | 1:42 | 2022-11-23 | 2023-06-20 |
-| [Fury of the waves](https://open.spotify.com/track/1UgfZYJL9nhgR0TCUqgiNB) | [D\-Scartes](https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3) | [Beside the sea](https://open.spotify.com/album/5HvCBTCUytZGRUKKcsfdQ8) | 2:02 | 2023-06-19 |  |
+| [Fury of the waves](https://open.spotify.com/track/1UgfZYJL9nhgR0TCUqgiNB) | [D\-Scartes](https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3) | [Beside the sea](https://open.spotify.com/album/5HvCBTCUytZGRUKKcsfdQ8) | 2:02 | 2023-06-19 | 2023-09-03 |
 | [Gentle Waves](https://open.spotify.com/track/1Yq8mLKvdhdos3bkfNRBdC) | [Ilmium](https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8) | [Sleep Sound Green Noise](https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb) | 1:55 | 2022-11-23 | 2023-06-20 |
 | [Hear the Distant Waves](https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH) | [Ocean Sounds FX](https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK) | [Summer Ocean Waves](https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF) | 2:15 | 2022-11-23 |  |
 | [Heavy Ocean Waves](https://open.spotify.com/track/0AX42EvX4TiCnlEOf2Vm5G) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 1:59 | 2022-11-23 | 2023-06-20 |
@@ -63,6 +63,7 @@
 | [Stormy Beach Waves](https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:10 | 2022-11-23 |  |
 | [Stormy Ocean](https://open.spotify.com/track/6gViURBimCpiLxGRo2afuG) | [Sounds of Nature Noise](https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC) | [Soft Waves](https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx) | 1:50 | 2022-11-23 | 2023-06-20 |
 | [Stormy Ocean Sounds](https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:17 | 2022-11-23 |  |
+| [Stormy Waves](https://open.spotify.com/track/66O9NZF24EBcnE60E5FDCU) | [Sounds From Nature](https://open.spotify.com/artist/18tl5fHMk7CTQ7olpWVhO9) | [Gale Waves](https://open.spotify.com/album/1Xw88FSrpv0U6yOdiWMRi0) | 3:04 | 2023-06-19 |  |
 | [Stormy Waves](https://open.spotify.com/track/4v72wZUSK1njS9GD6grIpw) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:25 | 2022-11-23 |  |
 | [Summer Ocean Waves](https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76) | [Hello Soundz](https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT) | [Summer Ocean Waves](https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT) | 2:45 | 2022-11-23 |  |
 | [The Mighty Ocean \- Seamless](https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2) | [Sea Kelp](https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh) | [The Mighty Ocean](https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ) | 3:33 | 2022-11-23 |  |

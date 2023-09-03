@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,501 likes - 111 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,512 likes - 111 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 75 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
 | 76 | [PAY PER VIEW \(feat\. Luciano, Murda & K\-Trap\)](https://open.spotify.com/track/3PqybhlwkLebhuQpAnTdmL) | [DJ JEEZY](https://open.spotify.com/artist/6Ql5ZUhTCAn62skkbRJWCq), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [PAY PER VIEW \(feat\. Luciano, Murda & K\-Trap\)](https://open.spotify.com/album/6dc7nDuZ7996UGqsG4knwC) | 2:55 |
 | 77 | [Fritt fall](https://open.spotify.com/track/30uxF5BLkphFkqQXsBsB4o) | [Organismen](https://open.spotify.com/artist/3emB29NMQgg857lVCa241t) | [Fritt fall](https://open.spotify.com/album/2OZwQJOXsBklZkNHmztjRU) | 2:14 |
-| 78 | [Colors](https://open.spotify.com/track/1tJZQpTt0qyjy2wb4Yx2kG) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Colors](https://open.spotify.com/album/6SgmRJPjRayvF9q8IpD0PQ) | 2:55 |
+| 78 | [Colors](https://open.spotify.com/track/1tJZQpTt0qyjy2wb4Yx2kG) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [Giselle](https://open.spotify.com/artist/4DrxQj1o522Xy5X0FCB7ni) | [Colors](https://open.spotify.com/album/6SgmRJPjRayvF9q8IpD0PQ) | 2:55 |
 | 79 | [I Wonder](https://open.spotify.com/track/1Df6BMJsbQsDfYbXfNyAGs) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [I Wonder](https://open.spotify.com/album/1oxJRzA76ZygILsbVwzJPO) | 2:34 |
 | 80 | [Daydream](https://open.spotify.com/track/4ShHdg2TSGeIKJU0v34Cl2) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Daydream](https://open.spotify.com/album/6icCppqsCxLn4px5S8juE3) | 3:27 |
 | 81 | [When You're Gone I'll Be Gone](https://open.spotify.com/track/4ER2UnzVHyktY0Oy0YEAiN) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [When You're Gone I'll Be Gone](https://open.spotify.com/album/54Db7gWp4tCkn9JImETcgQ) | 4:37 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 110 | [SANTORINO](https://open.spotify.com/track/55lldyF2SzvQpwsDew6iyN) | [ESANO](https://open.spotify.com/artist/2j47alGZiq1sg68mgJiuj4), [DOUBLE S](https://open.spotify.com/artist/4i54rx8DVVsckyh6O9C0qm) | [SANTORINO](https://open.spotify.com/album/7uTzNnbo7q4HunT05316Fp) | 2:53 |
 | 111 | [Hero To Zero](https://open.spotify.com/track/4uAFGHTxeWjvmCrIwfLSgT) | [Bonafide](https://open.spotify.com/artist/3Gtok2fWD0FxgheDPYZ6Mw) | [Hero To Zero](https://open.spotify.com/album/5tvSjofxRtqJEp3BGQUjY4) | 3:34 |
 
-Snapshot ID: `MCwzMjQwZjBjNDVkNjZiZWM0MTVjZDk1ZGRhNzZiN2RlZDgxYjU1YWYx`
+Snapshot ID: `MCwyMGNkMjIwZjhiNjZmYjU2YzNmYjg4NzM1MzE1NDM5ZTM0OThhZDU5`

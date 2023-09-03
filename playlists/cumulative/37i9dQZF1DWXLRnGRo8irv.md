@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: OH MY GIRL\(오마이걸\)\)
 
-940 songs - 2 day 6 hr 19 min
+941 songs - 2 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -914,7 +914,7 @@
 | [Your Text Message \(feat\. Ruvin\)](https://open.spotify.com/track/20kWKDj8Zy8MHowVqyUplI) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo), [Ruvin](https://open.spotify.com/artist/5MpgRYEtybyUftBC8vPhga) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2i5BRGgZKUzUyyUfSnzmGi) | 3:41 | 2022-10-04 | 2022-11-11 |
 | [Your Universe](https://open.spotify.com/track/38XpBoep7OJK27CsI5PysO) | [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [Asgard : Your Universe \(Original Game Soundtrack\)](https://open.spotify.com/album/2BseKeLpdOSUAp2PXu7yGH) | 3:14 | 2023-01-31 | 2023-03-01 |
 | [Your World](https://open.spotify.com/track/2oLQfExGD3fam3lANWTCPE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [Your World](https://open.spotify.com/album/57L760kQZK846gp23axhCY) | 3:07 | 2022-08-02 | 2022-09-07 |
-| [Youth \(Prod\. PARKMOONCHI\)](https://open.spotify.com/track/2xnxOKwOW7xslbM6RrFj69) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [Youth](https://open.spotify.com/album/23RdCGWSBzuXlpJNrYwyad) | 4:10 | 2023-08-03 |  |
+| [Youth \(Prod\. PARKMOONCHI\)](https://open.spotify.com/track/2xnxOKwOW7xslbM6RrFj69) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [Youth](https://open.spotify.com/album/23RdCGWSBzuXlpJNrYwyad) | 4:10 | 2023-08-03 | 2023-09-03 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-04 | 2023-05-03 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-04 | 2022-08-03 |
 | [zZ\(Tired\) \(With Yebit\)](https://open.spotify.com/track/18UZECrGyokO4pevw7dh4r) | [유성윤](https://open.spotify.com/artist/3IjLcqswR7fy61qEyvWssW), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/0jbRf93DOc5iQEI4UY7pze) | 3:47 | 2022-10-04 | 2022-11-11 |
@@ -937,6 +937,7 @@
 | [사랑은 창밖에 빗물 같아요](https://open.spotify.com/track/1R0QnFmQTeZKJ1uzq7yFF0) | [앤씨아](https://open.spotify.com/artist/3QHluHKvtDhfSImi2mHmUC) | [사랑은 창밖에 빗물 같아요](https://open.spotify.com/album/0gCjmsBI8PjSl1w3nxTKvq) | 3:09 | 2022-08-02 | 2022-09-07 |
 | [사랑을 알게 해주는 너](https://open.spotify.com/track/6gGDtuzP69eYTIek33nQtN) | [Woo Yi Kyung](https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY) | [사랑을 알게 해주는 너](https://open.spotify.com/album/4XkuX2msqeOSWeilOMuj7C) | 3:02 | 2023-01-31 | 2023-03-01 |
 | [사소한 이야기 A Trivial Story](https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [아무도 모르게 Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 3:32 | 2023-07-04 | 2023-08-04 |
+| [소년소녀 \(Prod\. 박문치\) Youth \(Prod\. PARKMOONCHI\)](https://open.spotify.com/track/60e9A6HuYFUlJlE2Aa27D5) | [Susan 수잔](https://open.spotify.com/artist/5sANAw6WVHJeOdUMJeAj3q) | [소년소녀 Youth](https://open.spotify.com/album/1RgqMSEw7DqI8njfRLGWXe) | 4:10 | 2023-08-03 |  |
 | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/album/6E7urCzpXOlGAu71563txg) | 4:24 | 2023-04-04 | 2023-05-03 |
 | [왜 우리가 점점 멀어지나요](https://open.spotify.com/track/1OuMnAEqJmujh23kpnoNJR) | [mim](https://open.spotify.com/artist/3TESIy6ohhkYeoyT6od4us) | [왜 우리가 점점 멀어지나요](https://open.spotify.com/album/3Q1X0u5sSa6b8O4LZm0Y2x) | 3:21 | 2022-02-01 | 2022-03-08 |
 | [우리우리 겨울](https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [나무에 물방울 머금고](https://open.spotify.com/album/36bDnq3WeM8ORGUSUPyDtd) | 3:50 | 2022-09-06 | 2022-10-05 |

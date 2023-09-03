@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Queen Naija
 
-510 songs - 1 day 3 hr 14 min
+511 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,8 @@
 | [Too Many Times \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/22UqpytngbjYrHj5oIaaDL) | [Sainvil](https://open.spotify.com/artist/1nv9STc3b4snPq4Zcm1I4n), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [They're All Goblins](https://open.spotify.com/album/2lDZvKbZQAd737jJMbQgxx) | 3:44 | 2021-12-17 | 2022-03-26 |
 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-05-13 | 2022-07-23 |
 | [Touchin’](https://open.spotify.com/track/0EQbPoOAtAqlfzL30WLRA8) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’](https://open.spotify.com/album/1oxUQAmnfZI56Ztsxo8Lky) | 3:13 | 2023-04-14 | 2023-08-05 |
-| [Touchin’](https://open.spotify.com/track/5R9BiGgE7oNfIIKwbbuYgz) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [3 Words, 8 Letters](https://open.spotify.com/album/5tFzkSSvccurLq2MFFQDvz) | 3:13 | 2023-04-14 |  |
+| [Touchin’](https://open.spotify.com/track/2xxgSzxhFYweGUvaN9owRK) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/3G304O4FYuE36fkyuamCSi) | 3:13 | 2023-04-14 |  |
+| [Touchin’](https://open.spotify.com/track/5R9BiGgE7oNfIIKwbbuYgz) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [3 Words, 8 Letters](https://open.spotify.com/album/5tFzkSSvccurLq2MFFQDvz) | 3:13 | 2023-04-14 | 2023-09-03 |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-05-06 | 2022-05-20 |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-04-22 | 2022-06-25 |
 | [Trouble](https://open.spotify.com/track/0vnfEjGbBLa9uvzBuxWlaq) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Trouble](https://open.spotify.com/album/41Mhl0oqQf6RlFohC4gjZV) | 3:15 | 2023-06-09 | 2023-08-05 |

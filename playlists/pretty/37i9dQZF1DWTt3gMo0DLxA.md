@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover \- Rules Ranjan
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,235 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,315 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 2 | [Na Roja Nuvve \(From "Kushi"\)](https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Na Roja Nuvve \(From "Kushi"\) \- Single](https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS) | 4:02 |
 | 3 | [Andhamyna Bhamalu](https://open.spotify.com/track/1JJjHoFLuQQKddOzD8pYsS) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Manmadhudu](https://open.spotify.com/album/2aNP8WRBq1cUgP4hvblCVa) | 4:18 |
 | 4 | [Hukum \(From "Jailer"\)](https://open.spotify.com/track/1VhFZ2cCflcwp74w5Vzv7y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM), [Bhaskarabhatla Ravi Kumar](https://open.spotify.com/artist/6JyljSrn40SaA7h6wwQSip) | [Hukum \(From "Jailer"\)](https://open.spotify.com/album/72CICJmh1qsqSPbU4xA7Le) | 3:27 |
-| 5 | [Aradhya](https://open.spotify.com/track/6lasSS71iXy8IVGpcmmIEy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Kushi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vXKYGRf5LOBEMGRqxCTY7) | 4:42 |
+| 5 | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo) | 4:42 |
 | 6 | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT) | 5:14 |
 | 7 | [Nijame Ne Chebutunna](https://open.spotify.com/track/37KgM3qNYvDdMC9m6IvBOf) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Ooru Peru Bhairavakona](https://open.spotify.com/album/6a287rBCL3c5YmfQ9JiQkB) | 3:34 |
 | 8 | [Kushi Title Song \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/track/3Trl1pPBlTQfzWvHDlTvfR) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kushi Title Song \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/6FJ7RPoVzmPFp4QN6pGONQ) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 50 | [Evare Nuvvu](https://open.spotify.com/track/7m64tTau2Rh6hzVDA1oV6K) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Rajubhai](https://open.spotify.com/album/7IeNvR1LQ1Z8sWM8KaAB2O) | 4:10 |
 
-Snapshot ID: `MCw3OTc3YzAxNzc0NjUzYTk2YjM1MDJkN2YyMzVlYzU2ZTc1NDEyMGJm`
+Snapshot ID: `MCw2OWFmMjhhYzEyNDc1ZTFiNTM1YmJlMzg3Y2NmZjkzZDExMDBhNzNj`

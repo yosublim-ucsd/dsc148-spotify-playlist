@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=A5mc71RFRBysDrajiP0\_Pw">Lloyiso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,215 likes - 58 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,272 likes - 58 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 45 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 |
 | 46 | [Konke](https://open.spotify.com/track/5UW2g6g2yts3bblJBoLbya) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [Konke](https://open.spotify.com/album/443uREi4EtPJTxpKgGJVG4) | 4:30 |
 | 47 | [Best We Can](https://open.spotify.com/track/6Erm0FrDOHCE4oXru9jpyl) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Best We Can](https://open.spotify.com/album/27K8fhjjRtGrUPuPsIenCt) | 3:38 |
-| 48 | [Like That](https://open.spotify.com/track/4TEnuZ4WfTs0tShp7fNYf0) | [Malachi](https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Pillow Talk](https://open.spotify.com/album/4hlGB7lWS8cYFWZIhPiAVt) | 6:02 |
+| 48 | [Like That](https://open.spotify.com/track/4TEnuZ4WfTs0tShp7fNYf0) | [Malachi](https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym) | [Pillow Talk](https://open.spotify.com/album/4hlGB7lWS8cYFWZIhPiAVt) | 6:02 |
 | 49 | [Missing You](https://open.spotify.com/track/19RnQ0yGewlxyIne5QjxIM) | [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og) | [Minister of Enjoyment](https://open.spotify.com/album/0eifb0LBjrROQikCP1WruM) | 2:37 |
 | 50 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 |
 | 51 | [Something 'bout September](https://open.spotify.com/track/6yPbs1sMFlmI4cAd2gXiDm) | [Cailyn Shelby](https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N) | [Something 'bout September](https://open.spotify.com/album/7ku0cXSwYtRepMwGT4NJxV) | 3:21 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 57 | [It's You](https://open.spotify.com/track/1Lvniduwuk2kVWtcTBAypq) | [Liam Burger](https://open.spotify.com/artist/3JsjTWQhgrDRI1HPAG1lbZ) | [It's You](https://open.spotify.com/album/6eQKQdyr0WPuLZ9TzTHqJT) | 3:13 |
 | 58 | [My Own Accord](https://open.spotify.com/track/4LljozlQfsmFsIj8EJPpBi) | [Derónshay](https://open.spotify.com/artist/2rIPVjV2J92G2iwJR7jjNY) | [My Own Accord](https://open.spotify.com/album/4fLYghi1U2Q4WOWHPAIYfK) | 3:47 |
 
-Snapshot ID: `MCw2YTM2NTZiZGMyOTNhYzUzYzQ1Mjg3NTA1NmRmZDVjMjBmYmNjYTgx`
+Snapshot ID: `MCxjZmNmZjczYzEyYzRiOTUzNjIzZTliODg3YzJjMjk2YTNkMWQ1NmM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,260 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,330 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 62 | [I Go](https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D) | [WILLO](https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N) | [Eternal Jetlag](https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk) | 3:56 |
 | 63 | [Breathe My Name](https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx) | 2:55 |
 | 64 | [Weeping Mary](https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Hope Where There Was None](https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5) | 3:16 |
-| 65 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 |
-| 66 | [The Invitation](https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:28 |
+| 65 | [The Invitation](https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:28 |
+| 66 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 |
 | 67 | [Lord Have Mercy](https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [The Universal Christ](https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t) | 3:51 |
-| 68 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 |
+| 68 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 |
 | 69 | [Celeste](https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv) | [Kye Kye](https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ) | [Fantasize](https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3) | 3:44 |
-| 70 | [playing pretend](https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [playing pretend](https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ) | 3:56 |
-| 71 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 |
-| 72 | [Peace](https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh) | [Radiant City Music](https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk), [Devin Strasser](https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI) | [Peace](https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep) | 5:38 |
-| 73 | [Every Mountain View](https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh) | [Carinthia](https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU) | [Fields](https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s) | 6:51 |
-| 74 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 |
+| 70 | [Peace](https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh) | [Radiant City Music](https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk), [Devin Strasser](https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI) | [Peace](https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep) | 5:38 |
+| 71 | [playing pretend](https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [playing pretend](https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ) | 3:56 |
+| 72 | [Pomegranates](https://open.spotify.com/track/26p4guqZWBNsBSLTifE1Dy) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Phone to Logos](https://open.spotify.com/album/3wowrmigbeUtUDfV2TociG) | 7:27 |
+| 73 | [Fireflies](https://open.spotify.com/track/66BhbODw8yjztQlBkBZJur) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Fireflies](https://open.spotify.com/album/62ny7DQoGyrutzOk3etAO4) | 3:57 |
+| 74 | [Every Mountain View](https://open.spotify.com/track/0QRGDEAWr8NtuUMKRpDzMh) | [Carinthia](https://open.spotify.com/artist/5EeqUStk4qDhsJk5RY2AQU) | [Fields](https://open.spotify.com/album/3i6D6F3708zUuNSA3zrf8s) | 6:51 |
 | 75 | [The Promise](https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [The Promise](https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF) | 5:52 |
 | 76 | [Abba \- Live](https://open.spotify.com/track/17swOWJbUAYfm9gNXicbHV) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Worship Initiative, Vol\. 28 \(Live\)](https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0) | 6:31 |
 | 77 | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb) | [NIRVA](https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U), [Jimmy James](https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D) | [Freedom Fighter \(Jimmy James Remix\)](https://open.spotify.com/album/0JmfJGFs74Q3FH8pLH7vtb) | 3:30 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 85 | [A Dream Familiar](https://open.spotify.com/track/0yFZ87wdLgoe0EtIh0BlgD) | [Daniel Jorgensen](https://open.spotify.com/artist/7ICe7sy78x2x8RhIfjj6kJ) | [A Search for Somewhere Else](https://open.spotify.com/album/0yqsLV1ezlAjFwXmvZ5tHs) | 2:32 |
 | 86 | [Glorious Ruins](https://open.spotify.com/track/5U6ey8MfRRsMCifjIvkDP6) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Glorious Ruins](https://open.spotify.com/album/1rHcAXo4GdSh6A4C90rFJ7) | 4:05 |
 | 87 | [Wonder](https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:30 |
-| 88 | [Undress My Heart](https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Undress My Heart](https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo) | 3:45 |
-| 89 | [Reverie](https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa) | [In Cathedrals](https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n) | [Reverie](https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1) | 4:12 |
+| 88 | [Reverie](https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa) | [In Cathedrals](https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n) | [Reverie](https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1) | 4:12 |
+| 89 | [Undress My Heart](https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Undress My Heart](https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo) | 3:45 |
 | 90 | [Suddenly](https://open.spotify.com/track/5hcTf54Yvz9DKpshg3DGnL) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Suddenly \- EP](https://open.spotify.com/album/34CL0SBwvESZpXED6Xy3vN) | 4:49 |
 | 91 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
 | 92 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 99 | [Water Position](https://open.spotify.com/track/0xewZVFTSDqOri45S4MuSq) | [Hybrid Leisureland](https://open.spotify.com/artist/2BKGxQhaUFgd8xAIkd5yb4) | [Keeping track of the human race](https://open.spotify.com/album/5hX85Wm3Ul9fZOZGxNRntt) | 6:03 |
 | 100 | [Psalm 108](https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 108](https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA) | 4:37 |
 
-Snapshot ID: `MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy`
+Snapshot ID: `MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2`

@@ -4,7 +4,7 @@
 
 > Playlist oficial da série "De Volta aos 15" estrelando Maisa e Camila Queiroz\. Só na Netflix.
 
-68 songs - 4 hr 15 min
+69 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Better Man](https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 4:28 | 2022-05-20 |  |
 | [Bizarre Love Triangle \- 2014 Remaster](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album \- 21st Anniversary Edition](https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ) | 1:59 | 2022-05-20 |  |
 | [Carla](https://open.spotify.com/track/79f21uRzn79zWCxrsF17hj) | [Ls Jack](https://open.spotify.com/artist/7xuzwG9aC7R0ftU6OSs6pX) | [V.I.B.E.](https://open.spotify.com/album/0dUTLlo7mTukUVVUry5wkJ) | 4:08 | 2022-05-20 |  |
-| [Cedo Ou Tarde](https://open.spotify.com/track/24vGY15CbB5vYtUEhirsGm) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock 2000](https://open.spotify.com/album/3dKw5eWf7K6DEvplfjWQzd) | 3:13 | 2022-05-20 |  |
+| [Cedo Ou Tarde](https://open.spotify.com/track/24vGY15CbB5vYtUEhirsGm) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock 2000](https://open.spotify.com/album/3dKw5eWf7K6DEvplfjWQzd) | 3:13 | 2022-05-20 | 2023-09-03 |
+| [Cedo Ou Tarde](https://open.spotify.com/track/4chg7pMn6KWQSqisDBuOSn) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:13 | 2022-05-20 |  |
 | [Deixa Disso](https://open.spotify.com/track/35maQwTqpvsiKaNbC6o0sE) | [Felipe Dylon](https://open.spotify.com/artist/2sohJaAXhL0jr1SiMuzBDd) | [Felipe Dylon](https://open.spotify.com/album/41dBnb3mhyp51ObwgaA4bv) | 3:00 | 2022-05-20 |  |
 | [Desperdiçou](https://open.spotify.com/track/1XNk2F3y4Nlc4NpjSI22HG) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Identidade](https://open.spotify.com/album/0AVmpqYcziFDCe6HV0gQiR) | 3:14 | 2022-05-20 |  |
 | [Dias De Luta, Dias De Gloria](https://open.spotify.com/track/006pMMCuRo2TFjh8sNGSov) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Imunidade Musical](https://open.spotify.com/album/1l8K5fgYz4J0ZZyjMVd6Q1) | 2:25 | 2022-05-20 |  |

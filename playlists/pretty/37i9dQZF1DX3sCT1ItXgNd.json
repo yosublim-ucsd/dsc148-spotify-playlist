@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo, DELLAFUENTE",
-  "num_followers": 990603,
+  "num_followers": 990753,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzEyOTcyZjQ0NWQ1ODQ3NzBhODgyZmNlNWU4ZThlYzBjYzU3ZTU2",
+  "snapshot_id": "MCw3NGExYzExYzRhNjg0ZDQ3NzRkMWNjODFiNTAwNzFjMjYxNThmMDg0",
   "tracks": [
     {
       "added_at": "2023-08-31 22:01:00",
@@ -201,7 +201,7 @@
         },
         {
           "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+          "url": "https://open.spotify.com/artist/4k5tokcNyKY0XLeEQGyJeT"
         },
         {
           "name": "FMK",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Mil Laberintos",
-        "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
-      },
-      "artists": [
-        {
-          "name": "Ters",
-          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Mil Laberintos",
-      "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
         "url": "https://open.spotify.com/album/0bM0pHTfKHh5BcNpxcvuFw"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 170600,
       "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
       "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Mil Laberintos",
+        "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
+      },
+      "artists": [
+        {
+          "name": "Ters",
+          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Mil Laberintos",
+      "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Canci\u00f3n de pop",
-        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 139876,
-      "name": "Canci\u00f3n de pop",
-      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Beber x Beber",
         "url": "https://open.spotify.com/album/3gpvzrGqLxk788DWga2Mhi"
       },
@@ -1027,6 +1011,62 @@
       "duration_ms": 144225,
       "name": "Beber x Beber",
       "url": "https://open.spotify.com/track/0cUIUxrjsw8PtfBk1SJ8jE"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Canci\u00f3n de pop",
+        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 139876,
+      "name": "Canci\u00f3n de pop",
+      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+      },
+      "artists": [
+        {
+          "name": "ZABDIEL",
+          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 193059,
+      "name": "AVENTURA",
+      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1067,22 +1107,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "AVENTURA",
-        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
       },
       "artists": [
         {
-          "name": "ZABDIEL",
-          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         },
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 193059,
-      "name": "AVENTURA",
-      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+      "duration_ms": 162816,
+      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
+      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1099,6 +1139,26 @@
       "duration_ms": 201206,
       "name": "MI BANDERA",
       "url": "https://open.spotify.com/track/2FofLDb6Agbl5pgpjC3WSc"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Un Rato pa Siempre",
+        "url": "https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        }
+      ],
+      "duration_ms": 163505,
+      "name": "Un Rato pa Siempre",
+      "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1151,26 +1211,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Un Rato pa Siempre",
-        "url": "https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        }
-      ],
-      "duration_ms": 163505,
-      "name": "Un Rato pa Siempre",
-      "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "XAO",
         "url": "https://open.spotify.com/album/5u0qlJa00HJSPgfTXgDmp7"
       },
@@ -1199,66 +1239,6 @@
       "duration_ms": 179542,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/3joDSTDSPrKoEB1TxCFDHv"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Si Supieran",
-        "url": "https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW"
-      },
-      "artists": [
-        {
-          "name": "Serko",
-          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
-        },
-        {
-          "name": "Dilas",
-          "url": "https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4"
-        }
-      ],
-      "duration_ms": 220881,
-      "name": "Si Supieran",
-      "url": "https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "Si te encuentras con mi ex",
-        "url": "https://open.spotify.com/album/0ytDuIgu1Z8iOLhE6RSmYe"
-      },
-      "artists": [
-        {
-          "name": "Chris Viz",
-          "url": "https://open.spotify.com/artist/40jZHpxIT7SOkZF9YrxGYq"
-        },
-        {
-          "name": "DjGlass El Internacional",
-          "url": "https://open.spotify.com/artist/7uzzUWT8M4j5L8vTuiihRO"
-        }
-      ],
-      "duration_ms": 177433,
-      "name": "Si te encuentras con mi Ex",
-      "url": "https://open.spotify.com/track/0lH1Hpd5lbYqLVYOMrCeEE"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
-        "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
-        "url": "https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 162816,
-      "name": "\ud83e\udd8b MARIPOSAS \ud83e\udd8b",
-      "url": "https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1307,6 +1287,26 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Si Supieran",
+        "url": "https://open.spotify.com/album/0T8lt5lLQi5bB9s7yLQiFW"
+      },
+      "artists": [
+        {
+          "name": "Serko",
+          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
+        },
+        {
+          "name": "Dilas",
+          "url": "https://open.spotify.com/artist/28UGYcxxUBg3GeQdTvi5t4"
+        }
+      ],
+      "duration_ms": 220881,
+      "name": "Si Supieran",
+      "url": "https://open.spotify.com/track/0wpMKiXORO28u3C439Qj5C"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Mentiiira",
         "url": "https://open.spotify.com/album/0H7P5EiyRcRalskbMv1Vw1"
       },
@@ -1327,22 +1327,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+        "name": "Si te encuentras con mi ex",
+        "url": "https://open.spotify.com/album/0ytDuIgu1Z8iOLhE6RSmYe"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Chris Viz",
+          "url": "https://open.spotify.com/artist/40jZHpxIT7SOkZF9YrxGYq"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "DjGlass El Internacional",
+          "url": "https://open.spotify.com/artist/7uzzUWT8M4j5L8vTuiihRO"
         }
       ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+      "duration_ms": 177433,
+      "name": "Si te encuentras con mi Ex",
+      "url": "https://open.spotify.com/track/0lH1Hpd5lbYqLVYOMrCeEE"
     }
   ],
   "unique_name": "Pop con \u00d1",

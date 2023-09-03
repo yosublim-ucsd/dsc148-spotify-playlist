@@ -12224,7 +12224,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148085,
-      "name": "Cuidare De Ti",
+      "name": "Cuidar\u00e9 De Ti",
       "url": "https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX"
     },
     {
@@ -17203,7 +17203,7 @@
     },
     {
       "album": {
-        "name": "Elevarte Caer (feat. Repion)",
+        "name": "Elevarte Caer",
         "url": "https://open.spotify.com/album/6KER7OazGSboZWMKkXERXc"
       },
       "artists": [
@@ -17220,7 +17220,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258642,
-      "name": "Elevarte Caer (feat. Repion)",
+      "name": "Elevarte Caer",
       "url": "https://open.spotify.com/track/2Qkjg5aGBQl9PFdl6dxNRv"
     },
     {
@@ -54915,7 +54915,7 @@
     },
     {
       "album": {
-        "name": "Y SI NO SOY YO (feat. Gabriel de la Rosa)",
+        "name": "Y SI NO SOY YO (feat. Gabriel de la Rosa, Shinova)",
         "url": "https://open.spotify.com/album/4f4fG0nuedXodaN5m0gUFa"
       },
       "artists": [
@@ -54926,13 +54926,17 @@
         {
           "name": "Gabriel De La Rosa",
           "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
         }
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172706,
-      "name": "Y SI NO SOY YO (feat. Gabriel de la Rosa)",
+      "name": "Y SI NO SOY YO (feat. Gabriel de la Rosa, Shinova)",
       "url": "https://open.spotify.com/track/7fZ69MUMb7kDKGoJbOJ8vT"
     },
     {

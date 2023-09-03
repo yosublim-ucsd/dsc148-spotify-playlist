@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: The Paper Kites
 
-1,443 songs - 3 day 16 hr 21 min
+1,444 songs - 3 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [Come on Come On](https://open.spotify.com/track/2uqtyi6mt0f4qvfywrh97v) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Come on Come On](https://open.spotify.com/album/4Q0w0p22RxSYBD8FQ1elTe) | 2:44 | 2023-05-05 | 2023-06-17 |
 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 | 2023-06-09 | 2023-07-29 |
 | [Comes In Waves](https://open.spotify.com/track/4tP7SjS89hevcazxmqshtm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Misadventures Of Doomscroller](https://open.spotify.com/album/24FkcvXRLoG17447domdkg) | 5:30 | 2022-07-22 | 2022-09-17 |
-| [Coming Down On Me](https://open.spotify.com/track/4e6kQ0UAoc9VC44sO1bft6) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Dear Departed](https://open.spotify.com/album/7bxQNgugE8yuO9483R3zrz) | 3:01 | 2023-07-14 |  |
+| [Coming Down On Me](https://open.spotify.com/track/1adtRGleBoUUbdzq0m55gq) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Dear Departed](https://open.spotify.com/album/3qfkgLpdFXE7n44ysK6P64) | 3:01 | 2023-09-01 |  |
+| [Coming Down On Me](https://open.spotify.com/track/4e6kQ0UAoc9VC44sO1bft6) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Dear Departed](https://open.spotify.com/album/7bxQNgugE8yuO9483R3zrz) | 3:01 | 2023-07-14 | 2023-09-03 |
 | [Coming Home](https://open.spotify.com/track/2C3gh14oarzTtv3aY3HJ0m) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Coming Home: A Collection of Songs](https://open.spotify.com/album/6fuKDHZ9UfLmssjdRTjPfz) | 2:26 | 2022-01-14 | 2022-04-16 |
 | [Coming Home to You](https://open.spotify.com/track/6Hqq9doVDaNxEKFnz2KTTP) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Coming Home to You](https://open.spotify.com/album/2B7iIlJyxdmN37N7vYwMxx) | 3:12 | 2023-05-19 | 2023-08-05 |
 | [Coming Like A Storm](https://open.spotify.com/track/21ZZoNpWAzqYgiTJdAZ23X) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Coming Like A Storm](https://open.spotify.com/album/6EzioNrB5s89cA1CSYao1i) | 3:21 | 2022-06-10 | 2022-08-13 |

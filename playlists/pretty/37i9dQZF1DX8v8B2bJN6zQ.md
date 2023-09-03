@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 
 > Música eletrônica para aquele treino de peso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,424 likes - 65 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,458 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8v8B2bJN6zQ.md) - [plain]
 | 57 | [Smoke](https://open.spotify.com/track/0O39si7MdD998p8y5R45ty) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Smoke](https://open.spotify.com/album/5fD0u1OUEvZmX3C5TCICPl) | 3:15 |
 | 58 | [Push The Feeling On](https://open.spotify.com/track/7MRzjgoS72BNFT2pcToJGJ) | [Brannco](https://open.spotify.com/artist/27TqtA3DJFLCXv7o8h0GgL), [Maya Days](https://open.spotify.com/artist/23lYDtdMB31cbu5g4z0wju) | [Push The Feeling On](https://open.spotify.com/album/4lzJoouKOsWxhpY3pJkNJG) | 2:38 |
 | 59 | [Make You](https://open.spotify.com/track/4d2SccLvVXfRqghqBF37qM) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx), [Lowez](https://open.spotify.com/artist/0IPHMD0lKVQPmMdGjfWTwb) | [Make You](https://open.spotify.com/album/2PEKoE2Irzy2YrOaSEBSf6) | 3:10 |
-| 60 | [Yakuza](https://open.spotify.com/track/2v8UL40Ar3MlaPrdz81PDs) | [YZY](https://open.spotify.com/artist/4kbQi1dGkZxrgEQxwTzQzf) | [Yakuza](https://open.spotify.com/album/5DBTlrLRsXyd8XtBRMyXZw) | 2:24 |
+| 60 | [Yakuza](https://open.spotify.com/track/64CQmRKekdMxt1JEpvglHT) | [YZY](https://open.spotify.com/artist/4kbQi1dGkZxrgEQxwTzQzf) | [Yakuza](https://open.spotify.com/album/0MJA5ttkLmoGnAnjXUcYI2) | 2:24 |
 | 61 | [It's Timeless](https://open.spotify.com/track/5UlfTNsoAuoD6umqHx0vR2) | [FeelGood](https://open.spotify.com/artist/7mXyW5kPIUrSRGkV0I9Ilo) | [It's Timeless](https://open.spotify.com/album/5KqCj0gqurgjtTFHVGZPxr) | 3:19 |
 | 62 | [Lost Cowboys](https://open.spotify.com/track/3W09VqxOJ4CcClolPt8kcQ) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Lost Cowboys](https://open.spotify.com/album/6dhN2wvlW1B9ajT25F6A0i) | 3:23 |
 | 63 | [Sushi](https://open.spotify.com/track/7s724tfxJWoNxPUcLQBlkI) | [Hrag Beko](https://open.spotify.com/artist/5QuB05RhOsw0gPMb0m3Zwc) | [Sushi](https://open.spotify.com/album/1SBEvoyZQbFqKecMC88zpw) | 4:44 |
 | 64 | [Who Knows](https://open.spotify.com/track/6kLwtwP6LFgkT5AuH6Ke8v) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT) | [Who Knows](https://open.spotify.com/album/2aHDpFLOosTIylUlwg7Uft) | 3:16 |
 | 65 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 |
 
-Snapshot ID: `MCwwM2JhMjYwZjAzYmIyOGIwZjUzOWE3NjM5OWZiNzQxYjUwMjA3MDAy`
+Snapshot ID: `MCxjYWQyZWI2MDY5YTI2NzNlOWU3NWIyZjU5NGU4ZDQ1NzU0NzJmYzUy`

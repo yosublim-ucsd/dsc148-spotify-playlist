@@ -3565,6 +3565,28 @@
     },
     {
       "album": {
+        "name": "Tel Aviv (Lvst Remix)",
+        "url": "https://open.spotify.com/album/34ODEhPO5R9WWY64OjhDAq"
+      },
+      "artists": [
+        {
+          "name": "Skeler",
+          "url": "https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB"
+        },
+        {
+          "name": "Lvst",
+          "url": "https://open.spotify.com/artist/37tqE9Ue451lRMSdcy8BA5"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "Tel Aviv (Lvst Remix)",
+      "url": "https://open.spotify.com/track/3LFAHDElPcGRmRoQBSnqGF"
+    },
+    {
+      "album": {
         "name": "The Colour",
         "url": "https://open.spotify.com/album/4QGWNvtGBjBkLoQN0rT7gh"
       },

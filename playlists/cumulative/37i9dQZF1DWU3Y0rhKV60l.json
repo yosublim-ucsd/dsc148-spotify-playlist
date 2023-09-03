@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 122000,
       "name": "Fury of the waves",
       "url": "https://open.spotify.com/track/1UgfZYJL9nhgR0TCUqgiNB"
@@ -992,6 +992,24 @@
       "duration_ms": 137795,
       "name": "Stormy Ocean Sounds",
       "url": "https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q"
+    },
+    {
+      "album": {
+        "name": "Gale Waves",
+        "url": "https://open.spotify.com/album/1Xw88FSrpv0U6yOdiWMRi0"
+      },
+      "artists": [
+        {
+          "name": "Sounds From Nature",
+          "url": "https://open.spotify.com/artist/18tl5fHMk7CTQ7olpWVhO9"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184934,
+      "name": "Stormy Waves",
+      "url": "https://open.spotify.com/track/66O9NZF24EBcnE60E5FDCU"
     },
     {
       "album": {

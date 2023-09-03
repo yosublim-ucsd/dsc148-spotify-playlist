@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,604 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,610 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 57 | [350z](https://open.spotify.com/track/5UHtMcC3l8rzeMvLg9dVyK) | [shosha](https://open.spotify.com/artist/4BPCLD2Ke1qtp2iVVejmid) | [iodine ep](https://open.spotify.com/album/3dozR2mQNFJNuMbwd98PVH) | 2:22 |
 | 58 | [illusion](https://open.spotify.com/track/1zOONWhGNIZwri9jGof7bf) | [Glium](https://open.spotify.com/artist/7rkncBAfs3Tizo8ceB5FiJ), [Mijeua](https://open.spotify.com/artist/2WRw1ximJcspUBwaapmFhF), [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [illusion](https://open.spotify.com/album/1a0gTMLDzM2RL8AhUqltsk) | 2:39 |
 | 59 | [condensed milk](https://open.spotify.com/track/0d3mA5XzI5f6TroRFEC6bS) | [cyber milk chan](https://open.spotify.com/artist/1o7ZTFiwtNY4lB9p2q1pt1) | [condensed milk](https://open.spotify.com/album/0hqG71DuckW3GeDJ7YyZMP) | 2:35 |
-| 60 | [emotion](https://open.spotify.com/track/0uxG3qgAzoTqZkJDA8GGtH) | [aryy](https://open.spotify.com/artist/3qFuvYRmCGmwSaVLFFy2UX) | [emotion](https://open.spotify.com/album/5czQIskXGqIET6MgOzetrF) | 1:41 |
+| 60 | [emotion](https://open.spotify.com/track/0uxG3qgAzoTqZkJDA8GGtH) | [aryy](https://open.spotify.com/artist/4Zk5qOGzxR0iPsKTO63VRK) | [emotion](https://open.spotify.com/album/5czQIskXGqIET6MgOzetrF) | 1:41 |
 | 61 | [my wave](https://open.spotify.com/track/5zKUH46ZHeueGgSg65UYEm) | [EDWARD\(我\)](https://open.spotify.com/artist/7tlATmu4HQx6OYIBpCgwyh) | [my wave](https://open.spotify.com/album/4WEpHqcBvCoXOIhhnO39Kf) | 2:01 |
 | 62 | [Reminiscence](https://open.spotify.com/track/7JWazSApfjFetQSVQfCHIZ) | [Saint Vega](https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc), [Fog](https://open.spotify.com/artist/3bzlUSencwIXDlbxNdCydZ) | [Reminiscence](https://open.spotify.com/album/4Us0SMq2NG1irqzkqFOWyW) | 2:58 |
 | 63 | [Fantasista](https://open.spotify.com/track/0IsM86tumfAt99sp1UjfzV) | [Cartoon](https://open.spotify.com/artist/1orMjDUHnRdjdeKhVjylgT), [Yellock](https://open.spotify.com/artist/6hEGn84lFj6AdkpOwIMuIx), [Ryofu Karuma](https://open.spotify.com/artist/4YXWn3AKqmiHMai9dZWuWK) | [Fantasista](https://open.spotify.com/album/57Rb3KkEHtfcBUI39rSy15) | 3:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [Victorious](https://open.spotify.com/track/7xZSy1YRvAbhkKVDMJWI1W) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Victorious//Bullets](https://open.spotify.com/album/0ExGbjosILPh9lf3dCIM9z) | 2:24 |
 | 70 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 
-Snapshot ID: `MCxmYmVjM2IwNzc0YTk0MTMwNGVkNDAwYjkxMWYwYmE4ZTVhMDE2OWI1`
+Snapshot ID: `MCxhNzlmYWMzYjhhZDFiMDlkNmRhMjFiMzA2MmNmZTNlZTRlNWMzZjQ4`

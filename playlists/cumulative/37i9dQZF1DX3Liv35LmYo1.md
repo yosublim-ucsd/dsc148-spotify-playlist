@@ -4,7 +4,7 @@
 
 > Moody electronica for the night shift
 
-162 songs - 12 hr 53 min
+163 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cellular](https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s) | [DJOKO](https://open.spotify.com/artist/3fdC2UHP39tyWCUsHB6qlv), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Cellular](https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP) | 7:05 | 2023-03-02 | 2023-03-31 |
 | [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 | 2022-12-01 | 2023-02-10 |
 | [Change Your Mind](https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Change Your Mind](https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG) | 5:17 | 2023-03-16 |  |
-| [CIRCLES](https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [CIRCLES](https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD) | 4:34 | 2023-01-26 |  |
+| [CIRCLES](https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [CIRCLES](https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD) | 4:34 | 2023-01-26 | 2023-09-03 |
 | [Clavicle](https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:33 | 2022-12-01 |  |
 | [Closure \(feat\. Helena\)](https://open.spotify.com/track/5OJk2tukjyaiaFyJXtUQqf) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6), [Helena](https://open.spotify.com/artist/42pHOvO9x3ksAKvIaYlkSm) | [Closure \(feat\. Helena\)](https://open.spotify.com/album/2RN0VU7PsShLwJrzAkZ5wM) | 4:30 | 2022-12-01 | 2023-06-30 |
 | [Cmon](https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:20 | 2023-05-05 | 2023-08-11 |
@@ -99,6 +99,7 @@
 | [Justine](https://open.spotify.com/track/2saPzK0KELO2hH2vBLsZDV) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Justine](https://open.spotify.com/album/7s3RMMU2Bd7Bi239eze4Wt) | 3:39 | 2023-05-05 | 2023-06-30 |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-12-01 |  |
 | [Keep Shimmering](https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV) | 4:23 | 2022-12-01 | 2023-09-01 |
+| [Keep Shimmering](https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 4:23 | 2023-08-31 |  |
 | [Komodo](https://open.spotify.com/track/5OH67rxvZ9KHFInp9t4XjW) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Komodo / Flores](https://open.spotify.com/album/72sEoUBxoXL0SczjZzjNT3) | 4:21 | 2022-12-01 | 2023-03-25 |
 | [Leave Here](https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9) | 4:57 | 2023-02-09 |  |
 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-12-01 | 2023-02-02 |

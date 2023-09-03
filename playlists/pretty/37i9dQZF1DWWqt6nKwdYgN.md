@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Santa Fe Klan y Snow Tha Product en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,717 likes - 99 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,737 likes - 99 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 5 | [Medicina](https://open.spotify.com/track/0eW9OQZ26BBllHyIk202v4) | [Kush](https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Skubby.V](https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m), [Lil Chris](https://open.spotify.com/artist/4ArJB50WaaAs2wEZQ4PDQR) | [Medicina](https://open.spotify.com/album/3m3QiKV0Bfv5XaRJPfmqOZ) | 3:51 |
 | 6 | [Cada Quien](https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Cada Quien](https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH) | 3:04 |
 | 7 | [Desde el Centro de la Tierra](https://open.spotify.com/track/0ExBVWuSCUWFuaDmF8UerM) | [R de Nexo](https://open.spotify.com/artist/1g9yRvtG4oSy1NbfxO6Gwb), [Callao Cartel](https://open.spotify.com/artist/0FXfLCcmAxPjBlQS4jWzAY) | [Desde el Centro de la Tierra](https://open.spotify.com/album/4b8NCoVOcbaR1HEjvZ0zh7) | 3:40 |
-| 8 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 |
+| 8 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 |
 | 9 | [Pa Mis Loc@S](https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [Pa Mis Loc@S](https://open.spotify.com/album/2A7APHdcThRiDd6l5h27Pm) | 3:01 |
 | 10 | [El Orfanato](https://open.spotify.com/track/2qz8xEfDz2RARPMZdgk4FV) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [El Orfanato](https://open.spotify.com/album/7CtW9Y0W2Sxo8BX8GY5gxo) | 5:25 |
 | 11 | [En el Blanco](https://open.spotify.com/track/2QnLkjYSKtbzMzjYFXS5TJ) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [En el Blanco](https://open.spotify.com/album/7zmLyRyY7p5MgCLSltnc7n) | 3:18 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 98 | [No Cambio](https://open.spotify.com/track/5cF32ZWheUhlMgCGDAYcZC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [No Cambio](https://open.spotify.com/album/4yzxeUB4e227zOwfs0El0V) | 3:43 |
 | 99 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 |
 
-Snapshot ID: `MCwzZTVjNjdkN2E4MzEzZTJkMzg5ZGY1M2QxZDIyNmU3Y2E5MTQ0OGY0`
+Snapshot ID: `MCxkYTA3Yzc2N2Y4MDE3ZDBlOGY0N2FmNjgyNWRkOWEwYjA2YTYxMjQx`

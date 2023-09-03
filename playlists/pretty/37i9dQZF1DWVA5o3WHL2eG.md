@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [grundrauschen](https://open.spotify.com/track/5AbzuBGfYk4r7j48FQYooU) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [grundrauschen](https://open.spotify.com/album/1y7P5eNhb5FOseosUSNskw) | 2:32 |
 | 33 | [Nike Jogger](https://open.spotify.com/track/4WgJ3pcg2qqFHNJqrFSpzx) | [SHARI](https://open.spotify.com/artist/2DSyocyjeHkXU2AsWQyYZS) | [Nike Jogger](https://open.spotify.com/album/3jSiScwFT6SIYQgV1oXqrY) | 2:21 |
 | 34 | [Blue Crystal Water](https://open.spotify.com/track/0ZAuzWS5Yc8EcXSba0JzBh) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [Blue Crystal Water](https://open.spotify.com/album/5gKvHIv45f5W2tsxc9w11J) | 3:15 |
-| 35 | [Day Dreamer](https://open.spotify.com/track/5kSzLqWZ7fQUUea98lwtkJ) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Day Dreamer](https://open.spotify.com/album/5k2mlBsJxmj7qEHfhW7EBb) | 4:21 |
-| 36 | [Sternzeichen](https://open.spotify.com/track/623c56JxgDCMlrcyMdN6aw) | [Dea Bbz](https://open.spotify.com/artist/0Iu4geqSaPZ1orALyRr6MB) | [Sternzeichen](https://open.spotify.com/album/6OIRA92OQYZUrucRduMlwH) | 2:23 |
-| 37 | [renn](https://open.spotify.com/track/5ondzWcRZXnixWizu8XlmH) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [renn](https://open.spotify.com/album/7501VlfqRQY4U2cvJehHTB) | 2:31 |
-| 38 | [Faded](https://open.spotify.com/track/6HYVbVGHQ3SXTKz9Jkp0mu) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Faded](https://open.spotify.com/album/2zBKLD8qjDjMRe9DQRjcyH) | 2:07 |
+| 35 | [Sternzeichen](https://open.spotify.com/track/623c56JxgDCMlrcyMdN6aw) | [Dea Bbz](https://open.spotify.com/artist/0Iu4geqSaPZ1orALyRr6MB) | [Sternzeichen](https://open.spotify.com/album/6OIRA92OQYZUrucRduMlwH) | 2:23 |
+| 36 | [Day Dreamer](https://open.spotify.com/track/5kSzLqWZ7fQUUea98lwtkJ) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Day Dreamer](https://open.spotify.com/album/5k2mlBsJxmj7qEHfhW7EBb) | 4:21 |
+| 37 | [Faded](https://open.spotify.com/track/6HYVbVGHQ3SXTKz9Jkp0mu) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Faded](https://open.spotify.com/album/2zBKLD8qjDjMRe9DQRjcyH) | 2:07 |
+| 38 | [renn](https://open.spotify.com/track/5ondzWcRZXnixWizu8XlmH) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [renn](https://open.spotify.com/album/7501VlfqRQY4U2cvJehHTB) | 2:31 |
 | 39 | [Ffm](https://open.spotify.com/track/0bewzvUl8QIgiH39VV8khI) | [NyoMii](https://open.spotify.com/artist/5SnIM9os0wEayiX4XxL9yD) | [Ffm](https://open.spotify.com/album/6ZiDviNMTvmvtV4ReAXIZj) | 1:52 |
 | 40 | [like a moon](https://open.spotify.com/track/5n0TorNN3fIAQni1LGHzmi) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [he's not that special](https://open.spotify.com/album/3FZRZNdnjc5doW9roMkcCn) | 3:17 |
 | 41 | [Are You Thinking of Me](https://open.spotify.com/track/1t63a1ZQlX1OnpsyQXqsvj) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1Z94rLxogxcR9tWFUwbU8F) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Verliebt](https://open.spotify.com/track/7fmXUVYmTQaS1bQRGNLpmW) | [Juli Holz](https://open.spotify.com/artist/7M7vQv8K3CLzWRK6urf1aJ) | [Verliebt](https://open.spotify.com/album/4FZi3s1p5rWhryOw6HKyVo) | 4:44 |
 | 50 | [Loneliness](https://open.spotify.com/track/2YFqmrKmsQwiFFmmRThKjv) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Reflections](https://open.spotify.com/album/1xq4HxMLEtAEAgmy8ZocoR) | 3:33 |
 
-Snapshot ID: `MCxkYjcyNWE5MzI0YTkzMDRhYmQxNGYyN2U2NGJjZDIzNDA3ODUwNzQz`
+Snapshot ID: `MCw2OWM0MDM5MjkyNWJlMGMzMWFjOWI0OWJkZGI3ZjViMmE5YWIwMGFj`

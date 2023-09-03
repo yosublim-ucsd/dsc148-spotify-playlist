@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=A5mc71RFRBysDrajiP0_Pw\">Lloyiso</a>",
-  "num_followers": 68215,
+  "num_followers": 68272,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTM2NTZiZGMyOTNhYzUzYzQ1Mjg3NTA1NmRmZDVjMjBmYmNjYTgx",
+  "snapshot_id": "MCxjZmNmZjczYzEyYzRiOTUzNjIzZTliODg3YzJjMjk2YTNkMWQ1NmM0",
   "tracks": [
     {
       "added_at": "2023-09-01 07:44:52",
@@ -944,16 +944,16 @@
           "url": "https://open.spotify.com/artist/6DEiQRPzn93sZ3SS0PgiaS"
         },
         {
-          "name": "Sthibo de Beat",
-          "url": "https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym"
-        },
-        {
           "name": "Tony Duardo",
           "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
         },
         {
           "name": "Chley",
           "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        },
+        {
+          "name": "Sthibo de Beat",
+          "url": "https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym"
         }
       ],
       "duration_ms": 362142,

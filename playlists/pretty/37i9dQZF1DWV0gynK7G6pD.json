@@ -1,28 +1,40 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Olivia Belli",
-  "num_followers": 691177,
+  "num_followers": 691240,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2M4ZTZjZmNkMmJmZjI3ODkxMWQwMzNjMzJlZmExZTUzNDYyZWE1",
+  "snapshot_id": "MCwzMTM3NjE3MzBiYjgxOTQ1OWVkOWYzZDI2MTZjNGEwNjgyN2Y2OWIz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Intermundia",
-        "url": "https://open.spotify.com/album/0nFHh7Rb9TcrhPIGAX7rr8"
+        "name": "Valadier",
+        "url": "https://open.spotify.com/album/7F0k3NKNbcXXLjzgG6kydi"
       },
       "artists": [
         {
           "name": "Olivia Belli",
           "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Luisa Fuller",
+          "url": "https://open.spotify.com/artist/2AV20gSYlCeK9P9gyGvMya"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
         }
       ],
       "duration_ms": 230975,
       "name": "Valadier",
-      "url": "https://open.spotify.com/track/7xrnn0OqogufEwqSvfcLau"
+      "url": "https://open.spotify.com/track/6pkos2gkSkntwGVGckete8"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1599,7 +1611,7 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Anton Bruckner: Symphony No. 2 (1877/92) [HD / ADM]",
+        "name": "Bruckner: Symphony No. 2 in C Minor, WAB 102 (1877 Version, Ed. W. Carragan)",
         "url": "https://open.spotify.com/album/7uK5KepCv0QtWYv3ve9MBR"
       },
       "artists": [
@@ -1617,7 +1629,7 @@
         }
       ],
       "duration_ms": 379996,
-      "name": "Bruckner: Symphony No. 2 (1877/92) - III. Scherzo. M\u00e4\u00dfig schnell - Trio - HD / ADM",
+      "name": "Symphony No. 2 in C Minor, WAB 102 (1877 Version, Ed. W. Carragan): III. Scherzo: M\u00e4\u00dfig schnell - Trio: Gleiches Tempo",
       "url": "https://open.spotify.com/track/4UQwcv6IuHXJC2eg3wOGvt"
     },
     {

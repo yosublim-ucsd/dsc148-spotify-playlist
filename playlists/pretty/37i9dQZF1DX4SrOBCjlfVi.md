@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Lil Wayne and Sleepy Hallow\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,412 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,504 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [MANSA MUSA](https://open.spotify.com/track/4WX2fdICHuZevsl6NS0tWz) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [MANSA MUSA](https://open.spotify.com/album/2BT4yUblsyQUtFs804MtO6) | 2:24 |
 | 44 | [I Like](https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [I Like](https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38) | 2:06 |
 | 45 | [Bliss](https://open.spotify.com/track/5TLeG3t4ZPLJ6rsjltvRDY) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Bliss](https://open.spotify.com/album/1xgHi3qOIa25dlJwdA0pxl) | 2:31 |
-| 46 | [Ghetto & Rachet](https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Ghetto & Rachet](https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC) | 2:06 |
+| 46 | [Ghetto & Ratchet](https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Ghetto & Ratchet](https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC) | 2:06 |
 | 47 | [9 On Me \(feat\. Homie61st\)](https://open.spotify.com/track/60vt0SwXGUzndiF16zxQ9t) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Homie61st](https://open.spotify.com/artist/3o9qzT2pRFsmNLV2OCP0kC) | [Garden Boyz](https://open.spotify.com/album/5zD0BYWhay9Pck9mnIqfan) | 5:19 |
 | 48 | [Last Chance](https://open.spotify.com/track/0NIuN9ky7NljebVJNIc6QT) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Last Chance](https://open.spotify.com/album/5Im7Psu071AuSdGLhMcywy) | 2:22 |
 | 49 | [Remember](https://open.spotify.com/track/1fTX9XyVl9lhFO928pJubY) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 2:10 |
 
-Snapshot ID: `MCw4OWRiMzJkMjE5ZGJjOWE5ZDAwNWEwZmVlYjNhM2JhZjRiZWQ3MjUz`
+Snapshot ID: `MCw4OTI4MGY4NWIxMzliOTU1YjMyMzMzMjc1YTE1NzQyMmNhMmY3M2Zj`

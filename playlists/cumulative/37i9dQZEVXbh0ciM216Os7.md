@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-595 songs - 1 day 15 hr 1 min
+596 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Etude For Piano No\. 5](https://open.spotify.com/track/3n52TLghdEGJVIC7KFPYCr) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Piano in a Living Room](https://open.spotify.com/artist/2WmuRVbJhmg5fB6bM668tZ) | [Etude For Piano No\. 5](https://open.spotify.com/album/2b7hpCXxIJ3r9y4kYLpY0X) | 6:25 | 2023-05-05 | 2023-05-27 |
 | [Eve Gene](https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Eve Gene](https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X) | 3:18 | 2023-05-05 | 2023-05-28 |
 | [Extreme Ways \- Resound NYC Version / Edit](https://open.spotify.com/track/0aj27E2UXku6ael5ti7g7H) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Dougy Mandagi](https://open.spotify.com/artist/1RwTwH0WT6kQzgRFf0m4uM) | [Extreme Ways \(Resound NYC Version\)](https://open.spotify.com/album/2nVQEKfiwmH8ecebT80CYe) | 3:48 | 2023-03-31 | 2023-04-09 |
-| [Eyes of the World \(Take 6\) \[Not Slated\] \- 8/10/73](https://open.spotify.com/track/47EPpubUrCiEqSWUWSnm2p) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood: The Angel's Share](https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL) | 6:08 | 2023-09-01 |  |
+| [Eyes of the World \(Take 6\) \[Not Slated\] \- 8/10/73](https://open.spotify.com/track/47EPpubUrCiEqSWUWSnm2p) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood: The Angel's Share](https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL) | 6:08 | 2023-09-01 | 2023-09-03 |
 | [Eyes of the World \- Demo](https://open.spotify.com/track/4YThrJ7huSPzOK4Pu6cBzC) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Eyes of the World \(Demo\)](https://open.spotify.com/album/22W6QWjYvS4xtpWwfvzyov) | 5:42 | 2023-07-28 | 2023-08-05 |
 | [Fact \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ht9obvnnWeW4eoRtPAoQD) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Fact \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4lpOnXYfA4BRnZzx54EhqX) | 2:54 | 2023-02-10 | 2023-02-18 |
 | [Facts \- ROOTS Remix](https://open.spotify.com/track/6KCEkVJpNBSMKJWsprhmNS) | [Bassel Darwish](https://open.spotify.com/artist/0YSvkYYbu18RTZpK3cUP6i), [ROOTS](https://open.spotify.com/artist/7BrdsDFrgj0vqj8kwilICw) | [Facts](https://open.spotify.com/album/7wb6gCqqF2la2iUJxDrkkv) | 3:33 | 2023-03-24 | 2023-03-30 |
@@ -572,6 +572,7 @@
 | [We Didn't Start The Fire \(Metal Version\)](https://open.spotify.com/track/7MbRmAGg8QFbltXzWLqSHp) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Leo Metal, Vol\. 42](https://open.spotify.com/album/23hn5b2ewBQ2L0FuYhJ5Gt) | 4:22 | 2023-03-31 | 2023-04-02 |
 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-06-30 | 2023-07-08 |
 | [We Should Get Married](https://open.spotify.com/track/2syH39iwALerO994Pod9dB) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [We Should Get Married](https://open.spotify.com/album/5DqiJn6X0JGXhP3JMM9C3I) | 3:41 | 2023-08-25 | 2023-09-01 |
+| [Weather Report Suite \(Take 8\) \[Slated\] \- 8/17/73](https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood: The Angel's Share](https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL) | 13:16 | 2023-09-01 |  |
 | [Weird Science \(Metal Version\)](https://open.spotify.com/track/37WT6TjrstrFC9T3To5zWU) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Leo Metal, Vol\. 43](https://open.spotify.com/album/03EgqAmPfKglKuaJpJyEoN) | 3:47 | 2023-06-23 | 2023-06-25 |
 | [Welcome To The P.I.T.S\. \(Skit\)](https://open.spotify.com/track/0r3Fv0ezdeg9Dna28lnvk7) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [BLISS](https://open.spotify.com/album/2Qaa0dAuQExYOvjikXF0ru) | 0:48 | 2023-08-25 | 2023-08-27 |
 | [Welcome To The P.I.T.S\. \(Skit\)](https://open.spotify.com/track/7BOMUYPpca6405jjrWTL6N) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [BLISS](https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL) | 0:48 | 2023-08-04 | 2023-08-26 |

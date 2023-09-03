@@ -4,7 +4,7 @@
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Zatox
 
-537 songs - 1 day 5 hr 33 min
+538 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Forget You Pt\. 2](https://open.spotify.com/track/1dblMQ3nClfC0r8HvWUvgA) | [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Forget You Pt\. 2](https://open.spotify.com/album/0wwTguzCfUZ5KTQKFMvhzn) | 3:05 | 2023-02-09 | 2023-04-14 |
 | [Free Fall](https://open.spotify.com/track/7BNuc3medoxeqd4qnOhGCA) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Free Fall](https://open.spotify.com/album/4gpWr19Zz1Et4GZmBKtYaS) | 3:15 | 2022-12-22 | 2023-03-31 |
 | [From Star To Stardust](https://open.spotify.com/track/05SYnVLCdvhvJ96HykxN2p) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [From Star To Stardust](https://open.spotify.com/album/0K7QlZSUAyNh5NDt7Hnd9H) | 2:55 | 2023-02-23 | 2023-04-14 |
-| [Frontrow](https://open.spotify.com/track/6utKoO8KYpFWBnnu4ymJrS) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/5knZBXHk1XLTAAKVFqbL9F) | 3:54 | 2023-05-25 |  |
+| [Frontrow](https://open.spotify.com/track/4KMWGXZnrn4GSKdBOo9hQR) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/1USRYjIm1mWDY6ZUtpQPwY) | 3:54 | 2023-09-01 |  |
+| [Frontrow](https://open.spotify.com/track/6utKoO8KYpFWBnnu4ymJrS) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Frontrow](https://open.spotify.com/album/5knZBXHk1XLTAAKVFqbL9F) | 3:54 | 2023-05-25 | 2023-09-03 |
 | [Gabber Style](https://open.spotify.com/track/2PZgHAuKdSVxtGY5WkKTAL) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Gabber Style](https://open.spotify.com/album/5cfi9mCr5KXpp00c7MnKi4) | 2:25 | 2023-04-13 | 2023-05-26 |
 | [Gangster](https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Gangster](https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO) | 2:16 | 2023-05-18 | 2023-06-02 |
 | [Gates To Kingdom](https://open.spotify.com/track/4ULxFof2axxEJyJ4QBHsVw) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Gates To Kingdom](https://open.spotify.com/album/1iUdLVGkaL34i2oFamQfwt) | 4:25 | 2023-03-09 | 2023-03-25 |

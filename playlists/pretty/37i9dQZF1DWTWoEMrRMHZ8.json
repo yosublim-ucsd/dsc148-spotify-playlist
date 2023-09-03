@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 345625,
+  "num_followers": 345642,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzgxMjIxNGQyZWM3Y2U0NGU2MGFlMmJjMGM2YmM2ZWFkN2YwNWMy",
+  "snapshot_id": "MCwyOGFmNDEyZGQ5ZjhlNDgzODIxNTlkNzk1ZGI2YzI2YzBhN2I0MDQw",
   "tracks": [
     {
       "added_at": "2023-09-02 00:00:35",
@@ -247,22 +247,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+        "name": "Um dia de domingo",
+        "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
         },
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+      "duration_ms": 251903,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -287,18 +287,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -327,22 +331,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Um dia de domingo",
-        "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
       },
       "artists": [
         {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 251903,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Mambo S\u00f3",
-        "url": "https://open.spotify.com/album/14YinmJrI1sgO44h9X3Vqn"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Edson Cordeiro",
-          "url": "https://open.spotify.com/artist/3EsTnSgLh83J05mfHAQMIb"
-        }
-      ],
-      "duration_ms": 167054,
-      "name": "Mambo S\u00f3",
-      "url": "https://open.spotify.com/track/6wbuwrwibFeMivN1QY5ykb"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Meu Lugar",
         "url": "https://open.spotify.com/album/40rB2bt1WY6K7vuIFLAMFQ"
       },
@@ -795,22 +775,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Faz Parte Do Meu Show",
-        "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
+        "name": "Mambo S\u00f3",
+        "url": "https://open.spotify.com/album/14YinmJrI1sgO44h9X3Vqn"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         },
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Edson Cordeiro",
+          "url": "https://open.spotify.com/artist/3EsTnSgLh83J05mfHAQMIb"
         }
       ],
-      "duration_ms": 163426,
-      "name": "Faz Parte Do Meu Show",
-      "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
+      "duration_ms": 167054,
+      "name": "Mambo S\u00f3",
+      "url": "https://open.spotify.com/track/6wbuwrwibFeMivN1QY5ykb"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -835,6 +815,26 @@
       "duration_ms": 243764,
       "name": "Tocando Em Frente",
       "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Faz Parte Do Meu Show",
+        "url": "https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Faz Parte Do Meu Show",
+      "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Morro Dois Irm\u00e3os",
-        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 259709,
-      "name": "Morro Dois Irm\u00e3os",
-      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Morro Dois Irm\u00e3os",
+        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 259709,
+      "name": "Morro Dois Irm\u00e3os",
+      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Morena Bonita",
         "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
       },
@@ -1187,6 +1187,26 @@
       "duration_ms": 179517,
       "name": "Morena Bonita",
       "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "desculpe o au\u00ea",
+        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
+      },
+      "artists": [
+        {
+          "name": "Belle Lune",
+          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
+        },
+        {
+          "name": "Fl\u00e1via Felicio",
+          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
+        }
+      ],
+      "duration_ms": 178867,
+      "name": "desculpe o au\u00ea",
+      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1231,26 +1251,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "desculpe o au\u00ea",
-        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
-      },
-      "artists": [
-        {
-          "name": "Belle Lune",
-          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
-        },
-        {
-          "name": "Fl\u00e1via Felicio",
-          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
-        }
-      ],
-      "duration_ms": 178867,
-      "name": "desculpe o au\u00ea",
-      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Serafim",
         "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
       },
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Essa Pele Marcada 4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
+        "name": "Interessante e Obsceno",
+        "url": "https://open.spotify.com/album/7Bs9HZ3d8sVzIW5WALFIrk"
       },
       "artists": [
         {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+          "name": "Martins",
+          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
         }
       ],
-      "duration_ms": 359706,
-      "name": "Conviver - Ao Vivo",
-      "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
+      "duration_ms": 180125,
+      "name": "N\u00e3o Duvido",
+      "url": "https://open.spotify.com/track/68mKk6BejEeufAw3IOS2zF"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1315,34 +1315,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Interessante e Obsceno",
-        "url": "https://open.spotify.com/album/7Bs9HZ3d8sVzIW5WALFIrk"
+        "name": "Essa Pele Marcada 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
       },
       "artists": [
         {
-          "name": "Martins",
-          "url": "https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg"
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
         }
       ],
-      "duration_ms": 180125,
-      "name": "N\u00e3o Duvido",
-      "url": "https://open.spotify.com/track/68mKk6BejEeufAw3IOS2zF"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 194443,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
+      "duration_ms": 359706,
+      "name": "Conviver - Ao Vivo",
+      "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1363,6 +1347,22 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 194443,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "ARREPIADA",
-        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 229446,
-      "name": "Menino Bonito",
-      "url": "https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Cantar e Sangrar",
         "url": "https://open.spotify.com/album/4za1TXOun6WJNVv7D0bHyV"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 280736,
       "name": "Cantar e Sangrar",
       "url": "https://open.spotify.com/track/4SGzD1eQto9Cz4vgrPins1"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "ARREPIADA",
+        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 229446,
+      "name": "Menino Bonito",
+      "url": "https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "D\u00e9cada",
         "url": "https://open.spotify.com/album/1N0Fr960cPwTVwkiIHbYom"
       },
@@ -1775,6 +1791,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Tua Mania",
+        "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
+      },
+      "artists": [
+        {
+          "name": "Jona Poeta",
+          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Tua Mania",
+      "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Segredo Solar",
         "url": "https://open.spotify.com/album/3kUTrUFm4r1Bpk4crqzrNl"
       },
@@ -1787,6 +1819,38 @@
       "duration_ms": 274426,
       "name": "Segredo Solar",
       "url": "https://open.spotify.com/track/3kL9tNeCvya5nmbVWRW8pv"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "A \u00faltima, quem sabe",
+        "url": "https://open.spotify.com/album/11YF1bkfXHO3Wiox6fBTUd"
+      },
+      "artists": [
+        {
+          "name": "Assucena",
+          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
+        }
+      ],
+      "duration_ms": 202698,
+      "name": "A \u00faltima, quem sabe",
+      "url": "https://open.spotify.com/track/5XtabN1s5Gjuodllkxb24a"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1827,22 +1891,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1859,54 +1907,6 @@
       "duration_ms": 193186,
       "name": "Banho de Cheiro",
       "url": "https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "A \u00faltima, quem sabe",
-        "url": "https://open.spotify.com/album/11YF1bkfXHO3Wiox6fBTUd"
-      },
-      "artists": [
-        {
-          "name": "Assucena",
-          "url": "https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8"
-        }
-      ],
-      "duration_ms": 202698,
-      "name": "A \u00faltima, quem sabe",
-      "url": "https://open.spotify.com/track/5XtabN1s5Gjuodllkxb24a"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Tua Mania",
-        "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
-      },
-      "artists": [
-        {
-          "name": "Jona Poeta",
-          "url": "https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Tua Mania",
-      "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     }
   ],
   "unique_name": "Divina MPB",

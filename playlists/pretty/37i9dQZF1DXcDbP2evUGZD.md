@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2023</a>! Meet them first at the MU:CON 2023 official playlist\. \(뮤콘 2023 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,287 likes - 123 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,293 likes - 123 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 13 | [Waves of you](https://open.spotify.com/track/2LsWyHF9MiKejJhGHh5DbC) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Waves Of You](https://open.spotify.com/album/1u7azlOD4pSgRjDVUlul4c) | 3:23 |
 | 14 | [Drive!](https://open.spotify.com/track/2AaKHfIiF0fSHo2OA8y446) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [Drive!](https://open.spotify.com/album/5anWOL8kYwAj8ZbH6I6LpU) | 3:17 |
 | 15 | [BOY](https://open.spotify.com/track/2zyj0d6XwQqMHTDU907P9t) | [KISU](https://open.spotify.com/artist/48V4yQybPHmEEewuGbEc2Z) | [BOY](https://open.spotify.com/album/151pZ4YNWDjXFbKcYvzJie) | 4:27 |
-| 16 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/1Bzyh2PDRbIR1Q1A8u3U9b) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 3:23 |
-| 17 | [Dancing in the rain](https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 3:43 |
-| 18 | [COBALT](https://open.spotify.com/track/28ZZvL8qrT4kSCb6imjaUa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 4:32 |
+| 16 | [삐뽀삐뽀 Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 3:23 |
+| 17 | [비 오는 거리에서 춤을 추자 Dancing in the rain](https://open.spotify.com/track/7bQy0LIiXWN0ybCi9I73Uc) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 3:43 |
+| 18 | [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 4:32 |
 | 19 | [SPARKS!](https://open.spotify.com/track/6j6fzTcFM7ZqJGVfDyRXXX) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [Delicate Daydream](https://open.spotify.com/album/5GzXv00dctraWeWB2grscY) | 2:55 |
 | 20 | [IN MY DREAMS! \(Prod\. JuNi\)](https://open.spotify.com/track/72MCMC7dgynRoNDX0x9Jrp) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [IN MY DREAMS!](https://open.spotify.com/album/6AZ83ngLsu3Nr45Rr5hr4h) | 4:02 |
 | 21 | [G CITY! \(You & Me\)](https://open.spotify.com/track/4h8tDVzQReiDPPugrDttrT) | [nerdina](https://open.spotify.com/artist/0LYYcQHEXXn5UaIQQGhhAA) | [G CITY! \(You & Me\)](https://open.spotify.com/album/4hPy9ICn1Dpq20q4ZLWEuB) | 3:17 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 46 | [Braindead](https://open.spotify.com/track/10qiH1RJkexhTUuN562FsP) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Braindead](https://open.spotify.com/album/2dIATUDwagqAym02UKbfWV) | 2:43 |
 | 47 | [cutlery collector](https://open.spotify.com/track/0ztNEk0IqFl3qK5dcFjuTE) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:06 |
 | 48 | [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 |
-| 49 | [Fairy Castor](https://open.spotify.com/track/4iBnMZLZ6u1488j7oVRO59) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [WE WISH.docx](https://open.spotify.com/album/5A0kEKWc3FspAchQvU5wA9) | 3:47 |
+| 49 | [날씨의 요정 Fairy Castor](https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [희망서 WE WISH.docx](https://open.spotify.com/album/6NNMjyxcMwPMfLd7ykF1qO) | 3:47 |
 | 50 | [Undecided](https://open.spotify.com/track/6IdGaZrX3GwcOmJ1JIIUps) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0Kl9kesX2QKKGPajZkmPkE) | 3:49 |
-| 51 | [Flowords](https://open.spotify.com/track/3zVfJCVIVGVRDp77uNavZ4) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [For us, summer is always short](https://open.spotify.com/album/3iIP5u0xiYCdeaipxiuMZl) | 3:58 |
+| 51 | [꽃말 Flowords](https://open.spotify.com/track/4lbTBUXDLcZKc03SUVHz7W) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [우리에게 여름은 짧다 For us, summer is always short](https://open.spotify.com/album/4Le80eZbjsEZnD9OQMFWdV) | 3:58 |
 | 52 | [Realize](https://open.spotify.com/track/1uAWKJLoEMoVEeFIH5FsVj) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Machine Boy](https://open.spotify.com/album/7fB4gIbC3BnXK0RQi8prxg) | 4:23 |
 | 53 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 |
 | 54 | [Mercurial](https://open.spotify.com/track/3JpZzVHJ641hGw1EgzToGc) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Mercurial](https://open.spotify.com/album/786eyZKL9JTgEptCf9JvdQ) | 3:30 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 59 | [YESSIR](https://open.spotify.com/track/6nBj2v6UkCYQQaz9tJ3tsH) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [TRIANGLE](https://open.spotify.com/album/2iVXVWJCilB50DEsG7ou5U) | 3:18 |
 | 60 | [STALKER](https://open.spotify.com/track/4WCg4g0lMTZxyFC19W0DHF) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [STALKER](https://open.spotify.com/album/4fzdBEYv8M4d0p6QcDSgn3) | 3:48 |
 | 61 | [MARK ME](https://open.spotify.com/track/7IsK6RSsRAivgMW0F7O1RD) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [MARK ME](https://open.spotify.com/album/3ecs04N2QWfyXjE8BhIOux) | 3:19 |
-| 62 | [Tinder \(feat\. JUSTHIS\)](https://open.spotify.com/track/2MCEpDQ0218J4XWSMPRtmO) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Tinder \(feat\. JUSTHIS\)](https://open.spotify.com/album/3whR4qZhVJ3lPQv0dUzpr6) | 3:19 |
+| 62 | [Tinder \(feat\. JUSTHIS\)](https://open.spotify.com/track/5JbTqYJV965rDgmwKwnKLa) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Tinder \(feat\. JUSTHIS\)](https://open.spotify.com/album/7bVl5pBFOKzrhDOiDvqIvy) | 3:19 |
 | 63 | [JUNKFOOD](https://open.spotify.com/track/6jyYkIlSOlGr1mgfgFfKQa) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Charming Lips](https://open.spotify.com/artist/7435cB9b8d5SMBEyn5eQi5) | [JUNKFOOD](https://open.spotify.com/album/1Xak11EevsFE0CM0VZvCQu) | 3:30 |
 | 64 | [February](https://open.spotify.com/track/5jjhXS0mIHHxyclG71WN8y) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 6:06 |
 | 65 | [Blue Spring](https://open.spotify.com/track/4644JaCBBX7EpiZY1XXJaW) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Strange Weather](https://open.spotify.com/album/6h8CGwYbH7wW4XfcwKNzNe) | 4:53 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 122 | [MY TIME](https://open.spotify.com/track/20qnGriaje2qZDJvMxUCwJ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [MY TIME](https://open.spotify.com/album/2Rt768cOvDpDQKPmkS1v2X) | 3:08 |
 | 123 | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/track/0vWQo4lc4BhZGqKy2LayLC) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [TOUCHDOWN \(ใกล้ดาว\)](https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy) | 3:27 |
 
-Snapshot ID: `MCwxYmEwYjgyZDdkODkyZjhmYTZjMjI1Y2QyYWI2MWI0MmNhMmVmZDhi`
+Snapshot ID: `MCwwNGMxOTEzNTMwZjc3NTExZDUwNmEzZWRhYmI0MDI3MTNhNmNhYzAy`

@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 187639,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5d7ZYW6NZjnyI35OpT12Md"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -8187,6 +8187,24 @@
     },
     {
       "album": {
+        "name": "Dark Knight",
+        "url": "https://open.spotify.com/album/3AenEbUKk1M1NbrwS8W0bo"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275650,
+      "name": "Dark Knight",
+      "url": "https://open.spotify.com/track/0hbq80nqwppsKczeDYlo64"
+    },
+    {
+      "album": {
         "name": "Dark Side",
         "url": "https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS"
       },
@@ -9843,6 +9861,32 @@
     },
     {
       "album": {
+        "name": "Draussen",
+        "url": "https://open.spotify.com/album/17fLxjAw0EEe2QF6yjbjxi"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195970,
+      "name": "Draussen",
+      "url": "https://open.spotify.com/track/1Zj0S0GRPSL3U5Yb15AFAi"
+    },
+    {
+      "album": {
         "name": "Drei Shotzzz",
         "url": "https://open.spotify.com/album/732wQWXjBm8DcZTKHfWtT0"
       },
@@ -10960,7 +11004,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 211170,
       "name": "Ella",
       "url": "https://open.spotify.com/track/6SkwBTCjdNFmE6w47fg5KH"
@@ -11316,6 +11360,24 @@
       "duration_ms": 163068,
       "name": "Erlk\u00f6nig",
       "url": "https://open.spotify.com/track/1V3QUMgDGBUgDwWxbCydVy"
+    },
+    {
+      "album": {
+        "name": "Erwachsen werden",
+        "url": "https://open.spotify.com/album/69oZWg9SY64DpZvxxtIxf6"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159799,
+      "name": "Erwachsen werden",
+      "url": "https://open.spotify.com/track/3sEX4QHpj4HqwRH5CmMUvO"
     },
     {
       "album": {
@@ -13998,6 +14060,24 @@
       "duration_ms": 166320,
       "name": "Generation X",
       "url": "https://open.spotify.com/track/7bVYKfpeepOWJZH6km0DUi"
+    },
+    {
+      "album": {
+        "name": "gensehaut",
+        "url": "https://open.spotify.com/album/1JAdrZuesXk1mY6KVOEYyq"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135883,
+      "name": "gensehaut",
+      "url": "https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M"
     },
     {
       "album": {
@@ -17444,7 +17524,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
@@ -19192,6 +19272,24 @@
       "duration_ms": 131512,
       "name": "Kein Idol",
       "url": "https://open.spotify.com/track/5G62LlUH64UimOCsy6Q5PL"
+    },
+    {
+      "album": {
+        "name": "Kein Morgen",
+        "url": "https://open.spotify.com/album/3sXm2nL8KZa2g3qa0tUkVO"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178947,
+      "name": "Kein Morgen",
+      "url": "https://open.spotify.com/track/7mSES8kavj9a5V6SLM90za"
     },
     {
       "album": {
@@ -28849,6 +28947,36 @@
     },
     {
       "album": {
+        "name": "PAY PER VIEW (feat. Luciano, Murda & K-Trap)",
+        "url": "https://open.spotify.com/album/6dc7nDuZ7996UGqsG4knwC"
+      },
+      "artists": [
+        {
+          "name": "DJ JEEZY",
+          "url": "https://open.spotify.com/artist/6Ql5ZUhTCAn62skkbRJWCq"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175661,
+      "name": "PAY PER VIEW (feat. Luciano, Murda & K-Trap)",
+      "url": "https://open.spotify.com/track/3PqybhlwkLebhuQpAnTdmL"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -29432,7 +29560,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -32524,7 +32652,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 157826,
       "name": "Schwer zu lieben",
       "url": "https://open.spotify.com/track/7G2SsN4ZGxnye6WL8342gp"
@@ -34750,6 +34878,24 @@
       "duration_ms": 144400,
       "name": "Strada",
       "url": "https://open.spotify.com/track/78h9wCrvci2eKbssISzNbb"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "album": {
@@ -40808,7 +40954,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 124200,
       "name": "WTF?!",
       "url": "https://open.spotify.com/track/1C1FtfQ7zxUckny4CXlaa8"

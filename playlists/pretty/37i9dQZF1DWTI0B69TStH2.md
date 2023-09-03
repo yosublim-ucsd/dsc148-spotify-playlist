@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Ziggiel Lou \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,972 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,971 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Oceany](https://open.spotify.com/track/00zd0K80HavoSSrXESy3UF) | [Stella Star](https://open.spotify.com/artist/00SAH6AbkD3F0eU8glVKXu) | [Oceany](https://open.spotify.com/album/48QPjP99TR6IAGVG9ZZqBe) | 4:07 |
 | 100 | [Spadając](https://open.spotify.com/track/4A8HAMHoBTexAJSeRAHIyz) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [Spadając](https://open.spotify.com/album/4GExXV7y60hlFN5OhjIKlv) | 3:17 |
 
-Snapshot ID: `MCxjY2MzNTJlMzI5MTBmODVmYWUwOTlhOTlmMTg1OTYxYWU3YzRlZWNh`
+Snapshot ID: `MCxjYWVmMDQzNDViM2RhNzJjYjdlODkyZDRjNDk5MTM0NjIxMjAyMjVk`

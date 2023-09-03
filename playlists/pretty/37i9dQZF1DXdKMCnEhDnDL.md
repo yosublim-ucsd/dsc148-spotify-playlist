@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De grootste Nederlandse hits van vroeger en nu\. Cover: Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,184 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,299 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Beauty & De Brains](https://open.spotify.com/track/20BsfFCTUOwiWzzhsAoKW5) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Zo Van Ah Yeah](https://open.spotify.com/album/1A83v4jxWO4VFF8X19FYW2) | 3:08 |
 | 100 | [Stil In Mij](https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout](https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc) | 4:04 |
 
-Snapshot ID: `MCxhZTU5OGRjYTE2ZmE5NDRmYmEyNmRmNGNjYWJkYTM5YjRmNWYzNWVj`
+Snapshot ID: `MCwyMzkzNGRkOTQwOWE2NDQ2MzgzYzZhMjAxMzBlNzgwN2NiMzcwMTYy`

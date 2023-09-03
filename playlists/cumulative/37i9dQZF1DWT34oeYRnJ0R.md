@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Feid
 
-321 songs - 16 hr 37 min
+322 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [diablo](https://open.spotify.com/track/0lU75AvCnRHRFvmby7UrYf) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [diablo](https://open.spotify.com/album/7D8EJStZyNPOVdjExSuf5H) | 3:29 | 2022-07-26 | 2022-09-07 |
 | [DIABLO](https://open.spotify.com/track/4QlMiL1BPCBzLfn1XbSkpg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:45 | 2022-03-21 | 2022-05-10 |
 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 | 2022-04-01 | 2022-09-07 |
-| [Dices que](https://open.spotify.com/track/1y3UT74qi3hgzBygSpMkVi) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Trickstar](https://open.spotify.com/album/3gRXyOU8EUuqwCbOqxSBaH) | 1:27 | 2023-05-01 |  |
+| [Dices que](https://open.spotify.com/track/1y3UT74qi3hgzBygSpMkVi) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Trickstar](https://open.spotify.com/album/3gRXyOU8EUuqwCbOqxSBaH) | 1:27 | 2023-05-01 | 2023-09-03 |
 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 | 2022-09-06 | 2022-12-13 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-03-21 | 2022-09-07 |
 | [do you come here often?](https://open.spotify.com/track/0ShHM5WuJOUCexBXVi52My) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [do you come here often?](https://open.spotify.com/album/4glGICjO9phzJWlRMZAw9r) | 2:34 | 2022-09-06 | 2022-10-14 |
@@ -219,6 +219,7 @@
 | [No Me Llames](https://open.spotify.com/track/2K8ZO92IWTr5q28XWYHNIj) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:08 | 2022-09-06 | 2023-07-10 |
 | [No Pero Sí](https://open.spotify.com/track/4S2ZWFS0PbSMbXGXkjqhEB) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [No Pero Sí](https://open.spotify.com/album/4m5mdLW6aCgCXuo4yeq1p3) | 2:40 | 2022-03-21 | 2022-07-28 |
 | [No Pero Sí \(feat\. InnerCut\)](https://open.spotify.com/track/2KU8HMDJ1efeuADnnIF2fc) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [No Pero Sí \(feat\. InnerCut\)](https://open.spotify.com/album/6ablYVrbrL5FfO04HAotjF) | 2:40 | 2022-07-26 | 2022-09-07 |
+| [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 | 2023-09-01 |  |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2022-09-06 |  |
 | [No te lo niego, ma dolío](https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [Lágrimas pa otro día](https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp) | 2:04 | 2023-05-01 |  |
 | [NOBODY GOT IT \(Remix\)](https://open.spotify.com/track/3838Rsovb7CmNIHcrhlfr7) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Nobody Got It \(Remix\)](https://open.spotify.com/album/06tbAH14600bPLsZ97s9WJ) | 2:48 | 2023-05-01 |  |

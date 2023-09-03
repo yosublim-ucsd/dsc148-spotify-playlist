@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Steves J\. Bryan
 
-204 songs - 12 hr 9 min
+205 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Egoiste](https://open.spotify.com/track/3TKGddsGCdJOpRNLdvPoM0) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [Egoiste](https://open.spotify.com/album/6TdaLybeDhfPqSqL2ivPpr) | 2:33 | 2021-12-06 | 2022-05-13 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-06-09 |  |
 | [Eskize Mwen \- Raboday Mix](https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg) | [Josh X](https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc), [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [Raboday](https://open.spotify.com/artist/12f0pjdXUGmZ0c38TVmvEc) | [Eskize Mwen](https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE) | 3:14 | 2021-12-06 | 2023-02-18 |
-| [Fam](https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX), [Nuaje](https://open.spotify.com/artist/5kFTN3cp3fXf25X95gL3CH) | [Fam](https://open.spotify.com/album/034S6quoJ1Z1hjE84MBtjM) | 3:23 | 2021-12-06 |  |
+| [Fam](https://open.spotify.com/track/2v8G0VjL4H3ZcLMJrQJ1JJ) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX), [Nuaje](https://open.spotify.com/artist/5kFTN3cp3fXf25X95gL3CH) | [Fam](https://open.spotify.com/album/034S6quoJ1Z1hjE84MBtjM) | 3:23 | 2021-12-06 | 2023-09-03 |
 | [Family](https://open.spotify.com/track/0T1U4AfxwwJgVjBrVVlrB0) | [SLESH](https://open.spotify.com/artist/0iETUq1npNcYLaeKJfQxyE) | [Family](https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3) | 3:08 | 2023-03-17 | 2023-06-10 |
 | [Fanm Chè](https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Trap King](https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK) | 3:06 | 2021-12-06 | 2023-08-12 |
 | [Fem voyé](https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 3:54 | 2022-07-14 |  |
@@ -156,6 +156,7 @@
 | [Premye Fwa](https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs) | [DANOLA](https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y) | [Premye Fwa](https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB) | 3:09 | 2021-12-06 |  |
 | [Premye Fwa'm Damou](https://open.spotify.com/track/02haBMulGrXnL7pMaSKfdO) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [L'aventure Continue](https://open.spotify.com/album/1qNDvBo6mFaZ6bXVPj09UL) | 3:24 | 2021-12-06 | 2023-02-18 |
 | [Premye Fwa'm Damou](https://open.spotify.com/track/7aQPdIOKTfCAtFwJcyAKg9) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Premye Fwa'm Damou](https://open.spotify.com/album/3mb9zh7SYULU997xYuDKL0) | 3:24 | 2021-12-06 | 2022-07-15 |
+| [Regrè](https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj) | [Wood Terrib](https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr) | [Regrè](https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7) | 3:49 | 2023-09-01 |  |
 | [Rendez\-vous](https://open.spotify.com/track/4j3OzPbYMbuvnom1icPidC) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz), [Mr\. Lèggo](https://open.spotify.com/artist/6HHmfNEugk4iGOcDEXEOo3) | [Rendez\-vous](https://open.spotify.com/album/1trYtI3u68BrigB85Lvzkw) | 4:23 | 2022-03-04 | 2022-04-15 |
 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 | 2021-12-06 |  |
 | [Sa Pa Lov](https://open.spotify.com/track/6wPUmocLiBReFF8alCWSDG) | [Enposib](https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn) | [Sa Pa Lov](https://open.spotify.com/album/2wN2ENx1nxPVW2iAPDR3IK) | 4:54 | 2023-02-17 |  |

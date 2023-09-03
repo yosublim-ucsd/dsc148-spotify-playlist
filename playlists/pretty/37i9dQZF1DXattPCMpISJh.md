@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,173 likes - 98 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,248 likes - 98 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 97 | [Ticket to the Moon](https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy) | [Carvel'](https://open.spotify.com/artist/0I4uy2IXjgZo96j10CpaMf) | [Ticket to the Moon](https://open.spotify.com/album/5PuxGOFsboXuUmD8X7jShz) | 2:42 |
 | 98 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 |
 
-Snapshot ID: `MCw1MjgxZjE4ZDdiY2JmNTg0YWJjNGJjOWE1MTEwMmY0OWQzOTMwNzcx`
+Snapshot ID: `MCw1ZDI2NjA2YTg0OTg4Njc5YTYyMjZlZGUxMTQ4NzE4ZjliNTEzNDcz`

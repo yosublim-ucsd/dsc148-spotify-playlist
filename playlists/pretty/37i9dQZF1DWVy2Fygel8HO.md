@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,710 likes - 107 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,756 likes - 107 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 39 | [Serene Lullaby](https://open.spotify.com/track/6senBBuEDrhyrtq83mNw8K) | [Michele Nobler](https://open.spotify.com/artist/3c77k7JBsnl7h72xlCuaS2) | [A Second Life](https://open.spotify.com/album/4zfzNeWgluMMQfhXxNOft8) | 2:46 |
 | 40 | [Navždy](https://open.spotify.com/track/5zRMRrNfOZ4vZZ91Lcdz1d) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Navždy](https://open.spotify.com/album/5qpAZsu5IrvgSL2owMSH4e) | 2:27 |
 | 41 | [Stay with me](https://open.spotify.com/track/7K1S5y76RWJY7jIxSWupEy) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Stay with me](https://open.spotify.com/album/72ApxPcjCBMGRaHZgmbByA) | 2:47 |
-| 42 | [Scarlet Crescent](https://open.spotify.com/track/5Qb1aO7gYbxh7TlpFTUTHg) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Scarlet Crescent](https://open.spotify.com/album/1DCoabskMz130Fc0zVBtS1) | 3:52 |
+| 42 | [Scarlet Crescent](https://open.spotify.com/track/5Qb1aO7gYbxh7TlpFTUTHg) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Scarlet Crescent](https://open.spotify.com/album/1DCoabskMz130Fc0zVBtS1) | 3:52 |
 | 43 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 |
 | 44 | [Continuum](https://open.spotify.com/track/6r8KQsw5w6xLPgCcz5f9gX) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Continuum](https://open.spotify.com/album/5Kwp883TNLiSnBqgvsrQfV) | 1:21 |
 | 45 | [Riverun](https://open.spotify.com/track/0hIyFd8XwSIrbYhxko1zYE) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Riverun](https://open.spotify.com/album/4E3ZjKxD8RVt9OPTAYEG3y) | 1:30 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 106 | [Movement](https://open.spotify.com/track/3qowDmCLrK4mgwbbFW5unz) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Movement](https://open.spotify.com/album/7Jhzqb6xoRsAMWqXvC15Mf) | 2:54 |
 | 107 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 |
 
-Snapshot ID: `MCxhZGEzZDk5ODM0NmEwZGJlNzA1NDRjZmU1YjRjMWM5NmU4ZjA0YzE3`
+Snapshot ID: `MCxlYjg3YTQzNjdjZDI2Y2Q5ZWIzMDg5Y2RiNzA4ZTRiNmQxZDRhMzdh`

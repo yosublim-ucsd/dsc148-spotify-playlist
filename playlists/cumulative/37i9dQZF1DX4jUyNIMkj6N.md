@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-216 songs - 13 hr 26 min
+217 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Freedom](https://open.spotify.com/track/4zzvNcm9aUbVy1zugFYS7u) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Freedom](https://open.spotify.com/album/0EWv02vhy1bg3c00RtiDG7) | 2:16 | 2022-03-24 | 2022-07-29 |
 | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/track/77fdNUmzQ9aM5WTSe7ipkp) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Garden Song \(I Prefer A Loon\)](https://open.spotify.com/album/4ZZOslEugfOVUAakS2xjvP) | 3:55 | 2022-07-14 | 2022-09-26 |
 | [Gardening](https://open.spotify.com/track/6FMCje8dWYwkFOc7Gvu3r0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening](https://open.spotify.com/album/1C10FGeprVt3pDvCjYHfZW) | 4:43 | 2023-02-02 | 2023-04-15 |
+| [george's shelter](https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [george's shelter](https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY) | 3:01 | 2023-08-24 |  |
 | [Ghost Mess](https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8) | [Kristofer Åström](https://open.spotify.com/artist/36bgHoykshtpmokPxiGfBA) | [The Story Of A Heart's Decay](https://open.spotify.com/album/0lEEu58Jb4KWB59ktpsija) | 4:26 | 2021-12-02 | 2022-07-29 |
 | [Ghosts in Our Hearts](https://open.spotify.com/track/0jMWzegQgiVuGrIJT6oh5a) | [Jacoo](https://open.spotify.com/artist/65NrBzD3Jnf1iqbDjuUYjD), [Franziskamaze](https://open.spotify.com/artist/78jrTPJmSEGjZrsMdCkkBs) | [Ghosts in Our Hearts](https://open.spotify.com/album/56mxck2QGvQf6MXcwQDgaE) | 3:39 | 2022-01-20 | 2022-07-28 |
 | [Girl](https://open.spotify.com/track/7MxAeo2fTyOaJyRFknwvVY) | [Hajk](https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z) | [Girl](https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W) | 2:20 | 2023-06-29 | 2023-08-26 |
@@ -100,7 +101,7 @@
 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 | 2022-07-14 | 2023-04-29 |
 | [I Wanna Be Sedated \(feat\. Mirel Wagner\)](https://open.spotify.com/track/2Cr9TOmo36WLtDfKwKofdA) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [A Cure For Wellness \(Original Soundtrack Album\)](https://open.spotify.com/album/6k9ZeshOIpS8OCXEk9x5pF) | 3:38 | 2021-12-02 | 2022-07-28 |
 | [I Was Just Thinking](https://open.spotify.com/track/7gRiW3eFoQWUNe5h7ggGHt) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/34oIehPYK5k45VsV6nCM1M) | 3:31 | 2021-12-02 | 2022-07-25 |
-| [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 | 2022-07-14 |  |
+| [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 | 2022-07-14 | 2023-09-03 |
 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 | 2023-08-24 |  |
 | [I'll Be Here for You](https://open.spotify.com/track/38FPp7vjhk1Z6YXiaxfBJr) | [Cocktail Slippers](https://open.spotify.com/artist/6vNj2NchLaDiqBH8nBAF2g) | [I'll Be Here for You](https://open.spotify.com/album/3PgiPyzy6glPCRBRsjhXpK) | 4:25 | 2021-12-02 | 2022-07-27 |
 | [Imposter](https://open.spotify.com/track/7aqZhafy8ORlgO7wHYixFO) | [Tommy Tokyo](https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya) | [Imposter](https://open.spotify.com/album/3cer7gQMvhKVZKcMc45sbA) | 3:57 | 2022-07-07 | 2022-12-24 |

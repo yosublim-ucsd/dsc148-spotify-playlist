@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,790 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,788 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 62 | [HATHAW9Y \- Stage Comment 2](https://open.spotify.com/track/1P4IsZHWDigRZZxRr7qrLO) | [HATHAW9Y](https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:29 |
 | 63 | [Scribble](https://open.spotify.com/track/2GcHFyreG18hZSmxOKrOfl) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Woo Scribbling Night](https://open.spotify.com/album/577g4XzgzSG0qBNABsCQ6q) | 4:15 |
 | 64 | [HATHAW9Y \- Stage Comment 3](https://open.spotify.com/track/3db5DvqA16ozSfINDZc7TQ) | [HATHAW9Y](https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:20 |
-| 65 | [Sweet \(feat\. Seulhan Koo\)](https://open.spotify.com/track/6oBDFqc4gitPNRfH5F5pZq) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN), [Seulhan Koo](https://open.spotify.com/artist/6d1ogGM3Uc7jhpRWWd1t92) | [Sweet Violet Flame](https://open.spotify.com/album/2WQHK8zN9wCopxSGPKZFdG) | 3:33 |
-| 66 | [Violet](https://open.spotify.com/track/2PKkTvDA6TDs96Hm7I0YAG) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Sweet Violet Flame](https://open.spotify.com/album/2WQHK8zN9wCopxSGPKZFdG) | 5:05 |
+| 65 | [Sweet \(feat\. Seulhan Koo\)](https://open.spotify.com/track/1KuMtHlwA7FJhEHONmSELQ) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN), [Seulhan Koo](https://open.spotify.com/artist/6d1ogGM3Uc7jhpRWWd1t92) | [Sweet Violet Flame](https://open.spotify.com/album/6xMKaTOYH12iOYBUNSAj1C) | 3:33 |
+| 66 | [Violet](https://open.spotify.com/track/426qM1AmVCXywoOarNthxv) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Sweet Violet Flame](https://open.spotify.com/album/6xMKaTOYH12iOYBUNSAj1C) | 5:05 |
 | 67 | [HATHAW9Y \- Stage Comment 4](https://open.spotify.com/track/3nxaVV9x6AdXbEUuYKqqJB) | [HATHAW9Y](https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:59 |
 | 68 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 |
 | 69 | [HATHAW9Y \- Stage Comment 5](https://open.spotify.com/track/55blezdq49P8qlomXMSpVr) | [HATHAW9Y](https://open.spotify.com/artist/3aEswXpdzZCn0wOlMG1bYb) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:47 |
@@ -150,9 +150,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 140 | [Grace](https://open.spotify.com/track/6hpWk3kV9phxtzxbzzXmIF) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 4:05 |
 | 141 | [Don't Stop](https://open.spotify.com/track/2SMfatKkQhQiEJhuka4L3N) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [CATNIP](https://open.spotify.com/album/66DrcdGAs9lGvTbsf5Tgdh) | 3:59 |
 | 142 | [Moondance](https://open.spotify.com/track/4XdPF9OekZ1fuoNLjwuN69) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Vivid](https://open.spotify.com/album/0qpYN6nZdr4CCp8Jj3EVPz) | 3:21 |
-| 143 | [Sand](https://open.spotify.com/track/1VcqBhuVXWFvA6HIWuGCPV) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 3:45 |
-| 144 | [Clementine](https://open.spotify.com/track/0XrOG2I7stfgSx8CPzsTPL) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 2:23 |
-| 145 | [Gureumi](https://open.spotify.com/track/1IAE1TN9H3WKoIG6FqpuM7) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sand](https://open.spotify.com/album/0SMqZWfB4WQkCJugCjbWnH) | 4:09 |
+| 143 | [모래 Sand](https://open.spotify.com/track/7vOkJsWdlHZF2NXwliYsrg) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [모래 Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 3:45 |
+| 144 | [귤 Clementine](https://open.spotify.com/track/3ytsxIZUcQaEXpaKVvzRWU) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [모래 Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 2:23 |
+| 145 | [구름이 Gureumi](https://open.spotify.com/track/3TbWEIZdm9Unz5zDjwQt1i) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [모래 Sand](https://open.spotify.com/album/5QIpr4gQhG2aeb5DsyEMEB) | 4:09 |
 | 146 | [7000RPM](https://open.spotify.com/track/4qAyjztX1XDEO1LNJdW6NZ) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.13](https://open.spotify.com/album/2Bk9fmUzs6FTqi8ZSM5qbO) | 5:41 |
 | 147 | [Ready to fly](https://open.spotify.com/track/5ttYMsI4n49mPY8rAfHyrR) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:18 |
 | 148 | [Tunnel \(With KARDI\)](https://open.spotify.com/track/2sa1g3kg5YZ38ljNXgka0R) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9), [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5EihymcBwn2WRu1RQ7RxW9) | 3:59 |
@@ -162,9 +162,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 152 | [delicate creature](https://open.spotify.com/track/79wSs0XpV9BhjDcWGKZc5m) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/6PLSSq6AD1C96xzLMG49Wo) | 4:32 |
 | 153 | [magic trick](https://open.spotify.com/track/41jt4T7KjbK0iPxHK2yH13) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [the ceiling](https://open.spotify.com/album/6PLSSq6AD1C96xzLMG49Wo) | 3:40 |
 | 154 | [you\\me\\everyone](https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic) | 3:39 |
-| 155 | [Summer For You](https://open.spotify.com/track/1i2mGWu5fJCUEW6yFHYokf) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Summer For You](https://open.spotify.com/album/2CsvQpN3f318sh8IFTD2Jh) | 4:03 |
-| 156 | [The End of the Ocean](https://open.spotify.com/track/1SmuDqAn0DIjmdtUhICTRv) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Moondance](https://open.spotify.com/album/7F6xABbnn5TXMJQfxYAnuL) | 3:07 |
-| 157 | [Garden](https://open.spotify.com/track/0odZSHqoof9UZWUrZqg3L0) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:22 |
+| 155 | [Summer For You](https://open.spotify.com/track/4hoXJARvMTu2qBVQyjLbGg) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Summer For You](https://open.spotify.com/album/1D5xRbEagBQAnQvUzRWivs) | 4:03 |
+| 156 | [바다 끝 The End of the Ocean](https://open.spotify.com/track/7IJQA8XB7JlkCyiaSHxdJu) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Moondance](https://open.spotify.com/album/2dqw4DKZNV1MDOldzdt4SU) | 3:07 |
+| 157 | [Garden](https://open.spotify.com/track/1uD85PhapaHJdaIkeZi3Xb) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/5gaBBoN59i9HBda2z4hY7P) | 3:22 |
 | 158 | [Pompeii](https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:34 |
 | 159 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 |
 | 160 | [Good Grief](https://open.spotify.com/track/1oxOiOjsi7plNOZEhoPLPj) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:26 |
@@ -197,9 +197,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 187 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
 | 188 | [DIFFERENT](https://open.spotify.com/track/5Y7a8iWIawp1QTbevGeH1V) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [DIFFERENT](https://open.spotify.com/album/56S7zetVLAz7xC5GrmOld3) | 3:42 |
 | 189 | [POOL\(Feat\. Sumin\)](https://open.spotify.com/track/3fCZKucLEtLkTLtRUZrfkG) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [POOL\[pu:l\]](https://open.spotify.com/album/4qIn1bOjIOsvHOs7WGPloF) | 3:47 |
-| 190 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/1Bzyh2PDRbIR1Q1A8u3U9b) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 3:23 |
-| 191 | [Dancing in the rain](https://open.spotify.com/track/3d28TKE1fVNrG7D4xH7Q7k) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 3:43 |
-| 192 | [COBALT](https://open.spotify.com/track/28ZZvL8qrT4kSCb6imjaUa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/72bVS9qjgmS4AZsEgJoyVE) | 4:32 |
+| 190 | [삐뽀삐뽀 Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [꿈에서 걸려온 전화 A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 3:23 |
+| 191 | [비 오는 거리에서 춤을 추자 Dancing in the rain](https://open.spotify.com/track/7bQy0LIiXWN0ybCi9I73Uc) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 3:43 |
+| 192 | [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 4:32 |
 | 193 | [항해\(Far away\)](https://open.spotify.com/track/2mPbK7MvB81iCKbT36634f) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [SuperBand2 \- Episode.14](https://open.spotify.com/album/4MemrlNUxUB6pAntLarfwA) | 6:22 |
 | 194 | [MOBYDICK](https://open.spotify.com/track/4BQqh5sZc3ccOKOX8XFZaw) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [MOBYDICK](https://open.spotify.com/album/159FCS8IXCZeknsgCEEVnl) | 3:31 |
 | 195 | [Get Out](https://open.spotify.com/track/6rN0zooodUhaTrNM5MlT8L) | [CNEMA](https://open.spotify.com/artist/1rH9ZFWkeghhAktUmri9O6) | [MOBYDICK](https://open.spotify.com/album/159FCS8IXCZeknsgCEEVnl) | 3:16 |
@@ -230,8 +230,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 220 | [Continent of Mu](https://open.spotify.com/track/4v2IhNJLpJ3DPVbTZoEO77) | [Oah!](https://open.spotify.com/artist/5SH8ZbsJIqONusEcizNep3) | [PANORAMA](https://open.spotify.com/album/1kVaKFcXxNM6LPkJlDVGCE) | 3:26 |
 | 221 | [Beautiful days](https://open.spotify.com/track/20aQQG44sUAjvVIhwAn5ES) | [밴드기린](https://open.spotify.com/artist/1eIXaK6EOhmMncTZ2L1SWG) | [Beautiful days](https://open.spotify.com/album/38b0Ivf0z7RQcT01oiuFqd) | 3:40 |
 | 222 | [버거 Burger](https://open.spotify.com/track/51f4A9WcjkND9aGHpuAh8Q) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/1ZnN6DgqZVnxRHd6OxGsBh) | 4:06 |
-| 223 | [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 |
+| 223 | [You Are My Universe](https://open.spotify.com/track/1ICjwEhYnq72EHiqF4KXk5) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/6j77Nb91cW1AMLH2ZkzwA0) | 4:35 |
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MCw0MTMzMTEwZjllNjUzOGRlNjExYjUxOTNmMzI4OTdiZGJlODgxNWQ2`
+Snapshot ID: `MCwwMjY4ZTVmZWJjYWJhMjY2M2I3NGYwMzI3NjlhZTM3MTNkYzdlNWVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Live now: die personal Picks eurer Lieblings\-Creator\*innen im "MEGA\-Playlist\-Takeover"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,792 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,692 likes - 99 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 98 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 |
 | 99 | [Lachs](https://open.spotify.com/track/0fQO7Eb3E30tdCL4fArWJ0) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Lachs](https://open.spotify.com/album/5NNTIJVjVMxHYlnVNskHKT) | 2:37 |
 
-Snapshot ID: `MCxkNWEyMjk5MjlhYjMyOTI1ZTc3MGVlYjEwODE4Nzc5ZTlmNDY1YjZi`
+Snapshot ID: `MCxkMTExNTEyYzA3NDJjYzU4YjgyZjhhMTZkNDFmZmJkNjVhYjIxYWJh`

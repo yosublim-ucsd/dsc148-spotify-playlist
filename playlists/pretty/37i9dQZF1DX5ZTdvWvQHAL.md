@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,821 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,823 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 | 23 | [Under Shelter Rain](https://open.spotify.com/track/18aGDOpPblt4w29uE9NMbd) | [Rain Sound Studio](https://open.spotify.com/artist/3Qs1EAnyqWLaNqk0wHS63M) | [Rain Sounds For Sleeping](https://open.spotify.com/album/7LkoFPniOrFcSDbvYzCK9x) | 2:54 |
 | 24 | [Light Forest Rain 2](https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Light Forest Rain](https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey) | 2:26 |
 | 25 | [Soothing Waves of Santa Barbara](https://open.spotify.com/track/2YXhl6Y5gFdMYUKS3WWUtg) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Soothing Waves of Santa Barbara](https://open.spotify.com/album/4PVLbEJbfULsHFINoXQ5Af) | 5:42 |
-| 26 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
-| 27 | [Pouring Rain & Thunder](https://open.spotify.com/track/4FO4ccOzpUP95P3sQBmbK9) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 3:42 |
+| 26 | [Pouring Rain & Thunder](https://open.spotify.com/track/4FO4ccOzpUP95P3sQBmbK9) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Thunderstorms](https://open.spotify.com/album/47aFId4LZv1BI9UZEpzbpx) | 3:42 |
+| 27 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
 | 28 | [Calm Waves](https://open.spotify.com/track/7lJINhXaySCQiVtQErGA5M) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [The Beautiful Sounds Of The Ocean](https://open.spotify.com/album/1SSDVDGzMhv9t6SBbS3GMQ) | 2:42 |
 | 29 | [Lush Rain](https://open.spotify.com/track/3LMvyfd6x8OVW6VvYDFlNB) | [Rain Hard](https://open.spotify.com/artist/5SGuAyOqyIejlY3Lxv7CjX) | [Rain](https://open.spotify.com/album/2tH6218I88edYNdalBDlmn) | 3:24 |
 | 30 | [Moderate Rain](https://open.spotify.com/track/2p7HK5kylOOYeBXyJJbBru) | [Rain Sounds ACE](https://open.spotify.com/artist/7unk84t4zHbKT5jihwiY9t) | [Rain](https://open.spotify.com/album/2tH6218I88edYNdalBDlmn) | 3:10 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 | 63 | [Afternoon Forest Birds for Calm and Peaceful](https://open.spotify.com/track/3dajNRGucdNCwn6rpkClh8) | [Birds On Television](https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J) | [Birds Sounds 1](https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth) | 3:14 |
 | 64 | [Birds by the Waterside](https://open.spotify.com/track/4vknBBfaGO6ZnHw69a2Bi0) | [Outside Broadcast Recordings](https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ) | [Forest Sounds for Peace of Mind](https://open.spotify.com/album/6egF1GuipId0GYNcYMB0jU) | 3:55 |
 | 65 | [Medium Stream A Rainy Day](https://open.spotify.com/track/5VtzrZbuh3sNuyjOmSfcP1) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Babbling Brook](https://open.spotify.com/album/65R8Dk7xuH019duMnKI8Hw) | 3:00 |
-| 66 | [Morning Waves](https://open.spotify.com/track/4f139MAcdsT4VoLzkjeGe0) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 3](https://open.spotify.com/album/2A8JvegkrBaRgYeCJbNk6k) | 3:32 |
-| 67 | [Sweet Chirping At The Lake](https://open.spotify.com/track/24NfMFq9KuUvECooBHmhGq) | [Silenor](https://open.spotify.com/artist/3PbL8E5dj9kG8BzsqHBNQ1) | [Sleep Cure](https://open.spotify.com/album/1mZOARqTCM1uc0JxwMc5gW) | 2:53 |
+| 66 | [Sweet Chirping At The Lake](https://open.spotify.com/track/24NfMFq9KuUvECooBHmhGq) | [Silenor](https://open.spotify.com/artist/3PbL8E5dj9kG8BzsqHBNQ1) | [Sleep Cure](https://open.spotify.com/album/1mZOARqTCM1uc0JxwMc5gW) | 2:53 |
+| 67 | [Morning Waves](https://open.spotify.com/track/4f139MAcdsT4VoLzkjeGe0) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Ocean Sounds Vol\. 3](https://open.spotify.com/album/2A8JvegkrBaRgYeCJbNk6k) | 3:32 |
 | 68 | [Red Breasted Flycatcher by the Stream](https://open.spotify.com/track/5Afyn6iZafUSf2U8GZAZbu) | [Wonders of Nature](https://open.spotify.com/artist/76h7eP0k2WHIUN2MkppeVJ) | [Woodlands](https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq) | 6:45 |
 | 69 | [Calm Kauai Stream](https://open.spotify.com/track/5XGlFomLYTsaaAdYwjuluF) | [Pleasures of Sound](https://open.spotify.com/artist/60RUlSJ5XKalbdsayiwjfm) | [Calm Streams](https://open.spotify.com/album/2QCRaOrJDhaoJdkAVekjlV) | 4:37 |
 | 70 | [Birds By Mountain Stream](https://open.spotify.com/track/3KTbery9uig2aa5inLdPvy) | [Mountain Man Recordings](https://open.spotify.com/artist/5ZFFHkniv7kkYsPE05xNvD) | [Mountain Birds](https://open.spotify.com/album/5GppWjsZF1di4rn5t3V9B9) | 3:07 |
 
-Snapshot ID: `MCxjNTlkYWJmN2Q0NWI5YTgyNDliMzQ0ZjdhY2VmNDYzZWU1OWYwNTY3`
+Snapshot ID: `MCw1MTE3NGZmMmE4YzgwYzg4ZjQxM2EyYmI1MDVjZTFmMjgwYzhhYzgy`

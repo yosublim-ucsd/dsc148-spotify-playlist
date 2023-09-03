@@ -1,12 +1,12 @@
 {
   "description": "All-new releases by Latin artists! Cover: Mora",
-  "num_followers": 577921,
+  "num_followers": 578036,
   "original_name": "New Music Friday Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjg2MDJhYTkyMmUwNzNlZjJhOGI5ZjNlZjJmM2Q4MDFjZjRlZWMx",
+  "snapshot_id": "MCw0YWE5NjU3ZmU0NjFiMDAyOGZhMzBlMTlmMmQ0NjJkODg1YTkyY2Zk",
   "tracks": [
     {
       "added_at": "2023-09-01 16:58:39",
@@ -430,6 +430,10 @@
         {
           "name": "Sam Diem",
           "url": "https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn"
+        },
+        {
+          "name": "Beatz Akademy",
+          "url": "https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI"
         }
       ],
       "duration_ms": 170086,

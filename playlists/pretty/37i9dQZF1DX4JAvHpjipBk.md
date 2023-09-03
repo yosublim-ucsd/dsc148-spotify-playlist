@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Nicki Minaj, Doja Cat, Imagine Dragons, Lil' Wayne, Måneskin and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,168,067 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,168,613 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 67 | [I Got Heaven](https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l) | 2:58 |
 | 68 | [Everybody Supports Women](https://open.spotify.com/track/1pqjOgonZC2T3bB9JAl3Uz) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Everybody Supports Women](https://open.spotify.com/album/6axSQcj67PcWeaIHrMftzM) | 4:41 |
 | 69 | [My Inheritance](https://open.spotify.com/track/2WqciR3rQkk09eWCrxtjo3) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [My Inheritance](https://open.spotify.com/album/7LxrrpGOizlJSuXhVGNWUR) | 3:34 |
-| 70 | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b) | 2:27 |
+| 70 | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b) | 2:25 |
 | 71 | [Die Today](https://open.spotify.com/track/2AVrcU1B8cpy66ycCnkYvv) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Die Today](https://open.spotify.com/album/5mkPnpc6Ueoa5hdb1aXYmY) | 2:58 |
 | 72 | [Woke Up and Asked Siri How I'm Gonna Die](https://open.spotify.com/track/5YAgSjM22pJzOOwN7261Uh) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Woke Up and Asked Siri How I'm Gonna Die](https://open.spotify.com/album/5hKMFGdqaeJEbxpghERhsF) | 2:41 |
 | 73 | [AT WHAT COST?](https://open.spotify.com/track/2ktPib6e7LCnHX4LZECEyG) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [AT WHAT COST?](https://open.spotify.com/album/3GkYOJW5mbaUCSUpN2cQI4) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
 | 100 | [Whiskey Train](https://open.spotify.com/track/6ib3tr2xQUgxIYfxu4OBQS) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Whiskey Train](https://open.spotify.com/album/3Hy2FaJyuCzZ6FWYJRbihh) | 2:25 |
 
-Snapshot ID: `MCw2YTRhNzU3NDQwNjNkNWY2M2IxOTZlNmVhZTFkNjQ2YzE1N2U3NmRj`
+Snapshot ID: `MCw3NmI3NWI3MDAyZGMyNTQ4MmM3OWY4MGRkNGQ4MzI1Njk3YmZlODk0`

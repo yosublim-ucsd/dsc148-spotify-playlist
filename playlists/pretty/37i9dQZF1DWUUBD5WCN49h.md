@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50?si=sdxysK2LS8ePvYTznk61BQg"> Kaestyle</a>  and <a href="https://open.spotify.com/artist/18wUkq9ZzqAVgDfxnYhLTl?si=PoKTIfpuSZSRamaKX6WdfQ"> LeriQ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,600 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,611 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [Complete](https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Complete](https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD) | 2:40 |
 | 90 | [In My Bed](https://open.spotify.com/track/1IGUy2nvx6G10HzyWiePaJ) | [Remy Baggins](https://open.spotify.com/artist/6Pj7ddulM4dzUOGR3sERaX) | [In My Bed](https://open.spotify.com/album/68NzuGaGavWYXT8Tuiikht) | 3:13 |
 
-Snapshot ID: `MCw4NzkxNTY4NDU0ZDAwMGU2NWQ0MTE4NmI0N2JkMmU5YTBlZWRlNjEx`
+Snapshot ID: `MCxkOWRmZDM4MzI2YjI4ZjNhNzdiNzFjMThjMDgwNjNhYWUzZTM3ZGFj`

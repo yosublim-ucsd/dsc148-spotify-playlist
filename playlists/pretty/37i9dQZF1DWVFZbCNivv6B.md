@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Lefty Sm, Santa Fe Klan, Dharius, C\-Kan, MC Davo, y Neto Peña en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,809 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,089 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 4 | [La Bachona](https://open.spotify.com/track/7vZoJVfJ14jZJaHtiYcHyM) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [La Bachona](https://open.spotify.com/album/0kl7f5ss7mwh8zaJD6Ggye) | 2:51 |
 | 5 | [Erick Sermón](https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Haciéndolo Fino](https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl) | 2:46 |
 | 6 | [Feria en el Sobre](https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Feria en el Sobre](https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc) | 3:14 |
-| 7 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 |
+| 7 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 |
 | 8 | [Desde Pequeño](https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Desde Pequeño](https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS) | 3:39 |
 | 9 | [Huracán](https://open.spotify.com/track/5sbj4M33WaHilEaJAhRPp8) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Huracán](https://open.spotify.com/album/2u4KwCMykbRMaqSb3nM7Wq) | 4:15 |
 | 10 | [En el Blanco](https://open.spotify.com/track/2QnLkjYSKtbzMzjYFXS5TJ) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [En el Blanco](https://open.spotify.com/album/7zmLyRyY7p5MgCLSltnc7n) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 99 | [WYS](https://open.spotify.com/track/1InUVYG8swCemrFK6ErUj4) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [WYS](https://open.spotify.com/album/1RMH3jLukr84iZaACyQt1V) | 2:59 |
 | 100 | [Tótem](https://open.spotify.com/track/6zqxCCofqxC6bABUMEut84) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz), [Fermín](https://open.spotify.com/artist/0gtxCM2JXhYWzyiV0hDPw2) | [Tótem](https://open.spotify.com/album/3G3ktn73qmGgVeueICfQhN) | 3:08 |
 
-Snapshot ID: `MCw4YzFjYjRhYTEwMzc0Nzk2NmJjZDAxNzUxOWMzYjNjZmY4OTZmN2Yz`
+Snapshot ID: `MCxkYzY3ZTNjMzdjNDRjNzA3OTA2NzE3MmY1ODc3MDIzM2U3OWNiMTcw`

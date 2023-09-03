@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Be Your Own Pet
 
-540 songs - 1 day 5 hr 15 min
+541 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-11 |  |
 | [Apathy Patrol](https://open.spotify.com/track/6Qs8DLwsywG2RVRhl8J2jk) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Apathy Patrol](https://open.spotify.com/album/6hJejusjuZEbx4lZZY6YZx) | 3:41 | 2022-10-07 | 2022-11-22 |
 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 | 2023-01-20 |  |
+| [Avalanche Of Love](https://open.spotify.com/track/7wxQ4IYkQOeQJh1XEK3Xch) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love](https://open.spotify.com/album/5kHetKR92dhcg1pwoAHKso) | 3:55 | 2023-08-25 |  |
 | [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/20yvPj3wzqoV5wvdkj89lj) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Avalanche of Love \(feat\. Sampa the Great\)](https://open.spotify.com/album/7JSj5PDFnh9x6DevquJxep) | 3:55 | 2023-04-07 | 2023-06-05 |
-| [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/5G6tjnJ2ec5NngphDaWR0w) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Zango](https://open.spotify.com/album/7ffV0jqo0UdneN6sdjNiGc) | 3:55 | 2023-06-02 |  |
+| [Avalanche Of Love \(feat\. Sampa the Great\)](https://open.spotify.com/track/5G6tjnJ2ec5NngphDaWR0w) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Zango](https://open.spotify.com/album/7ffV0jqo0UdneN6sdjNiGc) | 3:55 | 2023-06-02 | 2023-09-03 |
 | [Away From The Castle](https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/4oEso7P9WBi868KZPWpJAg) | 3:42 | 2023-08-25 |  |
 | [Back To The Radio](https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:07 | 2022-08-26 | 2022-09-20 |
 | [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-02-25 | 2022-09-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,740 likes - 112 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,829 likes - 112 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 70 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
 | 71 | [Sweet Gesture](https://open.spotify.com/track/72qpJcGJO8yGMDoJpKsMBQ) | [Bruno Joel](https://open.spotify.com/artist/3YojgmGKYcr1V6480v3qwy) | [By Your Side](https://open.spotify.com/album/1IHOhvP4jBMk7dgRw8k2JI) | 2:34 |
 | 72 | [Desert Silhouette](https://open.spotify.com/track/5WX3DfvbfSSCWxnpntlCuK) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Remnants Of A Setting Sun](https://open.spotify.com/album/1dbvDjcQOn1TAK3j5YZPBA) | 2:43 |
-| 73 | [Cedar Tree](https://open.spotify.com/track/3eGM7i0W651ugxqdKx9kJj) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Cedar Tree](https://open.spotify.com/album/6qOdM0nwzdD6vFt2OiTsZn) | 4:11 |
+| 73 | [Cedar Tree](https://open.spotify.com/track/3eGM7i0W651ugxqdKx9kJj) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [Cedar Tree](https://open.spotify.com/album/6qOdM0nwzdD6vFt2OiTsZn) | 4:11 |
 | 74 | [Magical Encounter](https://open.spotify.com/track/4SQbeiJW1g4Byzv67xQOgt) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Magical Encounter](https://open.spotify.com/album/3r21K7yY51VPOGzw9sNdGc) | 2:15 |
 | 75 | [Marché St Quentin](https://open.spotify.com/track/6vrsJ91kWmaAvVgeUJoiDp) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Au Calme](https://open.spotify.com/album/2JzgLY9JPZwlErVRRr3wp1) | 3:05 |
 | 76 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 |
@@ -116,9 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 106 | [Two Soon](https://open.spotify.com/track/7D1WYWKWix6WOSnxbtI8sn) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/2SPnHtMaCIMyg6pkU68BkZ) | 5:03 |
 | 107 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 |
 | 108 | [The Doulton Fountain](https://open.spotify.com/track/5tqnBo633ndX2wJ6tQY2t1) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [The Doulton Fountain](https://open.spotify.com/album/47wqhgXtQm2leg7zMj41VM) | 2:44 |
-| 109 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Beau Deval](https://open.spotify.com/artist/3a31qhW1nKIv7BCkNlmdMQ) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 |
+| 109 | [luna](https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [ambrosia](https://open.spotify.com/album/24a1ZFkju1iXEEQMYfNO1o) | 2:46 |
 | 110 | [Clear Sight](https://open.spotify.com/track/2APpB3CYW0XThDZtaGFpQ9) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Clear Sight](https://open.spotify.com/album/1jiA5TfiHFMVrmdXhGDX90) | 2:13 |
 | 111 | [The Shores](https://open.spotify.com/track/4pUSEwCVnD5fYYb6pDkJNw) | [Hermosa Dawn](https://open.spotify.com/artist/2MjjjAZZhgYEyywzBnhZbN) | [The Shores](https://open.spotify.com/album/0sxe2UItX3hliFGbvLxwPq) | 2:01 |
 | 112 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
 
-Snapshot ID: `MCxhZWViNTYwY2JlMDg1MDJiNDU0ZTRiYWVjZWNlOWQ0YTQ3ZDhkZmE5`
+Snapshot ID: `MCw4ZTcyZDVkMTQzY2UwNzYwYjllOGRmMGVmYTBlOTNiMDFlY2UwZmM3`

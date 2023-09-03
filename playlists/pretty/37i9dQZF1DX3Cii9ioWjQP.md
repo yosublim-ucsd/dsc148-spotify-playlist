@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,533 likes - 103 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,542 likes - 103 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 47 | [rooftop story](https://open.spotify.com/track/7qDqkkAo9zPwAbTL0jvuLu) | [Song Hyukkyu](https://open.spotify.com/artist/2egNLLDYMhKXxFAgPOaxeq) | [Innocence of dawn](https://open.spotify.com/album/7oVjfpiung6nViuomF1YdL) | 3:40 |
 | 48 | [Churros](https://open.spotify.com/track/2qXbzLmJqrxYjur5BJGq1c) | [ROCHAE](https://open.spotify.com/artist/7ePNpv0R56WS6h1Ngt2UvJ) | [Churro](https://open.spotify.com/album/1tqSVy3r8s8Vu1XsAfn9Cz) | 2:02 |
 | 49 | [Best Friend](https://open.spotify.com/track/32bStQb6gjhmWLoiAAYSno) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Retrospect](https://open.spotify.com/album/4Eb1dLsvOh15opaO5bVCru) | 2:47 |
-| 50 | [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 |
+| 50 | [Tic Toc](https://open.spotify.com/track/3v8tZDqJGf67V31paDAbd8) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/1pPdybb7qeAsSFyxV2YerW) | 3:29 |
 | 51 | [Sag](https://open.spotify.com/track/0WT5exMmrq1biJR2cvJepO) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 4:21 |
 | 52 | [Tinker Bell](https://open.spotify.com/track/1nqcPqcAtTvifR4zxuXojJ) | [오수경](https://open.spotify.com/artist/2dnCKQzRsy3Q6CQx9U1ZAA) | [Tinker Bell](https://open.spotify.com/album/5zU3XfdZYXWtADeGGXYOHJ) | 3:01 |
 | 53 | [Origin of Love](https://open.spotify.com/track/5W5MWAP1YIHB7g7CGsyMUu) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Origin of Love](https://open.spotify.com/album/1BCf7rLQVLAtrV8mlDaf7Q) | 3:52 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 84 | [Bohemian](https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw) | [Gypsum](https://open.spotify.com/artist/6qV7FBGBGmMOuGRW8gzuP8) | [Bohemian](https://open.spotify.com/album/4yu5JDYqSwsPnO0gozaW6Q) | 4:18 |
 | 85 | [Close my eyes](https://open.spotify.com/track/6WTMDGgiLy5yOApHte6a12) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [눈을 감아](https://open.spotify.com/album/7hgBz0OV4R4A0FIndK6i1c) | 4:39 |
 | 86 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 |
-| 87 | [Bird+Disposable \- Live at Nodeul Live House, 2021](https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202 \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/album/3bojTh831YuLITkk3ncNjh) | 4:51 |
+| 87 | [새+일회용품 Bird+Disposable \(Live at Nodeul Live House, 2021\)](https://open.spotify.com/track/7LnMAkkFT53vThlspKzBwZ) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [1202](https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf) | 4:51 |
 | 88 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 |
 | 89 | [That's why you're spring](https://open.spotify.com/track/3yTjvrfLQa1WXAXqBXKEKu) | [Jigu27](https://open.spotify.com/artist/5j4gPonhwCuAiiCVYz9P0O) | [That's why you're spring](https://open.spotify.com/album/0i8EGoHiEdbh09CclUC4Td) | 3:22 |
 | 90 | [Sail Away \(feat\. HAESONG\)](https://open.spotify.com/track/1m8JMmV16TrgGeBNrt1SC1) | [Kang Hyunho](https://open.spotify.com/artist/50oIUfjtvBKSSGO611Dqzi), [HAESONG](https://open.spotify.com/artist/6wdqKs5SjeknFU3YC1icr8) | [Sail Away](https://open.spotify.com/album/2OF34mOai76B9OjsBIuSaf) | 4:32 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 102 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 103 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCwwMTUwYzRjNTI3OWQwNDViMDEzZmEwMzlhNDlmN2UwYjdhMmFlZjdj`
+Snapshot ID: `MCwyMjM0Y2Q0YzgxNWM1OGIyYTU4OWFjNDc5YTc3NTgxYTJjYzE4ZTM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: oceanfromtheblue\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,138 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,172 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 16 | [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 |
 | 17 | [I Know \(feat\. Jayroh\)](https://open.spotify.com/track/2tc6f5oJhGyf5FA6NbE6YJ) | [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM), [Jayroh](https://open.spotify.com/artist/7jioygkLGftDQXuTfG7ebS) | [I Know \(feat\. Jayroh\)](https://open.spotify.com/album/0yITSLy6XxINua3Lc6mLj1) | 4:00 |
 | 18 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 |
-| 19 | [Candyfloss](https://open.spotify.com/track/6y1fjojRiAE2ZjqXNln4s7) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/14cvpnkqa4TAuqk07eV0Gc) | 3:16 |
+| 19 | [Candyfloss](https://open.spotify.com/track/0JHkSP9Qdc8MXrF7TN05pT) | [HYNGSN](https://open.spotify.com/artist/71llomt6vE0UWKaq6fRWLS) | [NEW TEETH](https://open.spotify.com/album/6rvgvS5UBHKyehCptlQOga) | 3:16 |
 | 20 | [compromise \(feat\. Soo\-Yeony & bluewoods\)](https://open.spotify.com/track/5Uy0nfGGfNP3NN6ElzJi5f) | [DJ Sparrow](https://open.spotify.com/artist/2D3tLAHBKITd7X6ys2Lz1N), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki), [Bluewoods](https://open.spotify.com/artist/2zjQ03r51skqNDg0kUjAMV) | [compromise \(feat\. Soo\-Yeony & bluewoods\)](https://open.spotify.com/album/2x7ql8FguTwmA6PhesCUOS) | 2:40 |
 | 21 | [A Heartbreaking Story \(Feat\. Joon Park\)](https://open.spotify.com/track/2HjX3g6NK0wLhELTM0mMRc) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [박준형](https://open.spotify.com/artist/2xtMZ4zOq4eErGffG8utNG) | [A Heartbreaking Story](https://open.spotify.com/album/40aUkA4dLyHGK5mblFGcO0) | 4:21 |
 | 22 | [DO \(Feat\. LeeHi\)](https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Answer Answer](https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP) | 3:04 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 53 | [I feel](https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [I feel](https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY) | 3:46 |
 | 54 | [Saturn](https://open.spotify.com/track/4pFWcq6v0hEYY65VaxpJiY) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Saturn](https://open.spotify.com/album/6xt9QesnTMEOm78vIXCTPA) | 3:05 |
 
-Snapshot ID: `MCwyZjZhNDlmYWZmOGQzOTc1YmVkOThhMTc3MTNkOTgzZTNmNjhkZDA0`
+Snapshot ID: `MCw0YTQ1NzFlNGNhNmNhZjBkMzQ5YmQ2NzA3MjM3YmNhNDExZTMwNTMw`

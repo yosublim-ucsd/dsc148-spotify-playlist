@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Kelly Clarkson",
-  "num_followers": 60250,
+  "num_followers": 60287,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjdkY2RjZjM5N2FkZDExYTgxYzYwYTU3OGEwOWRhMWYwMDUzYmM4",
+  "snapshot_id": "MCxjODkzYjY4Yzk2MjQyYWU1YjAzMmU1YjU2YzdkYmFmMWMyNTNlOWFm",
   "tracks": [
     {
       "added_at": "2023-09-01 18:59:58",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
+        "name": "In The Stars (Live Version)",
+        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 255139,
+      "name": "In The Stars - Live Version",
+      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
         "name": "MTV Unplugged EP",
         "url": "https://open.spotify.com/album/0jpGebANqbNNKbWHq2XhEM"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 239733,
       "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
       "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
-        "name": "Live 1976 - 1998: Tonight's the Night",
-        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
-      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
+        "name": "Live 1976 - 1998: Tonight's the Night",
+        "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "I Don't Want to Talk About It - Live at Newcastle, England, 12/17/1976",
+      "url": "https://open.spotify.com/track/1ADpmLJK8WhPEIZM3ZaQTK"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "C\u00e9line... Une seule fois / Live 2013",
-        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 401840,
-      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
-      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 420791,
       "name": "Party In The USA - Live",
       "url": "https://open.spotify.com/track/7t5YIq57DS5djsaZJm1iyM"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "C\u00e9line... Une seule fois / Live 2013",
+        "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 401840,
+      "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
+      "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Live 2013 at The O2 Arena, London",
-        "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 299159,
-      "name": "When You Say Nothing At All - Live",
-      "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
         "name": "Elton 60 - Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 249666,
       "name": "Your Song - Live At Madison Square Garden",
       "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Live 2013 at The O2 Arena, London",
+        "url": "https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 299159,
+      "name": "When You Say Nothing At All - Live",
+      "url": "https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Shakira In Concert: El Dorado World Tour",
-        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 340880,
-      "name": "She Wolf - El Dorado World Tour Live",
-      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
         "name": "Live in Dortmund",
         "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 246146,
       "name": "The Lady In Red - Live",
       "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Shakira In Concert: El Dorado World Tour",
+        "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 340880,
+      "name": "She Wolf - El Dorado World Tour Live",
+      "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+      "duration_ms": 262533,
+      "name": "Maps - Live In Manchester",
+      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -1167,22 +1183,6 @@
       "duration_ms": 256866,
       "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
       "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Maps - Live In Manchester",
-      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
         "name": "Soul Live",
         "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 267263,
       "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
-        "name": "Live \u00e0 Paris",
-        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "The Power Of Love - Live \u00e0 Paris",
-      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -1327,6 +1327,22 @@
       "duration_ms": 199829,
       "name": "New Americana - Live From Webster Hall",
       "url": "https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Live \u00e0 Paris",
+        "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "The Power Of Love - Live \u00e0 Paris",
+      "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
-      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 212320,
       "name": "Shadow (feat. Carly Rae Jepsen) - MTV Unplugged",
       "url": "https://open.spotify.com/track/76mimw11ivz8tP1Vmq5oFR"
+    },
+    {
+      "added_at": "2023-09-01 18:59:58",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
+      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
     },
     {
       "added_at": "2023-09-01 18:59:58",
@@ -1615,34 +1631,18 @@
     {
       "added_at": "2023-09-01 18:59:58",
       "album": {
-        "name": "In The Stars (Live Version)",
-        "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 255139,
-      "name": "In The Stars - Live Version",
-      "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
-    },
-    {
-      "added_at": "2023-09-01 18:59:58",
-      "album": {
-        "name": "The Confessions Tour",
-        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 590120,
-      "name": "Hung Up - Live",
-      "url": "https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn"
+      "duration_ms": 232200,
+      "name": "Make You Feel My Love (Live at Hotel Cafe)",
+      "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
     }
   ],
   "unique_name": "Pop Live",

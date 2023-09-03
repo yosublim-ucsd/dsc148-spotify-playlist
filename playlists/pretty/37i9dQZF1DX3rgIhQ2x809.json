@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69943,
+  "num_followers": 69944,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3",
+  "snapshot_id": "MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Gucci Prada",
-        "url": "https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK"
-      },
-      "artists": [
-        {
-          "name": "Green Cookie",
-          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 183352,
-      "name": "Gucci Prada",
-      "url": "https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Otra",
         "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 166299,
       "name": "Otra",
       "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Gucci Prada",
+        "url": "https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK"
+      },
+      "artists": [
+        {
+          "name": "Green Cookie",
+          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 183352,
+      "name": "Gucci Prada",
+      "url": "https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Tan Rico",
-        "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Clandestino & Yailemm",
-          "url": "https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi"
-        }
-      ],
-      "duration_ms": 246937,
-      "name": "Tan Rico",
-      "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Tan Rico",
+        "url": "https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Clandestino & Yailemm",
+          "url": "https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi"
+        }
+      ],
+      "duration_ms": 246937,
+      "name": "Tan Rico",
+      "url": "https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "BRUJULA",
+        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "BRUJULA",
+      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "MARTINI",
         "url": "https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 185210,
       "name": "MARTINI",
       "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "BRUJULA",
-        "url": "https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "BRUJULA",
-      "url": "https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "3 y Pico",
-        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 190068,
-      "name": "3 y Pico",
-      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "La Esquina",
         "url": "https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "3 y Pico",
+        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 190068,
+      "name": "3 y Pico",
+      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Reggaet\u00f3n Sex",
         "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 165473,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "ST\u00dcSSY",
-        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
-      },
-      "artists": [
-        {
-          "name": "Jovaan",
-          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
-        }
-      ],
-      "duration_ms": 144714,
-      "name": "ST\u00dcSSY",
-      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1451,6 +1435,22 @@
       "duration_ms": 242932,
       "name": "Tesoro M\u00edo",
       "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "ST\u00dcSSY",
+        "url": "https://open.spotify.com/album/0jcpEFPesTzygPLDeriK1N"
+      },
+      "artists": [
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "duration_ms": 144714,
+      "name": "ST\u00dcSSY",
+      "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Twerk",
-        "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 160128,
-      "name": "Twerk",
-      "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/3A35XT91xoDYsujfeGQFou"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 197480,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/52ANZNLGCbf8IKin6sQYIk"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Twerk",
+        "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 160128,
+      "name": "Twerk",
+      "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Billete",
+        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
+      },
+      "artists": [
+        {
+          "name": "Chen",
+          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
+        }
+      ],
+      "duration_ms": 163777,
+      "name": "Billete",
+      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -1623,18 +1639,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Billete",
-        "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
       },
       "artists": [
         {
-          "name": "Chen",
-          "url": "https://open.spotify.com/artist/7423k6QcqqvAjsxVn0wlQu"
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 163777,
-      "name": "Billete",
-      "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
+      "duration_ms": 197378,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1655,26 +1675,6 @@
       "duration_ms": 223399,
       "name": "Nube",
       "url": "https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 197378,
-      "name": "Tasty",
-      "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
-      },
-      "artists": [
-        {
-          "name": "TIVGO Cruz",
-          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Perreo X Calle",
         "url": "https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 190000,
       "name": "Perreo X Calle",
       "url": "https://open.spotify.com/track/6TrHcYm0TFwZt5JeSOm8F4"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
+      },
+      "artists": [
+        {
+          "name": "TIVGO Cruz",
+          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
     },
     {
       "added_at": "2023-06-09 02:27:24",

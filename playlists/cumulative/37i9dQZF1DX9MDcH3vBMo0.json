@@ -2386,8 +2386,8 @@
       },
       "artists": [
         {
-          "name": "Renato Luigi",
-          "url": "https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f"
+          "name": "Nelson Haynes",
+          "url": "https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75"
         }
       ],
       "date_added": "2022-04-21",
@@ -4207,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "Idyllic garden",
+        "url": "https://open.spotify.com/album/7B53xiF08Ma86VBlkcQcuF"
+      },
+      "artists": [
+        {
+          "name": "Ellen Wince",
+          "url": "https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124723,
+      "name": "Idyllic garden",
+      "url": "https://open.spotify.com/track/0uPRRKhenDTl56bWKDcilK"
+    },
+    {
+      "album": {
         "name": "Il 7 Aprile",
         "url": "https://open.spotify.com/album/1UtnruDyYmndStPTCykHPD"
       },
@@ -4518,8 +4536,8 @@
       },
       "artists": [
         {
-          "name": "Chris DiGiorgio",
-          "url": "https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl"
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
         }
       ],
       "date_added": "2022-04-21",
@@ -5968,7 +5986,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-03",
       "duration_ms": 135000,
       "name": "Memories In Red",
       "url": "https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM"
@@ -7172,8 +7190,8 @@
       },
       "artists": [
         {
-          "name": "Anton Lebedev",
-          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
+          "name": "Alvaro Pascoal",
+          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
         }
       ],
       "date_added": "2022-07-20",

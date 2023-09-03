@@ -1,12 +1,12 @@
 {
   "description": "Nuevos hallazgos de m\u00fasica indie latina. En portada: Luna Luna",
-  "num_followers": 296951,
+  "num_followers": 296964,
   "original_name": "Novedades Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzU0YWQxMDE2YmIwODYzYjI1ZjgzZjA5ZjcxZTkxMzkxNzg2N2Rl",
+  "snapshot_id": "MCw5YWY2N2Y5NWM0MjgwOWQ4ZjEzN2ZiY2JmZjk0ZDlmMDQ3NGZhOGE0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -105,7 +105,7 @@
         }
       ],
       "duration_ms": 148085,
-      "name": "Cuidare De Ti",
+      "name": "Cuidar\u00e9 De Ti",
       "url": "https://open.spotify.com/track/6Qtxmvi4Z2t2bcYJ0LylTX"
     },
     {
@@ -207,7 +207,7 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Y SI NO SOY YO (feat. Gabriel de la Rosa)",
+        "name": "Y SI NO SOY YO (feat. Gabriel de la Rosa, Shinova)",
         "url": "https://open.spotify.com/album/4f4fG0nuedXodaN5m0gUFa"
       },
       "artists": [
@@ -218,16 +218,20 @@
         {
           "name": "Gabriel De La Rosa",
           "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
         }
       ],
       "duration_ms": 172706,
-      "name": "Y SI NO SOY YO (feat. Gabriel de la Rosa)",
+      "name": "Y SI NO SOY YO (feat. Gabriel de la Rosa, Shinova)",
       "url": "https://open.spotify.com/track/7fZ69MUMb7kDKGoJbOJ8vT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Elevarte Caer (feat. Repion)",
+        "name": "Elevarte Caer",
         "url": "https://open.spotify.com/album/6KER7OazGSboZWMKkXERXc"
       },
       "artists": [
@@ -241,7 +245,7 @@
         }
       ],
       "duration_ms": 258642,
-      "name": "Elevarte Caer (feat. Repion)",
+      "name": "Elevarte Caer",
       "url": "https://open.spotify.com/track/2Qkjg5aGBQl9PFdl6dxNRv"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Mora
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,921 likes - 52 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,036 likes - 52 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 19 | [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 |
 | 20 | [Malamente](https://open.spotify.com/track/6hz7lasdrLrRF7foBVVHbi) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Malamente](https://open.spotify.com/album/043NQRYJMoTeqqMQpvXYh4) | 2:56 |
 | 21 | [Mejor Que Ayer](https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mejor Que Ayer](https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf) | 3:06 |
-| 22 | [Gatando la Funda](https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Sam Diem](https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn) | [Gatando la Funda](https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4) | 2:50 |
+| 22 | [Gatando la Funda](https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Sam Diem](https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Gatando la Funda](https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4) | 2:50 |
 | 23 | [Enchule](https://open.spotify.com/track/1f86KiScZ2Pwdz6T3oLPbk) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Enchule](https://open.spotify.com/album/3UmMw1gIVYj3ssjQ7scdJm) | 2:30 |
 | 24 | [Estilo de Vida](https://open.spotify.com/track/1muTEUeGKeiS6PlVHFBIWq) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [CODA](https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1) | 2:21 |
 | 25 | [DEL ESTUDIO AL ESTADIO](https://open.spotify.com/track/0tczOvnVojC5FckxeaYLqR) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [buscando la luz \(deluxe\)](https://open.spotify.com/album/43aMkIvyWY3jMT73OmNpdY) | 3:35 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Después de la Tormenta](https://open.spotify.com/track/19WhJGyQ5xvkq4MLrEyu73) | [Nayo](https://open.spotify.com/artist/36tGT7JriSlo9gmzYQviEb), [Most Wanted La Familia](https://open.spotify.com/artist/57yFqDKqy5QnBIBAjy2qz6) | [Después de la Tormenta](https://open.spotify.com/album/1NpjB5GPVBawEUlsVmVVHi) | 2:31 |
 | 52 | [Déjate Llevar](https://open.spotify.com/track/5B2qLWsjcOL68pJfyixcMO) | [Camelo](https://open.spotify.com/artist/5xI0dlSNzUNuZhGDcGf2vW) | [Déjate Llevar](https://open.spotify.com/album/1ymjqpLcxPse6GMGaYIB8X) | 3:39 |
 
-Snapshot ID: `MCxkNjg2MDJhYTkyMmUwNzNlZjJhOGI5ZjNlZjJmM2Q4MDFjZjRlZWMx`
+Snapshot ID: `MCw0YWE5NjU3ZmU0NjFiMDAyOGZhMzBlMTlmMmQ0NjJkODg1YTkyY2Zk`

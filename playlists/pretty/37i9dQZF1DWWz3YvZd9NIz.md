@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,899 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,439 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 | 70 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 |
 
-Snapshot ID: `MCwzNDFkMDU2ZjgyZTQyMDZiNDdmY2RjNWQ1M2NiN2NkYTZlZjE1NmVk`
+Snapshot ID: `MCwxNTU0YWQ0ZWUyYjViNWMzZWQ1NjM3YTM2YjBhZDc4YjZjNjhmZjhl`
