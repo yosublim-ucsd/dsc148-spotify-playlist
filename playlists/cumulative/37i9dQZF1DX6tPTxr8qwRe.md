@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Amelia Moore
 
-467 songs - 21 hr 29 min
+469 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Checkered Vans](https://open.spotify.com/track/2L6OCsfX3WT1Vt7Pc5ID0b) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Checkered Vans](https://open.spotify.com/album/23ebC7TSnXeAh3tt21tIap) | 3:18 | 2023-02-10 | 2023-03-04 |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2023-07-28 |  |
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-04 | 2022-05-28 |
-| [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-03-03 |  |
+| [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-03-03 | 2023-09-04 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-04-01 | 2022-09-17 |
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-07 | 2023-04-01 |
 | [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 | 2022-07-08 | 2022-08-20 |
@@ -205,7 +205,7 @@
 | [Hold Me Down](https://open.spotify.com/track/3nfC5ikuvw3mxDEE10c7EA) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Hold Me Down](https://open.spotify.com/album/2L7xcRtVXalWzgyT76W2Xj) | 2:42 | 2022-01-14 | 2022-03-18 |
 | [hold the applause](https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [hold the applause](https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1) | 2:29 | 2022-06-24 | 2022-10-01 |
 | [Honestly I'm Disappointed](https://open.spotify.com/track/4XeELrZsC6BNUF9RjGdDx3) | [Kate Grahn](https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv) | [Honestly I'm Disappointed](https://open.spotify.com/album/4ueJumymqxktXKi8uSfzF1) | 2:19 | 2022-04-08 | 2022-09-10 |
-| [Hooked](https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Hooked](https://open.spotify.com/album/6fvvgoTSS7hVS1X6nyWBwl) | 2:28 | 2023-04-11 |  |
+| [Hooked](https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Hooked](https://open.spotify.com/album/6fvvgoTSS7hVS1X6nyWBwl) | 2:28 | 2023-04-11 | 2023-09-04 |
 | [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 | 2023-07-21 |  |
 | [Hot Gum](https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Hot Gum](https://open.spotify.com/album/2OajtROrr8awCu9utpvGFz) | 4:00 | 2023-05-05 | 2023-08-05 |
 | [Hot Killer](https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hot Killer](https://open.spotify.com/album/0as00WK8RwmFBwlvg3gmPy) | 2:18 | 2022-06-24 | 2022-10-29 |
@@ -377,6 +377,7 @@
 | [sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 | 2022-11-11 | 2023-05-06 |
 | [Somebody I Fucked Once](https://open.spotify.com/track/1TLgTsRiX4P55KUOOGjYHu) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe\)](https://open.spotify.com/album/7JpzGCHmVPWG9zvBdexIqd) | 3:04 | 2021-09-28 | 2022-05-28 |
 | [Someone Else](https://open.spotify.com/track/2ht6nrwWgId7U7Dl2JSx74) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Someone Else](https://open.spotify.com/album/2VGi7CzoyQpRf85qoZ0Ara) | 3:11 | 2021-10-04 | 2022-03-18 |
+| [Someone That I’m Afraid Of](https://open.spotify.com/track/7BnMBS6GiaocjQ541Nog41) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Someone That I’m Afraid Of](https://open.spotify.com/album/2mmxapsKZf9Ibw9gVHreCt) | 3:15 | 2023-09-03 |  |
 | [Someone to Blame](https://open.spotify.com/track/7xCrXGPDHKYHIyPOaDAv8Q) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [a letter to me](https://open.spotify.com/album/2jLOhU9bWQgsKQ6fVa9xVE) | 3:20 | 2022-06-10 | 2022-07-09 |
 | [SOMETHING ABOUT U](https://open.spotify.com/track/6QCIkTO5h7a7DplDIXCf4K) | [LO LA](https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF) | [SOMETHING ABOUT U](https://open.spotify.com/album/6kPNsISKbTkDafnjxrI93y) | 2:46 | 2023-07-07 | 2023-08-19 |
 | [Soul](https://open.spotify.com/track/6WNIUgZ7i8GliBVohtkIEt) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Soul](https://open.spotify.com/album/6dfu73S0vDUoTOF7Dh4ZXS) | 3:30 | 2022-09-16 | 2022-10-08 |
@@ -472,6 +473,7 @@
 | [Women Don't Owe You Sh\*t](https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Women Don't Owe You Sh\*t](https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX) | 3:32 | 2022-01-28 | 2022-10-08 |
 | [Worship](https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Worship](https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ) | 3:07 | 2023-06-30 |  |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-02-18 | 2022-09-24 |
+| [Yes No Okay](https://open.spotify.com/track/6GQzzmWX9hUV23fyhbFNm7) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BOTTOMS \(Original Motion Picture Score\)](https://open.spotify.com/album/48ZXLW2ZEThXeScpsxelMa) | 3:04 | 2023-09-03 |  |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 | 2023-06-03 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-04-22 | 2022-07-09 |
 | [ZOMBIE](https://open.spotify.com/track/75KHUxaMlmvSIYZnUMMLj9) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ZOMBIE](https://open.spotify.com/album/0BUM8lM9I5YnnPFVXV3yyv) | 3:13 | 2023-01-27 | 2023-06-17 |

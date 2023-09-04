@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Lee Foss & Ralf",
-  "num_followers": 594398,
+  "num_followers": 594469,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTNjM2M1YTkwMjk2NjhlYTc4YjFjN2RjNjc5MDU1NzUyZDkwYjM5",
+  "snapshot_id": "MCxlMDU4ZTQ1MDc1ZGMwNjUzMmI2NTk1YzA5MTk0ODlhNjBiNTIwZWQx",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Do You Feel It",
+        "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Do You Feel It",
+      "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "I Want Your Soul (Mau P Remix)",
         "url": "https://open.spotify.com/album/0TmEMpGtt0nhpowS8B8qj3"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 210826,
       "name": "I Want Your Soul - Mau P Remix",
       "url": "https://open.spotify.com/track/0I9Bt9ds5N3NGB2vlI4wrT"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Do You Feel It",
-        "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Do You Feel It",
-      "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1141,6 +1141,26 @@
       "url": "https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw"
     },
     {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
+    },
+    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "The Loop",
@@ -1211,30 +1231,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Live Stream (Noizu Remix)",
-        "url": "https://open.spotify.com/album/6MY8C5VVAizFXfEgDeTnin"
+        "name": "You Talkin'",
+        "url": "https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY"
       },
       "artists": [
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         },
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "Rene Amesz",
-          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
         }
       ],
-      "duration_ms": 183779,
-      "name": "Live Stream - Noizu Remix",
-      "url": "https://open.spotify.com/track/44wKNLBs2kjyY5KqjWqY0z"
+      "duration_ms": 167598,
+      "name": "You Talkin'",
+      "url": "https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1255,26 +1267,6 @@
       "duration_ms": 180465,
       "name": "VIP Business",
       "url": "https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "You Talkin'",
-        "url": "https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        },
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 167598,
-      "name": "You Talkin'",
-      "url": "https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1307,6 +1299,34 @@
       "duration_ms": 120930,
       "name": "Freddie's Warmup",
       "url": "https://open.spotify.com/track/3uDUPK6GJZ3jv76hAOSIay"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Live Stream (Noizu Remix)",
+        "url": "https://open.spotify.com/album/6MY8C5VVAizFXfEgDeTnin"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Rene Amesz",
+          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+        }
+      ],
+      "duration_ms": 183779,
+      "name": "Live Stream - Noizu Remix",
+      "url": "https://open.spotify.com/track/44wKNLBs2kjyY5KqjWqY0z"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1381,26 +1401,6 @@
       "url": "https://open.spotify.com/track/22UUH7Hevlh24CBgkOBHFK"
     },
     {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Lady (Hear Me Tonight)",
-        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
-    },
-    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Hello",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "WUTT",
-        "url": "https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP"
-      },
-      "artists": [
-        {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "WUTT",
-      "url": "https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Esta Vaina",
         "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 154015,
       "name": "Se Acabo",
       "url": "https://open.spotify.com/track/3bST0KX0eCc7mtavsH0q7W"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "WUTT",
+        "url": "https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "WUTT",
+      "url": "https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1627,6 +1627,46 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Turn It Around Baby",
+        "url": "https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Turn It Around Baby",
+      "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Dope Eyes",
         "url": "https://open.spotify.com/album/5TqdiAFhhQEQE2ryPmIDDz"
       },
@@ -1651,30 +1691,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Living",
         "url": "https://open.spotify.com/album/5cSslgXPIBdWdvneiyt35H"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 205186,
       "name": "Living",
       "url": "https://open.spotify.com/track/5EdYBFZarevg1JlmzmTYnA"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Turn It Around Baby",
-        "url": "https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Turn It Around Baby",
-      "url": "https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Pull Me Up",
-        "url": "https://open.spotify.com/album/1Y4HyCbdcLjFDFcqgu0A82"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Pull Me Up",
-      "url": "https://open.spotify.com/track/183Q4HdEcyHnp4Q81cJj8a"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Do What You Want",
         "url": "https://open.spotify.com/album/4lCFkQUgP7I2Wpl5tEP7fq"
       },
@@ -1883,18 +1867,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Apache",
-        "url": "https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi"
+        "name": "Pull Me Up",
+        "url": "https://open.spotify.com/album/1Y4HyCbdcLjFDFcqgu0A82"
       },
       "artists": [
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
         }
       ],
-      "duration_ms": 156190,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1"
+      "duration_ms": 178274,
+      "name": "Pull Me Up",
+      "url": "https://open.spotify.com/track/183Q4HdEcyHnp4Q81cJj8a"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1919,6 +1903,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Apache",
+        "url": "https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Apache",
+      "url": "https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/12U8vTW7jtYAbmEAei5h3B"
       },
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4"
-      },
-      "artists": [
-        {
-          "name": "Waterm\u00e4t",
-          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
-        }
-      ],
-      "duration_ms": 186576,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "ILG",
         "url": "https://open.spotify.com/album/6OdiPs5eU9BZEh7s4me0ss"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 122385,
       "name": "ILG",
       "url": "https://open.spotify.com/track/2YvYluH4m4YSx9CP7sJsyD"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4"
+      },
+      "artists": [
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "duration_ms": 186576,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2025,6 +2025,30 @@
       "url": "https://open.spotify.com/track/4SU7GlHigihx2d5MP27eRA"
     },
     {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Valodja (Kryder Remix)",
+        "url": "https://open.spotify.com/album/6slfAHmFXzRaUVUDxcbi7p"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "AN21",
+          "url": "https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn"
+        },
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "duration_ms": 170170,
+      "name": "Valodja (Kryder Remix)",
+      "url": "https://open.spotify.com/track/4D2PtwM3U40QFFBA62I49P"
+    },
+    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Party People",
@@ -2067,26 +2091,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Can't Stand",
-        "url": "https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "ZenSoFly",
-          "url": "https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h"
-        }
-      ],
-      "duration_ms": 326769,
-      "name": "Can't Stand feat. ZensoFly",
-      "url": "https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Music Is Life",
         "url": "https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn"
       },
@@ -2109,6 +2113,26 @@
       "url": "https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9"
     },
     {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Can't Stand",
+        "url": "https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "ZenSoFly",
+          "url": "https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h"
+        }
+      ],
+      "duration_ms": 326769,
+      "name": "Can't Stand feat. ZensoFly",
+      "url": "https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Do It Like Dat (feat. Faustix)",
@@ -2127,6 +2151,30 @@
       "duration_ms": 139047,
       "name": "Do It Like Dat (feat. Faustix)",
       "url": "https://open.spotify.com/track/4AwPIuooqkBjX6utG5SkDe"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "FMF",
+        "url": "https://open.spotify.com/album/2tzDCp2WcLMX5tvhFGYNPU"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Vitor Vinter",
+          "url": "https://open.spotify.com/artist/69Mveq4NwlSGijFnPnAlvD"
+        },
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "FMF - Bruno Furlan Remix",
+      "url": "https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2209,28 +2257,24 @@
       "url": "https://open.spotify.com/track/16xYVaMVqFIGajZWsng2lm"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
+      "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "FMF",
-        "url": "https://open.spotify.com/album/2tzDCp2WcLMX5tvhFGYNPU"
+        "name": "Me Me Me EP",
+        "url": "https://open.spotify.com/album/4AWEbvZ2qwNLBbAYCdwc8Y"
       },
       "artists": [
         {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
         },
         {
-          "name": "Vitor Vinter",
-          "url": "https://open.spotify.com/artist/69Mveq4NwlSGijFnPnAlvD"
-        },
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "Nala",
+          "url": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
         }
       ],
-      "duration_ms": 211875,
-      "name": "FMF - Bruno Furlan Remix",
-      "url": "https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2"
+      "duration_ms": 338446,
+      "name": "Me Me Me",
+      "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -2299,22 +2343,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Magic City (Vip Mix)",
-        "url": "https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "Magic City - Vip Mix",
-      "url": "https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Bass Into the Future",
         "url": "https://open.spotify.com/album/4ZnC1xEkr40JxLTugK4d6H"
       },
@@ -2335,6 +2363,22 @@
       "duration_ms": 161250,
       "name": "Bass Into the Future",
       "url": "https://open.spotify.com/track/77OusbYYDTgplE8hdihWXN"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Magic City (Vip Mix)",
+        "url": "https://open.spotify.com/album/3vbVuoxKhKjsfiaia8a27Q"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "Magic City - Vip Mix",
+      "url": "https://open.spotify.com/track/5ZL7NaGGBDkqvROpy7bikT"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2387,38 +2431,6 @@
       "duration_ms": 196404,
       "name": "Make This Mofo",
       "url": "https://open.spotify.com/track/26L76W2WTYHDTNVj5Lc4d4"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Gibberish",
-        "url": "https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "Gibberish",
-      "url": "https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Temperature",
-        "url": "https://open.spotify.com/album/6Pf1ng16MUqpiQ2TA9nXtG"
-      },
-      "artists": [
-        {
-          "name": "Paluma",
-          "url": "https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/6t0rJSmrgU8EyA5gI2Np3d"
     }
   ],
   "unique_name": "Operator",

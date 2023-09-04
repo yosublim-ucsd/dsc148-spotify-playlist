@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W?si=vN43PRoaTiy3L5rWJb\-ytg"> Wingii </a> :اجمد أغاني الراب المصري\. غلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,930 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,067 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Freska](https://open.spotify.com/track/4FhQTFKjtl4wAxmN8Mw5Mr) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Freska](https://open.spotify.com/album/3VZtMMJcdfXYwMtonjM534) | 2:12 |
 | 40 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 |
 
-Snapshot ID: `MCwxMDMwYjdjZTY1ZGJlNWM5NzMyY2QyNmY1ZGRjZTRiMjI0NzJjOGFk`
+Snapshot ID: `MCxjNjAyMTBjOTk5MzYzMDc3NjAwZmE1NDQwMTNjOTlkMzZiODI4MWU3`

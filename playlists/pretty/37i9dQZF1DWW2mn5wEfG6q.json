@@ -1,12 +1,12 @@
 {
   "description": "2013 highlights from the home of indie music.",
-  "num_followers": 65286,
+  "num_followers": 65319,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWFiZWQyOGU3Yzg5MmQxNTI1NmExOGFjN2RhNDQ5NzNlZTIyZDQ0",
+  "snapshot_id": "MCwzOTY3MzAyZDhmMzUxM2Y1ZDFhNzc4ODI3YzdlNWI5ZTBjNTk5YzY3",
   "tracks": [
     {
       "added_at": "2023-03-29 13:55:12",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "One Way Trigger",
-      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 194053,
       "name": "Modern Jesus",
       "url": "https://open.spotify.com/track/7iOyMOxdOULvXqUqC26spJ"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "One Way Trigger",
+      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "When It Was Now",
-        "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
       "artists": [
         {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
         }
       ],
-      "duration_ms": 180053,
-      "name": "If So",
-      "url": "https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf"
+      "duration_ms": 327680,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao"
     }
   ],
   "unique_name": "Best of Indie 2013",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,510 songs - 4 day 8 hr 1 min
+1,511 songs - 4 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,7 +769,7 @@
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/3yPd2RxNNcPwOV06zoexrv) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 6:40 | 2022-08-26 | 2022-09-10 |
 | [Light The Sky \- Charming Horses Remix Edit](https://open.spotify.com/track/3vVSHKaJydgDRa2xysZ2aF) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Airto](https://open.spotify.com/artist/7yyIIRJV6dklQEvISTzRjE), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3) | [Light The Sky \(The Remixes\)](https://open.spotify.com/album/0UcPRLzOQhcfCELuOJeato) | 3:31 | 2020-05-18 | 2020-07-03 |
 | [Light Up](https://open.spotify.com/track/1XutAsAMUAmVgLy0RXOb1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Light Up](https://open.spotify.com/album/0YYNYESCVvpwLOilBWs09L) | 3:48 | 2021-04-03 | 2022-10-14 |
-| [Light Up](https://open.spotify.com/track/4O9wdZGwvJKTeeJGUEa00K) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/7xE3fSS22cJBxMCuQmtA9E) | 3:48 | 2023-04-28 |  |
+| [Light Up](https://open.spotify.com/track/4O9wdZGwvJKTeeJGUEa00K) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/7xE3fSS22cJBxMCuQmtA9E) | 3:48 | 2023-04-28 | 2023-09-04 |
 | [Light Up](https://open.spotify.com/track/7LpEotX5nSacwXSuNOmJ1k) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:48 | 2022-09-09 | 2023-03-23 |
 | [Lighthouse](https://open.spotify.com/track/53PwI2yj0cxMFEUHLhAAqn) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Lighthouse](https://open.spotify.com/album/69NKk42DoIVb4S7kjQ83BL) | 4:00 | 2022-03-11 | 2022-05-07 |
 | [Lightning](https://open.spotify.com/track/4e0sZbqXMRlG34LTJ28V8t) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 2:51 | 2020-07-03 | 2020-10-09 |
@@ -1234,6 +1234,7 @@
 | [Spiritual Riddim](https://open.spotify.com/track/1bYNclt7CLyuDVLpC1ZmmJ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/1K59wmdQhuMiDmgx3y25Yl) | 4:39 | 2020-05-18 | 2020-08-20 |
 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 | 2023-04-21 |  |
 | [St\. Patrick](https://open.spotify.com/track/1chajyFvaLyozRyF5xhlR3) | [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [St\. Patrick](https://open.spotify.com/album/6AhLIQPnq7bpwBuINkZk3p) | 4:04 | 2020-05-18 | 2020-07-03 |
+| [Starchaser](https://open.spotify.com/track/6irg87ZXAFnNfSSyAN5RQM) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Starchaser](https://open.spotify.com/album/5hWKdvx2iIO3qOeQiWiehL) | 4:14 | 2023-09-01 |  |
 | [Stargazing](https://open.spotify.com/track/0gAru4uTKvbE1Bqpv7u2hg) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [DREAM](https://open.spotify.com/album/4kPEribwdNUlPkXJ7PnbwK) | 2:22 | 2020-03-20 | 2020-07-18 |
 | [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2020-05-18 | 2022-04-21 |
 | [Starlight](https://open.spotify.com/track/7lYGmGag8kjKIhYt6Y65a8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/1f27ATRGBUjd7HxAYWRAs2) | 3:43 | 2020-05-18 | 2020-07-18 |

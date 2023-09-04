@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19029,
+  "num_followers": 19032,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2",
+  "snapshot_id": "MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -377,20 +377,24 @@
       "url": "https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
+      "added_at": "2021-11-12 19:00:50",
       "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+        "name": "Music For Psychedelic Therapy",
+        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
       },
       "artists": [
         {
           "name": "Jon Hopkins",
           "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "7RAYS",
+          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
         }
       ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+      "duration_ms": 382773,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -541,24 +545,20 @@
       "url": "https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz"
     },
     {
-      "added_at": "2021-11-12 19:00:50",
+      "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Music For Psychedelic Therapy",
-        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
       },
       "artists": [
         {
           "name": "Jon Hopkins",
           "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "7RAYS",
-          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
         }
       ],
-      "duration_ms": 382773,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -757,26 +757,6 @@
       "url": "https://open.spotify.com/track/4rbLiyMabI4JhlLeXqb5ps"
     },
     {
-      "added_at": "2022-05-18 01:33:16",
-      "album": {
-        "name": "Point Zero",
-        "url": "https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Jim Doney",
-          "url": "https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8"
-        }
-      ],
-      "duration_ms": 592013,
-      "name": "Morning Dancing",
-      "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"
-    },
-    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Mixing Colours",
@@ -811,6 +791,26 @@
       "duration_ms": 156073,
       "name": "12121",
       "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+    },
+    {
+      "added_at": "2022-05-18 01:33:16",
+      "album": {
+        "name": "Point Zero",
+        "url": "https://open.spotify.com/album/1ve0EVReU1tU7SKofALGXI"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Jim Doney",
+          "url": "https://open.spotify.com/artist/0DNaDKWd80xRDE0c6OUQJ8"
+        }
+      ],
+      "duration_ms": 592013,
+      "name": "Morning Dancing",
+      "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"
     },
     {
       "added_at": "2021-09-10 04:35:25",

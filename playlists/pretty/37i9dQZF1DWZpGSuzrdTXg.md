@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,365 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,442 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 8 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 |
 | 9 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
 | 10 | [Burning Bodies \- Stripped Down Sessions](https://open.spotify.com/track/6u9zuTh8p4mZ6reEmtRY28) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Burning Bodies \(Stripped Down Sessions\)](https://open.spotify.com/album/5wVHMsxeEQWolOug4Z2odi) | 2:46 |
-| 11 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 |
+| 11 | [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 |
 | 12 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/0E8afAKop5kTWKQ6BL9fub) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/6uMJVg0n7lQAT0X8XBLMEV) | 3:15 |
 | 13 | [I Won't](https://open.spotify.com/track/5ygnERCqjbRRvDxAUMGlsO) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [I Won't](https://open.spotify.com/album/0etuLc4PdQ5CG4YAINSnbs) | 3:35 |
 | 14 | [Choose](https://open.spotify.com/track/0ALBvFlwYodhGu6COmVspJ) | [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Choose](https://open.spotify.com/album/5uXVaWOm6gjQLj4KQL3Cyc) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [The Beauty](https://open.spotify.com/track/2gGN3tZeL4YfLwLlABQOr6) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Self\-Realization](https://open.spotify.com/album/0NGSY2d3hlo6vKo6ecP2bu) | 4:15 |
 | 100 | [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 |
 
-Snapshot ID: `MCxkYWE3MGU5ZDE1ZjZkYzY3YTUwNWUxYWVkZWQ3ZmIwYzViZThjZWM1`
+Snapshot ID: `MCw1NTcyNzhkMjE5ODY1YzMyMTZmODBkNWNiOTU3NGI2YzNkNDM1YzRh`

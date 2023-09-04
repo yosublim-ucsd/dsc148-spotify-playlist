@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ג׳יי למוטה
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,795 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,800 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [איפכא מסתברא](https://open.spotify.com/track/6WvkrdqrSXeErUnynJXqO6) | [Alma Zohar](https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9) | [איפכא מסתברא](https://open.spotify.com/album/317tFE9UUFY9CPqxfqmUHE) | 2:43 |
 | 50 | [מישהו שמח בשבילי](https://open.spotify.com/track/375NqvHr0pQBcjQnznSH69) | [Keren Peles](https://open.spotify.com/artist/1T4wAIwQNLsOLQRkPVurY9) | [מישהו שמח בשבילי](https://open.spotify.com/album/4gMosHHM0vU6qYW17vsDHi) | 2:41 |
 
-Snapshot ID: `MCw0YjVkYTllZmQ0ZTkzMzQ3YjVjYTUyYzI2ZDE4NWRlMWVmYjE4YjM5`
+Snapshot ID: `MCxlNzUwMzhmODVlMDY5OTNiMDQxZGE1NjFjYWY2ODlhMDIzOWE4Nzhk`

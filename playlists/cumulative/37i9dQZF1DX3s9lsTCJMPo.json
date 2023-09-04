@@ -4667,6 +4667,32 @@
     },
     {
       "album": {
+        "name": "Unforgettable: Soca 2016 Trinidad and Tobago Carnival",
+        "url": "https://open.spotify.com/album/0e3Jte2gn7G1GX8CjLPPaT"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/5Y9JDz8MZDfjlwq0uTuqrV"
+    },
+    {
+      "album": {
         "name": "Unforgettable (Soca 2016 Trinidad and Tobago Carnival)",
         "url": "https://open.spotify.com/album/4sTe2nlBN8YsoObl8WVxfr"
       },
@@ -4686,7 +4712,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 216947,
       "name": "Unforgettable (Soca 2016 Trinidad and Tobago Carnival)",
       "url": "https://open.spotify.com/track/1KDbylz0Lyu3TdmsiAUTSA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,654 likes - 173 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,676 likes - 173 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 150 | [PU$$Y DREAM](https://open.spotify.com/track/6bYPEbKGKeYdeFsmCGXy2A) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 2:44 |
 | 151 | [Bando](https://open.spotify.com/track/5VJ5Ap0ZnPOv0fRq6FhKrl) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Bando](https://open.spotify.com/album/1DRMfkqsmrHdjBdBp43Zov) | 2:34 |
 | 152 | [TRUCK RIDDIM](https://open.spotify.com/track/2zZGKXkFM2kCRrGULFK0gY) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [TRUCK RIDDIM](https://open.spotify.com/album/10QeKpvQ9IHAoP3eLhM2mb) | 2:08 |
-| 153 | [Handle Me Meat](https://open.spotify.com/track/4iftvpjOFBxmT0U24hoR09) | [Lateena](https://open.spotify.com/artist/4dtkobNa7o1TEJcSVXPjgi), [Modulaw](https://open.spotify.com/artist/5ACt4ZNWxucnrWD2dptwER) | [Luxurious Legacy](https://open.spotify.com/album/2x8YlD5zo7g1wfkCKbiP2D) | 2:18 |
+| 153 | [Handle Me Meat](https://open.spotify.com/track/1vdMtc2a376146bDFOtz60) | [Lateena](https://open.spotify.com/artist/4dtkobNa7o1TEJcSVXPjgi), [Modulaw](https://open.spotify.com/artist/5ACt4ZNWxucnrWD2dptwER) | [Luxurious Legacy](https://open.spotify.com/album/0RrdxyzVbCm5L4MBEuS3qG) | 2:18 |
 | 154 | [Again \(feat\. Ms Banks, Ms Dynamite & Jaykae\)](https://open.spotify.com/track/5BbEhd0nfUDwXcND1QdmFh) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [Again \(feat\. Ms Banks, Ms Dynamite & Jaykae\)](https://open.spotify.com/album/6xDOYXWGvaOh1IZwjj9H8C) | 2:27 |
 | 155 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 |
 | 156 | [The Vibes Is Right](https://open.spotify.com/track/6LWP6mzo3kJSZAQ3iUJij1) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Here I Come](https://open.spotify.com/album/4ZPHD6NhBlLyqhYcqf9OhK) | 4:16 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 172 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 173 | [Follow Me \- Skeptical Remix](https://open.spotify.com/track/040XDv8exmt03jJNMB6BhQ) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Skeptical](https://open.spotify.com/artist/28ee6rnxMl8AqwcroPfivP) | [Follow Me \(Remixes\)](https://open.spotify.com/album/2PuyaW7cXMyhikQ95l2jXU) | 3:49 |
 
-Snapshot ID: `MCxiNDE5OTY2ZTRmMGZmNzlmYTQzMzU1YTQyNGFiOWU0ZmU4NzZiMWMw`
+Snapshot ID: `MCxjZDZkZGEzZGEwYWNkYjdhOTU5MDFkM2QyYTcyYzI1MWQ5NTg0YmYz`

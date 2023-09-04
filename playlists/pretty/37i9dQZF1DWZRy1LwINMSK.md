@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,788 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,937 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 16 | [Como Lo Soñamos](https://open.spotify.com/track/5XrnoEO5tgKrpg2jLFoglw) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Como Lo Soñamos](https://open.spotify.com/album/152rAruglEOB88wWOGPxZI) | 3:18 |
 | 17 | [Illuminati \- Remix](https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Illuminati \(Remix\)](https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam) | 4:50 |
 | 18 | [Exotica \(feat\. La Zowi\)](https://open.spotify.com/track/03zrHVbUNHve5e7eIBMBGC) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:24 |
-| 19 | [RACE](https://open.spotify.com/track/6flQYfHgCMham7OPXa7qUG) | [Lil Snow](https://open.spotify.com/artist/6yYRLzRO7whe1IjNtvEQOV), [Daimi](https://open.spotify.com/artist/0oSYgbeZYjJ66WxzSMfFUv) | [RACE](https://open.spotify.com/album/6blNttxC90OPCTV67BHcgn) | 2:11 |
+| 19 | [RACE](https://open.spotify.com/track/6flQYfHgCMham7OPXa7qUG) | [Lil Snow](https://open.spotify.com/artist/6yYRLzRO7whe1IjNtvEQOV), [Daimi](https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W) | [RACE](https://open.spotify.com/album/6blNttxC90OPCTV67BHcgn) | 2:11 |
 | 20 | [No Quiero Atraso](https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [El Rey De Los Trenches](https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX) | 3:34 |
 | 21 | [FILOTEAO](https://open.spotify.com/track/4OWmGj76zFIHnLgN9VAqQT) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [FILOTEAO](https://open.spotify.com/album/5g0kpxa3LSsbjmMuc0UgGS) | 2:28 |
 | 22 | [Dinero](https://open.spotify.com/track/0rYe2Q8YgxMYJU0K0P5ZCY) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Dinero](https://open.spotify.com/album/78pA1wKO2gtUy6oEpil36j) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Hard Style](https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hard Style](https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8) | 2:02 |
 | 100 | [Perco Con Mari \- Remastered](https://open.spotify.com/track/0HKqQcmVbtXhoxLGPZRq8J) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Inmortal](https://open.spotify.com/album/2tzC3V05vkZW60Ch6G5KJW) | 3:56 |
 
-Snapshot ID: `MCwwOGM5ZDQ5MzVlNGNmMmE2OTBkZjIyYzM0ZTIxZThiM2FiZTlhMGE2`
+Snapshot ID: `MCw4NTMzMGM0ZmM1OGM1YWIxNDQzMThhMmRhM2FkOTY2MjFlYzZiMTlm`

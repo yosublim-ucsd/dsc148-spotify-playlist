@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Alan Jackson's classic hit \"Chattahoochee\" on 90s Country! ",
-  "num_followers": 1682326,
+  "num_followers": 1683506,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTBlZDZmNjJhYzdmZjRjNjM3MGQzOGZmNWE5YTJlYWQ3NDExOGVh",
+  "snapshot_id": "MCwzMjk0NWVhYmEyYjViMzI0ZTg2YjM0OTQzOTUzNmQ0YWMzZGFiYzAw",
   "tracks": [
     {
       "added_at": "2023-08-21 19:33:25",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-21 19:33:25",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
-    },
-    {
-      "added_at": "2023-08-21 19:33:25",
-      "album": {
         "name": "Everything I Love",
         "url": "https://open.spotify.com/album/4kZm2gtXOwFsXXQZZaYEhW"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 158626,
       "name": "Little Bitty",
       "url": "https://open.spotify.com/track/2IY559smG7SXYk229NA2Vl"
+    },
+    {
+      "added_at": "2023-08-21 19:33:25",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-08-21 19:33:25",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "No Doubt About It",
-      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
-    },
-    {
-      "added_at": "2023-08-21 19:33:25",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 215600,
       "name": "A Broken Wing",
       "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
+    },
+    {
+      "added_at": "2023-08-21 19:33:25",
+      "album": {
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "No Doubt About It",
+      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-08-21 19:33:25",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
-    },
-    {
-      "added_at": "2023-08-21 19:33:25",
-      "album": {
         "name": "For My Broken Heart",
         "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 182306,
       "name": "Drink, Swear, Steal & Lie",
       "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2023-08-21 19:33:25",
+      "album": {
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-08-21 19:33:25",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "I Love the Way You Love Me",
-      "url": "https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE"
-    },
-    {
-      "added_at": "2023-08-21 19:33:25",
-      "album": {
         "name": "Homeward Looking Angel",
         "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 187733,
       "name": "Shake The Sugar Tree",
       "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
+    },
+    {
+      "added_at": "2023-08-21 19:33:25",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "I Love the Way You Love Me",
+      "url": "https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -2179,6 +2179,22 @@
       "duration_ms": 192693,
       "name": "Hillbilly Shoes",
       "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
+    },
+    {
+      "added_at": "2023-08-21 19:33:25",
+      "album": {
+        "name": "Wynonna",
+        "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "No One Else On Earth",
+      "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
     },
     {
       "added_at": "2023-08-21 19:33:25",
@@ -2243,22 +2259,6 @@
       "duration_ms": 298560,
       "name": "How Can I Help You Say Goodbye",
       "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
-    },
-    {
-      "added_at": "2023-08-21 19:33:25",
-      "album": {
-        "name": "Wynonna",
-        "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "No One Else On Earth",
-      "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
     },
     {
       "added_at": "2023-08-21 19:33:25",

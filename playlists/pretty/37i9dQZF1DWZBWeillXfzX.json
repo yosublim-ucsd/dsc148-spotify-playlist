@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19822,
+  "num_followers": 19844,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWJjYjg1M2Q1ZjRhN2U4NDI4YTllYWYwYjE4NGJkNzM1MDJjNDAz",
+  "snapshot_id": "MCwyYzRiMDhjMTYyZGMwYzUyMGJmYTJmMGY3MjFlY2JiZWNmOTkwMmM4",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Lay It On Down",
-        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 293506,
-      "name": "Nothing But The Night",
-      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 365440,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Lay It On Down",
+        "url": "https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 293506,
+      "name": "Nothing But The Night",
+      "url": "https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -339,22 +339,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "The Traveler",
-        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387706,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Roll With the Punches",
         "url": "https://open.spotify.com/album/1oymNh3Qb6oP1ofEVfx2Q1"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 191880,
       "name": "Roll With the Punches",
       "url": "https://open.spotify.com/track/5sej6MESWdzGt72FDOXDME"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387706,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 250182,
+      "name": "Brown Gatton",
+      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+    },
+    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Surfing",
@@ -491,18 +507,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
+        "name": "Chills & Thrills",
+        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
       },
       "artists": [
         {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 250182,
-      "name": "Brown Gatton",
-      "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
+      "duration_ms": 241706,
+      "name": "Groove With Me",
+      "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -523,22 +539,6 @@
       "duration_ms": 446346,
       "name": "Coal Tattoo",
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Chills & Thrills",
-        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Groove With Me",
-      "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -623,8 +623,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Defenestrator",
-        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
+        "name": "Unrepentant",
+        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 428577,
-      "name": "Chief's Blues",
-      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
+      "duration_ms": 599678,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -685,6 +685,22 @@
       "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
+      "added_at": "2021-04-27 23:04:41",
+      "album": {
+        "name": "Raisin' Cain",
+        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
+      },
+      "artists": [
+        {
+          "name": "Chris Cain",
+          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Bottleneck Stomp",
@@ -703,22 +719,6 @@
       "duration_ms": 201859,
       "name": "Bottleneck Stomp",
       "url": "https://open.spotify.com/track/31tYuBrDa4HN45hxSp4Bc6"
-    },
-    {
-      "added_at": "2021-04-27 23:04:41",
-      "album": {
-        "name": "Raisin' Cain",
-        "url": "https://open.spotify.com/album/2Ez2n6EAa9Xp7dfOacCbEY"
-      },
-      "artists": [
-        {
-          "name": "Chris Cain",
-          "url": "https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/4NSUSn0ypWV9tnB88Loygy"
     },
     {
       "added_at": "2021-09-03 04:01:00",
@@ -771,8 +771,8 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Unrepentant",
-        "url": "https://open.spotify.com/album/2rkB2Xplv6eQeEI2MhQVC1"
+        "name": "Defenestrator",
+        "url": "https://open.spotify.com/album/7Gr8iZYU89gbFwvao6MA3h"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5Y6wPwVr2krTASRASpMLsC"
         }
       ],
-      "duration_ms": 599678,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/6JojEmIb1NMNEGpAlDDKhj"
+      "duration_ms": 428577,
+      "name": "Chief's Blues",
+      "url": "https://open.spotify.com/track/0MtLzhrCsKEwFipuRI532O"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Over Your Head",
-        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 388893,
-      "name": "Pusher",
-      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 335546,
       "name": "Signs",
       "url": "https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Over Your Head",
+        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 388893,
+      "name": "Pusher",
+      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
     }
   ],
   "unique_name": "Modern Blues Guitar",

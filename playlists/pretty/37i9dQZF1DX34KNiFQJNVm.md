@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima e Ana Castela, Luísa Sonza, MC IG, Péricles e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,911,188 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,911,888 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 2 | [Penhasco2](https://open.spotify.com/track/2COgAa5ipUrdTuWjyqb10X) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:53 |
 | 3 | [Praia](https://open.spotify.com/track/75JlpOk8thoMwUVr0zU47e) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Praia](https://open.spotify.com/album/3KAWgKtBr7uLyXLgaVw99C) | 3:31 |
 | 4 | [Docinho de Festa \- Ao Vivo](https://open.spotify.com/track/15xjQmamOgEuH5GiuFY3hA) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Docinho de Festa \(Ao Vivo\)](https://open.spotify.com/album/4QY9i04RVDziAQR5xnvreW) | 2:41 |
-| 5 | [Por Isso Que Eu Bebo \- Ao Vivo](https://open.spotify.com/track/4lzuXRtIXxtRp4LSHvZgMe) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [15 Anos \(Ao Vivo / EP03\)](https://open.spotify.com/album/5AvsnWxFcSW3jlNIV2ktlL) | 2:36 |
+| 5 | [Por Isso Que Eu Bebo \- Ao Vivo](https://open.spotify.com/track/2J2K60cIt2h7nv5cDy7W2V) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Por Isso Que Eu Bebo \(Ao Vivo\)](https://open.spotify.com/album/2qGVtuTtQ2EdkHq3SfhacM) | 2:36 |
 | 6 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 |
 | 7 | [Sem Gin, Sem Ela 2](https://open.spotify.com/track/41vXO1HYd7VywQbpCXaJwM) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Meu Nome Não é Igor %](https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI) | 5:26 |
 | 8 | [Qdo Ce Me Vê](https://open.spotify.com/track/6b0vkISczGYEbeRpAUI6fv) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:40 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Hey Baby](https://open.spotify.com/track/0ZX1bxYtFUenUaS1qDFdDP) | [LEO PICON](https://open.spotify.com/artist/45TcI7iDzGzBpe6YTQMEZ2), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Hey Baby](https://open.spotify.com/album/2wRwEduAaPPz34xIvXYG8y) | 2:49 |
 | 99 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 
-Snapshot ID: `MCwxZDFkMTc5ZWZkOWM2OTFjZGYyN2Y1NDA1ZjBmMGFhZTcyMzlhNTEx`
+Snapshot ID: `MCwwNzk3ZmRjNDlmZDEyMWEwN2E0OTEzOWVlMDg1MDI4YzExNTk1OTVh`

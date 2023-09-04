@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,458 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,472 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 13 | [Crackalacka](https://open.spotify.com/track/6cxujOKEfegpNfIhb7Ma6v) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/6PEL9tRZqgzzxq3RmpOm9O) | 3:57 |
 | 14 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
 | 15 | [The Way I Walk](https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:40 |
-| 16 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 |
-| 17 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
+| 16 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
+| 17 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 |
 | 18 | [Nitroglycerine](https://open.spotify.com/track/36f45es7EH7JyT4sFl1irf) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 3:52 |
 | 19 | [Fishfight](https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & Bbq Show](https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE) | 2:50 |
 | 20 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 43 | [Get It!](https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:03 |
 | 44 | [\(Oh Mom\) Teach Me How to Uncle Willy](https://open.spotify.com/track/3vfJ46ozwgF37hLweVMDnj) | [Les Sexareenos](https://open.spotify.com/artist/0jTOyh4tUJWtIMDV73fcN4) | [14 Frenzied Shakers](https://open.spotify.com/album/2CTnUp9DpibklvypLkEQKz) | 2:34 |
 | 45 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
-| 46 | [Michigan Blues](https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP) | [The Hentchmen](https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh) | [Broad Appeal](https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx) | 2:10 |
-| 47 | [Trying Just to Please You](https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1) | [Lyres](https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml) | [On Fyre](https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f) | 4:25 |
+| 46 | [Trying Just to Please You](https://open.spotify.com/track/44Q7Xmxm0oeASUEQsxHnn1) | [Lyres](https://open.spotify.com/artist/5b0wQCgdlG1Dk4N67lguml) | [On Fyre](https://open.spotify.com/album/7Ctxktj9vqhIoRvchmFB0f) | 4:25 |
+| 47 | [Michigan Blues](https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP) | [The Hentchmen](https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh) | [Broad Appeal](https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx) | 2:10 |
 | 48 | [Oh Yeah](https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Thee Caesars of Trash](https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW) | 2:41 |
 | 49 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCw3ODg4ZTE3ZmFkNmZkNGViZmMxNjA4YmIyYWRjZmRhYTBmYmE3Nzk0`
+Snapshot ID: `MCwzZTlhZjU4ZDdlYmQxMDU3NzYyZjBhOWFhYmRjMzYwZjNhMjE0YjQ2`

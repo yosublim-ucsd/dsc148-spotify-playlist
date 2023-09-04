@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 14022,
+  "num_followers": 14050,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmY4MDA1ZDM4YjdkNzRmM2M3M2QyNThmYWM1MjA0M2IxYWJmOTdh",
+  "snapshot_id": "MCwyY2FjZTljNzdjYjM3ZjI5ZWZlZDA5ZTNhMGRkNzBhZjZhZTY3MTc2",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -871,22 +871,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
-        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
+        "name": "SKI",
+        "url": "https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 186906,
-      "name": "My Bro",
-      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+      "duration_ms": 154285,
+      "name": "SKI",
+      "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -911,18 +907,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "SKI",
-        "url": "https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF"
+        "name": "BILLION DOLLAR DREAM (Deluxe Version)",
+        "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 154285,
-      "name": "SKI",
-      "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
+      "duration_ms": 186906,
+      "name": "My Bro",
+      "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
     },
     {
       "added_at": "2023-08-17 23:00:00",

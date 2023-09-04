@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Lakeview",
-  "num_followers": 557214,
+  "num_followers": 557531,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjRmYTAwZTljMWU3ZTAzMmM5YjZjYzYzZWY5NzdjZTMxZWM3YWY5",
+  "snapshot_id": "MCxjNzBmMzlkNjRlOTg0NzZkYTJjMWY2N2EzYWY4ZmIxNjZiOTU2MDY0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Money Spent",
-      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
+      "duration_ms": 227226,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 227226,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+      "duration_ms": 156610,
+      "name": "Money Spent",
+      "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -859,18 +859,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Tough Crowd",
-        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
+        "name": "Stack of Records",
+        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 200200,
-      "name": "Tough Crowd",
-      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
+      "duration_ms": 183403,
+      "name": "In Love With My Problems (feat. Jon Pardi)",
+      "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -939,26 +947,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Stack of Records",
-        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
+        "name": "Tough Crowd",
+        "url": "https://open.spotify.com/album/3BC1GZqDkYOdF0Icf2iebE"
       },
       "artists": [
         {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 183403,
-      "name": "In Love With My Problems (feat. Jon Pardi)",
-      "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+      "duration_ms": 200200,
+      "name": "Tough Crowd",
+      "url": "https://open.spotify.com/track/3CK7htQR2ighxCjU2vra9z"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1111,22 +1111,30 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
         },
         {
-          "name": "The Rockin' CJB",
-          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        },
+        {
+          "name": "Ivan Moody",
+          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
+        },
+        {
+          "name": "Mick Mars",
+          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
-      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+      "duration_ms": 197234,
+      "name": "Outlaws & Outsiders",
+      "url": "https://open.spotify.com/track/2C2ExKriHRkD9qNilogjXn"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1163,18 +1171,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "The Rockin' CJB",
+          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
         }
       ],
-      "duration_ms": 218528,
-      "name": "Trailer Park",
-      "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
+      "duration_ms": 257079,
+      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
+      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1199,18 +1211,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Manchester",
-        "url": "https://open.spotify.com/album/4u7tys2Fn3FDS5gVUJEJWB"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "Sam Grow",
-          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 161973,
-      "name": "Over Me By Now",
-      "url": "https://open.spotify.com/track/2KLAl3FGKwh0jxbxR7jYWI"
+      "duration_ms": 218528,
+      "name": "Trailer Park",
+      "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1263,18 +1275,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+        "name": "Manchester",
+        "url": "https://open.spotify.com/album/4u7tys2Fn3FDS5gVUJEJWB"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
         }
       ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+      "duration_ms": 161973,
+      "name": "Over Me By Now",
+      "url": "https://open.spotify.com/track/2KLAl3FGKwh0jxbxR7jYWI"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1295,6 +1307,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -1307,22 +1335,6 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "BRINGING BACK THE SUNSHINE",
-        "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 221401,
-      "name": "Neon Light",
-      "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1343,30 +1355,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU"
+        "name": "BRINGING BACK THE SUNSHINE",
+        "url": "https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT"
       },
       "artists": [
         {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        },
-        {
-          "name": "Ivan Moody",
-          "url": "https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD"
-        },
-        {
-          "name": "Mick Mars",
-          "url": "https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 197234,
-      "name": "Outlaws & Outsiders",
-      "url": "https://open.spotify.com/track/2C2ExKriHRkD9qNilogjXn"
+      "duration_ms": 221401,
+      "name": "Neon Light",
+      "url": "https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "ALL GAS",
-        "url": "https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv"
+        "name": "South of Somewhere",
+        "url": "https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly"
       },
       "artists": [
         {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        },
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Dusty Black",
+          "url": "https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO"
         }
       ],
-      "duration_ms": 169915,
-      "name": "ALL GAS",
-      "url": "https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga"
+      "duration_ms": 155348,
+      "name": "Them Boots",
+      "url": "https://open.spotify.com/track/1inAmPzZBNjKr7nU8cGbjT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1579,18 +1575,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "South of Somewhere",
-        "url": "https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly"
+        "name": "ALL GAS",
+        "url": "https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv"
       },
       "artists": [
         {
-          "name": "Dusty Black",
-          "url": "https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 155348,
-      "name": "Them Boots",
-      "url": "https://open.spotify.com/track/1inAmPzZBNjKr7nU8cGbjT"
+      "duration_ms": 169915,
+      "name": "ALL GAS",
+      "url": "https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga"
     },
     {
       "added_at": "2023-09-01 04:00:00",

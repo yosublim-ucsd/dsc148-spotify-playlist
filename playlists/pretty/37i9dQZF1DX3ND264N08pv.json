@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 53679,
+  "num_followers": 53848,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWEyNDJlOGI0OGNjZWJlODM3ZjMxNmE3NGQxOTIxNWFlODY4ZjJj",
+  "snapshot_id": "MCwzZDM2YmQxNjRmNTBiOWIxOWVkZTJlYWE5MTk3MjUzMzkzM2IzNWM2",
   "tracks": [
     {
       "added_at": "2023-09-01 08:39:34",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-09-01 08:39:34",
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2023-09-01 08:39:34",
+      "album": {
         "name": "Outta Here",
         "url": "https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 138500,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
-    },
-    {
-      "added_at": "2023-09-01 08:39:34",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2023-09-01 08:39:34",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-09-01 08:39:34",
       "album": {
+        "name": "Adrenaline Kicks",
+        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
+      },
+      "artists": [
+        {
+          "name": "Jur Terreur",
+          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
+        }
+      ],
+      "duration_ms": 160390,
+      "name": "Adrenaline Kicks",
+      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
+    },
+    {
+      "added_at": "2023-09-01 08:39:34",
+      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 167996,
       "name": "Adrenaline - Never Surrender Remix",
       "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
-    },
-    {
-      "added_at": "2023-09-01 08:39:34",
-      "album": {
-        "name": "Adrenaline Kicks",
-        "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
-      },
-      "artists": [
-        {
-          "name": "Jur Terreur",
-          "url": "https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u"
-        }
-      ],
-      "duration_ms": 160390,
-      "name": "Adrenaline Kicks",
-      "url": "https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA"
     },
     {
       "added_at": "2023-09-01 08:39:34",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2023-09-01 08:39:34",
       "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
+      },
+      "artists": [
+        {
+          "name": "Bulletproof",
+          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 240300,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
+    },
+    {
+      "added_at": "2023-09-01 08:39:34",
+      "album": {
         "name": "Go Wild Now",
         "url": "https://open.spotify.com/album/5SyasrNQvjgKmVuEPuyrH1"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 173100,
       "name": "Go Wild Now",
       "url": "https://open.spotify.com/track/4bLBf2HAZj2X8ENelaqWnW"
-    },
-    {
-      "added_at": "2023-09-01 08:39:34",
-      "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1"
-      },
-      "artists": [
-        {
-          "name": "Bulletproof",
-          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
-        }
-      ],
-      "duration_ms": 240300,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG"
     },
     {
       "added_at": "2023-09-01 08:39:34",

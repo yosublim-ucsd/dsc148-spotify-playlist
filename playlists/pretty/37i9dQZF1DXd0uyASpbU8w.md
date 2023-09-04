@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=A5mc71RFRBysDrajiP0\_Pw">Lloyiso</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,272 likes - 58 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,315 likes - 58 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 39 | [Soze Ndixole](https://open.spotify.com/track/5IE6y5Vqx6bjSws7ZhuCUe) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8), [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Soze Ndixole](https://open.spotify.com/album/1aKY1cEE7H73nw7U1RPs6h) | 4:22 |
 | 40 | [Ngiyatisola](https://open.spotify.com/track/28ct4TYD21H6TxGjPJwLFY) | [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Ngiyatisola](https://open.spotify.com/album/3AKvurqxhEhOhTuiM8VlNu) | 4:27 |
 | 41 | [Gumbamane \(Remix\)](https://open.spotify.com/track/5oYmCiBPniSr92PEBlm3it) | [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Isicathamiya for a New Millennium](https://open.spotify.com/album/3aQyjwYXLzhZGbXdjSzgLI) | 3:11 |
-| 42 | [JELO](https://open.spotify.com/track/2p2IUL7Wn1W4bSCxrYSFEh) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO](https://open.spotify.com/album/4zyiP8Ik1unh9IeaW32Zb3) | 2:25 |
+| 42 | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b) | 2:25 |
 | 43 | [Range 95’](https://open.spotify.com/track/5f1hCTY2bQk6rVbr9N0AzG) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 2:59 |
 | 44 | [Love enough?](https://open.spotify.com/track/6ywtoR71MyCIO7OxuHSwwv) | [VtheVowel](https://open.spotify.com/artist/1Bas48Gj8Q0nKgrx4Dm25X) | [Love enough?](https://open.spotify.com/album/2aP8gnv7gIU0gAg97UNIvR) | 2:36 |
 | 45 | [Advice](https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Advice](https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM) | 2:45 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 57 | [It's You](https://open.spotify.com/track/1Lvniduwuk2kVWtcTBAypq) | [Liam Burger](https://open.spotify.com/artist/3JsjTWQhgrDRI1HPAG1lbZ) | [It's You](https://open.spotify.com/album/6eQKQdyr0WPuLZ9TzTHqJT) | 3:13 |
 | 58 | [My Own Accord](https://open.spotify.com/track/4LljozlQfsmFsIj8EJPpBi) | [Derónshay](https://open.spotify.com/artist/2rIPVjV2J92G2iwJR7jjNY) | [My Own Accord](https://open.spotify.com/album/4fLYghi1U2Q4WOWHPAIYfK) | 3:47 |
 
-Snapshot ID: `MCxjZmNmZjczYzEyYzRiOTUzNjIzZTliODg3YzJjMjk2YTNkMWQ1NmM0`
+Snapshot ID: `MCw2YTM2NTZiZGMyOTNhYzUzYzQ1Mjg3NTA1NmRmZDVjMjBmYmNjYTgx`

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: F\u00faria",
-  "num_followers": 123839,
+  "num_followers": 123893,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTRjNWQ4MDg0Zjc1NmJhYmZhZTNiMWVkODQwOGQ1YzhlZTcwODBj",
+  "snapshot_id": "MCw2OGY3OGIxMTYyNTc3NjdmODQxYjFmMTlkNjY3OGRjNDQ0OWI2ZDg5",
   "tracks": [
     {
       "added_at": "2023-09-01 15:03:02",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Sereno",
-        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
+        "name": "Drip Sesh, Vol. 1",
+        "url": "https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK"
       },
       "artists": [
         {
@@ -1040,17 +1040,13 @@
           "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "Did Brock",
-          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Vianna",
+          "url": "https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA"
         }
       ],
-      "duration_ms": 136072,
-      "name": "Sereno",
-      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
+      "duration_ms": 150581,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -1255,8 +1251,8 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Drip Sesh, Vol. 1",
-        "url": "https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK"
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ"
       },
       "artists": [
         {
@@ -1264,13 +1260,17 @@
           "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "Vianna",
-          "url": "https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA"
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 150581,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm"
+      "duration_ms": 136072,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4"
     }
   ],
   "unique_name": "O Drip",

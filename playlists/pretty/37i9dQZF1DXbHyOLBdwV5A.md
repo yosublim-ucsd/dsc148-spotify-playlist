@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,304 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,388 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 12 | [Só o Começo \- Remix](https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN) | [Só o Começo \(Remix\)](https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt) | 4:03 |
 | 13 | [Eu Tenho Você \(Remix\)](https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Me Faz Viver](https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN) | 3:11 |
 | 14 | [A Casa Sou Eu \- Remix](https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [A Casa Sou Eu](https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ) | 3:45 |
-| 15 | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Valéria Amanajáz](https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM) | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS) | 2:40 |
-| 16 | [Controle \(Remix\)](https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Controle \(Remix\)](https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs) | 2:39 |
+| 15 | [Controle \(Remix\)](https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Controle \(Remix\)](https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs) | 2:39 |
+| 16 | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Valéria Amanajáz](https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM) | [Vivo Estás \(feat\. Valéria Amanajáz\)](https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS) | 2:40 |
 | 17 | [Yeshua + Só Quero Ver Você \(feat\. Marcelo Markes\)](https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Marcelo Markes](https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze) | [Yeshua + Só Quero Ver Você](https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O) | 4:18 |
 | 18 | [Loucura \- Remix](https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ) | [Loucura \(Remix\)](https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3) | 3:45 |
 | 19 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 75 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 
-Snapshot ID: `MCxhOGFiNTNmYWY0YTY1YzMyMGVlMTIxNmUyOThiY2MzNTE3YWI0YjU1`
+Snapshot ID: `MCwwYWVjNGY1YzRkZmY3YzhhOWJiYmUxNzQ1ODE4YjVlMGIwODlhMDdh`

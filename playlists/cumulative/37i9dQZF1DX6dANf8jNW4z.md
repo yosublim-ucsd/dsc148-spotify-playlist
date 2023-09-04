@@ -4,7 +4,7 @@
 
 > Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Chanel.
 
-826 songs - 1 day 18 hr 40 min
+827 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,8 @@
 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 | 2022-01-04 | 2022-02-02 |
 | [Hoy Que No Estás](https://open.spotify.com/track/6bOwMcT674402cVAVVFSiZ) | [AMANDA](https://open.spotify.com/artist/4JvL8ZzqJ6vtIbk3Wvu3mf) | [Hoy Que No Estás](https://open.spotify.com/album/0GLyBJymZrorb1C3ITs5Qp) | 3:40 | 2022-04-06 | 2022-05-04 |
 | [I Hate Dancing](https://open.spotify.com/track/2WDkiVkrnaSYJrOgEJeUgp) | [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Strange Times Forever](https://open.spotify.com/album/7zYyE3fwGkP5TNCkTmue48) | 3:35 | 2022-05-31 | 2022-07-06 |
-| [Idontcare](https://open.spotify.com/track/3auEsQ5Giiq00wKB03OYW4) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Idontcare](https://open.spotify.com/album/5fg2vKw9zC4itDuLDAe6Bf) | 2:17 | 2023-08-01 |  |
+| [Idontcare](https://open.spotify.com/track/3auEsQ5Giiq00wKB03OYW4) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Idontcare](https://open.spotify.com/album/5fg2vKw9zC4itDuLDAe6Bf) | 2:17 | 2023-08-01 | 2023-09-04 |
+| [Idontcare](https://open.spotify.com/track/5TH7eahEzPYLNBlyYg5w6s) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Baby Light](https://open.spotify.com/album/1Qs797anlH3ARchZlIEyvw) | 2:17 | 2023-08-01 |  |
 | [Ilesa](https://open.spotify.com/track/4LUxYvU2Z59ctwFdAOV6v4) | [Cala](https://open.spotify.com/artist/6g6FL64oqvd0338u2g7vZt) | [Ilesa](https://open.spotify.com/album/0WPokicGMsV6dDAUM7Y5nS) | 4:43 | 2023-08-01 |  |
 | [IM PRESS](https://open.spotify.com/track/3Nk3YpFPkKzkqN9aU3F3yx) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [IM PRESS](https://open.spotify.com/album/7AcOp96wcmoB1p8Vu3AvND) | 4:11 | 2022-04-06 | 2022-05-04 |
 | [Imagina](https://open.spotify.com/track/36YLNt1sPqaFJw2LXyXHZH) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Latidos y Culebras](https://open.spotify.com/album/3AP47uH2hSqW7k1xeJcEFF) | 3:11 | 2022-02-01 | 2022-03-08 |

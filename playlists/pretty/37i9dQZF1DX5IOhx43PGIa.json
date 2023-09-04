@@ -1,12 +1,12 @@
 {
   "description": "Wasia Project takes over Jasmine in celebration of ESEA Month in the UK!",
-  "num_followers": 275411,
+  "num_followers": 275532,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDlmMWQxYzk3ODI5NTg2YzA3MTc1ZDI1N2NlNjhkZjViM2U0Yzgx",
+  "snapshot_id": "MCw2YzkxYzIxN2I5MGNiYjU0OTE3ODVmMjkzOWIxMDA2OTc1MjljNzli",
   "tracks": [
     {
       "added_at": "2023-09-01 16:55:22",
@@ -111,8 +111,8 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "L.O.L.",
-        "url": "https://open.spotify.com/album/4RV7mYw4f0yjPfWfArZn3j"
+        "name": "L.O.L. (Lack Of Love)",
+        "url": "https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP"
       },
       "artists": [
         {
@@ -121,8 +121,8 @@
         }
       ],
       "duration_ms": 84800,
-      "name": "Dream \u301c\u5922\u306e\u30d1\u30d4\u30fc",
-      "url": "https://open.spotify.com/track/1ccJr53u1pzlApnQNcUME9"
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "NewJeans 'OMG'",
-        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Bug Like an Angel",
-        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 212333,
-      "name": "Bug Like an Angel",
-      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
         "name": "Baari",
         "url": "https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+        "name": "to love in the 21st century",
+        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+      "duration_ms": 183693,
+      "name": "the alternative",
+      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "to love in the 21st century",
-        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "the alternative",
-      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 173661,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1411,18 +1427,34 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
+        "name": "life with u",
+        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
       },
       "artists": [
         {
-          "name": "Weston Estate",
-          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 173661,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
+      "duration_ms": 205275,
+      "name": "life with u",
+      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Unlearn You",
+      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1459,22 +1491,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Unlearn You",
-      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "Like Me, Like Me",
         "url": "https://open.spotify.com/album/022V8TNgMqyKKLkqTD5TUO"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "life with u",
-        "url": "https://open.spotify.com/album/0pndWJdduaG9vP1PPAjYK8"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 205275,
-      "name": "life with u",
-      "url": "https://open.spotify.com/track/26kZ0HPufaLqvshDE3UVw6"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "Sandhills",
         "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 205546,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "House on a Hill",
-        "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "House on a Hill",
-      "url": "https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "Steal The Show",
         "url": "https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 180640,
       "name": "Steal The Show",
       "url": "https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "House on a Hill",
+        "url": "https://open.spotify.com/album/0h8Vq0ZgnV8W5H3skqwArY"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "House on a Hill",
+      "url": "https://open.spotify.com/track/45j87ToTmijZzMNxtotmXa"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1607,22 +1623,6 @@
       "duration_ms": 224940,
       "name": "in my head",
       "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 220550,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "Silly Love Songs",
         "url": "https://open.spotify.com/album/5FZm6Nj2ulvZCo63obL8rx"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 118526,
       "name": "Silly Love Songs",
       "url": "https://open.spotify.com/track/6KEF78ngLEdX2lZ1kgiqOZ"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 220550,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Ballroom Extravaganza",
-        "url": "https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 189946,
-      "name": "Ballroom Extravaganza",
-      "url": "https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
         "name": "locket",
         "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 104850,
       "name": "locket",
       "url": "https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "Ballroom Extravaganza",
+        "url": "https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "I Just Wanna Know",
-        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
+        "name": "Ya Ya",
+        "url": "https://open.spotify.com/album/0nrNwgR8o24TRZK3BPNs1V"
       },
       "artists": [
         {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+          "name": "Dinah Jane",
+          "url": "https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V"
         }
       ],
-      "duration_ms": 144489,
-      "name": "I Just Wanna Know",
-      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
+      "duration_ms": 213082,
+      "name": "Ya Ya",
+      "url": "https://open.spotify.com/track/30xQOGi9kqeGU24U0VIjG0"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Ya Ya",
-        "url": "https://open.spotify.com/album/0nrNwgR8o24TRZK3BPNs1V"
+        "name": "I Just Wanna Know",
+        "url": "https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T"
       },
       "artists": [
         {
-          "name": "Dinah Jane",
-          "url": "https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V"
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
         }
       ],
-      "duration_ms": 213082,
-      "name": "Ya Ya",
-      "url": "https://open.spotify.com/track/30xQOGi9kqeGU24U0VIjG0"
+      "duration_ms": 144489,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -1987,6 +1987,22 @@
       "duration_ms": 179360,
       "name": "Paper Houses",
       "url": "https://open.spotify.com/track/2jv3yDXy6TQR36jdHmsuUf"
+    },
+    {
+      "added_at": "2023-09-01 16:55:22",
+      "album": {
+        "name": "9 to 5",
+        "url": "https://open.spotify.com/album/4dNCzcO3RUpc3aZkIomzVr"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "duration_ms": 183774,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/0aLAwhKDqPl7ZtOS9BWElO"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -2011,18 +2027,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "9 to 5",
-        "url": "https://open.spotify.com/album/4dNCzcO3RUpc3aZkIomzVr"
+        "name": "see you in hell",
+        "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
       },
       "artists": [
         {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
         }
       ],
-      "duration_ms": 183774,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/0aLAwhKDqPl7ZtOS9BWElO"
+      "duration_ms": 172430,
+      "name": "see you in hell",
+      "url": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -2039,22 +2055,6 @@
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
-    },
-    {
-      "added_at": "2023-09-01 16:55:22",
-      "album": {
-        "name": "see you in hell",
-        "url": "https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM"
-      },
-      "artists": [
-        {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
-        }
-      ],
-      "duration_ms": 172430,
-      "name": "see you in hell",
-      "url": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"
     },
     {
       "added_at": "2023-09-01 16:55:22",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2023-09-01 16:55:22",
       "album": {
-        "name": "Easily",
-        "url": "https://open.spotify.com/album/2M8WcUUESGhKwiDeradUxW"
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
       },
       "artists": [
         {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 193825,
-      "name": "Easily",
-      "url": "https://open.spotify.com/track/5kbMmcJtPuTtmmWM2pcbau"
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
     }
   ],
   "unique_name": "Jasmine",

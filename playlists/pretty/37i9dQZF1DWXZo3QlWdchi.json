@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 286388,
+  "num_followers": 286550,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTY2MzAzOGQ0NDFjNzU2ZTIwM2JjMzJhODYwMGM3ZDhiMmZjMGI5",
+  "snapshot_id": "MCwxZGEzMDA3MmRiZDczYWIyNjdiMmI1MDZhZjUwNmRlNWQ4MjM5MTEx",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Chor\u00e3o: Marginal Alado",
-        "url": "https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 128106,
-      "name": "O Coro Vai Come - Ao Vivo",
-      "url": "https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "What's My Age Again? (Acoustic)",
         "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 146105,
       "name": "What's My Age Again? - Acoustic",
       "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Chor\u00e3o: Marginal Alado",
+        "url": "https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 128106,
+      "name": "O Coro Vai Come - Ao Vivo",
+      "url": "https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t"
     },
     {
       "added_at": "2023-09-01 03:01:00",

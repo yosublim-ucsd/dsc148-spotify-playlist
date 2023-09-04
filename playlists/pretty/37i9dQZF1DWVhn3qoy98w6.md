@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: Mauri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,590 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,598 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Lagartos](https://open.spotify.com/track/49dEMyXHanDQeWkzF4sVPa) | [Oliver Enigma](https://open.spotify.com/artist/7wvZWIcQasZJ9lMaZTzYMg), [Ravenger.](https://open.spotify.com/artist/2PANiwk7wg13SSkvflsJTE) | [Lagartos](https://open.spotify.com/album/0BlL2oHotsJ5RGAm1Dlir3) | 2:18 |
 | 50 | [AETANA](https://open.spotify.com/track/2vrjyGDYWx8vecCsp4eDrh) | [exit303](https://open.spotify.com/artist/3B77kZJvJq4OR9qsC7UXNW), [COCO M](https://open.spotify.com/artist/0obEl6zeIkV1zTIkoYujYC) | [AETANA](https://open.spotify.com/album/0ZEZBn3P4GRhHYGxc9GmSR) | 2:07 |
 
-Snapshot ID: `MCw5YjM3OWM2NDNjMTFjODg2Y2QwMGUxNjY1MjlmYzk3YTc4NjkyZWY4`
+Snapshot ID: `MCxmNWI5MDNlNGUxNGY0MDczNjdlZjAwM2U1MDQ2MGNlOGZlZWYyNDhl`

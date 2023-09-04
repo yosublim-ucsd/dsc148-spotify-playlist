@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-943 songs - 2 day 10 hr 17 min
+944 songs - 2 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [on our journey feat.Shingo Sekiguchi](https://open.spotify.com/track/3CbnAD1zSEGhmrYpvJoEdd) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [関口シンゴ](https://open.spotify.com/artist/3fKuiwNIx4A4ljcpAUKHIz) | [on our journey feat.Shingo Sekiguchi](https://open.spotify.com/album/7mCwxg24thEUZm7UWF60VM) | 3:19 | 2022-08-30 | 2022-10-12 |
 | [On&On](https://open.spotify.com/track/47YQIiLsGbMYH25PTQrZuE) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [On&On](https://open.spotify.com/album/228RotYYsP1zB9KNgrky21) | 3:31 | 2023-08-15 | 2023-08-23 |
 | [On&On](https://open.spotify.com/track/5mpxJR7pqqDJxuBQXl1htb) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [On&On](https://open.spotify.com/album/46kx1c8pey8xocBGREIdj5) | 3:31 | 2023-08-15 | 2023-08-17 |
+| [one call](https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [one call](https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1) | 1:54 | 2023-08-31 |  |
 | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE) | 4:18 | 2022-09-06 | 2022-10-05 |
 | [one summer love](https://open.spotify.com/track/3fvXXLcvtFfeVVYaAXJhAg) | [K E I\_H A Y A S H I](https://open.spotify.com/artist/4fQ023lP2bX27W1YYw9DIc) | [one summer love](https://open.spotify.com/album/6BUYn2vAxX2Uw3ojEe264N) | 2:56 | 2023-08-01 | 2023-08-23 |
 | [One Way feat\. YONCE](https://open.spotify.com/track/4MurygBmG61XN24T1VbQQy) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [One Way feat\. YONCE](https://open.spotify.com/album/7lIJNVESbT9N8qWr0INc97) | 3:29 | 2022-05-26 | 2022-06-08 |
@@ -736,7 +737,7 @@
 | [World's End \(feat\. Julia Wu, 5lack\)](https://open.spotify.com/track/30n0Z8l9uTkKCQemxDzTnJ) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [World's End \(feat\. Julia Wu, 5lack\)](https://open.spotify.com/album/4TdMgCC9A81JzD2BTfsczk) | 5:06 | 2022-08-18 | 2022-09-07 |
 | [Worthy](https://open.spotify.com/track/0dd7NUdwv5uq0cCjC39nwK) | [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [Worthy](https://open.spotify.com/album/5d2Pj55asIJOBjbn5eatr2) | 2:29 | 2022-10-04 | 2022-10-26 |
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |
-| [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 |  |
+| [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-09-04 |
 | [yet](https://open.spotify.com/track/4eZURtwRmcsguuhxocQJG4) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 4:51 | 2022-09-27 | 2022-10-21 |
 | [yet](https://open.spotify.com/track/7nORjp0eLh1ioyFRZhdxci) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [from here to there](https://open.spotify.com/album/0DvvbZD0pcy07zdj2RZzSM) | 4:51 | 2022-09-27 | 2022-09-29 |
 | [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 | 2023-05-16 | 2023-07-23 |

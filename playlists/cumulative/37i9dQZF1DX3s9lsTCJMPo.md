@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Lissa Monet
 
-274 songs - 19 hr 40 min
+275 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 | 2022-02-24 | 2023-07-11 |
 | [Trinidad](https://open.spotify.com/track/0xxxTdjm9hChcBYyZJ8rXS) | [Nyah George](https://open.spotify.com/artist/01Y5eJnBusl5uTJubOt0tX) | [Soca Leaders 2002](https://open.spotify.com/album/1sDI3JKJz3Vm1WbgWonyr2) | 3:05 | 2020-09-16 | 2022-07-28 |
 | [Turn It Around](https://open.spotify.com/track/3mkF8EEPaVyh3MvwTz521G) | [Square One \(feat\. Andy Armstrong\)](https://open.spotify.com/artist/74sB0UYuVtpR49LeepNH5D) | [The Ultimate Soca Gold Collection](https://open.spotify.com/album/38EBSpTihyFuQn2ymv1wpt) | 3:23 | 2022-08-18 | 2023-05-16 |
-| [Unforgettable \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/track/1KDbylz0Lyu3TdmsiAUTSA) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Unforgettable \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/4sTe2nlBN8YsoObl8WVxfr) | 3:36 | 2023-07-10 |  |
+| [Unforgettable](https://open.spotify.com/track/5Y9JDz8MZDfjlwq0uTuqrV) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Unforgettable: Soca 2016 Trinidad and Tobago Carnival](https://open.spotify.com/album/0e3Jte2gn7G1GX8CjLPPaT) | 3:37 | 2023-08-07 |  |
+| [Unforgettable \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/track/1KDbylz0Lyu3TdmsiAUTSA) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Unforgettable \(Soca 2016 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/4sTe2nlBN8YsoObl8WVxfr) | 3:36 | 2023-07-10 | 2023-09-04 |
 | [Waiting On the Stage](https://open.spotify.com/track/3vOY6iJH9Sl3cbzA3sXsT3) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Badjohn Republic](https://open.spotify.com/artist/5HwHsHKWrkTe16brKt7qt2) | [Monk Evolution](https://open.spotify.com/album/4gX6UHuotIzwZC47VPTiHi) | 3:43 | 2023-07-10 |  |
 | [Wave Wid Me](https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F) | [Alison Hinds Feat\. Peter Ram](https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:39 | 2022-02-24 | 2023-07-11 |
 | [Wave Wid Me](https://open.spotify.com/track/3IOvWPwF1PXTD4OQ5no45s) | [Alison Hinds Feat\. Peter Ram](https://open.spotify.com/artist/0gYHXEkG3aYljrsqtiBcbq) | [Soca Gold 2002](https://open.spotify.com/album/4MIL8QcomuUQfv3tET2jnM) | 3:39 | 2020-09-16 | 2022-07-29 |

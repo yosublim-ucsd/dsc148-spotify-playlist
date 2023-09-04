@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: اصالة
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,422 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,452 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Kethir Asameh](https://open.spotify.com/track/3gvQirei6Ou7yh87W7hKWe) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Kethir Asameh](https://open.spotify.com/album/795GVZBK7w1ny4eS3Du3PD) | 3:21 |
 | 50 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 |
 
-Snapshot ID: `MCxjY2QzMzE0NmFjOWQ1M2NlNGVlZDk3YzZjZTJiZmFkYzNjN2ZlZTc0`
+Snapshot ID: `MCwxMmU5NDVhNGQyMzE5ZWI1NGFjNGM2ZGNlNjMzNDg0YzM0MGUwZmFh`

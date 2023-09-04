@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,112 songs - 5 day 22 hr 28 min
+2,113 songs - 5 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,8 +357,9 @@
 | [Capital Cebuista](https://open.spotify.com/track/1v2Hw4ke5wz2ZdlWrH1ACX) | [Santander Flores](https://open.spotify.com/artist/63rHVcPDtmXdG3yGkgE9ha) | [Soundway Presents: The Original Sound of Cumbia \(The History of Colombian Cumbia & Porro As Told By The Phonograph 1948\-79 Compiled by Quantic\)](https://open.spotify.com/album/7JjTvJwJsTwy5P2CxXHofO) | 2:57 | 2022-06-09 | 2022-07-29 |
 | [Capital Cebuista](https://open.spotify.com/track/7tiWyF2rv4GJF8pZRz2gEP) | [Santander Flores](https://open.spotify.com/artist/63rHVcPDtmXdG3yGkgE9ha) | [La Edad De Oro De La Cumbia Colombiana, Vol\. 2](https://open.spotify.com/album/1sJyr6gkGhXkMP9DvYqREB) | 2:57 | 2022-07-27 |  |
 | [Capitão de Areia](https://open.spotify.com/track/0tsdTV5UgmLNGXiBRxdMdM) | [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [Capitão De Areia](https://open.spotify.com/album/7LDfvLKFzvbqK2YfIcr5mk) | 4:53 | 2022-06-09 | 2023-06-21 |
-| [Capoeira mata um](https://open.spotify.com/track/0Gl31Zjm95vl5uDZGiAnww) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:01 | 2023-02-27 |  |
+| [Capoeira mata um](https://open.spotify.com/track/0Gl31Zjm95vl5uDZGiAnww) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:01 | 2023-02-27 | 2023-09-04 |
 | [Capoeira mata um](https://open.spotify.com/track/5GUvopabrHytG2ml8gcyhl) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [Brazilian Melodies](https://open.spotify.com/album/4wDO0ovFdweFiSVN6TCOI6) | 3:01 | 2022-10-31 | 2022-11-13 |
+| [Capoeira mata um](https://open.spotify.com/track/5yf8yAuPyaiHgYPbvF6rYi) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [O Cabra da Peste](https://open.spotify.com/album/16tI6B149463LB2MNujbMm) | 3:01 | 2023-08-31 |  |
 | [Capoeira mata um](https://open.spotify.com/track/6GWNvwsB1hTRnF5lxMC6iP) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [Los anos de oro](https://open.spotify.com/album/4QQZn6L7bXGg2PvYovxCIg) | 3:01 | 2022-06-09 | 2022-07-29 |
 | [Capoeira mata um](https://open.spotify.com/track/6nA77kCvCA1AvSOaDrWEO4) | [Jackson Do Pandeiro](https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo) | [O Cabra da Peste](https://open.spotify.com/album/37WoNQQZW4Rm9yTekUO7Yj) | 3:01 | 2022-07-27 | 2023-03-04 |
 | [Caramelo de Menta](https://open.spotify.com/track/3Zrr40fatlxljVi9zLauoz) | [Los Pakines](https://open.spotify.com/artist/13NXzwXxkMGhfAs8khbssr) | [Los Pakines](https://open.spotify.com/album/3WO8HLEqsTV1KPxK8WZmmg) | 2:42 | 2022-06-09 |  |
@@ -2083,8 +2084,8 @@
 | [Zina](https://open.spotify.com/track/3ex9Go5THZLNPfzX2AiBMp) | [Ouiness](https://open.spotify.com/artist/3OatvQHeTWSnkuKDvvfVnd) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 2:46 | 2022-07-12 | 2022-11-20 |
 | [Zina](https://open.spotify.com/track/4IAvBYQXPFYdbcrBtcyzWQ) | [Ouiness](https://open.spotify.com/artist/3OatvQHeTWSnkuKDvvfVnd) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/0PkKIo93pKAnqpo0mi5yb1) | 2:46 | 2022-10-31 | 2022-12-17 |
 | [Zindagi Meri Dance](https://open.spotify.com/track/74dimJFGhyEauM14eg7Bby) | [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ), [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Dance Dance](https://open.spotify.com/album/2mctlaBt3nr6YTLzoq1J8n) | 7:10 | 2022-07-12 |  |
-| [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 | 2022-07-12 | 2022-07-29 |
-| [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2022-07-27 |  |
+| [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 | 2022-07-12 |  |
+| [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 | 2022-07-27 | 2023-09-04 |
 | [Zulum Aldunya](https://open.spotify.com/track/1rFBTcbLXMFzFLBCbzwJxQ) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:48 | 2022-10-31 |  |
 | [Zulum Aldunya](https://open.spotify.com/track/4ZyjEDf1sMm1g6c4VoaX85) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 4:48 | 2022-07-12 | 2022-11-20 |
 | [Zum\-Zum](https://open.spotify.com/track/0K8xwzpW6hYmfDTMlsZOhp) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Morning Jazz](https://open.spotify.com/album/0JBpOJHie2i2KubS49lWme) | 2:50 | 2022-07-27 |  |

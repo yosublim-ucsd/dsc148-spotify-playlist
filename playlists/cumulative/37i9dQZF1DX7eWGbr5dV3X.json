@@ -1026,10 +1026,28 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 209360,
       "name": "Man Who Loves You",
       "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
+    },
+    {
+      "album": {
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209360,
+      "name": "Man Who Loves You",
+      "url": "https://open.spotify.com/track/6vJogWl1AUnWilW3UCKQ8K"
     },
     {
       "album": {

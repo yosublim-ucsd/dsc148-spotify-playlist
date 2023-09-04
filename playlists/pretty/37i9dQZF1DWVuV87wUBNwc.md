@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Imagine Dragons au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,180,376 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,180,716 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 |
 | 50 | [Dernière](https://open.spotify.com/track/4dEIdPutdmGRP2zxIXCB4S) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 3:23 |
 
-Snapshot ID: `MCwwNjE4NWY1YzgwYzk1ZjU0ODEyY2FlMDhjOGI4MDdkNDYyOWZkNmZm`
+Snapshot ID: `MCwwYzlhMDFjNzhkN2Y4NThiY2VkN2NmM2I1OWE3MDUzY2E3MzQxZDUz`

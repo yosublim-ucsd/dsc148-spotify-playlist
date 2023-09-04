@@ -1,12 +1,12 @@
 {
   "description": "Brighten your morning with these indie, folk and acoustic sounds.",
-  "num_followers": 33876,
+  "num_followers": 33874,
   "original_name": "Wide Awake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjQwYTQxZDcyOWJjZTYwMjZkMmI5MjQwZGI4ODdiODAxNTc2ZTBi",
+  "snapshot_id": "MCw2NjA0MzdlNTMyODZlMWY0YWNjNzM5ZTNjODE2OTY1YmY4MjIxMjZj",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Hey Julia",
-        "url": "https://open.spotify.com/album/161llzgJp98MoWom3IJOJp"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 119590,
-      "name": "Hey Julia",
-      "url": "https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Bahamas Is Afie",
         "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 157040,
       "name": "Stronger Than That",
       "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Hey Julia",
+        "url": "https://open.spotify.com/album/161llzgJp98MoWom3IJOJp"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 119590,
+      "name": "Hey Julia",
+      "url": "https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
         }
       ],
-      "duration_ms": 223626,
-      "name": "Johnson Song",
-      "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+      "duration_ms": 223626,
+      "name": "Johnson Song",
+      "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "North Hills",
-        "url": "https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 308373,
-      "name": "When My Time Comes",
-      "url": "https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "North Hills",
+        "url": "https://open.spotify.com/album/2s8TW0yZCpVQkfMP9ceR7Z"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 308373,
+      "name": "When My Time Comes",
+      "url": "https://open.spotify.com/track/2bit43ZeiBbbiHUtyWuthM"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
+        "name": "The Way We Move",
+        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "The Way We Move",
+      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
         "name": "It Still Moves",
         "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 226120,
       "name": "You're Too Weird",
       "url": "https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "The Way We Move",
-        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "The Way We Move",
-      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "God's Favorite Customer",
-        "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 183532,
-      "name": "Mr. Tillman",
-      "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 271186,
       "name": "Live And Die",
       "url": "https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "God's Favorite Customer",
+        "url": "https://open.spotify.com/album/7f4DUvIlSluy7YRnZsLEkd"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 183532,
+      "name": "Mr. Tillman",
+      "url": "https://open.spotify.com/track/6wOk4I34MXPyqEfzoQZBNL"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "The Black Dirt Sessions",
-        "url": "https://open.spotify.com/album/2XsWRPltTHzmdDtzwevG0w"
-      },
-      "artists": [
-        {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Twenty Miles",
-      "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Shame, Shame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 253093,
       "name": "Shadow People",
       "url": "https://open.spotify.com/track/209g8XrYu3ov4Wt4bRk2Yw"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "The Black Dirt Sessions",
+        "url": "https://open.spotify.com/album/2XsWRPltTHzmdDtzwevG0w"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "Twenty Miles",
+      "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
     },
     {
       "added_at": "2022-06-17 04:02:00",

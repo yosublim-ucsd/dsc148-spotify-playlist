@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq?si=F1OmdWA6T0OVfPqfaCx3Qg">The Plastics</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,986 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,018 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [eMtunzini](https://open.spotify.com/track/2vfYHOPVzeUejsFTPhp226) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [eMtunzini](https://open.spotify.com/album/2TEOzmQFEnzigADnPLoMPm) | 3:59 |
 | 50 | [VIDEO GIRL](https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9) | [Fentse.](https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc) | [VIDEO GIRL](https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS) | 2:44 |
 
-Snapshot ID: `MCwxZDE2MGJkN2EwNjMzNDhiZDk5Nzc0NDQ4ZTc2NTJkODBjNTg4YzAy`
+Snapshot ID: `MCxmMDRmOWE0NTczYzY4YWY2ZTUyZTYzZGFkNDdlMDFiMGU1NWM0MDlm`

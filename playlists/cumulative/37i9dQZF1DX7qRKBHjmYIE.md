@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo\. Freshly picked just for you\. ✨ Cover: Cuco & Aleman
 
-525 songs - 1 day 4 hr 16 min
+526 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 | 2022-04-08 | 2023-02-17 |
 | [Alive](https://open.spotify.com/track/1d6F9NOmP6lyRa9fCpsHh5) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [BEMUSED + CONFUSED](https://open.spotify.com/album/5oTxUsWEyiiQilexXrkr95) | 3:50 | 2021-12-02 | 2022-02-10 |
 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 | 2022-02-09 | 2023-02-17 |
-| [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 | 2023-08-25 |  |
+| [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 | 2023-08-25 | 2023-09-04 |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-12-02 | 2022-01-25 |
 | [Amar](https://open.spotify.com/track/5USBxsP5hpyUZmdqVTJ3bK) | [Lunaem](https://open.spotify.com/artist/5njN5ZxbgKL0c0KIJvokAr) | [Amar](https://open.spotify.com/album/3D9c5oT0KIsebFvJzWj531) | 4:00 | 2023-08-25 |  |
 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 | 2021-12-02 | 2023-02-17 |
@@ -62,6 +62,7 @@
 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 | 2023-02-17 | 2023-03-29 |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-01 |  |
 | [best damn thing](https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [best damn thing](https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5) | 2:40 | 2022-10-27 | 2023-01-11 |
+| [BITCH3](https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [BITCH3](https://open.spotify.com/album/5KYA9DUntV71ML54hncirY) | 2:24 | 2023-09-01 |  |
 | [Blu](https://open.spotify.com/track/2qPc3RreHTFZF24GJP1L5A) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Mundos Paralelos](https://open.spotify.com/album/4AabL56MTUUk3khEB3rzxA) | 3:59 | 2023-02-02 | 2023-03-09 |
 | [Blue](https://open.spotify.com/track/07pEbfPpD6FvyWr6BsQrAG) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Don't Go Tellin' Your Momma](https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm) | 2:25 | 2022-07-20 | 2022-10-15 |
 | [Blázares](https://open.spotify.com/track/0gnYGP3T94rLdSWTZbTx7I) | [BFlecha](https://open.spotify.com/artist/269q1RiWEIZ2IwKRF0jXNO) | [Blázares](https://open.spotify.com/album/0cYrmDXrlJJQZ0LvlfB7Oi) | 4:34 | 2021-12-02 | 2022-01-25 |

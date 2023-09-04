@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/3UjGAY9p553Qy2blB4cMin"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208201,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/52RI8jJJ1OxtcfF5Af9zCL"
+    },
+    {
+      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 151791,
       "name": "New Light",
       "url": "https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8"

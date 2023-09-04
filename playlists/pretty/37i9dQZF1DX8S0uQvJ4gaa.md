@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Larry Fleet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,535 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,873 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Middle Of Nowhere Class](https://open.spotify.com/track/0hzkbUtBgEgMyfbymWuDKc) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Middle Of Nowhere Class](https://open.spotify.com/album/0zN8UMoWb3j1yIfdfjfzTE) | 3:41 |
 | 100 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 
-Snapshot ID: `MCw4NWQ5ODI5M2U0YTRjNTFkYzgxOTc3ZGJhYjhiNTk1MzI5YzhjMjZh`
+Snapshot ID: `MCw5NTY3ZWQxZTE0MTEzY2I5ZjM0NzQ3NGY0M2U0Yjk3ZWI5YzYzMTM2`

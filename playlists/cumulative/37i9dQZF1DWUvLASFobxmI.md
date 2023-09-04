@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Dos Carnales en portada.
 
-375 songs - 20 hr 20 min
+376 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [De Rancho Soy](https://open.spotify.com/track/0OU7uk4jZKFJfp4o1xGhql) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [De Rancho Soy](https://open.spotify.com/album/07yxl1Vy4N11B9eYrUhRgV) | 2:39 | 2022-07-01 | 2022-08-25 |
 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 | 2022-06-20 | 2022-09-03 |
 | [Destapen Otra](https://open.spotify.com/track/1PwJ1mDKBz7K3nQwxzw0Oh) | [Julio Haro](https://open.spotify.com/artist/4Yq2F6FJ7b6RLuQBbFOTPO) | [Destapen Otra](https://open.spotify.com/album/1lkasIW60ThDmDRed5v7CJ) | 3:50 | 2022-07-01 | 2022-07-06 |
+| [Difícil De Creer](https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Difícil De Creer](https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW) | 2:48 | 2023-08-25 |  |
 | [Dime](https://open.spotify.com/track/6DUqUGlTwSEMPzxKecaXcG) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Dime](https://open.spotify.com/album/3tKMgKDqMnJrg7QLXjMn8u) | 2:54 | 2022-11-04 | 2022-12-03 |
 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 | 2023-01-20 |  |
 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 | 2022-08-29 | 2022-10-01 |
@@ -155,7 +156,7 @@
 | [Fuentes De Ortiz](https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Fuentes De Ortiz](https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS) | 3:52 | 2023-01-20 | 2023-07-15 |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-02-01 |  |
 | [Fuimos Un Fracaso](https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Fuimos Un Fracaso](https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D) | 3:18 | 2022-09-30 | 2022-12-25 |
-| [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 | 2022-07-01 |  |
+| [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 | 2022-07-01 | 2023-09-04 |
 | [Gente del F1](https://open.spotify.com/track/18BxN76lhDm1F2K8Mg3bk8) | [Cristian RG](https://open.spotify.com/artist/7rmQzTWdrXqg9orZ3XFaZD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Gente del F1](https://open.spotify.com/album/7naedPk4YHLrmLJaYnsST9) | 2:24 | 2023-01-13 | 2023-01-21 |
 | [Gordo Michis \(En Vivo\)](https://open.spotify.com/track/5sak5bVVVKx6M0uqVu7qGb) | [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Gordo Michis \(En Vivo\)](https://open.spotify.com/album/31oHGBQLvNZUgagcK5b7LB) | 2:34 | 2023-02-24 | 2023-03-09 |
 | [Gotas de Agua Dulce](https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Gotas de Agua Dulce](https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt) | 2:55 | 2022-12-02 | 2022-12-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 375783,
+  "num_followers": 375797,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTFlYjk0ODAyNzcxMmZlM2Q0ODI1MGM4MTk1YmJlZGQ0M2RiODFi",
+  "snapshot_id": "MCw5NWE2MDg5NTAxOTVjYzhlNGM2NzcwNzJlMjVjMTViYmYzOTI2N2Qz",
   "tracks": [
     {
       "added_at": "2023-08-31 15:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
         }
       ],
-      "duration_ms": 235814,
-      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
+        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
       },
       "artists": [
         {
-          "name": "w.o.d.",
-          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 213400,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
+      "duration_ms": 235814,
+      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1003,18 +1003,26 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "\u5f8c\u5149",
-        "url": "https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg"
+        "name": "FINE LINE (feat. Skaai) (Prod. uin)",
+        "url": "https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "uin",
+          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 204340,
-      "name": "\u5f8c\u5149",
-      "url": "https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX"
+      "duration_ms": 179266,
+      "name": "FINE LINE (feat. Skaai) (Prod. uin)",
+      "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1055,26 +1063,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "FINE LINE (feat. Skaai) (Prod. uin)",
-        "url": "https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P"
+        "name": "\u5f8c\u5149",
+        "url": "https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg"
       },
       "artists": [
         {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "uin",
-          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 179266,
-      "name": "FINE LINE (feat. Skaai) (Prod. uin)",
-      "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
+      "duration_ms": 204340,
+      "name": "\u5f8c\u5149",
+      "url": "https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
+        "name": "39 Minutes",
+        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "39 Minutes",
+      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
         "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
         "url": "https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 157924,
       "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
-        "name": "39 Minutes",
-        "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
-      },
-      "artists": [
-        {
-          "name": "kiki vivi lily",
-          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "39 Minutes",
-      "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "WILD ANGEL",
+      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
         "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
         "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 287000,
       "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
       "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "WILD ANGEL",
-      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Intro",
-        "url": "https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1"
+        "name": "one call",
+        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
         }
       ],
-      "duration_ms": 236213,
-      "name": "how many times",
-      "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
+      "duration_ms": 114089,
+      "name": "one call",
+      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1671,6 +1671,22 @@
       "duration_ms": 217428,
       "name": "The Swallow (feat. Midories)",
       "url": "https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "how many times",
+      "url": "https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "NEO KAWAII, K?",
-        "url": "https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
-        }
-      ],
-      "duration_ms": 154726,
-      "name": "NEO KAWAII, K?",
-      "url": "https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "nestling",
         "url": "https://open.spotify.com/album/1sqB7PoKaqf4QiCaRlZpUq"
       },
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Wrecked",
-        "url": "https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1"
+        "name": "NEO KAWAII, K?",
+        "url": "https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW"
       },
       "artists": [
         {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
         }
       ],
-      "duration_ms": 128710,
-      "name": "Wrecked",
-      "url": "https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH"
+      "duration_ms": 154726,
+      "name": "NEO KAWAII, K?",
+      "url": "https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL"
     }
   ],
   "unique_name": "Tokyo Rising",

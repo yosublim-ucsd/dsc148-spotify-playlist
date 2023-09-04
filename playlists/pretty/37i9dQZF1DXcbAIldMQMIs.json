@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 502107,
+  "num_followers": 502307,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGEzMTY1MzFmNGEwNjljOWI4MmNlMTAxMTZhOWI3YjYxMjY5MDYy",
+  "snapshot_id": "MCwzMTBhM2ZjZGMyMDllMjMzMTczMTIyNmYzNzNlMzM0N2NkNGVmMTIw",
   "tracks": [
     {
       "added_at": "2023-06-30 14:46:14",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-06-30 14:46:14",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
-    },
-    {
-      "added_at": "2023-06-30 14:46:14",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2023-06-30 14:46:14",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2023-06-30 14:46:14",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-30 14:46:14",
       "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "drunk text me",
-      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
-    },
-    {
-      "added_at": "2023-06-30 14:46:14",
-      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 210000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
+    },
+    {
+      "added_at": "2023-06-30 14:46:14",
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     },
     {
       "added_at": "2023-06-30 14:46:14",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-30 14:46:14",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Crush Culture",
-      "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
-    },
-    {
-      "added_at": "2023-06-30 14:46:14",
-      "album": {
         "name": "Next Thing",
         "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 124021,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
+    },
+    {
+      "added_at": "2023-06-30 14:46:14",
+      "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Crush Culture",
+      "url": "https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1"
     },
     {
       "added_at": "2023-06-30 14:46:14",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-06-30 14:46:14",
       "album": {
-        "name": "Lil Baby Crush",
-        "url": "https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf"
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 141520,
-      "name": "Lil Baby Crush",
-      "url": "https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1"
+      "duration_ms": 128916,
+      "name": "I Don't Miss You at All",
+      "url": "https://open.spotify.com/track/60s0v3N6twZZEsNqzpoxjc"
     }
   ],
   "unique_name": "text me back",

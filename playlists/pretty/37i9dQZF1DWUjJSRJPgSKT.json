@@ -1,29 +1,13 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 13508,
+  "num_followers": 13609,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWViZTBkNzliMTdkNThkOGVkMmI3MzY4MTkzMTc4YzczZjMyYWQ0",
+  "snapshot_id": "MCwxMTkzODY2YjgwMGU3NjY4OWM5MjEyMTY2ZmZjMDg0YjBlZDcyN2Vi",
   "tracks": [
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
-    },
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 385866,
       "name": "This I Dig Of You - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5f0n6K8hW2RIVXuZjxO0bu"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 154340,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Au Privave",
-      "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
         "name": "Relaxin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 308466,
       "name": "I Could Write A Book",
       "url": "https://open.spotify.com/track/4fTV2tXbeAeTaIfFIDoF4H"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
+        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Au Privave",
+      "url": "https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+        "name": "Art Blakey & The Jazz Messengers",
+        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 323773,
-      "name": "Minority",
-      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
+      "duration_ms": 410866,
+      "name": "Alamode",
+      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Art Blakey & The Jazz Messengers",
-        "url": "https://open.spotify.com/album/7n3N9COR04FrWRyl8eftZU"
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 410866,
-      "name": "Alamode",
-      "url": "https://open.spotify.com/track/3Wglt4wIgeXIBp8nDTh7mQ"
+      "duration_ms": 323773,
+      "name": "Minority",
+      "url": "https://open.spotify.com/track/3MXVqeLUIHXVU5xC96Ef5Y"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
+        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark Trio",
+          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
+        }
+      ],
+      "duration_ms": 594040,
+      "name": "Be-Bop - Remastered 2001/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0RiMzV6y8RkOoVNBcMyvZx"
+    },
+    {
+      "added_at": "2023-09-01 09:42:16",
+      "album": {
         "name": "A Blowing Session",
         "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 581026,
       "name": "The Way You Look Tonight - Remastered 2009",
       "url": "https://open.spotify.com/track/48LBp3r6onaYB7UDGOPXgI"
-    },
-    {
-      "added_at": "2023-09-01 09:42:16",
-      "album": {
-        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark Trio",
-          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
-        }
-      ],
-      "duration_ms": 594040,
-      "name": "Be-Bop - Remastered 2001/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0RiMzV6y8RkOoVNBcMyvZx"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Mode For Joe (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
+        "name": "Hard Bop (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 428200,
-      "name": "A Shade Of Jade - Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering",
-      "url": "https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi"
+      "duration_ms": 288626,
+      "name": "Cranky Spanky",
+      "url": "https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf"
     },
     {
       "added_at": "2023-09-01 09:42:16",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-09-01 09:42:16",
       "album": {
-        "name": "Hard Bop (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL"
+        "name": "Mode For Joe (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5HC9Uo9bCl8uiWuSN3MfbD"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 288626,
-      "name": "Cranky Spanky",
-      "url": "https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf"
+      "duration_ms": 428200,
+      "name": "A Shade Of Jade - Rudy Van Gelder Edition/2003 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/71xfEEzdq8Mu02l5zkArzi"
     },
     {
       "added_at": "2023-09-01 09:42:16",

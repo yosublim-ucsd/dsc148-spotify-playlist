@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3600,
+  "num_followers": 3603,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjkxM2FhM2UyOWQzY2ZjM2NmOGVjMTNlYjA2M2VhNTQwNTRkYWNj",
+  "snapshot_id": "MCwwN2VmZDZhMzA0MDE4OTg1ZTUyZWMyZDQwMmEzNWI1MzgwZDE0MTQ2",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -63,26 +63,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Sun Leads Me On",
-        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        },
-        {
-          "name": "Dylan Phillips",
-          "url": "https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP"
-        }
-      ],
-      "duration_ms": 54293,
-      "name": "Throes",
-      "url": "https://open.spotify.com/track/1gHFlTISmwfVsmGLt9fzcj"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Trafic",
         "url": "https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 253480,
       "name": "Tu me manques (pourtant tu es l\u00e0)",
       "url": "https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Sun Leads Me On",
+        "url": "https://open.spotify.com/album/2KJ1WS6aB0BJ9bnwv8xItK"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        },
+        {
+          "name": "Dylan Phillips",
+          "url": "https://open.spotify.com/artist/5hH80bWKv0SEYAFlESiiQP"
+        }
+      ],
+      "duration_ms": 54293,
+      "name": "Throes",
+      "url": "https://open.spotify.com/track/1gHFlTISmwfVsmGLt9fzcj"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "M'attends-tu",
-      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "There Will Be Stars",
         "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "M'attends-tu",
+      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "4488 de l'amour",
-        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Pri\u00e8re",
-      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le cours des jours",
         "url": "https://open.spotify.com/album/5ofuvpieZ3jgTNb9WF1u6o"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 317586,
       "name": "Linol\u00e9um",
       "url": "https://open.spotify.com/track/4mh2UjI1muaqygRSlCUXE8"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "4488 de l'amour",
+        "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Pri\u00e8re",
+      "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Tricot machine",
-        "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
-      },
-      "artists": [
-        {
-          "name": "TRICOT MACHINE",
-          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Super ordinaire",
-      "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Maman",
         "url": "https://open.spotify.com/album/6oHbg92wJpgaRRDPKiw4pa"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 229755,
       "name": "Maman",
       "url": "https://open.spotify.com/track/472uPdoGK0wQLmSGfYQEtR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Tricot machine",
+        "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
+      },
+      "artists": [
+        {
+          "name": "TRICOT MACHINE",
+          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
+        }
+      ],
+      "duration_ms": 203173,
+      "name": "Super ordinaire",
+      "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le feu de chaque jour",
-        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
-      },
-      "artists": [
-        {
-          "name": "Patrice Michaud",
-          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
-        }
-      ],
-      "duration_ms": 271360,
-      "name": "Loin de Disneyland",
-      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Dire combien je t'aime",
         "url": "https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 247692,
       "name": "Le c\u0153ur de l'oc\u00e9an",
       "url": "https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le feu de chaque jour",
+        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
+      },
+      "artists": [
+        {
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Loin de Disneyland",
+      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bygone",
-        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9atrice Keeler",
-          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Je ne veux pas savoir",
-      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Vingt",
         "url": "https://open.spotify.com/album/3KVmGQVPJHhR324wgfySWH"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 289280,
       "name": "Le loup - Version Vingt",
       "url": "https://open.spotify.com/track/7FZkU5hT76JMpnIlztIrTX"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Bygone",
+        "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9atrice Keeler",
+          "url": "https://open.spotify.com/artist/7dPic1kgMyta4N0pDKS9kK"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Je ne veux pas savoir",
+      "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Dis-moi",
-        "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        }
-      ],
-      "duration_ms": 306813,
-      "name": "Dis-moi",
-      "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Pink Lady",
         "url": "https://open.spotify.com/album/4b9ogUkhATCAiphTZ9HOFI"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 275533,
       "name": "Je ne viendrai pas demain",
       "url": "https://open.spotify.com/track/5GZmuKblUeXxGQMOlUkZod"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Dis-moi",
+        "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "duration_ms": 306813,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le long chemin (version acoustique)",
-        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
-      },
-      "artists": [
-        {
-          "name": "Nicola Ciccone",
-          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "Le long chemin - version acoustique",
-      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Apprentie guerri\u00e8re",
         "url": "https://open.spotify.com/album/1BiCOs55mWk2IA9PyeONfq"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 168173,
       "name": "Shit",
       "url": "https://open.spotify.com/track/7KtGK4TQN4EeOm7nPxSOKq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le long chemin (version acoustique)",
+        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
+      },
+      "artists": [
+        {
+          "name": "Nicola Ciccone",
+          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Le long chemin - version acoustique",
+      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Et toi, tu fais quoi?",
+        "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00eblle Saint-Pierre",
+          "url": "https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Jamais seule",
+      "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Alexe",
         "url": "https://open.spotify.com/album/1tNKK4zgO1SlsWRsFppBpL"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Et toi, tu fais quoi?",
-        "url": "https://open.spotify.com/album/2DcbZ4lcUpvrnorUuiAXZX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00eblle Saint-Pierre",
-          "url": "https://open.spotify.com/artist/2zRlXq6hJhad1sQiqAZjl7"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Jamais seule",
-      "url": "https://open.spotify.com/track/6NrmySVZbHNk5vBbZeYOop"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le courant",
         "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Voix de No\u00ebl",
-        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
-      },
-      "artists": [
-        {
-          "name": "May Wells",
-          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
-        }
-      ],
-      "duration_ms": 211915,
-      "name": "Je ne t'oublie pas - Bonus",
-      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "M\u00e9lodica",
         "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 205026,
       "name": "Habiter l'avenir",
       "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Voix de No\u00ebl",
+        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
+      },
+      "artists": [
+        {
+          "name": "May Wells",
+          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
+        }
+      ],
+      "duration_ms": 211915,
+      "name": "Je ne t'oublie pas - Bonus",
+      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
     },
     {
       "added_at": "2021-02-06 03:12:40",

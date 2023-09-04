@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,445 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,475 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 27 | [Gucci Prada](https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3) | [Green Cookie](https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Gucci Prada](https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK) | 3:03 |
 | 28 | [Piratas](https://open.spotify.com/track/0a3UB6hOlLPlgv1GIhWsed) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Piratas](https://open.spotify.com/album/6stZMmfRE8VlPWDXUBTKe6) | 3:19 |
 | 29 | [Freelance](https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [Private Suite \(Vol\. 1\)](https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex) | 3:17 |
-| 30 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 |
-| 31 | [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 |
+| 30 | [Tentretiene](https://open.spotify.com/track/293iNq7P3oWVUePlQKFykB) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tentretiene](https://open.spotify.com/album/1zF1aGjaDJG5j4ONp63ACG) | 3:42 |
+| 31 | [TRAPPHONE](https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [TRAPPHONE](https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk) | 1:47 |
 | 32 | [P.O.V.](https://open.spotify.com/track/0ZoHqqfllVIYGwM7cMhJgo) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Sempiterno](https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ) | 2:39 |
 | 33 | [Baby Girl](https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Baby Girl](https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB) | 3:17 |
 | 34 | [Movie](https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Movie](https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Los Costos](https://open.spotify.com/track/0ZAYDTMC8NhYlKehcG9uZC) | [Siggy](https://open.spotify.com/artist/1rSQmPC2RW6U5CnxVpE8yg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Uno X Ciento](https://open.spotify.com/album/2eIR3IdzD32qKQQuLeQOXM) | 3:09 |
 | 50 | [Quiero](https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR) | [Mhane](https://open.spotify.com/artist/7iZYxykcEg1PSVTW7cWdqK), [Robert Taylor](https://open.spotify.com/artist/1PbZZhQGxXdxgrcR1W8Ete) | [Quiero](https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f) | 2:58 |
 
-Snapshot ID: `MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx`
+Snapshot ID: `MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj`

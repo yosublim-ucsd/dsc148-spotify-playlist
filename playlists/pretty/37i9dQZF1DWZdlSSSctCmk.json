@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 104367,
+  "num_followers": 104540,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzE3ZGQyYmM1NjBmMmNlNTNlYTJlNzZmZDJkZDFlMzRkNGJhMGI4",
+  "snapshot_id": "MCxmM2JkNWQyNDVjMzdhNjhiNzBiZDE2ZDQ1MDIyNTQ1ODY0YTAzYzRm",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 352246,
+      "name": "Cirrus",
+      "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Y U LIE Y",
         "url": "https://open.spotify.com/album/3LyZb0Zy2Yok31oT2cODwL"
       },
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 352246,
-      "name": "Cirrus",
-      "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "In The Music The Village Never Ends",
+        "url": "https://open.spotify.com/album/2RtJZfZgfyyW8OzxWRCHaR"
+      },
+      "artists": [
+        {
+          "name": "Letta Mbulu",
+          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Nomalizo",
+      "url": "https://open.spotify.com/track/3lB31lvF4GEwKwMgFWwCJ7"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "You've Got It Bad Girl",
         "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "In The Music The Village Never Ends",
-        "url": "https://open.spotify.com/album/2RtJZfZgfyyW8OzxWRCHaR"
-      },
-      "artists": [
-        {
-          "name": "Letta Mbulu",
-          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Nomalizo",
-      "url": "https://open.spotify.com/track/3lB31lvF4GEwKwMgFWwCJ7"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
-        "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 377849,
-      "name": "Starz - Original Mix",
-      "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Mirrorwriting",
-        "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
+        "name": "D\u00e9epalma Ibiza 2023 - 10th Anniversary",
+        "url": "https://open.spotify.com/album/6oqOdRBJ8KZFcAJusUNKWs"
       },
       "artists": [
         {
-          "name": "Jamie Woon",
-          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
         }
       ],
-      "duration_ms": 322400,
-      "name": "Night Air",
-      "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
+      "duration_ms": 377849,
+      "name": "Starz - Original Mix",
+      "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Mirrorwriting",
+        "url": "https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD"
+      },
+      "artists": [
+        {
+          "name": "Jamie Woon",
+          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Night Air",
+      "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Moon Safari",
         "url": "https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 426614,
       "name": "La femme d'argent",
       "url": "https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 410900,
-      "name": "Friday Morning",
-      "url": "https://open.spotify.com/track/2M45IIrFLjMgsNSSxee31h"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -795,6 +779,22 @@
       "duration_ms": 317143,
       "name": "Don't Want This to Be Over",
       "url": "https://open.spotify.com/track/6jag4moGKMJfZYl0liyLB7"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 410900,
+      "name": "Friday Morning",
+      "url": "https://open.spotify.com/track/2M45IIrFLjMgsNSSxee31h"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "sketches of transition",
         "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 243213,
       "name": "sketches",
       "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Your Love (feat. BLAME)",
         "url": "https://open.spotify.com/album/4Lb00Y6Y4KatxxnPEtoZY9"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 190140,
       "name": "Your Love (feat. BLAME)",
       "url": "https://open.spotify.com/track/7kYSY3ekAqu7uqSEYEHu0x"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Gentle EP",
+        "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        }
+      ],
+      "duration_ms": 347505,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Give It To You",
         "url": "https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP"
       },
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Gentle EP",
-        "url": "https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        }
-      ],
-      "duration_ms": 347505,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "A Journey to You",
         "url": "https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm"
       },
@@ -1719,6 +1719,22 @@
       "duration_ms": 332820,
       "name": "Tropicololo",
       "url": "https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Mediterraneo (Club Favourites Collection '90/98)",
+        "url": "https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s"
+      },
+      "artists": [
+        {
+          "name": "Don Carlos",
+          "url": "https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq"
+        }
+      ],
+      "duration_ms": 406200,
+      "name": "Alone - Paradise",
+      "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1743,22 +1759,6 @@
       "duration_ms": 349565,
       "name": "Through Your Hands Love Can Shine - Turbotito Remix",
       "url": "https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Mediterraneo (Club Favourites Collection '90/98)",
-        "url": "https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s"
-      },
-      "artists": [
-        {
-          "name": "Don Carlos",
-          "url": "https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq"
-        }
-      ],
-      "duration_ms": 406200,
-      "name": "Alone - Paradise",
-      "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
     }
   ],
   "unique_name": "Balearic Beats",

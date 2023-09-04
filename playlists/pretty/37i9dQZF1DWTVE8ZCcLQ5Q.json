@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421374,
+  "num_followers": 421354,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
+  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Eu Fiquei Com a Puta",
+        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
+      },
+      "artists": [
+        {
+          "name": "MC Josh",
+          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Eu Fiquei Com a Puta",
+      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Ritmo de Copa",
         "url": "https://open.spotify.com/album/08FBg7p5Esvrw49NAFj8v3"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 158400,
       "name": "Ritmo de Copa",
       "url": "https://open.spotify.com/track/61BxiY7A9V9FC2IL7llA76"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Eu Fiquei Com a Puta",
-        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
-      },
-      "artists": [
-        {
-          "name": "MC Josh",
-          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Eu Fiquei Com a Puta",
-      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Droga Pesada (feat. Nairo)",
+        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Droga Pesada (feat. Nairo)",
+      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Na Mente",
         "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 124948,
       "name": "Na Mente",
       "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Droga Pesada (feat. Nairo)",
-        "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Droga Pesada (feat. Nairo)",
-      "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
+      },
+      "artists": [
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Eldorado Music",
+          "url": "https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Se Fecha",
         "url": "https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 137142,
       "name": "Se Fecha",
       "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
-      },
-      "artists": [
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Eldorado Music",
-          "url": "https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL"
     },
     {
       "added_at": "2023-07-12 21:00:00",

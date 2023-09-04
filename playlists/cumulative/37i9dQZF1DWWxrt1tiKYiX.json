@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "afraid of heights",
+        "url": "https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154650,
+      "name": "afraid of heights",
+      "url": "https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg"
+    },
+    {
+      "album": {
         "name": "Ahead of Myself",
         "url": "https://open.spotify.com/album/5pVTHBXldk32CyJq169FgC"
       },
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 236689,
       "name": "Graveyard - Acoustic",
       "url": "https://open.spotify.com/track/6iwMgc34qGH8vDBcyQ8nP9"

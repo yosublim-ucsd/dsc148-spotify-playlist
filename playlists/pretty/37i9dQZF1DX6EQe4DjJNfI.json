@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
-  "num_followers": 162847,
+  "num_followers": 162873,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzY4ZDRhYTM1OGEwZTYwN2M3ODE2NWVhMjRiMDgyMzQzMWZmMjUw",
+  "snapshot_id": "MCwwODE5NzAwNTU5N2EwMzcwYzhhMTdlOTM0OTQzMTQ5YmFmNDhhNGEz",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -343,6 +323,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -359,6 +359,26 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Faz Arrepiar",
+        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Faz Arrepiar",
+      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -395,26 +415,6 @@
       "duration_ms": 150848,
       "name": "LAMPEJOS",
       "url": "https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Faz Arrepiar",
-        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
-        }
-      ],
-      "duration_ms": 140832,
-      "name": "Faz Arrepiar",
-      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "MENTIROSO",
+        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 167936,
+      "name": "MENTIROSO",
+      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 195291,
       "name": "Ch\u00e1zinho",
       "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "MENTIROSO",
-        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 167936,
-      "name": "MENTIROSO",
-      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
-      },
-      "artists": [
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -747,6 +731,50 @@
       "duration_ms": 235135,
       "name": "Censura e Prazer",
       "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+      },
+      "artists": [
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Quem Vai Fazer Voc\u00ea Feliz?",
+        "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 250032,
+      "name": "Quem Vai Fazer Voc\u00ea Feliz?",
+      "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -783,34 +811,6 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Quem Vai Fazer Voc\u00ea Feliz?",
-        "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "John Bxd",
-          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 250032,
-      "name": "Quem Vai Fazer Voc\u00ea Feliz?",
-      "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -855,6 +855,46 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Toque De Veludo",
+        "url": "https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh"
+      },
+      "artists": [
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Toque De Veludo",
+      "url": "https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Rec\u00edproco",
+        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
+      },
+      "artists": [
+        {
+          "name": "Victor JR",
+          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
+        },
+        {
+          "name": "Ingrid Milanez",
+          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rec\u00edproco",
+      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Reprise",
         "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
       },
@@ -883,30 +923,6 @@
       "duration_ms": 194974,
       "name": "Tempo pra Perder",
       "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Rec\u00edproco",
-        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
-      },
-      "artists": [
-        {
-          "name": "Victor JR",
-          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
-        },
-        {
-          "name": "Ingrid Milanez",
-          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
-        },
-        {
-          "name": "DJ Alle Mark",
-          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rec\u00edproco",
-      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Toque De Veludo",
-        "url": "https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh"
-      },
-      "artists": [
-        {
-          "name": "WD",
-          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Toque De Veludo",
-      "url": "https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Vers\u00e3o Beta",
         "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Seu Bem",
         "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 207000,
       "name": "Seu Bem",
       "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-09-01 03:01:00",

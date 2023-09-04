@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1768388,
+  "num_followers": 1768496,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTVlMDM2NWRjN2U1YTQxZjEwMjU5YTcyNzVmN2Y2MWFjMDQ5MDA3",
+  "snapshot_id": "MCw0MDQ2MTAyNTllMzQ3NDQxNjFmZGI3OWJmN2VlMTBiNmVkMDNmOGQ3",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -505,6 +505,26 @@
       "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
     },
     {
+      "added_at": "2023-08-21 23:12:19",
+      "album": {
+        "name": "Hood Rats (with Sukihana)",
+        "url": "https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "duration_ms": 175125,
+      "name": "Hood Rats (with Sukihana)",
+      "url": "https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY"
+    },
+    {
       "added_at": "2023-07-28 04:00:00",
       "album": {
         "name": "Fruit Loop",
@@ -519,26 +539,6 @@
       "duration_ms": 137263,
       "name": "Fruit Loop",
       "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "We Not Humping (Remix)",
-        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 143325,
-      "name": "We Not Humping - Remix",
-      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -583,22 +583,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
+        "name": "We Not Humping (Remix)",
+        "url": "https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk"
       },
       "artists": [
         {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 133200,
-      "name": "I Can't Stop (Big Boss Vette & Omah Lay)",
-      "url": "https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6"
+      "duration_ms": 143325,
+      "name": "We Not Humping - Remix",
+      "url": "https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -617,24 +617,24 @@
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
-      "added_at": "2023-08-21 23:12:19",
+      "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Hood Rats (with Sukihana)",
-        "url": "https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
         },
         {
-          "name": "Sukihana",
-          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 175125,
-      "name": "Hood Rats (with Sukihana)",
-      "url": "https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY"
+      "duration_ms": 133200,
+      "name": "I Can't Stop (Big Boss Vette & Omah Lay)",
+      "url": "https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Pretty Girls Walk (Remix)",
-        "url": "https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "Pretty Girls Walk (with Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -747,22 +727,6 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Throw Dat",
-        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Throw Dat",
-      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -795,6 +759,42 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Throw Dat",
+        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Throw Dat",
+      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Pretty Girls Walk (Remix)",
+        "url": "https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "Pretty Girls Walk (with Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Act Bad",
         "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
       },
@@ -815,6 +815,62 @@
       "duration_ms": 192000,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "They Got Amnesia",
+        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Handstand (with Doja Cat feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "You Wish + Trashboi",
+        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 120015,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -847,38 +903,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It's Givin",
-      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "You Wish + Trashboi",
-        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 120015,
-      "name": "You Wish",
-      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Pressurelicious (feat. Future)",
         "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
       },
@@ -899,30 +923,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "They Got Amnesia",
-        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Handstand (with Doja Cat feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "THE SINGLE LIFE",
         "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
       },
@@ -939,22 +939,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+        "name": "RESILIENCE",
+        "url": "https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
         }
       ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+      "duration_ms": 173289,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX"
     },
     {
       "added_at": "2023-07-28 04:00:00",

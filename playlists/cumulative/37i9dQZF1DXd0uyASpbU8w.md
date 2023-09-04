@@ -4,7 +4,7 @@
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=A5mc71RFRBysDrajiP0\_Pw">Lloyiso</a>
 
-933 songs - 2 day 16 hr 43 min
+934 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,8 @@
 | [Jaiva!](https://open.spotify.com/track/6Cp7oNT6rcFSRT5ZbOEdX1) | [DJ Capital](https://open.spotify.com/artist/1Z2lV83lH6bNPLr0c0ofsL), [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Jaiva!](https://open.spotify.com/album/19DCYVRaeEwmo3MVziUAjo) | 3:00 | 2023-06-15 | 2023-06-23 |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-07-28 | 2023-08-05 |
 | [Jehovah Ngiyabonga](https://open.spotify.com/track/2oelkq0zqxdXqMRv7T4CoY) | [Deborah Fraser](https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Jehovah Ngiyabonga](https://open.spotify.com/album/1PmboZPhLlapJIGYhz42ZD) | 3:54 | 2023-05-18 | 2023-05-26 |
-| [JELO](https://open.spotify.com/track/2p2IUL7Wn1W4bSCxrYSFEh) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO](https://open.spotify.com/album/4zyiP8Ik1unh9IeaW32Zb3) | 2:25 | 2023-08-31 |  |
+| [JELO](https://open.spotify.com/track/2p2IUL7Wn1W4bSCxrYSFEh) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO](https://open.spotify.com/album/4zyiP8Ik1unh9IeaW32Zb3) | 2:25 | 2023-08-31 | 2023-09-04 |
+| [JELO \(feat\. Young Jonn\)](https://open.spotify.com/track/6t2X8OIGbNqkNrF6k9bkPd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [JELO \(feat\. Young Jonn\)](https://open.spotify.com/album/4EowPSIlKkYWJ2wS3Qsu7b) | 2:25 | 2023-09-01 |  |
 | [Jeteme](https://open.spotify.com/track/4fD4Kag49mp8dm6bM8nRmx) | [Kekelingo](https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Jeteme](https://open.spotify.com/album/2bnvhdPD6Z8BLgLGX3G0y1) | 6:22 | 2023-08-10 | 2023-08-18 |
 | [Jig Saw](https://open.spotify.com/track/4kBwDtpW533iBUlhZxd0Jn) | [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [Jig Saw](https://open.spotify.com/album/2wnPj5uF9EqngzDnQfghD4) | 6:37 | 2023-06-08 | 2023-06-16 |
 | [Jika](https://open.spotify.com/track/1nax853VOQTTBM7P0H4j6u) | [MellowBone](https://open.spotify.com/artist/1Ij7YLGnj8pNM353d7tcb6), [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte), [Browdy Brave](https://open.spotify.com/artist/7jOvg3gMwT4BgdHMXJgtzJ) | [Jika](https://open.spotify.com/album/68ZR0aqCadwd0qEtoAeyRg) | 7:23 | 2023-07-14 | 2023-07-22 |

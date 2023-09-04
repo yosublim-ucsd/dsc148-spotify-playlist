@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,961 likes - 205 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,975 likes - 205 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 135 | [봄여름가을겨울](https://open.spotify.com/track/4vGVzDTOV3IvRmOxHLCG1T) | [Taeho](https://open.spotify.com/artist/4p0Tt1h24m9LNOmqGMAhcC) | [싱어게인 \- 무명가수전 Episode.6 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BumMUPVWFQpJYWjOS66Cy) | 2:44 |
 | 136 | [내 사람이여](https://open.spotify.com/track/74sUoSLw03Jftf0oVqDNur) | [SEO Young Joo](https://open.spotify.com/artist/2Fw753BgxYwcQTOkAfYJwH) | [싱어게인 \- 무명가수전 Episode.9 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ZlPoSZLQjE4JsD8QFdKBG) | 3:47 |
 | 137 | [MOON](https://open.spotify.com/track/2AOqxmVZ3wxn4fL78d8jCu) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [싱어게인 \- 무명가수전 Episode.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/4omEbAY9Eqoqnlt5a5TjWU) | 3:46 |
-| 138 | [A Little Rogue \(Live\)](https://open.spotify.com/track/2zCisofXKM6F4zZathe1Ek) | [Choi Yegeun](https://open.spotify.com/artist/7rqKQhutSQE0PkmIaSAqXP), [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [SingAgain \- Battle of the Unknown, Ep\. 4 \(From The JTBC TV Show\) \(Live\)](https://open.spotify.com/album/4GBufmNiwVZfPMZKLZr8ED) | 2:59 |
+| 138 | [개구장이](https://open.spotify.com/track/4nM2PHg5aGkGOuH7YZuxgV) | [Choi Ye Geun](https://open.spotify.com/artist/1wVz0zqtCpu1O23k1CfU9M), [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [싱어게인 \- 무명가수전 Episode.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0jpTJheMgkKVpLaak1Lco3) | 2:59 |
 | 139 | [누구없소](https://open.spotify.com/track/4swVNrLtRQwSyhNVNbXAEc) | [Lee Mujin](https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7) | [싱어게인 \- 무명가수전 Episode.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/3BTYHmr7gBinyfDBa7IOgX) | 2:53 |
 | 140 | [Honey](https://open.spotify.com/track/2NWB4Jk74ner8CbUlP13fA) | [이승윤](https://open.spotify.com/artist/6S2bEFWAZzp0GnpEGuD5zt) | [싱어게인 \- 무명가수전 Episode.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/3BTYHmr7gBinyfDBa7IOgX) | 3:03 |
 | 141 | [Chitty Chitty Bang Bang](https://open.spotify.com/track/1svQf0PdISIruqlqyJdZMT) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [싱어게인 \- 무명가수전 Episode.6 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BumMUPVWFQpJYWjOS66Cy) | 3:29 |
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 161 | [못다핀 꽃 한송이](https://open.spotify.com/track/6wVDSrGUekAE8Y5QspiubD) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [싱어게인 \- 무명가수전 Episode.8 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iV3LwzEP3TpAw3uNVeSBS) | 3:15 |
 | 162 | [불꽃처럼](https://open.spotify.com/track/69iXw7uAPPb4Phc2YnCLBk) | [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0), [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [싱어게인 \- 무명가수전 Episode.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3gTojsebDvo6FRgmct3EuN) | 3:27 |
 | 163 | [너였다면](https://open.spotify.com/track/3ltrSL2FZG0EVMuYmZYIIJ) | [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [싱어게인 \- 무명가수전 Episode.8 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iV3LwzEP3TpAw3uNVeSBS) | 3:41 |
-| 164 | [여우비](https://open.spotify.com/track/2PB8LdEiN3jYs53K1a0OuL) | [Taeho](https://open.spotify.com/artist/4p0Tt1h24m9LNOmqGMAhcC) | [싱어게인 \- 무명가수전 Episode.8 \(Original Television Soundtrack\)](https://open.spotify.com/album/4iV3LwzEP3TpAw3uNVeSBS) | 4:01 |
+| 164 | [Fox Rain \(Live\)](https://open.spotify.com/track/5wAv7KQ0RdBLnqW3RR7kfZ) | [Taeho](https://open.spotify.com/artist/4p0Tt1h24m9LNOmqGMAhcC) | [SingAgain \- Battle of the Unknown, Ep\. 8 \(From The JTBC TV Show\) \(Live\)](https://open.spotify.com/album/3RPWHIbT2cxnSwU253HTKT) | 4:01 |
 | 165 | [Make Up](https://open.spotify.com/track/6WTM97A4KVEivf6L4Ayxkn) | [Shin Min Jung](https://open.spotify.com/artist/7kg0C8e1ztMH71O7q57M1I) | [싱어게인 \- 무명가수전 Episode.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3k6os65Birhnu3Pb73OmVR) | 2:42 |
 | 166 | [리베카](https://open.spotify.com/track/4aZSmMMG2N3bONFUIdn6Wz) | [태호](https://open.spotify.com/artist/3tJezw9KJYJRtJ9WG1fasi) | [싱어게인 \- 무명가수전 Episode.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3k6os65Birhnu3Pb73OmVR) | 2:46 |
 | 167 | [사랑 그 쓸쓸함에 대하여](https://open.spotify.com/track/3tCFD0HWGPGGlAuoy8ZtiC) | [Hajin](https://open.spotify.com/artist/46NyPizf9MtgwuIOq8eLWH) | [싱어게인 \- 무명가수전 Episode.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/4omEbAY9Eqoqnlt5a5TjWU) | 3:51 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 204 | [Destiny \- Live](https://open.spotify.com/track/27ZPNAJBhbSv1GejWpyG0Q) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Famous Singers, Pt\. 10 \(From The "JTBC" TV Show\)](https://open.spotify.com/album/5b94ISqkUEaps41HR4Bha5) | 4:17 |
 | 205 | [Dear J \- Live](https://open.spotify.com/track/1No0fMLhwWa1R4qfPz9GLK) | [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O), [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Famous Singers, Pt\. 10 \(From The "JTBC" TV Show\)](https://open.spotify.com/album/5b94ISqkUEaps41HR4Bha5) | 4:21 |
 
-Snapshot ID: `MCwzOTBmNmYxNGUzMDg4ZjM5M2I0NWFjZDViZWQxNDBlYzA3YzgyYzhh`
+Snapshot ID: `MCwzM2Q4ZDk0NDExZDMzOWIzNjcxY2Q1MGQ1MzhiMzE1YmQ5YWQ0NzM0`

@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 91938,
+  "num_followers": 91967,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTAzOTYzMWIwNDdlNzI4ZjFlM2E4NmRiMWE0ZDhkMjdlZjMzMTVj",
+  "snapshot_id": "MCxiN2NkN2IwNjljM2JmYmI3YTJhMmY4NmNhNzAwZDJkNzNlZTI0ZjUy",
   "tracks": [
     {
       "added_at": "2023-07-21 03:24:44",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 119401,
+      "name": "but I'll wait for you",
+      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
+    },
+    {
+      "added_at": "2023-07-21 03:24:44",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2023-07-21 03:24:44",
-      "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 119401,
-      "name": "but I'll wait for you",
-      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
     },
     {
       "added_at": "2023-07-21 03:24:44",

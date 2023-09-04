@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 31992,
+  "num_followers": 32083,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTRlOTlkY2RlOTcxZWEzMzdkNDZlMTA1YjNjYWM3NWY1NzY2Y2Zl",
+  "snapshot_id": "MCw4M2M3NWNjOGJhN2QxZTA3Njc0ZTI3YzlhZDg2ZmVlNGNiYzc0MTE1",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -267,18 +267,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "late at night",
-        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
       "artists": [
         {
           "name": "Roddy Ricch",
           "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 174682,
-      "name": "late at night",
-      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
+      "duration_ms": 172320,
+      "name": "Bacc Seat (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -355,22 +359,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+        "name": "late at night",
+        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
       },
       "artists": [
         {
           "name": "Roddy Ricch",
           "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Bacc Seat (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX"
+      "duration_ms": 174682,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2022-10-01 20:14:07",

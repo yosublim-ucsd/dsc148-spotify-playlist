@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-199 songs - 12 hr 27 min
+200 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 | 2022-05-16 |  |
 | [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-11-19 |  |
 | [How It Ends](https://open.spotify.com/track/20EzOEcvFcUi5xvGerRRbE) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:19 | 2022-05-16 |  |
-| [Hurts so Good](https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Hurts so Good](https://open.spotify.com/album/2vB7f35TC3FniOnMy3ohiQ) | 4:55 | 2023-05-19 |  |
+| [Hurts so Good](https://open.spotify.com/track/0pERFI5FC1bCTH0n6EvyWo) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:55 | 2023-08-11 |  |
+| [Hurts so Good](https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Hurts so Good](https://open.spotify.com/album/2vB7f35TC3FniOnMy3ohiQ) | 4:55 | 2023-05-19 | 2023-09-04 |
 | [I Am Appalachia](https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [I Am Appalachia](https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn) | 2:40 | 2023-04-07 |  |
 | [I Remember Everything](https://open.spotify.com/track/5jYq5kj7kt6Iokzv7XeZhZ) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [I Remember Everything](https://open.spotify.com/album/0BQ0mFAuMKBqGfcfIii9Zi) | 2:43 | 2021-11-19 |  |
 | [If I Told](https://open.spotify.com/track/1zzCq21PJG7hbRuZJ1jGtF) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [If I Told](https://open.spotify.com/album/54JZi2ZgoMq9t7OF0V4qMu) | 4:58 | 2021-11-19 | 2022-07-29 |

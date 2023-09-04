@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 34577,
+  "num_followers": 34632,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3",
+  "snapshot_id": "MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Serenata Condemayta",
-      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Bodas de Plata: Concierto en Vivo",
         "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 237826,
       "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Serenata Condemayta",
+      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Huayno, Vol. 1",
-        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "Chall Huaschallay",
-      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Huaylash Pio Pio",
         "url": "https://open.spotify.com/album/2baljY40vl4lfiDbQ3e7OO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 290853,
       "name": "Nuestra Promesa",
       "url": "https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huayno, Vol. 1",
+        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "Chall Huaschallay",
+      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
       "added_at": "2022-02-04 14:45:56",

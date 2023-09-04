@@ -1535,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "N.A.T.I.O.N.",
+        "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237065,
+      "name": "Killing Me Slowly",
+      "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
+    },
+    {
+      "album": {
         "name": "Killing Me Slowly",
         "url": "https://open.spotify.com/album/4JJYvxmSDCIExVj13cWCes"
       },
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 210406,
       "name": "STFU",
       "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"

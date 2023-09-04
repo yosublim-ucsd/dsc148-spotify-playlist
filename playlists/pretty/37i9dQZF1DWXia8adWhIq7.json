@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jess\u00e9 Alcantara",
-  "num_followers": 74508,
+  "num_followers": 74609,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2Y2YjM0MWE5Yzg0MmYxN2I5MWU3YzVjOGY0NDI5NDcyNzRhOGM4",
+  "snapshot_id": "MCw1YTcyZTc4OTUzZjU4ZmU4ZWFhNTA1ZDk3NWQ1MmRlOWJjYTI2ODA2",
   "tracks": [
     {
       "added_at": "2023-09-01 05:57:28",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Fim de Tarde",
-        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 138517,
-      "name": "Fim de Tarde",
-      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Tens o Meu Sim",
         "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 224000,
       "name": "Tens o Meu Sim",
       "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
+        "name": "Fim de Tarde",
+        "url": "https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 138517,
+      "name": "Fim de Tarde",
+      "url": "https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Vida Leve",
-        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 176417,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Daqui pra Frente",
         "url": "https://open.spotify.com/album/2XgO11b1fJWeunYCiggbqv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 271631,
       "name": "Daqui pra Frente",
       "url": "https://open.spotify.com/track/5TWHfJt1ViGzfNDOmNVPTT"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
+        "name": "Vida Leve",
+        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 176417,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -619,6 +619,30 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
+        "name": "S\u00f3 o Come\u00e7o",
+        "url": "https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        },
+        {
+          "name": "Gustavo Barrinovo",
+          "url": "https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL"
+        }
+      ],
+      "duration_ms": 284153,
+      "name": "S\u00f3 o Come\u00e7o",
+      "url": "https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
         "name": "SL.27.4",
         "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
       },
@@ -671,30 +695,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "S\u00f3 o Come\u00e7o",
-        "url": "https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO"
-      },
-      "artists": [
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        },
-        {
-          "name": "Gustavo Barrinovo",
-          "url": "https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL"
-        }
-      ],
-      "duration_ms": 284153,
-      "name": "S\u00f3 o Come\u00e7o",
-      "url": "https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Nasce o Sol (Remix)",
         "url": "https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Teu Reino Venha",
         "url": "https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 222103,
       "name": "Teu Reino Venha",
       "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
+        "name": "Teu Amor Me Consome",
+        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
+      },
+      "artists": [
+        {
+          "name": "Guerreiros da F\u00e9",
+          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
+        }
+      ],
+      "duration_ms": 226187,
+      "name": "Teu Amor Me Consome",
+      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
         "name": "Minha Cura (The Healing)",
         "url": "https://open.spotify.com/album/424928PBVycQwfKKhk2oPj"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Teu Amor Me Consome",
-        "url": "https://open.spotify.com/album/5MapzYpDh2VHJCilZmkdRr"
-      },
-      "artists": [
-        {
-          "name": "Guerreiros da F\u00e9",
-          "url": "https://open.spotify.com/artist/362UHZOhL8SmqkRvUy1QeL"
-        }
-      ],
-      "duration_ms": 226187,
-      "name": "Teu Amor Me Consome",
-      "url": "https://open.spotify.com/track/6gQuUoxL0ajOQeWEK1p9Vw"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Acoustic Sessions, Vol. 6",
         "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 165954,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
-        "name": "Ac\u00fastico Talita Barreto",
-        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -883,6 +867,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
+        "name": "Ac\u00fastico Talita Barreto",
+        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Teus Rios",
         "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 194034,
       "name": "Teus Rios",
       "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Pense Bem",
         "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
         "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 165000,
       "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -1495,6 +1479,22 @@
       "duration_ms": 199864,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2023-09-01 05:57:28",

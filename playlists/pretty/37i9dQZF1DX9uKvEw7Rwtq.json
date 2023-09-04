@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 78455,
+  "num_followers": 78530,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmJjZjRiNmQ1NjRkOTNiMjczYTg0YzUyYWYxZjY1Y2YwYjEyNDc3",
+  "snapshot_id": "MCw0MmJkOWQ1NTQ1Zjk0ZTZmYzQzZjJjYTVlOTg2OGU5NjY5NzYzMTY0",
   "tracks": [
     {
       "added_at": "2023-08-18 14:02:48",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
-      },
-      "artists": [
-        {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
-        }
-      ],
-      "duration_ms": 593866,
-      "name": "Pendulum Man",
-      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+      },
+      "artists": [
+        {
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+        }
+      ],
+      "duration_ms": 593866,
+      "name": "Pendulum Man",
+      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "The Ever Shifting Fields",
-        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
-      },
-      "artists": [
-        {
-          "name": "Seas of Years",
-          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
-        }
-      ],
-      "duration_ms": 277133,
-      "name": "In Collusion with the Waves",
-      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 361760,
       "name": "A Citizen's Dream",
       "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "The Ever Shifting Fields",
+        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
+      },
+      "artists": [
+        {
+          "name": "Seas of Years",
+          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+        }
+      ],
+      "duration_ms": 277133,
+      "name": "In Collusion with the Waves",
+      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
+        "name": "Feeling Everything but Lost",
+        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
+        }
+      ],
+      "duration_ms": 295104,
+      "name": "Feeling Everything but Lost",
+      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 366290,
       "name": "In Light",
       "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
-        "name": "Feeling Everything but Lost",
-        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
-      },
-      "artists": [
-        {
-          "name": "Andrew Prahlow",
-          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
-        }
-      ],
-      "duration_ms": 295104,
-      "name": "Feeling Everything but Lost",
-      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Beautiful Illusions",
-        "url": "https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc"
-      },
-      "artists": [
-        {
-          "name": "Tor Lundvall",
-          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
-        }
-      ],
-      "duration_ms": 334866,
-      "name": "Forever Rain",
-      "url": "https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Blowback",
         "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 309200,
       "name": "Blowback - Edit",
       "url": "https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Beautiful Illusions",
+        "url": "https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc"
+      },
+      "artists": [
+        {
+          "name": "Tor Lundvall",
+          "url": "https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "Forever Rain",
+      "url": "https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
-      },
-      "artists": [
-        {
-          "name": "Pray for Sound",
-          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Mockingbird Love",
         "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 173853,
       "name": "My Courtesan",
       "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
+      },
+      "artists": [
+        {
+          "name": "Pray for Sound",
+          "url": "https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "In Gardens",
-        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
-      },
-      "artists": [
-        {
-          "name": "HOLM",
-          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
-        }
-      ],
-      "duration_ms": 323395,
-      "name": "In Gardens",
-      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "As She Bends Towards the Sun",
-        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+        "name": "In Gardens",
+        "url": "https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm"
       },
       "artists": [
         {
-          "name": "Teoay",
-          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+          "name": "HOLM",
+          "url": "https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt"
         }
       ],
-      "duration_ms": 287388,
-      "name": "As She Bends Towards the Sun",
-      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
+      "duration_ms": 323395,
+      "name": "In Gardens",
+      "url": "https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1299,6 +1283,22 @@
       "duration_ms": 262285,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
+        "name": "As She Bends Towards the Sun",
+        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+      },
+      "artists": [
+        {
+          "name": "Teoay",
+          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+        }
+      ],
+      "duration_ms": 287388,
+      "name": "As She Bends Towards the Sun",
+      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Love is a Shelter",
-        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
-      },
-      "artists": [
-        {
-          "name": "All Stars Dying",
-          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
-        },
-        {
-          "name": "Make Like A Tree",
-          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
-        }
-      ],
-      "duration_ms": 360006,
-      "name": "Love is a Shelter",
-      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
         "name": "Offworld",
         "url": "https://open.spotify.com/album/4uytwEGcmllVKV0xEBMM2h"
       },
@@ -1455,6 +1435,26 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
+        "name": "Love is a Shelter",
+        "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
+      },
+      "artists": [
+        {
+          "name": "All Stars Dying",
+          "url": "https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP"
+        },
+        {
+          "name": "Make Like A Tree",
+          "url": "https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk"
+        }
+      ],
+      "duration_ms": 360006,
+      "name": "Love is a Shelter",
+      "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP"
       },
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Floating Above Saturn",
-        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
+        "name": "Meteor Shower",
+        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
       },
       "artists": [
         {
-          "name": "Framed By Stars",
-          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
         }
       ],
-      "duration_ms": 137986,
-      "name": "Floating Above Saturn",
-      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
+      "duration_ms": 236000,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
+        "name": "Floating Above Saturn",
+        "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
       },
       "artists": [
         {
-          "name": "Thurston Moore",
-          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
+          "name": "Framed By Stars",
+          "url": "https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf"
         }
       ],
-      "duration_ms": 164453,
-      "name": "The Station",
-      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+      "duration_ms": 137986,
+      "name": "Floating Above Saturn",
+      "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
-        "name": "Meteor Shower",
-        "url": "https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH"
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
       },
       "artists": [
         {
-          "name": "Alyas",
-          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
+          "name": "Thurston Moore",
+          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Meteor Shower",
-      "url": "https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E"
+      "duration_ms": 164453,
+      "name": "The Station",
+      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
     },
     {
       "added_at": "2023-08-18 14:02:48",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-08-18 14:02:48",
       "album": {
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
+      },
+      "artists": [
+        {
+          "name": "Call the Ocean",
+          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
+        }
+      ],
+      "duration_ms": 439449,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
+    },
+    {
+      "added_at": "2023-08-18 14:02:48",
+      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
-    },
-    {
-      "added_at": "2023-08-18 14:02:48",
-      "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
-      },
-      "artists": [
-        {
-          "name": "Call the Ocean",
-          "url": "https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr"
-        }
-      ],
-      "duration_ms": 439449,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
     }
   ],
   "unique_name": "Ambient Post-Rock",

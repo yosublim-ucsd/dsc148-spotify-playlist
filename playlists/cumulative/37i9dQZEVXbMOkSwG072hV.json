@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 155062,
       "name": "Bateu 20H",
       "url": "https://open.spotify.com/track/7CLwQ5MSaQjUD0Va27RAp1"
@@ -12844,7 +12844,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 301533,
       "name": "Garota Nota 100",
       "url": "https://open.spotify.com/track/4ruVonpdDgg6RFGC8XBN1q"
@@ -13098,6 +13098,28 @@
       "duration_ms": 203520,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/5BLShRvEy6OQNXzkawWLvj"
+    },
+    {
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/3NpsEXK612BTwLLIFQECxO"
+      },
+      "artists": [
+        {
+          "name": "Priscilla",
+          "url": "https://open.spotify.com/artist/2kAllRyiZRNrD6nty4j3IV"
+        },
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224725,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
     },
     {
       "album": {
@@ -25914,7 +25936,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 313800,
       "name": "Rap do solitario",
       "url": "https://open.spotify.com/track/0pTvGqoudfmA0xYhvSHNk4"

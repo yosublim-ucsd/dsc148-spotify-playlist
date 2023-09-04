@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。King Gnu, Imagine Dragons, Doja Cat, 羊文学, and more! Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,395 likes - 68 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,658 likes - 68 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 67 | [ゾウ](https://open.spotify.com/track/4xcYpxA5603bWGjlZfN56p) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [ゾウ](https://open.spotify.com/album/6UB20HtWFVLxBDD2HgZare) | 3:34 |
 | 68 | [Emergence](https://open.spotify.com/track/651xUkP0yZxkXaXbRrSBGj) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Emergence](https://open.spotify.com/album/5sr0mZWHNP218NV0K65vGn) | 4:11 |
 
-Snapshot ID: `MCwxYjg2NTQ1M2NmMGNmNGQ4OGM5Y2I1ZjU0OWQ0NjRmMWEwODMzOWE2`
+Snapshot ID: `MCwzNGRkMjYwMDdiNjJjYjhlMTQyYWYxZjQ3NDUwM2FhNDQ4MmNiZjVm`

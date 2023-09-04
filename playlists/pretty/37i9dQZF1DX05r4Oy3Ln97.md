@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,829 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,840 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 45 | [Taste like Summertime](https://open.spotify.com/track/3bpBlfNm5nZgH8m2imm1dA) | [OFF KEY JUNIOR](https://open.spotify.com/artist/41mD8iGiM0QCM3l6NwhyxW), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Taste like Summertime](https://open.spotify.com/album/3w1nX3zVWnhuKDmsuAwM9M) | 2:24 |
 | 46 | [Sunrise](https://open.spotify.com/track/4ViSS2rvk9hFbmyFg3s33k) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise \(Club Mix\)](https://open.spotify.com/album/6KN6uHKN0og1gY1uaowVAm) | 2:18 |
 | 47 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 |
-| 48 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 |
-| 49 | [I Feel Fine](https://open.spotify.com/track/0uNyb8YPD5LDM4gpb4hqry) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/27XW2QTeqZGOKlm2Dt0PvN) | 3:18 |
-| 50 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 |
+| 48 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 |
+| 49 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 |
+| 50 | [I Feel Fine](https://open.spotify.com/track/0uNyb8YPD5LDM4gpb4hqry) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/27XW2QTeqZGOKlm2Dt0PvN) | 3:18 |
 | 51 | [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 |
 | 52 | [The Future](https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Future](https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s) | 3:44 |
 | 53 | [Following the Sun \- Supermini Marimba Remix](https://open.spotify.com/track/2hEHZx1TWiy8YVHGXef0Wc) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:49 |
 | 54 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 |
-| 55 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 |
-| 56 | [Chasing Dreams](https://open.spotify.com/track/5xV7NL7wEfUurJAEnvrs1o) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Chasing Dreams](https://open.spotify.com/album/04E8MWZk6kur87dNh0Yh0w) | 2:20 |
-| 57 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 |
-| 58 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
+| 55 | [Chasing Dreams](https://open.spotify.com/track/5xV7NL7wEfUurJAEnvrs1o) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Chasing Dreams](https://open.spotify.com/album/04E8MWZk6kur87dNh0Yh0w) | 2:20 |
+| 56 | [City Of Love](https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Selah Sol](https://open.spotify.com/artist/3ZnFOxqZB6PMOGElerc68j) | [City Of Love](https://open.spotify.com/album/3OR26UvHzUczbMM2uWCYC0) | 2:46 |
+| 57 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
+| 58 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 |
 | 59 | [I Love You Always Forever \(Nora's Version\)](https://open.spotify.com/track/4eMaX3oR9aD0JTwZOrNQ9Y) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [I Love You Always Forever \(Nora's Version\)](https://open.spotify.com/album/7pH3cy1xaXNxrOdinVKUuj) | 3:16 |
 | 60 | [This Love](https://open.spotify.com/track/6WYRMJqj9wpYmIdSfHQuEO) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/4JQ00p7OYAiNsa3etPj070) | 3:55 |
 
-Snapshot ID: `MCwwMjY5ZDBjYzQ2ZTliYmIyNTgzMzUzNjFlZGZiZTUyYmViZmZmYWQ1`
+Snapshot ID: `MCwzZGRhM2EzNzZmOThlNjE4Yjc3NDZlOTkzZWY1ZDQ1ZDA3OGQ2NzVh`

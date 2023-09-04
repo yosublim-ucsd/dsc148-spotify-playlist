@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked just for you. \u2728 Cover: Cuco & Aleman",
-  "num_followers": 764314,
+  "num_followers": 764291,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWY4ZjhjN2M5NTZhZWZiYjc4Njg0YTQxMmJjZWVhZmYzYWQ1YzZi",
+  "snapshot_id": "MCw5YTQwNjc2MDRhNjNhMjQ0Y2JhN2YzYWRmYmY3N2FiMDQ0ZGM1Yzgx",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Si Te Portas Bonito",
         "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 117539,
       "name": "Si Te Portas Bonito - Edit",
       "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -439,38 +455,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "FDA",
-        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "vulnerable",
-      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Climax",
         "url": "https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 148825,
       "name": "Climax",
       "url": "https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "FDA",
+        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "vulnerable",
+      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "NOS QUISIMOS",
+        "url": "https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 151612,
+      "name": "NOS QUISIMOS",
+      "url": "https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "two eyes",
         "url": "https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV"
       },
@@ -607,38 +623,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "NOS QUISIMOS",
-        "url": "https://open.spotify.com/album/7CpT6NEeMCt4Af2hYd9nsd"
-      },
-      "artists": [
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        }
-      ],
-      "duration_ms": 151612,
-      "name": "NOS QUISIMOS",
-      "url": "https://open.spotify.com/track/2mku1OLO09WwzX0meogq3y"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/0dr8b2KU2k223uuOq5qGK1"
-      },
-      "artists": [
-        {
-          "name": "Ale Fdz",
-          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
-        }
-      ],
-      "duration_ms": 278839,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/6npK9NwM38YEoFeHvB6m5W"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3ofWk0ZjZQNmhsjlVud2y9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 253747,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/3t9HCHioZ2hmHhWQEjOjPA"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/0dr8b2KU2k223uuOq5qGK1"
+      },
+      "artists": [
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "duration_ms": 278839,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/6npK9NwM38YEoFeHvB6m5W"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "BITCH3",
+        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 144554,
+      "name": "BITCH3",
+      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Terciopelo",
         "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
       },
@@ -755,6 +771,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Guarapo y Flor",
         "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
       },
@@ -775,38 +807,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "OJALA",
-        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "OJALA",
-      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 139688,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "i miss u",
         "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 155812,
       "name": "i miss u",
       "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 139688,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 159441,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/0Ycy8YyLzDbN8DDCPCJCRW"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Amanece Otra Vez",
-        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 247501,
-      "name": "Amanece Otra Vez",
-      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
     }
   ],
   "unique_name": "Mixto",

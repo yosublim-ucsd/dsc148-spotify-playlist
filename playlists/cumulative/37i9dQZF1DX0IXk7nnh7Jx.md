@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-382 songs - 23 hr 1 min
+383 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [It's Alright](https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [It's Alright](https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V) | 3:25 | 2023-08-04 |  |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1MzsDT85FGT7NDwyc6EndI) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Wilder Years](https://open.spotify.com/album/6IljQe2zOTrM6NQpKfmrOb) | 3:24 | 2020-12-18 | 2022-07-26 |
 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 | 2023-02-19 |  |
-| [Jesus can Save them All](https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R) | [Make a Joyful Noisee](https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM) | [Jesus can Save them All](https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu) | 4:33 | 2023-04-21 |  |
+| [Jesus can Save them All](https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R) | [Make a Joyful Noisee](https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM) | [Jesus can Save them All](https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu) | 4:33 | 2023-04-21 | 2023-09-04 |
 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 | 2023-04-07 |  |
 | [Just Like In Heaven](https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Just Like In Heaven](https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW) | 4:56 | 2023-04-07 |  |
 | [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 | 2023-02-19 |  |
@@ -370,6 +370,7 @@
 | [Wherever I Go \(Acoustic\)](https://open.spotify.com/track/2gBVcqS417YeS6Jr4rqvsg) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Wherever I Go \(Acoustic\)](https://open.spotify.com/album/48da3rX8UEuuwkS9t0LUBh) | 4:10 | 2023-02-24 | 2023-04-24 |
 | [whisper](https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF) | [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [whisper](https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6) | 2:31 | 2023-02-19 |  |
 | [Who's That Guy?](https://open.spotify.com/track/0c9Pvl5ZbuSLz74zYaJOmE) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [fake strong](https://open.spotify.com/album/0MI00zdMi7R5he3t0aaVRm) | 2:42 | 2023-02-24 | 2023-05-20 |
+| [Who's That Guy?](https://open.spotify.com/track/2RgmmmCOrpqLIiIcKKEx8w) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F), [Sam Bowman](https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP) | [fake strong](https://open.spotify.com/album/0eYhL7GwwfoMikoVzQczLE) | 2:42 | 2023-08-11 |  |
 | [Wildflower \- Single Version](https://open.spotify.com/track/2tKaFiKEIuFf5r3LXpiqPg) | [Baily Hager](https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb) | [Wildflower](https://open.spotify.com/album/1T6eFur755rELSRscSb0AK) | 5:31 | 2023-02-24 | 2023-03-27 |
 | [WINNING](https://open.spotify.com/track/2GV28Ng9Qb9nd1Eo0pcoIC) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [WINNING](https://open.spotify.com/album/5gACii71448MJmPfypnC80) | 2:18 | 2023-02-24 | 2023-08-05 |
 | [With Us Still](https://open.spotify.com/track/3TxZrkbyMAsRPbYAzDS7ag) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [With Us Still](https://open.spotify.com/album/1xajWufL9Q5yU8abterSB5) | 3:37 | 2023-02-24 | 2023-03-26 |

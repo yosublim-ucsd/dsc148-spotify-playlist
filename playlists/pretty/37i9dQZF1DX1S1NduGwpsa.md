@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Cautious Clay
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,557 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,653 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Fuck Yeah](https://open.spotify.com/track/0XRhF206W0IU4dBm95DS37) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC) | [Fuck Yeah](https://open.spotify.com/album/5qivkuZe5DRd1o5fT18oBd) | 5:16 |
 | 50 | [This Is All I Ask](https://open.spotify.com/track/7gLH8KeZepuJW2kv9ODrly) | [Alex Gilson](https://open.spotify.com/artist/6zP7fwcpwsvsLNxr3iy6hW), [Paul Morvan](https://open.spotify.com/artist/4LkQzb3Bx2pwv3hJz6AwWl), [Amaury Faye](https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte), [Michel Pastre](https://open.spotify.com/artist/72H0XVdRgj7SFQOKiDDw1P), [Björn Ingelstam](https://open.spotify.com/artist/46OCIaWgZaJ0Poxo4pb5Nw) | [Introducing \- Danger Zone](https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP) | 3:00 |
 
-Snapshot ID: `MCw2MzcxNzE0Y2QzMzlkNDE4MzBmOWVlYmMyMjVmMWFlYjBmMjg0YzAy`
+Snapshot ID: `MCw4NTc0MmZkYTVhZWUyZjA2Zjk5MWQ0MzRiZTRkMDI2ODljOTM2NTU5`

@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-136 songs - 8 hr 57 min
+137 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 | 2021-12-15 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/1lWBgerKZ76ruJf1N8k7wh) | [Timothy Bloom](https://open.spotify.com/artist/4LF6IqmnCvbErXH89NaMAI), [V\. Bozeman](https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI) | [Christmas Time on the Black Hand Side](https://open.spotify.com/album/4NdBLXkRMlGdZMugmm6NeI) | 2:59 | 2021-12-15 | 2022-07-24 |
 | [Be Mine For Christmas](https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [What Christmas Means](https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g) | 4:17 | 2022-11-25 |  |
-| [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 | 2021-12-15 |  |
+| [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 | 2021-12-15 | 2023-09-04 |
 | [Christmas In Harlem](https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Christmas In Harlem](https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt) | 3:56 | 2022-11-29 |  |
 | [Christmas Morn](https://open.spotify.com/track/6pDdJM1QjrJdnIBrDN00yX) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [My Christmas Album](https://open.spotify.com/album/3AXPIYkc039fwh2DIrWvgl) | 5:21 | 2021-12-15 | 2022-07-28 |
 | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Christmas Morning \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV) | 3:26 | 2021-12-15 | 2022-11-13 |
@@ -97,6 +97,7 @@
 | [presents \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:40 | 2022-11-25 |  |
 | [Santa Baby \(with Summer Walker\)](https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Home For The Holidays](https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4) | 2:20 | 2021-12-15 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2022-11-25 |  |
+| [Silent Night](https://open.spotify.com/track/2Zd76A2BuP2CIufE63RkdA) | [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Silent Night](https://open.spotify.com/album/6SP5GiU7Sl9ATWsNPr9Pwg) | 3:10 | 2022-12-02 |  |
 | [Silent Night](https://open.spotify.com/track/36NhKGzYlB5kWuZ87WdOBV) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Give Love At Christmas](https://open.spotify.com/album/1EVbBd8S7bwmogZX3y6GVp) | 6:04 | 2021-12-15 | 2022-07-29 |
 | [Silent Night](https://open.spotify.com/track/29pkrZLRrWK6TMw9egQC1y) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [First Christmas](https://open.spotify.com/album/50UK1YSUTD2zvXKLa3rsBD) | 6:05 | 2021-12-15 | 2022-11-14 |
 | [Silent Night](https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Give Love At Christmas](https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP) | 6:05 | 2021-12-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: MAY\-A
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,177 likes - 88 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,216 likes - 88 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 56 | [Kārewa](https://open.spotify.com/track/2VKRypjE2UKmJLh8Ig59Lz) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC), [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Kārewa](https://open.spotify.com/album/3jONCly58XTHko2HF2RTJW) | 3:14 |
 | 57 | [International](https://open.spotify.com/track/1WHwr3enTkZdG8feFozaqy) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [International](https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd) | 2:43 |
 | 58 | [Hold Me Like A Summer](https://open.spotify.com/track/7mE4jzo38u1LhriLyqT6SR) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Hold Me Like A Summer](https://open.spotify.com/album/57VIsBCsuxjam0CzdTBiUQ) | 3:11 |
-| 59 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Love Language](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 |
+| 59 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Life Changes](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 |
 | 60 | [Damage](https://open.spotify.com/track/0vA9qHaTdCScEdroJiwHh3) | [Josh Mac](https://open.spotify.com/artist/4ZCUxlob32idKOM4mIP76L) | [Damage](https://open.spotify.com/album/6C7IFGbtla4IIQChPZHn8n) | 2:53 |
 | 61 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
 | 62 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Wolf](https://open.spotify.com/track/5IqU4x7djoydv2Kl03AFbY) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [Wolf](https://open.spotify.com/album/4eihY4pbCjrnqwHEKpe5uP) | 4:05 |
 | 88 | [Easy Way Out](https://open.spotify.com/track/4N54M71DcUYsNrmwoixiDJ) | [Glenn Hopper](https://open.spotify.com/artist/2Y8ONxYGML4DWQG2TWGfnQ) | [Easy Way Out](https://open.spotify.com/album/4T20NHHVVPBX3zZQPQn2cu) | 4:07 |
 
-Snapshot ID: `MCw1OTdkNGFlMTkwOWNlMGM2MDg0MDJlOGI3MGZhNDY1YzE4ZWU2YTNi`
+Snapshot ID: `MCwwODAxNGMyMjJhYjM5MWQyMDE4ZjQ1MDdlMmExNzZhYTQ3N2VjMjI1`

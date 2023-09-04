@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Sam Fischer
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,423 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,420 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 6 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 |
 | 7 | [Disrespect](https://open.spotify.com/track/5GaGNTPNNXCmgZP3szlBQ5) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Disrespect](https://open.spotify.com/album/4giebInGcz0mCUWjT8zkDq) | 2:32 |
 | 8 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
-| 9 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Love Language](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 |
+| 9 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Life Changes](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 |
 | 10 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
 | 11 | [Damage](https://open.spotify.com/track/0vA9qHaTdCScEdroJiwHh3) | [Josh Mac](https://open.spotify.com/artist/4ZCUxlob32idKOM4mIP76L) | [Damage](https://open.spotify.com/album/6C7IFGbtla4IIQChPZHn8n) | 2:53 |
 | 12 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [You & I](https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:00 |
 | 100 | [god complex](https://open.spotify.com/track/49aZox2OKhWCsmorRsCF3D) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [god complex](https://open.spotify.com/album/0xLDiRQyvRM2Jh18sWTG5Z) | 3:08 |
 
-Snapshot ID: `MCxiYmM4NTc5ODkxMWEwN2M2YjJiNDljNmE5YWYxNzM3NDA3MGFiNDZm`
+Snapshot ID: `MCw1YjFlNjBhYTVmYmIyZjk5MzdkYjMzYjc2OGJjNGJmOWM2ZDRiY2Y4`

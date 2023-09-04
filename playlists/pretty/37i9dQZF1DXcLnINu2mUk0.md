@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,579 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,629 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [tinha + sonhos](https://open.spotify.com/track/0TNO84l24GT3hyFpqxJ8U6) | [Curly](https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er) | [tinha + sonhos](https://open.spotify.com/album/58eeO1jjsoWAHQo8Y4MLbe) | 2:31 |
 | 70 | [Contigo](https://open.spotify.com/track/6vRa0xwMWiBR8fvGd7brnb) | [Nova Wave](https://open.spotify.com/artist/3Flbc3WdCltjLi9LJfO0dv) | [Contigo](https://open.spotify.com/album/1dav5pLvS9gKsxuCcH5M1j) | 2:31 |
 
-Snapshot ID: `MCw3YTBkMzI4ZmY1MGIxYWFlYTAxODNhN2RlODgwMjBiNzUxZDM2N2Y1`
+Snapshot ID: `MCwyYzQ4YjI4ZjNhOGE2MWYyNGI0YjBhM2Q2MDM0MzNhMmY4Y2MxNWFi`

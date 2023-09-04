@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:artist:76KihzDzdR7li8RPVY50EA">Kirnbauer</a>,  <a href="spotify:artist:7lSGnBub2g8JGbNDgmrXsJ">Joaquina Mertz</a>, <a href="spotify:artist:3kN2uYBnEM2IqRxa69sxkr">Noa Sainz</a> + <a href="spotify:artist:4YJQjp0wW8B5luWzPOcHrG">María Centeno</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,671 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,689 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Ring Ring](https://open.spotify.com/track/32BXY1XXmu2BGd7BC4b7ea) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Ring Ring](https://open.spotify.com/album/4T4lGbimAUcj50Zr7kSZ7h) | 2:43 |
 | 40 | [DRIFT](https://open.spotify.com/track/4YuPOUPQ3R15aSLO9wEiZK) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [DRIFT](https://open.spotify.com/album/3xLYwDzegPrnS3RJRrdKpx) | 2:51 |
 
-Snapshot ID: `MCwyZjFmMzY2N2QzNjcxZWQ5YzUwNTBlYmU0YTFiODE3ZDU5NGJlMWJj`
+Snapshot ID: `MCxmYWJkODI1OWE2ZGNkOGMzMWVmYmJhM2QxZjkzNDUyMzAwNzNiYjZh`

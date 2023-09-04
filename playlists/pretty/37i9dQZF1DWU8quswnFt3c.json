@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 920537,
+  "num_followers": 920486,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWI5ODkwYzkzYmQyOWI4YWU3ZmViMWY4ZmYwZjE5ZmZkMTNmYjA4",
+  "snapshot_id": "MCw2MjhiZDg3ODM5MjAzZDU0MWMxZDYxYTM2Y2Y2NDcyNmM3MzJiOWM2",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Feel It (Club Edit)",
-        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 124462,
-      "name": "Feel It - Club Edit",
-      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Feel It (Club Edit)",
+        "url": "https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 124462,
+      "name": "Feel It - Club Edit",
+      "url": "https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Golden Hourglass",
-        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
-      },
-      "artists": [
-        {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Summer Comes",
-      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Qu\u00e9 Iron\u00eda",
         "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 267445,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Golden Hourglass",
+        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Summer Comes",
+      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "idc",
-        "url": "https://open.spotify.com/album/7ArQiiYfgEeFr0QQJHRWQQ"
-      },
-      "artists": [
-        {
-          "name": "COLLAR",
-          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
-        }
-      ],
-      "duration_ms": 203797,
-      "name": "idc",
-      "url": "https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 155750,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "idc",
+        "url": "https://open.spotify.com/album/7ArQiiYfgEeFr0QQJHRWQQ"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+        }
+      ],
+      "duration_ms": 203797,
+      "name": "idc",
+      "url": "https://open.spotify.com/track/407aJoHyCCUs8trkkrHy4i"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Pao Sto Nisi",
-        "url": "https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 178705,
-      "name": "Pao Sto Nisi",
-      "url": "https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Vas de Salida",
         "url": "https://open.spotify.com/album/2jkH7HrRTkNWqevE3FgncN"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 182160,
       "name": "Vas de Salida",
       "url": "https://open.spotify.com/track/0YBeV2hlrhGVB6dPItP1ct"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Pao Sto Nisi",
+        "url": "https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 178705,
+      "name": "Pao Sto Nisi",
+      "url": "https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Solita Solita",
+        "url": "https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 187411,
+      "name": "Solita Solita",
+      "url": "https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "A Dream of Bonnie and Clyde",
         "url": "https://open.spotify.com/album/5Gk01vK87HZ4EQ52xTeyZ1"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 174503,
       "name": "A Dream of Bonnie and Clyde (feat. JADE)",
       "url": "https://open.spotify.com/track/2IUXNnuWKre9DXp8nUpVDZ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Solita Solita",
-        "url": "https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "Solita Solita",
-      "url": "https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3"
     },
     {
       "added_at": "2023-08-02 04:00:00",

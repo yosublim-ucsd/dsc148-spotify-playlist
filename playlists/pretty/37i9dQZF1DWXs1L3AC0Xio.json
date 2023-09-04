@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 686597,
+  "num_followers": 686770,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWQ2OTA2YTE3Y2UwYjY5ODFlZWRhN2E5ODUxNWYxYTlmZjMyZmRl",
+  "snapshot_id": "MCw4NWQwNWUyNGEwYTViMzg2OGU2NTNhYWI2MTc1NmY1NDM3MDQ1MjJm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Disobey",
+        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 254805,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Daughtry",
         "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 293640,
       "name": "Ashes of Eden",
       "url": "https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Disobey",
-        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 254805,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KhDo0Er6dNxcK8zL6252l"
+      },
+      "artists": [
+        {
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+        }
+      ],
+      "duration_ms": 228386,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6HDfH9xZ36NBNl5A71QrTR"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 285320,
       "name": "Break In",
       "url": "https://open.spotify.com/track/5Q7pjvFqm4Pk0voGgutt5G"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Magic Valley",
-        "url": "https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 300030,
-      "name": "Darlin'",
-      "url": "https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR"
     }
   ],
   "unique_name": "Rock Ballads",

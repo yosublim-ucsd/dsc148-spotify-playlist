@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-183 songs - 13 hr 41 min
+184 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Gone Again](https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [In Her Words](https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv) | 4:27 | 2022-04-13 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP), [Leo Gasso](https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Good Morning Heartache](https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR) | 3:13 | 2022-04-13 |  |
 | [Good Morning Heartache](https://open.spotify.com/track/077iW8bXbhEG8Mi3Tj4k4Q) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Good Morning Heartache](https://open.spotify.com/album/3zeaYxTFckt9F4p3DAYK4o) | 5:08 | 2023-08-10 | 2023-08-25 |
+| [Good Morning Heartache](https://open.spotify.com/track/13OsVT5orbu0nLcpsvJSVh) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti, Vol\. 2](https://open.spotify.com/album/01WOu4s6vmRdYC7eK2JMt8) | 5:08 | 2023-08-31 |  |
 | [Guess Who I Saw Today](https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:09 | 2022-09-20 | 2023-01-13 |
 | [Here You Come Again](https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR) | [Staci Griesbach](https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO) | [Here You Come Again](https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9) | 5:09 | 2022-04-13 |  |
 | [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 | 2022-09-03 |
@@ -143,7 +144,7 @@
 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 | 2022-04-13 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 4:35 | 2022-04-13 |  |
 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 | 2022-04-13 |  |
-| [Someone to Watch over Me](https://open.spotify.com/track/3l4c1SMbtDjz4LgmCNSWxS) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 6:05 | 2022-04-13 |  |
+| [Someone to Watch over Me](https://open.spotify.com/track/3l4c1SMbtDjz4LgmCNSWxS) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 6:05 | 2022-04-13 | 2023-09-04 |
 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 |  |
 | [Song to Comfort](https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc) | [Marie Mørck](https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7) | [Songs to Comfort](https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8) | 5:38 | 2023-06-21 |  |
 | [Spring Can Really Hang You up the Most](https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Spring Can Really Hang You up the Most](https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI) | 5:26 | 2022-04-13 |  |

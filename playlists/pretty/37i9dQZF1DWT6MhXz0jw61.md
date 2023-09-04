@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Mick Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,906 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,454 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [FLAWS](https://open.spotify.com/track/0EnlvUZO6N6TadHIwbRkRQ) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FLAWS](https://open.spotify.com/album/2HeQ8J78llo9ltuobnqS1F) | 4:07 |
 | 100 | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/track/67w6FFEfUw7rYNPgKAJCRQ) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [C Dot Castro](https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6) | [Lightsabers \(feat\. C Dot Castro\)](https://open.spotify.com/album/3qQQF9zSGLWhyWBWGtXZD9) | 4:50 |
 
-Snapshot ID: `MCxiMjIxMjdjOWVhZDZhYzUzNzdkYzI2Y2YyM2ZmMTViZjBkMmE0NzE4`
+Snapshot ID: `MCw2YjEyODU5YjE5NjllODc0YzA0NTJmZDhjMzNhZWE4YjkzMjE5ODA0`

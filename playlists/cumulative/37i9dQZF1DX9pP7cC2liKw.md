@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-299 songs - 21 hr 1 min
+300 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Agua de La Tierra \(Nicola Cruz Remix\)](https://open.spotify.com/track/3z55fMIOftbrZrZ0Z7WbbW) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [El Origen](https://open.spotify.com/album/0wOHl1sUUJ5fw2YLCClpyr) | 4:53 | 2022-06-15 | 2022-10-22 |
 | [Agua, Arena, Sol y Viento](https://open.spotify.com/track/1djvsJfRULPkKeTumFfwgL) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:08 | 2022-04-17 | 2022-07-28 |
 | [Aguacero Tropical](https://open.spotify.com/track/5mhYs8LilsurjSLIibxCgn) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Aguacero Tropical](https://open.spotify.com/album/5v2hEZH52HxulMloCJDY8A) | 3:45 | 2022-01-21 | 2022-06-23 |
-| [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-23 |  |
+| [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-23 | 2023-09-04 |
 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 | 2022-01-04 |  |
 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 | 2022-01-04 | 2022-07-28 |
 | [Ain't Nobody \- 12" Mix](https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU) | [Yvonne Archer](https://open.spotify.com/artist/7silPKojiZ1G2aa6RVmTFa) | [Café del Mar XXVIII \(Vol\. 28\)](https://open.spotify.com/album/50hSMsot2349bT8bzyPzfy) | 4:26 | 2022-08-19 | 2022-11-18 |
@@ -63,6 +63,7 @@
 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/66IrwRUKnmMPiYpBfEGYCm) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:34 | 2022-06-15 |  |
 | [Chicha Nola \- Alternative Version](https://open.spotify.com/track/7ossK2yjI5VzrYWMF8E57F) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp) | 3:34 | 2022-06-15 | 2023-04-30 |
 | [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 | 2022-11-18 | 2023-01-22 |
+| [Chichera](https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Dubamerica](https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX) | 5:36 | 2022-06-15 |  |
 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 | 2023-04-07 |  |
 | [Con La Brisa](https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:47 | 2022-11-15 | 2023-03-25 |
 | [Conexión Total](https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tierra](https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J) | 3:35 | 2022-01-04 | 2022-07-29 |

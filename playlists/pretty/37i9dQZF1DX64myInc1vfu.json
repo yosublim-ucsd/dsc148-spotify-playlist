@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: La Isla Centeno",
-  "num_followers": 73288,
+  "num_followers": 73334,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGJhYjYzMzYzMDJhMTc5ZGNmZDJlOWE4YzVmYWYxNzkxYWNlMDE4",
+  "snapshot_id": "MCxhY2E4ODEzNmNhODUyZmRiNmJmNzYyNjk4ZDY4NzBiZDgyMTJiMjFh",
   "tracks": [
     {
       "added_at": "2023-09-01 16:56:30",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
+        "name": "D\u00e9jame Conocerte",
+        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 279824,
+      "name": "D\u00e9jame Conocerte",
+      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 240495,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
-        "name": "D\u00e9jame Conocerte",
-        "url": "https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 279824,
-      "name": "D\u00e9jame Conocerte",
-      "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
     },
     {
       "added_at": "2023-09-01 16:56:30",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2023-09-01 16:56:30",
       "album": {
-        "name": "Para No Olvidar",
-        "url": "https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        },
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        },
-        {
-          "name": "Vicente Amigo",
-          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
-        }
-      ],
-      "duration_ms": 244482,
-      "name": "Para No Olvidar",
-      "url": "https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr"
-    },
-    {
-      "added_at": "2023-09-01 16:56:30",
-      "album": {
         "name": "Porrito y a Dormir",
         "url": "https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG"
       },
@@ -1091,6 +1067,26 @@
       "duration_ms": 198000,
       "name": "Porrito y a Dormir",
       "url": "https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez"
+    },
+    {
+      "added_at": "2023-09-01 16:56:30",
+      "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 208004,
+      "name": "Bohemio",
+      "url": "https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1"
     }
   ],
   "unique_name": "Lento.",

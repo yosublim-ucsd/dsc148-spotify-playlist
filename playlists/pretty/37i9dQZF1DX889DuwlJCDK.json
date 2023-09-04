@@ -1,12 +1,12 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
-  "num_followers": 7749,
+  "num_followers": 7758,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2Q0MjUwMDdkYzljZTNhN2ZiOTQ2YWMyNDE3ZmFiZWFiM2ZiYTU0",
+  "snapshot_id": "MCw2NTBiMjJlYzU4NDJkMTQxNWZmODgxMjcxYzk5NWViYjM0YTFlZmQ5",
   "tracks": [
     {
       "added_at": "2023-09-01 15:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
-        "name": "\u590f\u306e\u5922\u306f",
-        "url": "https://open.spotify.com/album/5g5omcP2NhrxMsQcMzyQWS"
-      },
-      "artists": [
-        {
-          "name": "Teikokukissa",
-          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
-        }
-      ],
-      "duration_ms": 196231,
-      "name": "\u590f\u306e\u5922\u306f",
-      "url": "https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u"
-    },
-    {
-      "added_at": "2023-09-01 15:00:00",
-      "album": {
         "name": "Aoiharu",
         "url": "https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 178473,
       "name": "Aoiharu",
       "url": "https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40"
+    },
+    {
+      "added_at": "2023-09-01 15:00:00",
+      "album": {
+        "name": "\u590f\u306e\u5922\u306f",
+        "url": "https://open.spotify.com/album/5g5omcP2NhrxMsQcMzyQWS"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "duration_ms": 196231,
+      "name": "\u590f\u306e\u5922\u306f",
+      "url": "https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u"
     },
     {
       "added_at": "2023-09-01 15:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
+        "name": "\u30b9\u30cb\u30fc\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/01mEWLvmpGWu8Pm5JmHW7E"
+      },
+      "artists": [
+        {
+          "name": "G over",
+          "url": "https://open.spotify.com/artist/7sJ2Az7V9sP0i4dN7fh8zp"
+        }
+      ],
+      "duration_ms": 199077,
+      "name": "\u30b9\u30cb\u30fc\u30ab\u30fc",
+      "url": "https://open.spotify.com/track/45OytbqaQtUIY6vJyJL5Hd"
+    },
+    {
+      "added_at": "2023-09-01 15:00:00",
+      "album": {
         "name": "\u30b9\u30c8\u30e9\u30c8\u30ad\u30e3\u30b9\u30bf\u30fc\u30fb\u30b7\u30fc\u30b5\u30a4\u30c9",
         "url": "https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
-        "name": "\u30b9\u30cb\u30fc\u30ab\u30fc",
-        "url": "https://open.spotify.com/album/01mEWLvmpGWu8Pm5JmHW7E"
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61CtIauFYJ0I3TktajTK21"
       },
       "artists": [
         {
-          "name": "G over",
-          "url": "https://open.spotify.com/artist/7sJ2Az7V9sP0i4dN7fh8zp"
+          "name": "Dannie May",
+          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
         }
       ],
-      "duration_ms": 199077,
-      "name": "\u30b9\u30cb\u30fc\u30ab\u30fc",
-      "url": "https://open.spotify.com/track/45OytbqaQtUIY6vJyJL5Hd"
+      "duration_ms": 144000,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/4hj6mw72DR2tk3g5NfQXpA"
     },
     {
       "added_at": "2023-09-01 15:00:00",
@@ -1387,6 +1403,22 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
+        "name": "\u50d5\u3060\u3063\u3066\u3061\u3083\u3093\u3068\u3057\u305f\u304b\u3063\u305f\u4eba\u9054\u3078",
+        "url": "https://open.spotify.com/album/0hgZdoLUczPKcovcXYXqhu"
+      },
+      "artists": [
+        {
+          "name": "ME-GUMI",
+          "url": "https://open.spotify.com/artist/4JymhH4RCu5eqaBqZQvxyb"
+        }
+      ],
+      "duration_ms": 204471,
+      "name": "\u304a\u5316\u3051\u3060\u305e\u3063\u3066\u304a\u3069\u304b\u3057\u3066",
+      "url": "https://open.spotify.com/track/1TlS8nVpjH1e1eNyCri5l2"
+    },
+    {
+      "added_at": "2023-09-01 15:00:00",
+      "album": {
         "name": "\u30b7\u30c6\u30a3\u30fc\u30ac\u30fc\u30eb",
         "url": "https://open.spotify.com/album/4xqzmv6Hj8fueDggpJjf1e"
       },
@@ -1403,22 +1435,6 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/61CtIauFYJ0I3TktajTK21"
-      },
-      "artists": [
-        {
-          "name": "Dannie May",
-          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/4hj6mw72DR2tk3g5NfQXpA"
-    },
-    {
-      "added_at": "2023-09-01 15:00:00",
-      "album": {
         "name": "\u5c11\u5e74\u8b83\u6b4c",
         "url": "https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 222700,
       "name": "\u5c11\u5e74\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT"
-    },
-    {
-      "added_at": "2023-09-01 15:00:00",
-      "album": {
-        "name": "\u50d5\u3060\u3063\u3066\u3061\u3083\u3093\u3068\u3057\u305f\u304b\u3063\u305f\u4eba\u9054\u3078",
-        "url": "https://open.spotify.com/album/0hgZdoLUczPKcovcXYXqhu"
-      },
-      "artists": [
-        {
-          "name": "ME-GUMI",
-          "url": "https://open.spotify.com/artist/4JymhH4RCu5eqaBqZQvxyb"
-        }
-      ],
-      "duration_ms": 204471,
-      "name": "\u304a\u5316\u3051\u3060\u305e\u3063\u3066\u304a\u3069\u304b\u3057\u3066",
-      "url": "https://open.spotify.com/track/1TlS8nVpjH1e1eNyCri5l2"
     },
     {
       "added_at": "2023-09-01 15:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
-        "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
-        "url": "https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK"
-      },
-      "artists": [
-        {
-          "name": "\u5bb6\u4e3b",
-          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
-      "url": "https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG"
-    },
-    {
-      "added_at": "2023-09-01 15:00:00",
-      "album": {
         "name": "\u5730\u7344\u3067\u30b9\u30ad\u30c3\u30d7",
         "url": "https://open.spotify.com/album/0l8B8Vm7xo07KvuEyxuyxU"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2023-09-01 15:00:00",
       "album": {
-        "name": "NEE",
-        "url": "https://open.spotify.com/album/4eSY2Ka1qHuzxEsWxEu45H"
+        "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
+        "url": "https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK"
       },
       "artists": [
         {
-          "name": "NEE",
-          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+          "name": "\u5bb6\u4e3b",
+          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
         }
       ],
-      "duration_ms": 267133,
-      "name": "Fukakumeizenya",
-      "url": "https://open.spotify.com/track/0HWxBqzyVCXWQY4NXfrCB9"
+      "duration_ms": 178773,
+      "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
+      "url": "https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG"
     },
     {
       "added_at": "2023-09-01 15:00:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 244000,
       "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2",
       "url": "https://open.spotify.com/track/0yRUhx3oxxTNwbg1CDM1kp"
+    },
+    {
+      "added_at": "2023-09-01 15:00:00",
+      "album": {
+        "name": "NEE",
+        "url": "https://open.spotify.com/album/4eSY2Ka1qHuzxEsWxEu45H"
+      },
+      "artists": [
+        {
+          "name": "NEE",
+          "url": "https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Fukakumeizenya",
+      "url": "https://open.spotify.com/track/0HWxBqzyVCXWQY4NXfrCB9"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

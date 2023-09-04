@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-759 songs - 1 day 16 hr 5 min
+760 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bad One](https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b) | 2:41 | 2023-06-22 | 2023-08-10 |
 | [Bad One](https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Bad One](https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW) | 2:41 | 2023-03-23 | 2023-06-03 |
 | [Bananas](https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Bananas](https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b) | 2:33 | 2022-02-05 | 2022-04-25 |
+| [Bare mellom oss](https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Bare mellom oss](https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR) | 2:31 | 2023-08-31 |  |
 | [Barn av vår tid](https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:53 | 2022-06-02 | 2023-04-03 |
 | [Barnasinnet \- 2022](https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Barnasinnet \(2022\)](https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ) | 3:13 | 2022-03-17 | 2022-07-29 |
 | [Barnsben](https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Barnsben](https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1) | 3:34 | 2022-04-28 | 2023-02-15 |
@@ -373,7 +374,7 @@
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [La La La](https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [La La La](https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC) | 3:59 | 2022-03-10 | 2022-05-05 |
 | [La La La](https://open.spotify.com/track/6MV4043JueYwL8WZgWKq6t) | [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [La La La](https://open.spotify.com/album/2Y9bjGUDJj5zf6DdW1n4cL) | 3:22 | 2022-03-10 | 2022-04-20 |
-| [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 |  |
+| [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-09-04 |
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 | 2023-07-28 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-06-02 |  |
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |

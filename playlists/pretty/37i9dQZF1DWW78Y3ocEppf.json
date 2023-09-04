@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Fridayy",
-  "num_followers": 42670,
+  "num_followers": 42695,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTkwMjY0NTE1ZjQ5YjQwOTAzYTdjNGU3YTc0MGMxZTNhNGQzYjJi",
+  "snapshot_id": "MCwxNjhhMTdlMTkyZjM2YzUyN2UwZjk4MmQ4ZDk2ZjRlODM5MDhkOGZh",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 213736,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "The Hurtbook (Homegirl Pack)",
@@ -647,22 +663,6 @@
       "duration_ms": 193781,
       "name": "So Be It (with Summer Walker) - Remix",
       "url": "https://open.spotify.com/track/2IkJZzXP6fg0A7WOpp1xAE"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 213736,
-      "name": "LMK",
-      "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Out The Way",
-        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 155414,
-      "name": "Out The Way",
-      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "BUT IF iiM HONEST",
@@ -763,6 +747,22 @@
       "duration_ms": 229854,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Out The Way",
+        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 155414,
+      "name": "Out The Way",
+      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -831,22 +831,6 @@
       "duration_ms": 242866,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "BUT IF iiM HONEST",
-        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "Outside Freestyle",
-      "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
     },
     {
       "added_at": "2023-07-14 17:29:23",
@@ -925,6 +909,22 @@
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "BUT IF iiM HONEST",
+        "url": "https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "Outside Freestyle",
+      "url": "https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Presence",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
-      "album": {
-        "name": "Bands On You",
-        "url": "https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Bands On You",
-      "url": "https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Would You",
@@ -1015,22 +999,6 @@
       "duration_ms": 192240,
       "name": "Would You",
       "url": "https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1069,6 +1037,22 @@
       "url": "https://open.spotify.com/track/11inTV2Wu4nScwljCX5Bxp"
     },
     {
+      "added_at": "2023-07-28 08:00:10",
+      "album": {
+        "name": "Bands On You",
+        "url": "https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Bands On You",
+      "url": "https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Glowin 4 Me",
@@ -1103,6 +1087,22 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Songs for Women, Free Game for Niggas - EP",
-        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
-      },
-      "artists": [
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 181911,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "Smoke, Drink, Break Up (feat. Wale)",
@@ -1291,6 +1275,22 @@
       "duration_ms": 131542,
       "name": "Smoke, Drink, Break Up (feat. Wale)",
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Songs for Women, Free Game for Niggas - EP",
+        "url": "https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1"
+      },
+      "artists": [
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 181911,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1327,6 +1327,22 @@
       "duration_ms": 130021,
       "name": "Sadboy",
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Sin on Purpose",
+        "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Sin on Purpose",
+      "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -1381,20 +1397,20 @@
       "url": "https://open.spotify.com/track/3SvMSGyG1Ub7BzWRBI5KbZ"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Sin on Purpose",
-        "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
+        "name": "C+A",
+        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
         }
       ],
-      "duration_ms": 143360,
-      "name": "Sin on Purpose",
-      "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
+      "duration_ms": 159225,
+      "name": "C+A",
+      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
     },
     {
       "added_at": "2023-07-28 08:00:10",
@@ -1417,20 +1433,20 @@
       "url": "https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-06-16 05:24:07",
       "album": {
-        "name": "C+A",
-        "url": "https://open.spotify.com/album/27yBMv7dvHS7Lvi3Mpfh6X"
+        "name": "Man on Fire",
+        "url": "https://open.spotify.com/album/0pTpY3EXd0aC1xCilBsG5v"
       },
       "artists": [
         {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
         }
       ],
-      "duration_ms": 159225,
-      "name": "C+A",
-      "url": "https://open.spotify.com/track/6JMSuPOANWkvzhjlHB7P96"
+      "duration_ms": 144000,
+      "name": "Man on Fire",
+      "url": "https://open.spotify.com/track/2sj3vQG3dgYgGVmr3J4HXH"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1449,20 +1465,20 @@
       "url": "https://open.spotify.com/track/2YrbV6XGLv4NH2aHzVuFpQ"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
+      "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "Man on Fire",
-        "url": "https://open.spotify.com/album/0pTpY3EXd0aC1xCilBsG5v"
+        "name": "212",
+        "url": "https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk"
       },
       "artists": [
         {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Man on Fire",
-      "url": "https://open.spotify.com/track/2sj3vQG3dgYgGVmr3J4HXH"
+      "duration_ms": 146799,
+      "name": "212",
+      "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 219500,
       "name": "Strip for You (feat. Vedo)",
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
-    },
-    {
-      "added_at": "2023-05-05 04:18:58",
-      "album": {
-        "name": "212",
-        "url": "https://open.spotify.com/album/3zgMK2eV0XgSjoxfCk6vnk"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        }
-      ],
-      "duration_ms": 146799,
-      "name": "212",
-      "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1569,6 +1569,22 @@
       "url": "https://open.spotify.com/track/0qgoLkX5xaPFimxtXYNJ1e"
     },
     {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "How Many",
+        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Destiny",
+          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
+        }
+      ],
+      "duration_ms": 198888,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
+    },
+    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Sex & Empathy",
@@ -1587,22 +1603,6 @@
       "duration_ms": 171686,
       "name": "Sex & Empathy",
       "url": "https://open.spotify.com/track/5U0Gbz6YQl48Alts9Iqfnv"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "How Many",
-        "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
-      },
-      "artists": [
-        {
-          "name": "Ryan Destiny",
-          "url": "https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf"
-        }
-      ],
-      "duration_ms": 198888,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1637,20 +1637,20 @@
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV"
       },
       "artists": [
         {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
         }
       ],
-      "duration_ms": 143903,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
+      "duration_ms": 140474,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1673,20 +1673,20 @@
       "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "More Than Anything",
-        "url": "https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV"
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
       },
       "artists": [
         {
-          "name": "JAHKOY",
-          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
         }
       ],
-      "duration_ms": 140474,
-      "name": "More Than Anything",
-      "url": "https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq"
+      "duration_ms": 143903,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
     },
     {
       "added_at": "2022-09-30 04:04:59",
@@ -1721,6 +1721,22 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
+      "added_at": "2023-09-01 04:55:52",
+      "album": {
+        "name": "five more",
+        "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "five more",
+      "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+    },
+    {
       "added_at": "2023-05-26 12:10:47",
       "album": {
         "name": "Gotta Have Faith",
@@ -1743,22 +1759,6 @@
       "duration_ms": 205161,
       "name": "Gotta Have Faith",
       "url": "https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 186294,
-      "name": "Standards",
-      "url": "https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe"
     }
   ],
   "unique_name": "Some Kinda Way",

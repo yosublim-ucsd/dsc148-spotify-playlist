@@ -674,10 +674,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 240360,
       "name": "\ub4dc\ub77c\uc774\ube0c Drive",
       "url": "https://open.spotify.com/track/0S7z9zHni3mSttpQcmQZDs"
+    },
+    {
+      "album": {
+        "name": "1202",
+        "url": "https://open.spotify.com/album/7eKmpAvFywHWssd91UcHbf"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240026,
+      "name": "\ub4dc\ub77c\uc774\ube0c Drive (Live at Nodeul Live House, 2021)",
+      "url": "https://open.spotify.com/track/7lLDs1B9CBJeRVdDu2ZhsI"
     },
     {
       "album": {

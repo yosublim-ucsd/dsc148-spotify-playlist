@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,656 likes - 80 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,739 likes - 80 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 29 | [Maanaadu Theme](https://open.spotify.com/track/6mCBXs5VNOS3OuiKrtyWxT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 2:19 |
 | 30 | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Mahaan Title Poster Theme \(From "Mahaan"\)](https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh) | 1:10 |
 | 31 | [Thiruppi Kudukkum Neram](https://open.spotify.com/track/2oxZzvIiInIGtFDLia33w2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 1:56 |
-| 32 | [Climax Fight Theme](https://open.spotify.com/track/29KEkZUW0CJy1Uny8RMAfb) | [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Vijay Sethupathi](https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU), [Madonne Ashwin](https://open.spotify.com/artist/1KVbuMITzhBSDE1u0sfNyd) | [Maaveeran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18IiryUOWnQBk58WpYTLnd) | 2:22 |
-| 33 | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/track/35LgeXDvSIKmrMN2Ii69WN) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Kanguva Title Announcement \(From "Kanguva"\) \- Single](https://open.spotify.com/album/4YXLYwgTE6wN7k3vWrfLxy) | 1:13 |
-| 34 | [Veeram \(From "Veeram"\)](https://open.spotify.com/track/1J6ikQBFwj7AzqHc6FbBXv) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Koushik](https://open.spotify.com/artist/7v78lEL8XMOgWod6Cp5Jya), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Jagadish](https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE), [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Senbagaraj](https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu) | [D.S.P Rocks](https://open.spotify.com/album/1uMnKxMY7Ax2siVcySsFgK) | 2:47 |
+| 32 | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/track/35LgeXDvSIKmrMN2Ii69WN) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Kanguva Title Announcement \(From "Kanguva"\) \- Single](https://open.spotify.com/album/4YXLYwgTE6wN7k3vWrfLxy) | 1:13 |
+| 33 | [Veeram \(From "Veeram"\)](https://open.spotify.com/track/1J6ikQBFwj7AzqHc6FbBXv) | [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Koushik](https://open.spotify.com/artist/7v78lEL8XMOgWod6Cp5Jya), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Jagadish](https://open.spotify.com/artist/5tUZe5gKJc12KkH5MZHnoE), [Santhosh](https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj), [Senbagaraj](https://open.spotify.com/artist/6s9TSMCK36wxGo9CuJnhPu) | [D.S.P Rocks](https://open.spotify.com/album/1uMnKxMY7Ax2siVcySsFgK) | 2:47 |
+| 34 | [Climax Fight Theme](https://open.spotify.com/track/7px8V2hx6hb9qacAWVVFOO) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54) | [Mahaveerudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Msc9eUXUq6Ta7MLo3yluu) | 2:22 |
 | 35 | [Dhanush Kodi's Theme](https://open.spotify.com/track/415We0rxvC1bJ9yzXyfBa9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Maanaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4V7aye4YWto4yT0i6l5Vuq) | 1:55 |
 | 36 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 |
 | 37 | [Adhe Nilaa](https://open.spotify.com/track/267xipfa9xKYJsNB7y0RsL) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 0:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 79 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 |
 | 80 | [Kaththi Theme… The Sword of Destiny](https://open.spotify.com/track/1m2PQa2vARopdOK8xGVkaX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 1:01 |
 
-Snapshot ID: `MCwwYTg1OTJiZmVhZjI3MmZlOGYyOTRlNDAxYWNlZTQ5OGZkMDkwOTM5`
+Snapshot ID: `MCxlZjFmNjJmOGZkOGNhM2RiODRkMWU3NTAyMzYxMGZmN2E2NjM4ZmEy`

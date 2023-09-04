@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: ADOY \(South Korean\)
 
-955 songs - 2 day 9 hr 11 min
+956 songs - 2 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [Sad Love Song](https://open.spotify.com/track/15qWHBkl93PoaHpGWrQnbG) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [Sad Love Song](https://open.spotify.com/album/4OxlcjQEvYpuz135kKMhiZ) | 4:26 | 2023-08-17 |  |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-26 | 2022-07-08 |
 | [Safe Flight](https://open.spotify.com/track/1UVOyw9vzAZ3f6Z9CAm5Vz) | [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [Safe Flight](https://open.spotify.com/album/3oZDDfuIuDzRDC12mnVrDF) | 2:51 | 2022-08-04 | 2022-09-23 |
-| [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-22 |  |
+| [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-22 | 2023-09-04 |
 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-30 | 2022-09-02 |
 | [Sansinukob](https://open.spotify.com/track/7jOqzJjLxMTg6yScO5nYDb) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Sansinukob](https://open.spotify.com/album/3jXW9PJLrAvYhBQMrQTVti) | 3:13 | 2023-03-23 | 2023-04-14 |
 | [Satu Episode](https://open.spotify.com/track/2B9PQPeNFwJoeP87QIEtC6) | [Humidumi](https://open.spotify.com/artist/1dwMXJoNbFfZYWsQvhofyS), [Bagas Yudhiswa](https://open.spotify.com/artist/4ui58ATHcmmgu8bhi1yX5c) | [Satu Episode](https://open.spotify.com/album/1H0szrIN3UUcRPLemBmXRj) | 5:22 | 2022-07-07 | 2022-07-15 |
@@ -713,7 +713,7 @@
 | [stuck in san antonio](https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [stuck in san antonio](https://open.spotify.com/album/5i6JV5RaAEXYbwQx3si9Mo) | 2:33 | 2023-05-11 | 2023-06-16 |
 | [Stumble](https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/3MYLhipqQULZJKKgFqTkOq) | 3:20 | 2023-03-02 | 2023-06-09 |
 | [Subway Station Revelation](https://open.spotify.com/track/64QIWtRAivYJpEiikswr7K) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Subway Station Revelation](https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04) | 4:14 | 2022-11-24 | 2023-02-03 |
-| [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-11 | 2023-09-02 |
+| [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-11 |  |
 | [summer](https://open.spotify.com/track/1xgKzczUEtsrLPjGYVUo9B) | [lavndr](https://open.spotify.com/artist/5HsrAgY0Oj9VgkcjVJdUnO) | [summer](https://open.spotify.com/album/6QR5IgAQYtTPKJwFBRlXs9) | 4:03 | 2022-03-24 | 2022-06-10 |
 | [Summer Breeze](https://open.spotify.com/track/4WTUBYVtbDiB4BGqnaXRGe) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Summer Breeze](https://open.spotify.com/album/6izqoWAn1h2IxXzD6X3IsP) | 4:05 | 2023-07-06 | 2023-07-26 |
 | [Summer For You](https://open.spotify.com/track/1i2mGWu5fJCUEW6yFHYokf) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Summer For You](https://open.spotify.com/album/2CsvQpN3f318sh8IFTD2Jh) | 4:03 | 2022-07-28 | 2022-08-26 |
@@ -728,6 +728,7 @@
 | [Sunset](https://open.spotify.com/track/0WaaNCMEYKZ5t95mP3Sib9) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Sunset](https://open.spotify.com/album/4dyrHFWWpQasYEcPiGKUHZ) | 3:00 | 2022-11-17 | 2022-12-03 |
 | [Sunset](https://open.spotify.com/track/13zUDc9v7tauSRAp8F0bdJ) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Sunset](https://open.spotify.com/album/6zpzuFvYXssa278uauqo1r) | 3:00 | 2022-12-02 | 2023-01-20 |
 | [Sunset](https://open.spotify.com/track/7nlvbZVjzZZpFmEzfgWN2c) | [Tuesday Beach Club](https://open.spotify.com/artist/3kbrbhnjLCObXwmOsqadXT) | [Tuesday Beach Club](https://open.spotify.com/album/0vGAwNbmAskdxxfGyAxf2Q) | 3:00 | 2022-12-02 | 2022-12-04 |
+| [Sunset Sensory](https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [Sunset Sensory](https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG) | 2:51 | 2023-09-03 |  |
 | [Sunshine](https://open.spotify.com/track/5P0Qp4RnsIHOjc153m9Jsa) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [sh](https://open.spotify.com/artist/0R4narCkJHEsmTomh2jD1p) | [Sunshine](https://open.spotify.com/album/5xKLqgTDwEyBg7SfFpBhLL) | 3:19 | 2022-10-06 | 2022-12-02 |
 | [Super Happy \(feat\. Ariza\)](https://open.spotify.com/track/7xKuZzXNNgOZ3HVx1HtyXu) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Super Happy](https://open.spotify.com/album/25fMfhirVYqXXnIIhxkTaF) | 2:54 | 2022-08-18 | 2022-10-21 |
 | [Surel](https://open.spotify.com/track/28qaZVU6Wuk1cgA3MqkZKO) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Surel](https://open.spotify.com/album/0Cg5DfqjXLaJqWThh9lDmr) | 4:18 | 2023-04-27 | 2023-05-12 |
@@ -855,7 +856,7 @@
 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 | 2022-09-01 | 2022-12-09 |
 | [XOXO](https://open.spotify.com/track/556gAhB2GfQeqOrJPGh0Hf) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [XOXO](https://open.spotify.com/album/6NOpCPMMhjM3yx9HzPeRuU) | 3:41 | 2023-05-18 | 2023-08-25 |
 | [Xylo \(Shouldn't Have Called It\)](https://open.spotify.com/track/7IMQuX237UE0BgT3eXj3Xw) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Xylo \(Shouldn't Have Called It\)](https://open.spotify.com/album/2hBDHksfKvzXLbPAFY6BrM) | 2:42 | 2022-08-11 | 2022-09-09 |
-| [YANG KAU HINDARI TERJADI](https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [YANG KAU HINDARI TERJADI](https://open.spotify.com/album/4NMWT25Q26qQ8OCCbt0VoV) | 6:52 | 2023-06-08 |  |
+| [YANG KAU HINDARI TERJADI](https://open.spotify.com/track/6Ua0cG9PcsN0NF4IkRUZkB) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [YANG KAU HINDARI TERJADI](https://open.spotify.com/album/4NMWT25Q26qQ8OCCbt0VoV) | 6:52 | 2023-06-08 | 2023-09-04 |
 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 | 2023-07-27 | 2023-08-18 |
 | [Yellow Light](https://open.spotify.com/track/2xTthDrC8bvxrZUKWWks1O) | [diondjokoadi](https://open.spotify.com/artist/3whzsIqAkpNv0rxyARK82D) | [Yellow Light](https://open.spotify.com/album/3DIl4oQDEz5X1s19h1vRHZ) | 3:05 | 2022-03-24 | 2022-05-13 |
 | [YES \- vanguard mix](https://open.spotify.com/track/0RNmlHZm28K6l9yKAqhGS3) | [bonobos](https://open.spotify.com/artist/4TFfPbcLZFXw1C6zsJhoeX) | [YES \(vanguard mix\)](https://open.spotify.com/album/1ro49FQ5xgl9pIINxlRozK) | 4:29 | 2022-04-14 | 2022-05-27 |

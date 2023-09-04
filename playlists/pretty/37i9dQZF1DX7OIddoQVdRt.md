@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover:  <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a">Pastor Mike Jr.</a>, <a href="https://www.thestellarawards.com/index.html">Stellar Awards'</a> Artist of the Year
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,727 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,801 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 99 | [Praying and Believing](https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Warryn Campbell Presents My Block Inc.](https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met) | 5:12 |
 | 100 | [You’re Gonna Get The Glory \- Live](https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 8:01 |
 
-Snapshot ID: `MCxkNjU0OTI0YTU1YjUzMmE3OTc2YWJlMTM3ZmVlNTE0YmRlZDYyNmFi`
+Snapshot ID: `MCxhOGE1ZDhjZDhhOGFhM2FmOWMwM2FjNDFiNGI2MGFkMTNhMzY0Y2Y3`

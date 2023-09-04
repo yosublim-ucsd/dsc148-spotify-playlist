@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,821 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,108 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 84 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 |
 | 85 | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Zinda Banda \(From "Jawan"\)](https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE) | 4:24 |
 
-Snapshot ID: `MCwyNzFkNTlkMGUxODk5MDBiMzIzZDM4MDY4NDA1NjI4N2E0YjZhMWZh`
+Snapshot ID: `MCw0ZTc4MTdjNjVlODUxY2NiYzZkYjg1MmI5MDY0MWJmYjQ3YTY4MjI0`

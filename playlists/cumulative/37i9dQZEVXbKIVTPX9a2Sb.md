@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,397 songs - 2 day 23 hr 56 min
+1,398 songs - 2 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-03 | 2022-04-01 |
 | [Bejeweled](https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:14 | 2022-10-22 | 2022-10-28 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-03 |
-| [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2022-06-08 |  |
+| [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2022-06-08 | 2023-09-04 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-19 | 2023-03-27 |
 | [Benz](https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:04 | 2023-02-04 | 2023-06-23 |
 | [Berlín](https://open.spotify.com/track/1mDgpMsz6fDE7DDZIV9kW3) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:42 | 2023-02-04 | 2023-04-09 |
@@ -1065,6 +1065,7 @@
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-10 | 2021-04-17 |
 | [Sick Flow](https://open.spotify.com/track/7bY46N3TX0RaYBpidLIwB6) | [Konex](https://open.spotify.com/artist/1EArbtCy5GrFydhn1Oq4hY), [Luca Brassi10x](https://open.spotify.com/artist/533p900oXrV93rJupPWvF2) | [SUPERNOVA](https://open.spotify.com/album/5kYaJ737Xqpzx5504OhR7g) | 3:23 | 2021-06-27 | 2021-06-28 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-16 |
+| [SILENT KILL](https://open.spotify.com/track/0ul6vTK2pyjjWiXGhnzcAD) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [SILENT KILL](https://open.spotify.com/album/7zmvhsMCIea2gov88YkGo5) | 3:20 | 2023-09-03 |  |
 | [Silný refrén](https://open.spotify.com/track/6wnc03soJZURZVtyAbK81X) | [Horkýže Slíže](https://open.spotify.com/artist/1Vokrr21dze8HRk1oeWq9o) | [Ukáž tú tvoju ZOO](https://open.spotify.com/album/4z6tLOyKTCl7AjPXeTvxy7) | 3:09 | 2023-07-09 | 2023-07-11 |
 | [SIMP](https://open.spotify.com/track/6Z43Z2igLJL4ZujIWmxAEH) | [LUISA](https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H) | [Sad & Savage](https://open.spotify.com/album/19i9Pxul5jFdBRmrU8sGOZ) | 1:37 | 2022-11-01 | 2022-11-03 |
 | [Single Ako Drake](https://open.spotify.com/track/45vsONqpWnvfjdO2qP4D2q) | [Radikal Chef](https://open.spotify.com/artist/5Bdw1DlKOvAJkLbZ7Xb7Zq) | [Freeride 4](https://open.spotify.com/album/0PMViWbYUYDQ5dyXWfVoip) | 2:43 | 2022-12-17 | 2022-12-19 |

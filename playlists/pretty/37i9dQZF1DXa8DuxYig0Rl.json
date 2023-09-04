@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 20666,
+  "num_followers": 20697,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzJmZjc1Mjg2MWUxNWQ0N2NiMWNmZjM2YWU0YzA1NjJjMDI1ZTJh",
+  "snapshot_id": "MCxhMTJkZmI5NmQ4NTFmZmU1OGQ1NTRkYjdjYTgyMDgwNzNiOGViN2My",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "3 En 1 Super Show De Los Vaskez",
-        "url": "https://open.spotify.com/album/5sFWeLEilmm41a93FXouql"
-      },
-      "artists": [
-        {
-          "name": "El Super Show De Los Vaskez",
-          "url": "https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Pollito Con Papas",
-      "url": "https://open.spotify.com/track/6k8s5icx0itCEkcFOaZUuB"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Ni Juana la Cubana",
         "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 171746,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "3 En 1 Super Show De Los Vaskez",
+        "url": "https://open.spotify.com/album/5sFWeLEilmm41a93FXouql"
+      },
+      "artists": [
+        {
+          "name": "El Super Show De Los Vaskez",
+          "url": "https://open.spotify.com/artist/5RN0qzNnwv5WsXSNiDjuio"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Pollito Con Papas",
+      "url": "https://open.spotify.com/track/6k8s5icx0itCEkcFOaZUuB"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Macumba",
+        "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 164884,
+      "name": "Macumba",
+      "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Los \u00daltimos De Celio Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/53o3CHCIpAvcNWBMVBSWV8"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "El Mudo",
-      "url": "https://open.spotify.com/track/43iaHz5dLnKRovc3DLQApU"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "De Quen Chon",
         "url": "https://open.spotify.com/album/2cG9HCc98Bk7WjY1rrmO0Q"
       },
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Lamento Borincano",
-        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
       "artists": [
         {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 287320,
-      "name": "Lamento Borincano",
-      "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
+      "duration_ms": 139626,
+      "name": "El Mudo",
+      "url": "https://open.spotify.com/track/43iaHz5dLnKRovc3DLQApU"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Macumba",
-        "url": "https://open.spotify.com/album/7m67Buns7GWyajKdkoUkq5"
+        "name": "Lamento Borincano",
+        "url": "https://open.spotify.com/album/0TlQhCdYh4J82vXiSoqUzl"
       },
       "artists": [
         {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
         }
       ],
-      "duration_ms": 164884,
-      "name": "Macumba",
-      "url": "https://open.spotify.com/track/1RRnygeCEjxTrMQYcHONUd"
+      "duration_ms": 287320,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/23mmokvWXS4aUpZmUODFBY"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -463,22 +463,6 @@
       "duration_ms": 154066,
       "name": "Norma la de Guadalajara",
       "url": "https://open.spotify.com/track/5GSxiQq6wuTKUTZqw73L99"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "A Gozar!",
-        "url": "https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 159520,
-      "name": "El Sonsonete",
-      "url": "https://open.spotify.com/track/5q8ZE4m9qxJFfJG2mlimIc"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -531,6 +515,22 @@
       "duration_ms": 160866,
       "name": "Burundanga",
       "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "A Gozar!",
+        "url": "https://open.spotify.com/album/7EwEfGJqixrkf9Rx95h04K"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 159520,
+      "name": "El Sonsonete",
+      "url": "https://open.spotify.com/track/5q8ZE4m9qxJFfJG2mlimIc"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Danzones a la Mexicana",
+        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
+      },
+      "artists": [
+        {
+          "name": "Acerina Y Su Danzonera",
+          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
+        }
+      ],
+      "duration_ms": 152006,
+      "name": "Sal\u00f3n M\u00e9xico",
+      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "15 EXITOS",
         "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 236235,
       "name": "Que Rico Mambo",
       "url": "https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Danzones a la Mexicana",
-        "url": "https://open.spotify.com/album/5bIUtVLU1JwoqqgN3BOCGW"
-      },
-      "artists": [
-        {
-          "name": "Acerina Y Su Danzonera",
-          "url": "https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh"
-        }
-      ],
-      "duration_ms": 152006,
-      "name": "Sal\u00f3n M\u00e9xico",
-      "url": "https://open.spotify.com/track/6uqZHjlAcUR0SjChstjvV5"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "El Pasado",
+        "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Restaurantito",
+      "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "40 Temas Originales",
         "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 191200,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "El Pasado",
-        "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Restaurantito",
-      "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Colecci\u00f3n Diamante",
-        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
-      },
-      "artists": [
-        {
-          "name": "Maria Luisa Landin",
-          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Nostalgia de Cuba",
         "url": "https://open.spotify.com/album/3NnxjLyWoyMVHfwfabU4vV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 175804,
       "name": "Las Maracas de Cuba",
       "url": "https://open.spotify.com/track/6f5sUQDtlcBcl1ex2yimSl"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Colecci\u00f3n Diamante",
+        "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
+      },
+      "artists": [
+        {
+          "name": "Maria Luisa Landin",
+          "url": "https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "El Caballero del Ritmo",
-        "url": "https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d"
-      },
-      "artists": [
-        {
-          "name": "Arturo Nu\u00f1ez Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/1oVhEJ0rdAKvE0goWNDqdl"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Un Meneito Na' Ma'",
-      "url": "https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "La Belle Epoque",
         "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 152093,
       "name": "Chapultepec",
       "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "El Caballero del Ritmo",
+        "url": "https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d"
+      },
+      "artists": [
+        {
+          "name": "Arturo Nu\u00f1ez Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/1oVhEJ0rdAKvE0goWNDqdl"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Un Meneito Na' Ma'",
+      "url": "https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
-      },
-      "artists": [
-        {
-          "name": "Tony Camargo",
-          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Mi Cafetal",
-      "url": "https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "The Best of Mexico",
         "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 185600,
       "name": "El tilingo",
       "url": "https://open.spotify.com/track/24qvEa0HyeHRQar9p8cHr3"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg"
+      },
+      "artists": [
+        {
+          "name": "Tony Camargo",
+          "url": "https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Mi Cafetal",
+      "url": "https://open.spotify.com/track/0fRuB2A8KrSnkUh4JPSBhk"
     },
     {
       "added_at": "2023-01-23 22:42:50",

@@ -481,6 +481,32 @@
     },
     {
       "album": {
+        "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
+        "url": "https://open.spotify.com/album/6SL1Xp1uM3kHmKxfEWzPh2"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "Sara Phillips",
+          "url": "https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
+      "url": "https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI"
+    },
+    {
+      "album": {
         "name": "Army Of Angels",
         "url": "https://open.spotify.com/album/08vRZUFEVTfO1Qd7oVIMxG"
       },
@@ -2350,7 +2376,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 193457,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
@@ -8611,6 +8637,28 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6FhJbGFOc9MO1SM5zrfMkg"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"
+    },
+    {
+      "album": {
         "name": "Treading Water",
         "url": "https://open.spotify.com/album/272T5Er6qPGusHv42ZcmEW"
       },
@@ -9150,7 +9198,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 164920,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/7eGesoKVNP8jJig7xgmk3t"

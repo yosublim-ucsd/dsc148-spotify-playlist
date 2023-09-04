@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 27348,
+  "num_followers": 27433,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTQyODZiYWI1YzI0MDZhN2ZjOGQyOTA3MDBkZmJmZWQ0YTlhMGY1",
+  "snapshot_id": "MCw1NmQ5NmU4ZTI4MTJkMmZiZTYwMmI2M2UxZmRkYTU1MzliOTE3MTA0",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 102397,
-      "name": "ROUND HERE (PART ONE)",
-      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "As I Am",
         "url": "https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 119209,
       "name": "Father Abraham",
       "url": "https://open.spotify.com/track/2luFEc1iqWhF21bdcbXpTR"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 102397,
+      "name": "ROUND HERE (PART ONE)",
+      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Child of the King",
-        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 101406,
-      "name": "Child of the King",
-      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "FYE FYE",
         "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 232615,
       "name": "FYE FYE",
       "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Child of the King",
+        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 101406,
+      "name": "Child of the King",
+      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -747,30 +747,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Allegiance",
-        "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 183043,
-      "name": "Allegiance",
-      "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Hit My Line",
         "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
       },
@@ -807,6 +783,30 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Allegiance",
+        "url": "https://open.spotify.com/album/2RYPVb167Pkejxj1HQustH"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 183043,
+      "name": "Allegiance",
+      "url": "https://open.spotify.com/track/2qHMpLZhcLTvD9YqHHWGOV"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "JUDAS",
         "url": "https://open.spotify.com/album/7CbMcteFecyHS9pclma7sE"
       },
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Nino Brown",
+        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 144093,
+      "name": "Nino Brown",
+      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Nothin to Do with It",
         "url": "https://open.spotify.com/album/1yY41P2uR08Ymc14y4j4Jj"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Nino Brown",
-        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
+        "name": "God Good",
+        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
       },
       "artists": [
         {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
         }
       ],
-      "duration_ms": 144093,
-      "name": "Nino Brown",
-      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
+      "duration_ms": 153737,
+      "name": "God Good",
+      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "God Good",
-        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 153737,
-      "name": "God Good",
-      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "No Loss",
         "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 175018,
       "name": "No Loss",
       "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 165532,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 165532,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Your Word My Mind",
         "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "They Didn\u2019t Know II",
-        "url": "https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "They Didn\u2019t Know II",
-      "url": "https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Club Eden",
         "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 145116,
       "name": "Club Eden",
       "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "They Didn\u2019t Know II",
+        "url": "https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "They Didn\u2019t Know II",
+      "url": "https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
+        "name": "H O L O G R A P H I C",
+        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "NK4",
+          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
         }
       ],
-      "duration_ms": 139742,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
+      "duration_ms": 164886,
+      "name": "Slidin'",
+      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "H O L O G R A P H I C",
-        "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD"
       },
       "artists": [
         {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "NK4",
-          "url": "https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc"
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
         }
       ],
-      "duration_ms": 164886,
-      "name": "Slidin'",
-      "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+      "duration_ms": 139742,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Already Won",
-        "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
-      },
-      "artists": [
-        {
-          "name": "Yung Titan",
-          "url": "https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU"
-        }
-      ],
-      "duration_ms": 245643,
-      "name": "Already Won",
-      "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "His Side",
         "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 168003,
       "name": "His Side",
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Already Won",
+        "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
+      },
+      "artists": [
+        {
+          "name": "Yung Titan",
+          "url": "https://open.spotify.com/artist/5b2wfaTcBypJir2aa3xAQU"
+        }
+      ],
+      "duration_ms": 245643,
+      "name": "Already Won",
+      "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
     }
   ],
   "unique_name": "Blessings",

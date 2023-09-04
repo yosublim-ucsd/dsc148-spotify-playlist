@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,623 likes - 70 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,674 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 27 | [Hello](https://open.spotify.com/track/4J3YXDyesmkN4q6Diy9qDV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/2kaRIwMtwtGJOvoOLPCrDo) | 2:37 |
 | 28 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 |
 | 29 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 |
-| 30 | [Love You More](https://open.spotify.com/track/4fOcebJWLdjGBbmb8O3hbj) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:09 |
-| 31 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
+| 30 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
+| 31 | [Love You More](https://open.spotify.com/track/4fOcebJWLdjGBbmb8O3hbj) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:09 |
 | 32 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
 | 33 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
 | 34 | [Hope Machine](https://open.spotify.com/track/6Z3N8VNcj4z6xIgMmdMZ0l) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/7x0JXg0yHlaPhLAyq87aLO) | 2:48 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 46 | [Family Time](https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 4:20 |
 | 47 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 |
 | 48 | [Big Rock Candy Mountain](https://open.spotify.com/track/3xZ0xSnBXCCnhANkmbg4YT) | [Maggie Griffin](https://open.spotify.com/artist/5TWIJoMCdZwMwGfBu3itIi) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:25 |
-| 49 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
-| 50 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 |
+| 49 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 |
+| 50 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
 | 51 | [The Farmer in the Dell](https://open.spotify.com/track/04obgfgMddJpPnv8xeEfgR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [50 Great Nursery Rhymes](https://open.spotify.com/album/2wA20u6TpgFEzHdeUOa9L7) | 2:25 |
 | 52 | [Little Bee](https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Little Bee](https://open.spotify.com/album/0n0lwGb7qOcEdAkPQONixo) | 3:12 |
 | 53 | [My Country Tis of Thee](https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd) | 1:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 69 | [Good Day](https://open.spotify.com/track/4JKmixZkyW8l3Ua6dFzS51) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Good Day](https://open.spotify.com/album/6XDLhJRyyQN3ZLfmex2J7o) | 3:19 |
 | 70 | [The Knowing \- From the Ani DiFranco Children's Book: The Knowing](https://open.spotify.com/track/72BkZqFQXtHrd1Ixd2J5kV) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [The Knowing \(From the Ani DiFranco Children's Book: The Knowing\)](https://open.spotify.com/album/5PVaE6TIUj8YbRns0b4m7T) | 5:11 |
 
-Snapshot ID: `MCw3ZDkxZjFiYTQzNTU2Y2U0NTc5MDZiMTdiYWI4ODMwZjdmMjM0MjZh`
+Snapshot ID: `MCw5Y2Q5MTZmZWEzODI4NmFiYzY2Zjk1Y2I1ODljMzA2NDMzNGU4YmQ4`

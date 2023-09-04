@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,660 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,866 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
 | 75 | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/track/1t0ZUIee2xJubPCjHbE5A7) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk) | 3:53 |
 
-Snapshot ID: `MCwwOGEwNjQ3ZGRiOWRiMjNlNWJjNjY5YjFhNTExMmJlZDYxZDBlZGU5`
+Snapshot ID: `MCxjMmRhM2E0OTRjZDM0MDI4ZTQ4ZTUyNjU0YzBjY2E3MjJmY2FiYmVi`

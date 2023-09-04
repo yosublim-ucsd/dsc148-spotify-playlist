@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,800 songs - 4 day 0 hr 44 min
+1,801 songs - 4 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,7 @@
 | [Fucked by a Country Boy](https://open.spotify.com/track/7o68HbohmhDvMZlHrC99GT) | [Wheeler Walker Jr.](https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia) | [Fucked by a Country Boy](https://open.spotify.com/album/6cXrEqUmxxi83tIIN5qUFD) | 2:33 | 2022-03-24 | 2022-04-17 |
 | [Fucked It Up](https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:58 | 2023-04-06 | 2023-04-10 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-04-11 | 2022-04-27 |
-| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-11 |  |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-11 | 2023-09-04 |
 | [Gaddi Red Challenger](https://open.spotify.com/track/7xHad6YA5ca4OOVs3m5RWQ) | [Babbulicious](https://open.spotify.com/artist/5d2GoeFBcyrsxU6T9eKNzd) | [Gaddi Red Challenger](https://open.spotify.com/album/1CcsWReP4vKGkdR1P4tClX) | 2:53 | 2022-11-29 | 2023-01-26 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-05 | 2022-04-13 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2022-05-31 | 2022-06-11 |
@@ -964,6 +964,7 @@
 | [Maniac](https://open.spotify.com/track/61SPkGGIpSq6b7en0A6Bim) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Maniac](https://open.spotify.com/album/6S2bemTohQ0Wbvkn8FUgNu) | 2:42 | 2022-11-15 | 2022-11-19 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-04-12 | 2022-04-20 |
 | [Manike \(From "Thank God"\)](https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Manike \(From "Thank God"\)](https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3) | 3:17 | 2022-10-11 | 2022-11-16 |
+| [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 | 2023-09-03 |  |
 | [Maria Maria](https://open.spotify.com/track/3aQFj0dc2vv6sAhHSVGoFi) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/115d9MPpcQT2sKnjpIW12G) | 2:41 | 2023-01-15 | 2023-02-01 |
 | [Marie\-Jo](https://open.spotify.com/track/6EfqNS9MvKTLKxnYRGWsLw) | [Karim Ouellet](https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit) | [Fox](https://open.spotify.com/album/3tUeSK5t7rNO72g02B1oK4) | 3:48 | 2022-01-19 | 2022-01-28 |
 | [Mario Brothers Rap](https://open.spotify.com/track/5WWMIzuU1YQ5F8DVF9sogd) | [Ali Dee](https://open.spotify.com/artist/11Z6vwNiOdfaki04eL60tj) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 0:58 | 2023-05-02 | 2023-05-17 |
@@ -1576,7 +1577,7 @@
 | [The Wreck of the Edmund Fitzgerald](https://open.spotify.com/track/536L9C0N7vhYdibCJx3cI2) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Summertime Dream](https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8) | 6:29 | 2023-05-03 | 2023-05-13 |
 | [Therapy](https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:44 | 2022-01-02 | 2022-02-02 |
 | [There Is Something on Your Mind](https://open.spotify.com/track/1bSBbbH9KYzwsKosToLeAC) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 3:22 | 2022-02-18 | 2022-03-08 |
-| [These are the Days](https://open.spotify.com/track/7fTB6AmnnOm1zKI5QN69Yc) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/1OFLHuLwgMSUP7PEjaIWtk) | 4:51 | 2023-08-23 |  |
+| [These are the Days](https://open.spotify.com/track/7fTB6AmnnOm1zKI5QN69Yc) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/1OFLHuLwgMSUP7PEjaIWtk) | 4:51 | 2023-08-23 | 2023-09-04 |
 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 | 2023-05-24 | 2023-05-26 |
 | [Thick Fine Woman](https://open.spotify.com/track/1vuZEWtyQYMivPMKk4ySdX) | [Chalie Boy](https://open.spotify.com/artist/5c6zqnWXNHg6PJrJtAARpk), [Lil Ronny Motha F](https://open.spotify.com/artist/6uft3KriUGneffNm6jyAug), [No Shame](https://open.spotify.com/artist/5e9kOcXnAtmqHbgpqPQ5oF), [Fat Pimp](https://open.spotify.com/artist/74Oeqr5fSxzC9tXkkOAgUv) | [Chalie](https://open.spotify.com/album/3fUrpwGRd2dTAag8hsdXyj) | 4:35 | 2022-07-24 | 2022-08-17 |
 | [Things That Go Bump In The Night](https://open.spotify.com/track/4dyoQtmjsgoTuF4VIReyE1) | [allSTARS](https://open.spotify.com/artist/0g6J6ltIhfXssIMbSVVxuU) | [Allstars](https://open.spotify.com/album/3IGERs4lOHbAfQpuWVDYhA) | 3:24 | 2022-10-31 | 2022-11-07 |
@@ -1807,6 +1808,6 @@
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-08-28 | 2022-11-20 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-01-09 | 2022-03-08 |
 | [逆光](https://open.spotify.com/track/78MS9OT9Flm2V78fhTw4rk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:57 | 2022-11-11 | 2022-11-18 |
-| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-08-09 | 2023-08-30 |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-08-09 |  |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

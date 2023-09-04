@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-142 songs - 4 hr 19 min
+143 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Bommai Theme](https://open.spotify.com/track/1gXArCGq0bOmH7EdMw3Gl9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Bommai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/142n2bgdZKBNBTwi0kWXH4) | 3:08 | 2023-06-08 | 2023-07-15 |
 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 | 2023-01-16 |  |
 | [Church Fight](https://open.spotify.com/track/51U5TXf0Zqtp9Q0qs1XvNM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 3:38 | 2021-11-01 |  |
+| [Climax Fight Theme](https://open.spotify.com/track/7px8V2hx6hb9qacAWVVFOO) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54) | [Mahaveerudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Msc9eUXUq6Ta7MLo3yluu) | 2:22 | 2023-08-04 |  |
 | [Climax Fight Theme](https://open.spotify.com/track/1fZuHMYPWq4b1Of2xFOmyL) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Vijay Sethupathi](https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU) | [Maaveeran](https://open.spotify.com/album/4raAEtLCQP5cIWpkAJlxmG) | 2:22 | 2023-08-04 | 2023-08-06 |
-| [Climax Fight Theme](https://open.spotify.com/track/29KEkZUW0CJy1Uny8RMAfb) | [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Vijay Sethupathi](https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU), [Madonne Ashwin](https://open.spotify.com/artist/1KVbuMITzhBSDE1u0sfNyd) | [Maaveeran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18IiryUOWnQBk58WpYTLnd) | 2:22 | 2023-08-04 |  |
+| [Climax Fight Theme](https://open.spotify.com/track/29KEkZUW0CJy1Uny8RMAfb) | [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr), [Vijay Sethupathi](https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU), [Madonne Ashwin](https://open.spotify.com/artist/1KVbuMITzhBSDE1u0sfNyd) | [Maaveeran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18IiryUOWnQBk58WpYTLnd) | 2:22 | 2023-08-04 | 2023-09-04 |
 | [Closure \- Background Score](https://open.spotify.com/track/54UsJLnJMK1pB99uBolGwN) | [Jerry Silvester Vincent](https://open.spotify.com/artist/0ZLNQhaRJbi6lottdmo1k1), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [The Great Indian Kitchen \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5SPVKiiP9sUIxP6rw0wdlZ) | 2:21 | 2023-01-25 | 2023-02-07 |
 | [Con Man Theme](https://open.spotify.com/track/1l3ICLDCcmQpN3aMXpdDIA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss](https://open.spotify.com/album/3y8as6hLADmwULY9XqeLRm) | 2:23 | 2021-11-01 |  |
 | [Con Man Theme \(From "Masss"\)](https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hzJ98YUQ00xb3FBzWOjPC) | 2:23 | 2021-11-01 | 2023-08-17 |

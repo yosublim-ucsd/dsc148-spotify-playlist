@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"https://www.thestellarawards.com/index.html\">Stellar Award</a> winning artist <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e\">Pastor Mike Jr.</a>.",
-  "num_followers": 58908,
+  "num_followers": 58979,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTAzMTM1NjZiMmYxNWQ0OGJiNjE0NDk1NDQ2MzhlZmUxOGJhNzM1",
+  "snapshot_id": "MCw4MGI4ZTg2YTc2OWQyM2MyYzRhM2QyNmMwYzljNTc3NGY1YTAxNGZl",
   "tracks": [
     {
       "added_at": "2023-07-13 07:29:04",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "10 Years of Tasha",
         "url": "https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+      "duration_ms": 405912,
+      "name": "He Understands",
+      "url": "https://open.spotify.com/track/4e8QBO7h3dqLmPukNuE6Qi"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -439,22 +455,6 @@
       "duration_ms": 162427,
       "name": "RICH",
       "url": "https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 405912,
-      "name": "He Understands",
-      "url": "https://open.spotify.com/track/4e8QBO7h3dqLmPukNuE6Qi"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -495,6 +495,30 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        },
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "duration_ms": 426733,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "More On The Way (feat. nobigdyl.)",
         "url": "https://open.spotify.com/album/6sbOyBtYzDFuhFLfunI85F"
       },
@@ -519,30 +543,6 @@
       "duration_ms": 194565,
       "name": "More On The Way (feat. nobigdyl.)",
       "url": "https://open.spotify.com/track/6ZcFR4CvTxdEjTKwgTNcg1"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        },
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        }
-      ],
-      "duration_ms": 426733,
-      "name": "It Is Well - Live",
-      "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Look Up to the Sky",
+        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 173522,
+      "name": "Look Up to the Sky",
+      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 193234,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Look Up to the Sky",
-        "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 173522,
-      "name": "Look Up to the Sky",
-      "url": "https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "The Divide",
         "url": "https://open.spotify.com/album/76mK4At5GGYawZGV4DKxIx"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 193385,
       "name": "The Divide",
       "url": "https://open.spotify.com/track/5j8xsZVgwIAWQXH4XRHym7"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -991,22 +991,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "T.D. JAKES Presents FINALLY LOOSED",
-        "url": "https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI"
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
       },
       "artists": [
         {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        },
-        {
-          "name": "New Breed",
-          "url": "https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 374092,
-      "name": "THE GLORY ft. New Breed",
-      "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
+        "name": "T.D. JAKES Presents FINALLY LOOSED",
+        "url": "https://open.spotify.com/album/0ZdjavcVdSEf2QSsSb7JEI"
       },
       "artists": [
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        },
+        {
+          "name": "New Breed",
+          "url": "https://open.spotify.com/artist/2Zly7rBPCwrCNxNgYQPoC9"
         }
       ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+      "duration_ms": 374092,
+      "name": "THE GLORY ft. New Breed",
+      "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Won't Be Long Now",
-        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
         }
       ],
-      "duration_ms": 195541,
-      "name": "Won't Be Long Now",
-      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+        "name": "Won't Be Long Now",
+        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
       },
       "artists": [
         {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+      "duration_ms": 195541,
+      "name": "Won't Be Long Now",
+      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "PRIVILEGE",
         "url": "https://open.spotify.com/album/4Dc7fgbSdGadbEAepsfYb3"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+        "name": "GREAT IS YOUR FAITHFULNESS",
+        "url": "https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM"
       },
       "artists": [
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
         }
       ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
+      "duration_ms": 251206,
+      "name": "GREAT IS YOUR FAITHFULNESS",
+      "url": "https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1647,22 +1663,6 @@
       "duration_ms": 362120,
       "name": "Here All the Time (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/2vDMKTckSTQrdf01YjiaxO"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "GREAT IS YOUR FAITHFULNESS",
-        "url": "https://open.spotify.com/album/5g9BTtL5emqVUXlzhWrjGM"
-      },
-      "artists": [
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 251206,
-      "name": "GREAT IS YOUR FAITHFULNESS",
-      "url": "https://open.spotify.com/track/45V70jBntSAcbk24Uga5mJ"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
+        "name": "Hold It All Together",
+        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
       },
       "artists": [
         {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
         }
       ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
+      "duration_ms": 158000,
+      "name": "God of Dreams",
+      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Hold It All Together",
-        "url": "https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
       },
       "artists": [
         {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
         }
       ],
-      "duration_ms": 158000,
-      "name": "God of Dreams",
-      "url": "https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB"
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "IF I RAN AWAY",
+        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 153418,
+      "name": "IF I RAN AWAY",
+      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 157706,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "IF I RAN AWAY",
-        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 153418,
-      "name": "IF I RAN AWAY",
-      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
     },
     {
       "added_at": "2023-07-13 07:29:04",

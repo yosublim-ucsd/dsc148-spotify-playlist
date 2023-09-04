@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-171 songs - 10 hr 38 min
+172 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Feelin' Blue](https://open.spotify.com/track/1QMo3fXF53HQFinomEYAHX) | [Shaun Horton's Del Rio Ramblers](https://open.spotify.com/artist/0chn4uz177ClEt71qGG9Nl) | [Go Away Hound Dog](https://open.spotify.com/album/1wakGicpDlN2r6Gu3pNMZ3) | 2:28 | 2023-01-13 | 2023-02-22 |
 | [First McDonell's on the Moon](https://open.spotify.com/track/5tIPp0eDCVopzvXyeMgUOm) | [Jake La Botz](https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX) | [First McDonell's on the Moon](https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4) | 3:51 | 2022-05-25 |  |
 | [Fussin' and Fightin' \(Blues\)](https://open.spotify.com/track/479M29eunSUcosQ608slSc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:00 | 2022-06-14 |  |
-| [Going Down South](https://open.spotify.com/track/0Zbaiyzuhf4OkDLoZnIJMp) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:04 | 2022-11-18 |  |
+| [Going Down South](https://open.spotify.com/track/0Zbaiyzuhf4OkDLoZnIJMp) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:04 | 2022-11-18 | 2023-09-04 |
 | [Going To Chicago](https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:50 | 2022-07-01 |  |
 | [Good Morning Little School Girl](https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:16 | 2022-05-25 |  |
 | [Good Morning Mr\. Blues](https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Good Morning Mr\. Blues](https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn) | 3:25 | 2022-05-25 | 2022-07-29 |
@@ -93,6 +93,7 @@
 | [Keep on Lovin You \(feat\. Billy Branch\)](https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ) | [Lil' Red & the Rooster](https://open.spotify.com/artist/2pm8z0Ff2sSRehZetUntu6), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [Keep on Lovin You \(feat\. Billy Branch\)](https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu) | 5:15 | 2022-10-14 |  |
 | [Keep Sinking](https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 3:53 | 2022-05-25 |  |
 | [Lee’s Blues](https://open.spotify.com/track/5JgTwbPuqCCKV6wfTeNT2L) | [Oliver Darling](https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f) | [Lee's Blues](https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA) | 2:54 | 2023-01-20 | 2023-03-07 |
+| [Liar](https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp) | [Sons Of Atticus](https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g) | [Liar](https://open.spotify.com/album/5IrhwzC5IkEFzERecd2wnl) | 2:54 | 2023-08-23 |  |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-05-25 | 2022-07-29 |
 | [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 | 2022-07-08 |  |
 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 | 2022-07-08 |  |

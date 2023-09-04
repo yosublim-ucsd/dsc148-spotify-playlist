@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Daqui Pra Frente - NX Zero",
+        "url": "https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "Pela \u00daltima Vez",
+      "url": "https://open.spotify.com/track/3CmpbtqlnasF3781SgGxgo"
+    },
+    {
+      "album": {
         "name": "Rock Nacional Anos 2000",
         "url": "https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 224200,
       "name": "Pela \u00daltima Vez",
       "url": "https://open.spotify.com/track/7MET1T0l4V7FdyXZDk8z3B"
@@ -787,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Daqui Pra Frente - NX Zero",
+        "url": "https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "Raz\u00f5es E Emo\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg"
+    },
+    {
+      "album": {
         "name": "Rock Nacional Anos 2000",
         "url": "https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy"
       },
@@ -798,7 +834,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 222400,
       "name": "Raz\u00f5es E Emo\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/4w0UUctedmEbrpUtlrHuaN"

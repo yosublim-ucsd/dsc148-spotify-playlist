@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-124 songs - 7 hr 5 min
+125 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,8 +106,9 @@
 | [The Beauty](https://open.spotify.com/track/2gGN3tZeL4YfLwLlABQOr6) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Self\-Realization](https://open.spotify.com/album/0NGSY2d3hlo6vKo6ecP2bu) | 4:15 | 2022-12-22 |  |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-12-22 | 2023-05-26 |
 | [The Room](https://open.spotify.com/track/07U0FinW8EoiM4IU8SfdNS) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [The Room](https://open.spotify.com/album/7Lc8y1N0fhcYHWQbBimu3Z) | 4:04 | 2022-12-22 | 2023-03-18 |
+| [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 | 2023-07-13 |  |
 | [The Sweet Sound of You](https://open.spotify.com/track/1m0dj0cMQRDKEZ2d68SbDU) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/6067QAmHAnQrDAeZHWp3pc) | 4:57 | 2023-02-23 | 2023-02-25 |
-| [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 | 2023-02-23 |  |
+| [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 | 2023-02-23 | 2023-09-04 |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-12-22 |  |
 | [The Way You Take Time \- Acoustic](https://open.spotify.com/track/7c6XagC4ZxfiK3p9I2nD1i) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [The Way You Take Time \(Acoustic\)](https://open.spotify.com/album/37r6ntMm6ejXyke5VPSfXP) | 3:15 | 2022-12-22 |  |
 | [The Writer](https://open.spotify.com/track/1MMMOeCempeTI2Ss3d6XDi) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [The Writer](https://open.spotify.com/album/72Pi6GJ3vRijpmBuKGH0z2) | 2:56 | 2022-12-22 |  |

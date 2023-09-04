@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Citizen
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,792 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,826 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [Money](https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Money](https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m) | 2:54 |
 | 125 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 
-Snapshot ID: `MCxmMjA4MWQ5OTA2N2I4YzRmMmFjMjBlNzRjYmM1ODYxMTE4ZThlZjgw`
+Snapshot ID: `MCxlMDRjNDQyOGJjYWZjOTc2NjA2OWEwOWM2YzY0OTIzOGE2MzgxMDg2`

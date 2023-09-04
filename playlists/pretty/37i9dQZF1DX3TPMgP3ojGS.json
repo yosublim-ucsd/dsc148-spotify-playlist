@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 369995,
+  "num_followers": 370244,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2ZkNjNhMjdiZTlkMjdjYjIzOTk0NTIzMzliN2QwNWVlMGMyNGI4",
+  "snapshot_id": "MCxjNDBjZTk1ZTk1NmY0MTg2ZmE4N2NlMmZjNTQ5YmYxZjAzNjMyOTk3",
   "tracks": [
     {
       "added_at": "2023-08-29 15:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Saying Things",
-        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Fremont",
-          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Saying Things",
-      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 154311,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Saying Things",
+        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Fremont",
+          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Saying Things",
+      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "From Home",
-        "url": "https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt"
-      },
-      "artists": [
-        {
-          "name": "Vivian Roost",
-          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
-        }
-      ],
-      "duration_ms": 202732,
-      "name": "From Home",
-      "url": "https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 156000,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "From Home",
+        "url": "https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt"
+      },
+      "artists": [
+        {
+          "name": "Vivian Roost",
+          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+        }
+      ],
+      "duration_ms": 202732,
+      "name": "From Home",
+      "url": "https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Ode to Vivian (Rework)",
-        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 96624,
-      "name": "Ode to Vivian - Rework",
-      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 159000,
       "name": "Turn",
       "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Ode to Vivian (Rework)",
+        "url": "https://open.spotify.com/album/0gyXqhkJAvpQanxiat6IVW"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 96624,
+      "name": "Ode to Vivian - Rework",
+      "url": "https://open.spotify.com/track/18oB9NlhCMSzlte5KAj5tl"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
+        "name": "Tranquillity waltz",
+        "url": "https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Perceval",
+          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
+        }
+      ],
+      "duration_ms": 118624,
+      "name": "Tranquillity waltz",
+      "url": "https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
         "name": "Moondust",
         "url": "https://open.spotify.com/album/1h6Hl1CTey15D2ENsbW71t"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 137424,
       "name": "Printemps",
       "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
-        "name": "Tranquillity waltz",
-        "url": "https://open.spotify.com/album/3QMb20fXVrYo4PcZVlkmbq"
-      },
-      "artists": [
-        {
-          "name": "Thomas Perceval",
-          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
-        }
-      ],
-      "duration_ms": 118624,
-      "name": "Tranquillity waltz",
-      "url": "https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "La grande Nue",
-        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 184235,
-      "name": "La grande Nue",
-      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Estelle",
         "url": "https://open.spotify.com/album/2RtrUW1IaYnI9OAVN4XGDY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 118500,
       "name": "Estelle",
       "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "La grande Nue",
+        "url": "https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 184235,
+      "name": "La grande Nue",
+      "url": "https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c"
-      },
-      "artists": [
-        {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
-        }
-      ],
-      "duration_ms": 148874,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Omoidasu",
         "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 117892,
       "name": "Omoidasu",
       "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/4ZzrBDTL49OisnhEp2DL5c"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 148874,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/5zj5thfMd7zGlgMGIBbLag"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t"
-      },
-      "artists": [
-        {
-          "name": "Les R\u00eaveries",
-          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
-        }
-      ],
-      "duration_ms": 145250,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Spring Thaw",
         "url": "https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 180371,
       "name": "Spring Thaw",
       "url": "https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "duration_ms": 145250,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "San Remo",
-        "url": "https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA"
-      },
-      "artists": [
-        {
-          "name": "Finley Rhone",
-          "url": "https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V"
-        }
-      ],
-      "duration_ms": 170966,
-      "name": "San Siro",
-      "url": "https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "If You Should Go",
         "url": "https://open.spotify.com/album/42aYTFmSW7WVfrgLJMgkvP"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 184583,
       "name": "As I Dream",
       "url": "https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "San Remo",
+        "url": "https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA"
+      },
+      "artists": [
+        {
+          "name": "Finley Rhone",
+          "url": "https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V"
+        }
+      ],
+      "duration_ms": 170966,
+      "name": "San Siro",
+      "url": "https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "piano room",
-        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Koto - piano room",
-      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "piano room",
+        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Koto - piano room",
+      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
     },
     {
       "added_at": "2023-08-29 15:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-08-29 15:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
-      },
-      "artists": [
-        {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
-        }
-      ],
-      "duration_ms": 113986,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
-    },
-    {
-      "added_at": "2023-08-29 15:00:00",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 154874,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
+    },
+    {
+      "added_at": "2023-08-29 15:00:00",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "duration_ms": 113986,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
     },
     {
       "added_at": "2023-08-29 15:00:00",

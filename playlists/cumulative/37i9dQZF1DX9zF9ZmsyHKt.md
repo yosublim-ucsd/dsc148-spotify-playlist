@@ -4,7 +4,7 @@
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-208 songs - 12 hr 16 min
+209 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Mulher do Fim do Mundo](https://open.spotify.com/track/6sbT0r4zqYl0FTK0YcmmWq) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Mulher do Fim do Mundo](https://open.spotify.com/album/6pmPFWW4M6YDDDuFeUppDG) | 4:37 | 2021-10-15 | 2022-07-28 |
 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 | 2021-10-15 |  |
 | [A Tropa Tá Vindo Aí](https://open.spotify.com/track/2zIYdIiEfgwui6WvgJ59SM) | [MC Katia](https://open.spotify.com/artist/1fswWDs9fyiaqFvs7ms5WG), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [A Tropa Tá Vindo Aí](https://open.spotify.com/album/2dkqLv8ZUEHcTXVsdeoeUI) | 2:59 | 2021-10-15 | 2022-07-24 |
-| [Acabou](https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Acabou](https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR) | 2:59 | 2021-10-15 |  |
+| [Acabou](https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Acabou](https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR) | 2:59 | 2021-10-15 | 2023-09-04 |
 | [Aceita](https://open.spotify.com/track/6pQ3voPXI2HlrQAlWRtlnW) | [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Trovão](https://open.spotify.com/album/5NXGSmRD8DmKeSWOzPSlaW) | 3:48 | 2021-10-15 | 2022-07-26 |
 | [Acenda a Luz](https://open.spotify.com/track/3Vhg88cJ59iBJwbXUGsdXq) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU), [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [Acenda a Luz](https://open.spotify.com/album/2MJtwr2U9lQzOcERqBycgf) | 3:17 | 2021-10-15 | 2022-07-29 |
 | [Ai, Amor](https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [O Tempo É Agora](https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj) | 3:40 | 2021-10-15 |  |
@@ -40,6 +40,7 @@
 | [Beijinho no Ombro](https://open.spotify.com/track/4k3HBeh98WWN2ybGHC0WQI) | [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [Beijinho no Ombro](https://open.spotify.com/album/0ofNAjXeTd2H2co7rKhKTE) | 2:44 | 2021-10-15 |  |
 | [Bixa Preta](https://open.spotify.com/track/5dI4OvQSsxSr2SnHFKJIoq) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Bixa Preta](https://open.spotify.com/album/1J0q2DZJ8TVGQzwgb3vInA) | 3:34 | 2021-10-15 | 2022-07-19 |
 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 | 2021-10-15 |  |
+| [Boladona](https://open.spotify.com/track/19ETbp46uzm9GEoyE12toT) | [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Boladona](https://open.spotify.com/album/4xhz8Ge90YWgmDzxUtr5oB) | 2:06 | 2022-10-07 |  |
 | [Boladona](https://open.spotify.com/track/5ylZRbTn28rfKILSrBRKM2) | [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Boladona](https://open.spotify.com/album/7KO4hTUN3Jeo5LE6W2ZRbo) | 2:06 | 2022-10-07 | 2023-08-25 |
 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 | 2021-10-15 |  |
 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 | 2021-10-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,861 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,091 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 50 | [Bongo Bong \- Francis Mercier Remix](https://open.spotify.com/track/78MTNV8ysUJjFGcNatPQXj) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Bongo Bong \(Francis Mercier Remix\)](https://open.spotify.com/album/4Hd9vntWKpJ53cjibvqy7E) | 3:04 |
 
-Snapshot ID: `MCxmN2MwYjk5NDM2MWE3MThkMTNlYThhYTE1YWFlNDBmYjZkNzg3YzA4`
+Snapshot ID: `MCxkNjQ2ZWUxN2NiNjIwMzliMTEyYjc3NjRkNGJiNmQxZjRmYzYzNDIy`

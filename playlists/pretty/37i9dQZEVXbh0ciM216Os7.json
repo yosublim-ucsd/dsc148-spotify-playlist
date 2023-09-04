@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDAzZTVjNDdkNDNmZjc2ZGNiZDQyNTU3NzdmMDYyYjQ4NA==",
+  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDBkYzYwNGI5ZDdlMmJkNDQzNDdiYjZjZGU3Yjk5OTc3Yg==",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -20,33 +20,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 269613,
-      "name": "Say You Love Me - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/3skntHoUEEtls7H4jrwJrM"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Shaolin's Revenge",
-        "url": "https://open.spotify.com/album/0pQHdDDKjOHgRIL9j7sOfZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Godzila",
-          "url": "https://open.spotify.com/artist/2hTjSZbeXlWdWqYQbeG2Kb"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 125518,
-      "name": "Shaolin's Revenge",
-      "url": "https://open.spotify.com/track/6LN4koIhyYzlVTCYTPhK7h"
+      "duration_ms": 300360,
+      "name": "Go Your Own Way - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
+      "url": "https://open.spotify.com/track/2McBjVt8cRlZBKeIKLI06Y"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -91,26 +67,78 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Painted Houses (feat. Conway the Machine)",
-        "url": "https://open.spotify.com/album/2jGpmrbzpjpdPPEAeD239b"
+        "name": "Puerto Rico",
+        "url": "https://open.spotify.com/album/4xfwBnoenPCuV6HCgwisUy"
       },
       "artists": [
         {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
         },
         {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
         }
       ],
-      "duration_ms": 183157,
-      "name": "Painted Houses (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
+      "duration_ms": 215717,
+      "name": "Puerto Rico",
+      "url": "https://open.spotify.com/track/3wyBkA7dOMJX0zqW3iIKu8"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Shaolin's Revenge",
+        "url": "https://open.spotify.com/album/0pQHdDDKjOHgRIL9j7sOfZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Godzila",
+          "url": "https://open.spotify.com/artist/2hTjSZbeXlWdWqYQbeG2Kb"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 125518,
+      "name": "Shaolin's Revenge",
+      "url": "https://open.spotify.com/track/6LN4koIhyYzlVTCYTPhK7h"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Burning Down the House (Metal Version)",
+        "url": "https://open.spotify.com/album/54wesWsBOJFQhKVFzpeDJ5"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Burning Down the House (Metal Version)",
+      "url": "https://open.spotify.com/track/6iVeRgRXppzzMlgfCZq6HR"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Koala",
+        "url": "https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 155668,
+      "name": "Koala",
+      "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -216,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 796202,
-      "name": "Weather Report Suite (Take 8) [Slated] - 8/17/73",
-      "url": "https://open.spotify.com/track/1m5AjMi3MMw9jiNlCeWgNz"
+      "duration_ms": 443464,
+      "name": "Stella Blue (Take 5) [Not Slated] - 8/7/73",
+      "url": "https://open.spotify.com/track/5N1zOclIabkCcRcRAyWaQc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -246,47 +274,11 @@
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 213694,
-      "name": "The Way - Live from London (feat. Mac Miller)",
-      "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Castaway",
-        "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Hella Good (Metal Version)",
-        "url": "https://open.spotify.com/album/5CfBbX5MpZ8q4lEPtDsYWY"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 210716,
-      "name": "Hella Good (Metal Version)",
-      "url": "https://open.spotify.com/track/4M3nv7F7mMsde0lzb46UTI"
+      "duration_ms": 295544,
+      "name": "Honeymoon Avenue - Live from London",
+      "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -302,15 +294,11 @@
         {
           "name": "James Fauntleroy",
           "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        },
-        {
-          "name": "Chief Adjuah",
-          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Like It Like That (feat. Chief Adjuah)",
-      "url": "https://open.spotify.com/track/1axghhfOmj6V4vPCbJtSqX"
+      "duration_ms": 236111,
+      "name": "Online Shopping",
+      "url": "https://open.spotify.com/track/4zLpNVPiZ1Gpr9T0MqKbZx"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -327,6 +315,46 @@
       "duration_ms": 132858,
       "name": "Wild Side",
       "url": "https://open.spotify.com/track/3Mz00Nif49qbRP44Vexdp9"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Saint Teresa",
+        "url": "https://open.spotify.com/album/6Ogj81elwzB4RoIQGnTACl"
+      },
+      "artists": [
+        {
+          "name": "Devon Church",
+          "url": "https://open.spotify.com/artist/7CBzDKeqUsPOqLyYwpvT1g"
+        },
+        {
+          "name": "Delicate Steve",
+          "url": "https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "Saint Teresa",
+      "url": "https://open.spotify.com/track/1Xbdoqkt8YpTSELtUyFgNL"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Do You Remember Country Music (feat. Randy Travis)",
+        "url": "https://open.spotify.com/album/5yZdZAKNNN42xD32IaaICr"
+      },
+      "artists": [
+        {
+          "name": "Tony Jackson",
+          "url": "https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR"
+        },
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 210672,
+      "name": "Do You Remember Country Music",
+      "url": "https://open.spotify.com/track/7CFK4WaCuILEyCuBxjAM4W"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -499,22 +527,46 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Uptown Girl",
-        "url": "https://open.spotify.com/album/3Y98hPZw4Mvcz05eLeWGum"
+        "name": "Harlem World 97 (feat. Estelle)",
+        "url": "https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF"
       },
       "artists": [
         {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
         },
         {
-          "name": "Stella Katherine Cole",
-          "url": "https://open.spotify.com/artist/5ih59bnxu5dIFHpUwGSjAz"
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
         }
       ],
-      "duration_ms": 208124,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/6RXAdmP1IjUWZxDHOqnUpa"
+      "duration_ms": 137945,
+      "name": "Harlem World 97 (feat. Estelle)",
+      "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 276904,
+      "name": "ME TENGO QUE IR",
+      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -535,74 +587,6 @@
       "duration_ms": 67764,
       "name": "Oh, You Crazy Moon - Ornithology Remix",
       "url": "https://open.spotify.com/track/2p4S9TzGVVo6ABhlLGjGl5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Heidrun",
-        "url": "https://open.spotify.com/album/46SLNuMmAJD0lYog885M8a"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 282853,
-      "name": "Heidrun (2023 Remix)",
-      "url": "https://open.spotify.com/track/4ZmcdD9qI3RYmWcPymv3mw"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Mu\u00f1ekita (with El Alfa & JT)",
-        "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Mu\u00f1ekita (with El Alfa & JT)",
-      "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Philip Glass: Mishima (Bob's Burgers Arrangement)",
-        "url": "https://open.spotify.com/album/1VscWkt050glT9a00llO8z"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Bob's Burgers",
-          "url": "https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE"
-        },
-        {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
-        },
-        {
-          "name": "John Dylan Keith",
-          "url": "https://open.spotify.com/artist/1a5HFanxiv85IigM7x09WJ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Mishima (Bob's Burgers Arrangement)",
-      "url": "https://open.spotify.com/track/3itGRXrIxRitrsEmBHYLre"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

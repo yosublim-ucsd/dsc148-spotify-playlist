@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,479 likes - 124 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,552 likes - 124 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 123 | [Does It Rain on You?](https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [In Separation](https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo) | 3:02 |
 | 124 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 |
 
-Snapshot ID: `MCxjNWRhZWZiNTc5NGUzMjhhMDc5NzhjMzEyZjhhNWUwY2QxZmI4NjQ5`
+Snapshot ID: `MCwwMDM3MDZjZTU1Y2M1M2RjZWEwMGVkMzAzZDhmZjU2ZTE3ZTc0Mzhk`

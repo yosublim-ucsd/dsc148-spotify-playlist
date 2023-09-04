@@ -4,7 +4,7 @@
 
 > Taking the big steps with Drum & Bass.
 
-439 songs - 1 day 5 hr 58 min
+440 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Hands Up](https://open.spotify.com/track/3xHyg6aNGOQawpeKeI1rFK) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Hands Up](https://open.spotify.com/album/0KDRj5G1bqmjNieEHtzWBy) | 4:31 | 2021-11-12 | 2022-07-18 |
 | [Hardwired](https://open.spotify.com/track/63UmONGWD612D6jn96v9Hu) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB) | [Hardwired](https://open.spotify.com/album/0WOZTd7IXPhBzhvF1K5WJc) | 4:29 | 2021-11-12 | 2022-07-29 |
 | [Hassle Free](https://open.spotify.com/track/453APMMngAEj9DSXV6k5L5) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [Black Barrel](https://open.spotify.com/artist/4g2ACDi5ljq9imLNg5yiql) | [Hassle Free](https://open.spotify.com/album/36lV2pYG3fIJiqa27WmUa9) | 5:10 | 2022-02-18 | 2022-04-21 |
+| [Haunted](https://open.spotify.com/track/04OnsBlFeWEO8z4vwEPQQI) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [Haunted](https://open.spotify.com/album/50nbWtinvZNMWnuho2OFtx) | 3:01 | 2023-09-01 |  |
 | [Heal Me \- Spectrasoul Remix](https://open.spotify.com/track/1rPbnnDI0chsjw2WAwq7Qp) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6), [SpectraSoul](https://open.spotify.com/artist/5OvI3XKz7Y1TJAxPbn848T) | [Heal Me \(Spectrasoul Remix\)](https://open.spotify.com/album/60g7rBYssJdXgw8GCN8qfR) | 3:26 | 2022-02-18 |  |
 | [Heartbeat](https://open.spotify.com/track/5UpIi19tyHl8DUq7WOK6Hb) | [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3) | [Heartbeat](https://open.spotify.com/album/5TKTVTLEc3bcwiMRqk7FF0) | 3:18 | 2021-11-12 | 2022-07-28 |
 | [Heartleap](https://open.spotify.com/track/7KaF3RQY4BFMZCoUD5U7m2) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Heartleap](https://open.spotify.com/album/5ynbocv7MO1wn19uXW7Hlo) | 3:10 | 2023-05-19 |  |
@@ -385,7 +386,7 @@
 | [Stutter](https://open.spotify.com/track/5KAOt2u9IpISgwG3idESe0) | [Echo Brown](https://open.spotify.com/artist/5i7IOgJzy3Ov00uEmvQVSM) | [Stutter](https://open.spotify.com/album/1RSWdV6FcHzbjTJinFgj45) | 5:14 | 2021-11-12 | 2022-07-01 |
 | [Sukara](https://open.spotify.com/track/79J24ARBkAa5yTkEfFHjsM) | [not sorry](https://open.spotify.com/artist/2YKPgLFl19Q2wRbqERhlYb) | [Behind Locked Doors](https://open.spotify.com/album/4k6LeKbtbm3RHCK12MxiT9) | 3:54 | 2021-11-12 | 2022-07-11 |
 | [Sunchaser](https://open.spotify.com/track/4kES8i6uCGaaesP9pVSo2E) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Sunchaser \- EP](https://open.spotify.com/album/4CwBvCi3jmMW08ysZVaaVB) | 5:15 | 2021-11-12 | 2022-07-29 |
-| [Sunchaser](https://open.spotify.com/track/7gFkNM7uKNC9150e5yQpUC) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Sunchaser EP](https://open.spotify.com/album/2P6lUHlwK4E3SLSNEJEMfr) | 5:15 | 2022-07-15 |  |
+| [Sunchaser](https://open.spotify.com/track/7gFkNM7uKNC9150e5yQpUC) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Sunchaser EP](https://open.spotify.com/album/2P6lUHlwK4E3SLSNEJEMfr) | 5:15 | 2022-07-15 | 2023-09-04 |
 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 | 2023-05-12 |  |
 | [Superpower](https://open.spotify.com/track/2a3CxONh0rELcbtdYK3U1L) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Seiren](https://open.spotify.com/artist/5HKQopZI4z7YTgcqsScIrN), [Ina Bravo](https://open.spotify.com/artist/2ToVGBAU5JEE6mTdgTmGpx), [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Superpower](https://open.spotify.com/album/2jByIckM36HvR2qb0krEKz) | 3:40 | 2023-06-30 |  |
 | [Superpower](https://open.spotify.com/track/2VdrPrPczT3qq2M9hTqY9G) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Superpower](https://open.spotify.com/album/13yuhzD1opwJpC4EyI3ZAW) | 2:49 | 2023-06-16 | 2023-06-22 |

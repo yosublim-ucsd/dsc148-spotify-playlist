@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 117844,
+  "num_followers": 118091,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmUxY2FiNjgxZTNkYTdjMzA5MzJiNTgyNTc1NmU4M2E4ZGE1ZmIw",
+  "snapshot_id": "MCwxNmI3NTcwMGViN2UzY2VmZjBkNWZkZDQ5ODI1MjlmOTQyZTM5ZTM2",
   "tracks": [
     {
       "added_at": "2023-07-18 19:55:42",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "You've Got The Love (Jamie xx Rework)",
         "url": "https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 342990,
       "name": "You've Got The Love - Jamie xx Rework",
       "url": "https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 274213,
+      "name": "Nakamarra",
+      "url": "https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/3s7dB6EHrYkaWjzfVbZfCo"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 274213,
-      "name": "Nakamarra",
-      "url": "https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
       "artists": [
         {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -979,22 +995,6 @@
       "duration_ms": 195604,
       "name": "Dearest Alfred (MyJoy)",
       "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 449773,
       "name": "Maiysha (So Long) (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/1q2Jzd23O49Crk91Rijl7Y"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1207,6 +1207,22 @@
       "duration_ms": 215000,
       "name": "Revelation Dub",
       "url": "https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 235680,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1275,22 +1291,6 @@
       "duration_ms": 217346,
       "name": "Own Me",
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 235680,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
     },
     {
       "added_at": "2023-07-18 19:55:42",

@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5838,
+  "num_followers": 5857,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmUxYjViYmEyODNmNjI1N2RmZTg0ZDkwMDMzZDQ4ODFlMjk4OTUy",
+  "snapshot_id": "MCw1OGIxMjA2MjdiYjIyNGRlMTMyYWI5MWU0OWVmN2M5ZjQ4ODY0MjA4",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Whats wrong with secretary kim OST Part.5",
-        "url": "https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 220352,
-      "name": "Because I only see you",
-      "url": "https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "A-TEEN Part.4",
         "url": "https://open.spotify.com/album/7zsRwUrdobhUaTeA3ZdNe3"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 248361,
       "name": "Don't run away",
       "url": "https://open.spotify.com/track/18krdoAbqH1jHwymcaIyom"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Whats wrong with secretary kim OST Part.5",
+        "url": "https://open.spotify.com/album/0DScQIKugPfaNgB2iGp7Mu"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 220352,
+      "name": "Because I only see you",
+      "url": "https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
-        "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Where Love Begins",
-      "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 243037,
       "name": "mistaken",
       "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Where Love Begins",
+      "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
-      },
-      "artists": [
-        {
-          "name": "CherryB",
-          "url": "https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd"
-        }
-      ],
-      "duration_ms": 249438,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "\ud654\ubd84",
         "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 270680,
       "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
       "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
+      },
+      "artists": [
+        {
+          "name": "CherryB",
+          "url": "https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd"
+        }
+      ],
+      "duration_ms": 249438,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
     },
     {
       "added_at": "2023-05-02 09:09:27",

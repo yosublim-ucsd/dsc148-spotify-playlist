@@ -1,12 +1,12 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1168791,
+  "num_followers": 1169168,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDdmNDE1Mjc4NTRkZWMwNGQxODI0M2MzNjY3OWUxMGNkOGViNmQ5",
+  "snapshot_id": "MCw5MDA2ODhmZDNlNGQ1OTk5MWZjYWU3Nzg1MmM3OTk2ZDg0MDgxNzA2",
   "tracks": [
     {
       "added_at": "2022-07-05 09:02:20",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-07-05 09:02:20",
       "album": {
-        "name": "Sweat (Snoop Dogg Vs. David Guetta) [Remix]",
-        "url": "https://open.spotify.com/album/7i3ZUKLj6bszovw4IfRECy"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sweat - Remix",
-      "url": "https://open.spotify.com/track/0R7YVi7w41Dr9jU5vblAok"
-    },
-    {
-      "added_at": "2022-07-05 09:02:20",
-      "album": {
         "name": "Sorry For Party Rocking",
         "url": "https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 262173,
       "name": "Party Rock Anthem",
       "url": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
+    },
+    {
+      "added_at": "2022-07-05 09:02:20",
+      "album": {
+        "name": "Sweat (Snoop Dogg Vs. David Guetta) [Remix]",
+        "url": "https://open.spotify.com/album/7i3ZUKLj6bszovw4IfRECy"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sweat - Remix",
+      "url": "https://open.spotify.com/track/0R7YVi7w41Dr9jU5vblAok"
     },
     {
       "added_at": "2022-07-05 09:02:20",

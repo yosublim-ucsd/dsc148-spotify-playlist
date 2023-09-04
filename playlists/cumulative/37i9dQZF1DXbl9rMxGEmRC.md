@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-497 songs - 1 day 18 hr 4 min
+498 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-25 | 2023-02-13 |
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-07-13 | 2022-07-29 |
 | [Conquer All](https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6) | 3:31 | 2022-07-13 |  |
-| [Contorted Monuments](https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/5IIUnGjaxM97FERMxqFKwg) | 3:56 | 2023-09-01 | 2023-09-03 |
+| [Contorted Monuments](https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/5IIUnGjaxM97FERMxqFKwg) | 3:56 | 2023-09-01 |  |
 | [Contorted Monuments](https://open.spotify.com/track/67eZWGltRRLeC6CqGo8OI4) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/3T2mwxswFJP50QjDFF2jnH) | 3:56 | 2023-01-20 | 2023-03-03 |
 | [Corpus Asunder](https://open.spotify.com/track/22LDsQ4MS0UCfjFxxzWK5d) | [Hooded Menace](https://open.spotify.com/artist/10mjw8SFRZjS0d8tecdEW8) | [The Tritonus Bell](https://open.spotify.com/album/0x4i70nD0RJfABpctTg7zn) | 7:18 | 2021-12-17 | 2022-04-09 |
 | [Corset](https://open.spotify.com/track/6FdqR9WXfCJEcz3pMV84lJ) | [Cloud Rat](https://open.spotify.com/artist/6Fbes1fH0ZDS0XGjDx2YeG) | [Corset](https://open.spotify.com/album/29K85KqmBKVepENRzTXK2K) | 1:46 | 2022-09-16 | 2022-09-30 |
@@ -204,7 +204,7 @@
 | [Hell On Four Wheels](https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Hell On Four Wheels](https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7) | 3:39 | 2023-07-14 |  |
 | [Hemoclysm](https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hamartia \- EP](https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN) | 6:48 | 2023-04-07 | 2023-06-22 |
 | [Her Ghost in the Fog](https://open.spotify.com/track/0IVdlBreRkZn0ftoUwB0T6) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Midian](https://open.spotify.com/album/1eqAIac48qUT6ks2hrccIJ) | 6:24 | 2022-07-13 | 2023-02-16 |
-| [Here Comes Sorrow](https://open.spotify.com/track/0EJSNATWy8zZ2UTplre7wb) | [An Autumn for Crippled Children](https://open.spotify.com/artist/7yMpYMZTr6Hm1Dm5CR0CRZ) | [Closure](https://open.spotify.com/album/7crifyE0m75KQRqDAIL5nD) | 3:41 | 2023-09-01 |  |
+| [Here Comes Sorrow](https://open.spotify.com/track/0EJSNATWy8zZ2UTplre7wb) | [An Autumn for Crippled Children](https://open.spotify.com/artist/7yMpYMZTr6Hm1Dm5CR0CRZ) | [Closure](https://open.spotify.com/album/7crifyE0m75KQRqDAIL5nD) | 3:41 | 2023-09-01 | 2023-09-04 |
 | [Hide from the Sun](https://open.spotify.com/track/5sfu3mgxe0CAa1TSirTnPI) | [Ghost Bath](https://open.spotify.com/artist/37Vukf7o6CBPG68BRDpStb) | [Hide from the Sun](https://open.spotify.com/album/0lqXlSegDRpxttuqMFun9S) | 5:37 | 2021-12-17 | 2022-01-22 |
 | [His Masters Voice](https://open.spotify.com/track/7IQjBiSjclkJlwGW1RbOpn) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Eternal Hails......](https://open.spotify.com/album/0ktSEj7BjykHXm9NJkIrtL) | 7:17 | 2021-12-17 | 2022-03-11 |
 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ), [Lars Nedland](https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 | 2022-04-22 |  |
@@ -321,7 +321,7 @@
 | [On the Wings of Cosmic Fire](https://open.spotify.com/track/4MjToDaPoADzwE6QzjcAno) | [Thulcandra](https://open.spotify.com/artist/3cJkyh6iM5N2AI07hNlu1j) | [Hail the Abyss](https://open.spotify.com/album/3dGCSviVjsc466RJYlR0DI) | 4:18 | 2023-05-30 |  |
 | [One by One](https://open.spotify.com/track/65sql5o05skwJ6frSq4exl) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Sons of Northern Darkness](https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj) | 4:58 | 2022-07-13 |  |
 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 | 2022-07-13 |  |
-| [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 |  |
+| [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 | 2023-09-04 |
 | [Ov Fire And The Void](https://open.spotify.com/track/2Q73wKbwLLcGS404gkTfjH) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/6ZizJ3rk1Eok7JOKL6UMwv) | 4:27 | 2022-07-13 |  |
 | [Ov Fire and the Void](https://open.spotify.com/track/7fire0gDtWtq39qQLJVfev) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/3NO3ef0kGIOJMw6y6nZEH0) | 4:27 | 2022-07-13 | 2022-07-29 |
 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 | 2023-03-20 |
@@ -456,6 +456,7 @@
 | [Trance IV: Nemesis](https://open.spotify.com/track/1ntRngCCMm5TpY9w6Pkhgn) | [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Tranceformation](https://open.spotify.com/album/360FLVwXFB7wBVFHDW9qNf) | 7:18 | 2021-12-17 | 2022-07-27 |
 | [Transilvanian Hunger](https://open.spotify.com/track/6lJstSMcbosFzereFQ3bWm) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Transilvanian Hunger](https://open.spotify.com/album/5zaZAdRdcwZRsxexixMC2p) | 6:09 | 2022-07-13 | 2022-07-29 |
 | [Transilvanian Hunger \- Studio](https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Transilvanian Hunger](https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E) | 6:09 | 2022-07-13 | 2023-04-22 |
+| [Twilight of the Machines](https://open.spotify.com/track/77k1IEFrNcRNng2bskQOMN) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar), [Austere](https://open.spotify.com/artist/07fs2bGSWU8zKACi9dIF9k) | [Twilight of the Machines](https://open.spotify.com/album/4Mm90xb15scrI73m78fDjt) | 8:34 | 2023-09-01 |  |
 | [Twin Mouthed Spring](https://open.spotify.com/track/7Csk00f4AnlIIcXD6OujaJ) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Twin Mouthed Spring](https://open.spotify.com/album/4y0CNWyaEiwbp3GczV2ETx) | 4:54 | 2023-08-18 |  |
 | [Udug\-Hul Incantation](https://open.spotify.com/track/4gws3X9xLT4D2cT1h2nv4p) | [Devangelic](https://open.spotify.com/artist/0c91Xi4FCxmA42VdvSxJ52) | [Udug\-Hul Incantation](https://open.spotify.com/album/3DZeDu7FxYqexmNrRh3yEy) | 4:32 | 2023-03-17 | 2023-04-01 |
 | [Under A Funeral Moon](https://open.spotify.com/track/4kGQ1zZbbVeZVftLCgufsb) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Under a Funeral Moon](https://open.spotify.com/album/6mFiCalfpMfPPfmXnqlQNV) | 4:57 | 2022-07-13 | 2022-07-28 |

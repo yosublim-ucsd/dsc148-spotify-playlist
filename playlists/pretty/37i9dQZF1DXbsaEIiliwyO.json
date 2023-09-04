@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3067\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Best & new rock anthems for anime fans.",
-  "num_followers": 5407,
+  "num_followers": 5566,
   "original_name": "Anime Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDk4YzZmZGU3Y2VhMjZiNGI1OTkzMDY3NWU1NzhmYzE2YmQ4MWZm",
+  "snapshot_id": "MCwyZjFkNjM3ZGYzMGMwNmFiMDg4NmFkZmNjYTI1ZjE0YzU4MzgzNjk3",
   "tracks": [
     {
       "added_at": "2023-08-29 16:50:11",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-29 16:50:11",
       "album": {
-        "name": "\u7f8e\u3057\u3044\u9c2d",
-        "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
-      },
-      "artists": [
-        {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
-        }
-      ],
-      "duration_ms": 209777,
-      "name": "\u7f8e\u3057\u3044\u9c2d",
-      "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
-    },
-    {
-      "added_at": "2023-08-29 16:50:11",
-      "album": {
         "name": "CHAINSAW BLOOD",
         "url": "https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 200997,
       "name": "CHAINSAW BLOOD",
       "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
+    },
+    {
+      "added_at": "2023-08-29 16:50:11",
+      "album": {
+        "name": "\u7f8e\u3057\u3044\u9c2d",
+        "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 209777,
+      "name": "\u7f8e\u3057\u3044\u9c2d",
+      "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
     },
     {
       "added_at": "2023-08-29 16:50:11",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-08-29 16:50:11",
       "album": {
-        "name": "HOLIDAYS IN THE SUN",
-        "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
-      },
-      "artists": [
-        {
-          "name": "YUI",
-          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "again",
-      "url": "https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR"
-    },
-    {
-      "added_at": "2023-08-29 16:50:11",
-      "album": {
         "name": "\u88f8\u306e\u52c7\u8005",
         "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2023-08-29 16:50:11",
       "album": {
-        "name": "Under the Tree",
-        "url": "https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3"
+        "name": "HOLIDAYS IN THE SUN",
+        "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "YUI",
+          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
         }
       ],
-      "duration_ms": 121692,
-      "name": "Under the Tree",
-      "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
+      "duration_ms": 254346,
+      "name": "again",
+      "url": "https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR"
     },
     {
       "added_at": "2023-08-29 16:50:11",
@@ -547,6 +531,22 @@
       "duration_ms": 310680,
       "name": "Guren no Yumiya",
       "url": "https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U"
+    },
+    {
+      "added_at": "2023-08-29 16:50:11",
+      "album": {
+        "name": "Under the Tree",
+        "url": "https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 121692,
+      "name": "Under the Tree",
+      "url": "https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0"
     },
     {
       "added_at": "2023-08-29 16:50:11",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-08-29 16:50:11",
       "album": {
-        "name": "DOGLAND",
-        "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
       },
       "artists": [
         {
-          "name": "PEOPLE 1",
-          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 175216,
-      "name": "DOGLAND",
-      "url": "https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6"
+      "duration_ms": 231385,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
     },
     {
       "added_at": "2023-08-29 16:50:11",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-08-29 16:50:11",
       "album": {
-        "name": "BOY",
-        "url": "https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI"
+        "name": "DOGLAND",
+        "url": "https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
         }
       ],
-      "duration_ms": 231385,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
+      "duration_ms": 175216,
+      "name": "DOGLAND",
+      "url": "https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6"
     },
     {
       "added_at": "2023-08-29 16:50:11",

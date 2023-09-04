@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 342787,
+  "num_followers": 342833,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWJlNTJiMTg0OGJlMzM0MjkwNThlY2U4YWU0N2ZiYzA2MDdhODQx",
+  "snapshot_id": "MCxiYWM2MDE5MjQxNTgxMGUxMzRmZDc1ODM2MzBmZDQ4MDBlMmU2N2Qw",
   "tracks": [
     {
       "added_at": "2023-08-10 18:23:24",
@@ -303,8 +303,8 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+        "name": "Good Without",
+        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+      "duration_ms": 182121,
+      "name": "Good Without",
+      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -467,8 +467,8 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Good Without",
-        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
         }
       ],
-      "duration_ms": 182121,
-      "name": "Good Without",
-      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 200523,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
         "name": "Wer wenn nicht wir",
         "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 163500,
       "name": "Wer wenn nicht wir",
       "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 200523,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
     },
     {
       "added_at": "2023-08-10 18:23:24",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-08-10 18:23:24",
       "album": {
+        "name": "Year of the Young",
+        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Year of the Young",
+      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
+    },
+    {
+      "added_at": "2023-08-10 18:23:24",
+      "album": {
         "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
         "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
-    },
-    {
-      "added_at": "2023-08-10 18:23:24",
-      "album": {
-        "name": "Year of the Young",
-        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Year of the Young",
-      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
     }
   ],
   "unique_name": "Feelgood Pop",

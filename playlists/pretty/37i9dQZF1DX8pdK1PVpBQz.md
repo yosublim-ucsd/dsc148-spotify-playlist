@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Big Skeez & DatBreddaDom\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,637 likes - 107 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,651 likes - 107 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 106 | [Foreign Accent](https://open.spotify.com/track/1iZjF3wEbJn8aDCT5qOsMN) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Foreign Accent](https://open.spotify.com/album/3fyYlnHCK38rvd62NOVN3g) | 3:21 |
 | 107 | [Landline](https://open.spotify.com/track/4pLrzFdVBo7CZRThuORvTv) | [Mickey Kojak](https://open.spotify.com/artist/5poMDCBflvu2tgtA0CRF17), [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8), [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ) | [Landline](https://open.spotify.com/album/3OrMfFytb00Ng2RPCpa18A) | 2:58 |
 
-Snapshot ID: `MCw0OTYxMTdmZGI1N2U2NDQwMjg3MTY1YmY1YmNiNTQ4YWE0NzIwNGM4`
+Snapshot ID: `MCw4ODhjN2ZmMWQ0ZTU1MTRiNWUyODZhM2Y0ZjA5NmVkODNlNmExMjE3`

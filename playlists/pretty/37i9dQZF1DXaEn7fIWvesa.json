@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
-  "num_followers": 1553,
+  "num_followers": 1592,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWI1M2JiNWU3YzlkNjUwNjY0OGQxYmYzMjk3OTVlYWQ0YTUwM2Iy",
+  "snapshot_id": "MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
-      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Mi Lugar Favorito (Prod. by Ernesto Losa, Cuban Deejays)",
         "url": "https://open.spotify.com/album/7DV49wDTaPb2EQHV7Vtc0d"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 158484,
       "name": "Mi Lugar Favorito - Prod. by Ernesto Losa, Cuban Deejays",
       "url": "https://open.spotify.com/track/1s1HC6pWnAnD71q7jNVw7w"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
+      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Que Rico",
         "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 157777,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
+        "name": "Toxica",
+        "url": "https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO"
       },
       "artists": [
         {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
         }
       ],
-      "duration_ms": 253714,
-      "name": "Calentando la Habana",
-      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
+      "duration_ms": 231250,
+      "name": "Toxica",
+      "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Calentando la Habana",
+      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
         "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 263263,
       "name": "Eso Es Bola",
       "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Toxica",
-        "url": "https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Toxica",
-      "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
     },
     {
       "added_at": "2023-08-18 04:00:00",

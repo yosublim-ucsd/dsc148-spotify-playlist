@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Giorgio Siladi
 
-450 songs - 1 day 1 hr 4 min
+452 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 | 2023-04-14 |  |
 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 | 2023-03-24 | 2023-09-02 |
 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 | 2023-01-13 | 2023-02-11 |
-| [cuando me pides más](https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [cuando me pides más](https://open.spotify.com/album/4wp3B5xYWNhcLSFobaMckG) | 4:19 | 2023-09-01 |  |
+| [cuando me pides más](https://open.spotify.com/track/3ykezGhjSPp02lgGX1bt90) | [Noah Pino Palo](https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21) | [cuando me pides más](https://open.spotify.com/album/4wp3B5xYWNhcLSFobaMckG) | 4:19 | 2023-09-01 | 2023-09-04 |
 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 | 2021-11-18 | 2022-11-25 |
 | [Cul De Sac](https://open.spotify.com/track/0LPhD0LxOeR5O6LIwFrQqd) | [Hunters of the Alps](https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG) | [Cul De Sac](https://open.spotify.com/album/5hp7RfGh9v2CvFdmTkZHaS) | 4:20 | 2022-01-10 | 2022-07-29 |
 | [cup!](https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [cup!](https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe) | 2:14 | 2023-07-21 | 2023-09-02 |
@@ -206,6 +206,7 @@
 | [lo que el viento se llevó](https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [lo que el viento se llevó](https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG) | 3:18 | 2022-12-30 | 2023-02-13 |
 | [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 | 2021-11-18 | 2022-11-25 |
 | [lo siento](https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [lo siento](https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv) | 3:12 | 2023-03-03 | 2023-05-13 |
+| [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 | 2023-09-01 |  |
 | [Lockdown](https://open.spotify.com/track/1S6JBFByksSIbXmxHQRrfy) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Lockdown](https://open.spotify.com/album/350zv3w3vKRXIS8tKWzGcx) | 4:23 | 2021-11-18 | 2022-07-29 |
 | [Locochona](https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Locochona](https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX) | 2:28 | 2023-03-31 | 2023-06-03 |
 | [Locura](https://open.spotify.com/track/0YdQ18RKVo46yNgj1H92MF) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/5xdGIj9ivToi3Iag0pOx77) | 2:44 | 2022-06-29 | 2022-11-25 |
@@ -237,6 +238,7 @@
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-14 |  |
 | [Memorias](https://open.spotify.com/track/10lioNEUsuH1Jk3qDTsGCA) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Memorias](https://open.spotify.com/album/67WIKZx249OeXbbN0Igjmb) | 3:19 | 2023-06-02 | 2023-08-20 |
 | [Mexico](https://open.spotify.com/track/3FAOA3cYNCXAwDIePAW19V) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/6glbSrF6iIteSZsPdzgdY3) | 3:40 | 2023-05-26 | 2023-08-23 |
+| [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 | 2023-09-01 |  |
 | [Mi Droga Favorita](https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Mi Droga Favorita](https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL) | 2:55 | 2023-06-09 |  |
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-11-24 | 2023-04-29 |
 | [Mi Querido, Mi Viejo, Mi Amigo](https://open.spotify.com/track/6rmOA5QbXGCXGoR9dYwR4p) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Mi Querido, Mi Viejo, Mi Amigo](https://open.spotify.com/album/7vlyywsguQ8jChINFZRf7d) | 3:18 | 2023-06-09 | 2023-08-05 |
@@ -335,7 +337,7 @@
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 |  |
 | [Really Rong](https://open.spotify.com/track/60vsS2ZyzU8gVHEyG35g57) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:24 | 2022-01-10 | 2022-11-25 |
 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 | 2022-12-09 | 2023-04-29 |
-| [Regresar](https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Miamorcito Loco + Regresar](https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf) | 3:31 | 2023-06-02 |  |
+| [Regresar](https://open.spotify.com/track/0Y2KKM5DsuEZOeSVdSFgGJ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Miamorcito Loco + Regresar](https://open.spotify.com/album/5qP9BxHSujRsG0SmsTOjqf) | 3:31 | 2023-06-02 | 2023-09-04 |
 | [Regresar \(Vibes4YourSoul Remix\)](https://open.spotify.com/track/2Rzt5D3eOg7I12ZWozGX4w) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vibes4YourSoul](https://open.spotify.com/artist/2z0Od7adlbPJRlM6pyFZZV) | [Regresar \(Vibes4YourSoul Remix\)](https://open.spotify.com/album/2ek84DXerG63Z5QhSz79lA) | 4:11 | 2023-03-10 | 2023-04-17 |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-06 | 2022-10-28 |
 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 | 2022-09-06 | 2022-12-10 |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 370131,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
@@ -1734,6 +1734,24 @@
       "duration_ms": 176118,
       "name": "Victory Song",
       "url": "https://open.spotify.com/track/40sjTKH9XM4BEToiQdbyIq"
+    },
+    {
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306780,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
     },
     {
       "album": {

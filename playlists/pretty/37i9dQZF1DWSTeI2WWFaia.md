@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,498 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,492 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 36 | [Dump On Em](https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [MC Ren](https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU) | [Dump On Em](https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5) | 3:36 |
 | 37 | [Slow it Down](https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:30 |
 | 38 | [ALL 4 YOU](https://open.spotify.com/track/6PTEIszOGU733zIulViPjo) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TEXAS BOY](https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH) | 2:54 |
-| 39 | [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 |
-| 40 | [Life & Times](https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:14 |
+| 39 | [Life & Times](https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Round Trip](https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9) | 3:14 |
+| 40 | [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 |
 | 41 | [Questions](https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:14 |
 | 42 | [MARATHON](https://open.spotify.com/track/4YsYeD30IRuVA4BnG2qRKY) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [MARATHON](https://open.spotify.com/album/3Fw74FRQhHTDA57xb2O3ki) | 3:17 |
 | 43 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Latex Gloves](https://open.spotify.com/track/74sE79ReizotiesesgUm90) | [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Latex Gloves](https://open.spotify.com/album/4KSSTRoBSZNdEFeVHUZpMB) | 3:18 |
 | 50 | [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 |
 
-Snapshot ID: `MCxiZTAxNThmNTU5Nzk1YzU0ZWI1NThlZmRlNDY3OTJhYWE5ZTExYjIx`
+Snapshot ID: `MCw0ZDBmMmEwYjhmZWM0ZTg3ZWU3ZjZiMjE0OWIxYjRlMGExODU2Nzlj`

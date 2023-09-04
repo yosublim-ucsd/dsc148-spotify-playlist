@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53825,
+  "num_followers": 53824,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzBhNDgxZTFiZDJiMzNjYWQwOTk5N2Q5MmI4ZjA2NjNkN2Q2Zjg0",
+  "snapshot_id": "MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "He Got Up",
-        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
-      },
-      "artists": [
-        {
-          "name": "Deacon D.A.S.",
-          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
-        },
-        {
-          "name": "V. Rose",
-          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "He Got Up",
-      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "He Got Up",
+        "url": "https://open.spotify.com/album/6cLfIgCJbOBpLtaRse7jDK"
+      },
+      "artists": [
+        {
+          "name": "Deacon D.A.S.",
+          "url": "https://open.spotify.com/artist/7bFhiDVFVyHqkr1VHBMOVA"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "He Got Up",
+      "url": "https://open.spotify.com/track/7nOwhNxNjl1uQVeXePpYlK"
     },
     {
       "added_at": "2023-04-09 08:49:39",

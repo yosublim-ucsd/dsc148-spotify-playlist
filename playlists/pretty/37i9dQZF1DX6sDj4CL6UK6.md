@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: YONLAPA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,502 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,519 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
 | 75 | [Run Away Fade Away](https://open.spotify.com/track/30KmgCXlmMo7G02ddJpmzW) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Run Away Fade Away](https://open.spotify.com/album/5ITni3RafLU4NmygkabTYM) | 2:58 |
 
-Snapshot ID: `MCxiZTc1YmY5YjAzNTg4MGM4MGUwOTNhNjU4YzQ2MjJiNThkNGYzNTE1`
+Snapshot ID: `MCxmNDMwYjFmMWFjNjk4ZjJlN2VmMTBmNWVlMDVjODg5N2ZmZTRhZGM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,925 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,958 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 10 | [Hotel Lounge in Havana](https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t) | [Hotel Lounge in Havana](https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK) | 1:55 |
 | 11 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 12 | [Girasoles](https://open.spotify.com/track/3YAT7ZuCsfFQCF9DnQCpBB) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Girasoles](https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv) | 2:03 |
-| 13 | [Aubade](https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM) | [Aubade](https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn) | 2:51 |
-| 14 | [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 |
+| 13 | [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 |
+| 14 | [Aubade](https://open.spotify.com/track/2w9EnlbbEahdgm3ZNj758B) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM) | [Aubade](https://open.spotify.com/album/7pt5ET5hEnQFYVfVJVVzMn) | 2:51 |
 | 15 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
 | 16 | [Labios](https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Labios](https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab) | 2:44 |
 | 17 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 49 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 |
 | 50 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 |
 
-Snapshot ID: `MCxlNWQzZDhlYTk5ZTM0Mzc0M2JlYTdkYTIxZDgyMzEyOGNkZGVmYTUx`
+Snapshot ID: `MCw3OTNlODBlOGQ0YzAwMTYyNDIyNjE1Y2FmM2MwODQ1ZjIwYTg4MmMx`

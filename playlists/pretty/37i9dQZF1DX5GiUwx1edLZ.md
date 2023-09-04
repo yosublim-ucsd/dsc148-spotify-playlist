@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,018 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,032 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 97 | [They Don't Know Us \- Piano Version](https://open.spotify.com/track/5t7NI9WuLyDMHafulqpOps) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [They Don't Know Us \(Piano Version\)](https://open.spotify.com/album/4rJ12YsAzupoxuVaJYJAh0) | 3:21 |
 | 98 | [Hear Me Say \- Acoustic](https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say \(Acoustic\)](https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0) | 2:29 |
 | 99 | [Finest Hour \(feat\. Abir\) \- Acoustic Version](https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Acoustic Collection \(Vol\. 1\)](https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk) | 3:01 |
-| 100 | [Don't Forget My Love \- Acoustic](https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:14 |
+| 100 | [Waiting \- Strings & Vocals Mix](https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Starting Fires](https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM) | 3:49 |
 
-Snapshot ID: `MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz`
+Snapshot ID: `MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0`

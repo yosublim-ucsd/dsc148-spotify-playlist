@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,396 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,433 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 35 | [Para Guy](https://open.spotify.com/track/3zjgCju28uNvdHAp6zSvIY) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Probe 6\-8](https://open.spotify.com/album/7ipY0pDn2DQBP8F3q8wC2a) | 5:43 |
 | 36 | [The Secret Garden](https://open.spotify.com/track/0I500KXvf7ecFdSbd2lQtR) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [Secret Garden](https://open.spotify.com/album/7Lhvt5nCdHqiKy07HgDWFd) | 4:41 |
 | 37 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
-| 38 | [Last Earth](https://open.spotify.com/track/553pFfksyASLhP9Px67yNv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 2:19 |
-| 39 | [Circle 18](https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Full Circle](https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI) | 2:48 |
+| 38 | [Circle 18](https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Full Circle](https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI) | 2:48 |
+| 39 | [Last Earth](https://open.spotify.com/track/553pFfksyASLhP9Px67yNv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 2:19 |
 | 40 | [Starethrough \- Transition Mix](https://open.spotify.com/track/4qw5WvVi7DlNHPHzPJw7Gg) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [St / Fr / Sp](https://open.spotify.com/album/7xQw1IQBc2PSKpWrXumt3w) | 5:04 |
 | 41 | [Becoming Ferromagnetic](https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Becoming Ferromagnetic](https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ) | 5:28 |
-| 42 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
+| 42 | [Together in Static](https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Together in Static](https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf) | 2:35 |
 | 43 | [Deine Augen](https://open.spotify.com/track/0NUhOwhK0N6M0bVa8OSHbc) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Open Space Volume 1](https://open.spotify.com/album/4P7MM9wLkv3pZIeA79ti8N) | 5:16 |
-| 44 | [Together in Static](https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Together in Static](https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf) | 2:35 |
+| 44 | [Park Line](https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:11 |
 | 45 | [A man with two watches](https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Sollbruchstelle 1\-3](https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo) | 5:11 |
 | 46 | [Dissolution](https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Journey To The Underworld EP](https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB) | 6:29 |
 | 47 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 50 | [Monolake](https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE) | [JB Dunckel](https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Mirages](https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT) | 7:40 |
 | 51 | [My Birthday Suit](https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob) | [Hexsystem](https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh) | [My Birthday Suit](https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX) | 3:45 |
 | 52 | [Vu Hijera](https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Vu Hijera](https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC) | 4:21 |
-| 53 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
-| 54 | [Sonic Winds](https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY) | [Patrick Zelinski](https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K), [Karl Edh](https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K), [Ryan Dimmock](https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY) | [Sonic Winds](https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z) | 2:46 |
-| 55 | [Bright\-eyed Hunger \- Kaitlyn Aurelia Smith Remix](https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Bright\-eyed Hunger \(Kaitlyn Aurelia Smith Remix\)](https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9) | 3:12 |
-| 56 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
+| 53 | [Sonic Winds](https://open.spotify.com/track/7irEa6Ho06a8jzFHiaeMVY) | [Patrick Zelinski](https://open.spotify.com/artist/3aO62ba1Nshyxrde8Xl34K), [Karl Edh](https://open.spotify.com/artist/3u9sMHkflBCzImVRg3qz6K), [Ryan Dimmock](https://open.spotify.com/artist/65WnZtOZVExOO0YRCPjEZY) | [Sonic Winds](https://open.spotify.com/album/0vO5XNRwzAfUmGcgjgg75Z) | 2:46 |
+| 54 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 |
+| 55 | [Approximate Bermeja](https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J) | [Sounds From Phantom Islands](https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI) | 3:09 |
+| 56 | [Bright\-eyed Hunger \- Kaitlyn Aurelia Smith Remix](https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Bright\-eyed Hunger \(Kaitlyn Aurelia Smith Remix\)](https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9) | 3:12 |
 | 57 | [Tanto](https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Tanto](https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm) | 3:36 |
 | 58 | [The Hermit](https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [full/new](https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU) | 7:32 |
 | 59 | [Organic](https://open.spotify.com/track/194j607XLGLXSFe8Higlac) | [Nadia Struiwigh](https://open.spotify.com/artist/4iQwTFjXjNOKncBABz0FAQ) | [Pax Aurora](https://open.spotify.com/album/5taSxE1CYEDgJhm6iYFzML) | 6:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Interlude 03](https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t) | [Farsi](https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M) | [Interlude 03](https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl) | 3:19 |
 | 75 | [Raum \- Single Edit](https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Raum \(Single Edit\)](https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA) | 7:22 |
 
-Snapshot ID: `MCw4ZDczY2FkOGJhZTUzMzYwOTcwMzBkZjJjZDBkZjIyNjBmZGZhMzNk`
+Snapshot ID: `MCxiMWE0ZmY4OWZlYjVmYWY4MzQ2MjdkMDQ0MWYwMjhiZDhkYTFlOWNl`

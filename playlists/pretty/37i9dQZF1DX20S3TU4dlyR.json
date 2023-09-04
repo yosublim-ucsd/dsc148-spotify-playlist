@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 54725,
+  "num_followers": 54748,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDQyYWZiNTNjMzkxYzk5NThmY2E3NTM2ZmI4ZTFmNzk0ODhlMDM1",
+  "snapshot_id": "MCwyMGEwYzdhZWU1NTZjMjIyODM3ZDEyOGEzNDU0NGUwMWJmNDhmNTYz",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
         }
       ],
-      "duration_ms": 202680,
-      "name": "Lo De Siempre",
-      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+      "duration_ms": 435040,
+      "name": "The Chicken",
+      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2"
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
       "artists": [
         {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 435040,
-      "name": "The Chicken",
-      "url": "https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc"
+      "duration_ms": 202680,
+      "name": "Lo De Siempre",
+      "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Aroma de Caf\u00e9",
-        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
-      },
-      "artists": [
-        {
-          "name": "Laguna Pai",
-          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
-        }
-      ],
-      "duration_ms": 254085,
-      "name": "Aroma de Caf\u00e9",
-      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Rockin'",
         "url": "https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 208563,
       "name": "Revolution Rock",
       "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Aroma de Caf\u00e9",
+        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "duration_ms": 254085,
+      "name": "Aroma de Caf\u00e9",
+      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1115,18 +1115,30 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "SIG RAGGA (Remaster 2023)",
-        "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
+        "name": "Raices y Cultura",
+        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
       },
       "artists": [
         {
-          "name": "Sig Ragga",
-          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
+          "name": "Lumumba Oficial",
+          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Amilcar Nadal",
+          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
+        },
+        {
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
         }
       ],
-      "duration_ms": 308980,
-      "name": "Resistencia ind\u00edgena - Remaster 2023",
-      "url": "https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr"
+      "duration_ms": 281920,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1163,18 +1175,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Como la Flor",
-        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
+        "name": "SIG RAGGA (Remaster 2023)",
+        "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "Sig Ragga",
+          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
         }
       ],
-      "duration_ms": 209007,
-      "name": "Como la Flor",
-      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
+      "duration_ms": 308980,
+      "name": "Resistencia ind\u00edgena - Remaster 2023",
+      "url": "https://open.spotify.com/track/4t0KYfzyrMx40Vr7jXCRYr"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1215,30 +1227,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Raices y Cultura",
-        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
+        "name": "Como la Flor",
+        "url": "https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW"
       },
       "artists": [
         {
-          "name": "Lumumba Oficial",
-          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "Amilcar Nadal",
-          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
-        },
-        {
-          "name": "Pablo Molina",
-          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 281920,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
+      "duration_ms": 209007,
+      "name": "Como la Flor",
+      "url": "https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1295,38 +1295,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+        "name": "Radiante",
+        "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Primaveras",
-        "url": "https://open.spotify.com/album/6YSYJyoNdNOFzZnSf88soO"
-      },
-      "artists": [
-        {
-          "name": "Toby Deltin",
-          "url": "https://open.spotify.com/artist/5NWVeyZSNXkufVv5W5xNDr"
+          "name": "De Bruces A Mi",
+          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
         },
         {
-          "name": "La Skandalosa Tripulaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G"
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Primaveras",
-      "url": "https://open.spotify.com/track/38WEdyXzzj63zhClgLaUgq"
+      "duration_ms": 189806,
+      "name": "Mi Dulce Amor",
+      "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1391,6 +1375,26 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Primaveras",
+        "url": "https://open.spotify.com/album/6YSYJyoNdNOFzZnSf88soO"
+      },
+      "artists": [
+        {
+          "name": "Toby Deltin",
+          "url": "https://open.spotify.com/artist/5NWVeyZSNXkufVv5W5xNDr"
+        },
+        {
+          "name": "La Skandalosa Tripulaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Primaveras",
+      "url": "https://open.spotify.com/track/38WEdyXzzj63zhClgLaUgq"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Emocionado",
         "url": "https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz"
       },
@@ -1407,6 +1411,22 @@
       "duration_ms": 250243,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1463,22 +1483,18 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Radiante",
-        "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
       },
       "artists": [
         {
-          "name": "De Bruces A Mi",
-          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
-        },
-        {
-          "name": "Pablo Molina",
-          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
         }
       ],
-      "duration_ms": 189806,
-      "name": "Mi Dulce Amor",
-      "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1499,22 +1515,6 @@
       "duration_ms": 258000,
       "name": "Cerquita",
       "url": "https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2023-08-18 03:00:00",

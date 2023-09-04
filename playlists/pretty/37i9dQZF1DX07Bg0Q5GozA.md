@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Poolside
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,813 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,887 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [You Knew \- Edit](https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 2:55 |
 | 75 | [LOSER](https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [LOSER](https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA) | 3:44 |
 
-Snapshot ID: `MCxlZWNkY2JmZTIyZjI1MjQwN2MzZmM5MWM1Y2U3MzVlODhmNWZkY2I1`
+Snapshot ID: `MCwzNTJjNjM4NWI4ZjkxOGNhMmYxNjQwOGY3NWYwNzk5M2ZmMmRjOTQ3`

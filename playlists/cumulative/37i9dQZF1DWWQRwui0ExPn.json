@@ -12948,7 +12948,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 123581,
       "name": "bookmark",
       "url": "https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9"
@@ -20124,7 +20124,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 124234,
       "name": "Coffe grounds",
       "url": "https://open.spotify.com/track/7mXOjrQm3DrSACUa5TE3Qh"
@@ -52140,7 +52140,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 183000,
       "name": "Keep It Meta",
       "url": "https://open.spotify.com/track/73fERCJHbwaSTAQCM3qI3M"
@@ -53438,7 +53438,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 101750,
       "name": "La Nuit",
       "url": "https://open.spotify.com/track/40ZJH9ND1c8PUjQE7XfwoZ"
@@ -64582,7 +64582,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 133287,
       "name": "Monkman",
       "url": "https://open.spotify.com/track/2BuDfMOaNkJ9HRqQskDSJw"
@@ -88862,7 +88862,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 106571,
       "name": "Sleepwalk Rework",
       "url": "https://open.spotify.com/track/6YfjhPykCedcc6KbRBNH2L"
@@ -98778,7 +98778,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 136322,
       "name": "tasogare",
       "url": "https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM"
@@ -111740,7 +111740,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 118500,
       "name": "Wild Dreams",
       "url": "https://open.spotify.com/track/4lke2maACdsWr6iYXJAfQd"

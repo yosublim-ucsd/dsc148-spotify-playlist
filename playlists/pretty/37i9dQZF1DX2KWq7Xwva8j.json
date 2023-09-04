@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 23078,
+  "num_followers": 23101,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjA4MzY3NDI2NTM4YmIxZjQwZDU2ZTM3ZjMzYWNiODk4MzEzYWNk",
+  "snapshot_id": "MCxlOGMxYjYxYzQxZmEzNjYxYzZiZmFmNTg1OWFjZjNhMjg2NzI1Mzg3",
   "tracks": [
     {
       "added_at": "2023-08-28 15:13:51",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
+        "name": "si tiene que ser ser\u00e1.",
+        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 201998,
+      "name": "si tiene que ser ser\u00e1.",
+      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
-        "name": "si tiene que ser ser\u00e1.",
-        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
+        "name": "Quiero Q Me Tat\u00faes",
+        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
       },
       "artists": [
         {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 201998,
-      "name": "si tiene que ser ser\u00e1.",
-      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
+      "duration_ms": 150428,
+      "name": "Quiero Q Me Tat\u00faes",
+      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -387,22 +403,6 @@
       "duration_ms": 173721,
       "name": "Desastre de persona",
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
-        "name": "Quiero Q Me Tat\u00faes",
-        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 150428,
-      "name": "Quiero Q Me Tat\u00faes",
-      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
     },
     {
       "added_at": "2023-08-28 15:13:51",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-08-28 15:13:51",
       "album": {
-        "name": "favorita",
-        "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
-      },
-      "artists": [
-        {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        },
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 127634,
-      "name": "favorita",
-      "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
-    },
-    {
-      "added_at": "2023-08-28 15:13:51",
-      "album": {
         "name": "NO ME PASA NADA",
         "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 160000,
       "name": "Nada ha cambiado",
       "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
+    },
+    {
+      "added_at": "2023-08-28 15:13:51",
+      "album": {
+        "name": "favorita",
+        "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "duration_ms": 127634,
+      "name": "favorita",
+      "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
     },
     {
       "added_at": "2023-08-28 15:13:51",

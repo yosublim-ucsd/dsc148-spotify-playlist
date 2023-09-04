@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 191770,
+  "num_followers": 191874,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWMyMzBiMTUzNzQ3MjE2ZDAxM2ZkZTc4YWJhMmYxNjZkMWMzN2E5",
+  "snapshot_id": "MCxmYzY0NzI5M2FkMTJlMTVmNDc0MGY4MjAwODU5YmJmNGQxY2QxNTQx",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -391,26 +391,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Small Craft On A Milk Sea",
-        "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
+        "name": "Kindness",
+        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 132306,
-      "name": "Emerald and Stone",
-      "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
+      "duration_ms": 156069,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -447,18 +439,26 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Kindness",
-        "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
+        "name": "Small Craft On A Milk Sea",
+        "url": "https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Leo Abrahams",
+          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
         }
       ],
-      "duration_ms": 156069,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
+      "duration_ms": 132306,
+      "name": "Emerald and Stone",
+      "url": "https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Anything in Return",
-        "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 285973,
-      "name": "So Many Details",
-      "url": "https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 299448,
       "name": "Way Ur Touchin Me",
       "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Anything in Return",
+        "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 285973,
+      "name": "So Many Details",
+      "url": "https://open.spotify.com/track/1YpRBLuUWsdahTFhZr9pwK"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "I Become A Shade",
-        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
-      },
-      "artists": [
-        {
-          "name": "Seoul",
-          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
-        }
-      ],
-      "duration_ms": 237945,
-      "name": "Stay With Us",
-      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "I Become A Shade",
+        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
+      },
+      "artists": [
+        {
+          "name": "Seoul",
+          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
+        }
+      ],
+      "duration_ms": 237945,
+      "name": "Stay With Us",
+      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Saw You for the First Time",
+        "url": "https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 404630,
+      "name": "Saw You for the First Time",
+      "url": "https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
-      },
-      "artists": [
-        {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
       },
@@ -1163,6 +1163,22 @@
       "duration_ms": 246706,
       "name": "Kodomotachi",
       "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
+      },
+      "artists": [
+        {
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1299,22 +1315,6 @@
       "duration_ms": 304144,
       "name": "Camille",
       "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Saw You for the First Time",
-        "url": "https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 404630,
-      "name": "Saw You for the First Time",
-      "url": "https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Love In The Time Of Lexapro",
+        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 246129,
+      "name": "Love In The Time Of Lexapro",
+      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Not For Threes",
         "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Love In The Time Of Lexapro",
-        "url": "https://open.spotify.com/album/66KiYNDdmJ8h7KvDSwRCR0"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 246129,
-      "name": "Love In The Time Of Lexapro",
-      "url": "https://open.spotify.com/track/2C3ssFGH4NoGIUp9YkHK2Q"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Themes for a New Earth",
         "url": "https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Cerulean",
-        "url": "https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au"
-      },
-      "artists": [
-        {
-          "name": "Baths",
-          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "\u2665",
-      "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Lost My Body (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 167986,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "\u2665",
+      "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Encores 2",
-        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Talisman",
-      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "no world",
         "url": "https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 221306,
       "name": "the place",
       "url": "https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
     },
     {
       "added_at": "2022-02-03 02:43:26",

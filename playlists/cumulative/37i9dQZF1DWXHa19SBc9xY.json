@@ -184,10 +184,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 177344,
       "name": "Amor das Minhas Vidas",
       "url": "https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb"
+    },
+    {
+      "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177344,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/7l7ZSYbgknFV6GBNH26T5x"
     },
     {
       "album": {
@@ -1541,6 +1563,28 @@
     },
     {
       "album": {
+        "name": "V\u00e1rias Ondas",
+        "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182587,
+      "name": "Som de Alceu",
+      "url": "https://open.spotify.com/track/06bUzFuTRlBuFz8QvkgAY6"
+    },
+    {
+      "album": {
         "name": "Som de Alceu",
         "url": "https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA"
       },
@@ -1578,7 +1622,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/6ZMrnPndAh1UdZsHBAbAQo"

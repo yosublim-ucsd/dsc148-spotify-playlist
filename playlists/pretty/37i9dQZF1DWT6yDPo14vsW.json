@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 309493,
+  "num_followers": 309567,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzM2MTY3MDA5ZjNiMWM3ZmZhMzJlOGRkYzUxZWE1NjZjM2UwOWFi",
+  "snapshot_id": "MCw1OTU2YmI2NjVhMTAxYmI5NDYxYzBlMzEzYzY5OTNmYmFjMGMyMTlh",
   "tracks": [
     {
       "added_at": "2023-08-29 12:59:50",
@@ -1587,54 +1587,6 @@
     {
       "added_at": "2023-08-29 12:59:50",
       "album": {
-        "name": "S\u00f3lo Para Mujeres",
-        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 301906,
-      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
-      "url": "https://open.spotify.com/track/2JvYDGWN21QQOdtUlRdg7w"
-    },
-    {
-      "added_at": "2023-08-29 12:59:50",
-      "album": {
-        "name": "Ida y Vuelta",
-        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/6OQlWTI5sHyahqP8WnQSnD"
-    },
-    {
-      "added_at": "2023-08-29 12:59:50",
-      "album": {
-        "name": "Un Cigarro",
-        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Un Cigarro",
-      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
-    },
-    {
-      "added_at": "2023-08-29 12:59:50",
-      "album": {
         "name": "Rebels",
         "url": "https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA"
       },
@@ -1671,6 +1623,54 @@
       "duration_ms": 280440,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/2EnlBJQ6ZcndUmsI8ZrJjI"
+    },
+    {
+      "added_at": "2023-08-29 12:59:50",
+      "album": {
+        "name": "Ida y Vuelta",
+        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/6OQlWTI5sHyahqP8WnQSnD"
+    },
+    {
+      "added_at": "2023-08-29 12:59:50",
+      "album": {
+        "name": "Un Cigarro",
+        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Un Cigarro",
+      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
+    },
+    {
+      "added_at": "2023-08-29 12:59:50",
+      "album": {
+        "name": "S\u00f3lo Para Mujeres",
+        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 301906,
+      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
+      "url": "https://open.spotify.com/track/2JvYDGWN21QQOdtUlRdg7w"
     },
     {
       "added_at": "2023-08-29 12:59:50",

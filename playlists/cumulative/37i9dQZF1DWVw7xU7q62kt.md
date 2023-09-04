@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-105 songs - 5 hr 45 min
+106 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2023-08-22 |  |
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2023-08-22 |  |
 | [Dominoes](https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM) | [moondiver](https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp) | [Dominoes](https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB) | 4:20 | 2023-08-22 |  |
+| [Doomed](https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Doomed](https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P) | 4:32 | 2023-08-31 |  |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2023-08-22 |  |
 | [Dunt Dunt](https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw) | [Graeme Gengras](https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq) | [Dunt Dunt](https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp) | 4:29 | 2023-08-22 |  |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 |  |
@@ -47,7 +48,7 @@
 | [Hypnagogia Wakefull Dreams](https://open.spotify.com/track/2VvDKx7lzdarObpQFn1iAh) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Hypnagogia Wakefull Dreams](https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv) | 2:18 | 2023-08-22 |  |
 | [i remember this picture](https://open.spotify.com/track/7zbUE5XSMaHqMIAu1yqU54) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [i remember this picture](https://open.spotify.com/album/7kPMtDGlSbbfXtJP0rQ22q) | 3:33 | 2023-08-22 |  |
 | [Icebreaker](https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR) | [loophole](https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE) | [Royal Sessions](https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6) | 5:15 | 2023-08-22 |  |
-| [In The Sky: Expansion](https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [In The Sky: Expansion](https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6) | 6:24 | 2023-08-25 |  |
+| [In The Sky: Expansion](https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [In The Sky: Expansion](https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6) | 6:24 | 2023-08-25 | 2023-09-04 |
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2023-08-22 | 2023-08-26 |
 | [Inside Out](https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 5:21 | 2023-08-22 |  |
 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 | 2023-08-22 |  |

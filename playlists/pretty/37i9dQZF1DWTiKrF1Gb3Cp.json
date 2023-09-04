@@ -1,12 +1,12 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 159102,
+  "num_followers": 159210,
   "original_name": "Gaming Malandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTBkNWY1OTk2MWRlYmM4MWI0MjQ5ZDI4ZWNmZjQxZjViZjk4MTI4",
+  "snapshot_id": "MCw4MzA2MzJiYWM0YTY1OGU5ZWQ3ZTkxZTQ4OWI1NWNlN2YxM2E3OTdi",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Se Rumora",
+        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 252923,
+      "name": "Se Rumora",
+      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Estoy Bien Loco",
         "url": "https://open.spotify.com/album/63uaLug81UDXYtuHTJk77O"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 307826,
       "name": "Estoy Bien Loco",
       "url": "https://open.spotify.com/track/5u4XgdTpI3KAymxn9LZQxn"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Se Rumora",
-        "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 252923,
-      "name": "Se Rumora",
-      "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
     },
     {
       "added_at": "2023-09-01 06:00:00",

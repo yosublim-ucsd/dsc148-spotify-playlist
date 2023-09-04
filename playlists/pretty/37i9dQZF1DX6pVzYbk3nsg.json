@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2530,
+  "num_followers": 2536,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWNhZDYyZjgyYjAzNjgxYmNhYjJmNTViNjJiNWE0Y2IwZTQyZDli",
+  "snapshot_id": "MCw5ZDkxMDFkN2FjODM3ZDRlMDA2MmUzZTcyMDAyYTRlYTNiM2UwYzVj",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 125493,
-      "name": "Rule Sonda",
-      "url": "https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Plena Combativa",
         "url": "https://open.spotify.com/album/0hueG0Ly9bLV4qkJQ43iuD"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 299282,
       "name": "El Tumbe",
       "url": "https://open.spotify.com/track/0sq6x0JCaqJylE0yGQXCoH"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 125493,
+      "name": "Rule Sonda",
+      "url": "https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
         }
       ],
-      "duration_ms": 331102,
-      "name": "Plenazo Callejero 1",
-      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
+      "duration_ms": 451500,
+      "name": "Plenazo Callejero 2",
+      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
         }
       ],
-      "duration_ms": 451500,
-      "name": "Plenazo Callejero 2",
-      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
+      "duration_ms": 331102,
+      "name": "Plenazo Callejero 1",
+      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Candela!",
-        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
+        "name": "Regalo de Navidad",
+        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
       },
       "artists": [
         {
-          "name": "F\u00e9lix Aldu\u00e9n",
-          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
+          "name": "Gary Nu\u00f1ez & Plena Libre",
+          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
         }
       ],
-      "duration_ms": 260946,
-      "name": "Ola de la Mar",
-      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
+      "duration_ms": 411213,
+      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
+      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Regalo de Navidad",
-        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
+        "name": "Candela!",
+        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
       },
       "artists": [
         {
-          "name": "Gary Nu\u00f1ez & Plena Libre",
-          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
+          "name": "F\u00e9lix Aldu\u00e9n",
+          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
         }
       ],
-      "duration_ms": 411213,
-      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
-      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
+      "duration_ms": 260946,
+      "name": "Ola de la Mar",
+      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
-        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
-      },
-      "artists": [
-        {
-          "name": "Yuba Ire",
-          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Inyere",
-      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 157720,
       "name": "Meli Ton Ton Be",
       "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "\u00a1Ya est\u00e1! \u00a1Se form\u00f3!",
+        "url": "https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR"
+      },
+      "artists": [
+        {
+          "name": "Yuba Ire",
+          "url": "https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Inyere",
+      "url": "https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Org\u00e1nico y Medicinal",
-        "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
-      },
-      "artists": [
-        {
-          "name": "Totin Agosto Arar\u00e1 y la Liga Rumbera",
-          "url": "https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7"
-        }
-      ],
-      "duration_ms": 300674,
-      "name": "La Revoluci\u00f3n (A la Calle Plenero)",
-      "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 150333,
       "name": "Yuba La Marile",
       "url": "https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Org\u00e1nico y Medicinal",
+        "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
+      },
+      "artists": [
+        {
+          "name": "Totin Agosto Arar\u00e1 y la Liga Rumbera",
+          "url": "https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7"
+        }
+      ],
+      "duration_ms": 300674,
+      "name": "La Revoluci\u00f3n (A la Calle Plenero)",
+      "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
     },
     {
       "added_at": "2023-06-13 22:15:19",

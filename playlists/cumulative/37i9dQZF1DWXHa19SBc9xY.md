@@ -4,7 +4,7 @@
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-94 songs - 5 hr 5 min
+96 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Alto Mar](https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX) | 3:17 | 2023-06-23 | 2023-09-02 |
 | [Amanheceu \- Acústico](https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Amanheceu \(Acústico\)](https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM) | 3:16 | 2023-06-23 |  |
 | [Amor das Minhas Vidas](https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx) | 2:57 | 2023-06-23 | 2023-07-22 |
-| [Amor das Minhas Vidas](https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/68Zi74w773Mc5YppklyzpI) | 2:57 | 2023-06-23 |  |
+| [Amor das Minhas Vidas](https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/68Zi74w773Mc5YppklyzpI) | 2:57 | 2023-06-23 | 2023-09-04 |
+| [Amor das Minhas Vidas](https://open.spotify.com/track/7l7ZSYbgknFV6GBNH26T5x) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Várias Ondas](https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam) | 2:57 | 2023-09-02 |  |
 | [Andar Leve](https://open.spotify.com/track/1k7JIu0DZnqZLFdyAX5M8Q) | [TNS](https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Andar Leve](https://open.spotify.com/album/5lSm4daHxqP9Ktfkbvic3f) | 2:45 | 2023-06-23 |  |
 | [Apesar de Querer](https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Abacaxepa](https://open.spotify.com/artist/37YBTVhchsMr6ekdUHEKRy) | [Apesar de Querer](https://open.spotify.com/album/3JoqTBAWi9gnEt3UlNHZiR) | 4:04 | 2023-06-23 |  |
 | [Aroeira](https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s) | [Murilo Chester](https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU), [Casa Amarela](https://open.spotify.com/artist/0WpQ43GRHEtGhC913ZwXYs) | [Aroeira](https://open.spotify.com/album/2UgKurYZr5NjpgWfmWKyMb) | 2:53 | 2023-06-23 |  |
@@ -84,8 +85,9 @@
 | [samba do moço bonito](https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [samba do moço bonito](https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ) | 3:17 | 2023-06-23 |  |
 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 | 2023-06-23 |  |
 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 | 2023-06-23 |  |
+| [Som de Alceu](https://open.spotify.com/track/06bUzFuTRlBuFz8QvkgAY6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Várias Ondas](https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam) | 3:02 | 2023-09-02 |  |
 | [Som de Alceu](https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA) | 3:02 | 2023-06-23 | 2023-07-21 |
-| [Som de Alceu](https://open.spotify.com/track/6ZMrnPndAh1UdZsHBAbAQo) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/7uabBRzUh7Mv3zQIEq8StJ) | 3:02 | 2023-06-23 |  |
+| [Som de Alceu](https://open.spotify.com/track/6ZMrnPndAh1UdZsHBAbAQo) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/7uabBRzUh7Mv3zQIEq8StJ) | 3:02 | 2023-06-23 | 2023-09-04 |
 | [Somos Instantes \- Acústico](https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Somos Instantes \(Acústico\)](https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd) | 3:44 | 2023-06-23 |  |
 | [Sorriso De Agogô](https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Sorriso De Agogô](https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9) | 3:16 | 2023-06-23 |  |
 | [Sou Daqui](https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV) | [Sou Daqui](https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O) | 3:28 | 2023-06-23 |  |

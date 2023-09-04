@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 7823,
+  "num_followers": 7848,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWMyOTg1MTY0ZmY5MzEwNWU4OTc5ZjZiYzFjNTI5ZDI2OTBmZjVk",
+  "snapshot_id": "MCwzMTVmYWFiMGUzZTM4NTA3ZDZhZDViNjY2NzFlYmJmZDhhMmU4MTll",
   "tracks": [
     {
       "added_at": "2023-06-19 08:59:16",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "3D Audio Textures of Waves",
-        "url": "https://open.spotify.com/album/27CDKjjwubPm4ZAQVNqsPq"
-      },
-      "artists": [
-        {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
-        }
-      ],
-      "duration_ms": 280336,
-      "name": "Close to the Shores",
-      "url": "https://open.spotify.com/track/243lmQ66EFqpi10PJa5JU4"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Nature Sleep",
         "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
       },
@@ -411,18 +395,34 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Coastal Clifftop Waves",
-        "url": "https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj"
+        "name": "3D Audio Textures of Waves",
+        "url": "https://open.spotify.com/album/27CDKjjwubPm4ZAQVNqsPq"
       },
       "artists": [
         {
-          "name": "Seas of Dreams",
-          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
         }
       ],
-      "duration_ms": 187392,
-      "name": "Cave Mouth Tide",
-      "url": "https://open.spotify.com/track/4reNcBdaouUlAzAtVK5zgC"
+      "duration_ms": 280336,
+      "name": "Close to the Shores",
+      "url": "https://open.spotify.com/track/243lmQ66EFqpi10PJa5JU4"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Sunday Night Waves",
+        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+      },
+      "artists": [
+        {
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+        }
+      ],
+      "duration_ms": 180777,
+      "name": "Calm Pouring Ocean",
+      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Sunday Night Waves",
-        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+        "name": "Coastal Clifftop Waves",
+        "url": "https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj"
       },
       "artists": [
         {
-          "name": "Microdynamic Recordings",
-          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
         }
       ],
-      "duration_ms": 180777,
-      "name": "Calm Pouring Ocean",
-      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
+      "duration_ms": 187392,
+      "name": "Cave Mouth Tide",
+      "url": "https://open.spotify.com/track/4reNcBdaouUlAzAtVK5zgC"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
+        "name": "Beside the sea",
+        "url": "https://open.spotify.com/album/5HvCBTCUytZGRUKKcsfdQ8"
+      },
+      "artists": [
+        {
+          "name": "D-Scartes",
+          "url": "https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Fury of the waves",
+      "url": "https://open.spotify.com/track/1UgfZYJL9nhgR0TCUqgiNB"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
         "name": "Luscious Waves",
         "url": "https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 168000,
       "name": "Luscious Waves",
       "url": "https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
-        "name": "Part One",
-        "url": "https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol"
-      },
-      "artists": [
-        {
-          "name": "Exotic Wave Sounds",
-          "url": "https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Powerful Waves",
-      "url": "https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Ocean Waves Volume 2",
-        "url": "https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR"
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol"
       },
       "artists": [
         {
-          "name": "Surrounded by Sound",
-          "url": "https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i"
+          "name": "Exotic Wave Sounds",
+          "url": "https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N"
         }
       ],
-      "duration_ms": 158830,
-      "name": "Windy Beach 3",
-      "url": "https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U"
+      "duration_ms": 210000,
+      "name": "Powerful Waves",
+      "url": "https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv"
     },
     {
       "added_at": "2023-06-19 08:59:16",

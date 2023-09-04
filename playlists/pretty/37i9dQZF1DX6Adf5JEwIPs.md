@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Yuridia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,782 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,947 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 23 | [La Sombra Del Viejo](https://open.spotify.com/track/0aLAXQ1OQwWTQZv7buRofh) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Sombra Del Viejo](https://open.spotify.com/album/2hIgpeSgClG0ge9ONRQqE5) | 3:05 |
 | 24 | [El de la Manada](https://open.spotify.com/track/2rBISecvzclvBcNlF8QlAj) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [El de La Manada](https://open.spotify.com/album/10tNzzYYMHW874eGxwD0FH) | 4:06 |
 | 25 | [VETE](https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [VETE](https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU) | 3:27 |
-| 26 | [Buenos Gustos](https://open.spotify.com/track/0qubl2XDk1yLwTL6lYUq7I) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Buenos Gustos](https://open.spotify.com/album/2zYVbxPJpVrdEl5dEBcGnP) | 3:09 |
+| 26 | [Buenos Gustos](https://open.spotify.com/track/0qubl2XDk1yLwTL6lYUq7I) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Buenos Gustos](https://open.spotify.com/album/2zYVbxPJpVrdEl5dEBcGnP) | 3:10 |
 | 27 | [Sigues Siendo Tú](https://open.spotify.com/track/4gITyhCjJzAnoMk06bXodN) | [Sofi Saar](https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Sigues Siendo Tú](https://open.spotify.com/album/14m3LBc5VPxkbdUiK8TewF) | 3:04 |
 | 28 | [Mi Ranchito](https://open.spotify.com/track/2G5oALhCFdtyX2f21RFjAh) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Mi Ranchito](https://open.spotify.com/album/6UVu1KkkBpNHqdmVWQBNXb) | 2:19 |
 | 29 | [Corro A Tus Brazos](https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Corro A Tus Brazos](https://open.spotify.com/album/31MyEJ9tC42clCwri2yMQG) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Amor Clandestino \- Versión Regional Mexicano](https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:47 |
 | 50 | [Poema](https://open.spotify.com/track/7zVTdnX7aoY8GVaIuE9nba) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poema](https://open.spotify.com/album/0osplrvbNNJVytqdKm61dH) | 2:53 |
 
-Snapshot ID: `MCw0YjkxYzgyODIzMDhhNjI1Y2E0MDAzYzBjOGZjMmU4OTEyZjhiMjY3`
+Snapshot ID: `MCw1ZDFjZjk3YmUwOTA2N2NlZjMxZjljZjQ0OWE1YmYyOTZjZjJmMjNk`

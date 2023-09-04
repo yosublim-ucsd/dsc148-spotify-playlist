@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 236106,
       "name": "Contorted Monuments",
       "url": "https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI"
@@ -3560,7 +3560,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 221208,
       "name": "Here Comes Sorrow",
       "url": "https://open.spotify.com/track/0EJSNATWy8zZ2UTplre7wb"
@@ -5702,7 +5702,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 164500,
       "name": "Oppressing Compassion",
       "url": "https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L"
@@ -8146,6 +8146,28 @@
       "duration_ms": 369760,
       "name": "Transilvanian Hunger - Studio",
       "url": "https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r"
+    },
+    {
+      "album": {
+        "name": "Twilight of the Machines",
+        "url": "https://open.spotify.com/album/4Mm90xb15scrI73m78fDjt"
+      },
+      "artists": [
+        {
+          "name": "Heretoir",
+          "url": "https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar"
+        },
+        {
+          "name": "Austere",
+          "url": "https://open.spotify.com/artist/07fs2bGSWU8zKACi9dIF9k"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514120,
+      "name": "Twilight of the Machines",
+      "url": "https://open.spotify.com/track/77k1IEFrNcRNng2bskQOMN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-60 songs - 3 hr 28 min
+61 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Porto Alegre](https://open.spotify.com/track/33Y1jukFR76pj7TXFTHQBJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Revanche](https://open.spotify.com/album/6SH5RNO347OXTrPndPUj52) | 3:47 | 2023-03-02 |  |
 | [Quebre As Correntes](https://open.spotify.com/track/0tu6BHa46Jb0Hah7QzRMBk) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 3:46 | 2023-03-02 |  |
 | [Quente](https://open.spotify.com/track/7ps1PDz7k02LnPNFsyprTo) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Saúde](https://open.spotify.com/album/18qL4P3zNK4SsXE237lFGO) | 2:29 | 2023-03-02 |  |
-| [Razões E Emoções](https://open.spotify.com/track/4w0UUctedmEbrpUtlrHuaN) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:42 | 2023-03-02 |  |
+| [Razões E Emoções](https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:42 | 2023-03-02 |  |
+| [Razões E Emoções](https://open.spotify.com/track/4w0UUctedmEbrpUtlrHuaN) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:42 | 2023-03-02 | 2023-09-04 |
 | [Se Essas Paredes Falassem](https://open.spotify.com/track/6EBuhDXGEe8ZPDR8WuuieN) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 3:27 | 2023-03-02 |  |
 | [Se For pra Tudo Dar Errado](https://open.spotify.com/track/179NUF6b8tzp3Ni2aMGxgU) | [Tópaz](https://open.spotify.com/artist/2iiIiebCQqwrwCqARl4Q3A) | [Onze Nós](https://open.spotify.com/album/0FGNiPVp4mz4Az7EJdfWQ5) | 3:51 | 2023-03-02 |  |
 | [Só mais uma vez](https://open.spotify.com/track/0rWn4OID3XS0ynCe3q5mUW) | [B5](https://open.spotify.com/artist/3Suq9dAvF3bHa1NYEbMXpN) | [Novo](https://open.spotify.com/album/3kNRC2TKN1BLGMtBe8Dp66) | 3:17 | 2023-03-02 |  |

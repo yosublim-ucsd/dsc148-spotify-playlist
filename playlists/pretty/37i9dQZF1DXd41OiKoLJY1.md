@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: KV Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,936 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,942 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Kung Ikaw Ay Lalayo](https://open.spotify.com/track/43lnLp5LtC84sIRisV4GLL) | [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Kung Ikaw Ay Lalayo](https://open.spotify.com/album/3UFZrvE59KTO3odZnBGRmQ) | 3:50 |
 | 75 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 |
 
-Snapshot ID: `MCw2ZmQ1YjY5OTQ3Nzg1M2JkZjRlZTQ2YWU5NjAwYzNkNWM5ODllNTMx`
+Snapshot ID: `MCxiY2VkZmM0NDBjZmE1ZDE4MmZkOTVkNWM0YTY1MmVlMmE5MGJiZTA0`

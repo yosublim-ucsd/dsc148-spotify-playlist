@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Silvina Moreno",
-  "num_followers": 176847,
+  "num_followers": 176898,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2U2MmQyNWQ4ZmUyZTVkMjJjNzliNTUwODU3ZDU3YTM2Mjk5YzIw",
+  "snapshot_id": "MCw5OTFhNTgzMTIxN2RlODMzMjQ5MmIwZjA1MTU4MTg0MjAwNGE3OGVi",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "El Acustico",
+        "url": "https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR"
+      },
+      "artists": [
+        {
+          "name": "Memphis La Blusera",
+          "url": "https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "La \u00daltima L\u00e1grima",
+      "url": "https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Mil Noches y un Instante",
         "url": "https://open.spotify.com/album/1kt07hQEw33OnXo80aFMgu"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "El Acustico",
-        "url": "https://open.spotify.com/album/2SIzqRpTyyyW61LU3i7WSR"
+        "name": "Ac\u00fastico Gran Rex",
+        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
       },
       "artists": [
         {
-          "name": "Memphis La Blusera",
-          "url": "https://open.spotify.com/artist/55j4xUfI5AATqETp8AnrRp"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 276200,
-      "name": "La \u00daltima L\u00e1grima",
-      "url": "https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke"
+      "duration_ms": 276853,
+      "name": "Pasan las Horas - En Vivo Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -627,22 +643,6 @@
       "duration_ms": 185806,
       "name": "Amapolas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico Gran Rex",
-        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "Pasan las Horas - En Vivo Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/4fsolZF2A6KMYokByMvOQs"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 196044,
+      "name": "Nunca Quise",
+      "url": "https://open.spotify.com/track/6D9DeEzBK6sHfPyTd3p46l"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/5Tqt0IhJRkRnUzpI8MxSLk"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 186272,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/6mvzF3fcRrS231G8yN3BaN"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/4fsolZF2A6KMYokByMvOQs"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 196044,
-      "name": "Nunca Quise",
-      "url": "https://open.spotify.com/track/6D9DeEzBK6sHfPyTd3p46l"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Guerras (Un Viaje en el Tiempo)",
-        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "M\u00edrenla (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Ojos de R\u00edo",
         "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 136512,
       "name": "Ojos de R\u00edo",
       "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 265080,
+      "name": "M\u00edrenla (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "No Te Puedo Decir Que No",
-        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 183888,
-      "name": "No Te Puedo Decir Que No",
-      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 321433,
       "name": "Vasos Vac\u00edos",
       "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "No Te Puedo Decir Que No",
+        "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 183888,
+      "name": "No Te Puedo Decir Que No",
+      "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
     },
     {
       "added_at": "2023-09-01 03:00:00",

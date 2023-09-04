@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-885 songs - 2 day 13 hr 39 min
+886 songs - 2 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [I Didn't Know About You](https://open.spotify.com/track/0tiIQkcdPcECxqbS9dgDXx) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Blues\-a\-Plenty \(feat\. Ben Webster\) \[Bonus Track Version\]](https://open.spotify.com/album/5TIcHwhIh3kESyuHXA69r7) | 3:32 | 2022-04-14 | 2022-07-29 |
 | [I Didn't Know What Time It Was](https://open.spotify.com/track/5FpmRoCduqD28smrRs6mdl) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [WomanChild](https://open.spotify.com/album/5JE6HnCPJ9is6pnewMaaSe) | 6:07 | 2022-04-14 | 2022-09-30 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0Bp4wVlm9sA88tMtbDG29p) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [I Fall In Love Too Easily](https://open.spotify.com/album/7CVL1rAW47IhbxmNv2uM29) | 4:00 | 2023-03-09 | 2023-04-21 |
-| [I Fall in Love Too Easily](https://open.spotify.com/track/60L66fV1SJlht0MherVcfQ) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [I Fall in Love Too Easily](https://open.spotify.com/album/6Tz6CCxy9nH3T6cycfMQen) | 4:49 | 2023-08-31 |  |
+| [I Fall in Love Too Easily](https://open.spotify.com/track/60L66fV1SJlht0MherVcfQ) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [I Fall in Love Too Easily](https://open.spotify.com/album/6Tz6CCxy9nH3T6cycfMQen) | 4:49 | 2023-08-31 | 2023-09-04 |
 | [I Got It Bad](https://open.spotify.com/track/2Smeb5R5N2aCYAi7cIhema) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Rosario Giuliani](https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06) | [Duke's Dream](https://open.spotify.com/album/59TvEAv7zdGTO8Eu3oy52f) | 7:20 | 2022-04-14 | 2022-07-29 |
 | [I Got It Bad](https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Rosario Giuliani](https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06) | [Duke's Dream](https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd) | 7:20 | 2022-06-30 |  |
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/2kpaRWsZTE96rmw0NBfP0c) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7) | 5:06 | 2022-04-14 | 2022-07-29 |
@@ -847,6 +847,7 @@
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 |  |
 | [When We Meet Halfway](https://open.spotify.com/track/0ZmL7e8iZhPiNtpvPNUiNP) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [When We Meet Halfway](https://open.spotify.com/album/2oByqKzmvtbgZolfqUcYsF) | 5:37 | 2023-08-31 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/0TgEPps1Z86WY2henEcH2T) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [When Your Lover Has Gone](https://open.spotify.com/album/37JPTyLv4CmNEQzlQfjSRI) | 2:43 | 2023-04-20 |  |
+| [Where Are You?](https://open.spotify.com/track/2c8XMo43NvlqmJtQthTIkX) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [Where Are You?](https://open.spotify.com/album/0fbEvaDsNTU3iABUhip1x1) | 5:46 | 2023-08-31 |  |
 | [Where Do You Start](https://open.spotify.com/track/0gPxAMKPYhnFSAKkBcy3UN) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 4:06 | 2022-04-14 |  |
 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 | 2022-04-14 | 2023-01-27 |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 |  |

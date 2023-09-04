@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Turnpike Troubadours
 
-520 songs - 1 day 6 hr 57 min
+521 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bad Habit](https://open.spotify.com/track/7iERYDwe6SIpDpHIuVaLpZ) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Crazy](https://open.spotify.com/album/5GADVeCv5l9hQDBdms3x6p) | 3:33 | 2022-06-10 | 2022-07-09 |
 | [Bad Romantic](https://open.spotify.com/track/24qf5274RaJwlH9CAT6Gn5) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [Bad Romantic](https://open.spotify.com/album/537wfsAlZEoI5qEOR7NpJQ) | 3:38 | 2021-12-17 | 2022-07-10 |
 | [Bars and Churches](https://open.spotify.com/track/7uHtasPjnmj0AHc6NtO0hi) | [Sundance Head](https://open.spotify.com/artist/3HgDVnEnlN20dfe1vvaBXH) | [Bars and Churches](https://open.spotify.com/album/36TvCSIkyz0w7666MOm5s8) | 3:11 | 2023-06-16 | 2023-07-15 |
+| [Barstool Boys](https://open.spotify.com/track/72F4ZWhDZ5Raxt4TyWjS1L) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Barstool Boys](https://open.spotify.com/album/0YDTwf2SqOD0oAKz5qrYZY) | 2:45 | 2023-09-01 |  |
 | [Beaumont](https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [Parker Ryan](https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j) | 3:59 | 2021-12-17 | 2022-10-08 |
 | [Beautiful Morning](https://open.spotify.com/track/38Cw9mLDRWi311iOUbgjQe) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [Down the Stairwell – Side A](https://open.spotify.com/album/3pGCt22bCC6LLcNXIuR8AO) | 2:58 | 2023-02-24 | 2023-07-01 |
 | [Been Better](https://open.spotify.com/track/0CxBzA90gMAPSpInZmLaAv) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Been Better](https://open.spotify.com/album/3tb8rjXSmT3E2rgOMPbVB4) | 3:16 | 2023-02-01 | 2023-07-12 |
@@ -391,7 +392,7 @@
 | [So Far Away](https://open.spotify.com/track/10k8BwsoXOVeZlpBPQOiO7) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [So Far Away](https://open.spotify.com/album/3fPvRPHW31CtoD2ZBYoMlp) | 4:03 | 2022-02-25 | 2022-05-28 |
 | [Some Things Never Change](https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Some Things Never Change](https://open.spotify.com/album/27P6tqUt8wakV6N9UP8RBW) | 3:20 | 2021-12-17 | 2022-01-08 |
 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 | 2023-04-14 |  |
-| [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 | 2023-05-19 |  |
+| [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 | 2023-05-19 | 2023-09-04 |
 | [Somewhere in the Sun](https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Somewhere in the Sun](https://open.spotify.com/album/4VyXe0br7H7CWt4QU3AOfS) | 3:01 | 2022-03-11 | 2022-07-23 |
 | [Sound of Rain](https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Sound of Rain](https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY) | 3:17 | 2022-10-21 | 2023-01-09 |
 | [Sound of You Gone](https://open.spotify.com/track/1Ezm2kChBPSkNRbeL8zwJV) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Sound of You Gone](https://open.spotify.com/album/0WbLRjZ0z3dhov2EU0zjzf) | 3:30 | 2023-05-26 |  |

@@ -1,28 +1,32 @@
 {
   "description": "the songs behind all your crushes.",
-  "num_followers": 153430,
+  "num_followers": 153862,
   "original_name": "Boo Thang <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWY5MWNmZjlmMDkzNjBlZTcxZGRjZGNkYzYzOTY4YTAyYTc5ZWMz",
+  "snapshot_id": "MCw3MWMzNDUyOTdiYjhiMGY1ZjU5OTE3YTc1YTA3OGE3ODE0MzgyZTVj",
   "tracks": [
     {
-      "added_at": "2023-07-06 21:25:07",
+      "added_at": "2023-04-22 07:08:23",
       "album": {
-        "name": "My Boo (Hitman's Club Mix)",
-        "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
       },
       "artists": [
         {
-          "name": "Ghost Town DJs",
-          "url": "https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT"
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 346840,
-      "name": "My Boo - Hitman's Club Mix",
-      "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
+      "duration_ms": 273133,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
     },
     {
       "added_at": "2023-04-22 07:08:23",
@@ -47,6 +51,22 @@
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
+    },
+    {
+      "added_at": "2023-09-03 22:19:11",
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
     },
     {
       "added_at": "2023-04-22 07:08:23",
@@ -75,26 +95,6 @@
     {
       "added_at": "2023-04-22 07:08:23",
       "album": {
-        "name": "Street Love",
-        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 273133,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
-    },
-    {
-      "added_at": "2023-04-22 07:08:23",
-      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT"
       },
@@ -113,6 +113,22 @@
       "url": "https://open.spotify.com/track/3jEqrIfwKO0M8ALu3TGilF"
     },
     {
+      "added_at": "2023-09-03 22:19:11",
+      "album": {
+        "name": "The Voice",
+        "url": "https://open.spotify.com/album/6qLAqi2b2AfVBaLVesidfC"
+      },
+      "artists": [
+        {
+          "name": "Mike Jones",
+          "url": "https://open.spotify.com/artist/07VmOvmuBp9G0gb8BTrpn0"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/7xVwhsuZTUWhIyFeDH6rYr"
+    },
+    {
       "added_at": "2023-04-22 07:08:23",
       "album": {
         "name": "So Far Gone",
@@ -127,6 +143,22 @@
       "duration_ms": 257690,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+    },
+    {
+      "added_at": "2023-07-06 21:25:07",
+      "album": {
+        "name": "My Boo (Hitman's Club Mix)",
+        "url": "https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi"
+      },
+      "artists": [
+        {
+          "name": "Ghost Town DJs",
+          "url": "https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT"
+        }
+      ],
+      "duration_ms": 346840,
+      "name": "My Boo - Hitman's Club Mix",
+      "url": "https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU"
     },
     {
       "added_at": "2023-04-22 07:08:23",
@@ -151,6 +183,30 @@
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
+    },
+    {
+      "added_at": "2023-04-22 07:08:23",
+      "album": {
+        "name": "Crunk Juice",
+        "url": "https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "Lovers And Friends",
+      "url": "https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62"
     },
     {
       "added_at": "2023-04-22 07:08:23",
@@ -233,6 +289,26 @@
       "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
+      "added_at": "2023-09-03 22:19:11",
+      "album": {
+        "name": "Rule 3:36",
+        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
+    },
+    {
       "added_at": "2023-04-22 07:08:23",
       "album": {
         "name": "Rappa Ternt Sanga (Expanded Edition)",
@@ -267,50 +343,6 @@
       "duration_ms": 205560,
       "name": "03' Bonnie & Clyde",
       "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
-    },
-    {
-      "added_at": "2023-04-22 07:08:23",
-      "album": {
-        "name": "Crunk Juice",
-        "url": "https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon & The East Side Boyz",
-          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "Lovers And Friends",
-      "url": "https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62"
-    },
-    {
-      "added_at": "2023-07-28 04:33:08",
-      "album": {
-        "name": "4 Me (feat. Kali Uchis)",
-        "url": "https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "4 Me (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK"
     },
     {
       "added_at": "2023-04-22 07:08:23",
@@ -413,6 +445,26 @@
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
     },
     {
+      "added_at": "2023-06-05 05:53:37",
+      "album": {
+        "name": "Un-thinkable (I'm Ready) (feat. Drake) [Remix]",
+        "url": "https://open.spotify.com/album/1QdTD7TKQCHEZueuVAlE72"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 282026,
+      "name": "Un-thinkable (I'm Ready) (feat. Drake) - Remix",
+      "url": "https://open.spotify.com/track/4o4wEDRqotccDTXiQ7TORu"
+    },
+    {
       "added_at": "2023-04-22 07:08:23",
       "album": {
         "name": "Chris Brown (Expanded Edition)",
@@ -509,24 +561,24 @@
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
-      "added_at": "2023-08-21 04:00:00",
+      "added_at": "2023-09-03 22:19:11",
       "album": {
-        "name": "Tha Carter",
-        "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
+        "name": "Sincerely For You",
+        "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
-          "name": "Jazze Pha",
-          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 316880,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2mUiyw2DFg4tNgsRkY1NCp"
+      "duration_ms": 190186,
+      "name": "When You Bad Like That (feat. Future)",
+      "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
     },
     {
       "added_at": "2023-04-25 20:03:45",
@@ -671,62 +723,6 @@
       "duration_ms": 289160,
       "name": "Dilemma",
       "url": "https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM"
-    },
-    {
-      "added_at": "2023-04-22 07:08:23",
-      "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 234215,
-      "name": "3005",
-      "url": "https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16"
-    },
-    {
-      "added_at": "2023-06-05 05:53:37",
-      "album": {
-        "name": "Un-thinkable (I'm Ready) (feat. Drake) [Remix]",
-        "url": "https://open.spotify.com/album/1QdTD7TKQCHEZueuVAlE72"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 282026,
-      "name": "Un-thinkable (I'm Ready) (feat. Drake) - Remix",
-      "url": "https://open.spotify.com/track/4o4wEDRqotccDTXiQ7TORu"
-    },
-    {
-      "added_at": "2023-06-05 05:53:37",
-      "album": {
-        "name": "Fell In Love",
-        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 121283,
-      "name": "Fell In Love",
-      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
     },
     {
       "added_at": "2023-04-22 07:08:23",

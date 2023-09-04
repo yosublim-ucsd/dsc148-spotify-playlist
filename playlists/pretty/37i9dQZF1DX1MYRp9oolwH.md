@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,280 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,466 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Oh Bangaram](https://open.spotify.com/track/75UdklaJHB2iYhQMXmE3DS) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5mw5TgQL15i1ernK02z9hV) | 3:48 |
 | 50 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 |
 
-Snapshot ID: `MCw5ZDhkOTM2ZWNhYzQyZjcwYzEwOTBlNzM2MWUxMzBlMjU4MmYwMzM4`
+Snapshot ID: `MCw1ODA3YzAxODkyNDBlNTRmZjFhOTAzM2ZjMWM5YmRhMmQ1N2I3ZTZh`

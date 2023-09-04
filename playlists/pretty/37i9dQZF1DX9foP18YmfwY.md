@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,201 likes - 70 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,406 likes - 70 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 48 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 | 49 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 |
 | 50 | [Já Deu Certo](https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Já Deu Certo](https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns) | 4:36 |
-| 51 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
-| 52 | [Esposa das Esposas](https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc) | [Bruna Marques](https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP), [Gabriel Kzam](https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k) | [Esposa das Esposas](https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP) | 3:59 |
+| 51 | [Esposa das Esposas](https://open.spotify.com/track/5vY7h6KxujUtNoMmE1u8tc) | [Bruna Marques](https://open.spotify.com/artist/7ya4P3mfkZQPp3rPn0xCZP), [Gabriel Kzam](https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k) | [Esposa das Esposas](https://open.spotify.com/album/4KWfXvmejlAUucIn681RoP) | 3:59 |
+| 52 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 53 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 |
 | 54 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
 | 55 | [Mãe Presente \- Ao Vivo em São Paulo](https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou, Vol\. 2 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m) | 6:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Exaltado \- Ao Vivo](https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Exaltado](https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO) | 4:40 |
 
-Snapshot ID: `MCw1NjgxMDcwOTE2ZjcwMWM3MWZmNzA5ODRhNDk4NWE0YWU1M2IxZDY0`
+Snapshot ID: `MCw5MmUxNWJlNjBmYWE1MWE2ZTZhOTM2M2U4MTRlYmU1YzNmYWMwNzVm`

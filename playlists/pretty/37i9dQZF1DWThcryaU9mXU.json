@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 45566,
+  "num_followers": 45610,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
+  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
   "tracks": [
     {
       "added_at": "2023-08-18 13:43:08",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Live At The Regal",
-        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Help The Poor",
-      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Live At The Regal",
+        "url": "https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Help The Poor",
+      "url": "https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
+        "name": "Right Kinda Wrong",
+        "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
+      },
+      "artists": [
+        {
+          "name": "Oscar LaDell",
+          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
+        },
+        {
+          "name": "Chris Armour",
+          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Slow Burning Love",
+      "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
         "name": "Been Gone Too Long",
         "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
       },
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Right Kinda Wrong",
-        "url": "https://open.spotify.com/album/4lWlaDuS0L3q2qw5TMm81J"
-      },
-      "artists": [
-        {
-          "name": "Oscar LaDell",
-          "url": "https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB"
-        },
-        {
-          "name": "Chris Armour",
-          "url": "https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Slow Burning Love",
-      "url": "https://open.spotify.com/track/7gHgR64ZEMcUSh5Nrg26dn"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Soul for the Heart",
         "url": "https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "I'm A Mad Man",
-        "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
-      },
-      "artists": [
-        {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        }
-      ],
-      "duration_ms": 359133,
-      "name": "35 Long Years",
-      "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 319960,
       "name": "No More Lonely Nights",
       "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "I'm A Mad Man",
+        "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "duration_ms": 359133,
+      "name": "35 Long Years",
+      "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Woman Across The River",
-        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Peepin' And Hidin'",
         "url": "https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 223477,
       "name": "What Am I Living For",
       "url": "https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Pickin' the Blues",
-        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Mistreated so Bad",
-      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 455967,
       "name": "Abandoned Child",
       "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Love & Gravity",
-        "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
-      },
-      "artists": [
-        {
-          "name": "Matt Katsis",
-          "url": "https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv"
-        }
-      ],
-      "duration_ms": 228746,
-      "name": "Love & Gravity",
-      "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Roll and Tumble",
         "url": "https://open.spotify.com/album/7riyFPxbaqIj4h2x9jNzTW"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 205182,
       "name": "Sometimes I Worry",
       "url": "https://open.spotify.com/track/7Aor3Qdz0u8WEqFyCVdiHg"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Love & Gravity",
+        "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
+      },
+      "artists": [
+        {
+          "name": "Matt Katsis",
+          "url": "https://open.spotify.com/artist/3uql1lp6c9CcJL2tjzKrkv"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "Love & Gravity",
+      "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
     },
     {
       "added_at": "2023-08-18 13:43:08",

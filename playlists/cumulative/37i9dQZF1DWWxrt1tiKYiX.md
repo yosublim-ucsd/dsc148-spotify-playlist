@@ -4,13 +4,14 @@
 
 > Lovely, acoustic pop\. Cover: Ashley Kutcher
 
-204 songs - 11 hr 17 min
+205 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/0mcegVVpLwrLRZB7a6bMgk) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/0mCdfKtiB1IFVpPhBClsq3) | 3:48 | 2023-07-07 |  |
 | [17 \- Acoustic](https://open.spotify.com/track/4ensio3acJ17PegjBcmXVg) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17 \(Acoustic\)](https://open.spotify.com/album/6KeC6LLX6HHL4H9w2wb2K9) | 2:49 | 2022-01-28 | 2023-07-15 |
 | [29 \- Stripped](https://open.spotify.com/track/2qfFLxiCWqQarHQ9cVoXKy) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29 \(Stripped\)](https://open.spotify.com/album/03JZ828bZucFZsbVmgZfGa) | 2:32 | 2022-10-08 | 2023-03-11 |
+| [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 | 2023-09-03 |  |
 | [Ahead of Myself](https://open.spotify.com/track/5EPVhzjp0TKDeZfkQXaQVa) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Ahead of Myself](https://open.spotify.com/album/5pVTHBXldk32CyJq169FgC) | 3:13 | 2023-08-18 |  |
 | [Alien \- Acoustic](https://open.spotify.com/track/5IYKZF1nw5V0GtxQN7mspQ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien \(Acoustic\)](https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU) | 2:20 | 2022-01-28 | 2023-09-02 |
 | [All That Really Matters \- Stripped Version](https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters \(Stripped Version\)](https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM) | 3:18 | 2022-10-08 |  |
@@ -71,7 +72,7 @@
 | [Girls](https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Girls](https://open.spotify.com/album/7y0Rp3VEX8Ix9g9uZp2LAG) | 2:51 | 2023-06-09 |  |
 | [Glad You Exist \- Acoustic](https://open.spotify.com/track/52RNWUgJBF3LOqt3iw1s77) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist \(Acoustic\)](https://open.spotify.com/album/1FXEP0SJSiEtCFeU1zS56V) | 2:41 | 2022-01-28 |  |
 | [Goodbye \- Acoustic](https://open.spotify.com/track/3Rsm29m9f0zygvNM2JMgn9) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye \(Acoustic\)](https://open.spotify.com/album/6Y0kqeOoMTTuHZEeCwmDrQ) | 3:37 | 2022-01-28 | 2022-03-18 |
-| [Graveyard \- Acoustic](https://open.spotify.com/track/6iwMgc34qGH8vDBcyQ8nP9) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:56 | 2022-01-28 |  |
+| [Graveyard \- Acoustic](https://open.spotify.com/track/6iwMgc34qGH8vDBcyQ8nP9) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:56 | 2022-01-28 | 2023-09-04 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-14 |  |
 | [Happy to See You Sad](https://open.spotify.com/track/3yBzdtmUbvYrflSTFOn8gE) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Happy to See You Sad](https://open.spotify.com/album/5o6N315CC2GMSYCt31ZK4P) | 2:11 | 2023-09-01 |  |
 | [Head on Fire \- Acoustic Version](https://open.spotify.com/track/7m0gn93nr1GEQ2fqbhgxSF) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire \(Acoustic Version\)](https://open.spotify.com/album/4XXBWeAI6h6Ymh0zlBHNCb) | 3:17 | 2022-02-16 |  |

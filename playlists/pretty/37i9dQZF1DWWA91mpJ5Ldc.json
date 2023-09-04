@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 117303,
+  "num_followers": 117353,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzIyOTVlNjQzZjk2NDhjNTlhMDMwZWUzYjk5YWFlYjdmMzJmZmNi",
+  "snapshot_id": "MCxjZWExNDZjZGIzZmM5NGI3YjM3NjU5OWIxM2IxNjhjMjA0OWFhMzQ1",
   "tracks": [
     {
       "added_at": "2023-09-01 23:59:27",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
+    },
+    {
+      "added_at": "2023-09-01 23:59:27",
+      "album": {
         "name": "Desastre Solar",
         "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 275333,
       "name": "Apesar de Voc\u00ea",
       "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
-    },
-    {
-      "added_at": "2023-09-01 23:59:27",
-      "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 234712,
-      "name": "Posso Dizer",
-      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     },
     {
       "added_at": "2023-09-01 23:59:27",

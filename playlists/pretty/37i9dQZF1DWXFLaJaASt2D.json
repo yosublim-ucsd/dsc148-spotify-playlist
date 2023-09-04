@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 51587,
+  "num_followers": 51722,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWZjMmVkZDg4YTBlMDlkYzE5OWFlYTY3Y2UwYjRjNzk5ZTJkMmY3",
+  "snapshot_id": "MCxhNDViODc2MTg5MmM5M2Q4YWY0NDVhMzhmMTMzMjA3OGRlYWQ4NmVm",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
     },
     {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "For Blood And Empire",
-        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "This Is the End (For You My Friend)",
-      "url": "https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao"
-    },
-    {
       "added_at": "2022-01-10 21:04:09",
       "album": {
         "name": "Operation Ivy (2007 Remaster)",
@@ -519,6 +503,22 @@
       "duration_ms": 134026,
       "name": "Sound System - 2007 Remaster",
       "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "For Blood And Empire",
+        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "This Is the End (For You My Friend)",
+      "url": "https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "American Thighs",
-        "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
-      },
-      "artists": [
-        {
-          "name": "Veruca Salt",
-          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Seether",
-      "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "The Process Of Belief",
         "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 201293,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "American Thighs",
+        "url": "https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9"
+      },
+      "artists": [
+        {
+          "name": "Veruca Salt",
+          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+        }
+      ],
+      "duration_ms": 196573,
+      "name": "Seether",
+      "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Title Holder",
-      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Lars Frederiksen And The Bastards",
         "url": "https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 166573,
       "name": "To Have And To Have Not",
       "url": "https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Title Holder",
+      "url": "https://open.spotify.com/track/5dt0dBcBTgGb7Gt5hNTG91"
     },
     {
       "added_at": "2021-04-20 17:48:20",

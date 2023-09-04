@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-705 songs - 1 day 18 hr 22 min
+707 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Every Time We Say Goodbye](https://open.spotify.com/track/7FRzl3GfBSkTTVzkpjTjnU) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 2:45 | 2023-06-15 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-08 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/1XD4j1jvrOyiRnkwrKhq7Q) | [Lisa Lugar](https://open.spotify.com/artist/2KsyjaK929SZ2dNuyCuDfO) | [Love For Sale EP](https://open.spotify.com/album/5j4OkS1RWFRJ0fNUHG88Xs) | 4:33 | 2022-06-28 |  |
-| [Everything I Have Is Yours](https://open.spotify.com/track/27IKNDm0VrpWOxW89GwxUZ) | [Oliver Richardson Quartet](https://open.spotify.com/artist/2IX0mWVO2XmeKTFJtSUJMv) | [A Time for Love](https://open.spotify.com/album/2ftEGm2HzSzFCnNP6MZJYd) | 4:54 | 2022-06-28 |  |
+| [Everything I Have Is Yours](https://open.spotify.com/track/27IKNDm0VrpWOxW89GwxUZ) | [Oliver Richardson Quartet](https://open.spotify.com/artist/2IX0mWVO2XmeKTFJtSUJMv) | [A Time for Love](https://open.spotify.com/album/2ftEGm2HzSzFCnNP6MZJYd) | 4:54 | 2022-06-28 | 2023-09-04 |
 | [Everything I Love](https://open.spotify.com/track/4Eq5ResH0UYm5u6EuG2VYk) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Everything I Love](https://open.spotify.com/album/3IdFiT8WYcniX82XftHDhF) | 3:44 | 2022-06-28 |  |
 | [Everything I Love](https://open.spotify.com/track/3FVN9XVNvU2hc4HADT4I4i) | [Noodlin' Collective](https://open.spotify.com/artist/1N9SBlfwJKrnGEZ3bqAazY) | [Everything I Love](https://open.spotify.com/album/02xsVD9c3xV3SEIvqrf4v7) | 2:50 | 2023-06-15 | 2023-09-02 |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-06-28 |  |
@@ -199,7 +199,7 @@
 | [Food is the dream](https://open.spotify.com/track/0w0fqaQcl9OFquSsm7Gjqm) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Food is the dream](https://open.spotify.com/album/5yzCocNQq9wnxBlQ6YFcOq) | 2:21 | 2023-08-10 |  |
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2022-12-01 |  |
 | [Footprints](https://open.spotify.com/track/3i3N8m36bMRaQGGvMxqkxE) | [Neil Shannon Quartet](https://open.spotify.com/artist/2kJhCBCQeNnvnz8vFd9Kfk) | [Jazz Nights](https://open.spotify.com/album/5CEbSL5vuBPwJWb0VGbiLZ) | 2:57 | 2022-06-28 | 2023-06-18 |
-| [For a While](https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [For a While](https://open.spotify.com/album/74HIDxeupE887o5N8kaTrj) | 3:55 | 2022-06-28 |  |
+| [For a While](https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [For a While](https://open.spotify.com/album/74HIDxeupE887o5N8kaTrj) | 3:55 | 2022-06-28 | 2023-09-04 |
 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 | 2022-06-28 |  |
 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2022-06-28 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/4NHxKOtpkDm42J43bJLnVP) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:30 | 2023-06-15 | 2023-09-02 |
@@ -515,6 +515,7 @@
 | [Reminiscence](https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Reminiscence](https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE) | 2:47 | 2023-06-15 |  |
 | [Reunited](https://open.spotify.com/track/6z85P76YGzmZdcGUYYeap6) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Reunited](https://open.spotify.com/album/0SQVcxNtMbuGXr6eBLC7VL) | 3:33 | 2023-06-15 |  |
 | [Reutlingen](https://open.spotify.com/track/3rUR7LDyz2ac174SuwJl1Z) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Reutlingen](https://open.spotify.com/album/7zRiDdpgqqLlfh6ZZ0xTMv) | 4:43 | 2023-01-26 | 2023-09-02 |
+| [Right Now Right Here](https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Your Laugh](https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL) | 3:27 | 2023-09-01 |  |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-30 |  |
 | [Rising Apple Tree of Hope](https://open.spotify.com/track/3lXhXavD2xl20yELJfAT3U) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Rising Apple Tree of Hope](https://open.spotify.com/album/5EBSKClKn3AF6vEwiRqbYz) | 2:49 | 2022-08-30 | 2022-12-13 |
@@ -629,6 +630,7 @@
 | [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-06-28 |  |
 | [The Windmill](https://open.spotify.com/track/0tQdWOKnJRthxwJ5Pr6ZBE) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [The Windmill](https://open.spotify.com/album/7igHbLzkcE9mOsMkKvIxXy) | 2:22 | 2023-06-15 |  |
 | [The Workers](https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [The Workers](https://open.spotify.com/album/3yW4cbRuICHZRsPCfHRSr0) | 3:26 | 2022-10-27 |  |
+| [Thea](https://open.spotify.com/track/6wyOFWdvUX8lKVVyzf2x5u) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Thea](https://open.spotify.com/album/1JWQZRwYtSDoW7P3Yy0uOq) | 3:46 | 2023-09-01 |  |
 | [Theme for Ruth](https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Theme for Ruth](https://open.spotify.com/album/4ZzZNkzoKThNkQXL1ZeFdC) | 3:01 | 2022-06-28 |  |
 | [Then you appeared](https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Then you appeared](https://open.spotify.com/album/2LmLv8j1qX07BGUgSDsFdy) | 3:27 | 2023-06-15 |  |
 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 | 2023-01-26 |  |

@@ -1,29 +1,13 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 100103,
+  "num_followers": 100109,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzhiZmE3NWI2NmJlMGI4YTg3MzEyODlkNTVhZmU0NTc5YTY0ZGZl",
+  "snapshot_id": "MCxhM2I1ZjI4MDUzNzk5YTg0NWI2NzBlYzNkODkwN2VkMThmZjAyNDVh",
   "tracks": [
-    {
-      "added_at": "2023-08-17 06:58:23",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 68760,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
-    },
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g"
+    },
+    {
+      "added_at": "2023-08-17 06:58:23",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 68760,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
       "added_at": "2023-08-17 06:58:23",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 84986,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
+    },
+    {
+      "added_at": "2023-08-17 06:58:23",
+      "album": {
         "name": "The Definitive Vince Guaraldi",
         "url": "https://open.spotify.com/album/1sn69oro0vmwuAu1iwCu7d"
       },
@@ -147,26 +163,6 @@
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "Jingle Bells (feat. The Puppini Sisters)",
-      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
-    },
-    {
-      "added_at": "2023-08-17 06:58:23",
-      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -187,18 +183,22 @@
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
         }
       ],
-      "duration_ms": 84986,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
+      "duration_ms": 159973,
+      "name": "Jingle Bells (feat. The Puppini Sisters)",
+      "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
     },
     {
       "added_at": "2023-08-17 06:58:23",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 121986,
+      "name": "Caroling, Caroling",
+      "url": "https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74"
+    },
+    {
+      "added_at": "2023-08-17 06:58:23",
+      "album": {
         "name": "Ultra-Lounge: Christmas Cocktails",
         "url": "https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 129533,
       "name": "The Merriest",
       "url": "https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM"
-    },
-    {
-      "added_at": "2023-08-17 06:58:23",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 121986,
-      "name": "Caroling, Caroling",
-      "url": "https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74"
     },
     {
       "added_at": "2023-08-17 06:58:23",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
-        "name": "The Song Society Playlist",
-        "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 253388,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
-    },
-    {
-      "added_at": "2023-08-17 06:58:23",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -415,6 +399,38 @@
       "duration_ms": 145693,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2"
+    },
+    {
+      "added_at": "2023-08-17 06:58:23",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 103746,
+      "name": "The Happiest Christmas Tree",
+      "url": "https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm"
+    },
+    {
+      "added_at": "2023-08-17 06:58:23",
+      "album": {
+        "name": "The Song Society Playlist",
+        "url": "https://open.spotify.com/album/2FrMkEgtQ6uITrWSoO07zX"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 253388,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/78buvo4nEf1G7ir4QubyuN"
     },
     {
       "added_at": "2023-08-17 06:58:23",
@@ -483,22 +499,6 @@
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 103746,
-      "name": "The Happiest Christmas Tree",
-      "url": "https://open.spotify.com/track/5aJP0MZjb8LtPAT5WicCZm"
-    },
-    {
-      "added_at": "2023-08-17 06:58:23",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
-        "name": "Here We Come A-Caroling",
-        "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
-      },
-      "artists": [
-        {
-          "name": "Dries Riesen",
-          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
-        }
-      ],
-      "duration_ms": 68707,
-      "name": "Here We Come A-Caroling",
-      "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
-    },
-    {
-      "added_at": "2023-08-17 06:58:23",
-      "album": {
         "name": "This is Christmas",
         "url": "https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph"
+    },
+    {
+      "added_at": "2023-08-17 06:58:23",
+      "album": {
+        "name": "Here We Come A-Caroling",
+        "url": "https://open.spotify.com/album/5aux4vuQsbLHr84UvKtx5t"
+      },
+      "artists": [
+        {
+          "name": "Dries Riesen",
+          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
+        }
+      ],
+      "duration_ms": 68707,
+      "name": "Here We Come A-Caroling",
+      "url": "https://open.spotify.com/track/2Vh915f8W7DKMRq56upIEJ"
     },
     {
       "added_at": "2023-08-17 06:58:23",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-08-17 06:58:23",
       "album": {
-        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
-        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
-      },
-      "artists": [
-        {
-          "name": "Vanguard Jazz Sextet",
-          "url": "https://open.spotify.com/artist/5vAzmGwvrItLXbcCquKOQz"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/2uNFJN1qsfvZ3xepAGNoca"
-    },
-    {
-      "added_at": "2023-08-17 06:58:23",
-      "album": {
         "name": "A Big Band Christmas",
         "url": "https://open.spotify.com/album/10jafPwL637Df1uCD6Hxkt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 163600,
       "name": "Little Jack Frost Get Lost (with Marjorie Hughes) - 78rpm Version",
       "url": "https://open.spotify.com/track/2VOdqW6WMnCGeJRQDE4rR1"
+    },
+    {
+      "added_at": "2023-08-17 06:58:23",
+      "album": {
+        "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
+        "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
+      },
+      "artists": [
+        {
+          "name": "Vanguard Jazz Sextet",
+          "url": "https://open.spotify.com/artist/5vAzmGwvrItLXbcCquKOQz"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/2uNFJN1qsfvZ3xepAGNoca"
     },
     {
       "added_at": "2023-08-17 06:58:23",

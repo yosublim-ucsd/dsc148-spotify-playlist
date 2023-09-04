@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,245 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,270 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 19 | [Psycho](https://open.spotify.com/track/1MrMCAwN8FKvSKHaDAAoTY) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/3xey9oaCCAC2AEL1mcemo3) | 2:37 |
 | 20 | [BAKUON](https://open.spotify.com/track/3Ce2pidrO43laAAFJcZZbe) | [LYTO](https://open.spotify.com/artist/3aCv90gO2lX7bOzETHLGjA) | [NEVER ENDING STORY](https://open.spotify.com/album/621nNvyHkZ6ekzTTyNc6Bk) | 3:20 |
 | 21 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 |
-| 22 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 |
+| 22 | [iina feat\. ANARCHY](https://open.spotify.com/track/1dKpLk4NuBezRALQuuhFmx) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [iina feat\. ANARCHY](https://open.spotify.com/album/2gmBOlwrlh72vYJVN2wU18) | 3:33 |
 | 23 | [Do this shit 4 me](https://open.spotify.com/track/2jOiXhcWIAC3Vf1BsIyiwS) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5QQop5JtIhXGjH1W3w1cEF) | 2:31 |
-| 24 | [iina feat\. ANARCHY](https://open.spotify.com/track/1dKpLk4NuBezRALQuuhFmx) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [iina feat\. ANARCHY](https://open.spotify.com/album/2gmBOlwrlh72vYJVN2wU18) | 3:33 |
+| 24 | [Suckerzzz](https://open.spotify.com/track/4BCiSi8MZuNBqKUGuaE6TW) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [PARALYZD](https://open.spotify.com/album/6Rjx1Cz64BL0DC6kSsgMqk) | 3:33 |
 | 25 | [Wakarimasen](https://open.spotify.com/track/4iGm4d3GHUXHabeTuwxSCW) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Wakarimasen](https://open.spotify.com/album/5yDWfCsK4ezG9DIn1v50KX) | 3:17 |
 | 26 | [27CLUB feat\. LEX](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
 | 27 | [ASOBI \(feat\. Candee & MonyHorse\) \- Remix](https://open.spotify.com/track/7C5OicvHguY1bVUF7lSuFq) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [ASOBI \(feat\. Candee & MonyHorse\) \[Remix\]](https://open.spotify.com/album/5d8OTVYyV8DMAXQyge7q45) | 3:16 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 41 | [PPAP](https://open.spotify.com/track/43VQeu11B8muwxxmTgklyI) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [The Race](https://open.spotify.com/album/7D6SzmtTlyIRrTwsyp7VA9) | 2:09 |
 | 42 | [Motown Man](https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FRIENDS & ME](https://open.spotify.com/album/4az8qpOF8NeGglYY3RRKLM) | 2:25 |
 | 43 | [B.G.P](https://open.spotify.com/track/7xD6PhbwNjeu5Vm5ewFRaX) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/09w0tkXVIM91R7cLPUC4hq) | 2:21 |
-| 44 | [YAPPA](https://open.spotify.com/track/0Z0SFVUgp96U4BkrsSYII0) | [SKOLOR](https://open.spotify.com/artist/5h8iTRYvWcWxXcDkefed0n) | [YAPPA](https://open.spotify.com/album/2kclqoWmIj9o6ydLvime3D) | 2:03 |
-| 45 | [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 |
+| 44 | [SPEED STAR](https://open.spotify.com/track/3kZjPo6GSaZ8CiBVGbPzRZ) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SPEED STAR](https://open.spotify.com/album/6AqAeUeKGaR8hWLYM4gWVr) | 1:42 |
+| 45 | [YAPPA](https://open.spotify.com/track/0Z0SFVUgp96U4BkrsSYII0) | [SKOLOR](https://open.spotify.com/artist/5h8iTRYvWcWxXcDkefed0n) | [YAPPA](https://open.spotify.com/album/2kclqoWmIj9o6ydLvime3D) | 2:03 |
 | 46 | [Rodeo](https://open.spotify.com/track/0XCn2RgrLSRpLbbPdazyS6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Rodeo](https://open.spotify.com/album/4iQrQAlYVMZvyzvUeSmOrG) | 2:15 |
 | 47 | [ARIGATO](https://open.spotify.com/track/6vCmFt6aTwiJxEqZ2GRohr) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [ARIGATO](https://open.spotify.com/album/4WQkEorxDBgURiS5LlZXV2) | 2:36 |
-| 48 | [RAKURAI](https://open.spotify.com/track/0xcZG0APNxCUQh6G2yv1WH) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/1pfgn03W3aBkPzzUKaQFy6) | 2:44 |
-| 49 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
+| 48 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |
+| 49 | [RAKURAI](https://open.spotify.com/track/0xcZG0APNxCUQh6G2yv1WH) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/1pfgn03W3aBkPzzUKaQFy6) | 2:44 |
 | 50 | [Light side](https://open.spotify.com/track/3sPsSstVES0s7P0Fnu0UHS) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU) | 1:46 |
 
-Snapshot ID: `MCwzNjZlOWUwYjUwOGQxYjEzNDQzMjhmMTIwY2YzNzAyZmU3ZDAxZmNi`
+Snapshot ID: `MCxjOGUxZDcwMTMyODliNzE3NTdlZmZhNjAxYTYzNjczOTAyNTU5MjU4`

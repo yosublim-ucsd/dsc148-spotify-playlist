@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. DJ Shocca, Gu\u00e8 ed Ele A in cover.",
-  "num_followers": 34704,
+  "num_followers": 34734,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDNjZTJlM2FkZGQ3ODliYTU3Y2NhNzZkMzY1MmY4NjI4YWYwMWJi",
+  "snapshot_id": "MCwyNjkwZWUyNjg0YTA0MDhhNzY1MzQ1YmJkODAzMTljN2ViZWJiMDcw",
   "tracks": [
     {
       "added_at": "2023-08-31 22:01:00",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
+        "name": "Lo Spirito Che Suona",
+        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        },
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Citt\u00e0 di vetro",
+      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
         "name": "Mani sporche (feat. Gianni Bismark & Lil Kvneki)",
         "url": "https://open.spotify.com/album/6NRN8TCJDem82aZJEicCKM"
       },
@@ -1947,26 +1967,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Lo Spirito Che Suona",
-        "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Citt\u00e0 di vetro",
-      "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Infernum",
         "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
       },
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
-        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 225755,
-      "name": "L'attimo esatto",
-      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
-    },
-    {
-      "added_at": "2023-08-31 22:01:00",
-      "album": {
         "name": "Treddepomeriggio",
         "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 183914,
       "name": "Treddepomeriggio",
       "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
+    },
+    {
+      "added_at": "2023-08-31 22:01:00",
+      "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
+        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 225755,
+      "name": "L'attimo esatto",
+      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
     },
     {
       "added_at": "2023-08-31 22:01:00",
@@ -2079,26 +2079,22 @@
     {
       "added_at": "2023-08-31 22:01:00",
       "album": {
-        "name": "Universo (feat. Neffa & Fabri Fibra)",
-        "url": "https://open.spotify.com/album/6A6BCS63HUZtmdPUzdPX93"
+        "name": "MEDIOEGO",
+        "url": "https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal"
       },
       "artists": [
         {
-          "name": "Deda",
-          "url": "https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         },
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
         }
       ],
-      "duration_ms": 204335,
-      "name": "Universo (feat. Neffa & Fabri Fibra)",
-      "url": "https://open.spotify.com/track/63njYQ4X8RtPni0YgoIaEJ"
+      "duration_ms": 233386,
+      "name": "VETERANO (feat. DJ Shocca)",
+      "url": "https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9"
     }
   ],
   "unique_name": "Radici Hip-Hop",

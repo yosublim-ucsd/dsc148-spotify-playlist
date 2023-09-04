@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1530292,
+  "num_followers": 1530542,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmEyZThlNWVhY2ZlMjFlZGNjYjk4YmU0OWRjZTA2NzI5NGRjMThk",
+  "snapshot_id": "MCwxZmE4OWY5YmIyZjI0YjI5YTk4Zjc0ZDMzZDAwZjc3YjZhNDIxNzYy",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 191266,
       "name": "Uncontrollable Urge",
       "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/1MkqBhP5byDttRYtZsDC6p"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 115040,
-      "name": "Sailin' On",
-      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 163133,
       "name": "I Can't Hardly Stand It",
       "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 115040,
+      "name": "Sailin' On",
+      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 85863,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Los Angeles (2019 Remaster)",
         "url": "https://open.spotify.com/album/3OpKtGldm7NzZVVn1LFlYn"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 167840,
       "name": "Blank Generation - 2013 Remaster",
       "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 85863,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/39uIrqxNaqGlJ8MKAHkyVb"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Day the Country Died",
-        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
-      },
-      "artists": [
-        {
-          "name": "Subhumans",
-          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Mickey Mouse Is Dead",
-      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 104360,
       "name": "Lexicon Devil",
       "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Day the Country Died",
+        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
+      },
+      "artists": [
+        {
+          "name": "Subhumans",
+          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Mickey Mouse Is Dead",
+      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "All This and More",
-      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Anthology 1965-1971",
         "url": "https://open.spotify.com/album/6dQ1UaaiYqkubZz0QscTfG"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 183823,
       "name": "Kick Out The Jams (Original Uncensored Version)",
       "url": "https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "All This and More",
+      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
-      },
-      "artists": [
-        {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Angels With Dirty Faces",
         "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 206666,
       "name": "Hurry Up Harry",
       "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
+      },
+      "artists": [
+        {
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6JLYifKMF5DbeyxsVvGubh"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "This Is The Modern World",
-        "url": "https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 150626,
-      "name": "The Modern World",
-      "url": "https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 130826,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "This Is The Modern World",
+        "url": "https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 150626,
+      "name": "The Modern World",
+      "url": "https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe"
     },
     {
       "added_at": "2022-11-28 15:26:19",

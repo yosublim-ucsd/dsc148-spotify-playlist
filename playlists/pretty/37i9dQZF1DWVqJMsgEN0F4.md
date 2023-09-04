@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > boygenius along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,297 likes - 67 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,348 likes - 67 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 66 | [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 |
 | 67 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
 
-Snapshot ID: `MCw4YTE4ZDc2OGI4ZjQxMjg0NWJiOTVmNGYxNzJhNjgwOGEzODBmY2Fj`
+Snapshot ID: `MCw1NmM4NzhhNDExNDMxZmY4YzczYTdkZGU0M2ViMTZjNDVmMjAxZTAy`

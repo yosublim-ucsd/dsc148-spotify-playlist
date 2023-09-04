@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 146000,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/6s7M8BCTzvLlEyYiSIIlPm"
@@ -8536,7 +8536,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 229407,
       "name": "Gufrau party",
       "url": "https://open.spotify.com/track/7b9hwEsHn0vCYckClhlila"
@@ -10734,10 +10734,28 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 134424,
       "name": "It's Getting Hot",
       "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+    },
+    {
+      "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "album": {
@@ -15912,7 +15930,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
@@ -16512,7 +16530,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 152925,
       "name": "OneShot",
       "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
@@ -19766,7 +19784,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
@@ -21708,7 +21726,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj"
@@ -22366,7 +22384,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -25097,6 +25115,24 @@
     },
     {
       "album": {
+        "name": "Whiskey Cola",
+        "url": "https://open.spotify.com/album/1pLxoPLAuuwMay9V1oi8C8"
+      },
+      "artists": [
+        {
+          "name": "Picu",
+          "url": "https://open.spotify.com/artist/6OMXE5HedZYgaXI4Y7fe1d"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186768,
+      "name": "Whiskey Cola",
+      "url": "https://open.spotify.com/track/7x75MZdQKmaWYiS0hKSGOS"
+    },
+    {
+      "album": {
         "name": "Pikachu",
         "url": "https://open.spotify.com/album/6Ty38z2bPNsxe4koKmcB5D"
       },
@@ -25624,7 +25660,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"
@@ -26212,7 +26248,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 123125,
       "name": "\u00d6rd\u00f6g N\u00f3rika",
       "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"

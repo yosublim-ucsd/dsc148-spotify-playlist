@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Aidan Bissett
 
-1,779 songs - 3 day 18 hr 10 min
+1,780 songs - 3 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Back To You](https://open.spotify.com/track/37ihcbpKwRGlZqmSeLx0Gx) | [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41) | [Back To You](https://open.spotify.com/album/4PKI170FGqEaKQ0HjMLrDe) | 3:20 | 2019-09-06 | 2021-05-13 |
 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 | 2019-05-26\* | 2020-02-20 |
 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2022-12-02 | 2023-01-21 |
-| [Backwards \(feat\. Knox\)](https://open.spotify.com/track/6GgVR79vDpKNuHmULz7loA) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Backwards \(feat\. Knox\)](https://open.spotify.com/album/2WjAg7qrEs39TCmltinppH) | 3:10 | 2023-06-30 |  |
+| [Backwards \(feat\. Knox\)](https://open.spotify.com/track/6GgVR79vDpKNuHmULz7loA) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Backwards \(feat\. Knox\)](https://open.spotify.com/album/2WjAg7qrEs39TCmltinppH) | 3:10 | 2023-06-30 | 2023-09-04 |
 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 | 2023-04-22 | 2023-08-21 |
 | [bad day](https://open.spotify.com/track/5612zrK8d3HhPCobx2Kuci) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [bad day](https://open.spotify.com/album/7vTPUsgBPNHmB3T1hoQOJO) | 2:04 | 2021-03-27 | 2021-11-20 |
 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 | 2021-04-27 | 2021-11-20 |
@@ -1596,6 +1596,7 @@
 | [Therapy](https://open.spotify.com/track/0wvj3kJpZIyu7eYfxeKn3g) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Therapy](https://open.spotify.com/album/5c0knxfQLKoNV5BwB7DKWH) | 2:18 | 2022-01-28 | 2022-05-07 |
 | [THERAPY](https://open.spotify.com/track/1Kwa1zBDS4CaTGHPZ3pKau) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [THERAPY](https://open.spotify.com/album/1i0QT2p3Af2fcmVKq4TZ1u) | 3:11 | 2021-02-23 | 2021-08-27 |
 | [there for you](https://open.spotify.com/track/0TJJup71B23lvjHbrK4yz4) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [there for you](https://open.spotify.com/album/1TvvBHVRmuhlQVxg6569Pi) | 2:52 | 2021-10-29 | 2022-03-17 |
+| [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2023-09-03 |  |
 | [There's only so much a soul can take](https://open.spotify.com/track/3vkRCANVVZF0aWTL00VvRt) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [There's only so much a soul can take](https://open.spotify.com/album/1gKcySeP1BMTyKnvx1DGOQ) | 2:48 | 2021-04-21 | 2021-10-12 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2021-04-19 | 2021-11-06 |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-07-14 |  |

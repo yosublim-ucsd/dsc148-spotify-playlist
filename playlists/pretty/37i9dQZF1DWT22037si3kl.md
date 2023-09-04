@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,839 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,893 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 37 | [99 Problemas](https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:10 |
 | 38 | [Noronha](https://open.spotify.com/track/6i8bPQX4qbTV4OiInAjz0y) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Noronha](https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey) | 2:50 |
 | 39 | [Famigerado](https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:18 |
-| 40 | [Sereno](https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sereno](https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ) | 2:16 |
+| 40 | [Drip](https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Vianna](https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA) | [Drip Sesh, Vol\. 1](https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK) | 2:30 |
 | 41 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
 | 42 | [Loyalty](https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [Loyalty](https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw) | 3:24 |
 | 43 | [18 NO PINGE](https://open.spotify.com/track/21aRl9D08SJUcr0o17PtEd) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [DEPOIS DAS 5](https://open.spotify.com/album/4uQpRSLrhpypuSZun8RsMG) | 1:58 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 47 | [Ela é Rica](https://open.spotify.com/track/4GNdIl4x1p4TQU1Q81f7Wq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Ela é Rica](https://open.spotify.com/album/2NKLcKdxhEWpbRr1xpZaT9) | 3:19 |
 | 48 | [Celine \(Vestidin\)](https://open.spotify.com/track/2nzcvQ0FFdGvhQHVqtveix) | [Yamzin](https://open.spotify.com/artist/4QrqFit0q3dYCEKRklxOud), [Mal Beats](https://open.spotify.com/artist/1wYc612FBSvRvjrSd6vgUy) | [Celine \(Vestidin\)](https://open.spotify.com/album/0VnmZT3UScDREI1NuB6nDQ) | 3:01 |
 | 49 | [CAIXA DE PANDORA](https://open.spotify.com/track/6ZaUGENItZhXBsNh3AVg2C) | [Verve](https://open.spotify.com/artist/53rqQcLIWERwlPaodqOENj), [Abel](https://open.spotify.com/artist/3x7CEY7CvKZDeVLJ3XGiBw), [big silva](https://open.spotify.com/artist/4tdh6CQGlMQpwxzptw81ZZ), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [CRIME](https://open.spotify.com/album/3vzgzxt451KbKjSjCc0T4l) | 2:18 |
-| 50 | [Drip](https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Vianna](https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA) | [Drip Sesh, Vol\. 1](https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK) | 2:30 |
+| 50 | [Sereno](https://open.spotify.com/track/455DsXncSxfrW6LJJISdv4) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Sereno](https://open.spotify.com/album/5jDV8fKQYTqfxM7nA5r5UQ) | 2:16 |
 
-Snapshot ID: `MCxlMTRjNWQ4MDg0Zjc1NmJhYmZhZTNiMWVkODQwOGQ1YzhlZTcwODBj`
+Snapshot ID: `MCw2OGY3OGIxMTYyNTc3NjdmODQxYjFmMTlkNjY3OGRjNDQ0OWI2ZDg5`

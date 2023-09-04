@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 8144,
+  "num_followers": 8163,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjAwYTc5ZTNhZjU3YzU0ODQ5ZmJjNGY0ZWFhNDQzODNjNjc3Zjc1",
+  "snapshot_id": "MCwwNmY0ZTU2NjQzMDA5ZjJlZGRkYzRkMjFlZTVhY2Y5YzkxMjJjZWMz",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -164,22 +164,6 @@
       "added_at": "2021-06-29 13:36:02",
       "album": {
         "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "When You Walk Into The Room",
-      "url": "https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
       },
       "artists": [
@@ -191,6 +175,22 @@
       "duration_ms": 294800,
       "name": "Give Me Faith",
       "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "When You Walk Into The Room",
+      "url": "https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -447,22 +447,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Worship Initiative, Vol. 2",
-        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
+        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
+        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
       },
       "artists": [
         {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Elevation",
+          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
         }
       ],
-      "duration_ms": 229487,
-      "name": "You Are My All In All",
-      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+      "duration_ms": 252725,
+      "name": "Open the Eyes of My Heart Lord",
+      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -483,18 +479,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
-        "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
+        "name": "The Worship Initiative, Vol. 2",
+        "url": "https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97"
       },
       "artists": [
         {
-          "name": "Elevation",
-          "url": "https://open.spotify.com/artist/00g1hZIIn1xKwrbZd6nDUY"
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 252725,
-      "name": "Open the Eyes of My Heart Lord",
-      "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
+      "duration_ms": 229487,
+      "name": "You Are My All In All",
+      "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
     },
     {
       "added_at": "2021-06-29 13:36:02",

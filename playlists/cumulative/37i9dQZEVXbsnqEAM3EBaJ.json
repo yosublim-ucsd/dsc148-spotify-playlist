@@ -564,7 +564,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 258200,
       "name": "Alice Through the Looking Glass",
       "url": "https://open.spotify.com/track/7sArXWDg86rMoLG46QE2ac"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 232760,
       "name": "All Over The World",
       "url": "https://open.spotify.com/track/2xOKh4GzAyZYNLf0VjeTpU"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 187970,
       "name": "Basket Case - 4-track demo",
       "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 194426,
       "name": "Big Boots",
       "url": "https://open.spotify.com/track/2MlvPacdsznpfKCRmQo3F7"
@@ -1582,10 +1582,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 270066,
       "name": "Bleed Out",
       "url": "https://open.spotify.com/track/1oNy8VAsmqlx7isSPR5oQe"
+    },
+    {
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/6NyQhDlNC1CDy0WliMhCvZ"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Bleed Out - Instrumental",
+      "url": "https://open.spotify.com/track/7wwWe6xiJA21W6Ym8IF8jW"
     },
     {
       "album": {
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 291868,
       "name": "Buffalo Soldier",
       "url": "https://open.spotify.com/track/3W1I6GPK5Gs2u1f74Sy16y"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 158244,
       "name": "Careless and",
       "url": "https://open.spotify.com/track/03E8oq4lOXnrTJBOT7eMp6"
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -2743,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "Life on Other Planets (2023 Remaster)",
+        "url": "https://open.spotify.com/album/5n4k8AgXN0kbZ6sESKDV1D"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63826,
+      "name": "Dark Star - Studio Recording",
+      "url": "https://open.spotify.com/track/49jmzkWMf3oO4ZarI0KIcB"
+    },
+    {
+      "album": {
         "name": "Dark Void",
         "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
       },
@@ -2870,7 +2906,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 250408,
       "name": "Death's Forgotten Children",
       "url": "https://open.spotify.com/track/5BVYN9Wv6bVAROkmtpqNul"
@@ -4502,7 +4538,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 200347,
       "name": "Halo - Matt Tuck Rework",
       "url": "https://open.spotify.com/track/0rfqxtRF6WGPsskq9uOQnd"
@@ -4528,7 +4564,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 247586,
       "name": "Halo - Urbandawn Remix",
       "url": "https://open.spotify.com/track/5pzttBQ4tMCLJifJSht3Yx"
@@ -5236,7 +5272,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 253359,
       "name": "I Am the Devil",
       "url": "https://open.spotify.com/track/4zQaaikXNVSzB4HTKcH4MB"
@@ -5406,7 +5442,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 226360,
       "name": "I Need Your Loving - Acapella Version",
       "url": "https://open.spotify.com/track/5PYl3wdWkjjwn5GoLsuN60"
@@ -5428,6 +5464,24 @@
       "duration_ms": 403373,
       "name": "I Need Your Loving - Dub Version",
       "url": "https://open.spotify.com/track/0qAkT5XnQCdYxFR1WvTCUx"
+    },
+    {
+      "album": {
+        "name": "I Need Your Loving",
+        "url": "https://open.spotify.com/album/6agrRghHOcvOR4KiZYosGP"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435973,
+      "name": "I Need Your Loving - Extended Version",
+      "url": "https://open.spotify.com/track/25p3dckllV2Hdrqu4yDcy3"
     },
     {
       "album": {
@@ -6286,7 +6340,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 158049,
       "name": "Johnny B. Goode - Remastered",
       "url": "https://open.spotify.com/track/5fkosrv0WwLiDuPxYXRwZn"
@@ -6630,7 +6684,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 228586,
       "name": "Kings And Queens - Single Version",
       "url": "https://open.spotify.com/track/7bihN919MeyAUCKmq3Yxum"
@@ -7156,6 +7210,24 @@
       "duration_ms": 180351,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/0uXglUjIGtNwfiZH9VAuvX"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (Deluxe)",
+        "url": "https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341773,
+      "name": "Livin' On The Edge - CHR Edit",
+      "url": "https://open.spotify.com/track/4cLkmQ5xLuBxAJowQeY0xa"
     },
     {
       "album": {
@@ -7804,7 +7876,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 219500,
       "name": "Microcosmic Sunsets",
       "url": "https://open.spotify.com/track/7lJs36mqGUhrLUUhQSwDCp"
@@ -7936,7 +8008,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 192176,
       "name": "Misery (feat. Atreyu)",
       "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
@@ -8548,7 +8620,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 123638,
       "name": "Never Done Nothing Like That Before - 2023 Remaster",
       "url": "https://open.spotify.com/track/686p6mrCE6HcLbAISuKjAa"
@@ -8806,7 +8878,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 228253,
       "name": "Nuestro Infierno",
       "url": "https://open.spotify.com/track/6NYdSKNwP2IfU0HGSjexVB"
@@ -8900,7 +8972,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 253373,
       "name": "Ojos de Cielo - En Vivo",
       "url": "https://open.spotify.com/track/6AzZlB6kqZ19ZywqRvwvF3"
@@ -10266,7 +10338,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 111746,
       "name": "Resting Substantial",
       "url": "https://open.spotify.com/track/18jT89Dl3ij6ErGIgjJmWY"
@@ -11148,7 +11220,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 114000,
       "name": "Sistema Solar",
       "url": "https://open.spotify.com/track/7K1eNzGG1lxjoua3zCBm13"
@@ -11919,6 +11991,24 @@
     },
     {
       "album": {
+        "name": "S'old",
+        "url": "https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "S\u2019old",
+      "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
+    },
+    {
+      "album": {
         "name": "Rarities 2001-2010",
         "url": "https://open.spotify.com/album/0veS6RDjnzEynT3Fc7B5Qs"
       },
@@ -12642,10 +12732,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 310874,
       "name": "the slab",
       "url": "https://open.spotify.com/track/1JeT3JZl2RNjgHrcigpdbk"
+    },
+    {
+      "album": {
+        "name": "everything is alive",
+        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310874,
+      "name": "the slab",
+      "url": "https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1"
     },
     {
       "album": {
@@ -13008,7 +13116,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 439029,
       "name": "Time",
       "url": "https://open.spotify.com/track/1HmQba8msCjjirMPh3wOKY"
@@ -14282,7 +14390,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 121441,
       "name": "When I Come Around - 4-track demo",
       "url": "https://open.spotify.com/track/1AQZlSq7fPI6RlErGe8YSa"

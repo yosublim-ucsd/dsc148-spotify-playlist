@@ -2116,7 +2116,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 190291,
       "name": "Backwards (feat. Knox)",
       "url": "https://open.spotify.com/track/6GgVR79vDpKNuHmULz7loA"
@@ -29045,7 +29045,7 @@
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 151710,
+      "duration_ms": 151706,
       "name": "Tantrum",
       "url": "https://open.spotify.com/track/2oPZ5C25DHuF4il15vFI3J"
     },
@@ -29918,6 +29918,24 @@
       "duration_ms": 172026,
       "name": "there for you",
       "url": "https://open.spotify.com/track/0TJJup71B23lvjHbrK4yz4"
+    },
+    {
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "There It Goes",
+      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
     },
     {
       "album": {

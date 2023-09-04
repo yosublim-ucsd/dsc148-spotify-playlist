@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 590233,
+  "num_followers": 590490,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTE4NjZiNDY4ZDMwNDdhNDdjYWI2MTc3YTRhNmQ1Y2ZiNWQzYThl",
+  "snapshot_id": "MCxhZTQwNzhjYTQwMTNlMjg5ZjI2MmIxM2E3MTQ4ODcxZjRkZDU4Mjcw",
   "tracks": [
     {
       "added_at": "2023-07-25 07:47:04",
@@ -91,8 +91,8 @@
     {
       "added_at": "2023-07-25 07:47:04",
       "album": {
-        "name": "LosT",
-        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 205368,
-      "name": "LosT",
-      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2023-07-25 07:47:04",
@@ -203,8 +203,8 @@
     {
       "added_at": "2023-07-25 07:47:04",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
     },
     {
       "added_at": "2023-07-25 07:47:04",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-25 07:47:04",
       "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 206924,
-      "name": "Left Behind",
-      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
-    },
-    {
-      "added_at": "2023-07-25 07:47:04",
-      "album": {
         "name": "Palm Trees and Power Lines",
         "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 226080,
       "name": "Memory",
       "url": "https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J"
+    },
+    {
+      "added_at": "2023-07-25 07:47:04",
+      "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 206924,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
     },
     {
       "added_at": "2023-07-25 07:47:04",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-25 07:47:04",
       "album": {
-        "name": "Mountains At Midnight",
-        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 186196,
-      "name": "Mountains At Midnight",
-      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
-    },
-    {
-      "added_at": "2023-07-25 07:47:04",
-      "album": {
         "name": "With Confidence",
         "url": "https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 177220,
       "name": "What You Make It",
       "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
+    },
+    {
+      "added_at": "2023-07-25 07:47:04",
+      "album": {
+        "name": "Mountains At Midnight",
+        "url": "https://open.spotify.com/album/5wgGNTxh21tE16K9yPMBIc"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/5Gd7o89niXpFLpVBvvUPHD"
     },
     {
       "added_at": "2023-07-25 07:47:04",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-07-25 07:47:04",
       "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "And the Hero Will Drown",
-      "url": "https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS"
-    },
-    {
-      "added_at": "2023-07-25 07:47:04",
-      "album": {
         "name": "Smash",
         "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 213106,
       "name": "Genocide",
       "url": "https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX"
+    },
+    {
+      "added_at": "2023-07-25 07:47:04",
+      "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "And the Hero Will Drown",
+      "url": "https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS"
     },
     {
       "added_at": "2023-07-25 07:47:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-25 07:47:04",
       "album": {
-        "name": "Enemies",
-        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 161592,
-      "name": "Enemies",
-      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
-    },
-    {
-      "added_at": "2023-07-25 07:47:04",
-      "album": {
         "name": "Singles - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 227200,
       "name": "State of Love and Trust",
       "url": "https://open.spotify.com/track/0KEhlgtlk0HuqBIqfGCGdF"
+    },
+    {
+      "added_at": "2023-07-25 07:47:04",
+      "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 161592,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
     },
     {
       "added_at": "2023-07-25 07:47:04",

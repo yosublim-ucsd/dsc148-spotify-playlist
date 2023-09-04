@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Fridayy
 
-550 songs - 1 day 4 hr 51 min
+551 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Fiji](https://open.spotify.com/track/2fVYT0yE6oLLKL3Fe9Sve7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Fiji](https://open.spotify.com/album/7IDR0ZVnx1GCvaDtZUV7Mj) | 2:25 | 2022-03-25 | 2022-07-27 |
 | [Finesse](https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Finesse](https://open.spotify.com/album/3PmtVhKChNrW23rI6ADGyx) | 2:53 | 2021-12-15 | 2022-07-28 |
 | [First Day Out \(with Smoke DZA\)](https://open.spotify.com/track/688AlseD6rAfzvjfVrjyQm) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [First Day Out \(with Smoke DZA\)](https://open.spotify.com/album/5yRyjzErlf8cvDu9Yooob8) | 3:10 | 2022-02-25 | 2022-04-11 |
+| [five more](https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [five more](https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m) | 2:45 | 2023-09-01 |  |
 | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/track/6DTJgb33ibZl2pElkWqUfm) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/album/2ECyJoQ4tFw87gsjmQMoOq) | 4:47 | 2021-12-15 | 2022-04-19 |
 | [Fool 4 U](https://open.spotify.com/track/18GeUA2TkZDUOsRqbNj36C) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Fool 4 U](https://open.spotify.com/album/3sEhpdjBGFAq5BYPThKgH3) | 3:16 | 2021-12-15 | 2022-01-21 |
 | [FOOL AROUND](https://open.spotify.com/track/4V39issmn4UBsvWqXzxvFz) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY), [taylor from earth](https://open.spotify.com/artist/0gcyyvKQYCxV3Xv7UknCJQ) | [PURPLE.](https://open.spotify.com/album/18ZRlsRqYnGm74QAX9k05N) | 2:03 | 2021-12-15 | 2022-06-24 |
@@ -455,7 +456,7 @@
 | [Spin the Block](https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:49 | 2022-11-11 |  |
 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 | 2022-09-09 | 2022-12-03 |
 | [Stand By Me](https://open.spotify.com/track/7bUdqWKa9h02dNfnj3YfAO) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:03 | 2023-08-25 |  |
-| [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 |  |
+| [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 | 2023-03-24 | 2023-09-04 |
 | [Stay](https://open.spotify.com/track/4PKOBlfJKfaPzD1fWCaKmL) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Stay](https://open.spotify.com/album/2557DwNaej6aDIxxE7oOAo) | 3:23 | 2023-06-02 |  |
 | [Stay Mad](https://open.spotify.com/track/3bNyIdiGPnepE6D6bOhGoQ) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Stay Mad](https://open.spotify.com/album/0F3csopuNUJxURyr9oZx1V) | 2:11 | 2021-12-15 | 2022-01-27 |
 | [Step 2 Me](https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn), [Soulection](https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft) | [Soulection Takeover: 2K23 Edition](https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1) | 1:50 | 2023-01-27 |  |

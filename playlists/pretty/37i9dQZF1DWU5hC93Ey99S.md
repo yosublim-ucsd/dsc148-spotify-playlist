@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels\. Cover: Babsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,385 likes - 215 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,500 likes - 215 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 214 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 |
 | 215 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 |
 
-Snapshot ID: `MCw3Njk4YjQ2OWM1Njg1MzBmMDQyNzFjZjMzY2FlMDhkNWI4MWZkOGNm`
+Snapshot ID: `MCw2YmQ2NjQxNWY5NjhkZDQzYmQ0MjgzMjZjZjM1OTEyNzhiZDQxYTEz`

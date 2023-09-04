@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,102 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,210 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 93 | [Al Millón](https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z) | [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Alann Mora](https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb) | [Al Millón](https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0) | 2:18 |
 | 94 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 |
 | 95 | [WARZONE FREESTYLE](https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [WARZONE FREESTYLE](https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P) | 3:16 |
-| 96 | [Estoy Bien Loco](https://open.spotify.com/track/5u4XgdTpI3KAymxn9LZQxn) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Estoy Bien Loco](https://open.spotify.com/album/63uaLug81UDXYtuHTJk77O) | 5:07 |
-| 97 | [Se Rumora](https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Se Rumora](https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh) | 4:12 |
+| 96 | [Se Rumora](https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Se Rumora](https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh) | 4:12 |
+| 97 | [Estoy Bien Loco](https://open.spotify.com/track/5u4XgdTpI3KAymxn9LZQxn) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Estoy Bien Loco](https://open.spotify.com/album/63uaLug81UDXYtuHTJk77O) | 5:07 |
 | 98 | [Miami Beach](https://open.spotify.com/track/65QkoILdc0nkAlSErb5ZDZ) | [R1 La Esencia](https://open.spotify.com/artist/6fDScz7zLUrQFSRy4Tn7Ff), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Miami Beach](https://open.spotify.com/album/56scR1Ng2zgHTcDcK9BwzF) | 3:05 |
 | 99 | [Followers](https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Followers](https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9) | 3:08 |
 | 100 | [El Niño Malo](https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU) | [El Moreno Mexicano](https://open.spotify.com/artist/0MGiXwNhSs1mRuy31cgvNz) | [El Niño Malo](https://open.spotify.com/album/6OmiJphcmCFieKGQbR2R8Z) | 3:03 |
 
-Snapshot ID: `MCxhOTBkNWY1OTk2MWRlYmM4MWI0MjQ5ZDI4ZWNmZjQxZjViZjk4MTI4`
+Snapshot ID: `MCw4MzA2MzJiYWM0YTY1OGU5ZWQ3ZTkxZTQ4OWI1NWNlN2YxM2E3OTdi`

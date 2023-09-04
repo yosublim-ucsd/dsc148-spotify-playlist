@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12586,
+  "num_followers": 12590,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODgzNTc5ZTVkYzQ2ZWY4YTY3MWY3NGUwNWViYTQ4MjZiZjhlNzVj",
+  "snapshot_id": "MCxjNmI1MmFjOTc3ZjIyMWQ1ZGE2N2RmYmVkYTFmM2RmZTU4ZjljZTRh",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "A Reminder (Remix)",
-        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        },
-        {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
-        }
-      ],
-      "duration_ms": 285161,
-      "name": "A Reminder (Remix)",
-      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 238767,
       "name": "Summertime (feat. Citizen Cope)",
       "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "A Reminder (Remix)",
+        "url": "https://open.spotify.com/album/3jDZSJd23RQUfCZvTAzPgA"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "duration_ms": 285161,
+      "name": "A Reminder (Remix)",
+      "url": "https://open.spotify.com/track/3kEJ2teFzjpSrDgpKVgPPr"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -379,22 +379,6 @@
       "duration_ms": 307880,
       "name": "Harmonize",
       "url": "https://open.spotify.com/track/646D2x7itBIgPstjfGB2Mh"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -487,6 +471,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Cas Haley",
         "url": "https://open.spotify.com/album/2Rj0pHePr2SyUh6zfyDFaz"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 287904,
       "name": "Indigo Sea",
       "url": "https://open.spotify.com/track/6u1bJVM3f8AvEfGDGpkBSH"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "The Fruitful Darkness",
-        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239312,
-      "name": "Moon / Sun",
-      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -583,6 +567,22 @@
       "duration_ms": 216706,
       "name": "Don't Hold Your Breath",
       "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "The Fruitful Darkness",
+        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 239312,
+      "name": "Moon / Sun",
+      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
-      },
-      "artists": [
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Warm Under the Light",
-      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Angels Above Me",
         "url": "https://open.spotify.com/album/2rQdIWqQVl0bFZJI4whICD"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 266746,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Warm Under the Light",
+      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
     },
     {
       "added_at": "2023-01-03 17:09:40",

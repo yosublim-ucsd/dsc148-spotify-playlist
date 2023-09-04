@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-121 songs - 8 hr 17 min
+122 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [En Silencio Te Amaré](https://open.spotify.com/track/0j4yCgCJGgVZFayuTDfmO4) | [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [30 Mejores: El Combo de las Estrellas](https://open.spotify.com/album/1z7GXxwkXxAlJz1m6Rh14v) | 3:57 | 2021-12-16 |  |
 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 | 2021-12-16 |  |
 | [Fantasía Nocturna](https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h), [Gustavo Quintero](https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn) | [De Película](https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb) | 2:56 | 2021-12-16 |  |
+| [Festival En Guarare](https://open.spotify.com/track/0J3WJy4IGIaGcfWR85xv2g) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [30 Mejores](https://open.spotify.com/album/0IjPHQGoyrniScZYyYfWtE) | 2:58 | 2021-12-16 |  |
 | [Golpe Con Golpe](https://open.spotify.com/track/0uy25GJVvIL2qhCYoR676k) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Exito](https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF) | 3:33 | 2021-12-16 |  |
 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 | 2021-12-16 |  |
 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 | 2021-12-16 |  |
@@ -79,7 +80,7 @@
 | [Mar y Luna](https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P) | [Pecos Kanvas](https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8) | [Mar y Luna](https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp) | 4:20 | 2021-12-16 |  |
 | [Maruja](https://open.spotify.com/track/41JpQ2zSldbpfKMqAsXBCS) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [El Disco de Oro para Equipos de Sonido, Vol\. 3](https://open.spotify.com/album/6tqf3GggWUkKwHQATCFV7u) | 3:57 | 2021-12-16 |  |
 | [Mas Que Amiga](https://open.spotify.com/track/7rqKqtWF99DvueyNdRImXf) | [Grupo Bananas](https://open.spotify.com/artist/0kFlXH8kEcLpAVjDQbPCM8) | [Un Mundo De Colores](https://open.spotify.com/album/3bdBFy3ys7ZNU6DybFRLff) | 4:14 | 2021-12-16 |  |
-| [Me Recordaras](https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld) | [Gabino Pampini](https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs) | [50 Años](https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM) | 4:08 | 2021-12-16 |  |
+| [Me Recordaras](https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld) | [Gabino Pampini](https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs) | [50 Años](https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM) | 4:08 | 2021-12-16 | 2023-09-04 |
 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 | 2021-12-16 |  |
 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 | 2021-12-16 |  |
 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 | 2021-12-16 |  |

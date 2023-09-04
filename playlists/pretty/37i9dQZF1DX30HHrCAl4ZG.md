@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The best indie rock right now\. Featuring new music by Dominic Fike.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,506 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,538 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 102 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
 | 103 | [Hey Anna](https://open.spotify.com/track/23ROfLTmpk2Q1baIETAdeD) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Hey Anna](https://open.spotify.com/album/4tOCYcl7aroF3Kb1vfcLdY) | 2:50 |
 
-Snapshot ID: `MCw2Y2VkODZkNTEzNTFiMDJlM2JmMzc2OTc1NDQ3NjM3ZTBlMzgwOGIy`
+Snapshot ID: `MCxjOTE2YjhkMjg3ZTMzNzg0M2JjOGE5Yjg1ZTQyNDRiYzU3YjFjZDM3`

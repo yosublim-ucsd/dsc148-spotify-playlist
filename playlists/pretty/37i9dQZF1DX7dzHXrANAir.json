@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 99485,
+  "num_followers": 99535,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWUwODA4ZjczNmMyZWMxNjQ4MDYwNzExMzRlODI3YjQ4ODc3NjZk",
+  "snapshot_id": "MCxkODg4NmEyZWE3NGRmMTg5MDhhYmQwZDI5MDNlODFmYzUxNzc3MDU4",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "P\u00e1th\u0113",
-        "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
-      },
-      "artists": [
-        {
-          "name": "Piotr Wiese",
-          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
-        }
-      ],
-      "duration_ms": 341013,
-      "name": "P\u00e1th\u0113",
-      "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "P\u00e1th\u0113",
+        "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "duration_ms": 341013,
+      "name": "P\u00e1th\u0113",
+      "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Reimagined. Volume 2, Chapter 3",
+        "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Mercan Dede",
+          "url": "https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY"
+        }
+      ],
+      "duration_ms": 423047,
+      "name": "Nuvole Bianche - Reimagined by Mercan Dede",
+      "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "By This River",
         "url": "https://open.spotify.com/album/11o6UQ8kXXknp41Dsg75ca"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 247301,
       "name": "By This River",
       "url": "https://open.spotify.com/track/1ZZV73dkqJx1Wc9THSXpGZ"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Reimagined. Volume 2, Chapter 3",
-        "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Mercan Dede",
-          "url": "https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY"
-        }
-      ],
-      "duration_ms": 423047,
-      "name": "Nuvole Bianche - Reimagined by Mercan Dede",
-      "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Orph\u00e9e",
         "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Caf\u00e9 Papantla",
-      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -731,6 +715,22 @@
       "duration_ms": 230213,
       "name": "Mists Inhabit This Place",
       "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Round",
-        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
+        "name": "Satori by the Sea",
+        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
       },
       "artists": [
         {
-          "name": "Steven Gutheinz",
-          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
         }
       ],
-      "duration_ms": 163945,
-      "name": "Pattern of Water",
-      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
+      "duration_ms": 187000,
+      "name": "Satori by the Sea",
+      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Satori by the Sea",
-        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
+        "name": "Round",
+        "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
       },
       "artists": [
         {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+          "name": "Steven Gutheinz",
+          "url": "https://open.spotify.com/artist/2pHCm7cvE0ADlPp68tScqW"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Satori by the Sea",
-      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
+      "duration_ms": 163945,
+      "name": "Pattern of Water",
+      "url": "https://open.spotify.com/track/11NMfPfGP4tI1xF3e7S9Jt"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Who Tends a Garden",
         "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 280625,
       "name": "Who Tends a Garden",
       "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Riva",
-        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
-        }
-      ],
-      "duration_ms": 238602,
-      "name": "Riva",
-      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
         "name": "Elv",
         "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 161933,
       "name": "Drang",
       "url": "https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
+        "name": "Riva",
+        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "duration_ms": 238602,
+      "name": "Riva",
+      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 237827,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd"
+    },
+    {
+      "added_at": "2023-08-18 04:01:00",
+      "album": {
         "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
         "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
+        "name": "Unfold (XXIM:EXPO #2)",
+        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         }
       ],
-      "duration_ms": 237827,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/7ncxw8OqWwQQpY9v0UOzJd"
+      "duration_ms": 218743,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "Unfold (XXIM:EXPO #2)",
-        "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
+        "name": "k o : d a",
+        "url": "https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2"
       },
       "artists": [
         {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 218743,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
+      "duration_ms": 238000,
+      "name": "Klass (MISSUXO Film Edit)",
+      "url": "https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1415,42 +1431,26 @@
     {
       "added_at": "2023-08-18 04:01:00",
       "album": {
-        "name": "On Being (Rework)",
-        "url": "https://open.spotify.com/album/7nFQqXjnDKtoNJvUKETXdm"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu"
       },
       "artists": [
         {
-          "name": "Six Missing",
-          "url": "https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+          "name": "Vocaal Ensemble Cordier",
+          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
         },
         {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+          "name": "Ruben Jeyasundaram",
+          "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
         }
       ],
-      "duration_ms": 254769,
-      "name": "On Being - Rework",
-      "url": "https://open.spotify.com/track/4LXhbi4lUxbtTVywYCD5OX"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "k o : d a",
-        "url": "https://open.spotify.com/album/06UNIbT3ICptJEmbilqSl2"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Klass (MISSUXO Film Edit)",
-      "url": "https://open.spotify.com/track/3mFZ5f0WSCQCt8EISSCuZS"
+      "duration_ms": 199106,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R"
     },
     {
       "added_at": "2023-08-18 04:01:00",

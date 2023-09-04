@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Madison Rose ",
-  "num_followers": 743891,
+  "num_followers": 743922,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGNiZTFjODg3ZWQzOTM3NGM4OTMxYWEyODUzZDgwZjcwNTM2M2Iy",
+  "snapshot_id": "MCw2NDZkN2NjZTFkYTJmNTk1NTMwYTliZDA3NTFmMWVmNTkwNDc3NjI3",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
     },
     {
-      "added_at": "2023-06-22 04:00:00",
-      "album": {
-        "name": "Time After Time (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -187,6 +171,22 @@
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
+    },
+    {
+      "added_at": "2023-06-22 04:00:00",
+      "album": {
+        "name": "Time After Time (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -372,22 +372,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 250836,
-      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0N8hvQJMoZeMDEurU9afgD"
       },
       "artists": [
@@ -404,17 +388,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 224147,
-      "name": "Heartless - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/6S4vdF9ENvX8WN8PvJ6soA"
+      "duration_ms": 250836,
+      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -447,6 +431,22 @@
       "duration_ms": 225790,
       "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 224147,
+      "name": "Heartless - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/6S4vdF9ENvX8WN8PvJ6soA"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Life is Like a Dice Game - Spotify Singles",
         "url": "https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 284093,
       "name": "Life is Like a Dice Game - Spotify Singles",
       "url": "https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1612,22 +1612,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 202845,
-      "name": "God is a woman - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP"
       },
       "artists": [
@@ -1639,6 +1623,22 @@
       "duration_ms": 182387,
       "name": "One Kiss - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1k0gFBFXElnx6DJhcLKmYb"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 202845,
+      "name": "God is a woman - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5gRGXpg9mSxxaj3rK76VR3"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1820,22 +1820,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z"
-      },
-      "artists": [
-        {
-          "name": "Hey Violet",
-          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
-        }
-      ],
-      "duration_ms": 193610,
-      "name": "Congratulations - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ"
       },
       "artists": [
@@ -1852,6 +1836,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z"
+      },
+      "artists": [
+        {
+          "name": "Hey Violet",
+          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
+        }
+      ],
+      "duration_ms": 193610,
+      "name": "Congratulations - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
       },
       "artists": [
@@ -1863,6 +1863,22 @@
       "duration_ms": 231333,
       "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1j86WtctFE7fCDSJFux5Zt"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 174094,
+      "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/18gXKx8hfOcm35mFJfXj0r"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1911,22 +1927,6 @@
       "duration_ms": 163903,
       "name": "T-Shirt (Spotify Mix) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7yTGNfswQgcfZ0Y1LLI5aA"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1j86WtctFE7fCDSJFux5Zt"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 174094,
-      "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/18gXKx8hfOcm35mFJfXj0r"
     },
     {
       "added_at": "2023-01-11 19:54:48",

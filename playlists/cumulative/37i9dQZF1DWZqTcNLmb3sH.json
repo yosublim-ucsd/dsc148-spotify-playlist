@@ -7359,6 +7359,32 @@
     },
     {
       "album": {
+        "name": "Kushi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7efzbJBGvg9BoToMpkEVAz"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Bhavana Isvi",
+          "url": "https://open.spotify.com/artist/4nQarXr83H5tWPyWepz9k5"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230076,
+      "name": "Hrudayavidu Maounaa",
+      "url": "https://open.spotify.com/track/6Iytxv6u8UCuGavZUIyM63"
+    },
+    {
+      "album": {
         "name": "Hrudayavidu Maounaa (From \"Kushi\")",
         "url": "https://open.spotify.com/album/6InVlzomB5V48ciHStUve0"
       },
@@ -7382,7 +7408,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 230076,
       "name": "Hrudayavidu Maounaa (From \"Kushi\")",
       "url": "https://open.spotify.com/track/3wPJRSwmzVGlkGO7Gu80X2"
@@ -9768,7 +9794,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 210666,
       "name": "Kushi Title Song",
       "url": "https://open.spotify.com/track/5S2WuucQADjOVF7NZ8ryzB"
@@ -9816,7 +9842,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 210666,
       "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
       "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"

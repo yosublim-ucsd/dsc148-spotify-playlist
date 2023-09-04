@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 45511,
+  "num_followers": 45553,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
+  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -245,22 +245,6 @@
       "url": "https://open.spotify.com/track/39NuHXNW3SBW7ME4A1N0y8"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Un Canto",
-        "url": "https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B"
-      },
-      "artists": [
-        {
-          "name": "MUTA",
-          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
-        }
-      ],
-      "duration_ms": 284915,
-      "name": "Un Canto",
-      "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
-    },
-    {
       "added_at": "2023-03-31 18:13:24",
       "album": {
         "name": "Dubby Sunday",
@@ -279,6 +263,22 @@
       "duration_ms": 348662,
       "name": "Dubby Sunday",
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Un Canto",
+        "url": "https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B"
+      },
+      "artists": [
+        {
+          "name": "MUTA",
+          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
+        }
+      ],
+      "duration_ms": 284915,
+      "name": "Un Canto",
+      "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Que Me Siga (Malo)",
         "url": "https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 195946,
       "name": "Que Me Siga (Malo)",
       "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -691,6 +691,42 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
+      },
+      "artists": [
+        {
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Costa Para\u00edso",
+      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Tierra",
+        "url": "https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Conexi\u00f3n Total",
+      "url": "https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -717,42 +753,6 @@
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Tierra",
-        "url": "https://open.spotify.com/album/1fbKhVPG7X4oROz23Z7d2J"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Conexi\u00f3n Total",
-      "url": "https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
-      },
-      "artists": [
-        {
-          "name": "Aceros del Pac\u00edfico",
-          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Costa Para\u00edso",
-      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
-    },
-    {
       "added_at": "2022-06-30 17:42:11",
       "album": {
         "name": "Duele",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Cookin' Gumbo",
+        "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 209672,
+      "name": "Speakin' Nuyorican",
+      "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "La Tercera Vision",
         "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Cookin' Gumbo",
-        "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 209672,
-      "name": "Speakin' Nuyorican",
-      "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
     },
     {
       "added_at": "2022-06-07 16:47:23",

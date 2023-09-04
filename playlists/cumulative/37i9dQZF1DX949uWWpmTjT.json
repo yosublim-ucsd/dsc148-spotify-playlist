@@ -10862,7 +10862,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 294800,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA"
@@ -11454,6 +11454,24 @@
       "duration_ms": 288600,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/3xvd1bC0V1U3nQ24y2nBk8"
+    },
+    {
+      "album": {
+        "name": "Swift",
+        "url": "https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw"
+      },
+      "artists": [
+        {
+          "name": "Magnolia",
+          "url": "https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204041,
+      "name": "Swift",
+      "url": "https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6"
     },
     {
       "album": {
@@ -12272,7 +12290,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 174192,
       "name": "There's Always A Way",
       "url": "https://open.spotify.com/track/1kILTrdSQFgpOSAeycMPAe"
@@ -13680,6 +13698,24 @@
       "duration_ms": 169353,
       "name": "Wrap Your Troubles In Dreams",
       "url": "https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL"
+    },
+    {
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/7boH53I2zbrw1GoeACrj8c"
+      },
+      "artists": [
+        {
+          "name": "Ikigai",
+          "url": "https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/5VHpA5RrPEGY9NgHhahHnG"
     },
     {
       "album": {

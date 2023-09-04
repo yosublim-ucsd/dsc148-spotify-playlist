@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27YQi4aQ8cE.md) - [plain]
 
 > The most calming Christmas carols.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,815 likes - 71 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,817 likes - 71 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27YQi4aQ8cE.md) - [plain]
 | 70 | [A Boy Was Born, Op\. 3: Theme: A Boy Was Born](https://open.spotify.com/track/1MZHEyKKVzZFRUyF5Hfoi6) | [Benjamin Britten](https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn), [Elora Festival Singers](https://open.spotify.com/artist/5nT4cLeFAQJszMSk06DvDy), [Noel Edison](https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy) | [The Wonder of Christmas](https://open.spotify.com/album/31FdebdWzsv9oGTkgIEMJP) | 2:04 |
 | 71 | [Ecce Concipies](https://open.spotify.com/track/2Yl5ZUo8Q643hYAMLjYi32) | [Mark Sirett](https://open.spotify.com/artist/7mdEHYUUPtmUEXPa61ZQjv), [Elora Festival Singers](https://open.spotify.com/artist/5nT4cLeFAQJszMSk06DvDy), [Noel Edison](https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy) | [The Wonder of Christmas](https://open.spotify.com/album/31FdebdWzsv9oGTkgIEMJP) | 3:04 |
 
-Snapshot ID: `MCwxOWEwNTJmZjIwZTAyODBiYTA1YjgzZjcyZDU1ZTY3MmQxMDc2MDRl`
+Snapshot ID: `MCw0ZTU2NTU3ZGFlNzYyMDhjMWU0YzM2YmU2OTRiYWIwYzdhNDg5MmI1`

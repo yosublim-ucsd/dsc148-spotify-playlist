@@ -1,12 +1,12 @@
 {
   "description": "Catch your biggest flex to these summer tunes.",
-  "num_followers": 41959,
+  "num_followers": 41991,
   "original_name": "Summer Flex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjkyMDY4NCwwMDAwMDAwMGM1YTQwNzQ3ODkzNjVmYjVlNGQ3YmM1NGJiNjUxY2Iw",
+  "snapshot_id": "MCwwN2Y3NmEyZGY4NWJmNGE5NzNlYzc4ZDFhNGM0ZjE5OGY3OWZkOWQ5",
   "tracks": [
     {
       "added_at": "2023-05-15 01:15:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
-    },
-    {
-      "added_at": "2023-05-15 01:15:13",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2023-05-15 01:15:13",
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -683,18 +683,26 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Welcome To Brixton",
-        "url": "https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ"
+        "name": "Heavy Is The Head",
+        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
       "artists": [
         {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Welcome To Brixton",
-      "url": "https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9"
+      "duration_ms": 216706,
+      "name": "Own It (feat. Ed Sheeran & Burna Boy)",
+      "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
     },
     {
       "added_at": "2023-05-15 01:15:13",
@@ -719,26 +727,18 @@
     {
       "added_at": "2023-05-15 01:15:13",
       "album": {
-        "name": "Heavy Is The Head",
-        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
+        "name": "Welcome To Brixton",
+        "url": "https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Own It (feat. Ed Sheeran & Burna Boy)",
-      "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
+      "duration_ms": 180000,
+      "name": "Welcome To Brixton",
+      "url": "https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9"
     },
     {
       "added_at": "2023-05-15 01:15:13",

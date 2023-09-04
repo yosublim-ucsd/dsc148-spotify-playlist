@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 578261,
+  "num_followers": 578456,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
+  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
   "tracks": [
     {
       "added_at": "2023-07-17 18:15:29",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
+        "name": "Imaginary Appalachia",
+        "url": "https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Sleeping on the Blacktop",
+      "url": "https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 181868,
       "name": "Raise Hell",
       "url": "https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
-        "name": "Imaginary Appalachia",
-        "url": "https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Sleeping on the Blacktop",
-      "url": "https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "King Arthur: Legend of the Sword (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1OVF4Ls0TgBVe8rMdUqcyz"
-      },
-      "artists": [
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        },
-        {
-          "name": "Daniel Pemberton",
-          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "The Devil & The Huntsman",
-      "url": "https://open.spotify.com/track/2pbbv2T5M8eSV1lhjNhWqH"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "King Arthur: Legend of the Sword (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1OVF4Ls0TgBVe8rMdUqcyz"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+        },
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "The Devil & The Huntsman",
+      "url": "https://open.spotify.com/track/2pbbv2T5M8eSV1lhjNhWqH"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Devil Don't You Fool Me",
-        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 170985,
-      "name": "Devil Don't You Fool Me",
-      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Nobody knows.",
         "url": "https://open.spotify.com/album/307byX8K0rtQ6vOJ4OEMm2"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 279733,
       "name": "Too Dry To Cry",
       "url": "https://open.spotify.com/track/5oG9KGz90VbBGNH25BFWYL"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Devil Don't You Fool Me",
+        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 170985,
+      "name": "Devil Don't You Fool Me",
+      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Horehound",
-        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 380160,
-      "name": "Will There Be Enough Water?",
-      "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 194570,
       "name": "Chains",
       "url": "https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Horehound",
+        "url": "https://open.spotify.com/album/1nxECUyuIZF5JCrO9Xo2jO"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 380160,
+      "name": "Will There Be Enough Water?",
+      "url": "https://open.spotify.com/track/3VYbLgJNS7Jr7YlatA0lNe"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Quiet Flame",
-        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 242153,
-      "name": "Pull the Moon",
-      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "The Dirty River Boys",
         "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Hymns For a Dark Horse",
-        "url": "https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e"
+        "name": "Quiet Flame",
+        "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
       },
       "artists": [
         {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 233493,
-      "name": "In Our Talons",
-      "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
+      "duration_ms": 242153,
+      "name": "Pull the Moon",
+      "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1263,6 +1247,22 @@
       "duration_ms": 285680,
       "name": "Thin Line",
       "url": "https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Hymns For a Dark Horse",
+        "url": "https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e"
+      },
+      "artists": [
+        {
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "In Our Talons",
+      "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "Bastard Children",
-        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
-      },
-      "artists": [
-        {
-          "name": "Vudu Sister",
-          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Psalms",
-      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "Bastard Children",
+        "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
+      },
+      "artists": [
+        {
+          "name": "Vudu Sister",
+          "url": "https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Psalms",
+      "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "The Longest Day",
-        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
-      },
-      "artists": [
-        {
-          "name": "Barnaby Bright",
-          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
-        }
-      ],
-      "duration_ms": 270228,
-      "name": "Highway 9",
-      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "My Church Is Black",
         "url": "https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 178080,
       "name": "My Church Is Black",
       "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "The Longest Day",
+        "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Bright",
+          "url": "https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50"
+        }
+      ],
+      "duration_ms": 270228,
+      "name": "Highway 9",
+      "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
     },
     {
       "added_at": "2023-07-17 18:15:29",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-17 18:15:29",
       "album": {
-        "name": "The Ghost Who Walks",
-        "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
-      },
-      "artists": [
-        {
-          "name": "Karen Elson",
-          "url": "https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Stolen Roses",
-      "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
-    },
-    {
-      "added_at": "2023-07-17 18:15:29",
-      "album": {
         "name": "I Am The Man Thomas",
         "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 159101,
       "name": "I Am The Man Thomas",
       "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
+    },
+    {
+      "added_at": "2023-07-17 18:15:29",
+      "album": {
+        "name": "The Ghost Who Walks",
+        "url": "https://open.spotify.com/album/3kROejW59eSIewYwDdPtx1"
+      },
+      "artists": [
+        {
+          "name": "Karen Elson",
+          "url": "https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Stolen Roses",
+      "url": "https://open.spotify.com/track/4iA8sr24vIQkDmNeS8W1RR"
     },
     {
       "added_at": "2023-07-17 18:15:29",

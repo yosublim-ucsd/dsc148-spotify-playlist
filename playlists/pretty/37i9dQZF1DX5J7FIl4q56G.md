@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Empire State Bastard
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,407 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,495 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 59 | [Strangers](https://open.spotify.com/track/1YNpO2PZvHr3MwekivffQB) | [Sorcerer](https://open.spotify.com/artist/2x8EjPnpXK19ZNVgoWuFAm), [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Strangers](https://open.spotify.com/album/5Ce8rKh0mR6CitOLVaJXmW) | 6:08 |
 | 60 | [In The House, In A Heartbeat](https://open.spotify.com/track/4wPuwcOkK0nq2vStZnZisV) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Blue Eyes](https://open.spotify.com/album/210yoeVW2VzTziInw6NpFS) | 4:58 |
 
-Snapshot ID: `MCw0MWIxZDM1NzI3YmJhMGNkYjY2NmRkMWY4NjBjN2RiNjhmZmQzNmUx`
+Snapshot ID: `MCw4MDI2Y2UxNDZhY2I3ZDViYjRiOTFkNWZlMDM2YjFiYjliMWYzZmYx`

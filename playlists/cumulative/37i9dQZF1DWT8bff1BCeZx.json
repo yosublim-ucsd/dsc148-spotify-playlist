@@ -239,6 +239,36 @@
     },
     {
       "album": {
+        "name": "Blessings (Everywhere I Go)",
+        "url": "https://open.spotify.com/album/0EpZhsAfVEDl1vGfhV6mMg"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Blessings (Everywhere I Go)",
+      "url": "https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW"
+    },
+    {
+      "album": {
         "name": "Cock & Bull",
         "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
       },
@@ -250,7 +280,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 602290,
       "name": "Cock & Bull",
       "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"

@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-651 songs - 1 day 8 hr 28 min
+652 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [No Penance](https://open.spotify.com/track/51B8N0SoTb3BpOgNyRluDO) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [No Penance b/w Cemetery's Garden](https://open.spotify.com/album/0AQb3jbTAnnzDgOFTNwpdK) | 3:38 | 2020-03-20\* | 2021-10-11 |
 | [No Sleep 'Til Aröd](https://open.spotify.com/track/6UM7BDmv6Lned1HHGLFfvB) | [Tear Them Down](https://open.spotify.com/artist/6d8HYD6W4rE3borHfazAPb) | [No Sleep 'Til Aröd](https://open.spotify.com/album/6UzmgFQ0q2ahOG7YfXwRXF) | 2:21 | 2020-03-21 | 2022-07-20 |
 | [No Thank You, I'm More in to Fake Grindcore](https://open.spotify.com/track/7I1B5OGVSbGzOeSF5mHN0l) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Return of the Arsonist](https://open.spotify.com/album/3OFVZtzifpQJ9Q5FUnlq8F) | 2:08 | 2020-03-20 | 2022-07-14 |
-| [Not the Same](https://open.spotify.com/track/0q6Qyd2QaHMHp7APKyQsyi) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/3OXgyKFsDVI8PzYY0mspqD) | 3:08 | 2022-07-26 |  |
+| [Not the Same](https://open.spotify.com/track/0q6Qyd2QaHMHp7APKyQsyi) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/3OXgyKFsDVI8PzYY0mspqD) | 3:08 | 2022-07-26 | 2023-09-04 |
 | [Not The Same](https://open.spotify.com/track/2dap4hYk1G7f7mxCpeRkDD) | [Bodyjar](https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS) | [How It Works](https://open.spotify.com/album/5rEB2viPLrknVVc1OMtEM4) | 3:10 | 2020-03-20 | 2022-07-29 |
 | [Nothing Can Stop Me](https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A War Against You](https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao) | 3:18 | 2020-03-22 | 2022-07-27 |
 | [Nothing Changes](https://open.spotify.com/track/0Eucj02XTx0Ir10BpMgJdD) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [This Place Sucks Ass](https://open.spotify.com/album/1rBNmpFB4DMwoQWkQ8JKi3) | 3:26 | 2020-10-24 | 2022-07-04 |
@@ -457,6 +457,7 @@
 | [Rot](https://open.spotify.com/track/1RNPJPzixqVMv1oOhtOeLA) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Rot](https://open.spotify.com/album/0cSwU3Xvv5guTM0qlBSyY8) | 3:21 | 2020-09-19 | 2022-02-15 |
 | [Rotten Lungs](https://open.spotify.com/track/1roobdUEJfvpikkOalUoQT) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Born a Cynic](https://open.spotify.com/album/1iMggElDO926mWT2bYCkkz) | 1:50 | 2020-03-20 | 2022-06-03 |
 | [Ruby Soho](https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:37 | 2021-01-23 | 2023-08-25 |
+| [Ruby Soho](https://open.spotify.com/track/0vfhk1lH3zYesFN1x7vV46) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE) | 2:37 | 2022-07-26 |  |
 | [Run Fat Boy Run](https://open.spotify.com/track/5S4SVfPT4wT5MQzMAnwlIr) | [Nine Pound Hammer](https://open.spotify.com/artist/6eGyO5YgfOaG58AOPjAvKd) | [Hayseed Timebomb](https://open.spotify.com/album/6AxygBwDS693Dq9WUBtFUn) | 2:37 | 2020-03-26 | 2022-07-01 |
 | [Run for It](https://open.spotify.com/track/1dRDjq61JBMvtXSA6Sc0oA) | [Not On Tour](https://open.spotify.com/artist/16WDYbEW4sAp744DVfmr3u) | [Growing Pains](https://open.spotify.com/album/04AjjA6SOL2h1UZ2hmA8ub) | 1:48 | 2020-03-23 | 2021-10-09 |
 | [S01E02.Return.Of.The.Arsonist.720p.HDTV.x264](https://open.spotify.com/track/4wGI9mWsQA6KMkS92NMTeY) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Return of the Arsonist](https://open.spotify.com/album/3OFVZtzifpQJ9Q5FUnlq8F) | 3:01 | 2020-03-20\* | 2022-07-29 |

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6583\)
+## Playlists \(6585\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1815,6 +1815,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fiesta & Karaoke](/playlists/pretty/37i9dQZF1DX0qVgUFKIZBO.md)
 - [Fiesta 2000era](/playlists/pretty/37i9dQZF1DWXbrtitCHmmo.md)
 - [Fiesta 90era](/playlists/pretty/37i9dQZF1DWW7hJS3Xj96I.md)
+- [Fiesta Cumbiera](/playlists/pretty/37i9dQZF1DX7N7YskrtOXJ.md)
 - [Fiesta Indie](/playlists/pretty/37i9dQZF1DWSXAHZTiX76o.md)
 - [Fiesta Pop](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md)
 - [Fiesta de Barrio](/playlists/pretty/37i9dQZF1DX8cwL6qhvzYg.md)
@@ -6415,6 +6416,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [poppin' off](/playlists/pretty/37i9dQZF1DX4P18Z9pzZIZ.md)
 - [pov](/playlists/pretty/37i9dQZF1DX54NB08XsyEC.md)
 - [pov \(2\)](/playlists/pretty/37i9dQZF1DX01LszHBn1s8.md)
+- [pov: eres la amiga que se dio cuenta](/playlists/pretty/37i9dQZF1DXd8OvHOQg0RD.md)
 - [pov: te enamoras de tu bestie](/playlists/pretty/37i9dQZF1DX1vH2ylOhtch.md)
 - [pov: te rompió el corazón](/playlists/pretty/37i9dQZF1DWSCmQCuAzM4J.md)
 - [pov: u borrowed an alien's headphones](/playlists/pretty/37i9dQZF1DWW9lEco8NkcU.md)

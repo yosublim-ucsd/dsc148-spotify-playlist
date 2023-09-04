@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Jianbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,047 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,052 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Spill the Tea](https://open.spotify.com/track/6o4BnNLndQTte5dBB0IM0T) | [Bareface](https://open.spotify.com/artist/3szOHasfEbgVJ0CnmugcyS) | [Spill the Tea](https://open.spotify.com/album/0LzQUFYZDcqjcnINUJI6ZX) | 3:24 |
 | 80 | [Green Light](https://open.spotify.com/track/3pK8YjdB2827WRRvEAEUgC) | [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL) | [Green Light](https://open.spotify.com/album/3kH2nsB9EnNFOi3AScxR5I) | 2:13 |
 
-Snapshot ID: `MCxlMDJjOTUxYTVmMDM4MzY1OTM1YmNhYmU0OWFhNDhjZTcyNzk5NDI2`
+Snapshot ID: `MCw1MzQxZjI0ZjBiMjUwODQ3NmZlZTI2Mzg5MTBkZWE3YzAyYTZhZmVl`

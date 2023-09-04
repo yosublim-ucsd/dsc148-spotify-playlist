@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Priscilla Félix\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,089 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,088 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 17 | [Pulso](https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm) | [Laila Farinola](https://open.spotify.com/artist/7nWb2WA5wQLANBcbqGodwW), [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [Pulso](https://open.spotify.com/album/1h6yv9q7OlvXW62MDGEJLS) | 4:21 |
 | 18 | [Recordar es detener el tiempo con imágenes que se borran y se inventan](https://open.spotify.com/track/3DCiLbKCJCIIKRrmydjPcW) | [Azain](https://open.spotify.com/artist/7JM4Q4EUXduIDqwiux3uz8) | [Recordar es detener el tiempo con imágenes que se borran y se inventan](https://open.spotify.com/album/682yr0r8UvqD52yWJ5Zn08) | 3:17 |
 | 19 | [Dime](https://open.spotify.com/track/75A8bQ5wEtVwL5sWtIdCBR) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Dime](https://open.spotify.com/album/6MNGwdxN8Wxqoh54fNBvGZ) | 2:30 |
-| 20 | [Maserati](https://open.spotify.com/track/3t0h2OtMpbqVWhrufC416b) | [Duriex](https://open.spotify.com/artist/2UFkq8zMMnNeb6uCXpCGVW) | [Maserati](https://open.spotify.com/album/6ei6hWVQat2jzul7fVIhyc) | 2:20 |
-| 21 | [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 |
-| 22 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
-| 23 | [Mal Marzo](https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Pulsión](https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2) | 2:25 |
+| 20 | [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 |
+| 21 | [Maserati](https://open.spotify.com/track/3t0h2OtMpbqVWhrufC416b) | [Duriex](https://open.spotify.com/artist/2UFkq8zMMnNeb6uCXpCGVW) | [Maserati](https://open.spotify.com/album/6ei6hWVQat2jzul7fVIhyc) | 2:20 |
+| 22 | [Mal Marzo](https://open.spotify.com/track/766ijuYNzQTsmaaUonOvM4) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Pulsión](https://open.spotify.com/album/19atAigwiE58wvFBfoqmQ2) | 2:25 |
+| 23 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
 | 24 | [ando chiple <\\3](https://open.spotify.com/track/2PEA0leKNjKdrFeJ5ES7Hw) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [métodos.](https://open.spotify.com/album/5wEe3ltvgEO1fSZr1AjJ2Y) | 3:27 |
 | 25 | [TUYO](https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [TUYO](https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ) | 3:09 |
 | 26 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 41 | [Lento](https://open.spotify.com/track/2MEAClYMSU29lYTC48wnYK) | [bistué](https://open.spotify.com/artist/0kvyt0JO9ccgvhfqFu7xrR) | [Lento](https://open.spotify.com/album/3iQajQLPi4szPDSVD0Isdm) | 3:28 |
 | 42 | [Surrounds Me](https://open.spotify.com/track/3v2io7alev5ATlNAkuEx7n) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [Surrounds Me](https://open.spotify.com/album/4XNILL2zk2RsAaTPrPxlgD) | 2:49 |
 | 43 | [Patio de Adelante](https://open.spotify.com/track/0qlmzGHRC7pBs1bikI23oa) | [Playa Gótica](https://open.spotify.com/artist/1l4eyzytKntvPlHMCyPkKz) | [Patio de Adelante](https://open.spotify.com/album/1J6C1qXMP2BCyCC2hRZrVj) | 3:56 |
-| 44 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 |
-| 45 | [Intermodal](https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Intermodal](https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f) | 2:54 |
+| 44 | [Intermodal](https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Intermodal](https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f) | 2:54 |
+| 45 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 |
 | 46 | [Tantas cosas que decir](https://open.spotify.com/track/3x1wNCG7SxYfnSXnIhHe1K) | [PLEITØ](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS) | [4 x el desamor](https://open.spotify.com/album/6wmkhVn2PwPkgIx4WTzpxr) | 3:01 |
 | 47 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 |
 | 48 | [En el dolor también hay dios](https://open.spotify.com/track/6ZUCiqcbTFd2fPbDYz9xNi) | [Max Valdés](https://open.spotify.com/artist/4aDtvnSRjsWzbXZFQTnDwY) | [En el dolor también hay dios](https://open.spotify.com/album/26utTCFELgXMcQM9yguHEW) | 3:44 |
 | 49 | [casas de cartón](https://open.spotify.com/track/16titNP6WgYHlaRGjbPySh) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4) | [todo lo que fui](https://open.spotify.com/album/32nuoeKydzLuyZh5gwzoZv) | 3:32 |
 | 50 | [Sad Brillo](https://open.spotify.com/track/70D1DWrZqhxtiBNCs9LC8d) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Sad Brillo](https://open.spotify.com/album/4eN5vemrQsubJb5HVFPHbv) | 3:02 |
 
-Snapshot ID: `MCw2NDg3MWM3MmY1OTE2ZDRlMjNjNTQ4MmMxNGI0Y2RmM2QxOGE1NDE0`
+Snapshot ID: `MCw5ZGI5NjRkNTA2MWM1NWUyMDk0ZTEwYWM4MTE0Zjk2NTkwNmFlMWE3`

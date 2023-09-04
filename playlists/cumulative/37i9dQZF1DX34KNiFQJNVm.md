@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Gusttavo Lima e Ana Castela, Luísa Sonza, MC IG, Péricles e muito mais!
 
-7,799 songs - 16 day 12 hr 55 min
+7,800 songs - 16 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5409,7 +5409,8 @@
 | [Por Deporte](https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:49 | 2022-11-25 | 2022-12-03 |
 | [Por Isso Eu Não Volto Mais](https://open.spotify.com/track/7w7s2BMCHxX2H8q3efax7m) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [Por Isso Eu Não Volto Mais](https://open.spotify.com/album/3Ws9jUBLvh6Rgq3Z7ONMWp) | 2:50 | 2023-07-07 | 2023-07-15 |
 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 | 2022-11-11 | 2022-11-19 |
-| [Por Isso Que Eu Bebo \- Ao Vivo](https://open.spotify.com/track/4lzuXRtIXxtRp4LSHvZgMe) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [15 Anos \(Ao Vivo / EP03\)](https://open.spotify.com/album/5AvsnWxFcSW3jlNIV2ktlL) | 2:36 | 2023-09-01 |  |
+| [Por Isso Que Eu Bebo \- Ao Vivo](https://open.spotify.com/track/2J2K60cIt2h7nv5cDy7W2V) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Por Isso Que Eu Bebo \(Ao Vivo\)](https://open.spotify.com/album/2qGVtuTtQ2EdkHq3SfhacM) | 2:36 | 2023-09-01 |  |
+| [Por Isso Que Eu Bebo \- Ao Vivo](https://open.spotify.com/track/4lzuXRtIXxtRp4LSHvZgMe) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [15 Anos \(Ao Vivo / EP03\)](https://open.spotify.com/album/5AvsnWxFcSW3jlNIV2ktlL) | 2:36 | 2023-09-01 | 2023-09-04 |
 | [Por Mim](https://open.spotify.com/track/5K2Xo21OoSpjA6asllBxvP) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG) | [Por Mim](https://open.spotify.com/album/2GnNEgGmlPonEmhi1SAKy6) | 3:00 | 2023-02-17 | 2023-02-25 |
 | [Por Mim Eu Te Deixava Agora \- Ao Vivo](https://open.spotify.com/track/5bZcdOi4bNnJsxj6c0jJ4n) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Por Mim Eu Te Deixava Agora \(Ao Vivo\)](https://open.spotify.com/album/1McPbWwKy9JDBeYTxCv34I) | 2:34 | 2023-03-31 | 2023-04-09 |
 | [Por Que](https://open.spotify.com/track/3KPpqQ1sdT52nwehO3NAhG) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [Por Que](https://open.spotify.com/album/2zmXwzhGDgrITNy98BUqK1) | 3:18 | 2022-11-11 | 2022-11-19 |

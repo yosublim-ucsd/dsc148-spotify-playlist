@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ach'hadlak](https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR) | [Wissam Al Rached](https://open.spotify.com/artist/5oFRthuA92B8mtcg1sCjS7) | [Ach'hadlak](https://open.spotify.com/album/4PRwROFXegkxVhizqno7Es) | 4:48 | 2021-08-25 |  |
+| [Ach'hadlak](https://open.spotify.com/track/11Jp7Vr2b27YFeWeafF7XR) | [Wissam Al Rached](https://open.spotify.com/artist/5oFRthuA92B8mtcg1sCjS7) | [Ach'hadlak](https://open.spotify.com/album/4PRwROFXegkxVhizqno7Es) | 4:48 | 2021-08-25 | 2023-09-04 |
 | [Ah Ya Hanan](https://open.spotify.com/track/5rZUSiJgQUMoo6nGoyzj2d) | [Moudy Nassar](https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP) | [Ah Ya Hanan](https://open.spotify.com/album/5c039mRoeey949juDKC4Q0) | 3:21 | 2021-08-25 | 2023-04-01 |
 | [Ah Ya Hanan](https://open.spotify.com/track/2ZL2WO6HvgbLGNwePzohU9) | [Moudy Nassar](https://open.spotify.com/artist/7Mafn4uzAseQADYkXx3VrP) | [Ah Ya Hanan](https://open.spotify.com/album/4c4akh3TVGYCLaN9RhwKXw) | 3:21 | 2022-02-10 |  |
 | [Ahla Sabiyyi](https://open.spotify.com/track/29RO49exsxezSkdZLRKvK4) | [Jad Ezzedine](https://open.spotify.com/artist/76Bde0ICsFrWu9Bzv2atL3) | [Ahla Sabiyyi](https://open.spotify.com/album/2xkWxkBmOlCGsnCIFtbJNU) | 3:49 | 2022-02-10 |  |
@@ -98,7 +98,7 @@
 | [Ya Zghiri](https://open.spotify.com/track/6LyvwfbjUvD3oKM1vkAId8) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Enti Mshiti](https://open.spotify.com/album/32H47741Ke2C4lq45RLke8) | 5:06 | 2021-08-25 |  |
 | [Yalli Betiheb Elna'na'](https://open.spotify.com/track/09BqNGf6vca4f2q4P0YkLF) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Yalli Betiheb Elna'na'](https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH) | 3:29 | 2021-08-25 |  |
 | [Yekhreb Baytak](https://open.spotify.com/track/0386Pg2s8ft0KITln5gbTQ) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Yekhreb Baytak](https://open.spotify.com/album/5xlO8W7WbuksQGbSIDrVTa) | 3:49 | 2022-02-10 | 2023-03-23 |
-| [Yekhreb Baytak](https://open.spotify.com/track/4lwBgydZb1EqpHccZgBuXU) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Yekhreb Baytak](https://open.spotify.com/album/6Sjd3uTgHYAJBJEG429fft) | 3:49 | 2021-08-25 | 2023-08-29 |
+| [Yekhreb Baytak](https://open.spotify.com/track/4lwBgydZb1EqpHccZgBuXU) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Yekhreb Baytak](https://open.spotify.com/album/6Sjd3uTgHYAJBJEG429fft) | 3:49 | 2021-08-25 |  |
 | [Zareef Al Tool](https://open.spotify.com/track/4vhtERQbfYJHIe86HGH1W8) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 8:12 | 2021-08-25 |  |
 | [أموت وينشرح صدري](https://open.spotify.com/track/3sA7cQ9MbrEbyYQAZEUvB3) | [Wadih El Seikh](https://open.spotify.com/artist/4iPulKCQz9xAVWVAtuoGFL) | [أموت وينشرح صدري](https://open.spotify.com/album/1eCBirj0E12RqKj67P9qlH) | 2:48 | 2021-08-25 | 2022-01-12 |
 | [بفرح فيكي](https://open.spotify.com/track/2WueRuscWNLCRybIdD5Qml) | [Hossam Jneed](https://open.spotify.com/artist/7jQwxux9RdgTM4Rasky1s2) | [بفرح فيكي](https://open.spotify.com/album/5ficpXMbnFoJmBHXzCQaNT) | 5:29 | 2021-08-25 |  |

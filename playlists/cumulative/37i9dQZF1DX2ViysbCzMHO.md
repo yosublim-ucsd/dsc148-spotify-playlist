@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-248 songs - 13 hr 32 min
+249 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN) | 3:01 | 2023-02-03 | 2023-05-20 |
 | [I Can't Love You Anymore \- In Rare Form](https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest: In Rare Form](https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8) | 3:08 | 2022-11-04 |  |
 | [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 | 2021-12-17 | 2023-05-07 |
-| [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 | 2022-01-21 |  |
+| [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 | 2022-01-21 | 2023-09-04 |
 | [I Hope You’re Happy Now \- Live](https://open.spotify.com/track/7dHIJjEVtekWBZr16Q2owe) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [I Hope You’re Happy Now \(Live\)](https://open.spotify.com/album/74cMAdnY7pp9kDBWEkxxsz) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [I Remember You](https://open.spotify.com/track/5dJayBRoblzjYfmJSmjAdE) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [I Remember You](https://open.spotify.com/album/6Rvc0QeFunn3FfwIICJPgO) | 4:22 | 2021-12-17 | 2022-07-26 |
 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 | 2021-12-17 |  |
@@ -122,6 +122,7 @@
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2021-12-17 | 2023-05-15 |
 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2022-07-08 | 2023-09-03 |
 | [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 | 2023-05-13 |
+| [Last Rodeo \- Acoustic](https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo \(Acoustic\)](https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV) | 3:10 | 2023-09-01 |  |
 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 | 2023-02-17 |  |
 | [Led Myself On \- Acoustic](https://open.spotify.com/track/4ks5IPN4v73N5eib9JRk4N) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Led Myself On \(Acoustic\)](https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9) | 2:58 | 2021-12-17 | 2022-04-16 |
 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 | 2021-12-17 | 2023-08-06 |

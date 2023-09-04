@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Jhayco & Peso Pluma",
-  "num_followers": 523795,
+  "num_followers": 523863,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDUwZTllYzE5YjQyZDM1MjUxNjRhMjgyMTE5ZDA2YTgyNjRmNTZm",
+  "snapshot_id": "MCxkZGFjZjg3ZjM0ZWRiMjk2ZDA2MGI2ZDAzZGMzMTFiMjU0NTEwYzhh",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Una en un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 155828,
+      "name": "Una en un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 183652,
       "name": "SI TE PEGAS",
       "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Una en un Mill\u00f3n",
-        "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 155828,
-      "name": "Una en un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Piedritas En Los Dientes",
-        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 156544,
-      "name": "Piedritas En Los Dientes",
-      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 254000,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Piedritas En Los Dientes",
+        "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 156544,
+      "name": "Piedritas En Los Dientes",
+      "url": "https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "En Bajita",
-        "url": "https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "En Bajita",
-      "url": "https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Sin Preguntar",
         "url": "https://open.spotify.com/album/7rRuM1AiQPiFH5T4cxpE3d"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 186352,
       "name": "Andaluza",
       "url": "https://open.spotify.com/track/2fhtNu3GpxpZZL669pbP1h"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "En Bajita",
+        "url": "https://open.spotify.com/album/77hesD3v2jWR2dnhElz9Yp"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "En Bajita",
+      "url": "https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1447,6 +1447,50 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "LA CALMA",
+        "url": "https://open.spotify.com/album/3PWRPXFAbishAfsjagC9TB"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "LA CALMA",
+      "url": "https://open.spotify.com/track/7qhycO2o68HOGl1vMCWIes"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Whiskey y Coco (Remix)",
+        "url": "https://open.spotify.com/album/4g71V57SAYujhaE1QcJUCF"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Whiskey y Coco - Remix",
+      "url": "https://open.spotify.com/track/3pUqOFuXETdcGRh8E587BE"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m"
       },
@@ -1467,26 +1511,6 @@
       "duration_ms": 151360,
       "name": "Juego",
       "url": "https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "LA CALMA",
-        "url": "https://open.spotify.com/album/3PWRPXFAbishAfsjagC9TB"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        },
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "LA CALMA",
-      "url": "https://open.spotify.com/track/7qhycO2o68HOGl1vMCWIes"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1527,30 +1551,6 @@
       "duration_ms": 148504,
       "name": "Pa' Que Afinken",
       "url": "https://open.spotify.com/track/5nZdGg5KXKmp3Vzha41wje"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Whiskey y Coco (Remix)",
-        "url": "https://open.spotify.com/album/4g71V57SAYujhaE1QcJUCF"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Whiskey y Coco - Remix",
-      "url": "https://open.spotify.com/track/3pUqOFuXETdcGRh8E587BE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Mi Juego",
+        "url": "https://open.spotify.com/album/5NqPSRJYwQpOfC46NxS7jL"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Mi Juego",
+      "url": "https://open.spotify.com/track/03WbAqjXZhxbItGhhjYe2m"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "VUELA",
         "url": "https://open.spotify.com/album/3Ln9Xe2JfSl8kvh9MeABgq"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 193394,
       "name": "VUELA",
       "url": "https://open.spotify.com/track/3IFXsUoXRepHjX9sK4Svke"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Mi Juego",
-        "url": "https://open.spotify.com/album/5NqPSRJYwQpOfC46NxS7jL"
-      },
-      "artists": [
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Mi Juego",
-      "url": "https://open.spotify.com/track/03WbAqjXZhxbItGhhjYe2m"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1743,30 +1743,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "La Single",
-        "url": "https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "La Single",
-      "url": "https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Bichote",
         "url": "https://open.spotify.com/album/61ERyp8aKWnQkYEVPOk6fU"
       },
@@ -1783,22 +1759,6 @@
       "duration_ms": 241826,
       "name": "Bichote",
       "url": "https://open.spotify.com/track/0OxozClU9H0OWKQ4C4gNv5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Perdon\u00e9monos",
-        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Perdon\u00e9monos",
-      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1823,18 +1783,58 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Umaye",
-        "url": "https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7"
+        "name": "La Single",
+        "url": "https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc"
       },
       "artists": [
         {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 151200,
-      "name": "Umaye",
-      "url": "https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY"
+      "duration_ms": 276066,
+      "name": "La Single",
+      "url": "https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Perdon\u00e9monos",
+        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Perdon\u00e9monos",
+      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Dudas De M\u00ed",
+        "url": "https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 158698,
+      "name": "Dudas De M\u00ed",
+      "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1859,18 +1859,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Dudas De M\u00ed",
-        "url": "https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0"
+        "name": "Umaye",
+        "url": "https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7"
       },
       "artists": [
         {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
         }
       ],
-      "duration_ms": 158698,
-      "name": "Dudas De M\u00ed",
-      "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
+      "duration_ms": 151200,
+      "name": "Umaye",
+      "url": "https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Not\u00f3n",
+        "url": "https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Not\u00f3n",
+      "url": "https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Astros",
         "url": "https://open.spotify.com/album/0ABNkRjooiKfK9ZNgWrCK0"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 236590,
       "name": "T\u00edrame",
       "url": "https://open.spotify.com/track/5s02iWgBdqnf75q0xTdvj4"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Not\u00f3n",
-        "url": "https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Not\u00f3n",
-      "url": "https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO"
     },
     {
       "added_at": "2023-09-01 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Muthaka & Emma Cheruto
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,492 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,506 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Rotate](https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Rotate](https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e) | 2:49 |
 | 60 | [Nfollowinga](https://open.spotify.com/track/0VNAMIE10wDY5zy6jqmQQY) | [Miriam Namaganda](https://open.spotify.com/artist/4WPIAHlYewpWNZnWOlEhiF), [Angella Katatumba](https://open.spotify.com/artist/1vpGA9WdQqdZHY36FcYoqw) | [Nfollowinga](https://open.spotify.com/album/4gA8KJQVSNlhjy74KRDnLP) | 2:47 |
 
-Snapshot ID: `MCxiMDNkZjkwZmM3NjQ0OTg5ZjUyMWZkZjE0NzQzN2M3MGQxNTY0MDU1`
+Snapshot ID: `MCw2MTFkMWZkYTk4Zjg3MDExMDczOTM1NmUwNWQ1Y2Q1NmE3YTI1Njgx`

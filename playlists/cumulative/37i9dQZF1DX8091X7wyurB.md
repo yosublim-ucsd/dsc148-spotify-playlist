@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-201 songs - 18 hr 4 min
+202 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 | 2023-09-01 |  |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-05-19 |  |
 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 | 2022-08-25 |  |
+| [Bina Moya Waka \(Live\)](https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Bina Moya Waka \(Live\)](https://open.spotify.com/album/7I4DEI4Hcojs2MieWKeOqP) | 6:37 | 2023-09-01 |  |
 | [Bisengo ya lola](https://open.spotify.com/track/30m1YigY1INpbNVD5Polg5) | [Mike Kalambay](https://open.spotify.com/artist/6JrKAZX6GY55wH27xlcMX9) | [Bisengo ya lola](https://open.spotify.com/album/15pCjtn5maKwQjXrc1QHcd) | 7:29 | 2023-04-07 | 2023-04-28 |
 | [Blessed](https://open.spotify.com/track/2jPpjqNgpYiOfarRH5A1p2) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt), [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ) | [Blessed](https://open.spotify.com/album/43a4ZtP3TRzwWQiF3nU1Yr) | 5:09 | 2023-03-03 | 2023-04-15 |
 | [Blessings](https://open.spotify.com/track/4qLj7niX2TDu5XMakOKcYU) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Blessings](https://open.spotify.com/album/7rcxNFwtfBjFHeu9BSGeXW) | 2:41 | 2022-06-30 | 2023-05-16 |
@@ -45,7 +46,7 @@
 | [East To West](https://open.spotify.com/track/4Af0nbwppQs3hc5ga2mzby) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [East To West](https://open.spotify.com/album/2mppFezAfFbXwrthx4HKnR) | 4:11 | 2023-08-04 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-04-21 |  |
 | [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 | 2023-06-09 |  |
-| [Ebenezeri \- Live Version](https://open.spotify.com/track/6EhVvsXCwlrlHrJuBmlYPZ) | [Apex Choir](https://open.spotify.com/artist/7HIOJjMPWrpsgduor6TGNr) | [Sounds of Testimonies](https://open.spotify.com/album/4wmV8eWeMnWG8MgkOwPD4o) | 24:30 | 2023-06-16 |  |
+| [Ebenezeri \- Live Version](https://open.spotify.com/track/6EhVvsXCwlrlHrJuBmlYPZ) | [Apex Choir](https://open.spotify.com/artist/7HIOJjMPWrpsgduor6TGNr) | [Sounds of Testimonies](https://open.spotify.com/album/4wmV8eWeMnWG8MgkOwPD4o) | 24:30 | 2023-06-16 | 2023-09-04 |
 | [Ese \(Thank You\)](https://open.spotify.com/track/1vS7QapA3eXAVkhjbnYKpX) | [Becky Larry\-Izamoje](https://open.spotify.com/artist/0AGAoKVTIRwtQll1aMeoiv) | [Ese \(Thank You\)](https://open.spotify.com/album/3js7Nt0bKja4ZG0PkS1Vpw) | 4:59 | 2022-06-30 | 2023-02-16 |
 | [EVERYTHING \- Unscripted](https://open.spotify.com/track/55nSnL3pTde0hIsdLjah1z) | [Gift Yahaya](https://open.spotify.com/artist/4apbdLPoZTUnHSEAIYUPxt) | [EVERYTHING \(Unscripted\)](https://open.spotify.com/album/07SJNNGiDIWEdrT4KpiOOf) | 2:41 | 2023-07-28 | 2023-08-04 |
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 | 2023-07-07 |

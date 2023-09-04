@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 667414,
+  "num_followers": 667522,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDcxZDU3M2M2ZGQ4MWYxNDdmNzRiYTFiZDI4NTVjOGU2NTNhMWIw",
+  "snapshot_id": "MCxjZTE5MmRkMjQ5YWFmYTViNDE0NTZmNTk3NGQ5Y2UxMWFiMmU3NTcw",
   "tracks": [
     {
       "added_at": "2023-08-31 19:57:26",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/1dSihfk7gkcm5IjSYO9AAp"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/3SFFAZ3QH7clx7uA7BpLqJ"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 166310,
       "name": "Duele",
       "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 144300,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Toma Mi Mano",
-        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
-      },
-      "artists": [
-        {
-          "name": "Matias Juarez",
-          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Toma Mi Mano",
-      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 231724,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/0kq1HuBQzWPJfC2qXQfeTK"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Toma Mi Mano",
+        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
+      },
+      "artists": [
+        {
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Toma Mi Mano",
+      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Bolitas",
-        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Da Silva",
-          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
-        }
-      ],
-      "duration_ms": 221322,
-      "name": "Bolitas",
-      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Soy capaz",
         "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+        "name": "Bolitas",
+        "url": "https://open.spotify.com/album/3BNA0RribroeshLDr3PTWB"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
         }
       ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+      "duration_ms": 221322,
+      "name": "Bolitas",
+      "url": "https://open.spotify.com/track/16FVdADW8lXAqGCDqausYB"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1275,6 +1259,22 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Espera (feat. Carlos Sadness)",
         "url": "https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Conf\u00eden En M\u00ed",
-        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 108586,
-      "name": "No Eres T\u00fa, Soy Yo",
-      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Volves",
         "url": "https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 242000,
       "name": "Volves",
       "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Conf\u00eden En M\u00ed",
+        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 108586,
+      "name": "No Eres T\u00fa, Soy Yo",
+      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Verano, por siempre",
-        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 164601,
-      "name": "habl\u00e9 con ella ayer",
-      "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "if you let me",
         "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 160909,
       "name": "if you let me",
       "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Verano, por siempre",
+        "url": "https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 164601,
+      "name": "habl\u00e9 con ella ayer",
+      "url": "https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx"
     },
     {
       "added_at": "2023-08-31 19:57:26",

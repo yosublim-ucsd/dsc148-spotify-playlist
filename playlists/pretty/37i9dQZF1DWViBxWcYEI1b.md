@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,840 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,896 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 75 | [Name in Lights](https://open.spotify.com/track/6dtAX5faQSUOS1950qXT8x) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Name in Lights](https://open.spotify.com/album/0j8V7hJZIsJqr1aN8nPNAE) | 3:31 |
 | 76 | [Losing Faith](https://open.spotify.com/track/1vrkqfiCKoO6B6yLV3UO6M) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Losing Faith](https://open.spotify.com/album/1HGxWsB6SlGGILjSAOKjnb) | 3:38 |
 | 77 | [Last Night](https://open.spotify.com/track/5OZKS9KNi1srgZ3GNowMnX) | [Pelch](https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV) | [Last Night](https://open.spotify.com/album/5H8GqkwKBXZde8Y2OLpOcl) | 2:27 |
-| 78 | [Snow Angel](https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n) | 3:35 |
+| 78 | [Snow Angel](https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:35 |
 | 79 | [Silly Me](https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Silly Me](https://open.spotify.com/album/7HBMhkR1VpAQQF93biR19H) | 3:19 |
 | 80 | [Cold](https://open.spotify.com/track/1puAdUyTT8jhtguWD0Rkpr) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Home](https://open.spotify.com/album/6OkMAm6ViqFfmRFo0clNHi) | 2:08 |
 | 81 | [Didn't Try](https://open.spotify.com/track/4He4Rux6cKDcijY55waOTe) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Didn't Try](https://open.spotify.com/album/3ELNR1CvykyZs6i7h5rO5g) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Jimmy's House](https://open.spotify.com/track/2qdtDf68UWK1hgicXydqsL) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Jimmy's House](https://open.spotify.com/album/5U5SvsEcdAgU9H0uivo76N) | 3:34 |
 | 100 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
 
-Snapshot ID: `MCw0M2FmY2Y0NGM4MjI1NDA3YjI3ODZmOWE2MDMzY2U1YzE4MGUwNTQ3`
+Snapshot ID: `MCwyNWMzZWUwYTM1YmJiNTlkMzcwZTgxNDZlNzY5MWM3ZjNlYTUzOTQz`

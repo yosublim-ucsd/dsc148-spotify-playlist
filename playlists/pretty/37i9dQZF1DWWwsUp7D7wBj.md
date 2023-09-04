@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > Todo lo que es cultura pop\. Blue Beetle vibes porque this is now a Jaime Reyes fan account\. 🪲💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,460 likes - 20 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,498 likes - 20 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 | 19 | [People \(feat\. Becky G\)](https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [People \(feat\. Becky G\) \[Remixes\]](https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB) | 3:22 |
 | 20 | [Qué Chula Mi Ciudad \(feat\. Celso Piña\)](https://open.spotify.com/track/4SGSmlO6khOtjZtMBw67Da) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 3:20 |
 
-Snapshot ID: `MCw3MmNlZmE5ZmMyODkwNmZkOWU0NzNkNjE1OGIwNzIyNjVjYTliZGY5`
+Snapshot ID: `MCw5MWQ3ZWY5Yjg1NjU5NGY3NDBjYmE4ZmNmNWM4MjAwMGQ5MjkzMjM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,671 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,706 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 11 | [On the Flip \- Synkro's Ambient Jungle Flip](https://open.spotify.com/track/6d6dPslSIy1xu34XlfE1Tj) | [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7), [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [On the Flip \(Synkro's Ambient Jungle Flip\)](https://open.spotify.com/album/46RaJyyWg5I3Y8cctEBDf0) | 9:00 |
 | 12 | [Consume Me](https://open.spotify.com/track/66BFj1k8VthfvDWY1e0PUp) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 3:17 |
 | 13 | [Looking at Your Pager \- CLIPZ Remix](https://open.spotify.com/track/2Ikl0HGBDhvSPyPudSrM9s) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Looking At Your Pager \(CLIPZ Remix\)](https://open.spotify.com/album/3Y4VU7ZIN8v4XVK6J35tdj) | 3:46 |
-| 14 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 |
-| 15 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 |
+| 14 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 |
+| 15 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 |
 | 16 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
 | 17 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 |
 | 18 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 43 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
 | 44 | [Kissed It Up \- Original](https://open.spotify.com/track/5EgPKy3Q9kFyiDpAGUOmdr) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Kissed It Up](https://open.spotify.com/album/22KE4qbTKXK95RQYCDm0T9) | 6:06 |
 | 45 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
-| 46 | [Adventures VIP \- Original](https://open.spotify.com/track/06u7pgGxQfHWs4R3ghIFbN) | [Brayzn](https://open.spotify.com/artist/5QqWJDnxXi4odamUxarOyB) | [Myor Massiv 10](https://open.spotify.com/album/6fizhc0oj1RTUZdVHWWkJV) | 6:32 |
-| 47 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
-| 48 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
-| 49 | [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 |
+| 46 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
+| 47 | [Adventures VIP \- Original](https://open.spotify.com/track/06u7pgGxQfHWs4R3ghIFbN) | [Brayzn](https://open.spotify.com/artist/5QqWJDnxXi4odamUxarOyB) | [Myor Massiv 10](https://open.spotify.com/album/6fizhc0oj1RTUZdVHWWkJV) | 6:32 |
+| 48 | [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 |
+| 49 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
 | 50 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
 
-Snapshot ID: `MCw5NmI4MDQzOGFlYzQ5OGY5NDYyNjliYmYwZDY2YzkyMDFiMzA1N2Ri`
+Snapshot ID: `MCxmZTU0YTUzNTg2M2FmODUzNDdkZDZhYTE0MmE5MGJjM2U5YzNhMDUw`

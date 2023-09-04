@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,633 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,672 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [Pitaya](https://open.spotify.com/track/0dK7sdfUOkeqHlWOAtjTtf) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Pitaya](https://open.spotify.com/album/2GZbFLOgJWgoUecKVhEIy1) | 2:42 |
 | 100 | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/track/7k7644SNGKVmveIR99RlAB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Everything You Touch Is Gold \(Epekdrezzsan\)](https://open.spotify.com/album/64289Z7VZZvOMyjr7yBeG7) | 3:18 |
 
-Snapshot ID: `MCwzNDEyM2RlM2FhOTE0ZTE3YzI3MWJkMDY5ZjliOWIyOGUxM2QzOGFi`
+Snapshot ID: `MCw1NzVmYzQxZTU3NWE1YzI2MWVmZjNmMWYzZGUwNjk2ZDQ4MzM3N2Rh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,125 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,352 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 49 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 |
 | 50 | [Nightdrive with You \(Fear Of Tigers Remix\) \- Bonus Track](https://open.spotify.com/track/7el1SndXaSC3EiuafO7UKB) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Fear Of Tigers](https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy) | [Nightdrive with You \(Deluxe Remastered Edition\)](https://open.spotify.com/album/7xBJCm0QkQTddVvnldfHeJ) | 5:55 |
 
-Snapshot ID: `MCxjYTdhNGI0NzA0YzlhMzg0ZDIwMWQzYWQxMTJiMTdiMGI5M2MxNzBm`
+Snapshot ID: `MCxiNzk2NWZmMDJlZmRjMzBkNjAzMjU5MzdmMjlmMWRhMDg4NDA0NDAy`

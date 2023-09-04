@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,474 likes - 66 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,534 likes - 66 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 57 | [Life on Mars](https://open.spotify.com/track/2uh87m3mif5cieKwW6IeDz) | [Auravoid](https://open.spotify.com/artist/1EzfgviWQKgA1FhI0579Qx) | [Life on Mars](https://open.spotify.com/album/2stebv55HW8bLkoOSA6l4G) | 7:26 |
 | 58 | [Wake Up](https://open.spotify.com/track/5DF2hq3nskYLTZZMbQLbmn) | [Odiseo](https://open.spotify.com/artist/6eSdhw46riw2OUHgMwR8B5), [Physis](https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z) | [Wake Up](https://open.spotify.com/album/3L7IXtt5whtwMYePdfyQvq) | 6:04 |
 | 59 | [Rock This Way](https://open.spotify.com/track/0P22HCmkkIbSIRSWTwlkEs) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Rock This Way](https://open.spotify.com/album/7911Hd0ysqIiXC4ZrxrNVk) | 5:23 |
-| 60 | [Makeup \- Blazy Remix](https://open.spotify.com/track/3uPJHAv7ZjWfXBJwvGBUIi) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Caroline Harrison](https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7), [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC) | [Makeup \(Blazy Remix\)](https://open.spotify.com/album/4JaFh2A52RbWRehhXjKOli) | 7:46 |
+| 60 | [Makeup \(Blazy Remix\)](https://open.spotify.com/track/3uPJHAv7ZjWfXBJwvGBUIi) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Caroline Harrison](https://open.spotify.com/artist/43Cmg6YqnuPEHxe7TQLOk7), [Blazy](https://open.spotify.com/artist/0ASqieRgSFzYlNmf1VkBVC) | [Makeup \(Blazy Remix\)](https://open.spotify.com/album/4JaFh2A52RbWRehhXjKOli) | 7:46 |
 | 61 | [Forest Ghosts](https://open.spotify.com/track/04Y7lMhMM87gbyznlncCVd) | [Duendo Matka](https://open.spotify.com/artist/2mD9yFkX1Q5G3u7M5G2Rgf), [Haffman](https://open.spotify.com/artist/65UMds9K0RnCk4LKN1UQq6) | [Voices Vortex](https://open.spotify.com/album/192PF73JqswQ8lwwXxbRbL) | 7:30 |
 | 62 | [Pina Colada](https://open.spotify.com/track/1921iEr6Xx017QU7WVcB5C) | [Stratil](https://open.spotify.com/artist/3fVNHjlFZ4DUkqL7wz9CTy) | [Next Levels](https://open.spotify.com/album/1fFMVitqbtayubq5kcgvR1) | 6:41 |
 | 63 | [Breakdown](https://open.spotify.com/track/3i0Qw0LxoruonsiBW1fl1y) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [DreamVibes!](https://open.spotify.com/artist/333xTovyP8Mj9sK4fIUpgu) | [Breakdown](https://open.spotify.com/album/4DRAUTptsiqSTrKgEThENR) | 5:50 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 65 | [Focus](https://open.spotify.com/track/7gNgqRZaXarUWWirped72i) | [Telepatic](https://open.spotify.com/artist/5sEhJmaZzJgVskCBaOTgIa) | [Focus](https://open.spotify.com/album/4Bv7WZLfpA7pv11QaMBUnN) | 7:08 |
 | 66 | [DMT](https://open.spotify.com/track/6NHRWtAQTtCELvv3h0pGYq) | [Becker](https://open.spotify.com/artist/3WTaU5om1axaFsKlKchl2U), [Labirinto](https://open.spotify.com/artist/4ISuKZJYpsbU6JPD3vq0p1) | [DMT](https://open.spotify.com/album/2mIZCsIe92lDHxDC7BCxo5) | 7:30 |
 
-Snapshot ID: `MCxlNjllODkzYThjNGUzNWJlMjJhZmQ5OGViYzMwYmU2MTU1NzY4OWVl`
+Snapshot ID: `MCw4OWU1MTRlY2Q3MDliODU0YmZiOWE2YjJkZjkyZjAzNzYxZDcxMDU0`

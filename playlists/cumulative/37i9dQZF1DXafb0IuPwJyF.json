@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: \u5d0e\u5c71\u84bc\u5fd7",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: ONE OK ROCK",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -208,6 +208,24 @@
       "duration_ms": 242792,
       "name": "ai no hana",
       "url": "https://open.spotify.com/track/2piySGAWgVwsRKm60SfOmF"
+    },
+    {
+      "album": {
+        "name": "Ainokansoki",
+        "url": "https://open.spotify.com/album/5T0FVtQa6uPc1DNF5Aj8lq"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Ainokansoki",
+      "url": "https://open.spotify.com/track/2cg3kcWIvavYN4YajDvvco"
     },
     {
       "album": {
@@ -3545,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "Gradation",
+        "url": "https://open.spotify.com/album/5woBgrQYG6UZZ84NVaKtXw"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197146,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/1jHUljgXl2Xj1HGAwulnO5"
+    },
+    {
+      "album": {
         "name": "Luxury Disease (Japanese Version)",
         "url": "https://open.spotify.com/album/1GDFRCws0YeYcDQYL6UWCD"
       },
@@ -6076,7 +6112,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 206940,
       "name": "Moment",
       "url": "https://open.spotify.com/track/2ZuP9GNXW7q1XYgX6Cmq5o"
@@ -6224,6 +6260,24 @@
       "duration_ms": 286626,
       "name": "More than friends",
       "url": "https://open.spotify.com/track/2ownG1UmOTNdGvWMbsSQ6K"
+    },
+    {
+      "album": {
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
     },
     {
       "album": {
@@ -7278,7 +7332,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 169885,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22"
@@ -7768,7 +7822,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 136986,
       "name": "rose",
       "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
@@ -7834,6 +7888,24 @@
       "duration_ms": 301186,
       "name": "Sakura Melody",
       "url": "https://open.spotify.com/track/58X0wJ6zRO6IVTte6sAoI3"
+    },
+    {
+      "album": {
+        "name": "Sarracenia / Salvia",
+        "url": "https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "Salvia",
+      "url": "https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd"
     },
     {
       "album": {
@@ -8383,6 +8455,24 @@
     },
     {
       "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs"
+      },
+      "artists": [
+        {
+          "name": "Vicke Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187898,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf"
+    },
+    {
+      "album": {
         "name": "IMA",
         "url": "https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl"
       },
@@ -8620,10 +8710,28 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 219376,
       "name": "Special Days",
       "url": "https://open.spotify.com/track/4or4paBDr7wpOKosYPaz7b"
+    },
+    {
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2023-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
       "album": {
@@ -10452,7 +10560,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 148327,
       "name": "Wanna",
       "url": "https://open.spotify.com/track/4rLsZcXQlylBEgDVXQO3eu"
@@ -13902,7 +14010,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 293502,
       "name": "\u30d5\u30ed\u30f3\u30c8\u30e1\u30e2\u30ea\u30fc feat. ACA\u306d(\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002)",
       "url": "https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU"

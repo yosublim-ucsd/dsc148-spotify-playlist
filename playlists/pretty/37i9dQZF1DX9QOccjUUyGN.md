@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Welisson, Fabin
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,588 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,587 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Estava Escrito](https://open.spotify.com/track/60pyQknGXQnrnLX1rIHN7r) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Estava Escrito](https://open.spotify.com/album/0Iu4OkL8Y9AThCe1TIykmt) | 2:50 |
 | 75 | [Perfume Mais Caro](https://open.spotify.com/track/4thX4lgktnjxkHTniznxK8) | [DjMenorRB](https://open.spotify.com/artist/71uOnE19iET2zJ3TNzkG6X), [Pretão do Mt](https://open.spotify.com/artist/1UtfPD6oPcyJs6EqwJdt4e) | [Perfume Mais Caro](https://open.spotify.com/album/55zZHtvKCpn7OchaEl4Hp6) | 2:14 |
 
-Snapshot ID: `MCw0NmE5MWQ5NzNhOGViYjliNjM5Nzk1NmNjYTBjNjJmNjdjZjA5M2Y3`
+Snapshot ID: `MCxjYjFhZjQ3OWUxZWI2MjBlZmI0OWQwZDI0MGE4Y2Y3MDdmNmExMjYw`

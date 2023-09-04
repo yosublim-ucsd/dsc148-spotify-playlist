@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 239752,
+  "num_followers": 239887,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2MxODljMGZmMTA3ZDUwZjM1NjM2NzVkNDJmYzEwNjhjNmE1ZmFh",
+  "snapshot_id": "MCxhN2Y0OWFiYzVjNWYzMjM2MTRlNTAwNDA4NjViYjdiMjIwNzUyYjAw",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -367,8 +367,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Listo Para Nuestro Encuentro",
-        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
+        "name": "Jes\u00fas Mi Fiel Amigo (En Vivo)",
+        "url": "https://open.spotify.com/album/1Gfe5J0a7yrs4FsDtuAiQA"
       },
       "artists": [
         {
@@ -376,25 +376,25 @@
           "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
         }
       ],
-      "duration_ms": 180333,
-      "name": "Veo Llover",
-      "url": "https://open.spotify.com/track/19Gbb0udRUmOM0vmsKB358"
+      "duration_ms": 410973,
+      "name": "Jes\u00fas Mi Fiel Amigo (En Vivo)",
+      "url": "https://open.spotify.com/track/3PjVBq8W5RaxNn9vTtoKxT"
     },
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Mu\u00e9strame Tu Gloria",
-        "url": "https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
       },
       "artists": [
         {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 403266,
-      "name": "Abre Mis Ojos",
-      "url": "https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H"
+      "duration_ms": 79213,
+      "name": "El Poderoso de Israel",
+      "url": "https://open.spotify.com/track/0Uh50z2eslMbLWoewgHqKM"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -431,18 +431,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
+        "name": "Mu\u00e9strame Tu Gloria",
+        "url": "https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF"
       },
       "artists": [
         {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
         }
       ],
-      "duration_ms": 79213,
-      "name": "El Poderoso de Israel",
-      "url": "https://open.spotify.com/track/0Uh50z2eslMbLWoewgHqKM"
+      "duration_ms": 403266,
+      "name": "Abre Mis Ojos",
+      "url": "https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -479,8 +479,8 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Jes\u00fas Mi Fiel Amigo (En Vivo)",
-        "url": "https://open.spotify.com/album/1Gfe5J0a7yrs4FsDtuAiQA"
+        "name": "Listo Para Nuestro Encuentro",
+        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
         }
       ],
-      "duration_ms": 410973,
-      "name": "Jes\u00fas Mi Fiel Amigo (En Vivo)",
-      "url": "https://open.spotify.com/track/3PjVBq8W5RaxNn9vTtoKxT"
+      "duration_ms": 180333,
+      "name": "Veo Llover",
+      "url": "https://open.spotify.com/track/19Gbb0udRUmOM0vmsKB358"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 325128,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Gloria sea a ti",
         "url": "https://open.spotify.com/album/2Iyng7Y20EuZ1VSOafcnPg"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 534748,
       "name": "Donde T\u00fa est\u00e1s",
       "url": "https://open.spotify.com/track/4hvmopV4wO0CTe9DgicOOF"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 325128,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
     },
     {
       "added_at": "2020-11-24 13:23:38",

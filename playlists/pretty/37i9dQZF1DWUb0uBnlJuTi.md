@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,996 likes - 200 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,217 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 40 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 |
 | 41 | [Steps On The Globe](https://open.spotify.com/track/6zjJXveU2lfk4sYrkPvRdm) | [Keiko Matsui](https://open.spotify.com/artist/0hps0ju4DV1qFI5NFHfOH4) | [Steps On The Globe](https://open.spotify.com/album/4bbREim02kguUvLEGE3far) | 4:20 |
 | 42 | [CATS GROOVE](https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [Tony Rosenberg](https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh) | [THE FUNK WILL PREVAIL](https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd) | 1:31 |
-| 43 | [May The Funk Be With You](https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ) | 4:27 |
+| 43 | [May The Funk Be With You](https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT) | 4:27 |
 | 44 | [Blues for Ben](https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md) | [All Kooked out!](https://open.spotify.com/album/6NnQ67dG6cM88SGs9W3fh7) | 4:59 |
 | 45 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 |
 | 46 | [SoulMine](https://open.spotify.com/track/0C5cMnVFPyZwpc20oSMeLL) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR) | [SoulMine](https://open.spotify.com/album/4JnT8sjhZB19Wc0t4OV15N) | 4:34 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 200 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 
-Snapshot ID: `MCxkY2RkNGRjODIzZDE1M2JlMzViM2RiOTBjNDM4NzcwZWUyODhkNDEw`
+Snapshot ID: `MCxlZTVjOTMwYjA4OGJkNzc3ZjVlNjBhYmJhYTM1MWQ3ODRmMWI4ZGQ0`

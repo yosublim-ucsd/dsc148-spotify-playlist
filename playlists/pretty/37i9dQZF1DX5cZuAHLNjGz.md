@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,076,390 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,262 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Champagne](https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:02 |
 | 101 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 |
 
-Snapshot ID: `MCwwODQ1YjMxZjZlZjdiMjg1YjIzYTQ5OWYzNjJjZmQ1ZmQ0MzFmOTU0`
+Snapshot ID: `MCwwNjUwODY0ZDlkOTlhODM0MDQwMjM2ZGNmZWU1YWUwZGVmZWJkNDZi`

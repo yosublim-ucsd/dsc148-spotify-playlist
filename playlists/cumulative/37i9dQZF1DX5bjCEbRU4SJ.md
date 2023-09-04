@@ -4,11 +4,12 @@
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-151 songs - 10 hr 13 min
+152 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/7bdDULyOUqNyWu6XPeAnSO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon](https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD) | 3:28 | 2018-12-11 |  |
+| [A Case of You](https://open.spotify.com/track/3UedPlgycMQuLwNf1kdzqP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Class of 1971](https://open.spotify.com/album/53dNzfHWFNzyX6UJhPI5Bd) | 4:23 | 2018-12-11 |  |
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2018-12-11 | 2022-07-27 |
 | [A Case of You](https://open.spotify.com/track/47puzbYTZ8BDKrD2GnMQXi) | [Leopanforte](https://open.spotify.com/artist/72ptKrXdQG9VlKwtwzwpi7), [cody06](https://open.spotify.com/artist/2UTGurWdxcnfsCAK0FopWO) | [A Case Of You](https://open.spotify.com/album/4GFyRjzWrfAFtj2fX6ebf6) | 4:24 | 2018-12-11 | 2023-02-25 |
 | [A Case of You \- Original](https://open.spotify.com/track/4hThwlnWP8w8coCt7l56Da) | [enessaresmi](https://open.spotify.com/artist/5hcdHrCRQ6hYXB2yT5mdpD), [Neverever](https://open.spotify.com/artist/5M3VY7TrFsUHKYCwQdbFTw), [Aytowén](https://open.spotify.com/artist/38DFKUlj1mjYr0MYOSxFNW), [Savaşş](https://open.spotify.com/artist/35qcu7CKQicWBv7yTIKrqD) | [A Case of You \(Original\)](https://open.spotify.com/album/0YwoCTGvgpe6fYNXHqwx4o) | 4:24 | 2018-12-11 | 2023-03-10 |
@@ -49,7 +50,7 @@
 | [Goin' Home](https://open.spotify.com/track/5eeaUZWzQXpBlbkiq4pm5l) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Keep It Hid](https://open.spotify.com/album/2KQn93GMsH7IoOvQ0Hlqzx) | 4:53 | 2018-12-11 |  |
 | [Goin' Home](https://open.spotify.com/track/6smJr4cmKlPE7EQrN8XItq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Up In The Air \[Music From The Motion Picture\]](https://open.spotify.com/album/5bif3MPGjOxCM4Sw1Nvh1d) | 4:53 | 2018-12-11 | 2022-07-29 |
 | [Gospel](https://open.spotify.com/track/4q8AGDL52LwEQMjq1k9d5F) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer \(Standard Version\)](https://open.spotify.com/album/3hvjTC9OSOrf6SFQmfqLNX) | 4:29 | 2018-12-11 | 2022-07-24 |
-| [Gospel](https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 4:29 | 2018-12-11 |  |
+| [Gospel](https://open.spotify.com/track/5SA1pmhLHV02cWxPm1t6q3) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 4:29 | 2018-12-11 | 2023-09-04 |
 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 | 2018-12-11 | 2022-07-29 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2018-12-11 |  |
 | [Hot Dreams](https://open.spotify.com/track/2ygk6zFffVpUdUzUfYXzQa) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Hot Dreams](https://open.spotify.com/album/5zMLibunkb38opKmNGcJnz) | 4:53 | 2018-12-11 | 2022-07-29 |

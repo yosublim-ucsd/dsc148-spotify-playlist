@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 119828,
+  "num_followers": 119993,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmIxYTE3NzVlNzAwMGNiNzU5ZjhmMGQ4ZmY2ZDE0YTk4YWVhNzc3",
+  "snapshot_id": "MCxlN2ZhNjE3ZDlhOGVjNTcyYzQyNzdjN2JlMWI4YjU4MTc1ODhiNTJk",
   "tracks": [
     {
       "added_at": "2023-09-01 05:58:33",
@@ -383,6 +383,38 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
+        "name": "Rotina",
+        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
+      },
+      "artists": [
+        {
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+        }
+      ],
+      "duration_ms": 273994,
+      "name": "N\u00e3o Te Abandono",
+      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
         "name": "N\u00e3o Sou T\u00e3o Forte",
         "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
       },
@@ -415,38 +447,6 @@
       "duration_ms": 258749,
       "name": "Meu Repouso",
       "url": "https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Rotina",
-        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
-      },
-      "artists": [
-        {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
-        }
-      ],
-      "duration_ms": 273994,
-      "name": "N\u00e3o Te Abandono",
-      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
-      },
-      "artists": [
-        {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
     },
     {
       "added_at": "2023-09-01 05:58:33",

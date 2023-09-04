@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 846470,
+  "num_followers": 846560,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjI4MjY4MjI0OWUxNjY5ZmZjMTA4MTQwZjZjZmY2OGNhYTIwYTNj",
+  "snapshot_id": "MCw4NzY5MmVkYzRhMDI2ODQxM2UyNGNlMDlkYWJhZjkyMzhiZTIzMDc4",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 135013,
       "name": "Wading In Waist-High Water",
       "url": "https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 322040,
+      "name": "The Wolves (Act I and II)",
+      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 178476,
       "name": "Thin",
       "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 322040,
-      "name": "The Wolves (Act I and II)",
-      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 211794,
-      "name": "The Rains",
-      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 218346,
       "name": "Howl",
       "url": "https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 211794,
+      "name": "The Rains",
+      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Forest Park",
-        "url": "https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR"
-      },
-      "artists": [
-        {
-          "name": "Davis John Patton",
-          "url": "https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl"
-        }
-      ],
-      "duration_ms": 243478,
-      "name": "Motives",
-      "url": "https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Do It All Again",
         "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 199253,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Forest Park",
+        "url": "https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR"
+      },
+      "artists": [
+        {
+          "name": "Davis John Patton",
+          "url": "https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl"
+        }
+      ],
+      "duration_ms": 243478,
+      "name": "Motives",
+      "url": "https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Grapefruit Season",
-        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 233954,
-      "name": "Poison to You",
-      "url": "https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Melatonin (Unplugged)",
         "url": "https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 325280,
       "name": "Melatonin (Unplugged)",
       "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Grapefruit Season",
+        "url": "https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 233954,
+      "name": "Poison to You",
+      "url": "https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/3o9uyMA85EvDzYvbvfoRh0"
-      },
-      "artists": [
-        {
-          "name": "Corrina Repp",
-          "url": "https://open.spotify.com/artist/6VhCOB0YOxq4S2a8GuPtvz"
-        }
-      ],
-      "duration_ms": 278625,
-      "name": "One Summer",
-      "url": "https://open.spotify.com/track/3T3nxiYdQQxF0EjBtwDAtm"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Everyone's Moving Out East",
         "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 252293,
       "name": "Everyone's Moving Out East",
       "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/3o9uyMA85EvDzYvbvfoRh0"
+      },
+      "artists": [
+        {
+          "name": "Corrina Repp",
+          "url": "https://open.spotify.com/artist/6VhCOB0YOxq4S2a8GuPtvz"
+        }
+      ],
+      "duration_ms": 278625,
+      "name": "One Summer",
+      "url": "https://open.spotify.com/track/3T3nxiYdQQxF0EjBtwDAtm"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "There's Always Glimmer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Filthy Rich",
         "url": "https://open.spotify.com/album/6n4IG3jR6vsGgpYMHBc1zg"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 121590,
       "name": "Filthy Rich",
       "url": "https://open.spotify.com/track/13VxOPr7t6Ou4Hrh0t7oA5"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "There's Always Glimmer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
     },
     {
       "added_at": "2023-06-16 04:00:00",

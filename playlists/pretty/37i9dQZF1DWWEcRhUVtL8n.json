@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: BETWEEN FRIENDS",
-  "num_followers": 1702388,
+  "num_followers": 1702407,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDg0ODVkNGFlZTgzYTliOGZmMGI3NDEzN2ViMDBiMDc3ODM2OGQ5",
+  "snapshot_id": "MCw3NTA1MzM1Mzc4NGNjZmYxZWVkNjQzYmEzNjg4NDU2ZDIyYmRkNmM1",
   "tracks": [
     {
       "added_at": "2023-08-25 04:56:29",
@@ -625,26 +625,6 @@
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Diving (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Diving (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Rainbow Mixtape",
@@ -663,6 +643,26 @@
       "duration_ms": 173320,
       "name": "Sagittarius Superstar",
       "url": "https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Diving (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Diving (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 213271,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "When We Were Younger",
         "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 159477,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4VQzqV4IQqtPlxvW7ZFfGq"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 213271,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
     },
     {
       "added_at": "2023-06-30 04:21:00",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/7g9V2gcj9evDyeD5qKiM2k"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Home (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 226057,
-      "name": "Home (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Desire, I Want To Turn Into You",
@@ -907,6 +891,22 @@
       "duration_ms": 216374,
       "name": "Pretty In Possible",
       "url": "https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Home (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 226057,
+      "name": "Home (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j"
     },
     {
+      "added_at": "2023-08-25 04:56:29",
+      "album": {
+        "name": "enknee1",
+        "url": "https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 224210,
+      "name": "enknee1",
+      "url": "https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Lots of Nothing (feat. BENEE)",
@@ -1059,22 +1075,6 @@
       "duration_ms": 164213,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
-    },
-    {
-      "added_at": "2023-08-25 04:56:29",
-      "album": {
-        "name": "enknee1",
-        "url": "https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 224210,
-      "name": "enknee1",
-      "url": "https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL"
     },
     {
       "added_at": "2023-07-03 15:40:30",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
     },
     {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 136828,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Harmony House",
@@ -1195,6 +1179,22 @@
       "duration_ms": 151266,
       "name": "Balcony",
       "url": "https://open.spotify.com/track/2JLjlI1OGUSHL32Ex733IB"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 136828,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
     },
     {
       "added_at": "2023-07-07 18:51:45",
@@ -1213,22 +1213,6 @@
       "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Perspective",
-        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 163050,
-      "name": "Perspective",
-      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
-    },
-    {
       "added_at": "2023-08-14 19:08:31",
       "album": {
         "name": "Happiest Girl",
@@ -1243,6 +1227,22 @@
       "duration_ms": 167812,
       "name": "Happiest Girl",
       "url": "https://open.spotify.com/track/47oqstCW9u5SARWggwVQqE"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/07V9Z6WeOyxUYKs3p0zFc4"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 163050,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/1WcVAZYGMKdd2cqeDpuDGI"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
     },
     {
-      "added_at": "2023-06-30 04:21:00",
-      "album": {
-        "name": "Smiley",
-        "url": "https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 169263,
-      "name": "Smiley",
-      "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Horizons",
@@ -1435,6 +1419,22 @@
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+    },
+    {
+      "added_at": "2023-06-30 04:21:00",
+      "album": {
+        "name": "Smiley",
+        "url": "https://open.spotify.com/album/63ub9Mu2sxcHPPSxpBspMR"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Smiley",
+      "url": "https://open.spotify.com/track/7jp7cuoSYqBfNNZ2njs4Yv"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Demise",
-        "url": "https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 192119,
-      "name": "Demise",
-      "url": "https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "To Be Yours",
@@ -1519,6 +1503,22 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Demise",
+        "url": "https://open.spotify.com/album/1zVQEvr8pNrCtpn0o2wo42"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 192119,
+      "name": "Demise",
+      "url": "https://open.spotify.com/track/1bmGxnZmkNLBwpOzbLW4lP"
     },
     {
       "added_at": "2023-04-28 05:05:19",

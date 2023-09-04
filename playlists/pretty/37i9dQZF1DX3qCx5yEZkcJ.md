@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,490,409 likes - 80 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,490,534 likes - 80 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 34 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 |
 | 35 | [Gift of love](https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD) | 2:06 |
 | 36 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 |
-| 37 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 |
-| 38 | [3rd Times a Charm](https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Begin Again](https://open.spotify.com/album/0yRR6FavHThWUOlsGimzuG) | 1:14 |
+| 37 | [3rd Times a Charm](https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Begin Again](https://open.spotify.com/album/0yRR6FavHThWUOlsGimzuG) | 1:14 |
+| 38 | [Cargo Rhodes](https://open.spotify.com/track/0IDEOKzwG6towimLfr8DrX) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Orange](https://open.spotify.com/album/4tqNta7RhK5B5uhizhQ077) | 2:29 |
 | 39 | [Laguna Beach](https://open.spotify.com/track/73EdXxEhsF5NoaH5BZQNPk) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Travels](https://open.spotify.com/album/6dPrjTpoGfTm9d4EaLA8Ru) | 1:49 |
 | 40 | [Memory Lane](https://open.spotify.com/track/6xE6rNGc0PdfmgPt5Du6bE) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Summer End's Girl](https://open.spotify.com/album/0Vkgfeiiph9HmEr2wVxPc6) | 2:51 |
 | 41 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 63 | [Tender Rose](https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Tender Rose](https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP) | 3:22 |
 | 64 | [Summit](https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb) | [Lowkey Vanni](https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Summit](https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2) | 2:09 |
 | 65 | [Bopatron](https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg) | 3:16 |
-| 66 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 |
-| 67 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
+| 66 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
+| 67 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 |
 | 68 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 |
 | 69 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
 | 70 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 73 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 |
 | 74 | [Notes](https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV) | [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [Beats On Boat: Hazy Year](https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U) | 2:47 |
 | 75 | [That's Just Me](https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [That's Just Me](https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq) | 1:30 |
-| 76 | [Only Way 2 Go \(Instrumental\)](https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Diam Piece Instrumentals](https://open.spotify.com/album/0ixOltqf2ad9LU7hVPOcPa) | 2:33 |
-| 77 | [waves](https://open.spotify.com/track/3DGO1gNzHPGZQM4HDSwYyL) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/4WNsnmIpj9HjeBGxzo3PfR) | 2:15 |
+| 76 | [waves](https://open.spotify.com/track/3DGO1gNzHPGZQM4HDSwYyL) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Dimensions](https://open.spotify.com/album/4WNsnmIpj9HjeBGxzo3PfR) | 2:15 |
+| 77 | [Only Way 2 Go \(Instrumental\)](https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Diam Piece Instrumentals](https://open.spotify.com/album/0ixOltqf2ad9LU7hVPOcPa) | 2:33 |
 | 78 | [Restless Minds](https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Restless Minds](https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP) | 2:09 |
 | 79 | [Transit\(Ions\)](https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r) | 2:12 |
 | 80 | [Elevator \- Remastered](https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Elevator \(Remastered\)](https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N) | 3:27 |
 
-Snapshot ID: `MCxiOTZmMzYwNWViOTU2MTk3YTA0ZWEyYjExYmM3ZWMxZGFiNWU1OTFm`
+Snapshot ID: `MCwyMDUyMzdmMTkxMTU0MzU4OTBlODllOTI0ZmE5YzlmZmI4MTJhMWE1`

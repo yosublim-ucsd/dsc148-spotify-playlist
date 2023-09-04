@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125585,
+  "num_followers": 125582,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTJlYzYwMTRhYjQwMWYwYTQ4ODc1ZWZjYmNjMmNmNzA5NWMyNDcw",
+  "snapshot_id": "MCw4Njg1MzhmZWIwYWU5MGUyZjg4MjhiOTIwZGIzODhkMWRiMjJhODQ3",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Real Love - From the John Lewis Christmas Advert 2014",
-      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 266933,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2mqYzR6ynsAuLSID7RrlQr"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Real Love - From the John Lewis Christmas Advert 2014",
+      "url": "https://open.spotify.com/track/1Udy17gjGeZPNdmmcLjl7L"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The Lighthouse Keeper",
-        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "The Lighthouse Keeper",
-      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Caribou (Remastered 1995)",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Lighthouse Keeper",
+        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "The Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Christmas Portrait (Special Edition/Reissue)",
         "url": "https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 159440,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/07RmHXaYqBdUyfAESPZkRO"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Night Before Christmas",
         "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 202613,
       "name": "Loneliest Time Of Year",
       "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 227887,
       "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2022-12-09 00:00:00",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/4gcSg71QTVnEphcoW5THPa"
     },
     {
-      "added_at": "2022-11-18 01:17:11",
-      "album": {
-        "name": "Driving Home For Christmas",
-        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 183556,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
-    },
-    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "Santa Claus Is Coming To Town",
@@ -947,6 +931,22 @@
       "duration_ms": 136721,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/3izBQhKOGofHcyILP6iTPs"
+    },
+    {
+      "added_at": "2022-11-18 01:17:11",
+      "album": {
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 183556,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Carol Of The Bells",
-        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 193379,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "The King of Soul",
         "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 225040,
       "name": "This Christmas Day",
       "url": "https://open.spotify.com/track/4MVu2AqiA4eiZGoLZLwF8t"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 193379,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
-        "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 170459,
-      "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
-      "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Songs For Christmas",
         "url": "https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 260786,
       "name": "Joy To The World",
       "url": "https://open.spotify.com/track/2IqU8ku7GvY7HE0s3sYA34"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
+        "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 170459,
+      "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
+      "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
     },
     {
       "added_at": "2022-12-02 00:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Happy Xmas (War Is Over)",
+        "url": "https://open.spotify.com/album/076YZeSsRS01JRYazQplIj"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 235285,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/7D7hkD9QjhSb385O23Vr5K"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "A Holly Dolly Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 129679,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Happy Xmas (War Is Over)",
-        "url": "https://open.spotify.com/album/076YZeSsRS01JRYazQplIj"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 235285,
-      "name": "Happy Xmas (War Is Over)",
-      "url": "https://open.spotify.com/track/7D7hkD9QjhSb385O23Vr5K"
     },
     {
       "added_at": "2022-11-18 01:05:05",

@@ -4,7 +4,7 @@
 
 > Wasia Project takes over Jasmine in celebration of ESEA Month in the UK!
 
-585 songs - 1 day 6 hr 24 min
+586 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,14 +141,15 @@
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2022-11-04 | 2022-11-14 |
 | [Down This Road \- Hoang Remix](https://open.spotify.com/track/6Utnzpe2bbBXqYCY1N6x0w) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG) | [Heavy Glow \(Deluxe Edition\)](https://open.spotify.com/album/1lThcXGvK67ndrHgJA0zFC) | 2:40 | 2022-06-03 | 2022-06-10 |
 | [Dragonfly](https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Dragonfly](https://open.spotify.com/album/37Uo8JuZ8K89hvKjZxxF3j) | 2:48 | 2022-05-27 | 2022-07-29 |
+| [Dream](https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [L.O.L\. \(Lack Of Love\)](https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP) | 1:24 | 2023-09-01 |  |
 | [Dream About You](https://open.spotify.com/track/7ImKTptfTfSsr6YzLSUdPi) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Dream About You](https://open.spotify.com/album/49nqo2DQsN0uLSsrDF7D24) | 3:33 | 2022-05-27 | 2022-07-27 |
 | [DREAM DEALER](https://open.spotify.com/track/2EeucxxTMsvbbqLxCyehfH) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Chad Hugo](https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 1:54 | 2023-05-05 | 2023-08-26 |
-| [Dream 〜夢のパピー](https://open.spotify.com/track/1ccJr53u1pzlApnQNcUME9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [L.O.L.](https://open.spotify.com/album/4RV7mYw4f0yjPfWfArZn3j) | 1:24 | 2023-09-01 |  |
+| [Dream 〜夢のパピー](https://open.spotify.com/track/1ccJr53u1pzlApnQNcUME9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [L.O.L.](https://open.spotify.com/album/4RV7mYw4f0yjPfWfArZn3j) | 1:24 | 2023-09-01 | 2023-09-04 |
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-05-12 |  |
 | [Drown](https://open.spotify.com/track/6GdesCf6pwGGTWIsa9RWHB) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:26 | 2023-09-01 |  |
 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 | 2023-09-01 |  |
 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-05-27 | 2022-09-19 |
-| [Easily](https://open.spotify.com/track/5kbMmcJtPuTtmmWM2pcbau) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Easily](https://open.spotify.com/album/2M8WcUUESGhKwiDeradUxW) | 3:13 | 2023-08-11 |  |
+| [Easily](https://open.spotify.com/track/5kbMmcJtPuTtmmWM2pcbau) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Easily](https://open.spotify.com/album/2M8WcUUESGhKwiDeradUxW) | 3:13 | 2023-08-11 | 2023-09-04 |
 | [Easy](https://open.spotify.com/track/1MLLW9uH8i7MVPCPZFWwrj) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Easy](https://open.spotify.com/album/3xpvsUs6cAeZu8pVDtanTX) | 2:26 | 2023-07-07 | 2023-08-09 |
 | [Eats The Tale](https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Eats The Tale](https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT) | 3:41 | 2023-08-11 |  |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2022-05-27 | 2022-11-12 |
@@ -398,7 +399,7 @@
 | [pieces](https://open.spotify.com/track/1EJLqTbCBWrXIZsWoJ9XPy) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [pieces](https://open.spotify.com/album/00wsSw2OSFR2jpJLQEiQPr) | 2:24 | 2022-05-27 | 2022-08-27 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-09-20 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-16 | 2023-05-20 |
-| [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 | 2023-09-02 |
+| [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 |  |
 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-09-02 | 2023-02-18 |
 | [Please Baby Please](https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Please Baby Please](https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx) | 3:31 | 2022-05-27 | 2022-08-13 |
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-07-22 | 2022-08-27 |

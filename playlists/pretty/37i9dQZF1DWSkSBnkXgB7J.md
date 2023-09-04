@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,268 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,276 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 6 | [أرض](https://open.spotify.com/track/0TacWOrPp2rDZjnvBjDFvO) | [Mohammed Alfares](https://open.spotify.com/artist/1cnYGiDgJh4fLXgRlSmtlr) | [أرض](https://open.spotify.com/album/3RmJE3F51o3nCgN8xfirkz) | 3:21 |
 | 7 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/2hXeiHmVkR1DNL99tr7Rf2) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/51jxRscBO8Hy26XA2zWIvq) | 1:45 |
 | 8 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 |
-| 9 | [عشانك](https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/56AVpqfi0bb5Er9csg3gnk) | 3:07 |
+| 9 | [عشانك](https://open.spotify.com/track/01wXy6jRJBni1IePERVd7K) | [Deleted songs \- اغاني محذوفة](https://open.spotify.com/artist/7DgoZYbE59JMvzhmtCG7Y5), [Siilawy](https://open.spotify.com/artist/3Vn8HsYVqbtuJ1tBOsdVAU) | [جميع اغاني سيلاوي المحذوفة \(Siilawy\)](https://open.spotify.com/album/4Xs77eNtwhVCsF3iTVqoLK) | 3:07 |
 | 10 | [GTA](https://open.spotify.com/track/0B7mwv8jBRezE486YKjGit) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [GTA](https://open.spotify.com/album/0foaspvPQUgI5DvXXxHZ9T) | 3:48 |
 | 11 | [لا تغيبي](https://open.spotify.com/track/1TllJwxsdASrBOUec8JFlV) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bilal Derky](https://open.spotify.com/artist/7E3aW1jsT4X56lJObxhXKp) | [لا تغيبي](https://open.spotify.com/album/0rjh2wonHJmoQ5O2RLvua1) | 3:38 |
 | 12 | [Manni Asef](https://open.spotify.com/track/27Xo0Tkk9E8OftqyR98wXx) | [Ahmad Akkad](https://open.spotify.com/artist/38KYoTxMDeNvGClVdMVc7q) | [Manni Asef](https://open.spotify.com/album/0fEh4DmXGE7SIT7RudtOwo) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 49 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 |
 | 50 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 
-Snapshot ID: `MCwzMTM3ZDA1YTY3MmJhN2VjOWJhMDNjMDY0ZDAxNDQwMzM3ZTBlZDQx`
+Snapshot ID: `MCwzYzgwY2UyNjdmMTJlMjI4ZWY1OWFjYTA4M2RiMjA5N2I3MDY2ZDdk`

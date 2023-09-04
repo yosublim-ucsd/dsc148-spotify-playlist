@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Doja Cat, Lil Wayne and Sleepy Hallow\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,504 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,635 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 |
-| 2 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 |
-| 3 | [Come See Me](https://open.spotify.com/track/1kCVncgHcTEICcK3fG63jR) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Come See Me](https://open.spotify.com/album/3GLElQsZ6fNRwNj0sRV0kj) | 3:10 |
+| 1 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 |
+| 2 | [Come See Me](https://open.spotify.com/track/1kCVncgHcTEICcK3fG63jR) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Come See Me](https://open.spotify.com/album/3GLElQsZ6fNRwNj0sRV0kj) | 3:10 |
+| 3 | [Demons](https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons](https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py) | 3:15 |
 | 4 | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/track/2NqpZD00BADhsvldFVdO0j) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Street Sweeper \(feat\. Swae Lee\)](https://open.spotify.com/album/732QIKM3qkHhwZgxaZsBLZ) | 2:40 |
 | 5 | [Isabel Marant](https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 1:37 |
 | 6 | [Half Doin Dope \(with BabyTron feat\. Lil Yachty\)](https://open.spotify.com/track/1J0O3RqCeoMcXbayQZDZXL) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [BlakkBoyz present Half Doin Dope/Van Gogh](https://open.spotify.com/album/19BajLbOujVKO4BPCTIzoc) | 3:28 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [Last Chance](https://open.spotify.com/track/0NIuN9ky7NljebVJNIc6QT) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Last Chance](https://open.spotify.com/album/5Im7Psu071AuSdGLhMcywy) | 2:22 |
 | 49 | [Remember](https://open.spotify.com/track/1fTX9XyVl9lhFO928pJubY) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 2:10 |
 
-Snapshot ID: `MCw4OTI4MGY4NWIxMzliOTU1YjMyMzMzMjc1YTE1NzQyMmNhMmY3M2Zj`
+Snapshot ID: `MCwwYTViZWNhZGMwMmMzOTE1NGNjYjA4ZTZhYWM4OWQ2YTVkZTg3ZTI4`

@@ -1,12 +1,12 @@
 {
   "description": "sultry and seductive feminine energy \ud83d\udd2a",
-  "num_followers": 622047,
+  "num_followers": 624061,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVkNDFlMTM5NDc1NDM0YzY3ZDcwNGNkMzZjZGM2MTBhNmVhZTQw",
+  "snapshot_id": "MCw4M2ViNzY0M2RiN2VjNTZiZjMzZjNlMGJkNDNkNDg3OTdiNmIyNjM1",
   "tracks": [
     {
       "added_at": "2023-09-01 18:47:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-09-01 18:47:42",
       "album": {
-        "name": "Three. Two. One.",
-        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/5mTNGUXYjJGVyjh3efRFY0"
-    },
-    {
-      "added_at": "2023-09-01 18:47:42",
-      "album": {
         "name": "Tonight (demo)",
         "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 194666,
       "name": "Tonight (demo)",
       "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"
+    },
+    {
+      "added_at": "2023-09-01 18:47:42",
+      "album": {
+        "name": "Three. Two. One.",
+        "url": "https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/5mTNGUXYjJGVyjh3efRFY0"
     }
   ],
   "unique_name": "Femme Fatale",

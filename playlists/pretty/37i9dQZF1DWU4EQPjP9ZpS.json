@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 278075,
+  "num_followers": 278246,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Nzc5YjYxYTU3OWU2N2MxNzA2MDYwN2MyYTRmYWY5YjRmMmJiMWE1",
+  "snapshot_id": "MCw4MmExYWRiMTQxYjM1YjY5NDNjMTljODQ4MzlhOTkyZDkwMTY4YWM1",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 253727,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Cosmic Palace",
         "url": "https://open.spotify.com/album/0PlJciYp4lDHeB9IaAxYrt"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 254080,
       "name": "Cosmic Palace",
       "url": "https://open.spotify.com/track/6FZSt1tVtKtj20gmqgIfNt"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 253727,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/44K1lRG5aUFLQkIKWYbjzQ"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Things That Fade",
+        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
+      },
+      "artists": [
+        {
+          "name": "Greeen Linez",
+          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
+        }
+      ],
+      "duration_ms": 251779,
+      "name": "Hibiscus Pacific",
+      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Things That Fade",
-        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
-      },
-      "artists": [
-        {
-          "name": "Greeen Linez",
-          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
-        }
-      ],
-      "duration_ms": 251779,
-      "name": "Hibiscus Pacific",
-      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Music in the Air",
         "url": "https://open.spotify.com/album/4K907zaSPS9tAiXFCghLvx"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 142806,
       "name": "Akaiwa 1985",
       "url": "https://open.spotify.com/track/0djk8EY1IsMeyt8Debt1hw"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 246870,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
+        "name": "143",
+        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
       },
       "artists": [
         {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
         }
       ],
-      "duration_ms": 246870,
-      "name": "Make Me Love You",
-      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
+      "duration_ms": 103214,
+      "name": "143",
+      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -963,22 +979,6 @@
       "duration_ms": 320462,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
-      },
-      "artists": [
-        {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
-        }
-      ],
-      "duration_ms": 103214,
-      "name": "143",
-      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Melatonin High (Rework 2021)",
+        "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Melatonin High - Rework 2021",
+      "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Dragonball Wave",
         "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 157974,
       "name": "Turn the Fridge On",
       "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Melatonin High (Rework 2021)",
-        "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Melatonin High - Rework 2021",
-      "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "No Sugar Added",
+        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
+      },
+      "artists": [
+        {
+          "name": "Runners Club 95",
+          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
+        }
+      ],
+      "duration_ms": 162228,
+      "name": "Carrie Bradshaw",
+      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/5FUZdUXNGAWLg6bdlb5eou"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 271500,
       "name": "City Lights - Betamaxx Remix",
       "url": "https://open.spotify.com/track/0ZOfbmMrmdKF4uQcgISxs9"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "No Sugar Added",
-        "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
-      },
-      "artists": [
-        {
-          "name": "Runners Club 95",
-          "url": "https://open.spotify.com/artist/2TSGxQ356S2ddpb6uBuo0Z"
-        }
-      ],
-      "duration_ms": 162228,
-      "name": "Carrie Bradshaw",
-      "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Network Entities",
+        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
+      },
+      "artists": [
+        {
+          "name": "Incorporeal Visions Deluxe",
+          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
+        }
+      ],
+      "duration_ms": 78947,
+      "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
+      "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Open Tournament 27XX",
         "url": "https://open.spotify.com/album/23G7wMaTOeBjuJ3UucHtqL"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 170379,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Network Entities",
-        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
-      },
-      "artists": [
-        {
-          "name": "Incorporeal Visions Deluxe",
-          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
-        }
-      ],
-      "duration_ms": 78947,
-      "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
-      "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Growing Apart",
-        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
+        "name": "Street Smarts",
+        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
       },
       "artists": [
         {
-          "name": "Rayklin",
-          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
+          "name": "VHS LOGOS",
+          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
         }
       ],
-      "duration_ms": 217153,
-      "name": "Growing Apart",
-      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
+      "duration_ms": 86400,
+      "name": "Telefunken",
+      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
     }
   ],
   "unique_name": "vaporwave",

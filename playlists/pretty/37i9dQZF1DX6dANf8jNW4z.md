@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Chanel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,848 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,862 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 28 | [Te he cuidado tanto](https://open.spotify.com/track/4HtYuTc2zcpDqHcBXBFU5t) | [Sita Rizzi](https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3) | [Te he cuidado tanto](https://open.spotify.com/album/089AYO7JM9QXkbLHndquxG) | 2:33 |
 | 29 | [Tangos Paragüeros](https://open.spotify.com/track/3kZLJFc0RboN7nc5jCoTeW) | [Sarayma](https://open.spotify.com/artist/1jhHz7U7P0iRYVxfDj496N) | [Tangos Paragüeros](https://open.spotify.com/album/07lMc7TV8FdjGC1z6na1Fe) | 3:55 |
 | 30 | [Ella Es Mi Sueño](https://open.spotify.com/track/37k53b5NiNRnC4h0782lyY) | [Amara Rodes](https://open.spotify.com/artist/41iUVjv0FJlo5wlyhmG7Uq), [Coral rodes](https://open.spotify.com/artist/0aR1LUuep8OhDBQqqV6LpI), [Las Rodes](https://open.spotify.com/artist/3ZNLwVLzrOCDyWMaqiaQoc) | [Ella Es Mi Sueño](https://open.spotify.com/album/0GZKdnq68ocCo39M2Qr5NO) | 4:58 |
-| 31 | [Idontcare](https://open.spotify.com/track/3auEsQ5Giiq00wKB03OYW4) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Idontcare](https://open.spotify.com/album/5fg2vKw9zC4itDuLDAe6Bf) | 2:17 |
+| 31 | [Idontcare](https://open.spotify.com/track/5TH7eahEzPYLNBlyYg5w6s) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Baby Light](https://open.spotify.com/album/1Qs797anlH3ARchZlIEyvw) | 2:17 |
 | 32 | [Tobogán Ardiendo](https://open.spotify.com/track/4x9anYm599VwzhRDKTglw2) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy) | [Tobogán Ardiendo](https://open.spotify.com/album/5NdFVTPZSsDeeoQ7kpiXkY) | 3:35 |
 | 33 | [a tu lao](https://open.spotify.com/track/5dXDakOfXnClMNovhSix2q) | [Astrid Canales](https://open.spotify.com/artist/6G9WeQxcyitRK6pQ5WboQD) | [a tu lao](https://open.spotify.com/album/3UCN8HmyuRhNINJ348bDVl) | 3:53 |
 | 34 | [El Baño de las Chicas](https://open.spotify.com/track/0GDVzirtSVPApCKfMlX1EE) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr) | [El Baño de las Chicas](https://open.spotify.com/album/77pxtlbA3wYXp7uRiovCFx) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 49 | [Guárdate el Drama](https://open.spotify.com/track/49JpIoQT51cU7N5ed6tdH7) | [Elem](https://open.spotify.com/artist/4Ld1TuG5yea5RoYMLBNOVT) | [Guárdate el Drama](https://open.spotify.com/album/5zTzbvDfAvHFGIj0kgyLcN) | 3:02 |
 | 50 | [Libre Soy](https://open.spotify.com/track/1ylzfSxfJCPkT77O4FNG4l) | [La Perlita](https://open.spotify.com/artist/5aEZor2Rb42Zrpkp49ZL9l) | [Libre Soy](https://open.spotify.com/album/0uGFBzPHJgpWQNTySGiDlg) | 3:28 |
 
-Snapshot ID: `MCw1YzU3N2RiNDkwMzcxODM0NDgxY2JjZDI2NDhkNGYxNjBjNTYzMjY1`
+Snapshot ID: `MCw1MTE4NGJlZmIwNWEwMzhjNWFlYTRkOWRhMWEzN2NhM2U5MjhlYmY3`

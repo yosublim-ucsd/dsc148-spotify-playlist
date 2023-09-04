@@ -2563,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "L.O.L. (Lack Of Love)",
+        "url": "https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84800,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx"
+    },
+    {
+      "album": {
         "name": "Dream About You",
         "url": "https://open.spotify.com/album/49nqo2DQsN0uLSsrDF7D24"
       },
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 84800,
       "name": "Dream \u301c\u5922\u306e\u30d1\u30d4\u30fc",
       "url": "https://open.spotify.com/track/1ccJr53u1pzlApnQNcUME9"
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 193825,
       "name": "Easily",
       "url": "https://open.spotify.com/track/5kbMmcJtPuTtmmWM2pcbau"
@@ -7628,7 +7646,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 184257,
       "name": "playing tricks",
       "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"

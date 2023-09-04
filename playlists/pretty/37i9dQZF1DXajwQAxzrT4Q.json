@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 63018,
+  "num_followers": 63089,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzRlMWNmMTY5ZmY0M2QzYTIzMmMwNTkyZjUzN2NmYjFkODI4NGU5",
+  "snapshot_id": "MCwyMmFkYTgwODA2OTBmNDQwZTRiOTVmMGU1ZGVkNjg4Y2FlODY0MmQ1",
   "tracks": [
     {
       "added_at": "2023-09-01 19:32:49",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
-      },
-      "artists": [
-        {
-          "name": "Fergie Baby",
-          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
-        },
-        {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        },
-        {
-          "name": "Kajun Waters",
-          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
-        }
-      ],
-      "duration_ms": 140298,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
         "name": "Clout Chaser Pt. 4",
         "url": "https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 150022,
       "name": "Clout Chaser Pt. 4",
       "url": "https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
+      },
+      "artists": [
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Kajun Waters",
+          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
+        }
+      ],
+      "duration_ms": 140298,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
     },
     {
       "added_at": "2023-09-01 19:32:49",
@@ -1415,22 +1415,30 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "100% Pure Love (UNIIQU3 Remix)",
-        "url": "https://open.spotify.com/album/0snVlqrONcCE5xKYxs3Dpx"
+        "name": "Hatin' Ass Bitches Anthem",
+        "url": "https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10"
       },
       "artists": [
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
         },
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "Flyy TheProducer",
+          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
+        },
+        {
+          "name": "Pyt Ny",
+          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
+        },
+        {
+          "name": "Dj Blizz",
+          "url": "https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu"
         }
       ],
-      "duration_ms": 170666,
-      "name": "100% Pure Love - UNIIQU3 Remix",
-      "url": "https://open.spotify.com/track/0aCcAr2o7IPxGRxZ6e3rzF"
+      "duration_ms": 116564,
+      "name": "Hatin' Ass Bitches Anthem",
+      "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
     }
   ],
   "unique_name": "Jersey Club Heat",

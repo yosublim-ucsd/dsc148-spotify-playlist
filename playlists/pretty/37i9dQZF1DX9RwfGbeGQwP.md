@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,448 likes - 508 songs - 18 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,561 likes - 508 songs - 18 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -517,4 +517,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 507 | [bright nights](https://open.spotify.com/track/1cIiZ4ri9EX6Y4GCgIFOta) | [Wenight](https://open.spotify.com/artist/7wqCmmvVIKxwPR8afJHqpM) | [bright nights](https://open.spotify.com/album/0C60u4lFEWkkIgsmNpLyI1) | 2:03 |
 | 508 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 |
 
-Snapshot ID: `MCw2NDBiM2FjODYyMDczMjI2ZjllMWI3NDIzMjlkMjkwMjk5YWZmNTg2`
+Snapshot ID: `MCxjNTk4M2ZhY2M2NGFkMDM2ODVhY2E4NmNjNGVmNWJlNTk3ZWQ3Y2Vl`

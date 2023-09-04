@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 25588,
+  "num_followers": 25649,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjc0ODcxNzc3Yjk1OTllYmE4YmFiMzk5M2M1Y2E0ODA1NDU0ZDlj",
+  "snapshot_id": "MCxhYmY4ZTY5NzBiODhkMGE2ZDUzZmRlYjgzZWE5NDgyY2VjMjcyZGJi",
   "tracks": [
     {
       "added_at": "2023-08-24 02:21:49",
@@ -879,6 +879,26 @@
     {
       "added_at": "2023-08-24 02:21:49",
       "album": {
+        "name": "K.I.S.S",
+        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Te Quiero(feat.BIBI)",
+      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
+    },
+    {
+      "added_at": "2023-08-24 02:21:49",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 267330,
       "name": "ROSE (feat. Skinny Brown, Homeboy)",
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
-    },
-    {
-      "added_at": "2023-08-24 02:21:49",
-      "album": {
-        "name": "K.I.S.S",
-        "url": "https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Te Quiero(feat.BIBI)",
-      "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
     },
     {
       "added_at": "2023-08-24 02:21:49",

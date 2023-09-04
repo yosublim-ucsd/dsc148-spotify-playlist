@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Timbaland, Nelly Furtado, Justin Timberlake
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,806 likes - 93 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,819 likes - 93 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 92 | [Wonderful & Great](https://open.spotify.com/track/3Ua9ii7k19DUUaqxDo2ivr) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Wonderful & Great](https://open.spotify.com/album/5iTRTDFuXfvZO6Uv9hMlm5) | 2:24 |
 | 93 | [29 YEARS](https://open.spotify.com/track/1YJagR60EwtmiQkqW7nLpy) | [TJ\_beastboy](https://open.spotify.com/artist/7l8dcABCTyZKrkskt53Z2u) | [29 YEARS](https://open.spotify.com/album/68jGl9AsJv9BWeE19gbI1V) | 2:25 |
 
-Snapshot ID: `MCw2OTdlZTM5MDk1OGFlMzM3Mjc3YmU5YWJhOWRlODcwMjhkZDc0NDRh`
+Snapshot ID: `MCwyN2JhZmM5MTA0YmZjMmUzOWU5OWNjMGI5ZWQyNWI5YmE3ZDQ4YzBm`

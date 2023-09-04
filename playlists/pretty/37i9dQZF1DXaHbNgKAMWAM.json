@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 12455,
+  "num_followers": 12476,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjAwYzJmY2EyNmQ1MGFjZWRjMDNhOGE1NzRiMmM1MGUxYmU5YTJk",
+  "snapshot_id": "MCwwN2NkYTQ5OWRlZDFmZGMwMWIyNDU0ZWQzZGIwM2FjMjQ0MTk0YzIz",
   "tracks": [
     {
       "added_at": "2023-08-05 06:02:24",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 169930,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 169930,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
     },
     {
       "added_at": "2023-08-05 06:02:24",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-08-05 06:02:24",
       "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
-    },
-    {
-      "added_at": "2023-08-05 06:02:24",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 296832,
       "name": "Amazing You",
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2023-08-05 06:02:24",
+      "album": {
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2023-08-05 06:02:24",

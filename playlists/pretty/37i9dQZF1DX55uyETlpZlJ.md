@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,654 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,656 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 75 | [Hey Sanchari](https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN) | [Aravind Murali](https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy), [Sunil BT](https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9) | [Hey Sanchari](https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S) | 3:22 |
 | 76 | [Ninnane Bayaside](https://open.spotify.com/track/2gVeV88YIQzA5zO0rTiyzu) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Ninnane Bayaside](https://open.spotify.com/album/65X3c2WdqKnrralQy9ccEm) | 2:52 |
 
-Snapshot ID: `MCxmNGRhNzc4YTQyZjQ0NDg5YmZkYjMyOWRhMWEzOTM2OGQxY2RiYTU4`
+Snapshot ID: `MCw0MTNmOWQyZGE0YTFmYjIzNjkxYWQxMGIxYzBlMTNlZmViNTEyOTQ2`

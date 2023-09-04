@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,018 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,089 likes - 75 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 63 | [Vacation](https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 2:25 |
 | 64 | [Drowning \(feat\. Kodak Black\) \- Jersey Club Remix](https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Remixes\)](https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7) | 2:08 |
 | 65 | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/track/4OWGtEwXCFTopkKyEZv0ur) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/album/6edZ2TEStQvGjvtTuv20mK) | 3:16 |
-| 66 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
-| 67 | [Clout Chaser Pt\. 4](https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy) | [Clout Chaser Pt\. 4](https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ) | 2:30 |
+| 66 | [Clout Chaser Pt\. 4](https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy) | [Clout Chaser Pt\. 4](https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ) | 2:30 |
+| 67 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
 | 68 | [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 |
 | 69 | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU) | 2:03 |
 | 70 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 72 | [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 |
 | 73 | [2 predictable](https://open.spotify.com/track/2cc384XtpakSacPvmmbitA) | [lilheartbreak](https://open.spotify.com/artist/6LMdMAYI8JDAT0KASyl97P) | [2 predictable](https://open.spotify.com/album/5kEYHZVgXYYZ4bVc7kbZeS) | 1:55 |
 | 74 | [Anxious](https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Anxious](https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6) | 2:01 |
-| 75 | [100% Pure Love \- UNIIQU3 Remix](https://open.spotify.com/track/0aCcAr2o7IPxGRxZ6e3rzF) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [100% Pure Love \(UNIIQU3 Remix\)](https://open.spotify.com/album/0snVlqrONcCE5xKYxs3Dpx) | 2:50 |
+| 75 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 |
 
-Snapshot ID: `MCw1MzRlMWNmMTY5ZmY0M2QzYTIzMmMwNTkyZjUzN2NmYjFkODI4NGU5`
+Snapshot ID: `MCwyMmFkYTgwODA2OTBmNDQwZTRiOTVmMGU1ZGVkNjg4Y2FlODY0MmQ1`

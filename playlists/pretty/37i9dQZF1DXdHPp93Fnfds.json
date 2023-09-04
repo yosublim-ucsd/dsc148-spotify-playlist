@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 147952,
+  "num_followers": 147955,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzE3NGNmNmFhMWYyYjNhZjFkNjJjNjZkYTM4ZGU2Nzg5MGYzMGJh",
+  "snapshot_id": "MCw1MGY1NzZiNWU2YTQ3N2IyY2QwZDAwMDdlZjRhMzUxYTI2OWMyNzdi",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "This is un volc\u00e1n",
-        "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
-      },
-      "artists": [
-        {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "This is un volc\u00e1n",
-      "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Alto Cielo",
         "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 291873,
       "name": "Con Miedo a Ti",
       "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "This is un volc\u00e1n",
+        "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "This is un volc\u00e1n",
+      "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Lo Que Fue",
-        "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
-      },
-      "artists": [
-        {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
-        }
-      ],
-      "duration_ms": 220953,
-      "name": "Luna Blanca",
-      "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Caja Negra",
-        "url": "https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx"
+        "name": "Lo Que Fue",
+        "url": "https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT"
       },
       "artists": [
         {
-          "name": "Susi Pireli",
-          "url": "https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN"
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Caja Negra",
-      "url": "https://open.spotify.com/track/3TpScH6g1bM9xFscLpvQNV"
+      "duration_ms": 220953,
+      "name": "Luna Blanca",
+      "url": "https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -831,6 +815,22 @@
       "duration_ms": 174975,
       "name": "No s\u00e9 qu\u00e9 tienes",
       "url": "https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Caja Negra",
+        "url": "https://open.spotify.com/album/30cJ5mNGEE9p5ZEzTTAwSx"
+      },
+      "artists": [
+        {
+          "name": "Susi Pireli",
+          "url": "https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Caja Negra",
+      "url": "https://open.spotify.com/track/3TpScH6g1bM9xFscLpvQNV"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Tiene Que Haber Un Mapa",
         "url": "https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "He comprado \u2741",
         "url": "https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML"
       },
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Lonely Fans",
-        "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
+        "name": "M.T.",
+        "url": "https://open.spotify.com/album/6b7TVxSQAqIM4iXFM3xYC0"
       },
       "artists": [
         {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+          "name": "Mar Marzo",
+          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
         }
       ],
-      "duration_ms": 211186,
-      "name": "D\u00cdAS COMO HOY",
-      "url": "https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N"
+      "duration_ms": 205176,
+      "name": "M.T.",
+      "url": "https://open.spotify.com/track/4ubAsBARZm0vPnlHXToW6s"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Lonely Fans",
+        "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "D\u00cdAS COMO HOY",
+      "url": "https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "AZ\u00daCAR",
         "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 205398,
       "name": "AZ\u00daCAR",
       "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "M.T.",
-        "url": "https://open.spotify.com/album/6b7TVxSQAqIM4iXFM3xYC0"
-      },
-      "artists": [
-        {
-          "name": "Mar Marzo",
-          "url": "https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc"
-        }
-      ],
-      "duration_ms": 205176,
-      "name": "M.T.",
-      "url": "https://open.spotify.com/track/4ubAsBARZm0vPnlHXToW6s"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "OTRA MANERA",
-        "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Otra Manera",
-      "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "La Nieve",
         "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 211699,
       "name": "La Nieve",
       "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "OTRA MANERA",
+        "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Otra Manera",
+      "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Si Tuviera",
+        "url": "https://open.spotify.com/album/5L57yYMGUPhpYfz0eFxIjl"
+      },
+      "artists": [
+        {
+          "name": "Alondra Bentley",
+          "url": "https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3"
+        }
+      ],
+      "duration_ms": 175011,
+      "name": "Si Tuviera",
+      "url": "https://open.spotify.com/track/61dDCTOQcmJgAY0mmpfoTj"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Cronos",
         "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
@@ -1211,34 +1227,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Si Tuviera",
-        "url": "https://open.spotify.com/album/5L57yYMGUPhpYfz0eFxIjl"
+        "name": "Amar al Mar",
+        "url": "https://open.spotify.com/album/3erEYkSwOCffOXdwnaCmR8"
       },
       "artists": [
         {
-          "name": "Alondra Bentley",
-          "url": "https://open.spotify.com/artist/5IdZFLuaPVRlnTHgGYoKO3"
+          "name": "Leil\u00e9n",
+          "url": "https://open.spotify.com/artist/5ee7mOQEjMoEZyLVXrm3QG"
         }
       ],
-      "duration_ms": 175011,
-      "name": "Si Tuviera",
-      "url": "https://open.spotify.com/track/61dDCTOQcmJgAY0mmpfoTj"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "traves\u00eda",
-        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "y las flores? (en bruto 1/2)",
-      "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
+      "duration_ms": 245673,
+      "name": "Amar al Mar",
+      "url": "https://open.spotify.com/track/1ljAkjjUioQUcLzPrIoFw3"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1259,18 +1259,34 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Amar al Mar",
-        "url": "https://open.spotify.com/album/3erEYkSwOCffOXdwnaCmR8"
+        "name": "traves\u00eda",
+        "url": "https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H"
       },
       "artists": [
         {
-          "name": "Leil\u00e9n",
-          "url": "https://open.spotify.com/artist/5ee7mOQEjMoEZyLVXrm3QG"
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
         }
       ],
-      "duration_ms": 245673,
-      "name": "Amar al Mar",
-      "url": "https://open.spotify.com/track/1ljAkjjUioQUcLzPrIoFw3"
+      "duration_ms": 156000,
+      "name": "y las flores? (en bruto 1/2)",
+      "url": "https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1291,22 +1307,6 @@
       "duration_ms": 265005,
       "name": "Nudo",
       "url": "https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2023-09-01 03:00:00",

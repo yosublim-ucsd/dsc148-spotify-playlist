@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 11953,
+  "num_followers": 12051,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTQ5MjFhY2UwOWYwOWZhMDgwMTJjZjliZGRhZDI0MDFhMDcyZjA1",
+  "snapshot_id": "MCw3ZDI1OTY3NGM2NmViNzdlNGE4M2U4MWQ2OTEzY2U0MjhkZDQ3ZDM5",
   "tracks": [
     {
       "added_at": "2023-09-01 14:34:18",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
-        "name": "Changing Colors",
-        "url": "https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf"
-      },
-      "artists": [
-        {
-          "name": "Hiwet Tesmi",
-          "url": "https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "Changing Colors",
-      "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
-    },
-    {
-      "added_at": "2023-09-01 14:34:18",
-      "album": {
         "name": "Calmest lake",
         "url": "https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 192000,
       "name": "Calmest lake",
       "url": "https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8"
+    },
+    {
+      "added_at": "2023-09-01 14:34:18",
+      "album": {
+        "name": "Changing Colors",
+        "url": "https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf"
+      },
+      "artists": [
+        {
+          "name": "Hiwet Tesmi",
+          "url": "https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "Changing Colors",
+      "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
     },
     {
       "added_at": "2023-09-01 14:34:18",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
-        "name": "Grave",
-        "url": "https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W"
-      },
-      "artists": [
-        {
-          "name": "Rudhek Caren",
-          "url": "https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41"
-    },
-    {
-      "added_at": "2023-09-01 14:34:18",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/4LtHbWd6Dgd7xApLzpzzp9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 114007,
       "name": "Wait",
       "url": "https://open.spotify.com/track/2T1ybUcEfgC1Z4XUXw5GlZ"
+    },
+    {
+      "added_at": "2023-09-01 14:34:18",
+      "album": {
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W"
+      },
+      "artists": [
+        {
+          "name": "Rudhek Caren",
+          "url": "https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41"
     },
     {
       "added_at": "2023-09-01 14:34:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
-        "name": "Beautiful Walk",
-        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
-      },
-      "artists": [
-        {
-          "name": "Loftet",
-          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
-        }
-      ],
-      "duration_ms": 140181,
-      "name": "Mellow Spring",
-      "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
-    },
-    {
-      "added_at": "2023-09-01 14:34:18",
-      "album": {
         "name": "At Dawn",
         "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 152272,
       "name": "Rays of Sunshine",
       "url": "https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV"
+    },
+    {
+      "added_at": "2023-09-01 14:34:18",
+      "album": {
+        "name": "Beautiful Walk",
+        "url": "https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr"
+      },
+      "artists": [
+        {
+          "name": "Loftet",
+          "url": "https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12"
+        }
+      ],
+      "duration_ms": 140181,
+      "name": "Mellow Spring",
+      "url": "https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL"
     },
     {
       "added_at": "2023-09-01 14:34:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
-        "name": "Evening meditation",
-        "url": "https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u"
-      },
-      "artists": [
-        {
-          "name": "Carl Faber",
-          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
-        }
-      ],
-      "duration_ms": 129750,
-      "name": "Evening meditation",
-      "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
-    },
-    {
-      "added_at": "2023-09-01 14:34:18",
-      "album": {
         "name": "Seranade Of The Silver Falls",
         "url": "https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 137250,
       "name": "Seranade Of The Silver Falls",
       "url": "https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2"
+    },
+    {
+      "added_at": "2023-09-01 14:34:18",
+      "album": {
+        "name": "Evening meditation",
+        "url": "https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u"
+      },
+      "artists": [
+        {
+          "name": "Carl Faber",
+          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
+        }
+      ],
+      "duration_ms": 129750,
+      "name": "Evening meditation",
+      "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
     },
     {
       "added_at": "2023-09-01 14:34:18",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
-        "name": "The Perfect Morning",
-        "url": "https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB"
-      },
-      "artists": [
-        {
-          "name": "Milton Laines",
-          "url": "https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi"
-    },
-    {
-      "added_at": "2023-09-01 14:34:18",
-      "album": {
         "name": "At Dawn",
         "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 159709,
       "name": "Bayou",
       "url": "https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS"
+    },
+    {
+      "added_at": "2023-09-01 14:34:18",
+      "album": {
+        "name": "The Perfect Morning",
+        "url": "https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB"
+      },
+      "artists": [
+        {
+          "name": "Milton Laines",
+          "url": "https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi"
     },
     {
       "added_at": "2023-09-01 14:34:18",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
-        "name": "From the meadow",
-        "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
-      },
-      "artists": [
-        {
-          "name": "Alana Westwood",
-          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8"
-    },
-    {
-      "added_at": "2023-09-01 14:34:18",
-      "album": {
         "name": "A Cottage in a Storm",
         "url": "https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 166000,
       "name": "On the Cottage Floor",
       "url": "https://open.spotify.com/track/0yjeRqDkfvT9iMXusDp7dq"
+    },
+    {
+      "added_at": "2023-09-01 14:34:18",
+      "album": {
+        "name": "From the meadow",
+        "url": "https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG"
+      },
+      "artists": [
+        {
+          "name": "Alana Westwood",
+          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8"
     },
     {
       "added_at": "2023-09-01 14:34:18",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
-        "name": "At Dawn",
-        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
+        "name": "The Old Grandfather Clock",
+        "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
       },
       "artists": [
         {
-          "name": "Logan Collier",
-          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
+          "name": "Birdwalk House",
+          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
         }
       ],
-      "duration_ms": 134414,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri"
+      "duration_ms": 192000,
+      "name": "The Sparrow",
+      "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
     },
     {
       "added_at": "2023-09-01 14:34:18",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
+        "name": "At Dawn",
+        "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
+      },
+      "artists": [
+        {
+          "name": "Logan Collier",
+          "url": "https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1"
+        }
+      ],
+      "duration_ms": 134414,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/3wIr8plV31HQyPXAdOu0Ri"
+    },
+    {
+      "added_at": "2023-09-01 14:34:18",
+      "album": {
         "name": "Juncture",
         "url": "https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 142660,
       "name": "Juncture",
       "url": "https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq"
-    },
-    {
-      "added_at": "2023-09-01 14:34:18",
-      "album": {
-        "name": "The Old Grandfather Clock",
-        "url": "https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu"
-      },
-      "artists": [
-        {
-          "name": "Birdwalk House",
-          "url": "https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "The Sparrow",
-      "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
     },
     {
       "added_at": "2023-09-01 14:34:18",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-09-01 14:34:18",
       "album": {
+        "name": "Calm in Green",
+        "url": "https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo"
+      },
+      "artists": [
+        {
+          "name": "Pontiver Bogross",
+          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
+        }
+      ],
+      "duration_ms": 197447,
+      "name": "Calm in Green",
+      "url": "https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e"
+    },
+    {
+      "added_at": "2023-09-01 14:34:18",
+      "album": {
         "name": "Balcons Verdoyants",
         "url": "https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 124800,
       "name": "Calming Birds",
       "url": "https://open.spotify.com/track/6Er9bq9dt39Xmv8heRUxUO"
-    },
-    {
-      "added_at": "2023-09-01 14:34:18",
-      "album": {
-        "name": "Calm in Green",
-        "url": "https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo"
-      },
-      "artists": [
-        {
-          "name": "Pontiver Bogross",
-          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
-        }
-      ],
-      "duration_ms": 197447,
-      "name": "Calm in Green",
-      "url": "https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e"
     },
     {
       "added_at": "2023-09-01 14:34:18",

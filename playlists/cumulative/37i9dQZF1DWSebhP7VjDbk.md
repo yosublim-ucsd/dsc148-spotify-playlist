@@ -4,7 +4,7 @@
 
 > Playlist oficial da série "De Volta aos 15" estrelando Maisa e Camila Queiroz\. Só na Netflix.
 
-69 songs - 4 hr 18 min
+71 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,14 +44,16 @@
 | [O Que Eu Também Não Entendo](https://open.spotify.com/track/3B4ApgSp8lYxMDSL4Apbhi) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Oxigênio](https://open.spotify.com/album/5enKJDDkB9Y4ElY1xHw5k6) | 3:44 | 2022-05-20 |  |
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2022-05-20 |  |
 | [Palpite](https://open.spotify.com/track/0ZmvPa1tgXSwoHcFRBnDES) | [Vanessa Rangel](https://open.spotify.com/artist/5SiyWxibX0FgAcRG57u12L) | [Vanessa Rangel](https://open.spotify.com/album/0kMLHzZMrWQsVzwGOuM6EL) | 3:52 | 2022-05-20 |  |
-| [Pela Última Vez](https://open.spotify.com/track/7MET1T0l4V7FdyXZDk8z3B) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:44 | 2022-05-20 |  |
+| [Pela Última Vez](https://open.spotify.com/track/3CmpbtqlnasF3781SgGxgo) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:44 | 2022-05-20 |  |
+| [Pela Última Vez](https://open.spotify.com/track/7MET1T0l4V7FdyXZDk8z3B) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:44 | 2022-05-20 | 2023-09-04 |
 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 | 2022-05-20 |  |
 | [Pose \- Ao Vivo](https://open.spotify.com/track/31c2losqwKi9W6yFdYeLSD) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7), [Clara Gessinger](https://open.spotify.com/artist/4Fxrqwvxsyb9yACFnD8pHP) | [Acústico \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/26A68nUfZ08rQSrwjSdcR5) | 2:52 | 2022-05-20 |  |
 | [Princesa](https://open.spotify.com/track/1OhH9DbQS29hgN99mwSKC0) | [Ludov](https://open.spotify.com/artist/1oJr9YeNcCuMjUtB6lQDlp) | [O Exercício das Pequenas Coisas](https://open.spotify.com/album/7GIzdno9rimxAlknH7BYQB) | 3:40 | 2022-05-20 |  |
 | [Quando Você Passa \(Turu Turu\)](https://open.spotify.com/track/1LNroGH4W4RsUVjIFUsrUA) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 3:41 | 2022-05-20 |  |
 | [Quase Sem Querer](https://open.spotify.com/track/2Pr6qNmiOxTdo8B6bs8x8x) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 4:40 | 2022-05-20 |  |
 | [Rain City](https://open.spotify.com/track/2OE2OD5QzqmXbeutOQLN0C) | [Turin Brakes](https://open.spotify.com/artist/1zrBQvkTNhFFby4V5UiK2L) | [Ether Song](https://open.spotify.com/album/3kIYmzHtIZKdRT2ZCfG4N0) | 4:06 | 2022-05-20 |  |
-| [Razões E Emoções](https://open.spotify.com/track/4w0UUctedmEbrpUtlrHuaN) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:42 | 2022-05-20 |  |
+| [Razões E Emoções](https://open.spotify.com/track/3VPWRmLJaUtj8WPFo4LXtg) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Daqui Pra Frente \- NX Zero](https://open.spotify.com/album/7u2G12TefBv9h5q9bhOLL4) | 3:42 | 2022-05-20 |  |
+| [Razões E Emoções](https://open.spotify.com/track/4w0UUctedmEbrpUtlrHuaN) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Rock Nacional Anos 2000](https://open.spotify.com/album/4f4NWxgVjCP6qkDvUR2BUy) | 3:42 | 2022-05-20 | 2023-09-04 |
 | [Save Me](https://open.spotify.com/track/7wzxUErTA9Jw7UdZIeu1bi) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [This Time Around](https://open.spotify.com/album/3qiPdcAIYqgU1uR2Utdkol) | 3:42 | 2022-05-20 |  |
 | [Save Me from Myself](https://open.spotify.com/track/4OdyImkjjZBJPhKx4swqZi) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Anthem](https://open.spotify.com/album/5545BE47Cy1ZTU0vPJpdbN) | 3:56 | 2022-05-20 |  |
 | [Segredos](https://open.spotify.com/track/2R0478PhcwKMYLTiJHAuTH) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Amor pra Recomeçar](https://open.spotify.com/album/2vZuQWV3d7ooVuJGSQhuf7) | 3:53 | 2022-05-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 \ud83c\udf79",
-  "num_followers": 241463,
+  "num_followers": 241601,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmY0M2M4NmY5YTRjYTZmMGNiNDQyZDQ5MjBkZTBkOTlhMDEzZjBk",
+  "snapshot_id": "MCxiMmZkMzZkZDk1ZGZiNGZhNjNmN2NjY2QzOTllNDNmMjY1YjM1ZDVk",
   "tracks": [
     {
       "added_at": "2023-09-01 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Goodbye Country (Hello Nightclub)",
-        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 300266,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 266826,
       "name": "Thinking of You - 1995 Remaster",
       "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Goodbye Country (Hello Nightclub)",
+        "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 300266,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -783,26 +783,18 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "All In A Dream",
-        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Joseph Ashworth",
-          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 230015,
-      "name": "All In A Dream",
-      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -823,18 +815,26 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+        "name": "All In A Dream",
+        "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
         }
       ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
+      "duration_ms": 230015,
+      "name": "All In A Dream",
+      "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Melody A.M.",
+        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "Eple",
+      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "L.I.F.E",
         "url": "https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 449093,
       "name": "L.I.F.E",
       "url": "https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Melody A.M.",
-        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "Eple",
-      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1051,26 +1051,26 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "V\u00e1rias Queixas (Radio Edit)",
-        "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         },
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         },
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 155702,
-      "name": "V\u00e1rias Queixas - Radio Edit",
-      "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "V\u00e1rias Queixas (Radio Edit)",
+        "url": "https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 155702,
+      "name": "V\u00e1rias Queixas - Radio Edit",
+      "url": "https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Since I Left You (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
       },
@@ -1111,30 +1135,6 @@
       "duration_ms": 262840,
       "name": "Since I Left You",
       "url": "https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Joys",
-        "url": "https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0"
-      },
-      "artists": [
-        {
-          "name": "Roberto Surace",
-          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
-        }
-      ],
-      "duration_ms": 135218,
-      "name": "Joys",
-      "url": "https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Dance of the Crab",
         "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "Joys",
+        "url": "https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "Roberto Surace",
+          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
         }
       ],
-      "duration_ms": 227486,
-      "name": "Actually",
-      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
+      "duration_ms": 135218,
+      "name": "Joys",
+      "url": "https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 240640,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 227486,
+      "name": "Actually",
+      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Rah That's A Mad Question",
-        "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 227123,
-      "name": "Rah That's A Mad Question",
-      "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 184000,
       "name": "Bar Mediterraneo",
       "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Rah That's A Mad Question",
+        "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 227123,
+      "name": "Rah That's A Mad Question",
+      "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Supply The Love",
-        "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
-      },
-      "artists": [
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 155821,
-      "name": "Supply The Love",
-      "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "JOY (Head To The Sky)",
         "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 230650,
       "name": "JOY (Head To The Sky)",
       "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Supply The Love",
+        "url": "https://open.spotify.com/album/7y3keAFTj2vYq3zIqQEBjf"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 155821,
+      "name": "Supply The Love",
+      "url": "https://open.spotify.com/track/59kU1EApSoqDXqAqlGIvCy"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 234926,
+      "name": "Era - Edit",
+      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "The Way You Say (Remixes)",
         "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 175680,
       "name": "The Way You Say - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 234926,
-      "name": "Era - Edit",
-      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
     },
     {
       "added_at": "2023-09-01 04:01:00",

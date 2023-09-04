@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Gato e’ Monte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,923 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,955 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,15 +81,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 71 | [Rumba en Cahuita](https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Rumba en Cahuita](https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf) | 2:47 |
 | 72 | [Nadie me lo enseñó](https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [La Certeza del Dolor](https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5) | 3:32 |
 | 73 | [Cuando los Años Pasen](https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 3:03 |
-| 74 | [Despierta](https://open.spotify.com/track/4fNuz1LcISE4tAFIJgJkTT) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Despierta](https://open.spotify.com/album/0ZZW0cNuUB7zAh4sIPTzUR) | 3:05 |
-| 75 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 |
-| 76 | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \- Live on Pardelion Music](https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Sebastián Prada](https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6) | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \[Live on Pardelion Music\]](https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af) | 2:41 |
-| 77 | [Coplas \(feat\. Perotá Chingó\)](https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [La Sangre del Mundo](https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H) | 4:24 |
-| 78 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 |
+| 74 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 |
+| 75 | [Despierta](https://open.spotify.com/track/4fNuz1LcISE4tAFIJgJkTT) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Despierta](https://open.spotify.com/album/0ZZW0cNuUB7zAh4sIPTzUR) | 3:05 |
+| 76 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 |
+| 77 | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \- Live on Pardelion Music](https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Sebastián Prada](https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6) | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \[Live on Pardelion Music\]](https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af) | 2:41 |
+| 78 | [Coplas \(feat\. Perotá Chingó\)](https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [La Sangre del Mundo](https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H) | 4:24 |
 | 79 | [Yo Soy](https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo Soy](https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e) | 3:36 |
 | 80 | [Chavela](https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Rúbrica X](https://open.spotify.com/album/1NOmwE4eto86tiCnzwoWEq) | 3:05 |
-| 81 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 |
-| 82 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 |
+| 81 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 |
+| 82 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 |
 | 83 | [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 |
 | 84 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
 | 85 | [Ahora](https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez), [Emilia Siede](https://open.spotify.com/artist/6RWlJiSPLshpRuQ6emBMpX) | [1990](https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Sana Sana](https://open.spotify.com/track/6INLstv52hDkfJ5P8OhKqx) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Madre Padre Marte](https://open.spotify.com/album/63AhXYacnlHnitNe6qG334) | 5:02 |
 | 100 | [Una Fecha En El Calendario](https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 3:58 |
 
-Snapshot ID: `MCxhZjc2OTAzNzdmODljY2YxMmZlOGY2NDNmYzIyYTE5OTYxNjE2ODhl`
+Snapshot ID: `MCxkMDZiZDk1ZmI5MDMwZDJkZTU0ZjZmYTgxYTMyMjA1NzM5ODlhOTgz`

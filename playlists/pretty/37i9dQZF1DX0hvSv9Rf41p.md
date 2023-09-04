@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with CloZee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,977 likes - 123 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,023 likes - 123 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 122 | [Novaform](https://open.spotify.com/track/4iRF49wQyW2359Lxh6bJ2q) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Novaform / Blueshift](https://open.spotify.com/album/29VmOL15urLPDhYYN95UHt) | 3:00 |
 | 123 | [Play With You](https://open.spotify.com/track/6DU55Vc6ZIGYgGC9t5g56t) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Play With You](https://open.spotify.com/album/55rXKa79HyEaM9gYapnZiy) | 2:25 |
 
-Snapshot ID: `MCxkZWZmNzExMTA3MTEwOThhOTc1YjAwNDJlMWY3N2NlMTI3NTM1N2Qx`
+Snapshot ID: `MCxkZWMxZjJhNDY1NDI3MTNiMTM0M2ExNzQ4MzVkMTBkYmI1MDQxOWMz`

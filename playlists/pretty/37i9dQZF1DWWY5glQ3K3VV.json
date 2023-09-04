@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
-  "num_followers": 86520,
+  "num_followers": 86581,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTEwMjBmNGMzZDlmMGZhY2I2N2ZkNzJlNmE2MDdmNWU5MmY2YmMw",
+  "snapshot_id": "MCxjNjIxYjcyYzVlNDc4NWZhNTVhMjhhMTg4NDUwNzk3MGE5YjE5ZTM1",
   "tracks": [
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
-        },
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        },
-        {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 152440,
       "name": "Twerk (con Boro)",
       "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "IL MINORENNE + BASTARDO",
+        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "PULL UP (feat. Big P)",
+      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "TOXIC - trainspotting",
-      "url": "https://open.spotify.com/track/3mrtP5imQ3Mv3OQ0byI4ix"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 140307,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "TOXIC - trainspotting",
+      "url": "https://open.spotify.com/track/3mrtP5imQ3Mv3OQ0byI4ix"
     },
     {
       "added_at": "2023-07-27 22:00:00",

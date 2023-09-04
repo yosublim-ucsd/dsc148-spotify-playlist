@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: laye
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,559 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,574 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Does This Sound Good To You?](https://open.spotify.com/track/5TkhXF4u5gPLgqii04ek6d) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Does This Sound Good To You?](https://open.spotify.com/album/67TDi71dKdJTezgHn2NdUe) | 4:27 |
 | 50 | [mundane](https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru) | [Moira & Claire](https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN) | [mundane](https://open.spotify.com/album/1gCFvzhsVFmj7G1ejCDPhg) | 2:41 |
 
-Snapshot ID: `MCwxNjA1ODdiZDU0MTliMDhkZGVmZmM1ZmY4YzVmZjRiMzY5ZWUzMDkx`
+Snapshot ID: `MCxiMDRjN2FhY2E0NTQ2NTRlMjhmYTQ1ZTVlNWVmOGE0OGZiMDJlYzdk`

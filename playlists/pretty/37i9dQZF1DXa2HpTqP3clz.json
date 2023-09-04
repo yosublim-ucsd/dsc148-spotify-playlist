@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 125525,
+  "num_followers": 125583,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmUzODcyZGVmMTVjODZjYzA4M2FiNmUxNjI5NjVhYTZkZWYwMzkx",
+  "snapshot_id": "MCw5ZGJiODhiYjc4NTYyNDg3YjJhMTIwNTY0Zjc0MTMwYzJiODU0YTll",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "City on a Hill",
-        "url": "https://open.spotify.com/album/3sK98anKCbdIVuOaHbMmy1"
-      },
-      "artists": [
-        {
-          "name": "Mile Twelve",
-          "url": "https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "City That Drowned",
-      "url": "https://open.spotify.com/track/3kawMkt6ox3rlyl1DhV4ey"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "City on a Hill",
+        "url": "https://open.spotify.com/album/3sK98anKCbdIVuOaHbMmy1"
+      },
+      "artists": [
+        {
+          "name": "Mile Twelve",
+          "url": "https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "City That Drowned",
+      "url": "https://open.spotify.com/track/3kawMkt6ox3rlyl1DhV4ey"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1467,6 +1467,58 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Fare Thee Well",
+        "url": "https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya"
+      },
+      "artists": [
+        {
+          "name": "Lindley Creek",
+          "url": "https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "White Freight Liner Blues (feat. Molly Tuttle)",
+        "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
+      },
+      "artists": [
+        {
+          "name": "Tommy Emmanuel",
+          "url": "https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "White Freight Liner Blues (feat. Molly Tuttle)",
+      "url": "https://open.spotify.com/track/4pIsyjHTDweaJDyQl6dMrd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "4:09",
         "url": "https://open.spotify.com/album/2KwAbI08WaxaEABYTgSPpJ"
       },
@@ -1495,58 +1547,6 @@
       "duration_ms": 258318,
       "name": "Once in a Thousand",
       "url": "https://open.spotify.com/track/4SyZE6yKsawGAlkks34FfX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Fare Thee Well",
-        "url": "https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya"
-      },
-      "artists": [
-        {
-          "name": "Lindley Creek",
-          "url": "https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Fare Thee Well",
-      "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "White Freight Liner Blues (feat. Molly Tuttle)",
-        "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
-      },
-      "artists": [
-        {
-          "name": "Tommy Emmanuel",
-          "url": "https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "White Freight Liner Blues (feat. Molly Tuttle)",
-      "url": "https://open.spotify.com/track/4pIsyjHTDweaJDyQl6dMrd"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Almost Proud",
         "url": "https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
         "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 165600,
       "name": "Running Out Of Hope, Arkansas",
       "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Skunk Weed",
-        "url": "https://open.spotify.com/album/43SUsPRzrTbe6oaHukQERY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Skunk Weed",
-      "url": "https://open.spotify.com/track/12VKMGe1sbcOHDBWrH9hUJ"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1703,6 +1687,22 @@
       "duration_ms": 177414,
       "name": "Ohio",
       "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Skunk Weed",
+        "url": "https://open.spotify.com/album/43SUsPRzrTbe6oaHukQERY"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Skunk Weed",
+      "url": "https://open.spotify.com/track/12VKMGe1sbcOHDBWrH9hUJ"
     },
     {
       "added_at": "2023-09-01 04:00:00",

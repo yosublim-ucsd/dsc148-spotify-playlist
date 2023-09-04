@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Lancey Foux
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,059 likes - 101 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,145 likes - 101 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 100 | [Can't Get Rid Of Me \(feat\. Fergie Baby\)](https://open.spotify.com/track/2EoSee89OYP7n6mwxCHSlq) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O), [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa) | [Can't Get Rid Of Me \(feat\. Fergie Baby\)](https://open.spotify.com/album/5HsEj4CtAE03sm0H76uPhe) | 2:30 |
 | 101 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
 
-Snapshot ID: `MCwzOGJlY2RhN2I3NjljNWM5MzQ3YWNlODJhNjFhMGZlZWNlYjlkMDg3`
+Snapshot ID: `MCwxYWRlZWE1YmViZjYzOTUxNjJjYWE5OTVjYmQ4MmQ4YzQ2ODVlNDFm`

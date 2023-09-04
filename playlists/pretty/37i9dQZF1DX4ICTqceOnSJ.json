@@ -1,13 +1,49 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422400,
+  "num_followers": 422401,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWNlOTY3OWY5YTczYTQ4NGNkOWZkZTQwNzE4MjhmZmZhODVhOTY2",
+  "snapshot_id": "MCxmZjk5OWIzMDAzYzBkZjliOTE2MGY1YWJmZDYyYmQ4Y2M5OWQ2ZTFh",
   "tracks": [
+    {
+      "added_at": "2023-09-03 07:00:00",
+      "album": {
+        "name": "BEiBi",
+        "url": "https://open.spotify.com/album/56sYshMsnqKPpb3QIkth1v"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 240180,
+      "name": "BEiBi",
+      "url": "https://open.spotify.com/track/53x7QqqdDnL50WZMtKixcu"
+    },
+    {
+      "added_at": "2023-09-03 07:00:00",
+      "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+    },
     {
       "added_at": "2023-09-01 07:00:00",
       "album": {
@@ -867,42 +903,6 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
-    },
-    {
-      "added_at": "2023-08-20 03:00:00",
-      "album": {
-        "name": "Mechero",
-        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 155392,
-      "name": "Mechero",
-      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
-    },
-    {
-      "added_at": "2023-08-20 03:00:00",
-      "album": {
-        "name": "EME",
-        "url": "https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "EME",
-      "url": "https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

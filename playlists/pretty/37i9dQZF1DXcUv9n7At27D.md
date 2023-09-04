@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の夏に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,258 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,304 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 3 | [花水木の咲く頃 \- 辻井伸行](https://open.spotify.com/track/7Hn9C68R48KK9pj07ys2ak) | [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [debut](https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8) | 3:29 |
 | 4 | [Raven](https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Raven](https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT) | 2:54 |
 | 5 | [あの夏へ\(千と千尋の神隠しより\)](https://open.spotify.com/track/7KbKG5NOt3zyzhVgW3dQMW) | [Yuka](https://open.spotify.com/artist/2kaFHvFGh2GPqM5beeJX5O) | [宮崎 駿の世界 \(ヴァイオリンとピアノの調べ\)](https://open.spotify.com/album/7hLSCvgJy5NTTOgCkRioGd) | 4:40 |
-| 6 | [Sicilienne, Op\. 78 \(Arr\. for Flute and Guitar\)](https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sicilienne](https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM) | 3:57 |
+| 6 | [Sicilienne](https://open.spotify.com/track/6TS1h31F8I9SIBIwIvdKYk) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Sicilienne](https://open.spotify.com/album/6cZ4qoRFJuVTNhPop4LfuM) | 3:57 |
 | 7 | [道](https://open.spotify.com/track/0aauH3yCCRncERNOWNFLRI) | [Mine Kawakami](https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb) | [Nostalghia\~Kiyomizu\~](https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL) | 3:06 |
 | 8 | [Rêverie, L\. 68](https://open.spotify.com/track/43BEvIoW4TPxPyVeGMutHn) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [France Romance](https://open.spotify.com/album/6zfAaRAoKeOf2QbnWzyAKW) | 4:30 |
 | 9 | [Let Us Cling Together](https://open.spotify.com/track/3CKY7tpvwM2ogwKpqtku2Z) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Over Now](https://open.spotify.com/album/0fGpXad0g5awrAgM7Zu0MJ) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 49 | [Always You](https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:17 |
 | 50 | [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 |
 
-Snapshot ID: `MCwzNGFkYzg3MWM4ZWJkNzc3MGE3MzM4ZjFkYWM1NzllODlhZjQyM2U3`
+Snapshot ID: `MCw5OTI1MTI5ZDM0ZjhhMmZhZDNkZWQyMGRhNGE2MmQ0OTk0ZDBlOGYw`

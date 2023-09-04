@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-744 songs - 1 day 13 hr 24 min
+745 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 | 2022-07-02 | 2022-10-11 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-08-18 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2021-12-27 |
-| [International](https://open.spotify.com/track/5y0XT07L7K9n2Yc8I7HXJZ) | [pasa michaelson](https://open.spotify.com/artist/1my2pvFvefZsP1uRUeby6X), [umutlopes](https://open.spotify.com/artist/0PrzK1viPdHVBRgyVucdyW), [Alperen INC](https://open.spotify.com/artist/4VpYwfKRm8o6usZLPGRca4) | [International \(Full Studyo\)](https://open.spotify.com/album/06hGhlZMS7OnUFJCTDpFBn) | 2:43 | 2023-09-02 |  |
+| [International](https://open.spotify.com/track/5y0XT07L7K9n2Yc8I7HXJZ) | [pasa michaelson](https://open.spotify.com/artist/1my2pvFvefZsP1uRUeby6X), [umutlopes](https://open.spotify.com/artist/0PrzK1viPdHVBRgyVucdyW), [Alperen INC](https://open.spotify.com/artist/4VpYwfKRm8o6usZLPGRca4) | [International \(Full Studyo\)](https://open.spotify.com/album/06hGhlZMS7OnUFJCTDpFBn) | 2:43 | 2023-09-02 | 2023-09-04 |
+| [International](https://open.spotify.com/track/1WHwr3enTkZdG8feFozaqy) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [International](https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd) | 2:43 | 2023-09-03 |  |
 | [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2022-07-16 | 2022-11-09 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-10 |
 | [ISABELLE](https://open.spotify.com/track/3iz0BamLeB8AngNYpjbC6E) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [ISABELLE](https://open.spotify.com/album/11rFmZYfVqcPfpXgyY0tHZ) | 2:16 | 2022-06-16 | 2022-11-09 |

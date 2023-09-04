@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,287 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,371 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 49 | [Goa Beach](https://open.spotify.com/track/4obyqyCX0Vx839PTsz1OGf) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Goa Beach](https://open.spotify.com/album/7EI4PXzgUDnRVsFCgP8xPF) | 3:38 |
 | 50 | [Dil Mera Blast](https://open.spotify.com/track/1OjjMsdBWWszjERnKeJbfd) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dil Mera Blast](https://open.spotify.com/album/0Gk4AsC07XUkqvk0lCbNIw) | 3:09 |
 
-Snapshot ID: `MCxiZWY4ZDUxMzNlNmJhOGQ2YTAzNjU1ZDRjZjc1ZWM4M2M5ZjJlNjMx`
+Snapshot ID: `MCxkOTIxZGExMGZiNjU5MWIwZDFjNGQxYmE1ODBiN2NjNTJmNjg3OWIz`

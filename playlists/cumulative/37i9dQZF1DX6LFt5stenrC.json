@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "My First Album",
+        "url": "https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145240,
+      "name": "It's Peppa Pig",
+      "url": "https://open.spotify.com/track/7K8zUaZX1v6kJzFwA4mt31"
+    },
+    {
+      "album": {
         "name": "Daniel Tiger's Neighborhood: Big Feelings",
         "url": "https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8"
       },
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 68258,
       "name": "Mystery in the Sky",
       "url": "https://open.spotify.com/track/5iKZAwDvrBQMCwJ7jnZjqG"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-338 songs - 19 hr 41 min
+339 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Godly](https://open.spotify.com/track/33dN3Nd9aRz4nzha4oIGnX) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 2:55 | 2022-02-04 | 2022-10-28 |
 | [Grimey](https://open.spotify.com/track/4IxNLYzo3NmUA8icBU7XVW) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Grimey](https://open.spotify.com/album/6DpgnIgmldVhAWSD7IGQWR) | 2:46 | 2022-02-04 |  |
 | [Gumbo](https://open.spotify.com/track/1jNKPJk2YBNTqPI18WNK1F) | [Manast LL'](https://open.spotify.com/artist/4QlK9TAWuQCx1kO0P0pWIs), [Tony Stone](https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn), [Rizzy Wallace](https://open.spotify.com/artist/2YeS5Cbz7d2NIjPeh3su3q) | [The Gumbo Tape](https://open.spotify.com/album/5RmiF4fWu9fWRtSEykeiN0) | 3:09 | 2022-02-04 |  |
-| [Handle Me Meat](https://open.spotify.com/track/4iftvpjOFBxmT0U24hoR09) | [Lateena](https://open.spotify.com/artist/4dtkobNa7o1TEJcSVXPjgi), [Modulaw](https://open.spotify.com/artist/5ACt4ZNWxucnrWD2dptwER) | [Luxurious Legacy](https://open.spotify.com/album/2x8YlD5zo7g1wfkCKbiP2D) | 2:18 | 2022-10-27 |  |
+| [Handle Me Meat](https://open.spotify.com/track/1vdMtc2a376146bDFOtz60) | [Lateena](https://open.spotify.com/artist/4dtkobNa7o1TEJcSVXPjgi), [Modulaw](https://open.spotify.com/artist/5ACt4ZNWxucnrWD2dptwER) | [Luxurious Legacy](https://open.spotify.com/album/0RrdxyzVbCm5L4MBEuS3qG) | 2:18 | 2023-03-08 |  |
+| [Handle Me Meat](https://open.spotify.com/track/4iftvpjOFBxmT0U24hoR09) | [Lateena](https://open.spotify.com/artist/4dtkobNa7o1TEJcSVXPjgi), [Modulaw](https://open.spotify.com/artist/5ACt4ZNWxucnrWD2dptwER) | [Luxurious Legacy](https://open.spotify.com/album/2x8YlD5zo7g1wfkCKbiP2D) | 2:18 | 2022-10-27 | 2023-09-04 |
 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 | 2022-10-27 |  |
 | [Happy Ending](https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL) | 4:08 | 2022-10-27 | 2023-02-03 |
 | [Happy Ending](https://open.spotify.com/track/6RxVB52FcxiuH3moPgTNj7) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Happy Ending](https://open.spotify.com/album/40QuFWLaRkdedUKlhUTPeR) | 4:08 | 2022-10-27 | 2023-02-14 |

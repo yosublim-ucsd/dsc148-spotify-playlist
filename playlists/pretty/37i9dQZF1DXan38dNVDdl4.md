@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023, curated by DJ Larni / BRUKOUT 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,422 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,567 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 7 | [Wild Out](https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Wild Out](https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D) | 2:33 |
 | 8 | [North Carolina](https://open.spotify.com/track/2wOVdHz2duM1BrRspxS996) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [North Carolina](https://open.spotify.com/album/1VAtoqET8PjdccfDchldh1) | 2:40 |
 | 9 | [Barbies](https://open.spotify.com/track/3QzbUlnLn28GYCkRrSbOlV) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Barbies](https://open.spotify.com/album/4pRkPI6ddk2arVUitoJiCV) | 2:42 |
-| 10 | [Boujie Bitch](https://open.spotify.com/track/3XffXUSZnSQuNz9n4u3l9E) | [Qwella](https://open.spotify.com/artist/1RIES74rYGM4VGy0Cx2SdK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7), [Brysco](https://open.spotify.com/artist/6IUtN4Ejh27VhUovFiKUa5) | [Boujie Bitch](https://open.spotify.com/album/1vmCFXZ4q4PU2W8hx6gLJQ) | 3:07 |
+| 10 | [Boujie Bitch](https://open.spotify.com/track/3XffXUSZnSQuNz9n4u3l9E) | [Qwella](https://open.spotify.com/artist/1RIES74rYGM4VGy0Cx2SdK), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7), [Brysco](https://open.spotify.com/artist/1W07QMxZ9se7fIk2YSrx4h) | [Boujie Bitch](https://open.spotify.com/album/1vmCFXZ4q4PU2W8hx6gLJQ) | 3:07 |
 | 11 | [Rasta](https://open.spotify.com/track/1BXuekBuG8sIz1OwL8XhD0) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Rasta](https://open.spotify.com/album/1ZEgRS3jgYyQWQMlPsPSSD) | 2:15 |
 | 12 | [Glock 40](https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Eclipse](https://open.spotify.com/artist/73UvMKMCMeorzSkeBi7PIM) | [Glock 40](https://open.spotify.com/album/6GUXVlDpDDNbRjtwfCKeYH) | 2:16 |
 | 13 | [Short Skirt](https://open.spotify.com/track/2USaqXUoDiGYjnzwJWKr2D) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Short Skirt \(Original and Sped Up\)](https://open.spotify.com/album/1DcgosAH0rzrP1ZfT9FN9T) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 49 | [Talibhan](https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Talibhan](https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa) | 3:03 |
 | 50 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS), [Steel Chest](https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
 
-Snapshot ID: `MCwyYmMyMWQ1OTcwY2U2MmI3NmMyYWVkMjg4NWU1NjhhZjZkMjM3YjUy`
+Snapshot ID: `MCw2ZDQ2ZGZjYTgwNjZhZWE3Yjc5ZTM0M2FkNDZlNTI2NWQ3YmYyOGVi`

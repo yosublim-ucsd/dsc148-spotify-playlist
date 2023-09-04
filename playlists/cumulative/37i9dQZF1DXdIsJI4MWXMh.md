@@ -4,12 +4,12 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-107 songs - 7 hr 22 min
+108 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z) | [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY) | 8:14 | 2023-03-03 |  |
-| [Abrazado a Mi Botella](https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X) | [Los Ruiseñores de la Frontera](https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4) | [Fiesta Ranchera](https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W) | 3:06 | 2023-03-03 |  |
+| [Abrazado a Mi Botella](https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X) | [Los Ruiseñores de la Frontera](https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4) | [Fiesta Ranchera](https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W) | 3:06 | 2023-03-03 | 2023-09-04 |
 | [Abrazado de un Poste](https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [De Fiesta Con los Braos](https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX) | 4:27 | 2023-03-03 |  |
 | [Ahora por unas monedas](https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ) | [Sin Rivales de Punitaqui](https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL) | [Quédate con el](https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy) | 5:28 | 2023-03-03 |  |
 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 | 2023-03-03 |  |
@@ -19,6 +19,7 @@
 | [Ay Soledad](https://open.spotify.com/track/1CfiOn7odAU1FSpaPX3gPi) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbia y Sabor](https://open.spotify.com/album/4ZaMrAKkh4civl4b99P2r9) | 4:05 | 2023-03-03 |  |
 | [Caballo de Patas Blancas](https://open.spotify.com/track/5J81nFtP3zPfcY1u8XIbKy) | [Eliseo Guevara](https://open.spotify.com/artist/2elfE5Hl1JQzfrtGNolVEI) | [Le Canto a Mi Pueblo](https://open.spotify.com/album/5BZjYcqsuK3yQITQJY4V47) | 3:28 | 2023-03-03 |  |
 | [Cantina de Mi Barrio](https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Relatos de Mi Vida](https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g) | 4:24 | 2023-03-03 |  |
+| [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 | 2023-05-29 |  |
 | [Charros para Rato](https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:41 | 2023-03-03 |  |
 | [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 | 2023-03-03 | 2023-05-30 |
 | [Como Te Va Mi Amor](https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Una Década de Éxitos](https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl) | 4:24 | 2023-03-03 |  |

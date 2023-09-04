@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,009 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,123 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 53 | [Unrushed](https://open.spotify.com/track/4W6T0dEvuRxi9FE5SrqVwI) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [69,3 Hz Atmospheres for Sleep and Relaxation](https://open.spotify.com/album/2BAIMHPZMgBgXlB7JWLw8l) | 3:17 |
 | 54 | [Chakra Healing Bowl \(Sound Bath\)](https://open.spotify.com/track/0xbn3eRyGE0CWzYgl2kNOG) | [EXOPIRS](https://open.spotify.com/artist/2Q0Qqbi8FdkM0oBsOQaqyE) | [Meditation Sounds](https://open.spotify.com/album/3oMUxmMSX0gza3sPwhsU20) | 3:04 |
 
-Snapshot ID: `MCxhODgyOTA4MzE2Y2NjY2RhZTFhOTA5ZGIxMDU1ZDhlYjE2NjVlODll`
+Snapshot ID: `MCxhZWEzNDRhMWVhNTMzMWMyMWQ2NDVmNTNkMGRhODIxZjg4NzZjNDkw`

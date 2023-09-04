@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,326 likes - 92 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,328 likes - 92 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 91 | [I Don't Care \- Acoustic Version](https://open.spotify.com/track/6npKFnNEMN65CrS2BYf9nd) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Don't Care \(Acoustic Version\)](https://open.spotify.com/album/4Gn2Zma5G5bpVr8XlUCYzI) | 3:39 |
 | 92 | [Ho Hey](https://open.spotify.com/track/3cfb2iNdWpf1EZ4KaBLOjm) | [Peter Ryans](https://open.spotify.com/artist/2d6l7CTjCeBUSQmQNcmNH0) | [American Girl](https://open.spotify.com/album/0EArGGTFL9r7Qhqg3tfXqG) | 2:40 |
 
-Snapshot ID: `MCwwNzA1NWU4YTY5ZTAwYWE1NWVlZWE1YmUwNDM3ZmNlYWI3NWQ5YzQx`
+Snapshot ID: `MCw1NTU4NjRiNjU1OGRiNzg2MGE1ZjIzMjdkZTI0ZDJhNjRiZjU2MzRi`

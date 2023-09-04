@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Prok",
-  "num_followers": 509209,
+  "num_followers": 509299,
   "original_name": "Rap Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzI4MjEzOTZhMzQ0ZjcwOTdhZDkwM2ZjYTA0YWFkOTM5YTY4NjY4",
+  "snapshot_id": "MCxlMzZlZWQ0ZjVkMzY4MDk2OGNmODg5MzliMWFlMjAzY2Q3MmQxNTE1",
   "tracks": [
     {
       "added_at": "2023-08-14 16:10:46",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Si Vuelves Tarde",
-        "url": "https://open.spotify.com/album/4ahcq4UXDopr8ArOjFYZX4"
-      },
-      "artists": [
-        {
-          "name": "Nikone",
-          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
-        },
-        {
-          "name": "Lionware",
-          "url": "https://open.spotify.com/artist/67TDVqPf5B8RQzCg2yZpBk"
-        }
-      ],
-      "duration_ms": 219605,
-      "name": "Si Vuelves Tarde",
-      "url": "https://open.spotify.com/track/20u2zomBmzbAI85bP9vkYj"
-    },
-    {
-      "added_at": "2023-08-14 16:10:46",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 175914,
       "name": "Mortales",
       "url": "https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0"
+    },
+    {
+      "added_at": "2023-08-14 16:10:46",
+      "album": {
+        "name": "Si Vuelves Tarde",
+        "url": "https://open.spotify.com/album/4ahcq4UXDopr8ArOjFYZX4"
+      },
+      "artists": [
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "Lionware",
+          "url": "https://open.spotify.com/artist/67TDVqPf5B8RQzCg2yZpBk"
+        }
+      ],
+      "duration_ms": 219605,
+      "name": "Si Vuelves Tarde",
+      "url": "https://open.spotify.com/track/20u2zomBmzbAI85bP9vkYj"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Bukowski",
-        "url": "https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ"
-      },
-      "artists": [
-        {
-          "name": "Ayax y Prok",
-          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bukowski",
-      "url": "https://open.spotify.com/track/04G7s84Y5Wpuq77I6IfVvX"
-    },
-    {
-      "added_at": "2023-08-14 16:10:46",
-      "album": {
         "name": "Yipiyou",
         "url": "https://open.spotify.com/album/0QlYj53TIFDRDq6E7GrRXH"
       },
@@ -375,18 +359,42 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Patato",
-        "url": "https://open.spotify.com/album/4gJBXdGhYA1piaLYhYpZR9"
+        "name": "Bukowski",
+        "url": "https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ"
       },
       "artists": [
         {
-          "name": "Nikone",
-          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
         }
       ],
-      "duration_ms": 144692,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V"
+      "duration_ms": 208000,
+      "name": "Bukowski",
+      "url": "https://open.spotify.com/track/04G7s84Y5Wpuq77I6IfVvX"
+    },
+    {
+      "added_at": "2023-08-14 16:10:46",
+      "album": {
+        "name": "Lo Real",
+        "url": "https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+        },
+        {
+          "name": "Dualy",
+          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Lo Real",
+      "url": "https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -451,26 +459,34 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Lo Real",
-        "url": "https://open.spotify.com/album/2dWRx8YRn7RFQ4UNdjbeGq"
+        "name": "Patato",
+        "url": "https://open.spotify.com/album/4gJBXdGhYA1piaLYhYpZR9"
       },
       "artists": [
         {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
           "name": "Nikone",
           "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
-        },
-        {
-          "name": "Dualy",
-          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
         }
       ],
-      "duration_ms": 206843,
-      "name": "Lo Real",
-      "url": "https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw"
+      "duration_ms": 144692,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V"
+    },
+    {
+      "added_at": "2023-08-14 16:10:46",
+      "album": {
+        "name": "No hay nada nuevo",
+        "url": "https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "duration_ms": 220881,
+      "name": "No hay nada nuevo",
+      "url": "https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "No hay nada nuevo",
-        "url": "https://open.spotify.com/album/0B1BbxohQyIitYrzegF5io"
-      },
-      "artists": [
-        {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
-        }
-      ],
-      "duration_ms": 220881,
-      "name": "No hay nada nuevo",
-      "url": "https://open.spotify.com/track/64aVCHpEpvCeODnQ3YOFs0"
-    },
-    {
-      "added_at": "2023-08-14 16:10:46",
-      "album": {
         "name": "Gold Diggers",
         "url": "https://open.spotify.com/album/1AqOMFcHUFigojsurVdSD1"
       },
@@ -555,26 +555,26 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Yo No S\u00e9",
-        "url": "https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE"
+        "name": "EL CIELO",
+        "url": "https://open.spotify.com/album/3SL9BkVqLDALKCeEkvrFB7"
       },
       "artists": [
         {
-          "name": "Nikone",
-          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
         },
         {
-          "name": "Reality",
-          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+          "name": "Kaze",
+          "url": "https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg"
         },
         {
-          "name": "GIO",
-          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Yo No S\u00e9",
-      "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"
+      "duration_ms": 265917,
+      "name": "EL CIELO",
+      "url": "https://open.spotify.com/track/1werFoAlPyW1GYTfD9SRy6"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -611,26 +611,26 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "EL CIELO",
-        "url": "https://open.spotify.com/album/3SL9BkVqLDALKCeEkvrFB7"
+        "name": "Yo No S\u00e9",
+        "url": "https://open.spotify.com/album/2ed6KMzzTjO7pNGmn8lODE"
       },
       "artists": [
         {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+          "name": "Nikone",
+          "url": "https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD"
         },
         {
-          "name": "Kaze",
-          "url": "https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg"
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
         },
         {
-          "name": "Marcelus Airlinez",
-          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
         }
       ],
-      "duration_ms": 265917,
-      "name": "EL CIELO",
-      "url": "https://open.spotify.com/track/1werFoAlPyW1GYTfD9SRy6"
+      "duration_ms": 164571,
+      "name": "Yo No S\u00e9",
+      "url": "https://open.spotify.com/track/0q2CiondkI8yh7CrAdrIXx"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -651,6 +651,22 @@
       "duration_ms": 178706,
       "name": "Guajiro",
       "url": "https://open.spotify.com/track/7mzNtZ87Ha6gc1YZCQfA6c"
+    },
+    {
+      "added_at": "2023-08-14 16:10:46",
+      "album": {
+        "name": "Hasta Cuando",
+        "url": "https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        }
+      ],
+      "duration_ms": 199595,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -679,26 +695,6 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "AHORA QUE",
-        "url": "https://open.spotify.com/album/1d5jBobGUNucxW2jPRfCU0"
-      },
-      "artists": [
-        {
-          "name": "Blake",
-          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
-        },
-        {
-          "name": "Zaidbreak",
-          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "AHORA QUE",
-      "url": "https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ"
-    },
-    {
-      "added_at": "2023-08-14 16:10:46",
-      "album": {
         "name": "Hijos de la ruina, vol. 3",
         "url": "https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj"
       },
@@ -719,18 +715,42 @@
     {
       "added_at": "2023-08-14 16:10:46",
       "album": {
-        "name": "Hasta Cuando",
-        "url": "https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt"
+        "name": "Barquito de Vela",
+        "url": "https://open.spotify.com/album/5JuD1pjNSmDMyQIDktuQNL"
       },
       "artists": [
         {
-          "name": "FERNANDOCOSTA",
-          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Antony Z",
+          "url": "https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc"
         }
       ],
-      "duration_ms": 199595,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP"
+      "duration_ms": 220405,
+      "name": "Barquito de Vela",
+      "url": "https://open.spotify.com/track/1OzXgYzPRco0NvqcDEnCRG"
+    },
+    {
+      "added_at": "2023-08-14 16:10:46",
+      "album": {
+        "name": "AHORA QUE",
+        "url": "https://open.spotify.com/album/1d5jBobGUNucxW2jPRfCU0"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Zaidbreak",
+          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "AHORA QUE",
+      "url": "https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ"
     },
     {
       "added_at": "2023-08-14 16:10:46",
@@ -767,26 +787,6 @@
       "duration_ms": 145535,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/2FARB9OPTpoXdja2vLj8SH"
-    },
-    {
-      "added_at": "2023-08-14 16:10:46",
-      "album": {
-        "name": "Barquito de Vela",
-        "url": "https://open.spotify.com/album/5JuD1pjNSmDMyQIDktuQNL"
-      },
-      "artists": [
-        {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
-          "name": "Antony Z",
-          "url": "https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc"
-        }
-      ],
-      "duration_ms": 220405,
-      "name": "Barquito de Vela",
-      "url": "https://open.spotify.com/track/1OzXgYzPRco0NvqcDEnCRG"
     },
     {
       "added_at": "2023-08-14 16:10:46",

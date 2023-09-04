@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Weslei Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,802 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,864 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 74 | [Se Acalma \- Ao Vivo](https://open.spotify.com/track/0jeHm7cnRFJbJl7Q2PbvPh) | [Maycon Flores](https://open.spotify.com/artist/2Bux1S8o9w1e3maXAKD9gT) | [Se Acalma \(Ao Vivo\)](https://open.spotify.com/album/4JMQVwBdmnhiNAHxLfcQjT) | 5:20 |
 | 75 | [Vou Cantar no Céu](https://open.spotify.com/track/2pFqcmfUjlspERCWfJIvhO) | [Alex Soares](https://open.spotify.com/artist/5ihicHwE78DFCeXpzDbbWQ) | [Vou Cantar no Céu](https://open.spotify.com/album/3qM6QOBWWC4EcKr6PjAUnw) | 4:37 |
 
-Snapshot ID: `MCxhODdmZGZhNWNkZTZkYWNhNjRlNDc4Y2JmMWI1OGM5N2FhYjBhODY2`
+Snapshot ID: `MCw5NmU0NWNjZTJjNjdlZTI4YmM1ZmI3MDZhZjg3NDE5NjJiYjUyZmI2`

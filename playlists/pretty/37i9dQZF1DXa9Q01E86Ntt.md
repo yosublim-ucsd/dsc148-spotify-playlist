@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 
 > The greatest works from mastermind composer Ryuichi Sakamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,133 likes - 57 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,334 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 30 | [Dancing In the Sky](https://open.spotify.com/track/12TkChYdKe9Vj8s5Tkq1SI) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Koko](https://open.spotify.com/album/5RSXVXsgxW9Qx69g4cAxM0) | 1:09 |
 | 31 | [Aqua](https://open.spotify.com/track/5relTzF9GcxxTF0D4Id6uo) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 4:41 |
 | 32 | [opus](https://open.spotify.com/track/2rbHghryEuNQVjYaYl0m0D) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:25 |
-| 33 | [Amore](https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/05](https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix) | 5:09 |
+| 33 | [Amore](https://open.spotify.com/track/5sqHOvj1wi2xCwFvAlM2cA) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing The Piano](https://open.spotify.com/album/6prGgcmP2UbZGkD4GeHf5F) | 5:09 |
 | 34 | [Where Is Armo?](https://open.spotify.com/track/65PCR0u8UN3dSWaYjad1hC) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Last Emperor Original Soundtrack](https://open.spotify.com/album/70iCI16xKlhPlJJT7OIKGH) | 2:26 |
 | 35 | [Andata](https://open.spotify.com/track/5HgyC7aSmkHaLjfWowVkMk) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Playing the Piano 12122020](https://open.spotify.com/album/5RRib8eRMf8OthdvJX26iU) | 2:53 |
 | 36 | [星になった少年](https://open.spotify.com/track/44ryK1Kvvf9Ud0F7MOVBb2) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [星になった少年 〜Shining Boy & Little Randy〜](https://open.spotify.com/album/0TyQuGR1Y2KnD5cTutIajw) | 4:01 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9Q01E86Ntt.md) - [plain]
 | 56 | [Reunion](https://open.spotify.com/track/2471iucIiHuZWcRn7FBzkF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Proxima \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7t0jY4YHKGVnrv1pKfxzdj) | 2:39 |
 | 57 | [Discovering River](https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 1:11 |
 
-Snapshot ID: `MCw1ZGYzYjIxOTAzZTFiOTBmODVmZTY3MWQ3YmE4OTBiNDk4OGE5YTQ2`
+Snapshot ID: `MCxjNGU5NzkwZWVkYzM3ZmJiYWRjNGJjNTZiZmQ5NTZhNWIxYzM0NWEy`

@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 572051,
+  "num_followers": 572258,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQzNzA1ZDllODVjMGQ1NGNkNTZiOWE0ZTVlYzI2YTQyZmJmMzA1",
+  "snapshot_id": "MCw2YmUyODhiZTFkNGJhZDYxYmVkOTk3NDc1ZDRjNTE1YzFlZTAyM2U5",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "I Need Space",
         "url": "https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2aiprMxQgmNnlEMRWKdR6n"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 236167,
       "name": "ophelie",
       "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Colour Me Blue",
-      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Tenderfoot",
         "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
-        "name": "Here, Right Now",
-        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Going with You",
-      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1107,18 +1075,34 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
         }
       ],
-      "duration_ms": 262798,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Here, Right Now",
+        "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 175560,
+      "name": "Going with You",
+      "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Good Mmornin",
-        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 336506,
-      "name": "Small Worlds",
-      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
+      "duration_ms": 262798,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1167,6 +1151,22 @@
       "duration_ms": 161960,
       "name": "ich mags",
       "url": "https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Good Mmornin",
+        "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 336506,
+      "name": "Small Worlds",
+      "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Adult Movies",
-        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "Adult Movies",
-      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 209960,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Adult Movies",
+        "url": "https://open.spotify.com/album/7IWXZKQU9nUC3ae508E46p"
+      },
+      "artists": [
+        {
+          "name": "Litany",
+          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
+        }
+      ],
+      "duration_ms": 195982,
+      "name": "Adult Movies",
+      "url": "https://open.spotify.com/track/1RPtMkfP5TfnlylnW6LIDd"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Slow (feat. Henjila)",
-        "url": "https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw"
+        "name": "Highness",
+        "url": "https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5"
       },
       "artists": [
         {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        },
-        {
-          "name": "Henjila",
-          "url": "https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l"
+          "name": "Nosoyo",
+          "url": "https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Slow (feat. Henjila)",
-      "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
+      "duration_ms": 193766,
+      "name": "Highness",
+      "url": "https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3"
     }
   ],
   "unique_name": "Feelgood Indie",

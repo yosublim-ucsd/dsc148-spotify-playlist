@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 233514,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK"
@@ -8983,6 +8983,24 @@
     },
     {
       "album": {
+        "name": "Swift",
+        "url": "https://open.spotify.com/album/3yuhZHaZEgzbVrQsN3nuTw"
+      },
+      "artists": [
+        {
+          "name": "Magnolia",
+          "url": "https://open.spotify.com/artist/3W7N9zZpdLMW6E0JfDmPKx"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204041,
+      "name": "Swift",
+      "url": "https://open.spotify.com/track/44jzOlKl5WL7YT6KYP7uU6"
+    },
+    {
+      "album": {
         "name": "Tammy's Song",
         "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
       },
@@ -10764,7 +10782,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-04",
       "duration_ms": 316400,
       "name": "Who Can I Turn To (When Nobody Needs Me)",
       "url": "https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf"
@@ -10894,6 +10912,24 @@
       "duration_ms": 169353,
       "name": "Wrap Your Troubles In Dreams",
       "url": "https://open.spotify.com/track/7H6doSNNykKJH1ewJxW4FL"
+    },
+    {
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/7boH53I2zbrw1GoeACrj8c"
+      },
+      "artists": [
+        {
+          "name": "Ikigai",
+          "url": "https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/5VHpA5RrPEGY9NgHhahHnG"
     },
     {
       "album": {

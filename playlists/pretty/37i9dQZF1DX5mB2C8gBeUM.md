@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Alana Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,275 likes - 147 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,469 likes - 147 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 146 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 |
 | 147 | [Built For A Small Town](https://open.spotify.com/track/63nM0Om7cYR9QJvpUVSweR) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX), [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Built For A Small Town](https://open.spotify.com/album/6QQwflGJROGzl0tYLM36if) | 3:09 |
 
-Snapshot ID: `MCw3MDZhOTg4NzVjMzlmMTJiNjI5NDc4OTA1NjkxNDRlNDI1OGY1Zjhi`
+Snapshot ID: `MCxlZDUyZmM1OTc2NTIxOGE4YTJkNmNjODE5OTk4OGVhMDg0M2IyNTZi`
