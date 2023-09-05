@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Gucci Mane, City Girls, Lil Durk, Doja Cat, Travis Scott and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,525 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,724 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/track/6g6FfeozIEkVUXecpSq16Q) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Elon Musk \(feat\. Gunna\)](https://open.spotify.com/album/5AviR59jAHiYp4Up3hj0bw) | 3:25 |
 | 50 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 |
 
-Snapshot ID: `MCw1M2E4MzlkNmRkOTUxN2JkMjA5MjhhNzczNTIyYzNiZGI2NTdiNjVl`
+Snapshot ID: `MCw2MmYzNjk4YzdhNDMwZTgyNmM2ZjEwNDc1NTY1MzNiMmU3YzEwZThi`

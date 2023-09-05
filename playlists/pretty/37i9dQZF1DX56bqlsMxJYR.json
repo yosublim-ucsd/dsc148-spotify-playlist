@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1021189,
+  "num_followers": 1021935,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjI2NjM3NTkxZGExMGZlZmM1ZDI4ZjUyN2JjNTIyYjY4Yzk0MWRj",
+  "snapshot_id": "MCw5OTc2OWM4OTU2MjMyOTdiN2YwZThjOTVlMTNmZDk2MmI3MTk3Y2Fi",
   "tracks": [
     {
       "added_at": "2023-08-03 14:07:21",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered 2009",
       "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -267,22 +267,6 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -347,6 +331,22 @@
       "duration_ms": 194293,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
       "artists": [
         {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -847,6 +831,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Gettin' Ready (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "Ain't Too Proud To Beg",
-      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Sings the Songs that Made Him Famous",
         "url": "https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
+        "name": "Gettin' Ready (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 156173,
+      "name": "Ain't Too Proud To Beg",
+      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Platters Golden Hits",
-        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "Only You (And You Alone)",
-      "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Face to Face (Deluxe)",
         "url": "https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 210525,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Platters Golden Hits",
+        "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "Only You (And You Alone)",
+      "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Aerial Ballet",
-        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 163586,
-      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
-      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 183133,
       "name": "Banana Boat (Day-O)",
       "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Aerial Ballet",
+        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 163586,
+      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Runaway with Del Shannon",
-        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
-      },
-      "artists": [
-        {
-          "name": "Del Shannon",
-          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
-        }
-      ],
-      "duration_ms": 137306,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
         "name": "Golden Hits",
         "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
+        "name": "Runaway with Del Shannon",
+        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
+      },
+      "artists": [
+        {
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+        }
+      ],
+      "duration_ms": 137306,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
-        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 147293,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
-        "name": "Wichita Lineman (Remastered)",
-        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 186200,
-      "name": "Wichita Lineman - Remastered 2001",
-      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+      "duration_ms": 147293,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
       "added_at": "2023-08-03 14:07:21",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2023-08-03 14:07:21",
       "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2023-08-03 14:07:21",
+      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
-    },
-    {
-      "added_at": "2023-08-03 14:07:21",
-      "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2023-08-03 14:07:21",

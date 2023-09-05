@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. ERRE en portada.
 
-404 songs - 20 hr 52 min
+405 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [No Llega El Olvido \- En Vivo](https://open.spotify.com/track/6G5qABmBsCynrpdqlWWgK3) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [No Llega El Olvido \(En Vivo\)](https://open.spotify.com/album/1LW3Trn9wtBrtMi4rveSVY) | 3:48 | 2023-04-14 |  |
 | [No Me Enseñaste](https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [No Me Enseñaste](https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE) | 3:03 | 2022-11-18 | 2023-04-15 |
 | [No Me Gustan Los Enredos](https://open.spotify.com/track/2MNn01bSLrN1A85gC2Hnrs) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [No Me Gustan Los Enredos](https://open.spotify.com/album/2Kyj2BkIurcfRoFyN4uDui) | 2:53 | 2022-05-13 | 2022-08-06 |
-| [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 | 2023-06-23 |  |
+| [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 | 2023-06-23 | 2023-09-05 |
 | [No Sabía Cuánto](https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [No Sabía Cuánto](https://open.spotify.com/album/73ldGcnuZUBccjAhd4jgXZ) | 2:45 | 2022-05-13 | 2022-09-24 |
 | [No Se Olvida](https://open.spotify.com/track/7xgF8ki6syas9lOkszRPQY) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [No Se Olvida](https://open.spotify.com/album/4tdUTR78ErKcQcXPownp9v) | 2:31 | 2022-12-02 | 2023-02-25 |
 | [No Soy Un Ilegal](https://open.spotify.com/track/2KoPxrMciBOnbMM0qBh52u) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [No Soy Un Ilegal](https://open.spotify.com/album/5TxzydL2Jnm8WwVLGIVJA9) | 3:02 | 2023-01-13 | 2023-02-25 |
@@ -302,6 +302,7 @@
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-04-01 | 2022-10-15 |
 | [Pura Miel](https://open.spotify.com/track/4Zlq86DAtagKTQwjh90Ivp) | [Yahir Poceros](https://open.spotify.com/artist/43pWfoBGxmmSOLVRy07Axj), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Pura Miel](https://open.spotify.com/album/6Lywn8yw96pZysojmn0Okz) | 3:11 | 2023-04-28 | 2023-08-05 |
 | [Puro Pa' Delante](https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Puro Pa' Delante](https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B) | 2:33 | 2023-01-13 | 2023-04-15 |
+| [Que Bonito Es Tomar](https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [Que Bonito Es Tomar](https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP) | 2:45 | 2023-09-01 |  |
 | [Que Le Vamos A Hacer](https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Que Le Vamos A Hacer](https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa) | 3:23 | 2023-08-04 | 2023-08-19 |
 | [Que Vuelvas](https://open.spotify.com/track/0awei0Aq8SnWERdWxG70zf) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Que Vuelvas](https://open.spotify.com/album/1S7eFoVAALpAoiJXcsxF5Y) | 2:58 | 2023-02-24 | 2023-05-06 |
 | [Quedate](https://open.spotify.com/track/0vGh3sL5U8JMl0LBAU2JAo) | [Konzentido de Afid Ferrer](https://open.spotify.com/artist/7FONGfnHl6HPvHaJAik9yp) | [Quedate](https://open.spotify.com/album/2JdkZ3WmXOngJih4zluAdm) | 3:30 | 2023-04-28 | 2023-08-05 |

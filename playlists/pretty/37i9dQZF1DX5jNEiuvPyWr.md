@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Oboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,908 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,942 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [BLEU LAGON](https://open.spotify.com/track/5HNdXMCVcUNrzcZZS68Abv) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [BLEU LAGON](https://open.spotify.com/album/4Gl1DkdM3CtGGj9fMXpSMl) | 2:21 |
 | 40 | [Dans le sang](https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv) | [CHATNOIR](https://open.spotify.com/artist/417jPajaJxfk3XL4IxJZhV), [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [Dans le sang](https://open.spotify.com/album/33jB6ufMMpEsdITKnha6aU) | 3:43 |
 
-Snapshot ID: `MCxkYzViNDNlZmQ2M2JlN2M0MjRlOTExNDdkMzZjOTdjYzY5Y2I4Yjkx`
+Snapshot ID: `MCxlZjk2NWRjMWM0YzI4OGY3YjM5YjdmM2JkZGY2MjkzZmU5N2U3ZjIw`

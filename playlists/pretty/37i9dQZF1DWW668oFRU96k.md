@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Manila Killa x RUNN x MYRNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,717 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,778 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 78 | [The Race](https://open.spotify.com/track/3cv2fSTYRr42WM90C9dswx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [The Race](https://open.spotify.com/album/4sIj4kb8FYCvImEYrzJc0h) | 2:40 |
 | 79 | [Remote Control](https://open.spotify.com/track/6bY2RDT9xWSfgODfa7Jdm9) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Remote Control](https://open.spotify.com/album/2n6ZKTchhKrKwi9LLbRxON) | 3:20 |
 
-Snapshot ID: `MCxkMmI3ZDlhMmQ4NGUyMjU4MWM3ZmRmNDgwMjYxNTZlODRhNjAxMTEz`
+Snapshot ID: `MCxlZGRlOTdhMTA5YzlkZGM1MmY5Njk2ODA3OWNlYThjNGM1YjU0ZGI2`

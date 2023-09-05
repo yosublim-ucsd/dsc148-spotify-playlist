@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Dragon Dance at Dawn",
+        "url": "https://open.spotify.com/album/3ZkzfkHFNZaRx9StpGy67g"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125915,
+      "name": "A Dragon Dance at Dawn",
+      "url": "https://open.spotify.com/track/4cTwJtXEHOCctnC29wlc6y"
+    },
+    {
+      "album": {
         "name": "My Bell Bottoms",
         "url": "https://open.spotify.com/album/7f2FppCcGuWNecET0DZXKV"
       },
@@ -128,6 +146,28 @@
       "duration_ms": 231379,
       "name": "Adam's Song",
       "url": "https://open.spotify.com/track/3bZAcZEuEIZlWDmyWslZUm"
+    },
+    {
+      "album": {
+        "name": "Advancements",
+        "url": "https://open.spotify.com/album/27VwMZioxFBYVRcquZwKUh"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "Hilaria",
+          "url": "https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Advancements",
+      "url": "https://open.spotify.com/track/1n3oMVOytWtDWSG4h6TGGS"
     },
     {
       "album": {
@@ -1847,6 +1887,32 @@
     },
     {
       "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/4FutmGCtjEIn3ohmKyqTe2"
+      },
+      "artists": [
+        {
+          "name": "Inf",
+          "url": "https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x"
+        },
+        {
+          "name": "Rainn",
+          "url": "https://open.spotify.com/artist/42gkpHA4YM5bMBrTsPi3fT"
+        },
+        {
+          "name": "Tomas Delfgaauw",
+          "url": "https://open.spotify.com/artist/1eubKzTitl4RtmWK1AmJuz"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94177,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/5guv7ArwTGlicYAAfzhm8i"
+    },
+    {
+      "album": {
         "name": "day dreamers",
         "url": "https://open.spotify.com/album/0utA3cjNvrLL377HobWFOj"
       },
@@ -3039,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "Gentle Way Of Life",
+        "url": "https://open.spotify.com/album/0JSg3R1BfXniN2o4r6dojY"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Gentle Way Of Life",
+      "url": "https://open.spotify.com/track/0xF8aZK3qPEHSa5YY22tMr"
+    },
+    {
+      "album": {
         "name": "MInd Travel",
         "url": "https://open.spotify.com/album/3Yz4r6OcddUHtyu9bctq8V"
       },
@@ -3090,6 +3174,50 @@
       "duration_ms": 149333,
       "name": "go to gate",
       "url": "https://open.spotify.com/track/75NF20zhwzBw4hzlTdXCiQ"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/1xi605kHdMrLZzXZQsMdc6"
+      },
+      "artists": [
+        {
+          "name": "BNMO",
+          "url": "https://open.spotify.com/artist/0K93FFKHhvSVG654YlexpR"
+        },
+        {
+          "name": "WOOLFSON",
+          "url": "https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/2JWwwEa2Hz5FxhU0XWXLLs"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/7v18eaUdU5wPiOkeo5ng1b"
+      },
+      "artists": [
+        {
+          "name": "Paxkalito",
+          "url": "https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/1lBz8Qp21V0QgHG4A8msgB"
     },
     {
       "album": {
@@ -3300,6 +3428,28 @@
       "duration_ms": 300689,
       "name": "Heaven Is All Around",
       "url": "https://open.spotify.com/track/5HTnCJao55OjbrO2lPIOAM"
+    },
+    {
+      "album": {
+        "name": "Heliosphere",
+        "url": "https://open.spotify.com/album/1F6HAoDJyFnXyGBzHO9hnE"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154125,
+      "name": "Heliosphere",
+      "url": "https://open.spotify.com/track/4Nm5sBaCMzYxfsWTuI33Ng"
     },
     {
       "album": {
@@ -4665,6 +4815,24 @@
     },
     {
       "album": {
+        "name": "listening",
+        "url": "https://open.spotify.com/album/1Ihwuz3d5vz0X9OuVfD3mN"
+      },
+      "artists": [
+        {
+          "name": "Stacy Bridge",
+          "url": "https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "listening",
+      "url": "https://open.spotify.com/track/6Paf6IL7dAMmm23AjLQ36b"
+    },
+    {
+      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2AY0kNs5q2d9hiTO27Go3Z"
       },
@@ -5125,6 +5293,24 @@
     },
     {
       "album": {
+        "name": "Mango hush",
+        "url": "https://open.spotify.com/album/5ofuQqrBDiPl3HW0HRuehd"
+      },
+      "artists": [
+        {
+          "name": "Simple Jim",
+          "url": "https://open.spotify.com/artist/2Y6SBRbLR1gABs3chvSUu0"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Mango hush",
+      "url": "https://open.spotify.com/track/7ekRz8wfJueLeEZ02i0hVy"
+    },
+    {
+      "album": {
         "name": "Maricas River",
         "url": "https://open.spotify.com/album/0wI702aVBSvuzyCZpd4NhM"
       },
@@ -5266,6 +5452,28 @@
       "duration_ms": 145591,
       "name": "Memories of Fall",
       "url": "https://open.spotify.com/track/6ItAYWi7EVwrbcpQpfMwEA"
+    },
+    {
+      "album": {
+        "name": "Message in a Bottle",
+        "url": "https://open.spotify.com/album/1Qaoh3bRDaJFrrQca5D2Pg"
+      },
+      "artists": [
+        {
+          "name": "Mosalla",
+          "url": "https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C"
+        },
+        {
+          "name": "Jazzy James",
+          "url": "https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140156,
+      "name": "Message in a Bottle",
+      "url": "https://open.spotify.com/track/70SUWUpE43Po3Tt5jvtZ8z"
     },
     {
       "album": {
@@ -5850,6 +6058,24 @@
       "duration_ms": 151875,
       "name": "Night In Paris",
       "url": "https://open.spotify.com/track/6RSLUzuAOJBhr12XEqt5Uy"
+    },
+    {
+      "album": {
+        "name": "Nightstand",
+        "url": "https://open.spotify.com/album/4pwnbtD2a2oxYitL3oevTz"
+      },
+      "artists": [
+        {
+          "name": "Vries",
+          "url": "https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125932,
+      "name": "Nightstand",
+      "url": "https://open.spotify.com/track/6Iru6PoRqHx8rIxvcitJC1"
     },
     {
       "album": {
@@ -6881,6 +7107,24 @@
     },
     {
       "album": {
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6hPfvj3xRRh8GAiYb7Aa6T"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131917,
+      "name": "Rolling Papers",
+      "url": "https://open.spotify.com/track/2LxU1WqpsgfpnvHQ22045Z"
+    },
+    {
+      "album": {
         "name": "Romantic Evening",
         "url": "https://open.spotify.com/album/7tMurfLHnQSdIIrx8grKsW"
       },
@@ -7029,6 +7273,24 @@
     },
     {
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/40nRxTEGABF114JOprt4TR"
+      },
+      "artists": [
+        {
+          "name": "XXIII",
+          "url": "https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88421,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/5TW0leiqjfxmneCSDeF2MZ"
+    },
+    {
+      "album": {
         "name": "Send a Wish",
         "url": "https://open.spotify.com/album/3hAWKSZ4pAfc6b9da47UrS"
       },
@@ -7044,6 +7306,28 @@
       "duration_ms": 166000,
       "name": "Send a Wish",
       "url": "https://open.spotify.com/track/4wbEVRqsPLbvuFMvJ35quo"
+    },
+    {
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/2PKJRsdmZC2tgyUQ1X8YGA"
+      },
+      "artists": [
+        {
+          "name": "adym",
+          "url": "https://open.spotify.com/artist/3a86AQaMF0RkKi3MfgNCQX"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89700,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/0G3FtdU5hZyklbyxVeOLWU"
     },
     {
       "album": {
@@ -7393,6 +7677,46 @@
     },
     {
       "album": {
+        "name": "Soft Drink",
+        "url": "https://open.spotify.com/album/0neGicEFUowljbtvcNG4a5"
+      },
+      "artists": [
+        {
+          "name": "Beatific Vision",
+          "url": "https://open.spotify.com/artist/3VPIbKQGNGPsJN9WGpnILw"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92921,
+      "name": "Soft Drink",
+      "url": "https://open.spotify.com/track/74vBrJuSRozWbNkVmFhg4z"
+    },
+    {
+      "album": {
+        "name": "Sogni",
+        "url": "https://open.spotify.com/album/42kFJeECU42swSjnK4eI4m"
+      },
+      "artists": [
+        {
+          "name": "Spectacular Diagnostics",
+          "url": "https://open.spotify.com/artist/3z32OCr8soKhZ5CYuTti9a"
+        },
+        {
+          "name": "Lito Akari",
+          "url": "https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120300,
+      "name": "Sogni",
+      "url": "https://open.spotify.com/track/3b2C7nxe2YtWZufMysNlj2"
+    },
+    {
+      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/2cW8bYjHiZ13eGm2BR7BtL"
       },
@@ -7595,6 +7919,24 @@
     },
     {
       "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/4z0Jlr8LNHF3Qin6JwurBo"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128057,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/52LSA8uT2NO2FjvVeCZGGL"
+    },
+    {
+      "album": {
         "name": "Sunset Sounds",
         "url": "https://open.spotify.com/album/35pV2MFavSWb27Z9cmtr0D"
       },
@@ -7682,6 +8024,28 @@
       "duration_ms": 242307,
       "name": "Sparkle",
       "url": "https://open.spotify.com/track/5BHxtOBsxwMN2hhxXRiYBI"
+    },
+    {
+      "album": {
+        "name": "Speculations",
+        "url": "https://open.spotify.com/album/7Aq0PWXk6yQaIeh1MavH7H"
+      },
+      "artists": [
+        {
+          "name": "Junk33",
+          "url": "https://open.spotify.com/artist/7IgcwstkR6B1E2kb1vKit0"
+        },
+        {
+          "name": "Billa Qause",
+          "url": "https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128450,
+      "name": "Speculations",
+      "url": "https://open.spotify.com/track/2DwlDFWiA7E8pbcxU12o0g"
     },
     {
       "album": {
@@ -8090,6 +8454,28 @@
       "duration_ms": 138122,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/454nvk0jwgJ7aV1hg2bsZQ"
+    },
+    {
+      "album": {
+        "name": "Now / Again II",
+        "url": "https://open.spotify.com/album/6WoUZsp2z2fbuKA9qir52T"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165626,
+      "name": "Sunny Side Up",
+      "url": "https://open.spotify.com/track/0phEMdWrUlc1nEA7mAfJmq"
     },
     {
       "album": {
@@ -9048,6 +9434,28 @@
       "duration_ms": 270000,
       "name": "Waterfront - Focus Version",
       "url": "https://open.spotify.com/track/5hjZLLuxbMa4p7VW36b2v8"
+    },
+    {
+      "album": {
+        "name": "Watermelon",
+        "url": "https://open.spotify.com/album/58SMW2lRVyuO7T2q6JAQDe"
+      },
+      "artists": [
+        {
+          "name": "Funky Notes",
+          "url": "https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR"
+        },
+        {
+          "name": "okwow",
+          "url": "https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/4TqHkayMecOAFhBDa8DQbq"
     },
     {
       "album": {

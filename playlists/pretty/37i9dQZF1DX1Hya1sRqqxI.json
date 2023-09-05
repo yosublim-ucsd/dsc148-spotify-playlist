@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 310683,
+  "num_followers": 311079,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmFjYmJjZjdiMjA3MGNlZDcxZmRlNmUxYmZmZmI3N2JjMDQyMjY0",
+  "snapshot_id": "MCw0ZjdmY2VmMWQzZTQzZGYxZjg3ZDQ2MDg5MmU3N2RiMmMxMjQxNjI5",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Eagles (2013 Remaster)",
@@ -553,22 +569,6 @@
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "High Voltage",
@@ -583,22 +583,6 @@
       "duration_ms": 214666,
       "name": "T.N.T.",
       "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -633,20 +617,20 @@
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -663,6 +647,22 @@
       "duration_ms": 266720,
       "name": "The Boys Are Back In Town",
       "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 170293,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -985,6 +985,22 @@
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Nightflight to Venus",
+        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Why Can't We Be Friends?",
@@ -1031,22 +1047,6 @@
       "duration_ms": 202733,
       "name": "Some Kind Of Wonderful - Remastered 1999",
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Nightflight to Venus",
-        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 170160,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -1373,20 +1357,20 @@
       "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Love For Sale",
-        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 276080,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
+      "duration_ms": 170160,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1419,6 +1403,22 @@
       "duration_ms": 240333,
       "name": "Peg",
       "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "4 Hits: Eruption",
-        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
-      },
-      "artists": [
-        {
-          "name": "Eruption",
-          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "One Way Ticket",
-      "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Step II",
@@ -1681,20 +1665,20 @@
       "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
+        "name": "4 Hits: Eruption",
+        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
       },
       "artists": [
         {
-          "name": "Gary Glitter",
-          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
+          "name": "Eruption",
+          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
         }
       ],
-      "duration_ms": 193253,
-      "name": "Rock 'n' Roll (Part 2)",
-      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
+      "duration_ms": 213200,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1711,6 +1695,22 @@
       "duration_ms": 152453,
       "name": "Lookin' Out My Back Door",
       "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
+      },
+      "artists": [
+        {
+          "name": "Gary Glitter",
+          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "Rock 'n' Roll (Part 2)",
+      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Caribou (Remastered 1995)",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "The Bitch Is Back - Remastered 1995",
-      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Make It Happen",
         "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "The Bitch Is Back - Remastered 1995",
+      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 334386,
       "name": "That Lady, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2251,6 +2251,22 @@
       "duration_ms": 200653,
       "name": "Instant Karma! (We All Shine On) - Remastered 2010",
       "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "You See The Trouble With Me",
+      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2331,22 +2347,6 @@
       "duration_ms": 439866,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "You See The Trouble With Me",
-      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
     },
     {
       "added_at": "2021-03-22 14:18:04",

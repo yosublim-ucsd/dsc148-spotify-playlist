@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 54418,
+  "num_followers": 54440,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTgxN2IyZDIxMDA0ZWNmNThjMjRiNzY0MmI5ZmY0NzlmMTBmMzM2",
+  "snapshot_id": "MCw1MGUxZjFkYWRjNmVhMWI0NDM0ZmQ5OGY5ZDU0Zjg2NDA0ZDBjMjY5",
   "tracks": [
     {
       "added_at": "2023-09-01 14:43:51",
@@ -271,26 +271,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "THE SCOTTS",
-        "url": "https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus"
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
       "artists": [
-        {
-          "name": "THE SCOTTS",
-          "url": "https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT"
-        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 165977,
-      "name": "THE SCOTTS",
-      "url": "https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk"
+      "duration_ms": 202794,
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -315,26 +315,26 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+        "name": "THE SCOTTS",
+        "url": "https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus"
       },
       "artists": [
+        {
+          "name": "THE SCOTTS",
+          "url": "https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT"
+        },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
-      "duration_ms": 202794,
-      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+      "duration_ms": 165977,
+      "name": "THE SCOTTS",
+      "url": "https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "What\u2019s Next",
+      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 197760,
       "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "What\u2019s Next",
-      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Chambea",
-        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Chambea",
-      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 175028,
       "name": "No Puedo",
       "url": "https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Eternal Atake",
+        "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "P2",
+      "url": "https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Life\u2019s A Mess II (with Clever & Post Malone)",
         "url": "https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 206733,
       "name": "Life's A Mess II (with Clever & Post Malone)",
       "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Red Light Green Light",
-        "url": "https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159082,
-      "name": "Red Light Green Light",
-      "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Eternal Atake",
-        "url": "https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m"
+        "name": "Red Light Green Light",
+        "url": "https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 234626,
-      "name": "P2",
-      "url": "https://open.spotify.com/track/3kW4z2pIj5VY5fLjBrMRL5"
+      "duration_ms": 159082,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 252728,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Los Bo",
         "url": "https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 202666,
       "name": "TROLLZ (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/3JwxpSpGaXmGqLwWN6D6eC"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1135,6 +1135,42 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
         "name": "Sold Out Dates",
         "url": "https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG"
       },
@@ -1167,42 +1203,6 @@
       "duration_ms": 165500,
       "name": "Tata",
       "url": "https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Second Emotion (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Top",
         "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 200946,
       "name": "No Regrets (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1lO9CZo6eDrOy0S7khgryG"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "Second Emotion (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "AWITA",
-        "url": "https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "AIRDROP",
-      "url": "https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "Louis Vuitton",
         "url": "https://open.spotify.com/album/4t3sXSCawi8FXH0aQEyUAW"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 270241,
       "name": "Louis Vuitton",
       "url": "https://open.spotify.com/track/6NZRVXbBeNgfTkoohYtxFK"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "AWITA",
+        "url": "https://open.spotify.com/album/7IU0iqOqmM6tCyOI4u1ZRe"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "AIRDROP",
+      "url": "https://open.spotify.com/track/216o3rch4ioVv7DjpkjFWk"
     },
     {
       "added_at": "2023-09-01 14:43:51",
@@ -1987,34 +1987,6 @@
     {
       "added_at": "2023-09-01 14:43:51",
       "album": {
-        "name": "MONTANA",
-        "url": "https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 262134,
-      "name": "Twisted (feat. Juicy J, Logic & A$AP Rocky)",
-      "url": "https://open.spotify.com/track/3CiXFXXykPmgZAKyK5iQ95"
-    },
-    {
-      "added_at": "2023-09-01 14:43:51",
-      "album": {
         "name": "1017 Loaded (feat. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty)",
         "url": "https://open.spotify.com/album/1KpJI4uraalhGpVhqrn8gp"
       },
@@ -2051,6 +2023,26 @@
       "duration_ms": 236719,
       "name": "1017 Loaded (feat. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty)",
       "url": "https://open.spotify.com/track/40RYJy7qh1BDlzhKyceq46"
+    },
+    {
+      "added_at": "2023-09-01 14:43:51",
+      "album": {
+        "name": "LOAD IT UP",
+        "url": "https://open.spotify.com/album/77Mak8ARcb9Jwkl1D0tFfA"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "LOAD IT UP",
+      "url": "https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO"
     }
   ],
   "unique_name": "808.",

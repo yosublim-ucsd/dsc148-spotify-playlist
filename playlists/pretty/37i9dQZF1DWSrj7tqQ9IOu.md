@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Later.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,108 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,124 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 48 | [Isn't It Something](https://open.spotify.com/track/02U7b1hwHNfU05Bsq7lvWD) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Isn't It Something](https://open.spotify.com/album/0xZww13tw6W4EkciFqMNrb) | 2:24 |
 | 49 | [corazón caramelo](https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [corazón caramelo](https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd) | 2:37 |
 
-Snapshot ID: `MCxhNmQ0YTBiNjZmZDU0OWNjMWMxOWI4YzA4YTBkYmE4ZTFkNmFkZTE2`
+Snapshot ID: `MCxmYmU5N2VkMzRjM2ZjNmZkMjc1NjZiOGI5YjhkODI4Y2EyYzUxNjk1`

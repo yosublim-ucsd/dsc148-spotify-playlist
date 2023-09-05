@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 21821,
+  "num_followers": 21861,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjIyYTA0ZGQ4NWRlMWFiNmQ1MGQ5YzgzNjA4N2UzMzQ4ZjJlNGYy",
+  "snapshot_id": "MCw3MWYyMjU4YWZkODI2MGEwN2JkMDcxOGU0MmY3OTllYjczY2ZjNzU5",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 297373,
       "name": "Lenny",
       "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2020-10-21 20:41:20",

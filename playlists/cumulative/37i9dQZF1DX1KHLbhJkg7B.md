@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-316 songs - 19 hr 47 min
+317 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [I Can't Stop Loving You](https://open.spotify.com/track/2apXUUeJnEMB09oZHe8Ms7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:43 | 2022-03-25 | 2022-04-20 |
 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy) | 4:06 | 2021-12-10 |  |
 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 | 2022-04-08 | 2022-06-12 |
-| [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 | 2021-12-10 |  |
+| [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 | 2021-12-10 | 2023-09-05 |
 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 | 2021-12-10 |  |
 | [I Wanna Dance with Somebody](https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [I Wanna Dance with Somebody](https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K) | 3:11 | 2022-05-27 | 2022-11-12 |
 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 | 2022-10-03 |  |
@@ -173,6 +173,7 @@
 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 | 2022-01-07 |  |
 | [Lift Me Up](https://open.spotify.com/track/0rYXSQ5SztqtP3DfBAHoA6) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Lift Me Up](https://open.spotify.com/album/5ADQNJnzQw34bJAEL3bjWL) | 3:09 | 2023-02-10 |  |
 | [Lips Of An Angel](https://open.spotify.com/track/2tcHsNBkF0GYQKyFI2y3gE) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [This Is It \(Standard Version\)](https://open.spotify.com/album/2En352QiA5q3MK0Ulso3Pq) | 3:47 | 2021-12-10 | 2022-07-28 |
+| [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 | 2023-09-01 |  |
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2022-08-19 | 2023-09-02 |
 | [Long Cool Woman \(In a Black Dress\)](https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:36 | 2021-12-10 | 2023-02-05 |
 | [Lord, I Hope This Day Is Good](https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Lord, I Hope This Day Is Good](https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK) | 2:49 | 2021-12-10 | 2023-02-19 |

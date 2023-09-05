@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Noa Sainz y Nsqk en portada.",
+  "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Jona Camacho y Fntxy en portada.",
   "name": "R&B Latino",
   "tracks": [
     {
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "ATEA AL AMOR",
+        "url": "https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ"
+      },
+      "artists": [
+        {
+          "name": "Yoandri",
+          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172124,
+      "name": "ATEA AL AMOR",
+      "url": "https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM"
+    },
+    {
+      "album": {
         "name": "Aunque Eso Est\u00e1 Mal",
         "url": "https://open.spotify.com/album/34akGcSedAxvJ5b9vFqkWN"
       },
@@ -832,6 +850,28 @@
       "duration_ms": 192418,
       "name": "Cada D\u00eda Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
+    },
+    {
+      "album": {
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184780,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
     },
     {
       "album": {
@@ -1644,7 +1684,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 164376,
       "name": "Emiliana",
       "url": "https://open.spotify.com/track/6YRbXDDO4qYimOJB2wLwMr"
@@ -2159,6 +2199,28 @@
     },
     {
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/6faJS4UNFHTcJ1LkPPuGbL"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166704,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/1aIJvWbKGJYzGqE1Y2Q1N6"
+    },
+    {
+      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -2228,7 +2290,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 186173,
       "name": "Honey",
       "url": "https://open.spotify.com/track/4GFTSjFirhXwj2TS4E6Baf"
@@ -3312,7 +3374,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
@@ -4773,6 +4835,28 @@
     },
     {
       "album": {
+        "name": "Te Hice Mal (Remix)",
+        "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
+      },
+      "artists": [
+        {
+          "name": "Lui5",
+          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Te Hice Mal (Remix)",
+      "url": "https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI"
+    },
+    {
+      "album": {
         "name": "Emociones 1.5",
         "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
@@ -4950,7 +5034,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 202986,
       "name": "Todo",
       "url": "https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ"

@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 460248,
+  "num_followers": 460706,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDIxMmMxYjU1MTFiY2I0MTVmYWFlYzQ3NGQwN2M1ZmIzNTkwZjgy",
+  "snapshot_id": "MCwxZmIxNDQzOTI3ZTMzYzdmODJhOTAyYmI5MWYxYzE5NmVlOWI1YTZl",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -107,6 +107,26 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Magikal Journey -The Hits Collection 1998 - 2008",
         "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
       },
@@ -191,42 +211,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
       },
@@ -243,26 +227,6 @@
       "duration_ms": 202533,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
-        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
-      },
-      "artists": [
-        {
-          "name": "Energy 52",
-          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
-        },
-        {
-          "name": "Three 'N One",
-          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
-      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -291,6 +255,26 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
+        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        },
+        {
+          "name": "Three 'N One",
+          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
+      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "Faithless 2.0",
         "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 518221,
       "name": "Insomnia - Monster Mix",
       "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-08-11 10:02:57",

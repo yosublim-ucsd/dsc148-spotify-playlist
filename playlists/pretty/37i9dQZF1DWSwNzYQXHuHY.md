@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,085 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,112 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 5 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
 | 6 | [Some \(feat\. Lil Boi\)](https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Some](https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6) | 3:31 |
 | 7 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
-| 8 | [Don’t](https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard, Pt\. 4](https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77) | 3:51 |
-| 9 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 |
-| 10 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
+| 8 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 |
+| 9 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
+| 10 | [Don’t](https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard, Pt\. 4](https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77) | 3:51 |
 | 11 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 |
 | 12 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
 | 13 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 49 | [Your name](https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [The One and Only, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB) | 3:45 |
 | 50 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
 
-Snapshot ID: `MCw5YjY5NDhjOWQxM2JiMTZmMWQwMDE5ZTYyMjA0ZWY0NWRmMWY2MzVj`
+Snapshot ID: `MCwyMGZkYzE1NjM5ZDQyZDViMmRhYjk3MjVjNTEzNDgwYWI4YThkNjc4`

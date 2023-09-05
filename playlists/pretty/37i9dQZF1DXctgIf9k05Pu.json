@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 239966,
+  "num_followers": 240097,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4",
+  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Theres Still Us",
-        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
-      },
-      "artists": [
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
+        "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
       },
       "artists": [
         {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
+      "duration_ms": 157524,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -623,6 +607,22 @@
       "duration_ms": 180601,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "recreation",
-        "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
-      },
-      "artists": [
-        {
-          "name": "Leavv",
-          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "fountain",
-      "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Aesthetic Girl",
         "url": "https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 258144,
       "name": "Aesthetic Girl",
       "url": "https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "recreation",
+        "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "fountain",
+      "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
     }
   ],
   "unique_name": "Aesthetic Lofi",

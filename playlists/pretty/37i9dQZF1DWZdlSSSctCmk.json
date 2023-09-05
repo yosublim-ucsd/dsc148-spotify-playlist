@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 104540,
+  "num_followers": 104735,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JkNWQyNDVjMzdhNjhiNzBiZDE2ZDQ1MDIyNTQ1ODY0YTAzYzRm",
+  "snapshot_id": "MCxlYzE3ZGQyYmM1NjBmMmNlNTNlYTJlNzZmZDJkZDFlMzRkNGJhMGI4",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 217466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 352246,
-      "name": "Cirrus",
-      "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Y U LIE Y",
         "url": "https://open.spotify.com/album/3LyZb0Zy2Yok31oT2cODwL"
       },
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Vanille fraise",
-        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 238183,
-      "name": "Vanille fraise",
-      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+      "duration_ms": 352246,
+      "name": "Cirrus",
+      "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Nabi",
-        "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 232914,
-      "name": "Nabi",
-      "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 283406,
       "name": "C-Side",
       "url": "https://open.spotify.com/track/1uKXFp5BcdHf7grmjIDQLF"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Nabi",
+        "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 232914,
+      "name": "Nabi",
+      "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Nights Introlude",
-      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 252409,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 410900,
+      "name": "Friday Morning",
+      "url": "https://open.spotify.com/track/2M45IIrFLjMgsNSSxee31h"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 317143,
       "name": "Don't Want This to Be Over",
       "url": "https://open.spotify.com/track/6jag4moGKMJfZYl0liyLB7"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 410900,
-      "name": "Friday Morning",
-      "url": "https://open.spotify.com/track/2M45IIrFLjMgsNSSxee31h"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Into Daylight",
-        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
+        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
+        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
       },
       "artists": [
         {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        },
-        {
-          "name": "Hush Forever",
-          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
         }
       ],
-      "duration_ms": 295989,
-      "name": "Verbana (feat. Hush Forever)",
-      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
+      "duration_ms": 220546,
+      "name": "V\u00f4o sobre o horizonte",
+      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1479,18 +1475,38 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Aguia N\u00e3o Come Mosca (Remasterizado)",
-        "url": "https://open.spotify.com/album/1aOhU6zQmczFNUE8JKO0Cv"
+        "name": "Into Daylight",
+        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
       },
       "artists": [
         {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        },
+        {
+          "name": "Hush Forever",
+          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
         }
       ],
-      "duration_ms": 220546,
-      "name": "V\u00f4o sobre o horizonte",
-      "url": "https://open.spotify.com/track/1hlikalamWYpdmg3OhfFJ1"
+      "duration_ms": 295989,
+      "name": "Verbana (feat. Hush Forever)",
+      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "When We On",
+        "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 326809,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1511,6 +1527,22 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1539,50 +1571,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "When We On",
-        "url": "https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM"
+        "name": "Pina Colada (And Other Early Tunes)",
+        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
       },
       "artists": [
         {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
         }
       ],
-      "duration_ms": 326809,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Single Malt",
-        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
-      },
-      "artists": [
-        {
-          "name": "TOSZ",
-          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Single Malt - Radio Edit",
-      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
+      "duration_ms": 366946,
+      "name": "Pina Colada (Jazz Mix)",
+      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Pina Colada (And Other Early Tunes)",
-        "url": "https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc"
+        "name": "Single Malt",
+        "url": "https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX"
       },
       "artists": [
         {
-          "name": "Digby Jones",
-          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+          "name": "TOSZ",
+          "url": "https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM"
         }
       ],
-      "duration_ms": 366946,
-      "name": "Pina Colada (Jazz Mix)",
-      "url": "https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv"
+      "duration_ms": 169180,
+      "name": "Single Malt - Radio Edit",
+      "url": "https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em"
     },
     {
       "added_at": "2023-07-14 11:01:37",

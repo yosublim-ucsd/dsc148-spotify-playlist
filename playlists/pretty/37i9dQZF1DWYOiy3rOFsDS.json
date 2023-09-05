@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Daniel, Me Est\u00e1s Matando en portada.",
-  "num_followers": 532675,
+  "num_followers": 532739,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDAwOGY4ZGJiZmE1NzAyZGQwNGY3N2YwODNlZjk5ZTg0NWJiYjVm",
+  "snapshot_id": "MCw0ZWE4NDE4ZjFjYTM5NjYyMTY4MDUzMjhiM2EyYmY5OTU5NjMyYjlh",
   "tracks": [
     {
       "added_at": "2023-08-25 19:58:42",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2023-08-25 19:58:42",
@@ -459,22 +475,6 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
         "name": "COMO LA PIEL",
         "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 182200,
       "name": "Fruto Robado (with Cristian Castro)",
       "url": "https://open.spotify.com/track/3UtyEX1laEeTjcq6m6H0zd"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "Y - En vivo",
-      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
     },
     {
       "added_at": "2023-08-25 19:58:42",
@@ -587,6 +571,42 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Y - En vivo",
+      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
+        "name": "Hoy No",
+        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 242450,
+      "name": "Hoy No",
+      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
         "name": "Hecho a Mano",
         "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
       },
@@ -643,42 +663,6 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
-        "name": "Hoy No",
-        "url": "https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 242450,
-      "name": "Hoy No",
-      "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
         "name": "Amar",
         "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 183026,
       "name": "Amor de Cabaret (with R\u00edo Roma)",
       "url": "https://open.spotify.com/track/5JeyXbf7CrVQ8DqwFikN0P"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
       "added_at": "2023-08-25 19:58:42",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
+        "name": "Es Verdad",
+        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Es Verdad",
+      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 207817,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
-        "name": "Es Verdad",
-        "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Es Verdad",
-      "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
     },
     {
       "added_at": "2023-08-25 19:58:42",
@@ -1067,46 +1067,6 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
-        "name": "traguito",
-        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "traguito",
-      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 173288,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1127,6 +1087,26 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
+        "name": "traguito",
+        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "traguito",
+      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
@@ -1143,22 +1123,22 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
         },
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 227736,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+      "duration_ms": 173288,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T"
     },
     {
       "added_at": "2023-08-25 19:58:42",
@@ -1191,6 +1171,26 @@
       "duration_ms": 192666,
       "name": "Nada personal (A dueto con Ana Torroja)",
       "url": "https://open.spotify.com/track/56pm6QlEYiAQyCCidxsTSN"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 227736,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
     },
     {
       "added_at": "2023-08-25 19:58:42",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2023-08-25 19:58:42",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
         "name": "Solo Boleros",
         "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
@@ -1683,18 +1699,34 @@
     {
       "added_at": "2023-08-25 19:58:42",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
       },
       "artists": [
         {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+      "duration_ms": 193493,
+      "name": "Sombras - Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
+    },
+    {
+      "added_at": "2023-08-25 19:58:42",
+      "album": {
+        "name": "Keep\u00b4n Love",
+        "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 197965,
+      "name": "La Mentira (Se Te Olvida)",
+      "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
     },
     {
       "added_at": "2023-08-25 19:58:42",
@@ -1731,38 +1763,6 @@
       "duration_ms": 236501,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Sombras - Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
-    },
-    {
-      "added_at": "2023-08-25 19:58:42",
-      "album": {
-        "name": "Keep\u00b4n Love",
-        "url": "https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 197965,
-      "name": "La Mentira (Se Te Olvida)",
-      "url": "https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1"
     },
     {
       "added_at": "2023-08-25 19:58:42",

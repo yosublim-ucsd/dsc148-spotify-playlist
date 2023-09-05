@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Griff
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,904 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,971 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv) | 2:53 |
 | 100 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 
-Snapshot ID: `MCwwNWE0YTc3MmY1NDhjMTlmODhlMDA3OGIwN2EzYWQ5NjU4ZTIxY2Rj`
+Snapshot ID: `MCw1YTExMGQ4NmQwNjc5YmE1YjRjYjk1YTYxM2U2YmRmZmNlMTBjNjJk`

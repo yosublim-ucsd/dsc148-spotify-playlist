@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-164 songs - 10 hr 35 min
+165 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Perséides](https://open.spotify.com/track/0yHXX0ugIcQFHV7mOewE4c) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Tous les sens](https://open.spotify.com/album/0J0hlpXBvS5chopGn7Pmtf) | 5:21 | 2021-02-06 | 2022-07-29 |
 | [Perséides](https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Tous Les Sens](https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE) | 5:21 | 2021-02-06 |  |
 | [Place de la République](https://open.spotify.com/track/2RSjgW4arutr9Q5Va9ur8U) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Blonde](https://open.spotify.com/album/2BqvfvkRMxwKB6wRlUO26R) | 4:11 | 2021-02-06 |  |
-| [Poisson d'abysse](https://open.spotify.com/track/2FLmfUEeSIrgPmcougor2L) | [Gaële](https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj) | [Télescope](https://open.spotify.com/album/3nTN7u6XfMkPyqfurixUhW) | 4:44 | 2021-02-06 |  |
+| [Poisson d'abysse](https://open.spotify.com/track/2FLmfUEeSIrgPmcougor2L) | [Gaële](https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj) | [Télescope](https://open.spotify.com/album/3nTN7u6XfMkPyqfurixUhW) | 4:44 | 2021-02-06 | 2023-09-05 |
+| [Poisson d'abysse](https://open.spotify.com/track/0LR8ALW0z4Spd58XNvKuQe) | [Gaële](https://open.spotify.com/artist/6MnPFVtcXiuBiAGles7uDj) | [Télescope](https://open.spotify.com/album/5Ku7Xs7EaxBsm83Z9DZqCO) | 4:44 | 2021-02-06 |  |
 | [Pour ce que valent tes larmes](https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Politesses](https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800) | 4:38 | 2021-02-06 |  |
 | [Pour Le Reste De Ma Vie](https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Volcano](https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj) | 4:45 | 2021-02-06 |  |
 | [Pour que l'amour me quitte](https://open.spotify.com/track/1hsAvJUME1r5IL88R5rEUd) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Le Fil](https://open.spotify.com/album/5xsOgTp8jHugOGwtWc50xu) | 2:46 | 2021-02-06 | 2022-07-29 |

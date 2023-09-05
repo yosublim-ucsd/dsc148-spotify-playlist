@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-761 songs - 2 day 1 hr 54 min
+762 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Cherry Blossom Waltz](https://open.spotify.com/track/1wZsMtOeXbkUQiX6UKZGbY) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [Cherry Blossom Waltz](https://open.spotify.com/album/4iZYHdYDWekmsf5tCTfNYy) | 4:24 | 2023-04-20 |  |
 | [Cherry Stone](https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Cherry Stone](https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA) | 3:23 | 2022-12-08 |  |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-11-10 |  |
-| [Christmas in Bilbao](https://open.spotify.com/track/4yEV9RgUepXeLCdSFG3ohP) | [Juan Ortiz](https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U), [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8), [Hiroshi Takase](https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H) | [Brighter Days](https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE) | 6:41 | 2022-06-03 |  |
+| [Christmas in Bilbao](https://open.spotify.com/track/4yEV9RgUepXeLCdSFG3ohP) | [Juan Ortiz](https://open.spotify.com/artist/72wv4vWevdN2V78wvxj44U), [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8), [Hiroshi Takase](https://open.spotify.com/artist/5wdKbfjSsOpldsBV3GBg9H) | [Brighter Days](https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE) | 6:41 | 2022-06-03 | 2023-09-05 |
 | [Cinema Paradiso \[Love Theme\]](https://open.spotify.com/track/07coioQpK9jzK3LIGNlwkh) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missoury Sky](https://open.spotify.com/album/6PrwIDWc5ODPwqqzAlzEMg) | 3:34 | 2021-12-03 | 2022-05-18 |
 | [City Lights and Midnight Blues](https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [City Lights and Midnight Blues](https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF) | 3:56 | 2023-05-04 |  |
 | [Clean Break Idea](https://open.spotify.com/track/7KMAWlB6RcWmlLW62FDtvy) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Clean Break Idea](https://open.spotify.com/album/5Nqcx1r6VCaW04RwG6uoRs) | 3:28 | 2023-03-30 |  |
@@ -181,6 +181,7 @@
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 |  |
 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 | 2023-08-18 |  |
 | [Easy Come, Easy Go](https://open.spotify.com/track/0qg73uNbX6hOkoP52wU8bp) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 3:13 | 2021-12-03 | 2023-08-14 |
+| [Echoes of Elegance](https://open.spotify.com/track/2Ba5S2YdO9uMq0m6McDnzj) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Echoes of Elegance](https://open.spotify.com/album/27fUpjNhwSGatFLShTeR8G) | 2:56 | 2023-08-31 |  |
 | [Elegant As They Come](https://open.spotify.com/track/4kPYGarMXHC5eACXc17P25) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Above the Clouds](https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4) | 4:22 | 2023-08-25 |  |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-10 |  |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-14 |  |

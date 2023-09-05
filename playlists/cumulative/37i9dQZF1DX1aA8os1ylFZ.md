@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-382 songs - 20 hr 8 min
+383 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-12-16 | 2022-03-26 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2023-01-12 | 2023-06-16 |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-01 | 2023-07-08 |
-| [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-06-01 |  |
+| [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-06-01 | 2023-09-05 |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2023-01-12 |  |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2023-01-12 | 2023-03-23 |
 | [U & I](https://open.spotify.com/track/1JHTlyUGL784BK241NROfl) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 3:35 | 2022-07-22 | 2023-01-13 |
@@ -359,6 +359,7 @@
 | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/track/3cMAS9DjZHrAnKvPrTIw7Z) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/album/7zc5uuNnGFh7krhft1b68F) | 2:33 | 2021-12-16 | 2022-01-21 |
 | [Waste My Time](https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 2:43 | 2023-01-12 | 2023-04-04 |
 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 | 2023-02-02 |  |
+| [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-09-04 |  |
 | [Waves of Blue](https://open.spotify.com/track/4lKe0viSvv8ckoTPvHBih1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev) | 3:28 | 2023-01-12 | 2023-03-09 |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2022-03-25 | 2022-07-29 |
 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-07-22 | 2022-10-31 |

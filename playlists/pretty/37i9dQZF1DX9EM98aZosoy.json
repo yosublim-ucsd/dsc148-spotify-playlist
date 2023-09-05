@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1268899,
+  "num_followers": 1268986,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmM0Nzk3ZGU3NTQxM2UyMTRjYmUxZDcwY2QxMmY4MGMwYTJlNzUx",
+  "snapshot_id": "MCwxMWI0ZGRlMGI5NzlmMmMyYjMxOTBmYjlkZTgyMDZiZWI2MTNkNWU0",
   "tracks": [
     {
       "added_at": "2023-09-01 11:00:00",
@@ -291,30 +291,6 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
-        "name": "Friesenjung",
-        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        },
-        {
-          "name": "Otto Waalkes",
-          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Friesenjung",
-      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
-        "name": "ONLY 4 LIFE (Remix)",
-        "url": "https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH"
-      },
-      "artists": [
-        {
-          "name": "Rubi",
-          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
-        },
-        {
-          "name": "FABE BROWN",
-          "url": "https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "ONLY 4 LIFE - Remix",
-      "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
         "name": "LiEBE AUF DER R\u00dcCKBANK",
         "url": "https://open.spotify.com/album/5LVK2zDPtnyTP7Xd5NrwEB"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 188520,
       "name": "LiEBE AUF DER R\u00dcCKBANK",
       "url": "https://open.spotify.com/track/6ar9dvz5WuFLAyDGsZKLZx"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
+        "name": "ONLY 4 LIFE (Remix)",
+        "url": "https://open.spotify.com/album/5u6snJ3UY2taF6tY1WZzQH"
+      },
+      "artists": [
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+        },
+        {
+          "name": "FABE BROWN",
+          "url": "https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "ONLY 4 LIFE - Remix",
+      "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
         "name": "Zukunft Pink (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
       },
@@ -935,22 +955,6 @@
       "duration_ms": 231546,
       "name": "Zukunft Pink (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -979,22 +983,18 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
       },
       "artists": [
         {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-09-01 11:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 34537,
+  "num_followers": 34726,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTk2OTM2ZWEzMzBhZmU4NTU2YjdhMjU3OTUyZGEwMTdkMTg1NWJj",
+  "snapshot_id": "MCw0OWQyMWNlMDNmYzViZGEyMGM2N2IzYTRmMTc3ZGQwNzM4NGRjNjI2",
   "tracks": [
     {
       "added_at": "2023-05-19 02:10:25",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
         "name": "Dijeron Que No La Iba Lograr",
         "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -735,6 +735,26 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
         "name": "Andamos Mejor",
         "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
@@ -767,22 +787,22 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -815,26 +835,6 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
-        "name": "Las Morras",
-        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 155550,
-      "name": "Las Morras",
-      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -887,6 +887,42 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -951,42 +987,6 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
         "name": "Que Me Importa",
         "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 174272,
       "name": "El Fat Tony",
       "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 235328,
-      "name": "El Doctor",
-      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 177057,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
     },
     {
       "added_at": "2023-05-19 02:10:25",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-05-19 02:10:25",
       "album": {
-        "name": "Chuyito y El Mayo (En Vivo)",
-        "url": "https://open.spotify.com/album/0Edi0lLcHczz0XCRtE0MC7"
-      },
-      "artists": [
-        {
-          "name": "Los Del Arroyo",
-          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 187385,
-      "name": "Chuyito y El Mayo (En Vivo)",
-      "url": "https://open.spotify.com/track/5mXKfidzkpKSdbiTLqXh2G"
-    },
-    {
-      "added_at": "2023-05-19 02:10:25",
-      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s"
+    },
+    {
+      "added_at": "2023-05-19 02:10:25",
+      "album": {
+        "name": "Chuyito y El Mayo (En Vivo)",
+        "url": "https://open.spotify.com/album/0Edi0lLcHczz0XCRtE0MC7"
+      },
+      "artists": [
+        {
+          "name": "Los Del Arroyo",
+          "url": "https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Chuyito y El Mayo (En Vivo)",
+      "url": "https://open.spotify.com/track/5mXKfidzkpKSdbiTLqXh2G"
     },
     {
       "added_at": "2023-05-19 02:10:25",

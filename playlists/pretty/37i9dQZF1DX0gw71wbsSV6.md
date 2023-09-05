@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,087 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,095 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 19 | [First Love](https://open.spotify.com/track/2Hh69n2i61JeqHZj7YbdYl) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [First Love](https://open.spotify.com/album/5TM27OLZV1wODLu97JYuzp) | 4:18 |
 | 20 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 21 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 |
-| 22 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 |
+| 22 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 23 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
 | 24 | [Nectar.](https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar.](https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe) | 3:00 |
-| 25 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
+| 25 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 |
 | 26 | [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 |
 | 27 | [あの夏のRadio](https://open.spotify.com/track/0TW89yREoPADchLd1okIJ2) | [天童児直](https://open.spotify.com/artist/14X47SyysR5Hhx9g3jG4RG) | [あの夏のRadio](https://open.spotify.com/album/5CpLvAalwyQ9eKN58aiBdl) | 3:53 |
 | 28 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 |
 | 50 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 |
 
-Snapshot ID: `MCw0MmEyOWYxMGU4MjRmNThjOTY0MWYwNWMyZDk4Mzk1Y2MzM2EzM2Iy`
+Snapshot ID: `MCxmZmI1NGY3YzQ5YzY4YzhiZjM3NWU2N2Y4MzJkZDU1NjMzMDk2MTM0`

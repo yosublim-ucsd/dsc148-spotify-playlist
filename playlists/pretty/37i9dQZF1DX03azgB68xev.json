@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 202945,
+  "num_followers": 202978,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmUwYmQ2MDdmYmJlOGRlZDI5YWY0NmU2YzA3ZTcyOTM0ZGIzZWYx",
+  "snapshot_id": "MCxlOGRhYzk1OGJmZTNmZGYyZTk1Mzg0NGY0OGJhYzUzZGFlOWFkM2Nl",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 195358,
       "name": "Say Goodbye (Say Hello)",
       "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Where To Find Me",
         "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Dwell in Your House",
         "url": "https://open.spotify.com/album/1kD9ruaU9ozoo1GOSI6Hq7"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 278709,
       "name": "Dwell in Your House",
       "url": "https://open.spotify.com/track/37bn3FT2zwGxXXTG0FHsse"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Curtain Call",
-        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 232063,
-      "name": "Worth",
-      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -655,6 +639,22 @@
       "duration_ms": 184385,
       "name": "Source",
       "url": "https://open.spotify.com/track/5P8f4IKLbTap8ua0DKepcX"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 232063,
+      "name": "Worth",
+      "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
-      },
-      "artists": [
-        {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
-        }
-      ],
-      "duration_ms": 221909,
-      "name": "Spring Theory",
-      "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Come Home (Warehouse Mix)",
         "url": "https://open.spotify.com/album/7IOOypsrURtKrlmhSFWMxr"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 140347,
       "name": "Only You Can Do It",
       "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 221909,
+      "name": "Spring Theory",
+      "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 237537,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Growing Up, Pt.2",
+        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "How Far",
         "url": "https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Growing Up, Pt.2",
-        "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X"
       },
       "artists": [
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
+      "duration_ms": 237537,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "More Than Halfway",
+        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 221453,
+      "name": "More Than Halfway",
+      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "More Than Halfway",
-        "url": "https://open.spotify.com/album/4mEerAhqml8ALLnBOzZm1n"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 221453,
-      "name": "More Than Halfway",
-      "url": "https://open.spotify.com/track/4tG9V6oCruIY1xovDGgDXg"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
-      },
-      "artists": [
-        {
-          "name": "John Jin Han",
-          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
+      },
+      "artists": [
+        {
+          "name": "John Jin Han",
+          "url": "https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl"
+        }
+      ],
+      "duration_ms": 226295,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "HEY GOD",
-        "url": "https://open.spotify.com/album/16dHro8vtYbycbNct69lmT"
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
       },
       "artists": [
         {
-          "name": "KAYDEN",
-          "url": "https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn"
-        },
-        {
-          "name": "David Ryan Cook",
-          "url": "https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T"
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
         }
       ],
-      "duration_ms": 174216,
-      "name": "HEY GOD",
-      "url": "https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr"
+      "duration_ms": 213281,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
     }
   ],
   "unique_name": "Pop for Life",

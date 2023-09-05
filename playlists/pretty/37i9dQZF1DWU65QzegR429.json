@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9470,
+  "num_followers": 9474,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1",
+  "snapshot_id": "MCw2OGYwZTM3MjJkMWU2NTlhYjIxOGEzYzJmYzIxMjkzNDkwZjJhN2U4",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 162894,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Sin Sol",
         "url": "https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 204955,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Dream Girl",
-        "url": "https://open.spotify.com/album/5T1CaRLFtOsukpEPjZ5t0p"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/2Sla5cgNpVoRcckYjaAMKP"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Una Perla En San Juan",
-      "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "KI-KI",
         "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
@@ -363,6 +347,38 @@
       "duration_ms": 175999,
       "name": "Se Me Nota (Agarrame) - Prod by B-One",
       "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Una Perla En San Juan",
+      "url": "https://open.spotify.com/track/2zrWel0JCpX4bWjs3uJxi7"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -403,6 +419,26 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP"
       },
@@ -423,22 +459,6 @@
       "duration_ms": 242285,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -507,26 +527,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Taka Taka",
-        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "Taka Taka",
-      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Acurrucao",
         "url": "https://open.spotify.com/album/0H4BRh7Cl8ErMlks9Wj80s"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Booty Puty",
-        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 176991,
-      "name": "Booty Puty",
-      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Dembow Dominicano",
         "url": "https://open.spotify.com/album/1Q6G7NqJ3cN2rTtnNO25za"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 156610,
       "name": "Dembow Dominicano",
       "url": "https://open.spotify.com/track/6IiPbCJXLJbigeFoWuftWa"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Booty Puty",
+        "url": "https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 176991,
+      "name": "Booty Puty",
+      "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Klk El Dice",
         "url": "https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 166736,
       "name": "Klk El Dice",
       "url": "https://open.spotify.com/track/3cAZpBIkNKTYqxalklnCpw"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Sugar Boi",
-        "url": "https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Sugar Boi",
-      "url": "https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Si Tu Quieres",
         "url": "https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 217411,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Sugar Boi",
+        "url": "https://open.spotify.com/album/6ZompWFaxtNkSguDPSVszb"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Sugar Boi",
+      "url": "https://open.spotify.com/track/4wSGokexiP0n1wfGZALMLi"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
-      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Probando Freestyle",
         "url": "https://open.spotify.com/album/5Jb7CmfSS5MdsGZ5ZQtOFC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 65759,
       "name": "Probando Freestyle",
       "url": "https://open.spotify.com/track/6uy9W7BAXUR09pMnnix338"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/6S1KXwY7uaibxhjMmKGCbk"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
+      "url": "https://open.spotify.com/track/54vDLytP2uR0XvSPFNJ45q"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "94",
-        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
-      },
-      "artists": [
-        {
-          "name": "Menor Menor",
-          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "94",
-      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
-    },
-    {
-      "added_at": "2023-07-24 18:55:43",
-      "album": {
         "name": "Trucki",
         "url": "https://open.spotify.com/album/5jO83YZz3ujLMMM61Fwkzv"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 236910,
       "name": "Trucki",
       "url": "https://open.spotify.com/track/1xyMEik4SsayMAEV4rwYYW"
+    },
+    {
+      "added_at": "2023-07-24 18:55:43",
+      "album": {
+        "name": "94",
+        "url": "https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf"
+      },
+      "artists": [
+        {
+          "name": "Menor Menor",
+          "url": "https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "94",
+      "url": "https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN"
     }
   ],
   "unique_name": "Latin Frequency",

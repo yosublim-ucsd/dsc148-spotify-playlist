@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. Check back in September for Otoño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,671 likes - 26 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,695 likes - 26 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-396 songs - 1 day 12 hr 36 min
+397 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2020-05-02\* | 2022-07-29 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2022-07-21 | 2023-04-13 |
 | [When Sunny Smiles](https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [When Sunny Smiles](https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl) | 7:44 | 2021-03-10 |  |
+| [Where Are You?](https://open.spotify.com/track/2c8XMo43NvlqmJtQthTIkX) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [Where Are You?](https://open.spotify.com/album/0fbEvaDsNTU3iABUhip1x1) | 5:46 | 2023-08-31 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2020-05-02\* |  |
 | [Where Do We Go From Here](https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV) | [Benjamin Lackner](https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ), [Jérôme Regard](https://open.spotify.com/artist/7KD3zs8hA00yNRVCaoDRDz), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy) | [Last Decade](https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj) | 3:49 | 2023-06-01 |  |
 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 | 2022-07-21 |  |
@@ -393,7 +394,7 @@
 | [Wild Flower](https://open.spotify.com/track/1iaKMD29IA03guhDzt1DiH) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Wild Flower](https://open.spotify.com/album/6Xlz3DM2L2HfChpNfJ1To1) | 7:08 | 2022-05-12 |  |
 | [Willow Weep for Me](https://open.spotify.com/track/6ttNHrgyK11RvgYOdC6Vpn) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [I'm Just a Lucky So and So](https://open.spotify.com/album/5LRk8BHsoLV8d93r7Dd8Ch) | 8:08 | 2020-05-02\* |  |
 | [Willow Weep for Me](https://open.spotify.com/track/1qZ0gHUkbxhNrPN8t1a0TR) | [Sam Levine](https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [Willow Weep for Me](https://open.spotify.com/album/65LGhKIjbhZMawufHw7zxU) | 4:41 | 2023-03-28 |  |
-| [Wise Woman](https://open.spotify.com/track/7116LjcE1UuAqKJiQRwXhK) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 3:46 | 2023-08-03 |  |
+| [Wise Woman](https://open.spotify.com/track/7116LjcE1UuAqKJiQRwXhK) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 3:46 | 2023-08-03 | 2023-09-05 |
 | [Wisteria](https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s) | 5:47 | 2022-07-21 |  |
 | [Wisteria](https://open.spotify.com/track/5QdGSxicWhfhvJCkkVrXoh) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Wisteria](https://open.spotify.com/album/1l2Hx5nm70K3dgeX3ed2yO) | 5:47 | 2020-05-02\* | 2022-07-19 |
 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 | 2022-10-06 |  |

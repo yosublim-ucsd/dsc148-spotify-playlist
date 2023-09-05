@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-253 songs - 15 hr 9 min
+254 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Palo de Amansar](https://open.spotify.com/track/3zwtnySywGlO8RX5tVuf36) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Ojos Que Ladran](https://open.spotify.com/album/1WHBTKPyE9lG2ljzPcznKD) | 3:11 | 2022-01-20 | 2022-07-28 |
 | [Palo de Amansar](https://open.spotify.com/track/6zAOy652pyJ6NVgH1lQ1h8) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Ojos que ladran](https://open.spotify.com/album/17PNNeot4Mfz7WJOOZP6zT) | 3:12 | 2022-07-15 |  |
 | [Paranoia Social \- En Vivo en el Cck](https://open.spotify.com/track/5a3fr3yYsKm0ecAZegyorn) | [Tranki Punki](https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7) | [Tranki Punki \(En Vivo en el Cck\)](https://open.spotify.com/album/3kL4sQ3THaUQsFaNvRDvfH) | 3:35 | 2022-01-20 | 2022-07-29 |
+| [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 | 2023-09-01 |  |
 | [Perfume](https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K) | [Maria Gabriela Epumer](https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ) | [Perfume](https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC) | 4:51 | 2022-07-15 |  |
 | [Perfume](https://open.spotify.com/track/4gawpeejkzpK5i8yfqHtD2) | [Maria Gabriela Epumer](https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ) | [Perfume](https://open.spotify.com/album/2ScArsV4DA9vxTHKObJ3Ch) | 4:51 | 2022-01-20 | 2022-07-29 |
 | [Perfume](https://open.spotify.com/track/6SyvQX4wcOkCaCRhL90YVy) | [María Gabriela Epumer](https://open.spotify.com/artist/0VG0Lve504TVrZ9AAZxeY3) | [Rock en Ñ](https://open.spotify.com/album/2MWAusfjjMw9V5Tgcqs0Qh) | 4:54 | 2022-01-20 | 2022-07-28 |
@@ -226,7 +227,7 @@
 | [Somos Aire](https://open.spotify.com/track/6dOEjWBwsklaPLzNjSltu4) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o Trato \(Capítulo I\)](https://open.spotify.com/album/1TCp9KH1KiLydlh3cXPnfJ) | 3:31 | 2022-07-15 | 2022-11-13 |
 | [Sorojchi](https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:50 | 2022-01-20 | 2023-06-17 |
 | [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 | 2022-09-23 | 2022-12-10 |
-| [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 | 2022-01-20 |  |
+| [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 | 2022-01-20 | 2023-09-05 |
 | [Sugar Beat](https://open.spotify.com/track/2dqE2QTIYEV54uysxuHt69) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Friends And Lovers](https://open.spotify.com/album/32LODALsWr6JJa6Xq1TEQf) | 4:12 | 2022-01-20 | 2023-01-23 |
 | [Sólo por Hoy](https://open.spotify.com/track/2UMa4VWvyVFFL9tkj97V8B) | [Noe Terceros](https://open.spotify.com/artist/5oTyACsGm1q37MoTfXSDA4) | [Umbral](https://open.spotify.com/album/6leuMDWQtzDmrxgiIyuADB) | 2:39 | 2022-01-20 | 2022-07-28 |
 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 | 2022-01-20 |  |

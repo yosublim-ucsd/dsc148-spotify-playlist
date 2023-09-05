@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Yxng Le
 
-684 songs - 1 day 6 hr 51 min
+685 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Call Jehova](https://open.spotify.com/track/1CANP9um3E8PolYHhvzttV) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Call Jehova](https://open.spotify.com/album/0bDZOcGeHoA2GM0qll0beL) | 2:39 | 2023-01-26 | 2023-02-10 |
 | [Calling Me \(feat\. Jandro\)](https://open.spotify.com/track/6wPxHfzLzKHyFcY1dLPbtZ) | [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [Gangster Love](https://open.spotify.com/album/3ugtz6llOiSYzYJg2qp9Tx) | 2:28 | 2022-07-14 | 2022-10-21 |
 | [Calm Down](https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk) | 3:39 | 2022-07-14 | 2022-07-29 |
+| [Calor](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 | 2023-09-04 |  |
 | [Cap](https://open.spotify.com/track/5bTfALoLZyAh8ChIDbyP06) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Cap](https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK) | 2:15 | 2023-04-06 | 2023-07-11 |
 | [Cardio](https://open.spotify.com/track/6GCpMCbl9ZBiTfPP5awzFa) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Cardio](https://open.spotify.com/album/0NxbEuuVrrTdKKAdBUZcmd) | 2:54 | 2023-08-03 |  |
 | [Caribbean Vibes](https://open.spotify.com/track/5jeR4FjVJYGxriYcyTEDpC) | [Papi Mikey Dinero](https://open.spotify.com/artist/1ZzkltVaZc6BPQ9tluPtGi), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj) | [Caribbean Vibes](https://open.spotify.com/album/2JbSZltOtkiTo1dAGrwIY9) | 2:58 | 2023-07-13 |  |

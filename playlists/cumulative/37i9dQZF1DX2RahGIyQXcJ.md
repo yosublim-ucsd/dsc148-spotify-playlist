@@ -4,7 +4,7 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Channi Nattan & Inderpal Moga
 
-186 songs - 10 hr 44 min
+187 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Shana Bann](https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Shana Bann](https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn) | 3:48 | 2022-06-16 |  |
 | [Shayad](https://open.spotify.com/track/1RD5wRJuPegDsFtyXRsHY1) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Shayad](https://open.spotify.com/album/67JQKgqmuRtTXxBSQmazrx) | 5:25 | 2022-01-13 | 2022-02-25 |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-31 |  |
+| [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 |  |
 | [Takeover](https://open.spotify.com/track/5DVnSQ90r2M3gm6XbgTCLp) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 3:29 | 2021-12-03 |  |
 | [THE DON](https://open.spotify.com/track/3KDaxC6gpTu4Ey6DL5YMBQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 3:12 | 2022-07-18 | 2023-01-13 |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2022-07-18 |  |

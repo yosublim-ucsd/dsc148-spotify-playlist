@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=vP5Wm1cSRrK50OVEcXd\_oA">  حماقي </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=vP5Wm1cSRrK50OVEcXd\_oA">  حماقي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,488 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,715 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 |
 | 50 | [Wahshteeny](https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/4TJPiash9AKTQeDA0LvGGr) | 2:28 |
 
-Snapshot ID: `MCw5OTY1ZDVlZTBkMDIyN2U1NzQwNWQ4NjA1NGRhNjRjNGNlN2ZiY2U2`
+Snapshot ID: `MCxjNDVjYjk5YzE5NmFkNDcxNjg3YmEwNjM4NjkwZjYxYWNhN2ZlM2Fk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: War Wanarat
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,801 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,891 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 |
 | 65 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 
-Snapshot ID: `MCwyODUwMTc4Y2U1N2IwY2E1ZTA4YzkwNGVjYjkzMzFmNGU4NGZhNTBj`
+Snapshot ID: `MCxiZTlmN2UxYTE3N2NhOWM4NTYzZDU0MTNmZWJhNTU1Y2U2M2RlYzI5`

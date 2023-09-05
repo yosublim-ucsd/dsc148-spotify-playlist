@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Micha en portada.",
-  "num_followers": 1592,
+  "num_followers": 1629,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh",
+  "snapshot_id": "MCxmNWI1M2JiNWU3YzlkNjUwNjY0OGQxYmYzMjk3OTVlYWQ0YTUwM2Iy",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "OTRA COSA",
+        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Si No Vuelves",
+      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Invicto",
         "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 215453,
       "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
       "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "OTRA COSA",
-        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Si No Vuelves",
-      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
       },
@@ -363,26 +347,6 @@
       "duration_ms": 207058,
       "name": "La Guariconfianza",
       "url": "https://open.spotify.com/track/234PYuEChhjwv4GeT12pap"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Mi Mentirosa",
-        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 177900,
-      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -431,22 +395,58 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Agua Noche Remix",
-        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
+        "name": "Mi Mentirosa",
+        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
       },
       "artists": [
         {
-          "name": "Yulien Oviedo",
-          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
         },
         {
-          "name": "Fixty Ordara y Ja Rulay",
-          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 238269,
-      "name": "Agua Noche Remix",
-      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
+      "duration_ms": 177900,
+      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -475,38 +475,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+        "name": "Agua Noche Remix",
+        "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
       "artists": [
         {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+          "name": "Yulien Oviedo",
+          "url": "https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4"
         },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Todo Est\u00e1 Ok",
-        "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
-      },
-      "artists": [
         {
           "name": "Fixty Ordara y Ja Rulay",
           "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
         }
       ],
-      "duration_ms": 214574,
-      "name": "Todo Est\u00e1 Ok",
-      "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
+      "duration_ms": 238269,
+      "name": "Agua Noche Remix",
+      "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -527,6 +511,42 @@
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Todo Est\u00e1 Ok",
+        "url": "https://open.spotify.com/album/6TcAKjAyDTTYFUehxvfJtK"
+      },
+      "artists": [
+        {
+          "name": "Fixty Ordara y Ja Rulay",
+          "url": "https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH"
+        }
+      ],
+      "duration_ms": 214574,
+      "name": "Todo Est\u00e1 Ok",
+      "url": "https://open.spotify.com/track/2Z8rpsOQ64lVimg0eKMRCm"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -555,46 +575,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
-      },
-      "artists": [
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Tamoarriba",
-        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 210228,
-      "name": "Otro Trago",
-      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "La Que Quiero Yo",
         "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Tamoarriba",
+        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 210228,
+      "name": "Otro Trago",
+      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "La Diferencia",
         "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
       },
@@ -639,30 +639,6 @@
       "duration_ms": 174757,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Lagrimas de Champan",
-        "url": "https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "El Carli",
-          "url": "https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Lagrimas de Champan",
-      "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -703,6 +679,30 @@
       "duration_ms": 183131,
       "name": "Ganas de Ti",
       "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Lagrimas de Champan",
+        "url": "https://open.spotify.com/album/0Todvs4mCXdaRprlytDK7E"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "El Carli",
+          "url": "https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Lagrimas de Champan",
+      "url": "https://open.spotify.com/track/467QxcDwgclgfAyiOoe0sU"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Calentando la Habana",
-      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
         "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 263263,
       "name": "Eso Es Bola",
       "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Calentando la Habana",
+      "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
     },
     {
       "added_at": "2023-08-18 04:00:00",

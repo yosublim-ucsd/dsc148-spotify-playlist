@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 45610,
+  "num_followers": 45654,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTRiNzY1YzMxZjc0NDgwMzBhZjhkN2VmMGI4NGIwYzRjOTczN2Q0",
+  "snapshot_id": "MCw0MWIwMjcxMDY0NjQ0YjgzZTYxOGFhMTk2ZGEyMGI1NjQ1OTk2Yzdl",
   "tracks": [
     {
       "added_at": "2023-08-18 13:43:08",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Still Frame Replay",
-        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 464453,
-      "name": "The Memory of Our Love",
-      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 180666,
       "name": "My Dearest Darling",
       "url": "https://open.spotify.com/track/5jcNL4DreI4z4XnTfsx9SQ"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Still Frame Replay",
+        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 464453,
+      "name": "The Memory of Our Love",
+      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 260497,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2LDcXG53amA6UDn9sUkzQZ"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Long Distance",
-      "url": "https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 255226,
       "name": "You Shook Me",
       "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Long Distance",
+      "url": "https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Juice Head Baby",
-      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/5zi2iVnuW5PEpALVgCypi3"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Juice Head Baby",
+      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Jackie Sings The Blues",
-        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 124786,
-      "name": "Please Tell Me Why",
-      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 301440,
       "name": "I Got News For You",
       "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Jackie Sings The Blues",
+        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 124786,
+      "name": "Please Tell Me Why",
+      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Been Gone Too Long",
-        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 319960,
-      "name": "No More Lonely Nights",
-      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "I'm A Mad Man",
         "url": "https://open.spotify.com/album/7g2pXcODGYP7XSeFVbrWQp"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 359133,
       "name": "35 Long Years",
       "url": "https://open.spotify.com/track/0Ui5GujF5zj6Bdf9Wh9KE1"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 319960,
+      "name": "No More Lonely Nights",
+      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     },
     {
       "added_at": "2023-08-18 13:43:08",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-18 13:43:08",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 455967,
-      "name": "Abandoned Child",
-      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
-    },
-    {
-      "added_at": "2023-08-18 13:43:08",
-      "album": {
         "name": "Pickin' the Blues",
         "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 205870,
       "name": "Mistreated so Bad",
       "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
+    },
+    {
+      "added_at": "2023-08-18 13:43:08",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 455967,
+      "name": "Abandoned Child",
+      "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
     },
     {
       "added_at": "2023-08-18 13:43:08",

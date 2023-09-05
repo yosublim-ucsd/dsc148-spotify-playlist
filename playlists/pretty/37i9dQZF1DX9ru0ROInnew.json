@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 96646,
+  "num_followers": 96833,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTE3OTkwNGQwNGNlNjE5ZjE1NTg4YTNhNDQ1OGMzNjgzNjY5MzE5",
+  "snapshot_id": "MCw2ZjgxMmFiYmZmZjZiYTJjOWYyZDUwMzI5MzNlNDg3NzU4ZjI4MTgw",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]",
         "url": "https://open.spotify.com/album/4dd7tLtioKjtq7v9byyPV6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 335736,
       "name": "0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]",
       "url": "https://open.spotify.com/track/4COGASZEbAxmH6k5gYMo6G"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 156430,
-      "name": "BOOKER T",
-      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 261904,
       "name": "Yeezy",
       "url": "https://open.spotify.com/track/54N6ILqlyNzADZNuGEfk9a"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 156430,
+      "name": "BOOKER T",
+      "url": "https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -535,98 +535,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Sexto Sentido (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 305333,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Esclava (Remix)",
-        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
-      },
-      "artists": [
-        {
-          "name": "bryant mayers",
-          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
-        }
-      ],
-      "duration_ms": 284281,
-      "name": "Esclava (Remix)",
-      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
-        "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
-      "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Pa Ti",
         "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
       },
@@ -663,6 +571,98 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Esclava (Remix)",
+        "url": "https://open.spotify.com/album/6GxBEtAcmNELV0eaviCqlr"
+      },
+      "artists": [
+        {
+          "name": "bryant mayers",
+          "url": "https://open.spotify.com/artist/5WIXMN9m95WHt33u8idIzK"
+        }
+      ],
+      "duration_ms": 284281,
+      "name": "Esclava (Remix)",
+      "url": "https://open.spotify.com/track/4YLR0IP9xFTnZpnuJV4sn8"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 305333,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
+        "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
+      "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -759,6 +759,38 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Sensualidad",
+        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "duration_ms": 297485,
+      "name": "Sensualidad",
+      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "47 (Remix)",
         "url": "https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA"
       },
@@ -835,38 +867,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Sensualidad",
-        "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        }
-      ],
-      "duration_ms": 297485,
-      "name": "Sensualidad",
-      "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -911,6 +911,34 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
+        "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 315440,
+      "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
+      "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "LYKE MIKE",
         "url": "https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q"
       },
@@ -923,30 +951,6 @@
       "duration_ms": 187897,
       "name": "M\u00cdRENME AHORA",
       "url": "https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -983,30 +987,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
-        "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
       },
       "artists": [
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
         },
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 315440,
-      "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
-      "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
+      "duration_ms": 220080,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1091,6 +1091,42 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "YO LE LLEGO",
+      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Ahora Dice (Real Hasta La Muerte Remix)",
         "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
       },
@@ -1127,42 +1163,6 @@
       "duration_ms": 276013,
       "name": "Ahora Dice - Real Hasta La Muerte Remix",
       "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "YO LE LLEGO",
-      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Famouz Reloaded",
+        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Subiendo De Nivel - Remix",
+      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Ele Uve (Remix)",
         "url": "https://open.spotify.com/album/73mz0bzy97uQ0jC01pMp0A"
       },
@@ -1267,22 +1287,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Famouz Reloaded",
-        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
+        "name": "En Que Pa\u00eds",
+        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 249253,
-      "name": "Subiendo De Nivel - Remix",
-      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
+      "duration_ms": 210628,
+      "name": "En Que Pa\u00eds",
+      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1303,22 +1319,6 @@
       "duration_ms": 246360,
       "name": "Original",
       "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "En Que Pa\u00eds",
-        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 210628,
-      "name": "En Que Pa\u00eds",
-      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
         "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
       },
@@ -1451,54 +1467,6 @@
       "duration_ms": 262500,
       "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Me Llamas",
-        "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 327999,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1555,6 +1523,38 @@
       "duration_ms": 226371,
       "name": "Flow Cabron",
       "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Me Llamas",
+        "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 327999,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1627,34 +1627,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Mi Cubana Remix",
-        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 342558,
-      "name": "Mi Cubana - Remix",
-      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb"
       },
@@ -1703,6 +1675,34 @@
       "duration_ms": 275186,
       "name": "Estamos Clear",
       "url": "https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Mi Cubana Remix",
+        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 342558,
+      "name": "Mi Cubana - Remix",
+      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "EL OG WEEK",
-        "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Superaci\u00f3n",
-      "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 157066,
       "name": "El Oso del Dinero",
       "url": "https://open.spotify.com/track/5J9afgAuzZkApFxwB8qkAW"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "EL OG WEEK",
+        "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Superaci\u00f3n",
+      "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1895,6 +1895,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Contamos & Guerreamos",
         "url": "https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe"
       },
@@ -1919,30 +1943,6 @@
       "duration_ms": 288482,
       "name": "Contamos & Guerreamos",
       "url": "https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Yo Siempre Ando Con Los Oidos Fresh",
-        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Donde Estabas Tu",
-      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "All Star",
         "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 209333,
       "name": "Apret\u00e9 el Bot\u00f3n",
       "url": "https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Yo Siempre Ando Con Los Oidos Fresh",
+        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Donde Estabas Tu",
+      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
     },
     {
       "added_at": "2023-05-25 17:50:01",

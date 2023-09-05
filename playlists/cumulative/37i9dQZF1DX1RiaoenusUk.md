@@ -9,8 +9,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Días](https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 3:42 | 2023-02-17 |  |
-| [334](https://open.spotify.com/track/3kvSnMzdfEfu4Gm34mnr9u) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [334](https://open.spotify.com/album/4sXj2RR3bYxu7dY52KdYFK) | 5:25 | 2023-02-17 |  |
-| [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 | 2023-02-17 | 2023-08-31 |
+| [334](https://open.spotify.com/track/3kvSnMzdfEfu4Gm34mnr9u) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [334](https://open.spotify.com/album/4sXj2RR3bYxu7dY52KdYFK) | 5:25 | 2023-02-17 | 2023-09-05 |
+| [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 | 2023-02-17 |  |
 | [Abusa de tu Estilo](https://open.spotify.com/track/6UArTjqNFFStRDFBu4Dx5V) | [Militantes del Climax](https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv) | [Climax](https://open.spotify.com/album/1YO8tEGzrput7IasPQQXES) | 2:57 | 2023-02-17 |  |
 | [Aceituna](https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:10 | 2023-02-17 |  |
 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 | 2023-02-17 |  |

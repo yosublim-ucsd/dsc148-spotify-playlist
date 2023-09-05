@@ -1,12 +1,12 @@
 {
   "description": "The best indie tracks for just hanging out.",
-  "num_followers": 795121,
+  "num_followers": 795368,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzQwYmYyNzBhNjQ1Yjk3ZmM0MTliNjJkYTdiNjhlNTZhZDUxZDcz",
+  "snapshot_id": "MCxjZTkwYjUzMjUxM2FmNzkzZGE3Y2E2YmY5MjBmMjdjM2RkYThmYzg3",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Stockholmsvy",
         "url": "https://open.spotify.com/album/0LHAqxNQQgAlh7wk3aRWgM"
       },
@@ -147,22 +163,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 176315,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Sweet Bonita",
         "url": "https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0"
       },
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 252733,
       "name": "Simulation Swarm",
       "url": "https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 139906,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -343,26 +343,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "2AM",
         "url": "https://open.spotify.com/album/6P6w3VdF7BWvRQMK1gefOf"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 119016,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 342189,
-      "name": "Time (You and I)",
-      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 342189,
+      "name": "Time (You and I)",
+      "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -559,22 +559,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 190433,
-      "name": "Chocolate Hills",
-      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -591,22 +587,6 @@
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Chris Black Changed My Life",
-        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 145093,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -639,6 +619,26 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 190433,
+      "name": "Chocolate Hills",
+      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221873,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Vide Noir",
         "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 311226,
       "name": "When the Night is Over",
       "url": "https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221873,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Waiting to Spill",
-        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1271,38 +1255,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Fire of Mercy",
-        "url": "https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V"
+        "name": "Waiting to Spill",
+        "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        },
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
         }
       ],
-      "duration_ms": 239289,
-      "name": "Fire of Mercy",
-      "url": "https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Estrangers",
-        "url": "https://open.spotify.com/album/1mB8gNDaDUgY97MgmeMOQI"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Estrangers",
-      "url": "https://open.spotify.com/track/6ZyJiCgtPz0gJrhubGLkud"
+      "duration_ms": 320186,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1323,18 +1287,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+        "name": "Estrangers",
+        "url": "https://open.spotify.com/album/1mB8gNDaDUgY97MgmeMOQI"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
         }
       ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+      "duration_ms": 199733,
+      "name": "Estrangers",
+      "url": "https://open.spotify.com/track/6ZyJiCgtPz0gJrhubGLkud"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Fire of Mercy",
+        "url": "https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 239289,
+      "name": "Fire of Mercy",
+      "url": "https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 146000,
       "name": "Come Meh Way",
       "url": "https://open.spotify.com/track/62wAc90VNxtcNJQJrPaeJQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w"
-      },
-      "artists": [
-        {
-          "name": "Bay Ledges",
-          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
-        }
-      ],
-      "duration_ms": 172707,
-      "name": "keep going",
-      "url": "https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Sundays",
         "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 169133,
       "name": "Like the Sun",
       "url": "https://open.spotify.com/track/7LItXkhy2jee3EU8Nx7XPU"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w"
+      },
+      "artists": [
+        {
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
+        }
+      ],
+      "duration_ms": 172707,
+      "name": "keep going",
+      "url": "https://open.spotify.com/track/7FDHPkkA4jQYBMtbpe2UzR"
     },
     {
       "added_at": "2023-08-11 04:00:00",

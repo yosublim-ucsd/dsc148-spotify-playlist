@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 42997,
+  "num_followers": 43022,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2MzN2NiOGUxZTY3MGMyNjhmODc5OGMzZWNmNGZiNzRmMjg3OTlj",
+  "snapshot_id": "MCw0N2QzODNiYjMyMjVmNjgzYjE2ZmM0NzBmZDgzNzk3M2Q2OTRmMWRk",
   "tracks": [
     {
       "added_at": "2022-08-19 10:45:11",
@@ -243,6 +243,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Concerto in D Minor, BWV 974: III. Presto",
+      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 453880,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication]",
       "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Johann Sebastian Bach",
-        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Concerto in D Minor, BWV 974: III. Presto",
-      "url": "https://open.spotify.com/track/0ClrgVLLJTLbu58EaTxZ1U"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -643,6 +643,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
+        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 102760,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 156760,
       "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
       "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801",
-        "url": "https://open.spotify.com/album/07TYgwq0Z3foTbOn8FIv8v"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 102760,
-      "name": "2-Part Inventions, BWV 772-786: Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/6BmPKQpMz1JymCjISFjWic"
     },
     {
       "added_at": "2022-08-19 10:45:11",

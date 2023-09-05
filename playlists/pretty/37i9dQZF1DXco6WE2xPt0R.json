@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 97314,
+  "num_followers": 97414,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTQ1MDcwMWFiOTdlMTczYTg5MTJjM2U1MjM4OTM2YjgzN2QzYzBj",
+  "snapshot_id": "MCxlZWRiMDMzYzkzNGExZWRlMDUxZDlhMzU4ODc4NDg4ZDBlMGUyOGZl",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Nothing Even Matters",
         "url": "https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0"
       },
@@ -335,22 +319,6 @@
       "duration_ms": 219130,
       "name": "Nothing Even Matters",
       "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 189462,
-      "name": "DO 4 LOVE",
-      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -375,6 +343,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "GLU",
         "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 262711,
       "name": "GLU",
       "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 189462,
+      "name": "DO 4 LOVE",
+      "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
       },
       "artists": [
         {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 130981,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         }
       ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+      "duration_ms": 130981,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Heaux Tales",
+        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "On It",
+      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Heaux Tales",
-        "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "On It",
-      "url": "https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "A Muse In Her Feelings",
-        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "A Muse",
-      "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "A Muse",
+      "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Scene 1 - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Bag Of You",
-        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 197427,
-      "name": "Bag Of You",
-      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Slow (feat. J Valentine)",
         "url": "https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 200212,
       "name": "Slow (feat. J Valentine)",
       "url": "https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 174163,
       "name": "Open",
       "url": "https://open.spotify.com/track/382EXWyvPSm3w8XTFQc10R"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Let Me See Your Phone",
+        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 202371,
+      "name": "Let Me See Your Phone",
+      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Nu Beginning",
         "url": "https://open.spotify.com/album/0cDn0DpGWprEjyZtH455xm"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 195000,
       "name": "Midnight Snacks",
       "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Let Me See Your Phone",
-        "url": "https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 202371,
-      "name": "Let Me See Your Phone",
-      "url": "https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 635533,
       "name": "Make Luv 2 Me",
       "url": "https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2023-09-01 03:01:00",

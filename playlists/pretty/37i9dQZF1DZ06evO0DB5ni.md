@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,044 likes - 44 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,926 likes - 44 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 31 | [Tú No Tienes La Culpa](https://open.spotify.com/track/4jQkzC3vhDRKy1mMZoGpYu) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:46 |
 | 32 | [Hay Amores](https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Ídolos, Hoy Mis Amigos!!!](https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc) | 3:15 |
 | 33 | [Perdón Porque?](https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:30 |
-| 34 | [Eres Todo Todo \- Bolero](https://open.spotify.com/track/5dY20YYRIPCUd3YUDNGQz8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 3:30 |
-| 35 | [No Sé](https://open.spotify.com/track/76LNcs9r5RU3b6yB2UW10E) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:07 |
+| 34 | [No Sé](https://open.spotify.com/track/76LNcs9r5RU3b6yB2UW10E) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:07 |
+| 35 | [Eres Todo Todo \- Bolero](https://open.spotify.com/track/5dY20YYRIPCUd3YUDNGQz8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 3:30 |
 | 36 | [Yo Te Advertí](https://open.spotify.com/track/7DkMuqgqec2USytmjs5uXl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:07 |
 | 37 | [La Fory Fay](https://open.spotify.com/track/78IuTC0zgUmVL4jMcpwPAw) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:28 |
 | 38 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 43 | [El Caminante \- Ranchera](https://open.spotify.com/track/39w2ktw9yLsbloF83yHr2i) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:53 |
 | 44 | [Las Mulas De Moreno](https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:40 |
 
-Snapshot ID: `MjgyMjc2OTMsMDAwMDAwMDAwYTI5ZWIxZGNhMjI3Mzk1Y2E5ZjRhMjgzMjY4ZDczMw==`
+Snapshot ID: `MjgyMzA0NjYsMDAwMDAwMDA5ZjYzMGUwNjAzZTM4MDZkOGUwNmE3NTM4NzQ4OTJhNQ==`

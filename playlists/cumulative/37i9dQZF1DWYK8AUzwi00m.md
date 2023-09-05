@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-292 songs - 11 hr 16 min
+293 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [O Come, All Ye Faithful](https://open.spotify.com/track/1Eq5DU2LAofEYtYP5ODxHw) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [O Come, All Ye Faithful](https://open.spotify.com/album/4FUbvkzXMGyqMxKr9K6JVg) | 1:34 | 2022-11-11 |  |
 | [O Come, All Ye Faithful \(Lofi Version\)](https://open.spotify.com/track/6Uiguk2IuyNdcRPb3Ss8Ml) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Xmas in \(\(stereo\)\)](https://open.spotify.com/album/2yp2d2MkvZKQkvfRSZy9Rt) | 3:13 | 2021-12-20 | 2022-11-12 |
 | [O Holy Night](https://open.spotify.com/track/6JKNmlDEVQbHuvKsTYA10h) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [O Holy Lofi Night](https://open.spotify.com/album/6hoTXAp62Za6ETt9zfKMMP) | 2:54 | 2021-12-20 |  |
+| [O Holy Night](https://open.spotify.com/track/4TH6wPd9S023ujwtWoZewm) | [ZooKeepr](https://open.spotify.com/artist/07hMsm97BWS43F3TVTkl6W) | [O Holy Night](https://open.spotify.com/album/22NAyC8hQBFwzXsMz7OcsY) | 2:33 | 2023-09-04 |  |
 | [office christmas party](https://open.spotify.com/track/3SzhquDlNLS0LMj7ghULb1) | [Baby Bwoy](https://open.spotify.com/artist/7iEOzm5FQi6hdSe460hENE) | [office christmas party](https://open.spotify.com/album/0lbgCm7v5uEofQTDC3oXmW) | 2:24 | 2022-11-11 |  |
 | [oh! christmas! tree!](https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 3:10 | 2022-11-11 |  |
 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 | 2022-11-11 |  |

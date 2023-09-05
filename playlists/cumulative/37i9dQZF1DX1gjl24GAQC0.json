@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: \bCRAVITY) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: RIIZE) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 209105,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 226160,
       "name": "Broken Melodies",
       "url": "https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z"
@@ -3029,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
+    },
+    {
+      "album": {
         "name": "SERIES \u2018O\u2019 [ROUND 1 : HALL]",
         "url": "https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE"
       },
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 185280,
       "name": "ISTJ",
       "url": "https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
@@ -5910,7 +5928,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 178173,
       "name": "PANORAMA",
       "url": "https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk"

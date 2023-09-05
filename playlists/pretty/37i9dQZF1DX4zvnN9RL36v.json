@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5857,
+  "num_followers": 5878,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGIxMjA2MjdiYjIyNGRlMTMyYWI5MWU0OWVmN2M5ZjQ4ODY0MjA4",
+  "snapshot_id": "MCxiNmUxYjViYmEyODNmNjI1N2RmZTg0ZDkwMDMzZDQ4ODFlMjk4OTUy",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 246151,
+      "name": "(Bonus Track) Voice Mail (Korean Version)",
+      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 216066,
       "name": "I hope I cross your mind",
       "url": "https://open.spotify.com/track/0v25Iep0Ww4p4kgNi29VJh"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 246151,
-      "name": "(Bonus Track) Voice Mail (Korean Version)",
-      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 243037,
-      "name": "mistaken",
-      "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
         "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
       },
@@ -523,50 +507,18 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 232729,
-      "name": "One-Sided Love",
-      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Mr. Sunshine (Original Television Soundtrack), Pt. 14",
-        "url": "https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 264223,
-      "name": "If You Were Me",
-      "url": "https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "Second Story",
-        "url": "https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 315506,
-      "name": "\ub3d9\uacbd",
-      "url": "https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz"
+      "duration_ms": 243037,
+      "name": "mistaken",
+      "url": "https://open.spotify.com/track/7c8cPVLWvtZwxDxA3KkWFP"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -587,6 +539,54 @@
       "duration_ms": 267640,
       "name": "She Said (With Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Mr. Sunshine (Original Television Soundtrack), Pt. 14",
+        "url": "https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264223,
+      "name": "If You Were Me",
+      "url": "https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "Second Story",
+        "url": "https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 315506,
+      "name": "\ub3d9\uacbd",
+      "url": "https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "RE:PLAYLIST Vol.3",
+        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264921,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "AMY",
         "url": "https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 213823,
       "name": "Do You Know That",
       "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "RE:PLAYLIST Vol.3",
-        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 264921,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "\ud654\ubd84",
-        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
-      },
-      "artists": [
-        {
-          "name": "Alex",
-          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
-      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 249438,
       "name": "Her",
       "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "\ud654\ubd84",
+        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
+      },
+      "artists": [
+        {
+          "name": "Alex",
+          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
+      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
     },
     {
       "added_at": "2023-05-02 09:09:27",

@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
-  "num_followers": 162873,
+  "num_followers": 162917,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODE5NzAwNTU5N2EwMzcwYzhhMTdlOTM0OTQzMTQ5YmFmNDhhNGEz",
+  "snapshot_id": "MCxlNzY4ZDRhYTM1OGEwZTYwN2M3ODE2NWVhMjRiMDgyMzQzMWZmMjUw",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Gosto de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 170628,
-      "name": "Gosto de Voc\u00ea",
-      "url": "https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "PLAYLIST TRANSANTE 2.0",
         "url": "https://open.spotify.com/album/30pit7bea2hbcBbVRTruUM"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 148733,
       "name": "PLAYLIST TRANSANTE 2.0",
       "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Gosto de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 170628,
+      "name": "Gosto de Voc\u00ea",
+      "url": "https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Toque De Veludo",
+        "url": "https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh"
+      },
+      "artists": [
+        {
+          "name": "WD",
+          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Toque De Veludo",
+      "url": "https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Nessa Vida",
         "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
       },
       "artists": [
         {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
         }
       ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -735,18 +751,38 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
       "artists": [
         {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
         }
       ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+        }
+      ],
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -779,42 +815,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 153103,
       "name": "Pra Mim N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Toque De Veludo",
-        "url": "https://open.spotify.com/album/5TBvqgBLIVP0MZJpkLEIHh"
-      },
-      "artists": [
-        {
-          "name": "WD",
-          "url": "https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Toque De Veludo",
-      "url": "https://open.spotify.com/track/5sHK9llP0yBRwr4fW5DVSn"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -891,38 +891,6 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Reprise",
-        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
-      },
-      "artists": [
-        {
-          "name": "Yuri Fernandes",
-          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -959,6 +927,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Reprise",
+        "url": "https://open.spotify.com/album/5lsHZyPD45u1OGo2Vmyjzt"
+      },
+      "artists": [
+        {
+          "name": "Yuri Fernandes",
+          "url": "https://open.spotify.com/artist/1xo1lhaGzGzirvCE5ljMmP"
+        }
+      ],
+      "duration_ms": 215094,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 205480,
       "name": "Real (Citando Djonga)",
       "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
+      },
+      "artists": [
+        {
+          "name": "Coimbra",
+          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
+        },
+        {
+          "name": "Cibelle Aguiar",
+          "url": "https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
-      },
-      "artists": [
-        {
-          "name": "Coimbra",
-          "url": "https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy"
-        },
-        {
-          "name": "Cibelle Aguiar",
-          "url": "https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
     },
     {
       "added_at": "2023-09-01 03:01:00",

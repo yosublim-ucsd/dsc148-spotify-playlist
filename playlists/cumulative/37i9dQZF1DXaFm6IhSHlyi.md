@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-254 songs - 15 hr 54 min
+255 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Hilo Rojo](https://open.spotify.com/track/5c17sD5ibjougPh0bNnBTj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Hilo Rojo](https://open.spotify.com/album/1LozXeHCsZN3rseluCVGfu) | 3:42 | 2021-11-19 | 2022-07-29 |
 | [Hindi Tayo Pwede](https://open.spotify.com/track/38xBgshCfVX0cSSl7owDKr) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Hindi Tayo Pwede \(Original Movie Soundtrack\)](https://open.spotify.com/album/6MpP0mIGiUPWlhKHyQzQqh) | 5:03 | 2022-10-17 | 2022-11-13 |
 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 | 2022-06-16 | 2023-09-04 |
+| [Hindi Tayo Pwede](https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Kidnap for Romance \(Original Movie Soundtrack\)](https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ) | 5:03 | 2022-10-17 |  |
 | [Hindi Tayo Pwede](https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF) | 5:03 | 2021-11-19 | 2022-07-29 |
 | [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 | 2021-11-19 | 2023-03-01 |
 | [How Is This Love ?](https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T) | 3:15 | 2022-10-17 |  |
@@ -196,7 +197,7 @@
 | [Sumpah](https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sumpah](https://open.spotify.com/album/0xv6KpP2RPfHd7Y1VTMxBL) | 3:50 | 2021-11-19 |  |
 | [Sunset](https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J) | 3:36 | 2021-11-19 | 2022-07-29 |
 | [Sunset](https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3WfelH8PIg27WTEaCp8F5I) | 3:36 | 2022-06-16 |  |
-| [Taal \(\#YOM 10\)](https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [\#YOM](https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE) | 2:23 | 2021-11-19 |  |
+| [Taal \(\#YOM 10\)](https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [\#YOM](https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE) | 2:23 | 2021-11-19 | 2023-09-05 |
 | [Te Quiero \- Versión 2019](https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Te quiero \(Versión 2019\)](https://open.spotify.com/album/1xg3IvcDs8TmF05ZdKyNQJ) | 3:50 | 2021-11-19 |  |
 | [Tea Song](https://open.spotify.com/track/67rHWWoksclsZD5FbNAqL2) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Tea Song](https://open.spotify.com/album/6IBiga0zNTzTEfnRyAduzt) | 5:39 | 2021-11-19 | 2022-07-29 |
 | [Tender love](https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Love song](https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp) | 3:50 | 2021-11-19 |  |

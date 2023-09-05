@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Moody beats for sleepless nights.",
+  "description": "Smooth beats for sleepless nights.",
   "name": "Late Night Beats",
   "tracks": [
+    {
+      "album": {
+        "name": "- Inner Peace -",
+        "url": "https://open.spotify.com/album/0rwrbq6Z5nX07miZSkcgHu"
+      },
+      "artists": [
+        {
+          "name": "Rudy Raw",
+          "url": "https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119954,
+      "name": "- Inner Peace -",
+      "url": "https://open.spotify.com/track/4K5RnFcI0f44AUjUFxztvD"
+    },
     {
       "album": {
         "name": "14Th Floor",
@@ -707,6 +725,28 @@
     },
     {
       "album": {
+        "name": "Basement Jazz",
+        "url": "https://open.spotify.com/album/1CdhBYH5dcAtCa5LdoRP4b"
+      },
+      "artists": [
+        {
+          "name": "m\u00e4dm\u00e4x",
+          "url": "https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0"
+        },
+        {
+          "name": "MF Eistee",
+          "url": "https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79036,
+      "name": "Basement Jazz",
+      "url": "https://open.spotify.com/track/3ZHW2H21EFiyp9JenO20po"
+    },
+    {
+      "album": {
         "name": "Basil",
         "url": "https://open.spotify.com/album/23Hsi0FX1MD0UJBkgOZaFj"
       },
@@ -726,6 +766,24 @@
       "duration_ms": 134302,
       "name": "Basil",
       "url": "https://open.spotify.com/track/4s4vcqz7GJG9cvh31ECa5e"
+    },
+    {
+      "album": {
+        "name": "Battery",
+        "url": "https://open.spotify.com/album/44cfwIRSZvnFCkhDRDpzVk"
+      },
+      "artists": [
+        {
+          "name": "Mbrs Gear",
+          "url": "https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/2R1q865i7OzATBbZCoX1YI"
     },
     {
       "album": {
@@ -765,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Between Night and Day",
+        "url": "https://open.spotify.com/album/0QrGWWGduUkfVrGoNiy4pY"
+      },
+      "artists": [
+        {
+          "name": "FLKS",
+          "url": "https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Between Night and Day",
+      "url": "https://open.spotify.com/track/6gCkGbnh0MK6HyhWXDDZj7"
+    },
+    {
+      "album": {
         "name": "Tratoria",
         "url": "https://open.spotify.com/album/45xdMa03XY6auauofA1ESG"
       },
@@ -794,7 +870,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 111923,
       "name": "Bhutan",
       "url": "https://open.spotify.com/track/6tz5m79w0m4fYEuSFSP5zR"
@@ -1119,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/7ev78eQG2NSYjVbNo5UJc1"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Myr\u00edad",
+          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/2V2nAatDAlBvufbUxR6kYh"
+    },
+    {
+      "album": {
         "name": "cab driver",
         "url": "https://open.spotify.com/album/0zdts9MVKHAoQ7OqkFt39z"
       },
@@ -1134,6 +1232,32 @@
       "duration_ms": 156000,
       "name": "cab driver",
       "url": "https://open.spotify.com/track/5SjIaEZGCRBppzTGLMRObw"
+    },
+    {
+      "album": {
+        "name": "Caff\u00e8 de Postillon",
+        "url": "https://open.spotify.com/album/3Mmsp3562Z9asBuAd80Fvp"
+      },
+      "artists": [
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        },
+        {
+          "name": "Shibui Nigai",
+          "url": "https://open.spotify.com/artist/6izZgY9M75vZ6tn9axWDW0"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196956,
+      "name": "Caff\u00e8 de Postillon",
+      "url": "https://open.spotify.com/track/0CdsWBtMBIF9uwtYhvFDSO"
     },
     {
       "album": {
@@ -1690,6 +1814,24 @@
       "duration_ms": 125500,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/1KVGi88GgnpBrzMyxQ294K"
+    },
+    {
+      "album": {
+        "name": "Concrete Jungle",
+        "url": "https://open.spotify.com/album/5VFjg3HpVU9Fevq8xmXwyr"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94177,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/3USHy1InSocbyMwLzJJnI2"
     },
     {
       "album": {
@@ -2665,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2rA7fhN6SHoaLzm7rTLhln"
+      },
+      "artists": [
+        {
+          "name": "LOVICHI",
+          "url": "https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1czPkRuN5KOwxuG966KZSI"
+    },
+    {
+      "album": {
         "name": "Pieces of Earth",
         "url": "https://open.spotify.com/album/0l5EuQZVdOANozH7Vu6f4v"
       },
@@ -3041,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "grass",
+        "url": "https://open.spotify.com/album/5urfegX8bm3vFcaWm4959T"
+      },
+      "artists": [
+        {
+          "name": "don C",
+          "url": "https://open.spotify.com/artist/1ueK3bCiPFFvYV3v06jvYU"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "grass",
+      "url": "https://open.spotify.com/track/05jr4WyUZrhAjzIpL7k4e5"
+    },
+    {
+      "album": {
         "name": "Gyroscopes",
         "url": "https://open.spotify.com/album/2pFdHG1xljwIZk9AiIs20k"
       },
@@ -3052,7 +3230,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 138559,
       "name": "Gyroscopes",
       "url": "https://open.spotify.com/track/5gLf4MDRGmgTpO6hY6a5Fa"
@@ -3755,6 +3933,24 @@
     },
     {
       "album": {
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/66harFn1Wt1SJSEa7f6WSu"
+      },
+      "artists": [
+        {
+          "name": "The BREED",
+          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141351,
+      "name": "Junk",
+      "url": "https://open.spotify.com/track/2U6c7juxtRlVk9EMNWvjbQ"
+    },
+    {
+      "album": {
         "name": "Just A Minute",
         "url": "https://open.spotify.com/album/51se8jnsaVg8I84P5kn6CO"
       },
@@ -3917,6 +4113,24 @@
     },
     {
       "album": {
+        "name": "La Notte Di Sabato",
+        "url": "https://open.spotify.com/album/1uwaN4e8gjEUtYIY9vY34s"
+      },
+      "artists": [
+        {
+          "name": "Sabato Scola",
+          "url": "https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140917,
+      "name": "La Notte Di Sabato",
+      "url": "https://open.spotify.com/track/1SZFX3oiqBGGuGFFdJ5ZTV"
+    },
+    {
+      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/6ZzoQZAu83Y4F7q1LGn7xy"
       },
@@ -3932,6 +4146,28 @@
       "duration_ms": 134117,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/0bVyfYQTJoFbj1xR3ZzzdE"
+    },
+    {
+      "album": {
+        "name": "Last Supper",
+        "url": "https://open.spotify.com/album/6oFJL8v4MJKtcNgsPGBJnP"
+      },
+      "artists": [
+        {
+          "name": "Bertholet",
+          "url": "https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ"
+        },
+        {
+          "name": "Philip Lassiter",
+          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130033,
+      "name": "Last Supper",
+      "url": "https://open.spotify.com/track/0m6t9hWkVsasFtD88BEWmq"
     },
     {
       "album": {
@@ -4383,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/0v1CLa8bJOmd34WBv6P2MK"
+      },
+      "artists": [
+        {
+          "name": "Five Seasons",
+          "url": "https://open.spotify.com/artist/0vm9SrJaDy3ANXOHU2t6pe"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0KhkoOaUoG6g8Rb7yb2PAh"
+    },
+    {
+      "album": {
         "name": "Lovely Creations",
         "url": "https://open.spotify.com/album/5sZkXhDoZIA7jqtZCDKr3i"
       },
@@ -4564,6 +4818,24 @@
       "duration_ms": 166143,
       "name": "majesty",
       "url": "https://open.spotify.com/track/7zmlnEYfe8WoO17JSrp0Vi"
+    },
+    {
+      "album": {
+        "name": "Marijus",
+        "url": "https://open.spotify.com/album/4fZ55qsRlCk4cZK06WUmNh"
+      },
+      "artists": [
+        {
+          "name": "Colin Jubilee",
+          "url": "https://open.spotify.com/artist/0DNgrGKyrlJRgQm1AF7oZ8"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Marijus",
+      "url": "https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC"
     },
     {
       "album": {
@@ -5131,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Navigational Tools",
+        "url": "https://open.spotify.com/album/5qQgm0GHznWGDCgasBPgzB"
+      },
+      "artists": [
+        {
+          "name": "whknws.",
+          "url": "https://open.spotify.com/artist/7ppgTDZ2LUf9ArtdgkZnX3"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152967,
+      "name": "Navigational Tools",
+      "url": "https://open.spotify.com/track/7wCpicTDayjsUb0KerCQOD"
+    },
+    {
+      "album": {
         "name": "goodfella",
         "url": "https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g"
       },
@@ -5400,6 +5690,24 @@
       "duration_ms": 148732,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/7Mf3lT7iOoBckLovLYR4me"
+    },
+    {
+      "album": {
+        "name": "Love Garden",
+        "url": "https://open.spotify.com/album/0t7ZFdtrYUYRoRSi2Hoi86"
+      },
+      "artists": [
+        {
+          "name": "pastels",
+          "url": "https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168730,
+      "name": "Nightride",
+      "url": "https://open.spotify.com/track/04ZygyV7zj4h9rdsGzA9gY"
     },
     {
       "album": {
@@ -5857,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/6RmwmQHwwQ6ivbCQ6XWXdv"
+      },
+      "artists": [
+        {
+          "name": "BiRdy SanJazz",
+          "url": "https://open.spotify.com/artist/1VnKyzdYClAVXSfEuRhUZh"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/59Rha4bZILoIIz3RZiBoKM"
+    },
+    {
+      "album": {
         "name": "Wastelands",
         "url": "https://open.spotify.com/album/6xaljlJUGp13Qd06F3tFxa"
       },
@@ -5908,6 +6234,24 @@
       "duration_ms": 133700,
       "name": "Overlord",
       "url": "https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp"
+    },
+    {
+      "album": {
+        "name": "Paloma Nights",
+        "url": "https://open.spotify.com/album/2FGXN4okGnemHkgDGkE6IN"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Paloma Nights",
+      "url": "https://open.spotify.com/track/2FENbDM643Nlx6fXIRgUNy"
     },
     {
       "album": {
@@ -6717,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "Sapphire Bounce",
+        "url": "https://open.spotify.com/album/6kwFZ5ZxrrTMu319mgx7au"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sapphire Bounce",
+      "url": "https://open.spotify.com/track/5slKCq1IbKtK2MRiuEfInH"
+    },
+    {
+      "album": {
         "name": "Saturn Eyes",
         "url": "https://open.spotify.com/album/29hkNPWZgrDg0cviTMVpkS"
       },
@@ -7424,6 +7786,24 @@
       "duration_ms": 118400,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/1QxHlIxKVTiNX4Vj38ejLo"
+    },
+    {
+      "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/4z0Jlr8LNHF3Qin6JwurBo"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128057,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/52LSA8uT2NO2FjvVeCZGGL"
     },
     {
       "album": {
@@ -8690,6 +9070,24 @@
       "duration_ms": 108000,
       "name": "warm blanket",
       "url": "https://open.spotify.com/track/00eent5g0VdmkgJigmr1ed"
+    },
+    {
+      "album": {
+        "name": "Watercolors",
+        "url": "https://open.spotify.com/album/7uFoovISuM4NRMCUKspVhg"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Watercolors",
+      "url": "https://open.spotify.com/track/0hHvL9j0j6cIgU5RZ8Sz3Z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,023 likes - 80 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,166 likes - 80 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 59 | [Love](https://open.spotify.com/track/1kSORioLYEnTW7VEuBAoFG) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Daft](https://open.spotify.com/album/5zPJjpbtL6TGmm0JDlW42R) | 7:01 |
 | 60 | [Rock Me Amadeus \- 12" American Edit](https://open.spotify.com/track/5SjPfAiNn5rqPkQNcglgVR) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Rock Me Amadeus 30th Anniversary](https://open.spotify.com/album/31VIlWUGdK4a3ZqEC9efJO) | 5:50 |
 | 61 | [So Many Men, So Little Time](https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9) | [Miquel Brown](https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G) | [So Many Men](https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX) | 8:14 |
-| 62 | [Letter From My Heart \- Original 12" Version](https://open.spotify.com/track/1m2Nhacm0P7zxEia9xMMme) | [Steve Allen](https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS) | [Letter From My Heart](https://open.spotify.com/album/3dLFdLwD6YULEAKZT0WjG4) | 5:25 |
-| 63 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
+| 62 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
+| 63 | [Letter From My Heart \- Original 12" Version](https://open.spotify.com/track/1m2Nhacm0P7zxEia9xMMme) | [Steve Allen](https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS) | [Letter From My Heart](https://open.spotify.com/album/3dLFdLwD6YULEAKZT0WjG4) | 5:25 |
 | 64 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [So80s Presents Sandra \- Curated By Blank & Jones](https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP) | 7:11 |
 | 65 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
 | 66 | [Pale Shelter \- Long Version](https://open.spotify.com/track/1UfMmncg5kMuPBRlAx8Jtd) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 7:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Lessons In Love \- Shep Pettibone Remix](https://open.spotify.com/track/1rjF5gX73nMKe4xfgVv97j) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 7:49 |
 | 80 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
 
-Snapshot ID: `MCxhMjg4NGIyNDg0NjE1YmZiOWJhY2VmYmRmYzNlYjUxMjdkMGEzYzk0`
+Snapshot ID: `MCxkMDRiOWYyNjJmNDExZGVhOGQ1NzE5ODc1YWM2MDlhNWM2MDgyZjUz`

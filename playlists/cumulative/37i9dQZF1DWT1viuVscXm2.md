@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-246 songs - 14 hr 21 min
+247 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [De Quien Es La Culpa](https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Araus Danesi](https://open.spotify.com/artist/7nsDjXt3xtyKr2ms1bb5aK) | [De Quien Es La Culpa](https://open.spotify.com/album/0SYojN22VetJRAt89zabbq) | 3:12 | 2023-08-11 |  |
 | [De un Tiempo a Esta Parte](https://open.spotify.com/track/5Iyp4ikp4LdVXDnb45lstv) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Javier Ortega](https://open.spotify.com/artist/6jGIY0FDKLEWixfXTgh8wI) | [De un Tiempo a Esta Parte](https://open.spotify.com/album/62t8oGmohX5zc3gzgDZN2R) | 4:44 | 2021-12-24 |  |
 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-12-24 | 2022-12-03 |
+| [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2023-09-04 |  |
 | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/track/1yKxctyjh6CdDmJd9LaRNb) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [CUMBIALANDIA](https://open.spotify.com/artist/6NLMDsPCHLd5s6BEGBYCIP) | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/album/4JtNGqrJtfeIquW3svl1bh) | 3:06 | 2022-10-22 | 2023-07-29 |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-12-09 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-08-18 |  |
@@ -108,7 +109,7 @@
 | [La Cumbia Del Infinito](https://open.spotify.com/track/4bMqrcFJszZ8HzT9rb0Tfz) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:25 | 2022-07-22 |  |
 | [La Cumbia Del Infinito](https://open.spotify.com/track/1w12DHBFzWNzV47aG5WNCU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [La Cumbia Del Infinito](https://open.spotify.com/album/1OQAsluVeQn4E88IYCxtVO) | 3:25 | 2022-10-28 | 2022-11-13 |
 | [La danza de los mirlos \- En Vivo](https://open.spotify.com/track/03gL2VXNNyYdeZHYbdsYYO) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 0:37 | 2021-12-24 |  |
-| [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-06-29 |  |
+| [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-06-29 | 2023-09-05 |
 | [La Noche](https://open.spotify.com/track/1WyoLJHC6VJKX9DeLUEaTr) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [La Noche](https://open.spotify.com/album/06Z89FVJ5rOZKw3wRRAexV) | 3:28 | 2022-08-12 | 2023-03-11 |
 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 | 2021-12-24 | 2022-06-11 |
 | [La Primera Vez](https://open.spotify.com/track/6FTGItR8uFjpOQGa8AAlak) | [Gonzalo Castillo](https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg) | [La Primera Vez](https://open.spotify.com/album/1fgbiHKQGZhwGutBh2OdFx) | 2:24 | 2023-02-03 | 2023-02-18 |

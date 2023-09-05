@@ -4,7 +4,7 @@
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-84 songs - 3 hr 50 min
+85 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Heute Bin Ich Faul](https://open.spotify.com/track/7CWbnTlzCvmnt7SDUvw7sy) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:28 | 2023-08-31 |  |
 | [Hu Ha Halloween](https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9) | [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Im Land der bunten Fantasie \- Lieder zum Tanzen, Träumen und Mitsingen](https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn) | 2:36 | 2023-08-31 |  |
 | [Hui Hui Hui \- Ich bin der Wind](https://open.spotify.com/track/3Wal8NEzMPBFpGjScxlGT7) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder](https://open.spotify.com/album/7CIBgDr7rnEI1YeoMLO7Gn) | 1:33 | 2023-08-31 |  |
+| [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 | 2023-09-04 |  |
 | [Ich bleib hier \(feat\. Lina Larissa Strahl\)](https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Lina Larissa Strahl](https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk) | [Bibi und Tina: VOLL VERHEXT! \(Der Original\-Soundtrack zum Kinofilm\)](https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP) | 2:59 | 2023-06-28 |  |
 | [Ida's Sommerlied](https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL) | [Sonia Liebing](https://open.spotify.com/artist/3YZCbwdW9Gy1sZXV39uf6B), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 1:53 | 2023-06-28 | 2023-09-01 |
 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 | 2023-08-04 | 2023-09-01 |
@@ -66,7 +67,7 @@
 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 | 2023-06-28 | 2023-09-01 |
 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 | 2023-08-31 |  |
 | [Mein kleiner Kürbis](https://open.spotify.com/track/1qfmntr0uLVqUJKrbzXrPi) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 3:59 | 2023-08-31 |  |
-| [Mit Kastanien und Eicheln](https://open.spotify.com/track/4X2FW4z1gGi1HmAJrtCcps) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Volker Rosin \- Liederbox Vol\. 1](https://open.spotify.com/album/6nud5wQAgOSW1dNAWWiNpK) | 1:50 | 2023-08-31 |  |
+| [Mit Kastanien und Eicheln](https://open.spotify.com/track/4X2FW4z1gGi1HmAJrtCcps) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Volker Rosin \- Liederbox Vol\. 1](https://open.spotify.com/album/6nud5wQAgOSW1dNAWWiNpK) | 1:50 | 2023-08-31 | 2023-09-05 |
 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 | 2023-08-04 | 2023-09-01 |
 | [Ohne dich hätt' ich mich nicht getraut](https://open.spotify.com/track/5dlhNyHb5S9AuixZqnPaNY) | [Christopher Annen](https://open.spotify.com/artist/2WWeCEF0kF9vHGlLlsHaRE) | [Unter meinem Bett 5](https://open.spotify.com/album/5JYmSMR3duFBHnSIKumZtG) | 4:13 | 2023-08-04 | 2023-08-31 |
 | [Party im Zoo](https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Oh Yeah!](https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR) | 2:25 | 2023-06-28 |  |

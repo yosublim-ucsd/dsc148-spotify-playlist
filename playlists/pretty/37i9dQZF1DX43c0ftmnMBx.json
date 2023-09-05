@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 224241,
+  "num_followers": 224356,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjM4NDllZThmOTI4Y2E2NmQ5YWM3MmUzYWY1NDIxYTAwYzFjYWJm",
+  "snapshot_id": "MCxiYTA2YmE4NjFiY2JlNTI0OTUwYmI2NmRiYmRlNmNkYzZkMWExY2Qx",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
@@ -243,42 +259,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 198332,
-      "name": "Sobredosis (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -327,6 +307,42 @@
       "duration_ms": 287960,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 198332,
+      "name": "Sobredosis (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -383,8 +399,28 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Odio (feat. Drake)",
+      "url": "https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
@@ -392,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 257186,
-      "name": "Los Infieles",
-      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
+      "duration_ms": 255026,
+      "name": "Por un Segundo",
+      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -431,22 +467,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Indetenibles",
+        "url": "https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Odio (feat. Drake)",
-      "url": "https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG"
+      "duration_ms": 234560,
+      "name": "Si Estuvieras Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5LaOePNL1J2kjhmj98xKif"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -467,22 +499,6 @@
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Indetenibles",
-        "url": "https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Si Estuvieras Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5LaOePNL1J2kjhmj98xKif"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -531,24 +547,24 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Quiero Ser Tu Amor",
-        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
+        "name": "Ya Me Canse",
+        "url": "https://open.spotify.com/album/1y8IaieixW46sJO0Zio0EV"
       },
       "artists": [
         {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 219586,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
+      "duration_ms": 270480,
+      "name": "Donde Estan Esos Amigos",
+      "url": "https://open.spotify.com/track/0PLpw3w76h4mVnXUDnveRG"
     },
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
       },
       "artists": [
         {
@@ -556,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 255026,
-      "name": "Por un Segundo",
-      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
+      "duration_ms": 256440,
+      "name": "Inmortal",
+      "url": "https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -579,22 +595,6 @@
       "duration_ms": 252253,
       "name": "Promise (feat. Usher)",
       "url": "https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Ya Me Canse",
-        "url": "https://open.spotify.com/album/1y8IaieixW46sJO0Zio0EV"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 270480,
-      "name": "Donde Estan Esos Amigos",
-      "url": "https://open.spotify.com/track/0PLpw3w76h4mVnXUDnveRG"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Quiero Ser Tu Amor",
+        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Tres Palabras",
         "url": "https://open.spotify.com/album/15V8Q5wvYKMVm1tagU4ms5"
       },
@@ -663,34 +679,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
       },
       "artists": [
         {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
         }
       ],
-      "duration_ms": 216040,
-      "name": "Ya No Te Buscar\u00e9",
-      "url": "https://open.spotify.com/track/1CIUos10Or0tFaf4ZhaSfW"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 256440,
-      "name": "Inmortal",
-      "url": "https://open.spotify.com/track/2swZ0X1njeU32SNJeBKIfW"
+      "duration_ms": 269493,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 269493,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Todo Tiene Su Hora",
         "url": "https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2"
       },
@@ -739,22 +723,6 @@
       "duration_ms": 203853,
       "name": "Muchachita Linda",
       "url": "https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "No Tengo Suerte En El Amor",
-      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -775,6 +743,38 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "No Tengo Suerte En El Amor",
+      "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Ya No Te Buscar\u00e9",
+      "url": "https://open.spotify.com/track/1CIUos10Or0tFaf4ZhaSfW"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Mil historias Edici\u00f3n De Lujo",
         "url": "https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 251428,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Mi Liber\u00e9",
-        "url": "https://open.spotify.com/album/2XcWwRaYyfOfyLqo3gGcu4"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Siento Que Te Quiero",
-      "url": "https://open.spotify.com/track/2w9o0Yw1XYF3mmXMS82Vyp"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Sombras de un Pasado",
+        "url": "https://open.spotify.com/album/02aMRNTDHBY7RnmHOpj9XA"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Hoy Te VI Pasar",
+      "url": "https://open.spotify.com/track/4Z5KC5Oai5rYP0tXWKRUZr"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Sombras de un Pasado",
-        "url": "https://open.spotify.com/album/02aMRNTDHBY7RnmHOpj9XA"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Hoy Te VI Pasar",
-      "url": "https://open.spotify.com/track/4Z5KC5Oai5rYP0tXWKRUZr"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Escenas De Amor",
         "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 282708,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/5aKtF99Easewgyk5JDuJAd"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Mi Liber\u00e9",
+        "url": "https://open.spotify.com/album/2XcWwRaYyfOfyLqo3gGcu4"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Siento Que Te Quiero",
+      "url": "https://open.spotify.com/track/2w9o0Yw1XYF3mmXMS82Vyp"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Canciones Inmortales Bachatas",
-        "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 472546,
-      "name": "Loco de Amor",
-      "url": "https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "La Historia de Mi Vida: El Final, Vol. 1",
         "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 261519,
       "name": "Llora Alma M\u00eda",
       "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Canciones Inmortales Bachatas",
+        "url": "https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 472546,
+      "name": "Loco de Amor",
+      "url": "https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Morir Solo",
-        "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
         }
       ],
-      "duration_ms": 242342,
-      "name": "Morir Solo",
-      "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
+      "duration_ms": 245866,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1075,6 +1075,22 @@
       "duration_ms": 372733,
       "name": "P\u00e9game Tu Vicio",
       "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Morir Solo",
+        "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 242342,
+      "name": "Morir Solo",
+      "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Sangre De Mis Venas",
         "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Obl\u00edgame",
-        "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
+        "name": "\u00c9xitos",
+        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 233706,
-      "name": "Me Duele La Cabeza",
-      "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
+      "duration_ms": 308000,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "\u00c9xitos",
-        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
+        "name": "Obl\u00edgame",
+        "url": "https://open.spotify.com/album/0YGZrIcgnUlZ1v4TxnuFxm"
       },
       "artists": [
         {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v"
+      "duration_ms": 233706,
+      "name": "Me Duele La Cabeza",
+      "url": "https://open.spotify.com/track/3rIgo725niu2yb3WNx62Jt"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Devu\u00e9lveme Mi Libertad",
+        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Mujer de las Mil Batallas",
+      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Carta De Verano",
         "url": "https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Devu\u00e9lveme Mi Libertad",
-        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
       "artists": [
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 204564,
-      "name": "Mujer de las Mil Batallas",
-      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
+      "duration_ms": 276840,
+      "name": "Vete y Alejate de Mi",
+      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Vete y Alejate de Mi",
-      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Escenas De Amor",
-        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 230360,
-      "name": "Como Ser\u00e1s Tu",
-      "url": "https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 228000,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Escenas De Amor",
+        "url": "https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Como Ser\u00e1s Tu",
+      "url": "https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny"
     },
     {
       "added_at": "2023-04-27 23:54:49",

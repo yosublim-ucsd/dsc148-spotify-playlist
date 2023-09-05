@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 233991,
+  "num_followers": 234172,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzFiNDgzY2MzYjU2M2VhOGI5NjJlM2FiNzRhYTQ1ZGY0ZmQyYmQw",
+  "snapshot_id": "MCwyNjBmNGVhY2U0NzQ5MTQxODlhY2JhNjMyNDMxMDg5MjI3YjJmMzc1",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Nights Are Forever",
         "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2010",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "Lost In Love",
-      "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
     },
     {
       "added_at": "2022-06-29 18:01:05",
@@ -279,6 +263,22 @@
       "duration_ms": 207573,
       "name": "The Things We Do For Love",
       "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "Lost In Love",
+      "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/08o75xMKmGrKny6GsXrNJW"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 233506,
       "name": "It Never Rains in Southern California",
       "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/08o75xMKmGrKny6GsXrNJW"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
-      },
-      "artists": [
-        {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Baby I'm-a Want You",
-      "url": "https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Gorilla (2019 Remaster)",
         "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 216386,
       "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
       "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Baby I'm-a Want You",
+      "url": "https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -475,22 +475,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Big Love - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 307400,
       "name": "Hey Nineteen",
       "url": "https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223733,
+      "name": "Big Love - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "JT",
         "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 165400,
       "name": "Your Smiling Face",
       "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Flowing Rivers",
-        "url": "https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf"
-      },
-      "artists": [
-        {
-          "name": "Andy Gibb",
-          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "I Just Want To Be Your Everything",
-      "url": "https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 272946,
       "name": "Rikki Don't Lose That Number",
       "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Flowing Rivers",
+        "url": "https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "I Just Want To Be Your Everything",
+      "url": "https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -875,6 +875,22 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
+        "name": "In the Pocket (2019 Remaster)",
+        "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Shower the People - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
         "name": "What's Wrong with This Picture?",
         "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 180693,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
-        "name": "In the Pocket (2019 Remaster)",
-        "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Shower the People - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -971,22 +971,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "The Pretender",
-        "url": "https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "The Pretender",
-      "url": "https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Sammy Johns",
         "url": "https://open.spotify.com/album/2hIJCiimrkUy3RMeIIF89Z"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+        "name": "The Pretender",
+        "url": "https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8"
       },
       "artists": [
         {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Save It For A Rainy Day",
-      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
+      "duration_ms": 351000,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g"
     },
     {
       "added_at": "2022-06-29 18:01:05",
@@ -1031,6 +1015,22 @@
       "duration_ms": 213973,
       "name": "Smoke from a Distant Fire",
       "url": "https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Save It For A Rainy Day",
+      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
-      },
-      "artists": [
-        {
-          "name": "Michael Johnson",
-          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "This Night Won't Last Forever",
-      "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "The Best Of The Alessi Brothers",
         "url": "https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 199693,
       "name": "Oh Lori",
       "url": "https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Dialogue",
+        "url": "https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK"
+      },
+      "artists": [
+        {
+          "name": "Michael Johnson",
+          "url": "https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "This Night Won't Last Forever",
+      "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
     },
     {
       "added_at": "2020-01-07 15:31:11",

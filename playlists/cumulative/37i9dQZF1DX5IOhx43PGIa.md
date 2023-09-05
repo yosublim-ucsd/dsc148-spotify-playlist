@@ -4,7 +4,7 @@
 
 > Wasia Project takes over Jasmine in celebration of ESEA Month in the UK!
 
-586 songs - 1 day 6 hr 25 min
+587 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2023-09-01 |  |
 | [Circles](https://open.spotify.com/track/3oRFASmKBxhLj1vlsyCJ3m) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Circles](https://open.spotify.com/album/7Mrf0iOJdb2suGyWSCq96u) | 3:37 | 2022-05-27 | 2022-07-06 |
 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 | 2022-09-23 | 2022-10-08 |
+| [close with desires \(feat\. thuy\)](https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY), [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [close with desires \(feat\. thuy\)](https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID) | 3:25 | 2023-09-01 |  |
 | [CLOUDS](https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [CLOUDS](https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l) | 2:58 | 2022-05-27 | 2022-09-21 |
 | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Orono](https://open.spotify.com/artist/0CqXZXwwLrqnlXqHrVm8ux), [Lennon](https://open.spotify.com/artist/3nPGCD8cnUmkXAmoQx2DbO) | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1) | 2:14 | 2022-05-27 | 2022-07-29 |
 | [Cold Summer](https://open.spotify.com/track/0njTgAO37O9EWgSwbGAlym) | [Taebz](https://open.spotify.com/artist/5L6UHAq53G5zTorqTxO9Pk), [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Cold Summer](https://open.spotify.com/album/6SJRBZoVNsiaeVfuozUOZ6) | 2:50 | 2022-05-27 | 2022-07-29 |
@@ -399,7 +400,7 @@
 | [pieces](https://open.spotify.com/track/1EJLqTbCBWrXIZsWoJ9XPy) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [pieces](https://open.spotify.com/album/00wsSw2OSFR2jpJLQEiQPr) | 2:24 | 2022-05-27 | 2022-08-27 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-09-20 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-16 | 2023-05-20 |
-| [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 |  |
+| [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 | 2023-09-05 |
 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-09-02 | 2023-02-18 |
 | [Please Baby Please](https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Please Baby Please](https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx) | 3:31 | 2022-05-27 | 2022-08-13 |
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-07-22 | 2022-08-27 |

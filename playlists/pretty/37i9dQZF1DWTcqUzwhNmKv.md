@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Polaris on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,512 likes - 74 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,783 likes - 74 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 73 | [Fence](https://open.spotify.com/track/6gQmCGUYq9Xql5rlShqUXj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Fence](https://open.spotify.com/album/7kTY68ysd8P6LOZe3TybbD) | 3:37 |
 | 74 | [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 |
 
-Snapshot ID: `MCxiYWEwZmEzM2Q0YjE1OTRmZGIwM2E4MjhkNWQyMjI0MmNjYjNmNTFm`
+Snapshot ID: `MCw0NjFjZGMwNDhlZmIwOWYwZjY5OGFjM2RlNDU4MzIxNjVhODY3NTk3`

@@ -1,12 +1,12 @@
 {
   "description": "Hated is out! Foto: YUNGBLUD",
-  "num_followers": 59085,
+  "num_followers": 59211,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDBjYzliNzJkYWI5YWM4ZjllYjlkNWYzYjk1OGE1ODQ3YTY5NTFi",
+  "snapshot_id": "MCxlMzc2NjJjZjMzMjRlNjI2MmM0YzFiMDA4MDdhM2YzODExODI3N2E5",
   "tracks": [
     {
       "added_at": "2023-09-01 03:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Every Where Is Some Where",
         "url": "https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 231600,
       "name": "High Enough",
       "url": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "GOSSIP (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },
@@ -411,6 +391,26 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "GOSSIP (feat. Tom Morello)",
+        "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "The Funeral",
         "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Even When I\u2019m Not With You",
+      "url": "https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "blindfolded",
-        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
       "artists": [
         {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 199240,
-      "name": "blindfolded",
-      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
+        "name": "blindfolded",
+        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "blindfolded",
+      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
         "name": "Three Minutes More",
         "url": "https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 203536,
       "name": "Three Minutes More",
       "url": "https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Even When I\u2019m Not With You",
-      "url": "https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Normalize",
-        "url": "https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 259868,
-      "name": "Normalize",
-      "url": "https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "<maybe> it's my fault",
         "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "Power to Play",
-        "url": "https://open.spotify.com/album/2PMcA7AaZxQXmj62zGJLcd"
+        "name": "Normalize",
+        "url": "https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc"
       },
       "artists": [
         {
-          "name": "McFly",
-          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
         }
       ],
-      "duration_ms": 249533,
-      "name": "Honey I'm Home",
-      "url": "https://open.spotify.com/track/5U7QTTy3KlqNkNFDcEUMea"
+      "duration_ms": 259868,
+      "name": "Normalize",
+      "url": "https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -659,6 +643,22 @@
       "duration_ms": 131944,
       "name": "nobody's favorite person, not even my own",
       "url": "https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "Power to Play",
+        "url": "https://open.spotify.com/album/2PMcA7AaZxQXmj62zGJLcd"
+      },
+      "artists": [
+        {
+          "name": "McFly",
+          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Honey I'm Home",
+      "url": "https://open.spotify.com/track/5U7QTTy3KlqNkNFDcEUMea"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "Scaled And Icy (Livestream Version)",
         "url": "https://open.spotify.com/album/1B61NzknoGqafMfKLY7QtZ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 175044,
       "name": "Shy Away",
       "url": "https://open.spotify.com/track/7v4ziK63yNqkfHh8S3ZSR3"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2023-09-01 03:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-01 03:01:00",
       "album": {
-        "name": "fmk (with blackbear)",
-        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "indieedgycool",
-      "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
-    },
-    {
-      "added_at": "2023-09-01 03:01:00",
-      "album": {
         "name": "grave inside my head",
         "url": "https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 120943,
       "name": "grave inside my head",
       "url": "https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK"
+    },
+    {
+      "added_at": "2023-09-01 03:01:00",
+      "album": {
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
     },
     {
       "added_at": "2023-09-01 03:01:00",

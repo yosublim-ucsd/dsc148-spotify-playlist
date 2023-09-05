@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 39060,
+  "num_followers": 39110,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjM2ZDdlMDlkMzgyNjJhZTRmNzMyYmEyOTljZjg5YzAyZTU2OTIw",
+  "snapshot_id": "MCwwNDllYWY1MGM0ODU4NDNiNzczM2M5MWYzZjE5NmE5ZmE3NWMzMjVi",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Earthshaker",
-        "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 261066,
       "name": "Turtle Blues",
       "url": "https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Earthshaker",
+        "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Blues, Candy & Big Maybelle",
+        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "That's A Pretty Good Love",
+      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Ma Rainey",
         "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 139000,
       "name": "Don't Mess With My Man",
       "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Blues, Candy & Big Maybelle",
-        "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "That's A Pretty Good Love",
-      "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
         }
       ],
-      "duration_ms": 296333,
-      "name": "Born Under A Bad Sign",
-      "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
+      "duration_ms": 165413,
+      "name": "As Long as I'm Moving",
+      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 165413,
-      "name": "As Long as I'm Moving",
-      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
+      "duration_ms": 296333,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Ball n' Chain",
         "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 180400,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -551,8 +551,8 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -579,22 +579,6 @@
       "duration_ms": 170173,
       "name": "I'm a Mighty Tight Woman",
       "url": "https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "B.D. Woman's Blues",
-      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -635,8 +619,24 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "B.D. Woman's Blues",
+      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
       },
       "artists": [
         {
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "Billie's Blues - Take 1",
-      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -679,6 +663,22 @@
       "duration_ms": 220299,
       "name": "Jelly Roll Blues",
       "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "Billie's Blues - Take 1",
+      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The First Torch Singers, Vol. I: The Twenties",
-        "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
-      },
-      "artists": [
-        {
-          "name": "Eva Taylor",
-          "url": "https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Moanin' Low",
-      "url": "https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Ma Rainey Vol. 3 (1925-1926)",
         "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "The First Torch Singers, Vol. I: The Twenties",
+        "url": "https://open.spotify.com/album/2i5G9rq9OB4pBCFz1ul0im"
+      },
+      "artists": [
+        {
+          "name": "Eva Taylor",
+          "url": "https://open.spotify.com/artist/4tcdCfYOTLmHkjzfIIHocL"
+        }
+      ],
+      "duration_ms": 211324,
+      "name": "Moanin' Low",
+      "url": "https://open.spotify.com/track/2Eqx8kcEyuHkresgSFePM6"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 155813,
       "name": "Boogie'n My Woogie",
       "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Don't Worry 'Bout Strangers",
+      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -907,22 +923,6 @@
       "duration_ms": 205000,
       "name": "Honey Dripper Blues",
       "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Sings... Me And The Blues",
-        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Don't Worry 'Bout Strangers",
-      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Presenting Trixie Smith",
+        "url": "https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu"
+      },
+      "artists": [
+        {
+          "name": "Trixie Smith",
+          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Jack I'm Mellow (Alternate Take 2)",
+      "url": "https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Classics by Lucky Millinder Orchestra",
         "url": "https://open.spotify.com/album/2N9wYYSikvi6QIyNopvzaq"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 148062,
       "name": "There's Good Blues Tonight",
       "url": "https://open.spotify.com/track/1VqlaUqWBQQPbiU3IKOlN5"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Presenting Trixie Smith",
-        "url": "https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu"
-      },
-      "artists": [
-        {
-          "name": "Trixie Smith",
-          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Jack I'm Mellow (Alternate Take 2)",
-      "url": "https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3"
     },
     {
       "added_at": "2023-08-23 10:15:28",

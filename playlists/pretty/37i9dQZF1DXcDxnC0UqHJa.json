@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Rufus Wainwright ",
-  "num_followers": 473799,
+  "num_followers": 473837,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzViOTRhZDA3MmE0NWVkMTFjOTI2NDdjNTg1ZmM2OTEwZTYwNWEy",
+  "snapshot_id": "MCw0MTM5NDM4ZDUwOTA3ZTMyNGMzY2QxNjdjMjY2M2U2M2Q2NWI2OTVl",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -239,22 +239,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Every Breath You Take (feat. Liza Anne)",
-        "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
+        "name": "Time After Time (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
       },
       "artists": [
         {
-          "name": "Aaron Krause",
-          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
-        },
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 223893,
-      "name": "Every Breath You Take (feat. Liza Anne)",
-      "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -311,18 +307,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Time After Time (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+        "name": "Every Breath You Take (feat. Liza Anne)",
+        "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Aaron Krause",
+          "url": "https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a"
+        },
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
         }
       ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+      "duration_ms": 223893,
+      "name": "Every Breath You Take (feat. Liza Anne)",
+      "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "brightside bonus tracks",
+        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 204003,
+      "name": "just like heaven",
+      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "As I Rise",
         "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 233000,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "brightside bonus tracks",
-        "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 204003,
-      "name": "just like heaven",
-      "url": "https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Boots Of Spanish Leather",
-        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 282173,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+        "name": "Boots Of Spanish Leather",
+        "url": "https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+      "duration_ms": 282173,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "To Emmylou",
-        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Prayer in Open D",
-      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "To Emmylou",
+        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Prayer in Open D",
+      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Pine Hollow (Live)",
-        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Jolene - Live",
-      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Genuine Negro Jig",
         "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
@@ -1115,18 +1099,38 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+        "name": "Pine Hollow (Live)",
+        "url": "https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j"
       },
       "artists": [
         {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+      "duration_ms": 253000,
+      "name": "Jolene - Live",
+      "url": "https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Listen To The Radio",
+        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Listen To The Radio",
+      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1147,18 +1151,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
         }
       ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1175,6 +1179,22 @@
       "duration_ms": 143547,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1291,26 +1311,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Listen To The Radio",
-        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Listen To The Radio",
-      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Sparks",
         "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
       },
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Hey Me, Hey Mama",
+        "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 210604,
+      "name": "Hey Me, Hey Mama",
+      "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Free Fallin'",
         "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 152885,
       "name": "I Think We\u2019re Alone Now",
       "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Hey Me, Hey Mama",
-        "url": "https://open.spotify.com/album/1Iiqi0wAb9VWdAQbY0hywC"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 210604,
-      "name": "Hey Me, Hey Mama",
-      "url": "https://open.spotify.com/track/4MeXcqcyx5vMVUJAKTqKRv"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Covers, Ch. 1",
-        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
-      },
-      "artists": [
-        {
-          "name": "The Sweeplings",
-          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Covers, Ch. 1",
+        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
+      },
+      "artists": [
+        {
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/7GhS7SesozkzNAu4KUCOmX"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 295334,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/7rtNxSatiqmLKb4G71k1yn"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 197540,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
       },
@@ -1767,18 +1783,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 197540,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1803,22 +1819,6 @@
       "duration_ms": 183226,
       "name": "Harvest (feat. Andrew Bird & Chris Stills)",
       "url": "https://open.spotify.com/track/1qMJAquNvVR74RlAxYG6Ys"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 137314,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Cheers",
         "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
       },
@@ -1915,6 +1931,22 @@
       "duration_ms": 246722,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Girl From The North Country",
+      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1935,22 +1967,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 137314,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 264930,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Girl From The North Country",
-      "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
     },
     {
       "added_at": "2023-09-01 04:00:00",

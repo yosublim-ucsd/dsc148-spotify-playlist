@@ -743,6 +743,28 @@
     },
     {
       "album": {
+        "name": "La Crema",
+        "url": "https://open.spotify.com/album/1LliLGMCamo6OZ0SQBGINc"
+      },
+      "artists": [
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Fenix The Producer",
+          "url": "https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR"
+    },
+    {
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },

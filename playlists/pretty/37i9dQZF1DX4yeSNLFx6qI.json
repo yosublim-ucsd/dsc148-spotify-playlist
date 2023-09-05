@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1761742,
+  "num_followers": 1761956,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDg0NjljNWIwNGFlMjI3Yzg1NGZmMGFmMzZjMzNiMTBjZTU5YWU4",
+  "snapshot_id": "MCw2NmFhMGExZTExODM0ZTAzOWY1ZGQ2OTJlMDFlZWRkNjVmMjllZGQy",
   "tracks": [
     {
       "added_at": "2023-08-29 22:25:31",
@@ -379,30 +379,6 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Lamari",
-          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -455,22 +431,26 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
-        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         },
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Lamari",
+          "url": "https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
         }
       ],
-      "duration_ms": 258937,
-      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. La Mari De Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -507,6 +487,26 @@
       "duration_ms": 238628,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
+        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Amor Ordinario",
-      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
         "name": "Muero",
         "url": "https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 217480,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Amor Ordinario",
+      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -863,38 +863,6 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Acu\u00e9rdate de M\u00ed",
-      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -911,6 +879,22 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
         "name": "Si Fuera M\u00eda - EP",
         "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 227373,
       "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
       "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Acu\u00e9rdate de M\u00ed",
+      "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
+        "name": "Coraz\u00f3n Sin Vida",
+        "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Coraz\u00f3n Sin Vida",
+      "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
         "name": "Circo Soledad",
         "url": "https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
-        "name": "Coraz\u00f3n Sin Vida",
-        "url": "https://open.spotify.com/album/65jAsD6n85tGFFeuPhokaO"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Coraz\u00f3n Sin Vida",
-      "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 236485,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
         "name": "Te echo de menos",
         "url": "https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 209221,
       "name": "Hablemos de amor",
       "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 236485,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
+        "name": "Si hubieras querido",
+        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 221139,
+      "name": "Si hubieras querido",
+      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/05ZaKm4eYlGXsesyzD1fZK"
       },
@@ -1351,6 +1367,22 @@
       "duration_ms": 224013,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6WSAPEkvEfcEUgSTAo1D3S"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
+        "name": "Me vas a ver",
+        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 135739,
+      "name": "Me vas a ver",
+      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -1391,22 +1423,6 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
-        "name": "Me vas a ver",
-        "url": "https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 135739,
-      "name": "Me vas a ver",
-      "url": "https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
         "name": "rifresh",
         "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 177515,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
-        "name": "Si hubieras querido",
-        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 221139,
-      "name": "Si hubieras querido",
-      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-08-29 22:25:31",
       "album": {
-        "name": "A\u00fan me amas",
-        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
       },
       "artists": [
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         }
       ],
-      "duration_ms": 220000,
-      "name": "A\u00fan me amas",
-      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
+      "duration_ms": 233026,
+      "name": "Por Tu Bien",
+      "url": "https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -1503,22 +1503,6 @@
       "duration_ms": 200346,
       "name": "Regresa",
       "url": "https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ"
-    },
-    {
-      "added_at": "2023-08-29 22:25:31",
-      "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Por Tu Bien",
-      "url": "https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C"
     },
     {
       "added_at": "2023-08-29 22:25:31",
@@ -1555,6 +1539,22 @@
       "duration_ms": 189506,
       "name": "D\u00e9jame Llorarte",
       "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
+    },
+    {
+      "added_at": "2023-08-29 22:25:31",
+      "album": {
+        "name": "A\u00fan me amas",
+        "url": "https://open.spotify.com/album/5gY5TLUTYIC3TOrYXmWdVw"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "A\u00fan me amas",
+      "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
     },
     {
       "added_at": "2023-08-29 22:25:31",

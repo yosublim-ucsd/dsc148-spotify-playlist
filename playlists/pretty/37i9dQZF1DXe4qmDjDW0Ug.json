@@ -1,6 +1,6 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11322,
+  "num_followers": 11371,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -135,26 +135,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "I Need A Girl (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Principle Of My Soul",
         "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
       },
@@ -187,22 +167,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "SOFA",
-        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "SOFA",
-      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -219,6 +183,26 @@
       "duration_ms": 194596,
       "name": "NO ONE",
       "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "I Need A Girl (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -251,6 +235,22 @@
       "duration_ms": 247173,
       "name": "Across the universe",
       "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "SOFA",
+        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "SOFA",
+      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -307,22 +307,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 227021,
-      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
-      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Yanghwa BRDG",
         "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 233003,
       "name": "Maybe It\u2019s Not Our Fault",
       "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 227021,
+      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
+      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -423,6 +423,58 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "\uc810\uc810",
+      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/0fT1WF1nu9VnqaZxkowFpl"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 192630,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Across The Romantic Bridge",
+        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "\uadf8\ub7f0\uc77c\uc740",
+      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Solar International",
         "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
       },
@@ -451,58 +503,6 @@
       "duration_ms": 263644,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "\uc810\uc810",
-      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Across The Romantic Bridge",
-        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "\uadf8\ub7f0\uc77c\uc740",
-      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/0fT1WF1nu9VnqaZxkowFpl"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 192630,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Like A Movie",
-        "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 270240,
-      "name": "\uc548\ub418\ub098\uc694",
-      "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 215840,
       "name": "With Coffee\u2026",
       "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "\uc5b4\ub5a4\uac00\uc694",
+      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
+        "name": "Like A Movie",
+        "url": "https://open.spotify.com/album/71bHxIobu3Ib3oSL3A4jKj"
       },
       "artists": [
         {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
         }
       ],
-      "duration_ms": 271986,
-      "name": "\uc5b4\ub5a4\uac00\uc694",
-      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
+      "duration_ms": 270240,
+      "name": "\uc548\ub418\ub098\uc694",
+      "url": "https://open.spotify.com/track/7JXQOKFhZ0h8VrYdWbwM8F"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -667,22 +667,6 @@
       "duration_ms": 259626,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -723,6 +707,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "Miss Ripley OST",
+        "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "duration_ms": 241690,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Op. 4",
         "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Miss Ripley OST",
-        "url": "https://open.spotify.com/album/1jD2g58pVcEUe1TYzSjgi5"
-      },
-      "artists": [
-        {
-          "name": "Park Hwayobi",
-          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
-        }
-      ],
-      "duration_ms": 241690,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/5rXek3NJpCQfJxOjaKrj6j"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 220760,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
+      },
+      "artists": [
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2021-03-11 16:36:50",

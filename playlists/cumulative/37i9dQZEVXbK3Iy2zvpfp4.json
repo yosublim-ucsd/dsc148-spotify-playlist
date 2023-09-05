@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -3232,7 +3232,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
@@ -9996,7 +9996,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
@@ -10752,7 +10752,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
@@ -14534,7 +14534,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 156436,
       "name": "moonlight (kali uchis) - sped up version",
       "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"
@@ -15572,7 +15572,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-22",
+      "date_removed": null,
       "duration_ms": 178964,
       "name": "Ni**a Ni**a Ni**a",
       "url": "https://open.spotify.com/track/2oBd6KgXMeh0alqHHli0J4"
@@ -19784,7 +19784,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
@@ -21726,7 +21726,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj"
@@ -23732,7 +23732,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 178406,
       "name": "Twirlanta",
       "url": "https://open.spotify.com/track/3DHB4RzX7kWcpjjFtcmWqh"
@@ -25126,7 +25126,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 186768,
       "name": "Whiskey Cola",
       "url": "https://open.spotify.com/track/7x75MZdQKmaWYiS0hKSGOS"
@@ -25913,6 +25913,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3"
+      },
+      "artists": [
+        {
+          "name": "Siinamota",
+          "url": "https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Young Girl A",
+      "url": "https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6"
+    },
+    {
+      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -25924,7 +25942,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"

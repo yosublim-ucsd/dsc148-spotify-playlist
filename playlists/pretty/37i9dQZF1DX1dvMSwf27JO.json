@@ -1,12 +1,12 @@
 {
   "description": "music to get fly to ",
-  "num_followers": 526676,
+  "num_followers": 527028,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGI2MzJjM2JiYjg1MDg3ZDRkMGU1ZWM4OGVhZjMzMzIwMWY0ZGJh",
+  "snapshot_id": "MCw3N2IyMWNiZmM5YTcwNmRhYmFhMjgwZjI4YjFjOGFlNjFlMTVlZDNj",
   "tracks": [
     {
       "added_at": "2023-08-14 17:47:19",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "BEST INTEREST",
-        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 127921,
-      "name": "BEST INTEREST",
-      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 216062,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -163,18 +163,18 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+      "duration_ms": 181080,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -199,22 +199,6 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 161041,
-      "name": "DOGTOOTH",
-      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -251,6 +235,22 @@
       "duration_ms": 304760,
       "name": "Super Rich Kids",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Feel so Good",
+      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 204109,
       "name": "WHARF TALK (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Feel so Good",
-      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Sremm 4 Life",
-        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 240561,
-      "name": "Flaunt It/Cheap",
-      "url": "https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Persuasive",
         "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 216707,
       "name": "Persuasive",
       "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 240561,
+      "name": "Flaunt It/Cheap",
+      "url": "https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Oranges",
+        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 103688,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Oranges",
-        "url": "https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 103688,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Just Sayin' Shit",
+        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
+      },
+      "artists": [
+        {
+          "name": "Flower in Bloom",
+          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
+        }
+      ],
+      "duration_ms": 61717,
+      "name": "Just Sayin' Shit",
+      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 142720,
       "name": "Conveniency",
       "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Just Sayin' Shit",
-        "url": "https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa"
-      },
-      "artists": [
-        {
-          "name": "Flower in Bloom",
-          "url": "https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA"
-        }
-      ],
-      "duration_ms": 61717,
-      "name": "Just Sayin' Shit",
-      "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1195,6 +1195,22 @@
       "duration_ms": 120693,
       "name": "Toronto Funhouse",
       "url": "https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "michelin man",
+        "url": "https://open.spotify.com/album/6EtOYouH2hBGGqlo8hrP02"
+      },
+      "artists": [
+        {
+          "name": "Nick Mono",
+          "url": "https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q"
+        }
+      ],
+      "duration_ms": 239624,
+      "name": "michelin man",
+      "url": "https://open.spotify.com/track/2bVZGuKUU6MEf45VlCLfTi"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1251,22 +1267,6 @@
       "duration_ms": 158980,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4IR1ACM7QnpToR5zCzxrVs"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "michelin man",
-        "url": "https://open.spotify.com/album/6EtOYouH2hBGGqlo8hrP02"
-      },
-      "artists": [
-        {
-          "name": "Nick Mono",
-          "url": "https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q"
-        }
-      ],
-      "duration_ms": 239624,
-      "name": "michelin man",
-      "url": "https://open.spotify.com/track/2bVZGuKUU6MEf45VlCLfTi"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 134142,
-      "name": "Shimmy",
-      "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 108626,
       "name": "No Good Reason",
       "url": "https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 134142,
+      "name": "Shimmy",
+      "url": "https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 109241,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
         "name": "FLOOR",
         "url": "https://open.spotify.com/album/7jgZRd9rDFS1FA6PuOj4Mc"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 125688,
       "name": "FLOOR",
       "url": "https://open.spotify.com/track/0YsiXEd69QrZK3AVfBAuV9"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
-        "name": "Freaky (RGB)",
-        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 109241,
-      "name": "Freaky (RGB)",
-      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
     },
     {
       "added_at": "2023-08-14 17:47:19",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-08-14 17:47:19",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
-    },
-    {
-      "added_at": "2023-08-14 17:47:19",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 209108,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR"
+    },
+    {
+      "added_at": "2023-08-14 17:47:19",
+      "album": {
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-08-14 17:47:19",

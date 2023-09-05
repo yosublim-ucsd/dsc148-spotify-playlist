@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-1,132 songs - 2 day 14 hr 25 min
+1,133 songs - 2 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,7 +934,7 @@
 | [Space Between](https://open.spotify.com/track/5owNO5tgoUtH8gETM9fjHi) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Richard Reynolds](https://open.spotify.com/artist/6tcOATPUS7AQqjhA4fhS1g) | [Back 2 Rave](https://open.spotify.com/album/6bE0jnPO1Nh5rbIvMZV76H) | 3:01 | 2022-07-20 | 2022-07-22 |
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-05-16 | 2022-05-19 |
 | [Sparks Fly \(Taylor’s Version\)](https://open.spotify.com/track/3MytWN8L7shNYzGl4tAKRp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:21 | 2023-07-08 | 2023-07-10 |
-| [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 | 2023-08-27 |  |
+| [Special](https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Special](https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79) | 4:07 | 2023-08-27 | 2023-09-05 |
 | [SPECIAL \(feat\. Nekfeu & Fousheé\)](https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:51 | 2021-07-18 | 2021-07-20 |
 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 | 2022-11-05 | 2022-11-10 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-03 |  |
@@ -950,6 +950,7 @@
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-18 | 2022-06-24 |
 | [Stiekem](https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Leven](https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N) | 3:23 | 2022-12-23 |  |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2022-02-16 | 2022-02-25 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-27 |
 | [STUNTMEN \(feat\. Alpha Wann & Wit.\)](https://open.spotify.com/track/1YEs58i4G68twRzYaFEu7T) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti), [Wit.](https://open.spotify.com/artist/4ME56PlDfT9QKf6sGcRgPm) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 3:24 | 2021-07-18 | 2021-07-19 |
 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 | 2022-03-20 | 2022-05-29 |

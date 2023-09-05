@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 239208,
+  "num_followers": 239363,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDBlN2M3YTBlMzljZDZkOWEzYzhjMjQzNGVjZTg0NDg5NmU2MmFk",
+  "snapshot_id": "MCw4MzhlMzQ4YjgwZGE0NmI2NDc0ZDQzNGNmMjYwYmMyY2QyZGY4ZDUz",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "The Road To Here",
         "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 195533,
       "name": "Courtesy Of The Red, White And Blue (The Angry American)",
       "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -899,6 +879,22 @@
       "duration_ms": 249613,
       "name": "Where I Find God",
       "url": "https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "How Country Feels",
+        "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "Runnin' Outta Moonlight",
+      "url": "https://open.spotify.com/track/6enPOmd3vSFpI4jjms8kXN"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -919,18 +915,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "How Country Feels",
-        "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
       "artists": [
         {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Runnin' Outta Moonlight",
-      "url": "https://open.spotify.com/track/6enPOmd3vSFpI4jjms8kXN"
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Jason Aldean",
-        "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Amarillo Sky",
-      "url": "https://open.spotify.com/track/0axUHkhMMY0YSC1jFBVWqv"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Rebels On The Run",
         "url": "https://open.spotify.com/album/2FAmcSDPNqOJYuDBdtiD9k"
       },
@@ -1175,22 +1159,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 198121,
-      "name": "The Outskirts",
-      "url": "https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
@@ -1207,6 +1175,38 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Jason Aldean",
+        "url": "https://open.spotify.com/album/22yhkGIMlyXRYzXZbH5OBA"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Amarillo Sky",
+      "url": "https://open.spotify.com/track/0axUHkhMMY0YSC1jFBVWqv"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 198121,
+      "name": "The Outskirts",
+      "url": "https://open.spotify.com/track/5ePiRipYivQM29vGNr3S1a"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "What Makes You Country",
-        "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "What Makes You Country",
-      "url": "https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 213653,
       "name": "These Are My People",
       "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "What Makes You Country",
+        "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "What Makes You Country",
+      "url": "https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Small Town Crazy",
-        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Small Town Crazy",
-      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Halfway To Heaven (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 214826,
       "name": "Country Must Be Country Wide",
       "url": "https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Small Town Crazy",
+        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Small Town Crazy",
+      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Raised Up Right",
-        "url": "https://open.spotify.com/album/65me2n6m4vtVzbZ26h1w04"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194838,
-      "name": "Raised Up Right",
-      "url": "https://open.spotify.com/track/4sajp0FouooklY5JCHzwvh"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 252493,
       "name": "Give Me Back My Hometown",
       "url": "https://open.spotify.com/track/3MykNWa65IP2VN1Qa6B9yK"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a"
+        "name": "Raised Up Right",
+        "url": "https://open.spotify.com/album/65me2n6m4vtVzbZ26h1w04"
       },
       "artists": [
         {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
+      "duration_ms": 194838,
+      "name": "Raised Up Right",
+      "url": "https://open.spotify.com/track/4sajp0FouooklY5JCHzwvh"
     },
     {
       "added_at": "2023-07-14 04:00:00",

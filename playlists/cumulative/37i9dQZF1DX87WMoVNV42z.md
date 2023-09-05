@@ -4,7 +4,7 @@
 
 > Two brothers trying to make it as dancers open their own club, but their artistic drive soon clashes with the business, threatening their relationship\. Watch Dance Brothers Now On Netflix.
 
-36 songs - 2 hr 15 min
+37 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Beacon](https://open.spotify.com/track/4ZNsaaGx9WaY6MO7WtOLtD) | [Desto](https://open.spotify.com/artist/0ge7EVpHiQctfmPYjHb29r) | [Tears On Trash](https://open.spotify.com/album/7GkIa4KNQpnMTV9ugUxl8D) | 3:53 | 2023-05-24 |  |
 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 | 2023-05-09 |  |
 | [Bounce Forever](https://open.spotify.com/track/2VCW0ejFjCLhRzDvTdHva3) | [Universal Production Music](https://open.spotify.com/artist/04mwHdsbf5QYDOpktMFpSa) | [90s Dance Revival](https://open.spotify.com/album/4bTQiQsyWNCtqz9igE7KBx) | 1:53 | 2023-05-09 |  |
-| [Contortion](https://open.spotify.com/track/5FBMLbdrIQC4nEMfrUxpuT) | [Exploited Body](https://open.spotify.com/artist/20gv4DyaxuAAx7eKzCs6mT) | [Contortion](https://open.spotify.com/album/5vH4pncDepnAi89rEfvnnN) | 2:48 | 2023-05-09 |  |
+| [Contortion](https://open.spotify.com/track/5FBMLbdrIQC4nEMfrUxpuT) | [Exploited Body](https://open.spotify.com/artist/20gv4DyaxuAAx7eKzCs6mT) | [Contortion](https://open.spotify.com/album/5vH4pncDepnAi89rEfvnnN) | 2:48 | 2023-05-09 | 2023-09-05 |
+| [Contortion](https://open.spotify.com/track/65RpJDjcRULTx5Cv7QZfm5) | [Exploited Body](https://open.spotify.com/artist/20gv4DyaxuAAx7eKzCs6mT) | [Contortion](https://open.spotify.com/album/5As6GPd25QG7LnCq72iuWd) | 2:48 | 2023-05-09 |  |
 | [Dirty Flag](https://open.spotify.com/track/1pyeRhqO8vIpUc0Ftd8cP3) | [Huoratron](https://open.spotify.com/artist/2SRSJhAtFtJRhizJMdf0Gt) | [XXVI Crimes of Love](https://open.spotify.com/album/29cO6UR0Vpmbf3sTPBnc2M) | 4:19 | 2023-05-09 |  |
 | [Eternal](https://open.spotify.com/track/7GfuHgLZaQi7XqQbT9pW27) | [Desto](https://open.spotify.com/artist/0ge7EVpHiQctfmPYjHb29r) | [Tears On Trash](https://open.spotify.com/album/7GkIa4KNQpnMTV9ugUxl8D) | 2:49 | 2023-05-24 |  |
 | [Gang Drone](https://open.spotify.com/track/4ycY3UYqgLOgeI1nZBVVJ9) | [Twwth](https://open.spotify.com/artist/0igNErCtblHMcfEnCopVhT) | [Dislocation](https://open.spotify.com/album/0Xi7oXPjJb19Vh8y9Utr6h) | 10:34 | 2023-05-09 |  |

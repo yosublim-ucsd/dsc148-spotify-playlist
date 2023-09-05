@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OLd5MrIVlk.md) - [plain]
 
 > Come on board and bring along all your hopes and dreams\. Listen to the music from and inspired by ONE PIECE, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,904 likes - 79 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,631 likes - 79 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OLd5MrIVlk.md) - [plain]
 | 78 | [I Have My Friends](https://open.spotify.com/track/3YvOxGDWCTToQmi1gPt9P0) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3SpAbtsIKZ9omjpDCPUQKJ) | 2:51 |
 | 79 | [Goodbye](https://open.spotify.com/track/5V09cnZOR0dKKJrPz3VfQp) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3SpAbtsIKZ9omjpDCPUQKJ) | 1:27 |
 
-Snapshot ID: `MCxmNWQ4YjQ2NmIxYTMwYjU1NjliMzMwNzY2MDUzMmFhMTdjY2FjN2Nk`
+Snapshot ID: `MCxlNjRlYTcyNDU3ZTY5MmM4NzcwNGZhY2Q5NTJiMzMxNjgxOGVkMWJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: N.I.N.A, Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,652 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,653 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [Lembra Dessa, Kevin?](https://open.spotify.com/track/0WC2QLIzlmR8mc5xVFpnFN) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [R&F: UltraSom](https://open.spotify.com/album/1aX7BghARSDAxshFvHOoZx) | 4:32 |
 | 75 | [Respeitosamente](https://open.spotify.com/track/11Kl9alN9okNVqew0BIdQw) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Respeitosamente](https://open.spotify.com/album/1JcZLFNFMDpXGJGVlCCJ5x) | 4:11 |
 
-Snapshot ID: `MCwzNTBlYWI4MWRjNTQ1YWZmMGUzODM4MTEwNWVkMDA3ZWVlYzJjZWQ2`
+Snapshot ID: `MCw2OTU4NjYzMDdmYTBlZjAzOTU2NGZkOTVkNzRkYzNlNWNlYjkyMTdh`

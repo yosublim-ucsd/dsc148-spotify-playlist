@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,150 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,688 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 12 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 13 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 |
 | 14 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 |
-| 15 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
-| 16 | [The Abyss](https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Abyss](https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS) | 7:18 |
+| 15 | [The Abyss](https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Abyss](https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS) | 7:18 |
+| 16 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
 | 17 | [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 |
 | 18 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 19 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 33 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 |
 | 34 | [Time](https://open.spotify.com/track/20QjNItuQEZvwXnIy5Va37) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Time](https://open.spotify.com/album/2uDgmgef8WIKFJuzR1RnDg) | 3:32 |
 | 35 | [Rebirth](https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Rebirth](https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p) | 6:40 |
-| 36 | [Be a Human](https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Be a Human](https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR) | 7:02 |
-| 37 | [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 |
+| 36 | [Colonia](https://open.spotify.com/track/0lwfTyUbKM9Em6225HXT4B) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/12KzIVisgBIHt3YyN5sjIX) | 3:54 |
+| 37 | [Be a Human](https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Be a Human](https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR) | 7:02 |
 | 38 | [Roll the Dice](https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Roll the Dice](https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ) | 4:36 |
 | 39 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 |
 | 40 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 |
 | 50 | [Don't Look Back](https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj) | 3:51 |
 
-Snapshot ID: `MCwyM2Y3ZmJmZjM4NmQ2ODEzMjAwZTMwMjE0Y2UzZjllYzVkMGFhYjgy`
+Snapshot ID: `MCwzNzZiOWUyMTcwYmY1N2MwY2Q2YTk4M2NhMzhmMzJlZjkzNGIzMzc4`

@@ -1,12 +1,12 @@
 {
   "description": "Vocals and keys, front and center. Cover: Adele",
-  "num_followers": 1751974,
+  "num_followers": 1752490,
   "original_name": "Piano Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDgwY2U1OThkODExZGZhY2EwNTcwMGQ3MzIzNTkyMTYyN2YyYTk2",
+  "snapshot_id": "MCxkYTYwOTA1MjQ1MzhjY2ZlNWRlZTllZTMxZTRlZTIwOGIyNGI4YTlj",
   "tracks": [
     {
       "added_at": "2023-09-03 14:13:45",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Set Fire to the Rain",
-      "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
-    },
-    {
-      "added_at": "2023-09-03 14:13:45",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -239,34 +223,18 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
-    },
-    {
-      "added_at": "2023-09-03 14:13:45",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 307879,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+      "duration_ms": 242973,
+      "name": "Set Fire to the Rain",
+      "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -287,6 +255,22 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 307879,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
+    },
+    {
+      "added_at": "2023-09-03 14:13:45",
+      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -303,18 +287,34 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "Only Human (Deluxe)",
-        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 260285,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2023-09-03 14:13:45",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "champagne problems",
+      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+        "name": "Only Human (Deluxe)",
+        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 244000,
-      "name": "champagne problems",
-      "url": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339"
+      "duration_ms": 260285,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2023-09-03 14:13:45",
+      "album": {
         "name": "Daniel Powter",
         "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 265000,
       "name": "Angels",
       "url": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz"
-    },
-    {
-      "added_at": "2023-09-03 14:13:45",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2023-09-03 14:13:45",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
+    },
+    {
+      "added_at": "2023-09-03 14:13:45",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Unfaithful",
-      "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
-    },
-    {
-      "added_at": "2023-09-03 14:13:45",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 213386,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
+    },
+    {
+      "added_at": "2023-09-03 14:13:45",
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
       "artists": [
         {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 258653,
-      "name": "Goodbye My Lover",
-      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
+      "duration_ms": 293120,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
         }
       ],
-      "duration_ms": 293120,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+      "duration_ms": 258653,
+      "name": "Goodbye My Lover",
+      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -991,38 +991,6 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "Once Upon a Mind",
-        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 259991,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
-    },
-    {
-      "added_at": "2023-09-03 14:13:45",
-      "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
-    },
-    {
-      "added_at": "2023-09-03 14:13:45",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -1039,6 +1007,22 @@
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
+    },
+    {
+      "added_at": "2023-09-03 14:13:45",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
     },
     {
       "added_at": "2023-09-03 14:13:45",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
+    },
+    {
+      "added_at": "2023-09-03 14:13:45",
+      "album": {
         "name": "Trading Snakeoil for Wolftickets",
         "url": "https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z"
       },
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-09-03 14:13:45",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+        "name": "Once Upon a Mind",
+        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
       },
       "artists": [
         {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
         }
       ],
-      "duration_ms": 276066,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
+      "duration_ms": 259991,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
     },
     {
       "added_at": "2023-09-03 14:13:45",

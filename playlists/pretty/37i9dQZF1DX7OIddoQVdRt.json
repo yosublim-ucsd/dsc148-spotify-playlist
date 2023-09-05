@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover:  <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=7476425269ff490a\">Pastor Mike Jr.</a>, <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards'</a> Artist of the Year ",
-  "num_followers": 628801,
+  "num_followers": 628874,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE1ZDhjZDhhOGFhM2FmOWMwM2FjNDFiNGI2MGFkMTNhMzY0Y2Y3",
+  "snapshot_id": "MCxkNjU0OTI0YTU1YjUzMmE3OTc2YWJlMTM3ZmVlNTE0YmRlZDYyNmFi",
   "tracks": [
     {
       "added_at": "2023-08-04 07:09:27",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
         "name": "Heart. Passion. Pursuit.",
         "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 344019,
-      "name": "Victory Belongs To Jesus",
-      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 384093,
       "name": "In Jesus Name",
       "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Love Theory",
-        "url": "https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251258,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -595,6 +579,22 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Love Theory",
+        "url": "https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251258,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 282826,
-      "name": "Blessin Me",
-      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Jesus Is Born",
         "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
       },
@@ -847,6 +831,38 @@
       "duration_ms": 327742,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 275582,
+      "name": "Just for Me",
+      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 282826,
+      "name": "Blessin Me",
+      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -908,9 +924,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 275582,
-      "name": "Just for Me",
-      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
+      "duration_ms": 236339,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+        "name": "I Need You (Live)",
+        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 236339,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
+      "duration_ms": 323877,
+      "name": "I Need You (Live)",
+      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "I Need You (Live)",
-        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 323877,
-      "name": "I Need You (Live)",
-      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "The Dolly Express",
         "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 345625,
       "name": "You",
       "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Dear Future Me",
-        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
-      },
-      "artists": [
-        {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        }
-      ],
-      "duration_ms": 276423,
-      "name": "I Forgive Me",
-      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1187,6 +1171,22 @@
       "duration_ms": 278460,
       "name": "Famous For (I Believe) [Sunday A.M. Version]",
       "url": "https://open.spotify.com/track/3O1OvEm2Kho4oEAMnnLXaP"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "duration_ms": 276423,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
+        "name": "Zacardi Cortez",
+        "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
         "name": "Better Days (Live)",
         "url": "https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 323333,
       "name": "Better Days - Live",
       "url": "https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Zacardi Cortez",
-        "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T"
     },
     {
       "added_at": "2023-08-04 07:09:27",
@@ -1671,42 +1671,6 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
-        "name": "Something Has To Break (feat. Karen Clark Sheard)",
-        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 347752,
-      "name": "Something Has To Break (feat. Karen Clark Sheard)",
-      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
-        "name": "Lifted Up",
-        "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        }
-      ],
-      "duration_ms": 269579,
-      "name": "Lifted Up",
-      "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
-    },
-    {
-      "added_at": "2023-08-04 07:09:27",
-      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
       },
@@ -1731,6 +1695,22 @@
     {
       "added_at": "2023-08-04 07:09:27",
       "album": {
+        "name": "Lifted Up",
+        "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "duration_ms": 269579,
+      "name": "Lifted Up",
+      "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
         "name": "Glory / Stranger",
         "url": "https://open.spotify.com/album/6Rq7AnztYvLhwCNebrR2XT"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 210122,
       "name": "Glory / Stranger",
       "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
+    },
+    {
+      "added_at": "2023-08-04 07:09:27",
+      "album": {
+        "name": "Something Has To Break (feat. Karen Clark Sheard)",
+        "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 347752,
+      "name": "Something Has To Break (feat. Karen Clark Sheard)",
+      "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
     },
     {
       "added_at": "2023-08-04 07:09:27",

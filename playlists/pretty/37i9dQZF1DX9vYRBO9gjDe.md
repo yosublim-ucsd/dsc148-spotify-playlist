@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。9月2日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,947 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,225 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [Special Days](https://open.spotify.com/track/4or4paBDr7wpOKosYPaz7b) | [Joint Beauty](https://open.spotify.com/artist/74RJ7LQOOa3A0FiCw15PxG), [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [PeanutsKun](https://open.spotify.com/artist/5GITFRQqu23xgb82VKRWUc) | [Special Days](https://open.spotify.com/album/2XsEUQBbE5ZE6XSBxHucbE) | 3:39 |
 | 50 | [one call](https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [one call](https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1) | 1:54 |
 
-Snapshot ID: `MCxhNjA4YmRmZmMwY2QzNTY5OWUxYmE5ZTEzYTkwZWRhNGMyYmIwNWVk`
+Snapshot ID: `MCwyNWZhM2RjYWYyM2ZhNzc4MGM2YzFjNWUyM2Y1NDZiZDU3OWJlNzdm`

@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "clima",
+        "url": "https://open.spotify.com/album/5mPBcbAVKlG4cG8sbdXqwh"
+      },
+      "artists": [
+        {
+          "name": "LYFE",
+          "url": "https://open.spotify.com/artist/1dlE0yVbJVrOXJSlHpD6zV"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95384,
+      "name": "clima",
+      "url": "https://open.spotify.com/track/47hnVFWuVJW0K4tzoDfCat"
+    },
+    {
+      "album": {
         "name": "Cloud Bossa",
         "url": "https://open.spotify.com/album/5nSr7XX5zLZX5uvqyr2qgC"
       },
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 146830,
       "name": "Cream Sunset",
       "url": "https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD"
@@ -2334,6 +2352,24 @@
       "duration_ms": 105750,
       "name": "Cuban Espresso",
       "url": "https://open.spotify.com/track/018eCZOO9nxil7tpgSpGIe"
+    },
+    {
+      "album": {
+        "name": "Curated Light",
+        "url": "https://open.spotify.com/album/4P6gdXh3u8854etdrkx8O5"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212142,
+      "name": "Curated Light",
+      "url": "https://open.spotify.com/track/3IpACziWRGwdAPA4BxoUo0"
     },
     {
       "album": {
@@ -5504,7 +5540,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 112941,
       "name": "Mr Lonely",
       "url": "https://open.spotify.com/track/3vkXcpV294D0mrLIz5k1nM"
@@ -5974,7 +6010,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 183837,
       "name": "Outer circles",
       "url": "https://open.spotify.com/track/08K0FjEDRLXt3j1bjwTbcJ"
@@ -7127,6 +7163,28 @@
     },
     {
       "album": {
+        "name": "Shaken Not Stirred",
+        "url": "https://open.spotify.com/album/1NirfvwlYQldrCn3ysCp2W"
+      },
+      "artists": [
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        },
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168973,
+      "name": "Shaken Not Stirred",
+      "url": "https://open.spotify.com/track/40rMcopMxdrjTy4SnWFu7g"
+    },
+    {
+      "album": {
         "name": "A Trip Downtown",
         "url": "https://open.spotify.com/album/7hE3MCzDJt5u0QufCEV4sI"
       },
@@ -8214,7 +8272,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 141333,
       "name": "Sweet Taboo",
       "url": "https://open.spotify.com/track/40gdXSYMmhTw2TvD8J1TdY"

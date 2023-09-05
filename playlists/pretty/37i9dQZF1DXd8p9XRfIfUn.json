@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: legallyrxx",
-  "num_followers": 65769,
+  "num_followers": 65787,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ4NTdmMDI2YjhkMDE2OGM0YzEyZjc2ZTAyNTQ0NzRmZWYxZThl",
+  "snapshot_id": "MCwzYjU4NjY2MzM2NjQ2ZTcwMmU5MGU1YjFkMDA1NDdkMjFjYzFkZWI3",
   "tracks": [
     {
       "added_at": "2023-06-29 22:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Mi Fanatica",
         "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 127264,
       "name": "Uy K Raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7b37HOxDoKxFoFzHUZrUpK"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/345pDhxKVhsOcs9VEnBkLa"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "COMO TE VEO",
+        "url": "https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "COMO TE VEO",
+      "url": "https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 185988,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "COMO TE VEO",
-        "url": "https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "COMO TE VEO",
-      "url": "https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 188360,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": "2023-06-29 22:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-06-29 22:00:00",
       "album": {
+        "name": "Que Loco Mami",
+        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 176629,
+      "name": "Que Loco Mami",
+      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "added_at": "2023-06-29 22:00:00",
+      "album": {
         "name": "Tus Besos (Remix)",
         "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
       },
@@ -1191,30 +1211,6 @@
       "duration_ms": 229106,
       "name": "Tus Besos - Remix",
       "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
-    },
-    {
-      "added_at": "2023-06-29 22:00:00",
-      "album": {
-        "name": "HOR\u00d3SCOPO",
-        "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
-      },
-      "artists": [
-        {
-          "name": "Javiielo",
-          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 248659,
-      "name": "HOR\u00d3SCOPO",
-      "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

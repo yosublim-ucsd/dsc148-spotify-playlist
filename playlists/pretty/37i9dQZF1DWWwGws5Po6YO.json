@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 30542,
+  "num_followers": 30558,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDA1NjY1YzViNTkyMzNjNWE0Y2FmYTJjZGJjMzBjNWU5MzI5NDBi",
+  "snapshot_id": "MCwwNjU1YTJkNTkwMzVkNWFmYmYwZGY2NTI4N2E4MDM2ZDVlMWQ2MWQ5",
   "tracks": [
     {
       "added_at": "2023-08-21 16:25:57",
@@ -303,8 +303,8 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Love Is The Tune",
-        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 220687,
-      "name": "Love Is The Tune",
-      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
       "artists": [
         {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
+        "name": "Love Is The Tune",
+        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 220687,
+      "name": "Love Is The Tune",
+      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 285866,
       "name": "Being Her Shadow",
       "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -551,22 +535,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Withdrawal",
-      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -583,6 +551,38 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Withdrawal",
+      "url": "https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
         "name": "Grafts",
         "url": "https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 1351601,
       "name": "Grafts",
       "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+      },
+      "artists": [
+        {
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+        }
+      ],
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -631,22 +647,6 @@
       "duration_ms": 628736,
       "name": "Wawa by the Ocean",
       "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
-      },
-      "artists": [
-        {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
-        }
-      ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
         "name": "Far Within Reach",
         "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 312000,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "For Organ and Brass",
-        "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Arkbro",
-          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
-        }
-      ],
-      "duration_ms": 446000,
-      "name": "Mountain of Air",
-      "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "For Organ and Brass",
+        "url": "https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+        }
+      ],
+      "duration_ms": 446000,
+      "name": "Mountain of Air",
+      "url": "https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
+        "name": "Collagen",
+        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lerkenfeldt",
+          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "In Her Hair",
+      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
         "name": "Fountainhead",
         "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Collagen",
-        "url": "https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx"
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
       "artists": [
         {
-          "name": "Lisa Lerkenfeldt",
-          "url": "https://open.spotify.com/artist/3famB97koyRfo502IWQjFL"
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
         }
       ],
-      "duration_ms": 321693,
-      "name": "In Her Hair",
-      "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
+      "duration_ms": 266057,
+      "name": "Light in Phases",
+      "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Light in Phases",
-      "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "I'll Look For You In Others",
         "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 393479,
       "name": "I'll Look for You in Others",
       "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
         {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1463,22 +1479,6 @@
       "duration_ms": 78373,
       "name": "A Cereus Night",
       "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Epistasis",
-        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
-      },
-      "artists": [
-        {
-          "name": "Maria W Horn",
-          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
-        }
-      ],
-      "duration_ms": 571000,
-      "name": "Epistasis",
-      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Anomi",
         "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 231618,
       "name": "Night Changes Many Thoughts",
       "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Epistasis",
+        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
+      },
+      "artists": [
+        {
+          "name": "Maria W Horn",
+          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
+        }
+      ],
+      "duration_ms": 571000,
+      "name": "Epistasis",
+      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "Berlin Atonal: More Light",
-        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
-      },
-      "artists": [
-        {
-          "name": "Galya Bisengalieva",
-          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
-        }
-      ],
-      "duration_ms": 399346,
-      "name": "Aralkum",
-      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
-    },
-    {
-      "added_at": "2023-08-21 16:25:57",
-      "album": {
         "name": "Laurus",
         "url": "https://open.spotify.com/album/002PfB3V3MwL05lAvCTC6l"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 245296,
       "name": "Laurus I",
       "url": "https://open.spotify.com/track/2Ghsr0ema2mSWWAFitSttM"
+    },
+    {
+      "added_at": "2023-08-21 16:25:57",
+      "album": {
+        "name": "Berlin Atonal: More Light",
+        "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
+      },
+      "artists": [
+        {
+          "name": "Galya Bisengalieva",
+          "url": "https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh"
+        }
+      ],
+      "duration_ms": 399346,
+      "name": "Aralkum",
+      "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
     },
     {
       "added_at": "2023-08-21 16:25:57",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-08-21 16:25:57",
       "album": {
-        "name": "The Harmonic Series Volume 2",
-        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
+        "name": "Nine Spells",
+        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
       },
       "artists": [
         {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
         }
       ],
-      "duration_ms": 835000,
-      "name": "Firmamento",
-      "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
+      "duration_ms": 161194,
+      "name": "Spell I: Let the Waves In",
+      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
     }
   ],
   "unique_name": "EQUAL Ambient",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,136 songs - 2 day 10 hr 52 min
+1,137 songs - 2 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,7 +892,7 @@
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-05-16 |
 | [Schaap & Citroen](https://open.spotify.com/track/52MVSHsKwzelfcrY4UOFXa) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 2:38 | 2022-01-29 | 2022-02-19 |
 | [Schaduw](https://open.spotify.com/track/1hYUqHaKoxI9KRhWIU36LM) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Schaduw](https://open.spotify.com/album/6jRQEVs85OSaRyWWxgzltR) | 3:18 | 2021-11-28 | 2021-12-19 |
-| [Schultenbräu](https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Schultenbräu](https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu) | 3:02 | 2023-06-07 |  |
+| [Schultenbräu](https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Schultenbräu](https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu) | 3:02 | 2023-06-07 | 2023-09-05 |
 | [Schultenbräu](https://open.spotify.com/track/6t0zMT2rOSI0lKFyJmGExD) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [De Kibbelingsound](https://open.spotify.com/album/1GiQ2G7EReqJU3N2qRNsqb) | 3:02 | 2023-06-03 | 2023-06-08 |
 | [Scootertijd](https://open.spotify.com/track/7AzYfYR24g3dFRrIxKHMGF) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Luxeprobleem](https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy) | 2:19 | 2023-02-18 | 2023-02-23 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-17 |
@@ -958,6 +958,7 @@
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-18 | 2022-06-25 |
 | [Stiekem](https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Leven](https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N) | 3:23 | 2022-11-05 |  |
 | [Stop The Cavalry](https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr) | [Jona Lewie](https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB) | [Heart Skips Beat](https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n) | 2:56 | 2021-12-26 | 2021-12-29 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-12-01 |
 | [Streken Van Een Duivel](https://open.spotify.com/track/4QgREUGJJGhfBe5zDk5cC8) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Streken Van Een Duivel](https://open.spotify.com/album/0PyCM2NQEd23W5KtZKWeId) | 3:19 | 2021-11-21 | 2021-11-28 |
 | [Streken Van Een Duivel](https://open.spotify.com/track/4wIhjMTomtYhOy1GAg8SSC) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 3:19 | 2021-11-28 | 2022-03-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Larry Fleet
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,873 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147,595 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 9 | [Heart They Didn't Break](https://open.spotify.com/track/4QzoBae05AxedOwsC8cqlh) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Heart They Didn't Break](https://open.spotify.com/album/0UEl0ztfoALMXiCqjl8tvN) | 3:10 |
 | 10 | [Ride The Wave](https://open.spotify.com/track/6hTSmdJNg2kFGrNAZdkYzR) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Three Months Two Streets Down](https://open.spotify.com/album/1cr1I3hZtfMzf4EXOMk2r1) | 2:53 |
 | 11 | [Boyfriend](https://open.spotify.com/track/5F8MMujEHaI2qqmj4EcwBP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Boyfriend](https://open.spotify.com/album/56xSwVIp6AcuRrQjbbUeGz) | 2:18 |
-| 12 | [Thick As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 |
+| 12 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0NgdKtJy6pKBvWhcVuQbxd) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/4fR3GxUk6IUdNtcCOtKhIq) | 2:59 |
 | 13 | [Bigger Mistakes](https://open.spotify.com/track/1pmBuw9a3r467tlzVZj0P4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Bigger Mistakes](https://open.spotify.com/album/2uVwuhiaZ87g3vubWsYODw) | 2:59 |
 | 14 | [Could've Been Her](https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 |
 | 15 | [Red Flags](https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Red Flags](https://open.spotify.com/album/1xGyeyfEO4oEler6lHxF56) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Middle Of Nowhere Class](https://open.spotify.com/track/0hzkbUtBgEgMyfbymWuDKc) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Middle Of Nowhere Class](https://open.spotify.com/album/0zN8UMoWb3j1yIfdfjfzTE) | 3:41 |
 | 100 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 
-Snapshot ID: `MCw5NTY3ZWQxZTE0MTEzY2I5ZjM0NzQ3NGY0M2U0Yjk3ZWI5YzYzMTM2`
+Snapshot ID: `MCw4NWQ5ODI5M2U0YTRjNTFkYzgxOTc3ZGJhYjhiNTk1MzI5YzhjMjZh`

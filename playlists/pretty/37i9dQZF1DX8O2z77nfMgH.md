@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Feid
+> Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Mora
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,219 likes - 59 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,235 likes - 59 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 58 | [Vinho Escocês](https://open.spotify.com/track/6nH3inGA5qawCi8pIoHAzA) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Meu Nome Não é Igor %](https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI) | 4:22 |
 | 59 | [Praia](https://open.spotify.com/track/75JlpOk8thoMwUVr0zU47e) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Praia](https://open.spotify.com/album/3KAWgKtBr7uLyXLgaVw99C) | 3:31 |
 
-Snapshot ID: `MCw4MmYyMzk1OTg2NDUyOGQzNzI1YzVhMmRiNzk5YzRjNDRiMDEyMTYx`
+Snapshot ID: `MCxkZjgxMWU4YzhjZjkxMWRiMWEzNDVlYTM1MDVkYWE2OThjZDdjNzdk`

@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1293,
+  "num_followers": 1304,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh",
+  "snapshot_id": "MCw0OGFmNTIxNDRjNzE4OGU1MzdhODI5OTZmZDQ5ZGM4N2MxNmQ3Yzc5",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -435,6 +435,42 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Main dans la main",
+        "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        },
+        {
+          "name": "Le Groupe Ravanna",
+          "url": "https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3"
+        }
+      ],
+      "duration_ms": 304946,
+      "name": "Vir\u00e9",
+      "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Music from Mauritius",
+        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
+      },
+      "artists": [
+        {
+          "name": "Denis Azor",
+          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
+        }
+      ],
+      "duration_ms": 174497,
+      "name": "Ambalaba",
+      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "La famille",
         "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
       },
@@ -459,18 +495,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Music from Mauritius",
-        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
+        "name": "La Route Karanbol",
+        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
       },
       "artists": [
         {
-          "name": "Denis Azor",
-          "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
+          "name": "Jason Lejuste",
+          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
         }
       ],
-      "duration_ms": 174497,
-      "name": "Ambalaba",
-      "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
+      "duration_ms": 287711,
+      "name": "La Route Karanbol",
+      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -487,26 +523,6 @@
       "duration_ms": 285882,
       "name": "Sa Pa Zot Traka",
       "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Main dans la main",
-        "url": "https://open.spotify.com/album/0lizQfOuuxUcmAXNlosdsv"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        },
-        {
-          "name": "Le Groupe Ravanna",
-          "url": "https://open.spotify.com/artist/50X4qPAQVtwQGQju0NFmk3"
-        }
-      ],
-      "duration_ms": 304946,
-      "name": "Vir\u00e9",
-      "url": "https://open.spotify.com/track/20U9P7HP7tPzVMaqYjY0h3"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -571,22 +587,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La Route Karanbol",
-        "url": "https://open.spotify.com/album/1ndDvQAsYaUaDUcK7JSYJ6"
-      },
-      "artists": [
-        {
-          "name": "Jason Lejuste",
-          "url": "https://open.spotify.com/artist/1x41Q8BgCOA6QsJrYZrGG7"
-        }
-      ],
-      "duration_ms": 287711,
-      "name": "La Route Karanbol",
-      "url": "https://open.spotify.com/track/2jUcmHFWjsrwvOsvSAhzE2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Love Ambassador",
         "url": "https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 283600,
       "name": "Atrap Mo lame",
       "url": "https://open.spotify.com/track/1s2wYId2KCCnytXzgDMVWS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Fiesta Ravanna",
+        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
+      },
+      "artists": [
+        {
+          "name": "Alain Ramanisum",
+          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "Fiesta Ravanna",
+      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -643,38 +659,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "A nou santt Cassya",
-        "url": "https://open.spotify.com/album/241lyCwOGhmRLROixQD046"
-      },
-      "artists": [
-        {
-          "name": "Clarel Armelle",
-          "url": "https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2"
-        }
-      ],
-      "duration_ms": 286275,
-      "name": "Kitole",
-      "url": "https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Fiesta Ravanna",
-        "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
-      },
-      "artists": [
-        {
-          "name": "Alain Ramanisum",
-          "url": "https://open.spotify.com/artist/3mKlu8EOxqgz8FGQzhoZI1"
-        }
-      ],
-      "duration_ms": 265413,
-      "name": "Fiesta Ravanna",
-      "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Zalouzi",
         "url": "https://open.spotify.com/album/4i8Ud0mH48W6TV0lfTr6UK"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 281917,
       "name": "Madame ohh",
       "url": "https://open.spotify.com/track/30i9vsQ8x5UPsGS4oRNPaf"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "A nou santt Cassya",
+        "url": "https://open.spotify.com/album/241lyCwOGhmRLROixQD046"
+      },
+      "artists": [
+        {
+          "name": "Clarel Armelle",
+          "url": "https://open.spotify.com/artist/41OTWU0wQbtHwPDYCChtq2"
+        }
+      ],
+      "duration_ms": 286275,
+      "name": "Kitole",
+      "url": "https://open.spotify.com/track/7iWQimkoqXZcrpINhfvjuZ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -755,26 +755,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "The Best of Jean-Marc Volcy",
-        "url": "https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh"
-      },
-      "artists": [
-        {
-          "name": "Jean-Marc Volcy",
-          "url": "https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot"
-        },
-        {
-          "name": "Jany Letourdi",
-          "url": "https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3"
-        }
-      ],
-      "duration_ms": 278048,
-      "name": "Vandredi Sen",
-      "url": "https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Coul\u00e8r M\u00e9lanz\u00e9",
         "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 213531,
       "name": "To Kontan Koze",
       "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "The Best of Jean-Marc Volcy",
+        "url": "https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh"
+      },
+      "artists": [
+        {
+          "name": "Jean-Marc Volcy",
+          "url": "https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot"
+        },
+        {
+          "name": "Jany Letourdi",
+          "url": "https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3"
+        }
+      ],
+      "duration_ms": 278048,
+      "name": "Vandredi Sen",
+      "url": "https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB"
     },
     {
       "added_at": "2022-08-11 10:05:16",

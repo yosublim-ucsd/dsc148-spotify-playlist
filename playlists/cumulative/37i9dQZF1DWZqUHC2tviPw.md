@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-195 songs - 8 hr 50 min
+198 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bat Caves](https://open.spotify.com/track/4omSC1rruHivDrNEM2ugWk) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [Bat Caves](https://open.spotify.com/album/1dOhk7htVNUuZFxPIiUzcO) | 2:33 | 2022-06-24 |  |
 | [BATON ROUGE](https://open.spotify.com/track/73pgj7Xz1j16ixHEOiyZYB) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO) | [BATON ROUGE](https://open.spotify.com/album/4miX0VgpJpJqMlXz32JdSE) | 2:24 | 2022-07-29 |  |
 | [Bill It](https://open.spotify.com/track/4fLhfwGir9leGtBN742RJI) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Bill It](https://open.spotify.com/album/013JmnMUEgURcoddmus2ZR) | 2:51 | 2021-11-11 | 2022-05-14 |
+| [Blood From Stone](https://open.spotify.com/track/0riVmvUyq1neYwzVayekMe) | [7hour flower](https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK) | [Blood From Stone](https://open.spotify.com/album/2FerCnm7f3QQ3ucZ27W9y6) | 2:01 | 2023-09-04 |  |
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2021-11-11 |  |
 | [Brutal Wishes](https://open.spotify.com/track/7yM1bz379moGe4Plh82580) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Brutal Wishes](https://open.spotify.com/album/2u7BOJPweym8fbSgqOGw9k) | 2:40 | 2022-02-16 |  |
 | [Bunny Mafia](https://open.spotify.com/track/5lTmF6RDdyd45RIrDgfV22) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Bunny Mafia](https://open.spotify.com/album/2ZmJCjus4JrcC10CqvG0a5) | 1:44 | 2021-11-11 |  |
@@ -115,6 +116,7 @@
 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 | 2021-11-11 |  |
 | [New Tech](https://open.spotify.com/track/5rpI7Lcq895kc81mxWmqFm) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [New Tech](https://open.spotify.com/album/27WjV1hX9cnIkKjvcF38Hh) | 2:37 | 2022-07-01 |  |
 | [No Hate](https://open.spotify.com/track/5otKKNFJZ9uxT2IAVkC9u9) | [whaTaRWoll Music](https://open.spotify.com/artist/1Z7MTyfennQvKU2hxO5KYO) | [Wrong Game](https://open.spotify.com/album/5MMjKLaASf8ah91ou3IRtV) | 3:41 | 2021-11-11 | 2022-04-22 |
+| [No home no future](https://open.spotify.com/track/62SxyqZXXVlDAycfkS1kj1) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [No home no future](https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH) | 2:23 | 2023-09-04 |  |
 | [No Mercy](https://open.spotify.com/track/22eZmqMUw5G6pVI8qAnF4d) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Vices](https://open.spotify.com/album/6Vz3vNBiyBIQb1OJ40QRir) | 2:25 | 2022-12-09 |  |
 | [No Switch Up](https://open.spotify.com/track/1v55e29Im1Q4kox18pOE0Y) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [No Switch Up](https://open.spotify.com/album/0gNiizgVjbJ8sgchjiefvI) | 2:35 | 2022-03-29 |  |
 | [Not Enough](https://open.spotify.com/track/4mKUzggb15xw0CxE5mrmMi) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Not Enough](https://open.spotify.com/album/4fR6ne32b1qv0Mzum1UMC7) | 2:56 | 2022-04-22 |  |
@@ -158,6 +160,7 @@
 | [Sodas](https://open.spotify.com/track/1OhqSZBciNoTwXjOXMwD6h) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Sodas](https://open.spotify.com/album/4LsFnQM1zJszKESjxEkLEN) | 1:53 | 2022-08-05 |  |
 | [Sorrow](https://open.spotify.com/track/7GJQGSD9r681721nvXGAAx) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Sorrow](https://open.spotify.com/album/3u9L5MdB8Q16LWDyABClMO) | 2:34 | 2021-11-11 |  |
 | [Stack It](https://open.spotify.com/track/6Fpl9m5ihNUuNWXNkNif6i) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Giggin](https://open.spotify.com/album/5MCf2Q4N6Jolv1vOmMCpTO) | 2:36 | 2022-12-23 |  |
+| [Stardestroyer](https://open.spotify.com/track/0PVE2LWeI2sASeUpK3kTlY) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [No home no future](https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH) | 2:51 | 2023-09-04 |  |
 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 | 2021-11-11 |  |
 | [Step Back](https://open.spotify.com/track/5KimoSVW5m1tFROfAFlQHr) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Pressure Cooker](https://open.spotify.com/album/6rvGcpNWu5wZi3BkCt5Byq) | 2:30 | 2021-11-11 |  |
 | [Step Up](https://open.spotify.com/track/6lfBScufvQpMszD2FCHHb1) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Step Up](https://open.spotify.com/album/1gwHWOeTU43i1xkVS97HJE) | 2:48 | 2022-04-22 | 2022-07-15 |

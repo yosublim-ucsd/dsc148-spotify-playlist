@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2491951,
+  "num_followers": 2492810,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzViZjUyZjgwNzZkNTkzZTQyNzU3ZTBlNTNkNDZhMWYxYWY2YjQz",
+  "snapshot_id": "MCxmMDBmNTg3ZDM4MWE3MTU5NGQ5ZTVlNTA0ODVmYmY5MjFjYjVlY2Nk",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Drinkin'",
+        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149545,
+      "name": "Drinkin'",
+      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Everything You Have Done (Meduza Edit)",
         "url": "https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe"
       },
@@ -1363,30 +1387,6 @@
       "duration_ms": 213800,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Drinkin'",
-        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149545,
-      "name": "Drinkin'",
-      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Call Your Name",
+        "url": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 170976,
+      "name": "Call Your Name",
+      "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Upside Down (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm"
       },
@@ -1499,22 +1519,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Call Your Name",
-        "url": "https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO"
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         },
         {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 170976,
-      "name": "Call Your Name",
-      "url": "https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA"
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1539,26 +1559,6 @@
       "duration_ms": 175748,
       "name": "Something To Hold On To (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Genesys",
         "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 186240,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/1GBBbKOarAJ38HwIfLcOji"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1835,26 +1835,6 @@
       "duration_ms": 180638,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1899,26 +1879,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 189783,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1947,6 +1923,30 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4b2rlKIqyLxpxoIaG7sZ5K"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Off The Ground",
         "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
       },
@@ -2479,6 +2463,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -2523,26 +2523,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 225518,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Won't Forget You (Remixes)",
         "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
       },
@@ -2559,6 +2539,26 @@
       "duration_ms": 184888,
       "name": "Won't Forget You (Felix Jaehn Remix Edit)",
       "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 225518,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6"
     },
     {
       "added_at": "2023-09-01 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Soham, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,243 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,264 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 |
 | 100 | [Kahaniyan](https://open.spotify.com/track/1SGCQ0EQgvJD6PmU31ibXE) | [Ashwani Machal](https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6) | [Kahaniyan](https://open.spotify.com/album/1psZjt7cpnZloQF5CrHrC4) | 3:01 |
 
-Snapshot ID: `MCw1MjVmZmM0MGMxODBmODg1MmJiM2U4N2Q0MjY0ZTBjOTYxOTQwY2Rk`
+Snapshot ID: `MCxhZGJkNmRlZTNkMzYxMjZhMjI3MjUzYzM5YjZlMTg2ODU3NGNkOGFj`

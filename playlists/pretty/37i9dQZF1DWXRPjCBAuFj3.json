@@ -1,12 +1,12 @@
 {
   "description": "Il rap pi\u00f9 forte del mondo in una sola playlist. Cover: Travis Scott",
-  "num_followers": 205883,
+  "num_followers": 205971,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWExZDA0NGVjMWM0ZDhjNjQ3OWIxZWQ2YjgyZWI2OTVjNjQ5ZTA5",
+  "snapshot_id": "MCxjNTY5Y2Y4YWZmYTFkNDdiNzMyZTllMDZkYzlmOTU2OGFiNjFhNDY0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:01:00",
@@ -167,18 +167,26 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Roisee",
+          "url": "https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY"
         }
       ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+      "duration_ms": 256026,
+      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+      "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -195,6 +203,54 @@
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Barely Holdin' On",
+        "url": "https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "Barely Holdin' On",
+      "url": "https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -219,46 +275,6 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Barely Holdin' On",
-        "url": "https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Barely Holdin' On",
-      "url": "https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Roisee",
-          "url": "https://open.spotify.com/artist/5pCGvSxNNUcddlRrG0wsrY"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
-      "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -323,38 +339,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -367,6 +351,30 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -391,22 +399,18 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 275280,
-      "name": "On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -423,6 +427,26 @@
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -483,42 +507,18 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "K-POP",
-        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
       "artists": [
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "It's Getting Hot",
-        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 134424,
-      "name": "It's Getting Hot",
-      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+      "duration_ms": 243836,
+      "name": "goosebumps",
+      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "It's Getting Hot",
+        "url": "https://open.spotify.com/album/5c96P3dSu3UIgrGhIaE7RO"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 134424,
+      "name": "It's Getting Hot",
+      "url": "https://open.spotify.com/track/4lMyi03aRk8nPBLLGyqAVz"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 243836,
-      "name": "goosebumps",
-      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "HVN ON EARTH",
+        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "HVN ON EARTH",
-        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "RIOT (Rowdy Pipe'n)",
-        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         },
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 189011,
-      "name": "RIOT (Rowdy Pipe'n)",
-      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
+      "duration_ms": 187057,
+      "name": "Eurostar (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+        "name": "RIOT (Rowdy Pipe'n)",
+        "url": "https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 187057,
-      "name": "Eurostar (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
+      "duration_ms": 189011,
+      "name": "RIOT (Rowdy Pipe'n)",
+      "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1163,34 +1163,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "SUPPOSED TO BE LOVED",
-        "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 206972,
-      "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Rien 100 Rien",
         "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
       },
@@ -1219,6 +1191,34 @@
       "duration_ms": 113292,
       "name": "They Don't Love It",
       "url": "https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "SUPPOSED TO BE LOVED",
+        "url": "https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 206972,
+      "name": "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1255,62 +1255,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "There I Go (feat. J. Cole & Mike WiLL Made-It)",
         "url": "https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub"
       },
@@ -1331,6 +1275,62 @@
       "duration_ms": 172375,
       "name": "There I Go (feat. J. Cole & Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Sremm 4 Life",
-        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 198904,
-      "name": "Not So Bad (Leans Gone Cold)",
-      "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Underrated",
         "url": "https://open.spotify.com/album/5GnCVEvwaFZPogirSgrrtv"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 128014,
       "name": "Onna Come Up",
       "url": "https://open.spotify.com/track/0e4A9Fak1nJ7RtBD8YpoEo"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Sremm 4 Life",
+        "url": "https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 198904,
+      "name": "Not So Bad (Leans Gone Cold)",
+      "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Booty Drop",
+        "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Booty Drop",
+      "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 178950,
       "name": "06 Gucci (feat. DaBaby & 21 Savage)",
       "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Booty Drop",
-        "url": "https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Booty Drop",
-      "url": "https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 283196,
       "name": "To The Bone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "Kat Food",
+        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 286579,
+      "name": "Kat Food",
+      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "PARTy T1M3",
         "url": "https://open.spotify.com/album/6VotQVuZoj18qim1zAcvQA"
       },
@@ -1963,18 +1979,22 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
-        "name": "Kat Food",
-        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
+        "name": "Don\u2019t Lie (feat. Nemzzz)",
+        "url": "https://open.spotify.com/album/7bzUwFGHev9gNvoFaQVXYa"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
         }
       ],
-      "duration_ms": 286579,
-      "name": "Kat Food",
-      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
+      "duration_ms": 138591,
+      "name": "Don\u2019t Lie (feat. Nemzzz)",
+      "url": "https://open.spotify.com/track/6tgfPk01WoB2cK78rDEq2m"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -1995,26 +2015,6 @@
       "duration_ms": 175933,
       "name": "Location",
       "url": "https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "Don\u2019t Lie (feat. Nemzzz)",
-        "url": "https://open.spotify.com/album/7bzUwFGHev9gNvoFaQVXYa"
-      },
-      "artists": [
-        {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
-        },
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "Don\u2019t Lie (feat. Nemzzz)",
-      "url": "https://open.spotify.com/track/6tgfPk01WoB2cK78rDEq2m"
     },
     {
       "added_at": "2023-09-01 04:01:00",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2023-09-01 04:01:00",
       "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2"
+    },
+    {
+      "added_at": "2023-09-01 04:01:00",
+      "album": {
         "name": "Stop Breathing",
         "url": "https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe"
       },
@@ -2123,26 +2143,6 @@
       "duration_ms": 186306,
       "name": "Namek",
       "url": "https://open.spotify.com/track/6jPAK56E7OVmVzZeriu94p"
-    },
-    {
-      "added_at": "2023-09-01 04:01:00",
-      "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Nines",
-          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2"
     },
     {
       "added_at": "2023-09-01 04:01:00",

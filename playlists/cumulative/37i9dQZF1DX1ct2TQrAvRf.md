@@ -4,7 +4,7 @@
 
 > Best of Hip\-Hop from India\. Cover\- MC Square
 
-100 songs - 5 hr 38 min
+102 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-27 | 2023-07-18 |
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2023-03-27 |  |
 | [Beta Karta Rap](https://open.spotify.com/track/5yVIHCJRdQNyIQa4sOrsW5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 3:20 | 2023-06-09 | 2023-08-04 |
+| [Bread And Butter](https://open.spotify.com/track/3DobnqNHraZV31RycNkFBF) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:39 | 2023-09-04 |  |
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-07-17 |  |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-27 | 2023-07-22 |
 | [Chal Bombay](https://open.spotify.com/track/6AooRgSRDzbCYL4NZ4RCjU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/0XDtCjokUgSrL527Ftk0xE) | 2:54 | 2023-03-27 | 2023-06-02 |
@@ -102,6 +103,7 @@
 | [Snake](https://open.spotify.com/track/0MYof8K1RPjc1Htnr7CDa6) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Snake](https://open.spotify.com/album/6We7h51iTPzUEF03P8RVNd) | 4:41 | 2023-04-19 |  |
 | [Soch](https://open.spotify.com/track/38F8BE500Tybqd3jrzp5Av) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Soch](https://open.spotify.com/album/0lQ9GvffDL17ufwTEqA7gm) | 2:36 | 2023-03-27 | 2023-07-18 |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-06-01 |  |
+| [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 |  |
 | [Sunn Na](https://open.spotify.com/track/7b8BHkjW0vfgT54yXp0Lvn) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Sunn Na](https://open.spotify.com/album/7ghJOs6RjHWSl4nuqYi1v8) | 2:51 | 2023-03-27 | 2023-08-18 |
 | [Systumm](https://open.spotify.com/track/3cBFnVztvQnMcPcIgipLTV) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Systumm](https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK) | 2:34 | 2023-08-17 |  |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-27 |  |

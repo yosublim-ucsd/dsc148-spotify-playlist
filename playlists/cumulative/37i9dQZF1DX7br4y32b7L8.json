@@ -3983,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/66q7bYDHdyVIvFvsrh6COm"
       },
@@ -4184,6 +4202,24 @@
       "duration_ms": 212459,
       "name": "Thrill",
       "url": "https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG"
+    },
+    {
+      "album": {
+        "name": "Toverdrank",
+        "url": "https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140931,
+      "name": "Toverdrank",
+      "url": "https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5"
     },
     {
       "album": {

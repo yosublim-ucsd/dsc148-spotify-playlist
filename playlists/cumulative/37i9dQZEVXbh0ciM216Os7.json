@@ -530,7 +530,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2qWOTKZpovfDaiqfwa78G5"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 210672,
       "name": "Do You Remember Country Music",
       "url": "https://open.spotify.com/track/7CFK4WaCuILEyCuBxjAM4W"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 137945,
       "name": "Harlem World 97 (feat. Estelle)",
       "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
@@ -4926,7 +4926,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 295544,
       "name": "Honeymoon Avenue - Live from London",
       "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
@@ -5501,6 +5501,28 @@
     },
     {
       "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242016,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2AHB69HbFGTZu086ELZXdw"
+    },
+    {
+      "album": {
         "name": "In The Joy (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/7jf5ctiKWBPBQ6vNrRTI7B"
       },
@@ -5904,7 +5926,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 194962,
       "name": "Keep It Rising",
       "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
@@ -6010,7 +6032,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 155668,
       "name": "Koala",
       "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
@@ -6076,7 +6098,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 185412,
       "name": "Last a While",
       "url": "https://open.spotify.com/track/2J9WyRYiN97tceXPTXHF1u"
@@ -6886,7 +6908,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 208600,
       "name": "METALI!! - feat. Tom Morello",
       "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
@@ -7388,7 +7410,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 273626,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
@@ -7970,7 +7992,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 236111,
       "name": "Online Shopping",
       "url": "https://open.spotify.com/track/4zLpNVPiZ1Gpr9T0MqKbZx"
@@ -8036,7 +8058,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 183157,
       "name": "Painted Houses (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
@@ -10002,7 +10024,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 172981,
       "name": "Stimulation - Audiotree Live version",
       "url": "https://open.spotify.com/track/0HjsxcdrfdR2X7oC9DSWTQ"
@@ -11162,7 +11184,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 213694,
       "name": "The Way - Live from London (feat. Mac Miller)",
       "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
@@ -11184,7 +11206,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 173557,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/4xRXYFnpN6gRyHXXH9N0wC"
@@ -12698,7 +12720,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 293122,
       "name": "Witchcraft (feat. Robert Glasper)",
       "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"

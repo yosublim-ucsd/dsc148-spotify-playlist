@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 44958,
+  "num_followers": 45234,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 205299,
       "name": "As\u00ed Lo Quiso Dios",
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -367,22 +351,18 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+      "duration_ms": 226821,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -423,18 +403,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -451,6 +435,22 @@
       "duration_ms": 255401,
       "name": "Si Es Posible",
       "url": "https://open.spotify.com/track/1uQhUupvikvunqykML6NPd"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 177249,
       "name": "Como Que Me Enamoro - En Vivo",
       "url": "https://open.spotify.com/track/7eXKLWZeQdMDBzGZvpAvr7"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -731,22 +731,18 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Summer School Mixtape, Vol. 1",
-        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
+        "name": "MMXX's",
+        "url": "https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 194002,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
+      "duration_ms": 179583,
+      "name": "MMXX's",
+      "url": "https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -767,6 +763,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Andamos En El Ruedo",
         "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
@@ -783,34 +795,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "MMXX's",
-        "url": "https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY"
+        "name": "Summer School Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 179583,
-      "name": "MMXX's",
-      "url": "https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
         {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+      "duration_ms": 194002,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "80% M\u00edo",
+        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Me Hace Tanto Bien",
         "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "80% M\u00edo",
-        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
+        "name": "Mi Princesa",
+        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "Espero Con Ansias",
+      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
         "name": "Limerencia",
         "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 186118,
       "name": "Permiteme",
       "url": "https://open.spotify.com/track/3GWCtaYw4KnDv7VRl5ywRJ"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Mi Princesa",
-        "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "Espero Con Ansias",
-      "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
         "name": "Es Amor",
         "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
       },
@@ -1111,38 +1095,6 @@
       "duration_ms": 164933,
       "name": "Es Amor",
       "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "Sin Sentimientos",
-        "url": "https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP"
-      },
-      "artists": [
-        {
-          "name": "Design\u00f3",
-          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
-        }
-      ],
-      "duration_ms": 178431,
-      "name": "Quiero Darte",
-      "url": "https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF"
-    },
-    {
-      "added_at": "2023-07-05 22:15:45",
-      "album": {
-        "name": "El Problema",
-        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "15 Besos",
-      "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1163,18 +1115,50 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Perfecta En Mis Ojos",
-        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
+        "name": "El Problema",
+        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
       },
       "artists": [
         {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 165745,
-      "name": "Perfecta En Mis Ojos",
-      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
+      "duration_ms": 201818,
+      "name": "15 Besos",
+      "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Junto A Ti",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A Ti",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Sin Sentimientos",
+        "url": "https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP"
+      },
+      "artists": [
+        {
+          "name": "Design\u00f3",
+          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
+        }
+      ],
+      "duration_ms": 178431,
+      "name": "Quiero Darte",
+      "url": "https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-07-05 22:15:45",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+        "name": "Perfecta En Mis Ojos",
+        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
         }
       ],
-      "duration_ms": 152874,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/2CXEL46i2dMqQrcDtXl6jS"
+      "duration_ms": 165745,
+      "name": "Perfecta En Mis Ojos",
+      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
     },
     {
       "added_at": "2023-07-05 22:15:45",
@@ -1223,6 +1207,22 @@
       "duration_ms": 212720,
       "name": "Lo Que Te Amo",
       "url": "https://open.spotify.com/track/2IqNbflEkshezwf3F814H8"
+    },
+    {
+      "added_at": "2023-07-05 22:15:45",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/2CXEL46i2dMqQrcDtXl6jS"
     },
     {
       "added_at": "2023-07-05 22:15:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima e Ana Castela, Luísa Sonza, MC IG, Péricles e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,911,888 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,364 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Hey Baby](https://open.spotify.com/track/0ZX1bxYtFUenUaS1qDFdDP) | [LEO PICON](https://open.spotify.com/artist/45TcI7iDzGzBpe6YTQMEZ2), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Hey Baby](https://open.spotify.com/album/2wRwEduAaPPz34xIvXYG8y) | 2:49 |
 | 99 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 
-Snapshot ID: `MCwwNzk3ZmRjNDlmZDEyMWEwN2E0OTEzOWVlMDg1MDI4YzExNTk1OTVh`
+Snapshot ID: `MCwxZDFkMTc5ZWZkOWM2OTFjZGYyN2Y1NDA1ZjBmMGFhZTcyMzlhNTEx`

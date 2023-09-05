@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUAh5YAbsFlY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUAh5YAbsFlY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUAh5YAbsFlY)
 
-### [The Dancing Wanderers \(댄스가수 유랑단\)](https://open.spotify.com/playlist/37i9dQZF1DWUAh5YAbsFlY)
+### [Dancing Queens On The Road \(댄스가수유랑단\)](https://open.spotify.com/playlist/37i9dQZF1DWUAh5YAbsFlY)
 
-> Listen to the soundtracks of the show The Dancing Wanderers\. \(댄스가수 유랑단의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 노래들도 들어보실 수 있습니다.\)
+> Listen to the soundtracks of the show Dancing Queens On The Road\. \(댄스가수 유랑단의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 노래들도 들어보실 수 있습니다.\)
 
 53 songs - 2 hr 45 min
 

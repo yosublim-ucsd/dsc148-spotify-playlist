@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53824,
+  "num_followers": 53821,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2",
+  "snapshot_id": "MCwwNzBhNDgxZTFiZDJiMzNjYWQwOTk5N2Q5MmI4ZjA2NjNkN2Q2Zjg0",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -167,26 +167,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
-        }
-      ],
-      "duration_ms": 480546,
-      "name": "You Know My Name",
-      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        }
+      ],
+      "duration_ms": 480546,
+      "name": "You Know My Name",
+      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Bishop Paul Morton - Let It Rain",
         "url": "https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq"
       },
@@ -419,6 +435,22 @@
       "duration_ms": 509466,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Free To Worship",
+        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "This Is The Day",
+      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -439,22 +471,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 338466,
       "name": "Risen",
       "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Free To Worship",
-        "url": "https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "This Is The Day",
-      "url": "https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 471573,
-      "name": "Your Spirit",
-      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Road to DeMaskUs",
         "url": "https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 471573,
+      "name": "Your Spirit",
+      "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
-      },
-      "artists": [
-        {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "He Paid It All",
-      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "He Paid It All",
+      "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Then Sings My Soul",
-        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 337440,
-      "name": "He Didn't Have To Do It",
-      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Then Sings My Soul",
+        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 337440,
+      "name": "He Didn't Have To Do It",
+      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "The Ultimate Playlist",
         "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
       },
@@ -1375,26 +1375,6 @@
       "duration_ms": 250160,
       "name": "I Need You Now",
       "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Common Hymnal (Live)",
-        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Justin Gray",
-          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
-        }
-      ],
-      "duration_ms": 471217,
-      "name": "The Cross Made the Change - Live",
-      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Common Hymnal (Live)",
+        "url": "https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Justin Gray",
+          "url": "https://open.spotify.com/artist/3rvv9yt2IG7xESozkHcrLR"
+        }
+      ],
+      "duration_ms": 471217,
+      "name": "The Cross Made the Change - Live",
+      "url": "https://open.spotify.com/track/6h1yHgyZgOtmFNA3iN5yuH"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "The Essential Fred Hammond",
         "url": "https://open.spotify.com/album/4tjopW7OcRx04doP9Pgke7"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 244653,
       "name": "Celebrate (He Lives)",
       "url": "https://open.spotify.com/track/1HK61zJJWpppOHE7jZQwYm"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Conqueror",
+        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 123426,
+      "name": "For the Love of the People",
+      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1507,22 +1523,6 @@
       "duration_ms": 356209,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/740Q0J6Pvt1EPqDEidQm1E"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Conqueror",
-        "url": "https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 123426,
-      "name": "For the Love of the People",
-      "url": "https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+      },
+      "artists": [
+        {
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+        }
+      ],
+      "duration_ms": 450840,
+      "name": "Cherish The Cross",
+      "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Live In Detroit II (Video)",
         "url": "https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 545000,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
     }
   ],
   "unique_name": "Easter Gospel",

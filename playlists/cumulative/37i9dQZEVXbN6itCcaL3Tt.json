@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -8766,7 +8766,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
@@ -8936,7 +8936,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -10622,7 +10622,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -11884,6 +11884,24 @@
       "duration_ms": 144000,
       "name": "jeste\u015b najlepszy/najlepsza",
       "url": "https://open.spotify.com/track/6WXhaR3UywQ9sNubdXZ86M"
+    },
+    {
+      "album": {
+        "name": "JESTE\u015a POJ384NA",
+        "url": "https://open.spotify.com/album/2wDd5ryRngVm0jP8qdomKU"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "JESTE\u015a POJ384NA",
+      "url": "https://open.spotify.com/track/4hQiZwoaAVRmxdXdzwYpRa"
     },
     {
       "album": {
@@ -22120,7 +22138,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 151583,
       "name": "P\u0141YTA NIE SIADA",
       "url": "https://open.spotify.com/track/7pOPalLvSy6nrDNwnHQsoB"
@@ -25820,7 +25838,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 215453,
       "name": "To co masz Ty!",
       "url": "https://open.spotify.com/track/5GdFPcbGDQqtbVO2jl6Ez5"
@@ -27314,7 +27332,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 137999,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"

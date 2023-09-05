@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Claptone.",
-  "num_followers": 1865224,
+  "num_followers": 1865643,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWFlZTJiNjY0ZWEzYTgwZjkxNjgzYjA4MDlhZjgyOTU4MmVhYmEy",
+  "snapshot_id": "MCxkMDhiNGE1NmUxMTBiM2JkOTIwODIzNzdhOGQwNjI1MDNmZGVhZTUz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Billie (loving arms)",
+        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 217265,
+      "name": "Billie (loving arms)",
+      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Billie (loving arms)",
-        "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 217265,
-      "name": "Billie (loving arms)",
-      "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Fell In Luv",
+        "url": "https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Fell In Luv",
+      "url": "https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Got Time For Me (with Channel Tres)",
         "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
       },
@@ -1583,26 +1603,6 @@
       "duration_ms": 195452,
       "name": "Your Mother",
       "url": "https://open.spotify.com/track/2ICEB6VvX5OAGTxwo6F55t"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Fell In Luv",
-        "url": "https://open.spotify.com/album/16BgVS1U2T7UvDmewU2t5m"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Fell In Luv",
-      "url": "https://open.spotify.com/track/5G7DvsOLvNE5HTVmJJyo6K"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 217708,
+      "name": "If Love Is A Skill",
+      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/2nBnSn82VCM4k19bmD9h4a"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 202800,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 217708,
-      "name": "If Love Is A Skill",
-      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Capoeira Mata Um (Zum Zum Zum)",
-        "url": "https://open.spotify.com/album/5lQLZNV76a34Md7qojyO2s"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        }
-      ],
-      "duration_ms": 172175,
-      "name": "Capoeira Mata Um (Zum Zum Zum)",
-      "url": "https://open.spotify.com/track/7rriLHw4KHgWQnKY5vR2fw"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "The Sea",
         "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 190720,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Capoeira Mata Um (Zum Zum Zum)",
+        "url": "https://open.spotify.com/album/5lQLZNV76a34Md7qojyO2s"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 172175,
+      "name": "Capoeira Mata Um (Zum Zum Zum)",
+      "url": "https://open.spotify.com/track/7rriLHw4KHgWQnKY5vR2fw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 195241,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/2BbSWQGVeRWeJQtByWRxOm"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/4stpA04LZHBCx3YejNdodF"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Downstream",
         "url": "https://open.spotify.com/album/0brBvk7cCEKV8merp6uy8Z"
       },
@@ -2007,6 +1987,46 @@
       "duration_ms": 175179,
       "name": "Downstream",
       "url": "https://open.spotify.com/track/0XfRQzFsLzWuVeJh3iX5Tw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 157212,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/2BbSWQGVeRWeJQtByWRxOm"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4stpA04LZHBCx3YejNdodF"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2063,26 +2083,6 @@
       "duration_ms": 191408,
       "name": "Throw Your Hands",
       "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IVvaU7Jcv9fikTipL141a"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 157212,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/0mlT36UaCBdLk3eWBf1xP2"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2235,22 +2235,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "All The Girls",
-        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
+        "name": "Bucovina 2023",
+        "url": "https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm"
       },
       "artists": [
         {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         },
         {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+          "name": "Shantel",
+          "url": "https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA"
         }
       ],
-      "duration_ms": 197254,
-      "name": "All The Girls",
-      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+      "duration_ms": 187205,
+      "name": "Bucovina 2023",
+      "url": "https://open.spotify.com/track/0gCbPAMhtXptfzsUCac5La"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2271,6 +2271,46 @@
       "duration_ms": 171670,
       "name": "Take My Hand (feat. Josh Barry)",
       "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "All The Girls",
+        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "All The Girls",
+      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2347,42 +2387,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Lady (Hear Me Tonight)",
-        "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
+        "name": "Stars (feat. Steve Winwood)",
+        "url": "https://open.spotify.com/album/1bBHCZYXWRAsms3zk0ecaU"
       },
       "artists": [
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
         },
         {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Bucovina 2023",
-        "url": "https://open.spotify.com/album/6bXo2rgz9XgOZEaSctxNDm"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Shantel",
-          "url": "https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA"
-        }
-      ],
-      "duration_ms": 187205,
-      "name": "Bucovina 2023",
-      "url": "https://open.spotify.com/track/0gCbPAMhtXptfzsUCac5La"
+      "duration_ms": 157187,
+      "name": "Stars (feat. Steve Winwood)",
+      "url": "https://open.spotify.com/track/1YQ7HRuo0LwRcWab3IaDJc"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -2407,30 +2427,6 @@
       "duration_ms": 181625,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Move Your Body (feat. Moxie Knox)",
-        "url": "https://open.spotify.com/album/6yWax0Ay0UMS5CXJquubSu"
-      },
-      "artists": [
-        {
-          "name": "Will Clarke",
-          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
-        },
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Moxie Knox",
-          "url": "https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj"
-        }
-      ],
-      "duration_ms": 190625,
-      "name": "Move Your Body (feat. Moxie Knox)",
-      "url": "https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8"
     }
   ],
   "unique_name": "Housewerk",

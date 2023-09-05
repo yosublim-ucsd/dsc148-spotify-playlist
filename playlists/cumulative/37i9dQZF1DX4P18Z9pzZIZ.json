@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 144003,
       "name": "All Of Me (Do For Love)",
       "url": "https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc"
@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 166000,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 186046,
       "name": "COULD BE WRONG",
       "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 178285,
       "name": "Giving Me - Symmetrik Remix",
       "url": "https://open.spotify.com/track/4LT65C6Ph9ZDj57luHC4HB"
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
@@ -1340,6 +1358,24 @@
       "duration_ms": 200299,
       "name": "It's Ours - Short Mix",
       "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
+    },
+    {
+      "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "album": {
@@ -1664,7 +1700,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 170437,
       "name": "messy in heaven",
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
@@ -1712,7 +1748,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -2366,10 +2402,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 242769,
       "name": "Stars On The Roof (feat. MoMo)",
       "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
       "album": {
@@ -2450,7 +2504,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 157040,
       "name": "The Cure & The Cause - Radio Edit",
       "url": "https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm"
@@ -2564,7 +2618,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 146000,
       "name": "Twust",
       "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
@@ -2750,6 +2804,28 @@
       "duration_ms": 218015,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/4p1hTT29zIfPbf8XVO1nHQ"
+    },
+    {
+      "album": {
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4P18Z9pzZIZ"

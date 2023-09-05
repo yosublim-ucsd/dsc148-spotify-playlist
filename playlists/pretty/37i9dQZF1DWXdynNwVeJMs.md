@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: John Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,092 likes - 81 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,113 likes - 81 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 80 | [Birdman](https://open.spotify.com/track/06CZmASsue66Gkp269Rqld) | [Hachoo](https://open.spotify.com/artist/63YSIh9PBCZZUzZWAJoidv) | [On a Thin Rope with a Shaky Smile](https://open.spotify.com/album/11fDYTospHQX82R2IKQFcj) | 5:05 |
 | 81 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 
-Snapshot ID: `MCw0NWU5MjE0MWE1MGNjYmRkYjcxNTE3MjVhOTBhZjRkNDMzMThkOGE3`
+Snapshot ID: `MCxhMWI3OGRmZDIzMjkxY2RhMzE5OTA4ZGJkMWFkZjAzOWE4MTEyYWUz`

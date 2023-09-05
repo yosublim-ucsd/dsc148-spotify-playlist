@@ -1,12 +1,12 @@
 {
-  "description": "Disfruta de los mejores \u00e9xitos relajantes m\u00e1s recientes.",
-  "num_followers": 8791363,
+  "description": "Kick back to the best new and recent chill hits.",
+  "num_followers": 8792919,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjRjZWExZGE5NTU3ZDZiOTE4NjgzMDg0OWM0NTRkYzZhMmUyNzgx",
+  "snapshot_id": "MCxhODM2NWYzMTE5YzkyNGM2MDU1Zjk2OGY3NzgzZGExY2MzMGRhZWM5",
   "tracks": [
     {
       "added_at": "2023-08-25 04:01:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 191185,
+      "name": "Used To Be Young",
+      "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -687,22 +703,6 @@
       "duration_ms": 120308,
       "name": "this is what falling in love feels like",
       "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 191185,
-      "name": "Used To Be Young",
-      "url": "https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -975,38 +975,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Feel Something (Deluxe)",
-        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 228442,
-      "name": "Happiest Year",
-      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -1043,6 +1011,38 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Feel Something (Deluxe)",
+        "url": "https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 228442,
+      "name": "Happiest Year",
+      "url": "https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "That Part",
-        "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 174052,
-      "name": "That Part",
-      "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "That Part",
+        "url": "https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 174052,
+      "name": "That Part",
+      "url": "https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 241595,
-      "name": "Let Somebody Go",
-      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1379,18 +1375,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+      "duration_ms": 241595,
+      "name": "Let Somebody Go",
+      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 187813,
+      "name": "How Could You",
+      "url": "https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "How Could You",
-      "url": "https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "WITHOUT YOU (with Miley Cyrus)",
-        "url": "https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 161384,
-      "name": "WITHOUT YOU (with Miley Cyrus)",
-      "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "WITHOUT YOU (with Miley Cyrus)",
+        "url": "https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 161384,
+      "name": "WITHOUT YOU (with Miley Cyrus)",
+      "url": "https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Visiting Hours",
+      "url": "https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
         "name": "Lonely (with benny blanco)",
         "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk"
       },
@@ -1947,38 +1963,6 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Visiting Hours",
-      "url": "https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 187940,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
+      "duration_ms": 172597,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2039,18 +2023,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
       },
       "artists": [
         {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
+      "duration_ms": 187940,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2071,22 +2055,18 @@
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 136000,
+      "name": "WFM",
+      "url": "https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -2119,6 +2099,26 @@
       "duration_ms": 210213,
       "name": "Leaving My Love Behind",
       "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-08-25 04:01:00",

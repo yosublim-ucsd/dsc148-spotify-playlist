@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 559845,
+  "num_followers": 561214,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODc1MTY0M2Y4ZjM3ZmJmMGY3MzE5ZWUyODNiNmM1YzQzMzYyYmYx",
+  "snapshot_id": "MCw5ZTBmMzQ4ZDE3NDAwNzU5MGY4MTQzZGUyNmMzMWEyMDY5M2RkMGY2",
   "tracks": [
     {
       "added_at": "2023-08-22 17:55:57",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Step Back!",
-        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 150674,
-      "name": "Step Back!",
-      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "I'm Only a Fool for You",
         "url": "https://open.spotify.com/album/5FCGsaqNKaYRPkqGCLcefN"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 61175,
       "name": "I'm Only a Fool for You",
       "url": "https://open.spotify.com/track/5yfnAsPrvrjiLOhWFycNP4"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "Step Back!",
+        "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 150674,
+      "name": "Step Back!",
+      "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "IFeelLikeDirt",
-        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 75428,
-      "name": "AirplaneMode",
-      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "IFeelLikeDirt",
+        "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 75428,
+      "name": "AirplaneMode",
+      "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -487,6 +487,30 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
+        "name": "MISA MISA!",
+        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
+        {
+          "name": "Scarlxrd",
+          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 85894,
+      "name": "MISA MISA!",
+      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
         "name": "\u602a\u7269",
         "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
       },
@@ -515,30 +539,6 @@
       "duration_ms": 250973,
       "name": "Kyouran Hey Kids!!",
       "url": "https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "MISA MISA!",
-        "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
-        {
-          "name": "Scarlxrd",
-          "url": "https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr"
-        },
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 85894,
-      "name": "MISA MISA!",
-      "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -753,26 +753,6 @@
       "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
-      "added_at": "2023-08-29 17:52:44",
-      "album": {
-        "name": "POPTHATRUNK",
-        "url": "https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "POPTHATRUNK",
-      "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
-    },
-    {
       "added_at": "2023-08-22 17:55:57",
       "album": {
         "name": "C'est La Vie",
@@ -799,22 +779,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Killin' On Demand",
-        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 129196,
-      "name": "Killin' On Demand",
-      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "Red Teenage Melody",
         "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
       },
@@ -827,6 +791,26 @@
       "duration_ms": 271413,
       "name": "Still Cold / Pathway Private",
       "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
+    },
+    {
+      "added_at": "2023-08-29 17:52:44",
+      "album": {
+        "name": "POPTHATRUNK",
+        "url": "https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        },
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "POPTHATRUNK",
+      "url": "https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -863,6 +847,22 @@
       "duration_ms": 115099,
       "name": "Kujo Freestyle",
       "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "Killin' On Demand",
+        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 129196,
+      "name": "Killin' On Demand",
+      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "Feeling of Unity",
-        "url": "https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY"
-      },
-      "artists": [
-        {
-          "name": "Fear, and Loathing in Las Vegas",
-          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Let Me Hear",
-      "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "V-12",
         "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 140460,
       "name": "V-12",
       "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "Feeling of Unity",
+        "url": "https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY"
+      },
+      "artists": [
+        {
+          "name": "Fear, and Loathing in Las Vegas",
+          "url": "https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Let Me Hear",
+      "url": "https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "BLACKED OUT",
-        "url": "https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ"
-      },
-      "artists": [
-        {
-          "name": "777villain",
-          "url": "https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7"
-        }
-      ],
-      "duration_ms": 133392,
-      "name": "BLACKED OUT",
-      "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "paranoia agent",
         "url": "https://open.spotify.com/album/6fLqeT8Z5Vkq84Kfw0o8I7"
       },
@@ -1139,6 +1123,38 @@
       "duration_ms": 177831,
       "name": "paranoia agent",
       "url": "https://open.spotify.com/track/2xu7cNiSsc4MbJRuzQxNxb"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "BLACKED OUT",
+        "url": "https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ"
+      },
+      "artists": [
+        {
+          "name": "777villain",
+          "url": "https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7"
+        }
+      ],
+      "duration_ms": 133392,
+      "name": "BLACKED OUT",
+      "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "I'm Toxic",
+        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 116323,
+      "name": "I'm Toxic",
+      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-08-22 17:55:57",
       "album": {
-        "name": "I'm Toxic",
-        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 116323,
-      "name": "I'm Toxic",
-      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
         "name": "OLIVIA",
         "url": "https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV"
       },
@@ -1207,26 +1207,6 @@
       "duration_ms": 143587,
       "name": "OLIVIA",
       "url": "https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY"
-    },
-    {
-      "added_at": "2023-08-22 17:55:57",
-      "album": {
-        "name": "SHOTGUN",
-        "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
-      },
-      "artists": [
-        {
-          "name": "SXULCVTCHER",
-          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
-        },
-        {
-          "name": "Ethan Ross",
-          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
-        }
-      ],
-      "duration_ms": 86400,
-      "name": "SHOTGUN",
-      "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
     },
     {
       "added_at": "2023-08-22 17:55:57",
@@ -1251,6 +1231,26 @@
       "duration_ms": 157407,
       "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
       "url": "https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5"
+    },
+    {
+      "added_at": "2023-08-22 17:55:57",
+      "album": {
+        "name": "SHOTGUN",
+        "url": "https://open.spotify.com/album/43lBfkvZuXqe2xX99SE8C4"
+      },
+      "artists": [
+        {
+          "name": "SXULCVTCHER",
+          "url": "https://open.spotify.com/artist/3oIuooXd50rxLlHD9KVqrx"
+        },
+        {
+          "name": "Ethan Ross",
+          "url": "https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "SHOTGUN",
+      "url": "https://open.spotify.com/track/6BeQSTkDbEqkTNDPeMDWu3"
     },
     {
       "added_at": "2023-08-22 17:55:57",

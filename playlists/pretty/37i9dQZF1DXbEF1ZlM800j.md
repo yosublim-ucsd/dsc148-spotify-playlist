@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 | 43 | [Dreidel, Dreidel, Dreidel](https://open.spotify.com/track/2nJ7khC20N59Oo5gTALYHv) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Let's Eat!](https://open.spotify.com/album/4g7Q9tZW8LxneGkMTSQAWO) | 1:01 |
 | 44 | [Latke Clan](https://open.spotify.com/track/6Yvqjn1jhBlzPmKcpZqD4o) | [The LeeVees](https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8) | [Hanukkah Rocks](https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl) | 2:51 |
 
-Snapshot ID: `MCxlN2M1ODMwNDEyNGMzNGQ2ODM2NTkzNjYwNmE2Y2Y3YTgzYzVhYWFh`
+Snapshot ID: `MCw5YzZlNjg4ODA2YTFlMjQ2Nzk2YzkxYjNmZGJhNDM1ZDQwZGQwYzQ1`

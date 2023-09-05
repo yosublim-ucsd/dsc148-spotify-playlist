@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=6HOFr36UQmC9CyhWrHjPhw\"> Teni</a> ",
-  "num_followers": 508910,
+  "num_followers": 509194,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDQ2YjYwOTk1ODZhZjUxM2FjMjBlODY2OWY3MTEwNmJhZTkyZDkz",
+  "snapshot_id": "MCw5OTM0YjFhM2IzZTkyNGJhMDNmZDFmNGUxOGIzZWMyMWJhODIyNWJm",
   "tracks": [
     {
       "added_at": "2023-08-31 22:59:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -251,6 +271,26 @@
       "duration_ms": 183056,
       "name": "soso",
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Single Again (feat. Ruger) [Remix]",
+        "url": "https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 236181,
+      "name": "Single Again (feat. Ruger) - Remix",
+      "url": "https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -275,26 +315,6 @@
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Single Again (feat. Ruger) [Remix]",
-        "url": "https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 236181,
-      "name": "Single Again (feat. Ruger) - Remix",
-      "url": "https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -339,42 +359,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "22",
-      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "22",
+      "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Talibans II",
         "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 176453,
       "name": "Talibans II",
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Sittin' On Top Of The World",
+        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159372,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Party No Dey Stop",
         "url": "https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Sittin' On Top Of The World",
-        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159372,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "i'm a mess",
+      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "i'm a mess",
-      "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 147363,
-      "name": "reason",
-      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183349,
-      "name": "All Of Us (Ashawo)",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Overloading (OVERDOSE)",
         "url": "https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183349,
+      "name": "All Of Us (Ashawo)",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 224294,
       "name": "Single Again",
       "url": "https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1219,6 +1219,38 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "I Wish (feat. Libianca)",
         "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
@@ -1239,38 +1271,6 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Fashion Killer",
-      "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     }
   ],
   "unique_name": "Afropop",

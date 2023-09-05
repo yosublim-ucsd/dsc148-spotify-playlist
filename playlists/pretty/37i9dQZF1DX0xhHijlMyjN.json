@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 356995,
+  "num_followers": 357167,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTM0OWE4MTViNjE1NTlhYzM2NjdhYjE4ODE2MWYzZDc3ZWMzZDMx",
+  "snapshot_id": "MCw0YWM1OTcyODVhMzY3YzUxOWM3Mjg0M2YyMmQxYTM4MWM2MGM1YWVm",
   "tracks": [
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "SEX AND LOVE (Deluxe)",
+        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Bailando - Spanish Version",
+      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Lady Marmalade",
         "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
@@ -1103,46 +1127,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "SEX AND LOVE (Deluxe)",
-        "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Bailando - Spanish Version",
-      "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Bamba / Charlena",
         "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 174186,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Verano Azul",
         "url": "https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 196933,
       "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "2000 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
+      },
+      "artists": [
+        {
+          "name": "Chocolate",
+          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Mayonesa",
+      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Rayos de Sol",
         "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 231562,
       "name": "Rayos de Sol",
       "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "2000 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw"
-      },
-      "artists": [
-        {
-          "name": "Chocolate",
-          "url": "https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn"
-        }
-      ],
-      "duration_ms": 231080,
-      "name": "Mayonesa",
-      "url": "https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Mi gran noche",
-      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 193920,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Mi gran noche",
+      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Furia Latina",
-        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Quiero tener tu presencia",
-      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 217426,
       "name": "Torero",
       "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "Ella Elle L A",
-      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Waka Waka (Esto es Africa) (feat. Freshlyground)",
         "url": "https://open.spotify.com/album/6zuPC93NJGRvfQAO3yzfCj"
       },
@@ -1943,18 +1927,34 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Atado A Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+        "name": "Que No Se Extinga La Llama!",
+        "url": "https://open.spotify.com/album/100SajoSYlozWJ2wRFKob3"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
         }
       ],
-      "duration_ms": 253133,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
+      "duration_ms": 187999,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/4eJikwHYHJ3yMg1tvS1Mom"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Ella Elle L A",
+      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Que No Se Extinga La Llama!",
-        "url": "https://open.spotify.com/album/100SajoSYlozWJ2wRFKob3"
+        "name": "Atado A Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 187999,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/4eJikwHYHJ3yMg1tvS1Mom"
+      "duration_ms": 253133,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2023,6 +2023,38 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 286466,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -2055,38 +2087,6 @@
       "duration_ms": 202146,
       "name": "Pan y mantequilla",
       "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 286466,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Cartas de Amor",
-        "url": "https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4"
-      },
-      "artists": [
-        {
-          "name": "Los Moles",
-          "url": "https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "El Legia",
-      "url": "https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "La Luna y el Toro (Made In Spain)",
         "url": "https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 267386,
       "name": "La Luna y el Toro",
       "url": "https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Cartas de Amor",
+        "url": "https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4"
+      },
+      "artists": [
+        {
+          "name": "Los Moles",
+          "url": "https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "El Legia",
+      "url": "https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Verano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > 75 ways to cope with your Indie fomo\. Pixey on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,949 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,956 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 22 | [We Don't Talk](https://open.spotify.com/track/7eXIQjn66MGgQsPIwkooqR) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 3:25 |
 | 23 | [Why Do I Keep You?](https://open.spotify.com/track/2um6ATuxaGkWk1o1LsrX66) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Why Do I Keep You?](https://open.spotify.com/album/1skkfNGs0DFmq6CWXzc5qH) | 4:00 |
 | 24 | [Song I Believe In](https://open.spotify.com/track/1KXWD5G4e4mBHl4kqrQgx0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy) | [Song I Believe In](https://open.spotify.com/album/3Pxyz1unwIXl0kh2M2Dehv) | 3:15 |
-| 25 | [Bleak Sublime](https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA) | 3:51 |
-| 26 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 |
+| 25 | [Crown](https://open.spotify.com/track/0rFerK60tXKPQrAqKfiTmu) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Crown](https://open.spotify.com/album/3aXZQpHysgW9zjKC5RPRIG) | 3:42 |
+| 26 | [Bleak Sublime](https://open.spotify.com/track/0pVehOhdsaOdYrBprUKxD6) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Bleak Sublime](https://open.spotify.com/album/3TDrrfZWTB4Z1Nc6a46QiA) | 3:51 |
 | 27 | [Drive](https://open.spotify.com/track/2TPrI8d64MVFTOiyjqBVFu) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Drive](https://open.spotify.com/album/4kFbR4ZpknTMGS1h404I5c) | 2:57 |
 | 28 | [Come Apart](https://open.spotify.com/track/3P0i4DS9lKw5kO5z3fUB79) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 3:04 |
 | 29 | [don't jump the gun](https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [don't jump the gun](https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T) | 2:35 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 31 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 |
 | 32 | [Not There](https://open.spotify.com/track/1e1bUo8cxd9JHABlXnmBMl) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/6T6Esg6eUxOmcAj8zb1iU2) | 3:22 |
 | 33 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 |
-| 34 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
-| 35 | [Air Guitar](https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau) | 3:03 |
+| 34 | [Air Guitar](https://open.spotify.com/track/1ZL73Fic49PdXUSvL69wh8) | [Sobs](https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i) | [Air Guitar](https://open.spotify.com/album/0KZcDNYKaKv4mq93fIUDau) | 3:03 |
+| 35 | [voltarpramim](https://open.spotify.com/track/2yCPz8xE5n5hyaunPjZ5T8) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [voltarpramim](https://open.spotify.com/album/27NsbOnymNnUYQXA49dCkb) | 3:12 |
 | 36 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
 | 37 | [HUNTER SCHAFER](https://open.spotify.com/track/2rmKfU3dFpq9sM7VWn8hBu) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [HUNTER SCHAFER](https://open.spotify.com/album/6XcDYfrVonxMFBGQS00Bpl) | 3:13 |
 | 38 | [Like You](https://open.spotify.com/track/19UqVT2WgSz39uvT28mCHg) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 3:50 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 40 | [Be Alright](https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Be Alright](https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU) | 3:34 |
 | 41 | [Another Sketch](https://open.spotify.com/track/5GrRMVHfh3fnPERa4MCJDl) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:50 |
 | 42 | [High\-Speed Kissing](https://open.spotify.com/track/6ljkm9d4eYGQFYX7PxR6h5) | [Lake Malawi](https://open.spotify.com/artist/4UXTIkBW9t9Lcx3xtlaifs), [We Are Domi](https://open.spotify.com/artist/68nZwIknhC5s9gLHPly09S) | [High\-Speed Kissing](https://open.spotify.com/album/1y5Kw8PeJnz99ctZzWFrlU) | 3:08 |
-| 43 | [Distant Shouts](https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Distant Shouts](https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY) | 3:10 |
-| 44 | [Rain](https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo) | [Deco](https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc) | [Rain](https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr) | 3:23 |
+| 43 | [Rain](https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo) | [Deco](https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc) | [Rain](https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr) | 3:23 |
+| 44 | [Distant Shouts](https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Distant Shouts](https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY) | 3:10 |
 | 45 | [Back In The Game](https://open.spotify.com/track/0h2gJVJj5eI80vTuyqMBBV) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis: Final Stage](https://open.spotify.com/album/0HBH7tV5NhLmoClAiKU513) | 3:28 |
 | 46 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 |
 | 47 | [Pata Pata Saguquka](https://open.spotify.com/track/4aYRNnclXE50YTEQ8PvBNn) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Pata Pata Saguquka](https://open.spotify.com/album/4C6AluXJv87ieS26W0prnB) | 5:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 74 | [KiSeKi](https://open.spotify.com/track/2wrcTquPKyQoMmGeVX1vhZ) | [Sho Takahashi](https://open.spotify.com/artist/642xssKVEVaV5IJXySEUsh) | [KiSeKi](https://open.spotify.com/album/4riJBNvT3yhoUO1Y7LTlcB) | 5:15 |
 | 75 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 |
 
-Snapshot ID: `MCw1Y2FmOWM0ZWNmNjZkZjI2M2FjMjIzYzUzMWI1NWRiNTE3NzM3N2Fl`
+Snapshot ID: `MCwwYTY4NWU3YzRjNWVmYjMxODM4ZWRkNmJhZjNlODRjNmM1N2Q5YjMy`

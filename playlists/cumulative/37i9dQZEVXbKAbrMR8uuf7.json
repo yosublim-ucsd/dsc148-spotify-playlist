@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 200454,
       "name": "Cuerpo Natural",
       "url": "https://open.spotify.com/track/4EvvYJIu3l45MCUHDvZf7Q"
@@ -5560,7 +5560,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 213061,
       "name": "Efecto",
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
@@ -6950,7 +6950,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 158062,
       "name": "Freakky",
       "url": "https://open.spotify.com/track/7ix4x4yDxKjONlp2ORvIjQ"
@@ -7012,7 +7012,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Fuap",
       "url": "https://open.spotify.com/track/28SnYTIt7AZesz8jj7DGEZ"
@@ -8370,7 +8370,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "Incondicional",
       "url": "https://open.spotify.com/track/28WB2CzIGLI4Q0VucZSIms"
@@ -9068,7 +9068,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -12184,7 +12184,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 134948,
       "name": "MEDIA LUNA",
       "url": "https://open.spotify.com/track/7h3mCPlHYCPuSG93s7M3Xt"
@@ -14060,7 +14060,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 346000,
       "name": "Pacto (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
@@ -14182,7 +14182,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 242796,
       "name": "Paleta Pa To El Mundo",
       "url": "https://open.spotify.com/track/00WeA6cTYkmAbBuTmhCHYq"
@@ -16978,6 +16978,28 @@
       "duration_ms": 263771,
       "name": "Rulay & Pica Pollo",
       "url": "https://open.spotify.com/track/0RocDM4foAy5mxEKuegGnu"
+    },
+    {
+      "album": {
+        "name": "Rulay en Magaluf",
+        "url": "https://open.spotify.com/album/5akiagSWdvwmgZlo1FUQRC"
+      },
+      "artists": [
+        {
+          "name": "Vadi",
+          "url": "https://open.spotify.com/artist/12HtyTeiwjTUPsnW9xvs1S"
+        },
+        {
+          "name": "andres yuma",
+          "url": "https://open.spotify.com/artist/1Zlp7gKGKtdZo1LLJj4n3N"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131586,
+      "name": "Rulay en Magaluf",
+      "url": "https://open.spotify.com/track/21xK1WGuxS6NlCIJA4FxkO"
     },
     {
       "album": {

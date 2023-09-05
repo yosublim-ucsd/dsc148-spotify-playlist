@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 13968,
+  "num_followers": 14031,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGZmZTQxNmFiNzYxN2Y5MjdiZTExMjNmZTYxMzZjYjRiZDA0YTNj",
+  "snapshot_id": "MCxlY2RjZTViOGFlZmEyZTc4NDkyZTg3MDQzMzQxZTc0YmJmMWVhNmI0",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Drink Water",
         "url": "https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Ogaranya",
-        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 168610,
-      "name": "Ogaranya",
-      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 180682,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "AFRODHIT",
-        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 189635,
-      "name": "Bomz\u00e3o",
-      "url": "https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 189635,
+      "name": "Bomz\u00e3o",
+      "url": "https://open.spotify.com/track/5cTt87f8djnVPH4mLo2L9G"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "Ego Oyibo",
+        "url": "https://open.spotify.com/album/3eh4uQxSDuk3CWeXMEh3SB"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 183174,
+      "name": "Ego Oyibo",
+      "url": "https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1243,18 +1239,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Ego Oyibo",
-        "url": "https://open.spotify.com/album/3eh4uQxSDuk3CWeXMEh3SB"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 183174,
-      "name": "Ego Oyibo",
-      "url": "https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7"
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "NANA",
-        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "NANA",
-      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
         "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 162188,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "NANA",
+        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 174178,
-      "name": "Look What You Made Me Do (with Simi)",
-      "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Look What You Made Me Do (with Simi)",
+      "url": "https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w"
     }
   ],
   "unique_name": "Cocoa Butter ",

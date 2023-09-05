@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,239 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,380 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 5 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
 | 6 | [ZOK](https://open.spotify.com/track/3loxaMcGfCeycbksSzhShU) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [ZOK](https://open.spotify.com/album/0OcUHEVDLg623PN70lnoxb) | 3:03 |
 | 7 | [Free Mami](https://open.spotify.com/track/3Ibieq8gwYw4pOTlP0NkJN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [NAB FAKE](https://open.spotify.com/artist/1N1FqJgyKjGa8vK7zTt24L) | [Free Mami](https://open.spotify.com/album/41ObiBc5qr2G0WGgxSIo2k) | 4:00 |
-| 8 | [Pyramid](https://open.spotify.com/track/7xTEBwt68HK6rTa59gTXRZ) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 2:59 |
-| 9 | [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 |
+| 8 | [R.I.P](https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:19 |
+| 9 | [Pyramid](https://open.spotify.com/track/7xTEBwt68HK6rTa59gTXRZ) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 2:59 |
 | 10 | [Work \(feat\. Madd\)](https://open.spotify.com/track/6VUtXun31L5rzAI8Ri9lKC) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:16 |
 | 11 | [Denbi Ana](https://open.spotify.com/track/7nPSqRB6nc9sf5cqSTJKzx) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Denbi Ana](https://open.spotify.com/album/6aQ0rQWbW94FLbCui79SfB) | 2:09 |
 | 12 | [Before Iceberg](https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW) | 2:35 |
-| 13 | [R.I.P](https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:19 |
-| 14 | [POUFA](https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [POUFA](https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf) | 2:31 |
-| 15 | [BÉNÉF](https://open.spotify.com/track/2p3hMCV4KnpS5w19gaeOR5) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [BÉNÉF](https://open.spotify.com/album/56XtuYPUNEnKikBj9TPJaO) | 2:55 |
+| 13 | [POUFA](https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [POUFA](https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf) | 2:31 |
+| 14 | [BÉNÉF](https://open.spotify.com/track/2p3hMCV4KnpS5w19gaeOR5) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [BÉNÉF](https://open.spotify.com/album/56XtuYPUNEnKikBj9TPJaO) | 2:55 |
+| 15 | [Drouba](https://open.spotify.com/track/0cU27Hge710bbX3BzDi4Io) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Drouba](https://open.spotify.com/album/5QbXvUKcQ2U4keYNtxYhlM) | 2:56 |
 | 16 | [MGHAMER](https://open.spotify.com/track/0KSNoWPksTnUbKivbxpVhc) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 |
 | 17 | [VISA](https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [VISA](https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly) | 2:04 |
 | 18 | [Committed \(feat\. Snor\)](https://open.spotify.com/track/73IXYvDB27EDIh3LtbDG2g) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 |
 | 50 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 |
 
-Snapshot ID: `MCwxYTljNjA2OTBkNGVlMjk1YThiNDBjMDBmZTQzNjM4OTAwOTZjMDVh`
+Snapshot ID: `MCwxNTVjYzEzM2U2OWI4N2I3NTdlMzg0YjY5ZGQ1MTY0NGFiNTFmYTA1`

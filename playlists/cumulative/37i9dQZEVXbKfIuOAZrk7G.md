@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,801 songs - 4 day 0 hr 49 min
+1,802 songs - 4 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 | 2022-03-06 | 2022-03-14 |
 | [Alco](https://open.spotify.com/track/4bjxeAtZKvD4g0zZhXnR3w) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 3:48 | 2023-06-08 | 2023-06-14 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2021-12-31 | 2022-01-13 |
-| [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 | 2023-08-29 |  |
+| [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 | 2023-08-29 | 2023-09-05 |
 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 | 2023-07-28 | 2023-08-05 |
 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 | 2022-05-24 | 2022-06-01 |
 | [All Eyez on Me Remix](https://open.spotify.com/track/7anqApFaBkxrD6hvjpI6uL) | [Thug Life](https://open.spotify.com/artist/76fO70b6BK2xt3UVOe4BIZ) | [All Eyez on Me Remix](https://open.spotify.com/album/4qdCWrVMWLMoy70g7dt6fZ) | 2:45 | 2023-06-09 | 2023-06-28 |
@@ -262,6 +262,7 @@
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-04-11 | 2023-04-19 |
 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 | 2022-06-07 | 2022-07-25 |
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-05-10 | 2022-05-25 |
+| [Cheeseburger In Paradise](https://open.spotify.com/track/6VeZ970uI0Yi6sjBgyFBrp) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Son Of A Son Of A Sailor](https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK) | 2:56 | 2023-09-04 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-05-09 | 2023-05-17 |
 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 | 2023-06-13 | 2023-06-20 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-01-13 | 2022-02-19 |

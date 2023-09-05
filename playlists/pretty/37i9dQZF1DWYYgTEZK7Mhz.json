@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 20706,
+  "num_followers": 20782,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli",
+  "snapshot_id": "MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "I Grandi Successi: Gianni Pettenati",
-        "url": "https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW"
-      },
-      "artists": [
-        {
-          "name": "Gianni Pettenati",
-          "url": "https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Bandiera gialla",
-      "url": "https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Rocco: Zijn Story In 21 Liedjes",
         "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 164453,
       "name": "Marina",
       "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "I Grandi Successi: Gianni Pettenati",
+        "url": "https://open.spotify.com/album/2UtnH2Mcweg0S38n9JvMfW"
+      },
+      "artists": [
+        {
+          "name": "Gianni Pettenati",
+          "url": "https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Bandiera gialla",
+      "url": "https://open.spotify.com/track/6CYmFiGnVzzZmi8RgI7fpX"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Ritratto di Mina: I singoli, Vol. 1",
         "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 165015,
       "name": "Il Mondo",
       "url": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Profumo di sole...",
-        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
-      },
-      "artists": [
-        {
-          "name": "Jo Fedeli",
-          "url": "https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Sei come una lucertola",
-      "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Come lei non c'e' nessuno",
         "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 133026,
       "name": "La partita di pallone",
       "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Profumo di sole...",
+        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
+      },
+      "artists": [
+        {
+          "name": "Jo Fedeli",
+          "url": "https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Sei come una lucertola",
+      "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Le Sue Piu' Belle Canzoni",
-        "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
-      },
-      "artists": [
-        {
-          "name": "Umberto Rosario Balsamo",
-          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Balla",
-      "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Legata a un granello di sabbia (Remastered)",
         "url": "https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 245822,
       "name": "Legata a un granello di sabbia - Remastered",
       "url": "https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Le Sue Piu' Belle Canzoni",
+        "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
+      },
+      "artists": [
+        {
+          "name": "Umberto Rosario Balsamo",
+          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Balla",
+      "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 159312,
-      "name": "Pinne fucile ed occhiali",
-      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Le pi\u00f9 belle canzoni di Milva",
         "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 156920,
       "name": "Con Te Sulla Spiaggia",
       "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 159312,
+      "name": "Pinne fucile ed occhiali",
+      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
     }
   ],
   "unique_name": "Sapore di Sale",

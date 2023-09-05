@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 172673,
+  "num_followers": 172794,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDAwOWY1NzcxNWU3M2JkMGRjZGYyZWViYTY5NTAzY2I5MGU5OGY2",
+  "snapshot_id": "MCw2Y2Y2NTU5ZmE4MmQ3OGEzOTBiN2M5YzAyMjU3NjhiOWMwYmNhOTk2",
   "tracks": [
     {
       "added_at": "2023-08-24 22:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Jumpin'",
+        "url": "https://open.spotify.com/album/0HkIYDIdHJCSQYl8xJeZlu"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Jumpin'",
+      "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Caught In The Rain",
         "url": "https://open.spotify.com/album/49Q6nGh5yaOQ85ttYKA3XX"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 142800,
       "name": "Caught In The Rain",
       "url": "https://open.spotify.com/track/1GvyPmmkOxcrnLBjpgFBPX"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Jumpin'",
-        "url": "https://open.spotify.com/album/0HkIYDIdHJCSQYl8xJeZlu"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Jumpin'",
-      "url": "https://open.spotify.com/track/7tqS7Ywfkz6zVy3aWzip0W"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Change Is Gonna Come",
         "url": "https://open.spotify.com/album/1UfaS1RDld7N9ufhQafl95"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 206564,
       "name": "Change Is Gonna Come - Edit",
       "url": "https://open.spotify.com/track/6lKuoSEyKaar3KsWvEalXE"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
-      },
-      "artists": [
-        {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Fort Bellefleur",
+        "url": "https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 487752,
+      "name": "When U Came Into My Life",
+      "url": "https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Free At Last",
         "url": "https://open.spotify.com/album/3OrkPlLYfJK0Po2Z5fLjnO"
       },
@@ -1387,6 +1403,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Burnin' Up",
+        "url": "https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "Burnin' Up",
+      "url": "https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Owner of a Lonely Heart (Luca Olivotto Remix)",
         "url": "https://open.spotify.com/album/5um4ELMhFxPWe3AeJha9Uh"
       },
@@ -1403,22 +1435,6 @@
       "duration_ms": 384000,
       "name": "Owner of a Lonely Heart - Luca Olivotto Remix",
       "url": "https://open.spotify.com/track/0USvCJS5xGmzvbm9rBL2ZV"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Burnin' Up",
-        "url": "https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM"
-      },
-      "artists": [
-        {
-          "name": "Ben Van Kuringen",
-          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "Burnin' Up",
-      "url": "https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1451,22 +1467,6 @@
       "duration_ms": 131637,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1efNXameWDHwW1Bx0jgG0j"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Fort Bellefleur",
-        "url": "https://open.spotify.com/album/2b1eij1R1tHppx4M5ZZTrF"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 487752,
-      "name": "When U Came Into My Life",
-      "url": "https://open.spotify.com/track/3ZJuEVtiX9GCoJrhCD0WlQ"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "RUSH (Blush)",
-        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 242545,
-      "name": "RUSH (Blush)",
-      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Love in Rio",
         "url": "https://open.spotify.com/album/2A7sVIi7t7EiJYZdnIAXcE"
       },
@@ -1587,22 +1571,18 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Pearls (SILK Remix)",
-        "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
+        "name": "RUSH (Blush)",
+        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
       },
       "artists": [
         {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        },
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
         }
       ],
-      "duration_ms": 246718,
-      "name": "Pearls - SILK Remix",
-      "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
+      "duration_ms": 242545,
+      "name": "RUSH (Blush)",
+      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1623,6 +1603,26 @@
       "duration_ms": 207105,
       "name": "Be Funky",
       "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Pearls (SILK Remix)",
+        "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        },
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 246718,
+      "name": "Pearls - SILK Remix",
+      "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Assumptions (Jengi Remix)",
-        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        },
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 186222,
-      "name": "Assumptions - Jengi Remix",
-      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Nu World (Solomun Remix)",
         "url": "https://open.spotify.com/album/3N2BT7AISV9IgwfursJE3D"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 173452,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/7kyXS2RXrPg7K6pbHZjJ7i"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Assumptions (Jengi Remix)",
+        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 186222,
+      "name": "Assumptions - Jengi Remix",
+      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
+        "name": "Souljack EP",
+        "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Souljack",
+      "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
         "name": "Back To Love",
         "url": "https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 328356,
       "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
       "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Souljack EP",
-        "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "Souljack",
-      "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2211,42 +2211,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Lay It On Me",
-        "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Guy Burns",
-          "url": "https://open.spotify.com/artist/6AS3IV2KvA4SZ1GAayMWmU"
-        }
-      ],
-      "duration_ms": 170258,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
-        "name": "Calle EP",
-        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Nice To Arise",
         "url": "https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf"
       },
@@ -2279,6 +2243,42 @@
       "duration_ms": 219375,
       "name": "Tell You What It Is - Shermanology SoulTec Mix",
       "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Lay It On Me",
+        "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Guy Burns",
+          "url": "https://open.spotify.com/artist/6AS3IV2KvA4SZ1GAayMWmU"
+        }
+      ],
+      "duration_ms": 170258,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/2EfhczOa9X8ju9hg5IWEQD"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "D.A.N.C.E.",
-        "url": "https://open.spotify.com/album/43ZNEDJJifJJZk7hFa9pvO"
-      },
-      "artists": [
-        {
-          "name": "Superlover",
-          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
-        }
-      ],
-      "duration_ms": 275322,
-      "name": "D.A.N.C.E.",
-      "url": "https://open.spotify.com/track/0MZRo88rWKsWlRzM61Tyv2"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "Drop The Pressure (Sonny Fodera Remix)",
         "url": "https://open.spotify.com/album/2rL4yfJNdKujUyOFBgnzDr"
       },
@@ -2523,22 +2507,18 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Don't Cry For Me (The Remixes)",
-        "url": "https://open.spotify.com/album/3n9jVh3tTq0tjMeFmsnfZB"
+        "name": "D.A.N.C.E.",
+        "url": "https://open.spotify.com/album/43ZNEDJJifJJZk7hFa9pvO"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "Superlover",
+          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
         }
       ],
-      "duration_ms": 197903,
-      "name": "Don't Cry For Me - Mark Knight Remix",
-      "url": "https://open.spotify.com/track/46UF5p8aihRkpFGISOa1ck"
+      "duration_ms": 275322,
+      "name": "D.A.N.C.E.",
+      "url": "https://open.spotify.com/track/0MZRo88rWKsWlRzM61Tyv2"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2559,22 +2539,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
-        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
+        "name": "Don't Cry For Me (The Remixes)",
+        "url": "https://open.spotify.com/album/3n9jVh3tTq0tjMeFmsnfZB"
       },
       "artists": [
         {
-          "name": "Grooveyard",
-          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         },
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 215648,
-      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
-      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
+      "duration_ms": 197903,
+      "name": "Don't Cry For Me - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/46UF5p8aihRkpFGISOa1ck"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2591,6 +2571,26 @@
       "duration_ms": 379200,
       "name": "After All This Time",
       "url": "https://open.spotify.com/track/5WN9wAj9Bn8Rf8i4cesLmJ"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Mary Go Wild! (Franky Rizardo \u201897 Remix)",
+        "url": "https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM"
+      },
+      "artists": [
+        {
+          "name": "Grooveyard",
+          "url": "https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 215648,
+      "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
+      "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2659,26 +2659,6 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Spaces and Places",
-        "url": "https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Mauro Capitale",
-          "url": "https://open.spotify.com/artist/7n0JKnLWFw5nlpJNwdL1Hc"
-        }
-      ],
-      "duration_ms": 359951,
-      "name": "Milan [Magazzini Generali] - Full Sax Mix",
-      "url": "https://open.spotify.com/track/3sKXJ4LQ3UzecvBdtuWol9"
-    },
-    {
-      "added_at": "2023-08-24 22:00:00",
-      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl"
       },
@@ -2695,26 +2675,22 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
-        "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
+        "name": "Spaces and Places",
+        "url": "https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT"
       },
       "artists": [
         {
-          "name": "Billon",
-          "url": "https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1"
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
         },
         {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        },
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+          "name": "Mauro Capitale",
+          "url": "https://open.spotify.com/artist/7n0JKnLWFw5nlpJNwdL1Hc"
         }
       ],
-      "duration_ms": 180223,
-      "name": "Release Me (feat. Rationale) - Jess Bays Remix",
-      "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
+      "duration_ms": 359951,
+      "name": "Milan [Magazzini Generali] - Full Sax Mix",
+      "url": "https://open.spotify.com/track/3sKXJ4LQ3UzecvBdtuWol9"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2743,22 +2719,26 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "Hear The Voices",
-        "url": "https://open.spotify.com/album/7KHlAoSZAnsxN9wH9l0iXO"
+        "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
+        "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
       },
       "artists": [
         {
-          "name": "Greg Van Bueren",
-          "url": "https://open.spotify.com/artist/4XaX11VVNHfq7Rbbn1E5Gk"
+          "name": "Billon",
+          "url": "https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1"
         },
         {
-          "name": "Dutchican Soul",
-          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
         }
       ],
-      "duration_ms": 212086,
-      "name": "Hear The Voices - Edit",
-      "url": "https://open.spotify.com/track/1KrNQ6NSSIGVN1O9laLnye"
+      "duration_ms": 180223,
+      "name": "Release Me (feat. Rationale) - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2779,6 +2759,26 @@
       "duration_ms": 342136,
       "name": "HOUSE - Original Mix",
       "url": "https://open.spotify.com/track/4HUKkJ0VWYcYPj3E40WYgJ"
+    },
+    {
+      "added_at": "2023-08-24 22:00:00",
+      "album": {
+        "name": "Hear The Voices",
+        "url": "https://open.spotify.com/album/7KHlAoSZAnsxN9wH9l0iXO"
+      },
+      "artists": [
+        {
+          "name": "Greg Van Bueren",
+          "url": "https://open.spotify.com/artist/4XaX11VVNHfq7Rbbn1E5Gk"
+        },
+        {
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+        }
+      ],
+      "duration_ms": 212086,
+      "name": "Hear The Voices - Edit",
+      "url": "https://open.spotify.com/track/1KrNQ6NSSIGVN1O9laLnye"
     },
     {
       "added_at": "2023-08-24 22:00:00",
@@ -2871,26 +2871,26 @@
     {
       "added_at": "2023-08-24 22:00:00",
       "album": {
-        "name": "You Are My Life (Chambray Remix)",
-        "url": "https://open.spotify.com/album/5g14VNWqQx9cGbghTzVurk"
+        "name": "Love Somebody Else",
+        "url": "https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn"
       },
       "artists": [
         {
-          "name": "Chocolate Puma",
-          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
         },
         {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+          "name": "Aruhtra",
+          "url": "https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv"
         },
         {
-          "name": "Chambray",
-          "url": "https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO"
+          "name": "April Morgan",
+          "url": "https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz"
         }
       ],
-      "duration_ms": 158685,
-      "name": "You Are My Life - Chambray Remix",
-      "url": "https://open.spotify.com/track/4FBYJVSbojmT5wbC1EQA0F"
+      "duration_ms": 160437,
+      "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
+      "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
     }
   ],
   "unique_name": "House Supreme",

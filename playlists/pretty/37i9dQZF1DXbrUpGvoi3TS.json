@@ -1,12 +1,12 @@
 {
   "description": "Nurse your emotional wounds with these heartbreak tracks.",
-  "num_followers": 3531414,
+  "num_followers": 3532156,
   "original_name": "Broken Heart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGQ3MTg3NWRmYzAwYjU1MDA1YjEwMjM4N2Y3YjEwOGM5YTcwYjEy",
+  "snapshot_id": "MCwwYmEzZGI1Y2NhZDUxYzZlNmE2YmQwNDE5ZmNkMjJhYjJhZTNjYjU0",
   "tracks": [
     {
       "added_at": "2022-05-19 22:02:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -239,6 +223,22 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -307,22 +291,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "The Archer",
-      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -335,6 +303,38 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "The Archer",
+      "url": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -995,6 +979,38 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Look After You",
+      "url": "https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Look After You",
-      "url": "https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Goodbye My Lover",
-      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "COSMIC",
         "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 148259,
       "name": "Why",
       "url": "https://open.spotify.com/track/7lozLnUfzcgEpMMVQI7yhA"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Goodbye My Lover",
+      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Hunter Hayes (Encore)",
-        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
-      },
-      "artists": [
-        {
-          "name": "Hunter Hayes",
-          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
       },
@@ -1415,6 +1383,22 @@
       "duration_ms": 189000,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Hunter Hayes (Encore)",
+        "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
+      },
+      "artists": [
+        {
+          "name": "Hunter Hayes",
+          "url": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1435,22 +1419,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -1467,6 +1435,22 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 324498,
       "name": "hope is a dangerous thing for a woman like me to have - but I have it",
       "url": "https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/2QSPuyEM4LRQ4fREX5cW3d"
+      },
+      "artists": [
+        {
+          "name": "MIIA",
+          "url": "https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL"
+        }
+      ],
+      "duration_ms": 225515,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/5a0sI8V5iDBiChTCfFNZL1"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/2QSPuyEM4LRQ4fREX5cW3d"
-      },
-      "artists": [
-        {
-          "name": "MIIA",
-          "url": "https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL"
-        }
-      ],
-      "duration_ms": 225515,
-      "name": "Dynasty",
-      "url": "https://open.spotify.com/track/5a0sI8V5iDBiChTCfFNZL1"
     },
     {
       "added_at": "2022-05-19 22:02:00",

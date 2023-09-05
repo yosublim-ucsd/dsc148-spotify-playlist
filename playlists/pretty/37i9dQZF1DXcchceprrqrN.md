@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,910 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,088 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 42 | [Weed Pin](https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 4:42 |
 | 43 | [Jackie](https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Jackie](https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d) | 2:56 |
 | 44 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 |
-| 45 | [THAT SUCKS!](https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 2:24 |
-| 46 | [Dream Song](https://open.spotify.com/track/0jTKmPYBGiEZsQtRNlWM1L) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Sleepyhead](https://open.spotify.com/album/4KTenQpTycVovYaJmCcrMa) | 2:10 |
-| 47 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
+| 45 | [Dream Song](https://open.spotify.com/track/0jTKmPYBGiEZsQtRNlWM1L) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Sleepyhead](https://open.spotify.com/album/4KTenQpTycVovYaJmCcrMa) | 2:10 |
+| 46 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
+| 47 | [THAT SUCKS!](https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 2:24 |
 | 48 | [Selfish](https://open.spotify.com/track/79mYNfvMefhmL5IqRmUnCK) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 3:12 |
 | 49 | [Hangover Game](https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 2:16 |
 | 50 | [Biohazard](https://open.spotify.com/track/1Dn8r3rLECHNSGCbajr9HX) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Two of Me](https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M) | 2:25 |
 
-Snapshot ID: `MCw3OTFlM2VjODk4NzE4MTU0MWVkMTM0NmI4NmE0YjEwOWIxZWMyNjI0`
+Snapshot ID: `MCw3OGM0YTdlNWJhZWI4Yzc0NmI0ODRlOTlhNmY5MzdhZGUzZjc0NTRk`

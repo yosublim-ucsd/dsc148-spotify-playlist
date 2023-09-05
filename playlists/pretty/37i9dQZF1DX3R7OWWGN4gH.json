@@ -1,12 +1,12 @@
 {
   "description": "Entering my reputation era...",
-  "num_followers": 1094394,
+  "num_followers": 1095231,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjI3OWJiODRjYTk1ODExYjNhYjU5ZWRmY2QxMzQxYTZhNjQ1ZDk5",
+  "snapshot_id": "MCxiOTM4NzIyMmIyZDQ3NTAyNDhlMjlkM2UwZDc1MGZjMzRhNWQ2Nzhm",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 258893,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Skyfall",
-        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 286480,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Boss Bitch",
-        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 164801,
       "name": "Vigilante Shit",
       "url": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -767,8 +767,8 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 246294,
-      "name": "EVIL",
-      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
+      "duration_ms": 241893,
+      "name": "Teacher's Pet",
+      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "O My Heart",
-        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 262173,
-      "name": "Burning Pile",
-      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 168839,
       "name": "all the good girls go to hell",
       "url": "https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "O My Heart",
+        "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 262173,
+      "name": "Burning Pile",
+      "url": "https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
       },
@@ -939,8 +923,8 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "K-12",
-        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
       },
       "artists": [
         {
@@ -948,9 +932,25 @@
           "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 241893,
-      "name": "Teacher's Pet",
-      "url": "https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9"
+      "duration_ms": 246294,
+      "name": "EVIL",
+      "url": "https://open.spotify.com/track/6UW10CbMTvqciT3X3Ldeox"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -967,6 +967,26 @@
       "duration_ms": 213373,
       "name": "Who Is She ?",
       "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Amala (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Tia Tamera (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -999,26 +1019,6 @@
       "duration_ms": 120666,
       "name": "cinderella's dead",
       "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Amala (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Tia Tamera (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194711,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "13 Reasons Why (Season 3)",
         "url": "https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194711,
+      "name": "COPYCAT",
+      "url": "https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 257053,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 185122,
       "name": "If I Killed Someone For You",
       "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 257053,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 214761,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "BADLANDS (Deluxe)",
-        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 214761,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 186466,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 124373,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Thrill Seeker",
         "url": "https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 194000,
       "name": "Freak (feat. REI AMI)",
       "url": "https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 124373,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
     },
     {
       "added_at": "2023-09-01 04:00:00",

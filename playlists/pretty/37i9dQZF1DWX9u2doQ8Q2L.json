@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 375797,
+  "num_followers": 375795,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWE2MDg5NTAxOTVjYzhlNGM2NzcwNzJlMjVjMTViYmYzOTI2N2Qz",
+  "snapshot_id": "MCw2NTFlYjk0ODAyNzcxMmZlM2Q0ODI1MGM4MTk1YmJlZGQ0M2RiODFi",
   "tracks": [
     {
       "added_at": "2023-08-31 15:00:00",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Drink!",
-        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 187862,
-      "name": "Drink!",
-      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
         }
       ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Runner's High",
-        "url": "https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 222818,
-      "name": "Runner's High",
-      "url": "https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "WORLD DANCE",
         "url": "https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 221666,
       "name": "WORLD DANCE",
       "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Runner's High",
+        "url": "https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 222818,
+      "name": "Runner's High",
+      "url": "https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "We'll be fine (English Version)",
-        "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
-      },
-      "artists": [
-        {
-          "name": "ReN",
-          "url": "https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus"
-        }
-      ],
-      "duration_ms": 197029,
-      "name": "We'll be fine - English Version",
-      "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "Love (feat. Skaai)",
         "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "apart",
-        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+        "name": "We'll be fine (English Version)",
+        "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "ReN",
+          "url": "https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus"
         }
       ],
-      "duration_ms": 176166,
-      "name": "apart",
-      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
+      "duration_ms": 197029,
+      "name": "We'll be fine - English Version",
+      "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 187157,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "apart",
+        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 176166,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
+        "name": "merry-go-round",
+        "url": "https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "merry-go-round",
+      "url": "https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
         "name": "Paris feat. YELLOW Huang Hsuan",
         "url": "https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 171923,
       "name": "Paris feat. YELLOW Huang Hsuan",
       "url": "https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
-        "name": "merry-go-round",
-        "url": "https://open.spotify.com/album/2fGBPXYiquxrRt3fYcRpyt"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "merry-go-round",
-      "url": "https://open.spotify.com/track/4RDjRmWez2gryxtIO2Attf"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1447,6 +1447,38 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "one call",
+        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        }
+      ],
+      "duration_ms": 114089,
+      "name": "one call",
+      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
         "name": "\u3044\u3061\u3054\u30df\u30eb\u30af",
         "url": "https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5"
       },
@@ -1467,38 +1499,6 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
-        "name": "\u81ea\u7531",
-        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
-      },
-      "artists": [
-        {
-          "name": "tofubeats",
-          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "\u81ea\u7531",
-      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -1515,26 +1515,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
-        "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
+        "name": "\u81ea\u7531",
+        "url": "https://open.spotify.com/album/4ncVqlgrw7CKMnRTuRidM1"
       },
       "artists": [
         {
-          "name": "Kei Owada",
-          "url": "https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C"
-        },
-        {
-          "name": "ZIN",
-          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
-      "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
+      "duration_ms": 236386,
+      "name": "\u81ea\u7531",
+      "url": "https://open.spotify.com/track/7z0FfMMoJGsL6hgsoR0U6M"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1559,6 +1551,30 @@
       "duration_ms": 188679,
       "name": "So Real feat. Nicholas Ryan Gant & Suede Jury",
       "url": "https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi"
+    },
+    {
+      "added_at": "2023-08-31 15:00:00",
+      "album": {
+        "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+        "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
+      },
+      "artists": [
+        {
+          "name": "Kei Owada",
+          "url": "https://open.spotify.com/artist/3uxdiisUeUl9eXJ9KfDy4C"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
+      "url": "https://open.spotify.com/track/3bD6V7HK99QSLLmZFlJP3w"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1635,22 +1651,6 @@
       "duration_ms": 264963,
       "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (feat. \u9ed2\u5ddd\u6c99\u826f)",
       "url": "https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC"
-    },
-    {
-      "added_at": "2023-08-31 15:00:00",
-      "album": {
-        "name": "one call",
-        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
-      },
-      "artists": [
-        {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
-        }
-      ],
-      "duration_ms": 114089,
-      "name": "one call",
-      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
     },
     {
       "added_at": "2023-08-31 15:00:00",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2023-08-31 15:00:00",
       "album": {
-        "name": "NEO KAWAII, K?",
-        "url": "https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW"
+        "name": "Wrecked",
+        "url": "https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1"
       },
       "artists": [
         {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
         }
       ],
-      "duration_ms": 154726,
-      "name": "NEO KAWAII, K?",
-      "url": "https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL"
+      "duration_ms": 128710,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH"
     }
   ],
   "unique_name": "Tokyo Rising",

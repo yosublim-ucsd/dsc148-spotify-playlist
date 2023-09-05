@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Kali Uchis y JT en portada ",
-  "num_followers": 9637,
+  "num_followers": 9659,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTAyYmU5NWZiYjEzYjkzNmFhZmRkNTVlYWYxYTliNzhlNTU3NDQx",
+  "snapshot_id": "MCxkN2I3MTM1NDlmNmRhOGZmODdmODljNWZjZjIzMjBlYjkyYmMzZjg2",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Hora de Salir",
+        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Hora de Salir",
+      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Baja Sube Sube",
         "url": "https://open.spotify.com/album/2LxhsDsrjtvVjqi7GMBTsM"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 171000,
       "name": "Tra Tra Tra Remix - Remix",
       "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Hora de Salir",
-        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Hora de Salir",
-      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
-        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
-      },
-      "artists": [
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 150418,
-      "name": "Vacilon",
-      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "\u00d1ero Session 5",
         "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 147633,
       "name": "\u00d1ero Session 5",
       "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
+        "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 150418,
+      "name": "Vacilon",
+      "url": "https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
         "url": "https://open.spotify.com/album/0tMYxu1s8sIInR538bQcz8"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 229125,
       "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
       "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -987,50 +987,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Se Menea",
-        "url": "https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
-        },
-        {
-          "name": "Chino El Gorila",
-          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
-        }
-      ],
-      "duration_ms": 219611,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "\u00d1ero Session 3",
-        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Jencko el Shinobi",
-          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "\u00d1ero Session 3",
-      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
       },
@@ -1051,6 +1007,26 @@
       "duration_ms": 194884,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 3",
+        "url": "https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jencko el Shinobi",
+          "url": "https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "\u00d1ero Session 3",
+      "url": "https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1127,6 +1103,30 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Se Menea",
+        "url": "https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "Chino El Gorila",
+          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "MODO CHAKALON",
         "url": "https://open.spotify.com/album/5EBFVJPchw9dyLJRrzc3qr"
       },
@@ -1147,26 +1147,6 @@
       "duration_ms": 159612,
       "name": "MODO CHAKALON",
       "url": "https://open.spotify.com/track/4E8dl7KQEDxLy8sGmiSefU"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "OG CITY",
-        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 241341,
-      "name": "No Traje Naki",
-      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1207,6 +1187,26 @@
       "duration_ms": 216032,
       "name": "Rompe La Discoteca",
       "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "OG CITY",
+        "url": "https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 241341,
+      "name": "No Traje Naki",
+      "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "A Mover Ese Booty",
-        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Nyel",
-          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
-        }
-      ],
-      "duration_ms": 157347,
-      "name": "A Mover Ese Booty",
-      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Puta Rara, Puta Dominicana",
         "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
       },
@@ -1439,6 +1419,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "A Mover Ese Booty",
+        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+        }
+      ],
+      "duration_ms": 157347,
+      "name": "A Mover Ese Booty",
+      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "PUSSY",
         "url": "https://open.spotify.com/album/6swVOsbbkJkFCyNoeiasgs"
       },
@@ -1491,26 +1491,6 @@
       "duration_ms": 167295,
       "name": "MUAY THAI",
       "url": "https://open.spotify.com/track/3wrmv73k3sruc9rvSlR5Eb"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Bellaqueo",
-        "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Sir Speedy",
-          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
-        }
-      ],
-      "duration_ms": 134638,
-      "name": "Bellaqueo",
-      "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1587,6 +1567,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Bellaqueo",
+        "url": "https://open.spotify.com/album/1fmElrJHcZ7h94fcadBbPw"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Sir Speedy",
+          "url": "https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s"
+        }
+      ],
+      "duration_ms": 134638,
+      "name": "Bellaqueo",
+      "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Pgatparak",
         "url": "https://open.spotify.com/album/1rsBsNpBRvdGADm5pYX6Lh"
       },
@@ -1623,26 +1623,6 @@
       "duration_ms": 173863,
       "name": "Bagdad",
       "url": "https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Perreito",
-        "url": "https://open.spotify.com/album/2Ue78ZiZZWBOOXxeEcw1dy"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Nyel",
-          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1699,18 +1679,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Pi\u00f1a",
-        "url": "https://open.spotify.com/album/4nnrsS1lnc03iEf67Lwi30"
+        "name": "Perreito",
+        "url": "https://open.spotify.com/album/2Ue78ZiZZWBOOXxeEcw1dy"
       },
       "artists": [
         {
-          "name": "Neron Delta",
-          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
         }
       ],
-      "duration_ms": 174641,
-      "name": "Pi\u00f1a",
-      "url": "https://open.spotify.com/track/4tYnor4oKHQ4q9NSFoUUB8"
+      "duration_ms": 146666,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 148800,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7bwXbb2kOOXzUIWAVzVzi8"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Pi\u00f1a",
+        "url": "https://open.spotify.com/album/4nnrsS1lnc03iEf67Lwi30"
+      },
+      "artists": [
+        {
+          "name": "Neron Delta",
+          "url": "https://open.spotify.com/artist/1ELi0AzjhCOn9DxBAYbyTO"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "Pi\u00f1a",
+      "url": "https://open.spotify.com/track/4tYnor4oKHQ4q9NSFoUUB8"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -2055,26 +2055,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Date Date",
-        "url": "https://open.spotify.com/album/1Ls5KCJ8BUYxAQRa8eo7nr"
-      },
-      "artists": [
-        {
-          "name": "Dam Dam",
-          "url": "https://open.spotify.com/artist/2Tm2uw29i6VXLI2hcY4xpz"
-        },
-        {
-          "name": "El Cusco",
-          "url": "https://open.spotify.com/artist/0BJOE4YEhUHEkHsxSxcuSE"
-        }
-      ],
-      "duration_ms": 168315,
-      "name": "Date Date",
-      "url": "https://open.spotify.com/track/2ahikqDplQlkRgmr76u3tU"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Problematik (feat. RYH)",
         "url": "https://open.spotify.com/album/1qkHprIMfXGQl6MLBwce96"
       },
@@ -2091,6 +2071,26 @@
       "duration_ms": 139918,
       "name": "Problematik (feat. RYH)",
       "url": "https://open.spotify.com/track/4au385cqaT6yH0uVm4Cd4e"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Date Date",
+        "url": "https://open.spotify.com/album/1Ls5KCJ8BUYxAQRa8eo7nr"
+      },
+      "artists": [
+        {
+          "name": "Dam Dam",
+          "url": "https://open.spotify.com/artist/2Tm2uw29i6VXLI2hcY4xpz"
+        },
+        {
+          "name": "El Cusco",
+          "url": "https://open.spotify.com/artist/0BJOE4YEhUHEkHsxSxcuSE"
+        }
+      ],
+      "duration_ms": 168315,
+      "name": "Date Date",
+      "url": "https://open.spotify.com/track/2ahikqDplQlkRgmr76u3tU"
     },
     {
       "added_at": "2023-09-01 06:00:00",

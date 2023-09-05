@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzc3MiwzYWI4MzczYzFmNWY2MzFmNGMwZTUyODJjNDg1NzI1YWY4OTlmODRl",
+  "snapshot_id": "Mzc3NCxmZGQ4ODcwNGU1MWJjZmQ2MGRhNDNhMzM1ZjczMzg5NzlhYWIyOWNh",
   "tracks": [
+    {
+      "added_at": "2023-09-04 11:03:10",
+      "album": {
+        "name": "Blue Marbled Elm Trees",
+        "url": "https://open.spotify.com/album/6wF2Wg85euCwati0jG8Svm"
+      },
+      "artists": [
+        {
+          "name": "King Creosote",
+          "url": "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+        }
+      ],
+      "duration_ms": 303386,
+      "name": "Blue Marbled Elm Trees",
+      "url": "https://open.spotify.com/track/5DeuSsOtWl6vEnepxzrAJ6"
+    },
     {
       "added_at": "2023-08-30 14:50:13",
       "album": {

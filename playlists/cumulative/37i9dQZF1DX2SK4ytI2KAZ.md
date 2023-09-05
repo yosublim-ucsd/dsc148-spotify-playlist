@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-482 songs - 1 day 2 hr 48 min
+483 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 | 2022-06-27 |  |
 | [2am](https://open.spotify.com/track/2QbFe7fHwvQiKMHXXPer11) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/5JBP1gdeOlLuMDxELTLO5l) | 3:44 | 2022-05-27 | 2022-07-29 |
 | [3 small words](https://open.spotify.com/track/3TWkAgxg2LKjmJ4CiEvOkr) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:13 | 2021-03-10 | 2023-03-29 |
+| [6 Pack and Cigarettes](https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Gutter](https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe) | 2:54 | 2023-08-21 |  |
 | [Adderall](https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Adderall](https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4) | 3:38 | 2022-03-11 |  |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2023-02-17 |  |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-03-24 |  |
@@ -365,7 +366,7 @@
 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 | 2022-05-27 | 2022-11-13 |
 | [scream!](https://open.spotify.com/track/7ht1CeMPNfLFPm5rrFvavq) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Revival](https://open.spotify.com/album/7jPYa8KUobduH8YFkep7AI) | 3:19 | 2022-06-27 | 2022-07-25 |
 | [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 | 2023-06-30 |  |
-| [Settling](https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Bright Blues](https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG) | 3:08 | 2023-02-17 |  |
+| [Settling](https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Bright Blues](https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG) | 3:08 | 2023-02-17 | 2023-09-05 |
 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-04-18 | 2022-07-29 |
 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 | 2022-06-27 | 2023-03-14 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-06-27 |  |

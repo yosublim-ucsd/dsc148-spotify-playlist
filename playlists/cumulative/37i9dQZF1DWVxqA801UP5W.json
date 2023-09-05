@@ -1,8 +1,38 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "All your favourite pop songs, remixed to perfection. Cover: Zara Larsson",
+  "description": "All your favourite pop songs, remixed to perfection. Cover: Joel Corry",
   "name": "Massive Pop Remixes",
   "tracks": [
+    {
+      "album": {
+        "name": "0800 HEAVEN (Ben Nicky Remix)",
+        "url": "https://open.spotify.com/album/0VnydGXs0wcPueO5XjSNr7"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "0800 HEAVEN (feat. Ella Henderson) - Ben Nicky Remix",
+      "url": "https://open.spotify.com/track/1Iz54kcegQGncuWqO9JEem"
+    },
     {
       "album": {
         "name": "10:35 (feat. Tate McRae) [The Remixes]",
@@ -145,6 +175,36 @@
     },
     {
       "album": {
+        "name": "Alone (Major Lazer Remix)",
+        "url": "https://open.spotify.com/album/3hZspK8JUoriWl0xf4sApo"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Alone - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/5j8DeNfHqMFE5c9pSRhhJP"
+    },
+    {
+      "album": {
         "name": "Anti-Hero (Remixes)",
         "url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
       },
@@ -160,10 +220,40 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 215696,
       "name": "Anti-Hero - Jayda G Remix",
       "url": "https://open.spotify.com/track/4YrpqEBNuz7IMsZtUP6bNQ"
+    },
+    {
+      "album": {
+        "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Robin Schulz Remix]",
+        "url": "https://open.spotify.com/album/1sWCNg6hMcdlgvPOzOM9kP"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213281,
+      "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/6GM5okVwM8whUJKWpCrl3j"
     },
     {
       "album": {
@@ -204,10 +294,32 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 181927,
       "name": "Better Days - Galantis Remix",
       "url": "https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF"
+    },
+    {
+      "album": {
+        "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
+        "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158723,
+      "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
+      "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
     },
     {
       "album": {
@@ -318,7 +430,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 173333,
       "name": "Can't Tame Her - VIZE Remix",
       "url": "https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK"
@@ -410,10 +522,32 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 216256,
       "name": "Don't Start Now - Kungs Remix",
       "url": "https://open.spotify.com/track/4cqoZl61mIxLMak6gFCSIo"
+    },
+    {
+      "album": {
+        "name": "Feel It (1991 Remix)",
+        "url": "https://open.spotify.com/album/3jnLN6i2fCIHuY6Fy9IyHi"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179341,
+      "name": "Feel It - 1991 Remix",
+      "url": "https://open.spotify.com/track/3oNHb6pdcPr6vj5iy2S9o1"
     },
     {
       "album": {
@@ -479,6 +613,32 @@
     },
     {
       "album": {
+        "name": "Good Love (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182401,
+      "name": "Good Love - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM"
+    },
+    {
+      "album": {
         "name": "Good Ones (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
       },
@@ -520,7 +680,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 203733,
       "name": "Hate Me - R3HAB Remix",
       "url": "https://open.spotify.com/track/3iJeF2izF1QcpCgUc97BLl"
@@ -615,6 +775,28 @@
     },
     {
       "album": {
+        "name": "How Does It Feel (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6ko9r3KK7mLahvJoQVEQ9U"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "How Does It Feel - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/6VGhytFFk1k9xIzkRsYLZQ"
+    },
+    {
+      "album": {
         "name": "If We Ever Broke Up (goddard. Remix)",
         "url": "https://open.spotify.com/album/0ToSBYDbCC4Up9JlpZkXSr"
       },
@@ -704,7 +886,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 212392,
       "name": "Lasting Lover - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3fIkn0ksMuH91GpflwmpJf"
@@ -726,10 +908,32 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 171562,
       "name": "Lavender Haze - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/5KxZfCXXmVvKhPo8hQz2pS"
+    },
+    {
+      "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
     },
     {
       "album": {
@@ -778,7 +982,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 157647,
       "name": "Life Goes On - Alok Remix",
       "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
@@ -804,7 +1008,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 163639,
       "name": "Lionheart - Cedric Gervais Remix",
       "url": "https://open.spotify.com/track/1BekxmZKaOuPxxlS7kF1Gz"
@@ -833,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "Maria Maria (Diplo Remix)",
+        "url": "https://open.spotify.com/album/57iQnFH2IeM3sX72RIeRSP"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Maria Maria - Diplo Remix",
+      "url": "https://open.spotify.com/track/2qrYoFdbH1zWue91YfNYk5"
+    },
+    {
+      "album": {
         "name": "Memories (Dillon Francis Remix)",
         "url": "https://open.spotify.com/album/63rPSO264uRjW1X5E6cWv6"
       },
@@ -852,6 +1078,32 @@
       "duration_ms": 162600,
       "name": "Memories - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/0r7CVbZTWZgbTCYdfa2P31"
+    },
+    {
+      "album": {
+        "name": "Miracle (with Ellie Goulding) [Remixes]",
+        "url": "https://open.spotify.com/album/1dA4WEViR1fXqlM2eAUQab"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217734,
+      "name": "Miracle (with Ellie Goulding) - Mau P Remix",
+      "url": "https://open.spotify.com/track/1kPbAATq430QRJu0oYOyrJ"
     },
     {
       "album": {
@@ -940,7 +1192,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 215473,
       "name": "Nice To Meet Ya - Diplo Remix",
       "url": "https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX"
@@ -973,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "Padam Padam (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204242,
+      "name": "Padam Padam - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2"
+    },
+    {
+      "album": {
         "name": "people pleaser (TeeDee Remix)",
         "url": "https://open.spotify.com/album/1t8qr9i7Fv2zaECOMgdOC9"
       },
@@ -988,7 +1262,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 172555,
       "name": "people pleaser - TeeDee Remix",
       "url": "https://open.spotify.com/track/1H1PMVu34Fy9XmXm8xWJx6"
@@ -1021,6 +1295,32 @@
     },
     {
       "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
+      },
+      "artists": [
+        {
+          "name": "cass\u00f6",
+          "url": "https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132359,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "album": {
         "name": "Rasputin (Remixes)",
         "url": "https://open.spotify.com/album/19TzoU9GkP6UpHGMgZaUdJ"
       },
@@ -1036,10 +1336,32 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 345542,
       "name": "Rasputin - Majestic Club VIP Remix",
       "url": "https://open.spotify.com/track/6FO4K7MrMoYkc5BlpX5LNV"
+    },
+    {
+      "album": {
+        "name": "REACT (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/3z1xjXM8LPuABJSw64mmzH"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135116,
+      "name": "REACT - D.O.D Remix",
+      "url": "https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit"
     },
     {
       "album": {
@@ -1109,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Rush (Remixes)",
+        "url": "https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Rush - Tom Santa Remix",
+      "url": "https://open.spotify.com/track/6MxXe1BRJMl1Bu1NB1oKwU"
+    },
+    {
+      "album": {
         "name": "SAD (Imanbek xxx Remix)",
         "url": "https://open.spotify.com/album/0MoT8k5F7qoeCcP2DfW8GF"
       },
@@ -1150,7 +1494,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 161097,
       "name": "Save Room For Us (Remix)",
       "url": "https://open.spotify.com/track/0W7rLXul6bBP5uAkBXxQhE"
@@ -1268,10 +1612,32 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 164226,
       "name": "Skank All Night (You Wot, You Wot)",
       "url": "https://open.spotify.com/track/0gAHzuT4ekkbMAfscfCQXB"
+    },
+    {
+      "album": {
+        "name": "So Much In Love (Remixes)",
+        "url": "https://open.spotify.com/album/3YY2xK0tFsg6Fp81z5G7jm"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235885,
+      "name": "So Much In Love - Sub Focus Remix",
+      "url": "https://open.spotify.com/track/5AWwWvLjBsttSyFXBaNdsy"
     },
     {
       "album": {
@@ -1320,7 +1686,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
@@ -1398,7 +1764,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 218318,
       "name": "Still Sleepless - Ekko & Sidetrack Remix",
       "url": "https://open.spotify.com/track/2Tnt1ux4o63qXFR8G9kePT"
@@ -1476,6 +1842,28 @@
       "duration_ms": 192877,
       "name": "Where Are You Now - Kungs Remix",
       "url": "https://open.spotify.com/track/4GIMEDzfakGjbIUme3waUb"
+    },
+    {
+      "album": {
+        "name": "Wish You The Best EP",
+        "url": "https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "JM\u0394C",
+          "url": "https://open.spotify.com/artist/0PCcwe894ViQfIf5OOv4rJ"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "Wish You The Best - JM\u2206C Remix",
+      "url": "https://open.spotify.com/track/0EodQ8rugtFtKwr91Uw93T"
     },
     {
       "album": {

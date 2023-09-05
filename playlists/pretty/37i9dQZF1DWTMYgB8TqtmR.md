@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,578 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,596 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
-| 2 | [Kommer Aldrig Förlora](https://open.spotify.com/track/1NfCjrtBVVK0IriW12o8Fd) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Kommer Aldrig Förlora](https://open.spotify.com/album/0w7OKVruuoyiHwhv98Ul97) | 3:21 |
-| 3 | [Soldat](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Soldat](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 |
+| 1 | [Kommer Aldrig Förlora](https://open.spotify.com/track/1NfCjrtBVVK0IriW12o8Fd) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Kommer Aldrig Förlora](https://open.spotify.com/album/0w7OKVruuoyiHwhv98Ul97) | 3:21 |
+| 2 | [Soldat](https://open.spotify.com/track/4c9lx29ADaRI0Hzy8ql69V) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Soldat](https://open.spotify.com/album/30rq6uVi2lypmp6787cImE) | 2:19 |
+| 3 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
 | 4 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 5 | [Vibe Check](https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Vibe Check](https://open.spotify.com/album/0OrXgNFMNUFlwddX4NnCtD) | 3:12 |
 | 6 | [Natten blir till dag](https://open.spotify.com/track/2cqyU75B4rXPHlU2X6WLCI) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Natten blir till dag](https://open.spotify.com/album/3AqAKMOt7dNZqbvPAhYzbZ) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 |
 | 50 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 
-Snapshot ID: `MCw4YmY4ZTNhYjcyYWM5MTcwODdjOTc5NGRhYmU0YzU1MTc4ZDYyZTM4`
+Snapshot ID: `MCw1ZDNiOTkwYmJkZjQ5OTE0NWVjMTI5ZGYyY2U0OWI3MTE1YmI5ODc4`

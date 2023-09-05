@@ -4,7 +4,7 @@
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Brent Faiyaz
 
-207 songs - 11 hr 23 min
+208 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Timeless](https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Timeless](https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47) | 3:14 | 2023-07-20 |  |
 | [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 | 2023-06-22 | 2023-08-04 |
 | [Troubling](https://open.spotify.com/track/12GMfvgTb0bNDecXaJC6Sm) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6XD1SKGw1xN4Ck75HNKaWd) | 2:31 | 2023-06-01 | 2023-07-08 |
-| [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-07-06 |  |
+| [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 | 2023-07-06 | 2023-09-05 |
+| [Troubling](https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 | 2023-08-24 |  |
 | [Twin](https://open.spotify.com/track/7eNB1CxbNWiBVZwzXAJqgW) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Twin](https://open.spotify.com/album/3bIxBt4ugXjYeua4yVbynN) | 2:44 | 2023-03-23 | 2023-05-26 |
 | [Unravel](https://open.spotify.com/track/4iaGEMYt33g7XRW0XysG5B) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Unravel](https://open.spotify.com/album/2Ag4zs6ShtSHPVcgIZoSeq) | 2:40 | 2023-06-08 | 2023-06-16 |
 | [Unstoppable](https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Unstoppable](https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T) | 4:07 | 2023-04-06 | 2023-06-16 |

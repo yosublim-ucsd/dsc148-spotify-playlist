@@ -1,6 +1,6 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 302348,
+  "num_followers": 302986,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "How's It Going to Be",
+      "url": "https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
         "name": "Ring",
         "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 278973,
       "name": "'74-'75",
       "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
-        "name": "Extreme II: Pornograffitti (Deluxe)",
-        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
+        "name": "Extreme II: Pornograffitti (Deluxe)",
+        "url": "https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
         "name": "America's Least Wanted",
         "url": "https://open.spotify.com/album/0lQjdBr2n0WQg5sjGzLVfR"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 241893,
       "name": "Cats In The Cradle",
       "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "How's It Going to Be",
-      "url": "https://open.spotify.com/track/3Uvx1TO0Kg5HgGPk58lHXv"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/4WnYuVFXe6Si4fZqkxbnvS"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/4WnYuVFXe6Si4fZqkxbnvS"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
         "name": "New Miserable Experience",
         "url": "https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Bat Out Of Hell II: Back Into Hell",
-        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 316466,
-      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
-      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 227573,
       "name": "Something To Talk About",
       "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Yes I Am",
-        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
-      },
-      "artists": [
-        {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Come To My Window",
-      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Hell To Pay",
         "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
+        "name": "On A Day Like Today",
+        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Cloud Number Nine",
+      "url": "https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "On A Day Like Today",
-        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
+        "name": "Yes I Am",
+        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Cloud Number Nine",
-      "url": "https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV"
+      "duration_ms": 236000,
+      "name": "Come To My Window",
+      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
     },
     {
       "added_at": "2023-01-18 22:23:18",

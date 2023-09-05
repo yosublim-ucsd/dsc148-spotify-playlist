@@ -2223,6 +2223,28 @@
     },
     {
       "album": {
+        "name": "ROZAL\u00c9N (ACOUSTIC HOME sessions)",
+        "url": "https://open.spotify.com/album/3zvESYWLw2GyBIj2r0RBPI"
+      },
+      "artists": [
+        {
+          "name": "Los Ac\u00fasticos",
+          "url": "https://open.spotify.com/artist/5tAfcROTNt4bBxY2ARRQ7d"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "La Puerta Violeta - ACOUSTIC HOME sessions",
+      "url": "https://open.spotify.com/track/47bKCfiZD9WQXR92mvSBsR"
+    },
+    {
+      "album": {
         "name": "12 segundos de oscuridad",
         "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
       },
@@ -2466,7 +2488,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 197213,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"

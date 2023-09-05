@@ -2,9 +2,9 @@
 
 ### [Ghaint Flow](https://open.spotify.com/playlist/37i9dQZF1DX5OWRwJruafQ)
 
-> Keep it Punjabi, Keep it Real\. Cover: Nseeb
+> Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-191 songs - 9 hr 13 min
+193 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-12 | 2023-07-28 |
 | [If I Die](https://open.spotify.com/track/6Hz3tNl55T31nuoX5NKybR) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [If I Die](https://open.spotify.com/album/78piK5s0g1fcELSLFzvDbI) | 3:06 | 2023-03-29 |  |
 | [Ilzaam](https://open.spotify.com/track/0orOI8nTid7fxPvWIx1tKP) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:07 | 2023-07-07 |  |
+| [Immortal](https://open.spotify.com/track/1kaKltt8lpftj69XODO4RM) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:51 | 2023-09-04 |  |
 | [Invincible \(feat\. Stefflon Don\)](https://open.spotify.com/track/2NBYiYtI4v1ujkhHZBq3xw) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:04 | 2023-03-29 | 2023-07-15 |
 | [Iran](https://open.spotify.com/track/2sAvvxcPYW5qJmFWCTSoFv) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 2:35 | 2023-06-23 | 2023-07-13 |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2023-03-29 | 2023-07-15 |
@@ -134,7 +135,7 @@
 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 | 2023-03-29 | 2023-07-06 |
 | [Nakhra](https://open.spotify.com/track/2mCSLb0iW0XRrKDVjMzNhm) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Gurjas Sidhu](https://open.spotify.com/artist/5PG1p5BLA6PsBFu2V2nC6y), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Nakhra](https://open.spotify.com/album/2pbLLIj7fyi6Zqokwew87o) | 2:28 | 2023-03-29 | 2023-04-09 |
 | [Nattiyan](https://open.spotify.com/track/0DzcKCvxOBiueaJOnK9WhG) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 3:07 | 2023-04-01 | 2023-04-15 |
-| [Navigation](https://open.spotify.com/track/1FEv3Eim0qpTQP5DMLZeXe) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Sejal Puri](https://open.spotify.com/artist/4RhRPyU8sQguJwLGoaf4xA), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Navigation](https://open.spotify.com/album/3b1uXfpYcttiBlXZ804FSz) | 3:00 | 2023-07-25 |  |
+| [Navigation](https://open.spotify.com/track/1FEv3Eim0qpTQP5DMLZeXe) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Sejal Puri](https://open.spotify.com/artist/5krsrrFzTaI3Mb51twW6Dg), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Navigation](https://open.spotify.com/album/3b1uXfpYcttiBlXZ804FSz) | 3:00 | 2023-07-25 |  |
 | [Never Ending](https://open.spotify.com/track/3QWwHA9yV64KMcUUggOofL) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Never Ending](https://open.spotify.com/album/3UPmZcg6np0DqEo2SonSNu) | 2:38 | 2023-07-24 |  |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 |  |
 | [No Safety](https://open.spotify.com/track/20UbVolWK6m0Z0ombwnJuv) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Safety](https://open.spotify.com/album/3e1Hy7oriakodVpnsQHOCW) | 1:58 | 2023-08-11 |  |
@@ -169,6 +170,7 @@
 | [Sorry Dad](https://open.spotify.com/track/68OVeyL8exUytFImXPS0pn) | [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sorry Dad](https://open.spotify.com/album/6ZtYRa1Xryr6FzKFD36mba) | 2:33 | 2023-03-29 | 2023-07-15 |
 | [Stag Entry](https://open.spotify.com/track/4oy3rN2WstnyC1UxstIe6W) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Stag Entry](https://open.spotify.com/album/0IohoDqCDUX4RgAm533C4R) | 2:37 | 2023-06-28 |  |
 | [Stick Talk](https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Stick Talk](https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0) | 2:39 | 2023-05-18 |  |
+| [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 |  |
 | [Style](https://open.spotify.com/track/4qNCoi29Sy2wjqltNCs0uV) | [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Jashan dandiwal](https://open.spotify.com/artist/4hDhWCwjFx2gm00vBrN4tA) | [Style](https://open.spotify.com/album/2aaiIRxkz5XNJI5sClUmdk) | 2:46 | 2023-06-12 | 2023-07-13 |
 | [TALK LESS](https://open.spotify.com/track/2FdHYqak0QNYVvvvYfTKLN) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [TALK LESS](https://open.spotify.com/album/0GPjytkpi73o0Uuz8J5yjz) | 2:21 | 2023-03-29 | 2023-04-21 |
 | [Tape 2](https://open.spotify.com/track/1GNvVQnt5tR87lmhwl0yaN) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:19 | 2023-06-29 |  |

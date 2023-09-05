@@ -7707,6 +7707,36 @@
     },
     {
       "album": {
+        "name": "Piano Republik (Remixes)",
+        "url": "https://open.spotify.com/album/0rq3Jg8TCAfln9gJIwBBh8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401064,
+      "name": "Oh Yeah - Ape Drums Remix",
+      "url": "https://open.spotify.com/track/1jk27KIDpTs4L4UHLgu2oJ"
+    },
+    {
+      "album": {
         "name": "Parallel Reality EP",
         "url": "https://open.spotify.com/album/1iNJnvt99QWmxm5a96YYrB"
       },
@@ -11126,7 +11156,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 199044,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"

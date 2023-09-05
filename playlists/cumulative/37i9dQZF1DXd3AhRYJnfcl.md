@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=vP5Wm1cSRrK50OVEcXd\_oA">  حماقي </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=vP5Wm1cSRrK50OVEcXd\_oA">  حماقي </a>
 
 227 songs - 13 hr 11 min
 

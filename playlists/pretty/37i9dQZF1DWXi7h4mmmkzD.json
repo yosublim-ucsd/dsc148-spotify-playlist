@@ -1,12 +1,12 @@
 {
   "description": "Nighttime is the right time for these party hits!",
-  "num_followers": 579188,
+  "num_followers": 579329,
   "original_name": "Country Nights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2YzNmYxNmE1YjFjMDAwMjg4YjY2MTg2ZTFkZTM2OGUwNTUzNDFh",
+  "snapshot_id": "MCwyMTVhMjY0ZDQ5ZWM5OTgxNmIwZWE1Y2UzMzYyNzI5OGMwMGI1OTVk",
   "tracks": [
     {
       "added_at": "2023-05-23 12:53:22",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Whiskey Glasses",
+      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 186733,
       "name": "Beer Never Broke My Heart",
       "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Whiskey Glasses",
-      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+      "duration_ms": 172480,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 190186,
-      "name": "That's My Kind Of Night",
-      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+      "duration_ms": 190186,
+      "name": "That's My Kind Of Night",
+      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -663,6 +663,54 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Singles You Up",
+      "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
+        "name": "Goldmine",
+        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 215140,
+      "name": "The Good Ones",
+      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
         "name": "What You See Ain't Always What You Get (Deluxe Edition)",
         "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
@@ -695,38 +743,6 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Goldmine",
-        "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 215140,
-      "name": "The Good Ones",
-      "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Singles You Up",
-      "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
         "name": "Tailgates & Tanlines",
         "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 219973,
       "name": "I Don't Want This Night To End",
       "url": "https://open.spotify.com/track/7c1KTn1z8Gw8ouYdcF4qaG"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
         "name": "Carly Pearce",
         "url": "https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 205106,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Thompson Square",
-        "url": "https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF"
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
       "artists": [
         {
-          "name": "Thompson Square",
-          "url": "https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 184920,
-      "name": "Are You Gonna Kiss Me Or Not",
-      "url": "https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15"
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+        "name": "Thompson Square",
+        "url": "https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Thompson Square",
+          "url": "https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp"
         }
       ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
+      "duration_ms": 184920,
+      "name": "Are You Gonna Kiss Me Or Not",
+      "url": "https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 192053,
       "name": "Good as You",
       "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Knockin' Boots",
-        "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 199382,
-      "name": "Knockin' Boots",
-      "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
-    },
-    {
-      "added_at": "2023-05-23 12:53:22",
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-05-23 12:53:22",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+        "name": "Knockin' Boots",
+        "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 227693,
-      "name": "T-Shirt",
-      "url": "https://open.spotify.com/track/1zWZvrk13cL8Sl3VLeG57F"
+      "duration_ms": 199382,
+      "name": "Knockin' Boots",
+      "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
     },
     {
       "added_at": "2023-05-23 12:53:22",
@@ -1619,6 +1603,22 @@
       "duration_ms": 178680,
       "name": "I Was On a Boat That Day",
       "url": "https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8"
+    },
+    {
+      "added_at": "2023-05-23 12:53:22",
+      "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/1zWZvrk13cL8Sl3VLeG57F"
     },
     {
       "added_at": "2023-05-23 12:53:22",

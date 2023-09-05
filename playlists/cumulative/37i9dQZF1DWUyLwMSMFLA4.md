@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia y cuarteto!
 
-133 songs - 8 hr 6 min
+134 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2023-05-05 |  |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-05-05 |  |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2023-05-05 |  |
+| [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn) | 2:51 | 2023-09-04 |  |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2023-05-05 |  |
 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 | 2023-05-05 |  |
 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2023-05-05 |  |
@@ -114,7 +115,7 @@
 | [Sin Documentos \- Cover](https://open.spotify.com/track/2jDDaOlTlPIj14ogDGeQO6) | [THE PALMERS](https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN) | [Sin Documentos \(Cover\)](https://open.spotify.com/album/57jYr82JRXrEQlt8CWl7lL) | 2:49 | 2023-06-09 | 2023-07-04 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-05-05 |  |
 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 | 2023-05-05 | 2023-08-26 |
-| [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 |  |
+| [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 | 2023-09-05 |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2023-05-05 |  |
 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 | 2023-05-05 | 2023-08-23 |
 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 | 2023-05-05 |  |

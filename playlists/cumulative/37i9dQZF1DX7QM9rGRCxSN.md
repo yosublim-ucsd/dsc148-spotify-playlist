@@ -4,7 +4,7 @@
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Con te vi en un planetario, en portada.
 
-77 songs - 5 hr 10 min
+78 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,12 @@
 | [Amor de Furgoneta](https://open.spotify.com/track/3uZndqZtdBxtnLe875iPSR) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Amor de Furgoneta](https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy) | 3:12 | 2022-10-28 |  |
 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 | 2023-02-17 | 2023-05-14 |
 | [Ansiedad](https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [Ausencia](https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG) | 1:40 | 2023-05-05 |  |
-| [Aterrizar](https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 3:34 | 2021-10-19 | 2023-09-04 |
-| [Bahía Conejo](https://open.spotify.com/track/7z84D7G2GzaxPx9TjE4KJJ) | [Los Wipis](https://open.spotify.com/artist/0zXIjmElSByDJyUmlx1IZa) | [Bahía Conejo](https://open.spotify.com/album/5Vfp7Pf7oj7wQGlzjw0l8M) | 3:21 | 2023-05-05 |  |
-| [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 | 2023-04-28 |  |
+| [Aterrizar](https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 3:34 | 2021-10-19 |  |
+| [Bahía Conejo](https://open.spotify.com/track/7z84D7G2GzaxPx9TjE4KJJ) | [Los Wipis](https://open.spotify.com/artist/0zXIjmElSByDJyUmlx1IZa) | [Bahía Conejo](https://open.spotify.com/album/5Vfp7Pf7oj7wQGlzjw0l8M) | 3:21 | 2023-05-05 | 2023-09-05 |
+| [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 | 2023-09-04 |  |
+| [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 | 2023-04-28 | 2023-09-05 |
 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 | 2023-01-26 | 2023-08-04 |
-| [Ceremonia](https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ceremonia](https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07) | 5:00 | 2021-10-19 | 2023-09-04 |
+| [Ceremonia](https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ceremonia](https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07) | 5:00 | 2021-10-19 |  |
 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 | 2022-03-18 | 2023-03-30 |
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-04 | 2023-07-07 |
 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 | 2021-10-19 |  |
@@ -26,7 +27,7 @@
 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 | 2021-10-19 |  |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2021-10-19 |  |
 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 | 2021-10-19 |  |
-| [Dínamo](https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Dínamo](https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba) | 3:27 | 2023-04-28 |  |
+| [Dínamo](https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Dínamo](https://open.spotify.com/album/6IE6bOCP0rgHHAGMaEfDba) | 3:27 | 2023-04-28 | 2023-09-05 |
 | [Efervecencia](https://open.spotify.com/track/2YYyNYvGBlobj2UjpWGcNo) | [Adelaida](https://open.spotify.com/artist/5ugKDsPNjtGyV7WxD7nTYS) | [Animita](https://open.spotify.com/album/2gz1tfqRhfFjD4noTtqKUs) | 4:25 | 2023-03-17 |  |
 | [El Brillo de Tu Ausencia](https://open.spotify.com/track/5j1grRcBgGMzdXh0DoEOzz) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [El Brillo de Tu Ausencia](https://open.spotify.com/album/5t1Uw2qWVVMCAzmHwwdT02) | 4:12 | 2022-09-07 | 2023-03-28 |
 | [El Primero](https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [El Primero](https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H) | 3:11 | 2023-01-30 |  |
@@ -64,7 +65,7 @@
 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 | 2022-03-18 |  |
 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 | 2022-06-20 |  |
 | [Placer Displacer](https://open.spotify.com/track/12vC5vhU42ZRY3LhAwOYVf) | [SEXES](https://open.spotify.com/artist/1Fq29HLbHUsplyoE5mMAFp) | [Placer Displacer](https://open.spotify.com/album/6Fs5XNxyodItJMJrqaI49a) | 3:26 | 2023-01-26 | 2023-03-25 |
-| [Poco a Poco](https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Entre Desiertos EP](https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw) | 5:02 | 2021-10-19 | 2023-09-04 |
+| [Poco a Poco](https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Entre Desiertos EP](https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw) | 5:02 | 2021-10-19 |  |
 | [Púrpura](https://open.spotify.com/track/3jtaAUbFSzfoKv6bVVo563) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/0zEZh5PgV10xk2VM0GJ3Lm) | 2:54 | 2021-10-19 |  |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-24 |  |
 | [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2023-05-05 |  |
@@ -84,6 +85,6 @@
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-04-01 |  |
 | [What’s holding you?](https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Chambers](https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh) | 4:58 | 2021-10-19 |  |
 | [Wow](https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Wow](https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH) | 5:16 | 2021-10-19 |  |
-| [Your Lips, My Mouth](https://open.spotify.com/track/28afz1iY04Elvc7YhHDYTt) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:50 | 2021-10-19 |  |
+| [Your Lips, My Mouth](https://open.spotify.com/track/28afz1iY04Elvc7YhHDYTt) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:50 | 2021-10-19 | 2023-09-05 |
 
 \*This playlist was first scraped on 2023-03-08. Prior content cannot be recovered.

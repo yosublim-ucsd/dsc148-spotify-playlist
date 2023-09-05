@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Peru.
 
-562 songs - 1 day 8 hr 6 min
+563 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-22 | 2023-06-04 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-23 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-02 | 2023-08-04 |
+| [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-09-04 |  |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 | 2021-03-27 | 2021-04-03 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 | 2021-03-27\* | 2021-03-27 |
 | [BABY OTAKU](https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [BABY OTAKU](https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G) | 2:56 | 2022-09-22 | 2023-01-07 |
@@ -426,7 +427,7 @@
 | [Ram Pam Pam](https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ram Pam Pam](https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr) | 3:20 | 2021-05-16 | 2021-09-26 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-02-19 |  |
 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 | 2023-06-23 | 2023-07-09 |
-| [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 | 2023-08-30 |  |
+| [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 | 2023-08-30 | 2023-09-05 |
 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 | 2021-03-27\* | 2021-04-26 |
 | [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 | 2021-03-27\* | 2021-07-11 |
 | [REMIX](https://open.spotify.com/track/65MqlYPOWReasKWcuCaOCW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:43 | 2022-03-26 | 2022-03-28 |

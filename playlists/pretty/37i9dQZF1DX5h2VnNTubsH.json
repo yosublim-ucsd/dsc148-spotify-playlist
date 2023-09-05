@@ -1,12 +1,12 @@
 {
   "description": "Out of office \u2705",
-  "num_followers": 168514,
+  "num_followers": 168565,
   "original_name": "Summer Holiday 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjcyN2NjZmUzNGFlMjIwNjc4NmQ5Y2U3MGJiY2EzODRjNDA2MWFh",
+  "snapshot_id": "MCw1ZDYzNDEyOTBiMjMxODY3Y2M0ZWZkMDA0MGUxNTFiNTgxYmZiOWU3",
   "tracks": [
     {
       "added_at": "2023-08-15 20:30:18",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 131013,
       "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -531,22 +531,22 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+        "name": "adore u",
+        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+      "duration_ms": 220653,
+      "name": "adore u",
+      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "adore u",
-        "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "adore u",
-      "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Padam Padam",
         "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 166266,
       "name": "Padam Padam",
       "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Big 7",
-        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 143042,
-      "name": "Big 7",
-      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
         "name": "Vibes Don't Lie",
         "url": "https://open.spotify.com/album/6Dl92Rb1qVMsN0cBzTVwMU"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 148333,
       "name": "Tek Buddy",
       "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3Yr0vIcfXq5MWdSDmZzKgk"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1427,6 +1427,22 @@
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2023-08-15 20:30:18",
+      "album": {
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 133212,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
     {
       "added_at": "2023-08-15 20:30:18",
@@ -1467,38 +1483,26 @@
     {
       "added_at": "2023-08-15 20:30:18",
       "album": {
-        "name": "The Cure & The Cause (Radio Edit)",
-        "url": "https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH"
       },
       "artists": [
         {
-          "name": "Fish Go Deep",
-          "url": "https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "Tracey K",
-          "url": "https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg"
-        }
-      ],
-      "duration_ms": 157040,
-      "name": "The Cure & The Cause - Radio Edit",
-      "url": "https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm"
-    },
-    {
-      "added_at": "2023-08-15 20:30:18",
-      "album": {
-        "name": "Beat Goes On (Rhythm to the Brain)",
-        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
-      },
-      "artists": [
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
         {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         }
       ],
-      "duration_ms": 133212,
-      "name": "Beat Goes On (Rhythm to the Brain)",
-      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
+      "duration_ms": 159375,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc"
     }
   ],
   "unique_name": "Summer Holiday 2023",

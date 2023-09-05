@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 118604,
       "name": "Dealas",
       "url": "https://open.spotify.com/track/7nDIe2gzqIA6n2azvWixNx"
@@ -9036,7 +9036,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -12165,6 +12165,28 @@
     },
     {
       "album": {
+        "name": "LOVELY BASTARDS",
+        "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
+      },
+      "artists": [
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        },
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116104,
+      "name": "LOVELY BASTARDS",
+      "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
+    },
+    {
+      "album": {
         "name": "French Exit",
         "url": "https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e"
       },
@@ -14548,7 +14570,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 232986,
       "name": "Nes A\u0161 Tik V\u0117jas",
       "url": "https://open.spotify.com/track/3CqHPd7DL2cfXsGbOaNfp4"
@@ -15968,7 +15990,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 141900,
       "name": "Pasaka",
       "url": "https://open.spotify.com/track/7CA64sreJrxXDrbkIMi8ge"
@@ -22473,6 +22495,24 @@
     },
     {
       "album": {
+        "name": "Pasveikinkit Vieni Kitus",
+        "url": "https://open.spotify.com/album/5bhQ2yAml1kud1A2T3G2Ac"
+      },
+      "artists": [
+        {
+          "name": "Marijonas Mikutavi\u010dius",
+          "url": "https://open.spotify.com/artist/0seAUteh6YCMTYjXgAOpMz"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339946,
+      "name": "Trys Milijonai",
+      "url": "https://open.spotify.com/track/18dYlWQI1mYlG89ShnaULT"
+    },
+    {
+      "album": {
         "name": "NAUTO",
         "url": "https://open.spotify.com/album/1XXP7AmLVPFsriIOegQYUf"
       },
@@ -23300,6 +23340,24 @@
       "duration_ms": 236335,
       "name": "Vieni\u0161as \u017emogus",
       "url": "https://open.spotify.com/track/2CCfcpOe4QQx6JV1wIy29A"
+    },
+    {
+      "album": {
+        "name": "Vien\u0105 Meil\u0119",
+        "url": "https://open.spotify.com/album/1TafR52Ua0YbTR8Ht5hDta"
+      },
+      "artists": [
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182086,
+      "name": "Vien\u0105 Meil\u0119",
+      "url": "https://open.spotify.com/track/1l6t1IFzdA3dNDTpOjUOXp"
     },
     {
       "album": {

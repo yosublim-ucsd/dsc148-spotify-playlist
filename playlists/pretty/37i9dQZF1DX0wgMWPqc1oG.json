@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 23447,
+  "num_followers": 23467,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDE0Y2M2MmM2MGJkZjk0YWZlZmMyMjVjN2FhOGY3NTVkOTA4YmRh",
+  "snapshot_id": "MCxlYWRiNDQyZWIyOTVmMTBhMzc4MGZkYWY4NDVlMzFiMmI1NWZiMTU0",
   "tracks": [
     {
       "added_at": "2023-08-31 12:22:47",
@@ -187,18 +187,34 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 417720,
-      "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
+      "duration_ms": 642506,
+      "name": "A Love Supreme, Pt. III - Pursuance",
+      "url": "https://open.spotify.com/track/0jHEixPAoSopOP75j2iTX9"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -235,50 +251,18 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA"
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 642506,
-      "name": "A Love Supreme, Pt. III - Pursuance",
-      "url": "https://open.spotify.com/track/0jHEixPAoSopOP75j2iTX9"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/26Rjb0u2d5Oj5aPZlQ9gAm"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
+      "duration_ms": 417720,
+      "name": "No Room For Squares - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -295,6 +279,22 @@
       "duration_ms": 491493,
       "name": "Witch Hunt - Remastered 1998 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6fw1b1bCVNY5EVurncxIss"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/26Rjb0u2d5Oj5aPZlQ9gAm"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 388146,
+      "name": "Black Nile - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3rXJbXaRGLK1A6vPmRafRR"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
         "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 417333,
       "name": "Three Little Words",
       "url": "https://open.spotify.com/track/6bR6BWEAtfxB6XNbS85Ua0"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 388146,
-      "name": "Black Nile - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3rXJbXaRGLK1A6vPmRafRR"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
+        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 729293,
+      "name": "Out To Lunch - Remastered 1998/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
         "name": "Blues & Roots",
         "url": "https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Out To Lunch (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
+        "name": "Red Clay",
+        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
       },
       "artists": [
         {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 729293,
-      "name": "Out To Lunch - Remastered 1998/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6BD4u2tOTHMlACAZ8gX0Gs"
+      "duration_ms": 643706,
+      "name": "The Intrepid Fox",
+      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -611,22 +627,6 @@
       "duration_ms": 480933,
       "name": "Mode For Joe - Remastered",
       "url": "https://open.spotify.com/track/3kltDmshkHJ924f2ZL2Qsy"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
-        "name": "Red Clay",
-        "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 643706,
-      "name": "The Intrepid Fox",
-      "url": "https://open.spotify.com/track/3SHWZGAvCDcAajSAw3KRU6"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 280146,
-      "name": "Riot - Remastered",
-      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
         "name": "E.S.P. (2022 Remaster)",
         "url": "https://open.spotify.com/album/16l5pMsJoz1KoHrxvXREBs"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 243013,
       "name": "R.J.",
       "url": "https://open.spotify.com/track/3rBVE16rpR9d9KivCflGON"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 280146,
+      "name": "Riot - Remastered",
+      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "In 'N Out (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 547666,
-      "name": "Punjab - Remastered 2003 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
         "name": "Red Clay",
         "url": "https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 524546,
       "name": "Suite Sioux",
       "url": "https://open.spotify.com/track/64rHDxDhz71GtHxs5QBsQ5"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "In 'N Out (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 547666,
+      "name": "Punjab - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Nefertiti (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 534573,
-      "name": "Hand Jive",
-      "url": "https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN"
+      "duration_ms": 504426,
+      "name": "Hub-Tones - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
-        }
-      ],
-      "duration_ms": 424733,
-      "name": "Mr. Jin - Remastered",
-      "url": "https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
         "name": "Cornbread",
         "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
       },
@@ -887,34 +871,34 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "The Best Of Art Blakey",
-        "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
+        "name": "Nefertiti (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY"
       },
       "artists": [
         {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 669306,
-      "name": "Free For All",
-      "url": "https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN"
+      "duration_ms": 534573,
+      "name": "Hand Jive",
+      "url": "https://open.spotify.com/track/31W4cIsWpn6zubliC06BsN"
     },
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Hub-Tones",
-        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
         }
       ],
-      "duration_ms": 504426,
-      "name": "Hub-Tones - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm"
+      "duration_ms": 424733,
+      "name": "Mr. Jin - Remastered",
+      "url": "https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
+        "name": "The Best Of Art Blakey",
+        "url": "https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
         }
       ],
-      "duration_ms": 318400,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
+      "duration_ms": 669306,
+      "name": "Free For All",
+      "url": "https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -963,6 +947,22 @@
       "duration_ms": 742960,
       "name": "Blessing In Disguise",
       "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 318400,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 482186,
-      "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
         "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
       },
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Contours",
-        "url": "https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivers",
-          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
-        }
-      ],
-      "duration_ms": 563920,
-      "name": "Point Of Many Returns",
-      "url": "https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
         "name": "Components",
         "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
@@ -1187,22 +1155,6 @@
       "duration_ms": 385933,
       "name": "Components - Remastered 1994",
       "url": "https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
-        "name": "Duster",
-        "url": "https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf"
-      },
-      "artists": [
-        {
-          "name": "Gary Burton Quartet",
-          "url": "https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Portsmouth Figurations",
-      "url": "https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -1239,6 +1191,54 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
+        "name": "Free Form (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 482186,
+      "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "Contours",
+        "url": "https://open.spotify.com/album/4Qk5Ifnki13u4bSvNwXM8Y"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+        }
+      ],
+      "duration_ms": 563920,
+      "name": "Point Of Many Returns",
+      "url": "https://open.spotify.com/track/0cCWBZBTGiKwqZtxbgp8gY"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "Duster",
+        "url": "https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf"
+      },
+      "artists": [
+        {
+          "name": "Gary Burton Quartet",
+          "url": "https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Portsmouth Figurations",
+      "url": "https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
         "name": "Destination...Out!",
         "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Peacemeal",
-        "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz Quintet",
-          "url": "https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Bart\u00f3k: Thumb Under",
-      "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
         "name": "Dialogue",
         "url": "https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2"
       },
@@ -1303,34 +1287,18 @@
     {
       "added_at": "2023-08-31 12:22:47",
       "album": {
-        "name": "Spring (Remastered)",
-        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
+        "name": "Peacemeal",
+        "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
       },
       "artists": [
         {
-          "name": "Anthony Williams",
-          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+          "name": "Lee Konitz Quintet",
+          "url": "https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2"
         }
       ],
-      "duration_ms": 629053,
-      "name": "Tee - Remastered 2009/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4Jfk9tUIZOmwmNb86Qd9uu"
-    },
-    {
-      "added_at": "2023-08-31 12:22:47",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 569453,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
+      "duration_ms": 194266,
+      "name": "Bart\u00f3k: Thumb Under",
+      "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -1347,6 +1315,22 @@
       "duration_ms": 313733,
       "name": "Off My Back Jack",
       "url": "https://open.spotify.com/track/3AtuHU0gxC9210nu0wK3tU"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "Spring (Remastered)",
+        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
+      },
+      "artists": [
+        {
+          "name": "Anthony Williams",
+          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+        }
+      ],
+      "duration_ms": 629053,
+      "name": "Tee - Remastered 2009/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4Jfk9tUIZOmwmNb86Qd9uu"
     },
     {
       "added_at": "2023-08-31 12:22:47",
@@ -1379,6 +1363,22 @@
       "duration_ms": 971213,
       "name": "Chasin' The Trane - Live At The Village Vanguard, 1961",
       "url": "https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX"
+    },
+    {
+      "added_at": "2023-08-31 12:22:47",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 569453,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
     },
     {
       "added_at": "2023-08-31 12:22:47",

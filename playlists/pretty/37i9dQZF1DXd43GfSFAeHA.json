@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Vargas",
-  "num_followers": 124142,
+  "num_followers": 124167,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjI1NjU1MjRiOTdiYzYxYzgwZDk2YzQ0MWU3MzlhZmZlNzNhNDlm",
+  "snapshot_id": "MCwwMWY0YTg0MDg1NDYzZTBjNTliNjFjZWEzM2NlNDg0NjQzMDIzZjdk",
   "tracks": [
     {
       "added_at": "2023-08-21 10:54:38",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
-        "name": "BAHZ",
-        "url": "https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ"
-      },
-      "artists": [
-        {
-          "name": "Afroto",
-          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "BAHZ",
-      "url": "https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
         "name": "6G",
         "url": "https://open.spotify.com/album/6myOlMXXWjwlOrz7xugqnj"
       },
@@ -419,22 +403,6 @@
       "duration_ms": 176170,
       "name": "6G",
       "url": "https://open.spotify.com/track/5cDw3Icnxb1hB5XGBRzKer"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
-        "name": "POUFA",
-        "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 151575,
-      "name": "POUFA",
-      "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
     },
     {
       "added_at": "2023-08-21 10:54:38",
@@ -455,6 +423,38 @@
       "duration_ms": 158267,
       "name": "DAWLETNA",
       "url": "https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
+        "name": "BAHZ",
+        "url": "https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "BAHZ",
+      "url": "https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
+        "name": "POUFA",
+        "url": "https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "duration_ms": 151575,
+      "name": "POUFA",
+      "url": "https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B"
     },
     {
       "added_at": "2023-08-21 10:54:38",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
+        "name": "SWITCH",
+        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Lorenzoo",
+          "url": "https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7"
+        }
+      ],
+      "duration_ms": 134685,
+      "name": "SAME3 EL HAKY",
+      "url": "https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
       },
@@ -603,26 +623,6 @@
     {
       "added_at": "2023-08-21 10:54:38",
       "album": {
-        "name": "SWITCH",
-        "url": "https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3"
-      },
-      "artists": [
-        {
-          "name": "Husayn",
-          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
-        },
-        {
-          "name": "Lorenzoo",
-          "url": "https://open.spotify.com/artist/2xKNNvun5ikWnywLrU5Gr7"
-        }
-      ],
-      "duration_ms": 134685,
-      "name": "SAME3 EL HAKY",
-      "url": "https://open.spotify.com/track/4TsCqhS1FsmVTXrNzjykbr"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
         "name": "LILA",
         "url": "https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx"
       },
@@ -651,6 +651,26 @@
       "duration_ms": 181463,
       "name": "Star",
       "url": "https://open.spotify.com/track/6oh7KUImF3IhimOnDfdZmF"
+    },
+    {
+      "added_at": "2023-08-21 10:54:38",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        },
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "AFROTO TYPE BEAT",
+      "url": "https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8"
     },
     {
       "added_at": "2023-08-21 10:54:38",
@@ -687,26 +707,6 @@
       "duration_ms": 156267,
       "name": "7abayby",
       "url": "https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc"
-    },
-    {
-      "added_at": "2023-08-21 10:54:38",
-      "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353"
-      },
-      "artists": [
-        {
-          "name": "Marwan Moussa",
-          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
-        },
-        {
-          "name": "Afroto",
-          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "AFROTO TYPE BEAT",
-      "url": "https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8"
     },
     {
       "added_at": "2023-08-21 10:54:38",

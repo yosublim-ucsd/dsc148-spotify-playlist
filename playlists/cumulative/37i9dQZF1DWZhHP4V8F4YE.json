@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 261250,
       "name": "Amawele",
       "url": "https://open.spotify.com/track/42YUj2H76BHFdd12929FFy"
@@ -478,6 +478,24 @@
       "duration_ms": 359024,
       "name": "Anchor Point",
       "url": "https://open.spotify.com/track/38VyljyWXnVxtYWSiH5Hzc"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0VsjdPYUzQti57JmByRQvz"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2soZTM1x1GBiQGMAsXKXpd"
     },
     {
       "album": {
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 194604,
       "name": "Coal",
       "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 306833,
       "name": "Dubula",
       "url": "https://open.spotify.com/track/35P4NcObu5fVLjKa0OBX5r"
@@ -4021,6 +4039,24 @@
     },
     {
       "album": {
+        "name": "Almal Gly",
+        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221067,
+      "name": "Inge 2",
+      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
+    },
+    {
+      "album": {
         "name": "5th Dimension",
         "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
       },
@@ -4681,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "Last laugh",
+        "url": "https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX"
+      },
+      "artists": [
+        {
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175882,
+      "name": "Last laugh",
+      "url": "https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp"
+    },
+    {
+      "album": {
         "name": "The Last Rocket",
         "url": "https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U"
       },
@@ -4732,6 +4786,28 @@
       "duration_ms": 130052,
       "name": "Leave Me",
       "url": "https://open.spotify.com/track/7gkO0BWzN7UOJ9486M6DLn"
+    },
+    {
+      "album": {
+        "name": "LELE",
+        "url": "https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu"
+      },
+      "artists": [
+        {
+          "name": "YBW Smith",
+          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
+        },
+        {
+          "name": "Lufasa",
+          "url": "https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184464,
+      "name": "LELE",
+      "url": "https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh"
     },
     {
       "album": {
@@ -6655,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Old",
+        "url": "https://open.spotify.com/album/7m8teznwhjVGEHlHQPhBGW"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251254,
+      "name": "Old",
+      "url": "https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN"
+    },
+    {
+      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX"
       },
@@ -8546,7 +8640,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 454068,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2nehktvGoWV427EiYnRn9W"
@@ -9541,6 +9635,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "album": {
         "name": "Spring Break",
         "url": "https://open.spotify.com/album/68vLzNjEUcPqJJ96zyYup9"
       },
@@ -9634,7 +9746,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 360920,
       "name": "Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy)",
       "url": "https://open.spotify.com/track/5O677N09WkpiDFluKb1fXh"

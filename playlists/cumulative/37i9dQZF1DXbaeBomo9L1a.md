@@ -4,7 +4,7 @@
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-109 songs - 6 hr 33 min
+112 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,12 +39,14 @@
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2022-04-18 | 2022-11-14 |
 | [Drunk in Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:23 | 2022-04-18 |  |
 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 | 2022-04-18 |  |
+| [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji) | 3:35 | 2023-09-04 |  |
 | [ESQUE TÚ](https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X) | [ESQUE TÚ](https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8) | 3:05 | 2023-03-24 |  |
 | [February 3rd](https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:02 | 2022-04-18 |  |
 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 | 2022-04-18 |  |
 | [For You](https://open.spotify.com/track/72cvnnG6vGhSbYMQDDfc26) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [CeeLo Green Is Thomas Callaway](https://open.spotify.com/album/2FtrghOi4t9mjjay5RBXhf) | 3:21 | 2022-04-18 |  |
 | [Frío](https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Frío](https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN) | 2:25 | 2023-06-16 |  |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2022-04-18 |  |
+| [Gracias](https://open.spotify.com/track/1aIJvWbKGJYzGqE1Y2Q1N6) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Gracias](https://open.spotify.com/album/6faJS4UNFHTcJ1LkPPuGbL) | 2:46 | 2023-09-04 |  |
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2022-04-18 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-04-18 |  |
 | [holy terrain](https://open.spotify.com/track/0vQem9vixxfXyJzwOHYMZU) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [holy terrain](https://open.spotify.com/album/7Bs2i2k8W8Nk44Lgbk4FFW) | 4:03 | 2022-04-18 | 2022-11-14 |
@@ -105,6 +107,7 @@
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2022-04-18 |  |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2022-04-18 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2022-04-18 |  |
+| [Te Hice Mal \(Remix\)](https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI) | [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Hice Mal \(Remix\)](https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk) | 4:29 | 2023-09-04 |  |
 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-05-19 |  |
 | [The Weekend](https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:32 | 2022-04-18 |  |
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2022-04-18 |  |

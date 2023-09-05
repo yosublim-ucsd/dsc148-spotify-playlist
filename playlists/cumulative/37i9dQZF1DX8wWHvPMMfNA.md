@@ -4,7 +4,7 @@
 
 > 
 
-617 songs - 1 day 15 hr 41 min
+618 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-11-11 |  |
 | [Changes](https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Changes](https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee) | 3:45 | 2023-06-01 |  |
 | [Changin'](https://open.spotify.com/track/4g8azbjpYgA04ygE6Tlm8H) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Changin'](https://open.spotify.com/album/1OssHpwAhBYTcPLUtYXe0L) | 2:41 | 2023-06-01 |  |
-| [Chartreuse](https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 4:33 | 2022-05-18 |  |
+| [Chartreuse](https://open.spotify.com/track/3AF40YsNhI8LfFnxKvcgGB) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 4:33 | 2022-05-18 | 2023-09-05 |
 | [Chelsea Bridge](https://open.spotify.com/track/0H0jaN6OYfn4bT31hTU9de) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 3:40 | 2022-05-18 | 2023-08-13 |
 | [Cherry Blossom](https://open.spotify.com/track/4Y0ck8IWqiZJr66A9fTbUn) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Music For Lovers](https://open.spotify.com/album/78u0bxRl1UH6Pz6dWmEXDp) | 6:12 | 2022-05-18 | 2023-08-13 |
 | [Cherry Blossom](https://open.spotify.com/track/1AMYy0LjeIQ5jVs7J0ym9P) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [Cherry Blossom](https://open.spotify.com/album/6aslcHlAWXZbMcdgkxQbrf) | 3:08 | 2023-06-01 |  |
@@ -147,6 +147,7 @@
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 |  |
 | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/track/4FONhpQFrEZI46uvAOi8OK) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [East of the Sun \(and West of the Moon\)](https://open.spotify.com/album/3m9hWHNQW4BoqIzx6oKd7w) | 3:26 | 2023-08-17 |  |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2021-12-16 |  |
+| [Echoes of Elegance](https://open.spotify.com/track/2Ba5S2YdO9uMq0m6McDnzj) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Echoes of Elegance](https://open.spotify.com/album/27fUpjNhwSGatFLShTeR8G) | 2:56 | 2023-08-31 |  |
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-29 |  |
 | [Eleanor](https://open.spotify.com/track/6vWkMerIb8fzLSeYQ7iCCi) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/7HzP4w4TIlGa9I6xEAklBc) | 4:49 | 2021-12-16 | 2022-07-29 |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-11 |  |

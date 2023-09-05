@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: DannyLux",
-  "num_followers": 768,
+  "num_followers": 806,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmM2ZWUxNzBiOGQ5Yzc3NzI5MmJmOGMxNzYwOGEzYjdiMGE4M2Zj",
+  "snapshot_id": "MCwyMWExNDZjMzUxMTM2MmNjMzhlYTg2NDVkYTg5ZjM4NmMxMzJiMzk3",
   "tracks": [
     {
       "added_at": "2023-09-01 08:00:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-09-01 08:00:00",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
-    },
-    {
-      "added_at": "2023-09-01 08:00:00",
-      "album": {
         "name": "Cari\u00f1o",
         "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
+    },
+    {
+      "added_at": "2023-09-01 08:00:00",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2023-09-01 08:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-09-01 08:00:00",
       "album": {
-        "name": "Ivory (Marfil)",
-        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 154119,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
-    },
-    {
-      "added_at": "2023-09-01 08:00:00",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 147561,
       "name": "For Ya",
       "url": "https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme"
+    },
+    {
+      "added_at": "2023-09-01 08:00:00",
+      "album": {
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 154119,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ"
     },
     {
       "added_at": "2023-09-01 08:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-09-01 08:00:00",
       "album": {
-        "name": "Mi Estilo",
-        "url": "https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "XODERICK",
-          "url": "https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG"
-        }
-      ],
-      "duration_ms": 285456,
-      "name": "Mi Estilo",
-      "url": "https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m"
-    },
-    {
-      "added_at": "2023-09-01 08:00:00",
-      "album": {
         "name": "Bad Habits",
         "url": "https://open.spotify.com/album/5jbQD8hGieC5nMF3fbgBZT"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 149626,
       "name": "Sigo Muerto",
       "url": "https://open.spotify.com/track/71S52xUjNYtBSsRcJSZJva"
+    },
+    {
+      "added_at": "2023-09-01 08:00:00",
+      "album": {
+        "name": "Mi Estilo",
+        "url": "https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "XODERICK",
+          "url": "https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG"
+        }
+      ],
+      "duration_ms": 285456,
+      "name": "Mi Estilo",
+      "url": "https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m"
     },
     {
       "added_at": "2023-09-01 08:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-09-01 08:00:00",
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/0byu0qc2O02LSaoyjOyMjE"
+        "name": "ATEA AL AMOR",
+        "url": "https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ"
       },
       "artists": [
         {
-          "name": "Bella Dose",
-          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+          "name": "Yoandri",
+          "url": "https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d"
         }
       ],
-      "duration_ms": 166972,
-      "name": "143",
-      "url": "https://open.spotify.com/track/6qq9xkVrdPZBBPa7ffm4mZ"
+      "duration_ms": 172124,
+      "name": "ATEA AL AMOR",
+      "url": "https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM"
     }
   ],
   "unique_name": "Hyphenated",

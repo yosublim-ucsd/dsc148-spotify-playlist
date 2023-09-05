@@ -1,12 +1,12 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: OH MY GIRL(\uc624\ub9c8\uc774\uac78)) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 942307,
+  "num_followers": 942384,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzllMzI5MTQ4NDlkZmMwYTI3YjJiOTNkNGYxYTI2OTliMTk5NWRj",
+  "snapshot_id": "MCwwMzU5NGFiYmRiMmFiNTAyNTFjMDRlZGVkOWYzYmIyMGU2OTMyZDcy",
   "tracks": [
     {
       "added_at": "2023-08-25 05:11:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "SQUARE TWO",
-        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 197288,
-      "name": "PLAYING WITH FIRE",
-      "url": "https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
+        "name": "SQUARE TWO",
+        "url": "https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 197288,
+      "name": "PLAYING WITH FIRE",
+      "url": "https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "I love",
-        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+        "name": "exp\u00e9rgo",
+        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 178453,
-      "name": "Nxde",
-      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+      "duration_ms": 188718,
+      "name": "Love Me Like This",
+      "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -415,18 +415,34 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "exp\u00e9rgo",
-        "url": "https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS"
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 188718,
-      "name": "Love Me Like This",
-      "url": "https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m"
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -447,18 +463,34 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+        "name": "KILL THIS LOVE",
+        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+      "duration_ms": 191050,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -479,22 +511,6 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "KILL THIS LOVE",
-        "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 191050,
-      "name": "Kill This Love",
-      "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "Kitsch",
-      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -559,18 +559,34 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 198053,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 211631,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -591,18 +607,18 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+      "duration_ms": 198053,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -619,22 +635,6 @@
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
-        "name": "SQUARE ONE",
-        "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 211631,
-      "name": "WHISTLE",
-      "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
         "name": "INVU - The 3rd Album",
         "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
@@ -759,34 +775,18 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
         }
       ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
-        "name": "READY TO BE",
-        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "MOONLIGHT SUNRISE",
-      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
+      "duration_ms": 213426,
+      "name": "RUN2U",
+      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
-        "name": "YOUNG-LUV.COM",
-        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "RUN2U",
-      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
         "name": "IT'z Different",
         "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
       },
@@ -835,22 +819,6 @@
       "duration_ms": 199873,
       "name": "DALLA DALLA",
       "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
-        "name": "FOREVER 1 - The 7th Album",
-        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "FOREVER 1",
-      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -871,6 +839,38 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "FOREVER 1",
+      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
+        "name": "READY TO BE",
+        "url": "https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/5IN9W6eUfk3014My9awagX"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 195053,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
     },
     {
       "added_at": "2023-08-25 05:11:00",
@@ -919,6 +935,22 @@
     {
       "added_at": "2023-08-25 05:11:00",
       "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
+    },
+    {
+      "added_at": "2023-08-25 05:11:00",
+      "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
       },
@@ -947,38 +979,6 @@
       "duration_ms": 218993,
       "name": "La Vie en Rose",
       "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
-        "name": "Teddy Bear",
-        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "Teddy Bear",
-      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
-    },
-    {
-      "added_at": "2023-08-25 05:11:00",
-      "album": {
-        "name": "CHECKMATE",
-        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "SNEAKERS",
-      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
     },
     {
       "added_at": "2023-08-25 05:11:00",

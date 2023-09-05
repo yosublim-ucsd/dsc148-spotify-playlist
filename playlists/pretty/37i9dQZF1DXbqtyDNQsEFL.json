@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 43025,
+  "num_followers": 43117,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWI1NTUwZWE4ODFkNDhiNjcxNzc1NWIxODQ3NmY4MTUzZThhNzI2",
+  "snapshot_id": "MCwwYTZmZjc1MDY1M2Q4NjkxYTEwYzAxNDgwNDFkM2Y5ZmRjMTBlYTky",
   "tracks": [
     {
       "added_at": "2023-09-01 00:01:00",
@@ -219,26 +219,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Believe For It (feat. Lauren Daigle)",
-        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 338194,
-      "name": "Believe For It (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Pretty Day",
-        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 154588,
-      "name": "Pretty Day",
-      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
         "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Pretty Day",
+        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 154588,
+      "name": "Pretty Day",
+      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -507,6 +507,30 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+        }
+      ],
+      "duration_ms": 1005517,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
       },
@@ -547,26 +571,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu"
+        "name": "Kingdom Now",
+        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Pastor Jerry Eze",
-          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 1005517,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL"
+      "duration_ms": 696179,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -587,22 +603,6 @@
       "duration_ms": 160308,
       "name": "Desire Pt. 2",
       "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Kingdom Now",
-        "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 696179,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "TOBECHUKWU",
         "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "These Same Skies (Live)",
-        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 274534,
-      "name": "That's The Power - Live",
-      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Daddy wey dey Pamper",
         "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "These Same Skies (Live)",
+        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 274534,
+      "name": "That's The Power - Live",
+      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Shout It Loud (Live)",
+        "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "I Know Who I Am - Live",
+      "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Shout It Loud (Live)",
-        "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "I Know Who I Am - Live",
-      "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Yhwh",
-        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 583858,
-      "name": "Yhwh",
-      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Okaka",
         "url": "https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz"
       },
@@ -1071,6 +1051,26 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "B'ola (Live)",
+        "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "Sola Allyson",
+          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
+        }
+      ],
+      "duration_ms": 650499,
+      "name": "B'ola (Live)",
+      "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Born of God",
         "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
@@ -1087,6 +1087,26 @@
       "duration_ms": 332573,
       "name": "Fix My Eyes on You",
       "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Yhwh",
+        "url": "https://open.spotify.com/album/6CdOpHsJDR9B2EzgKTLI5a"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 583858,
+      "name": "Yhwh",
+      "url": "https://open.spotify.com/track/41s5OcEXOhiIOsCIJiljF8"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1139,42 +1159,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "B'ola (Live)",
-        "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        },
-        {
-          "name": "Sola Allyson",
-          "url": "https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY"
-        }
-      ],
-      "duration_ms": 650499,
-      "name": "B'ola (Live)",
-      "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "The Name of Jesus: Sinach Live in Concert",
         "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Believe For It (Eu Creio)",
         "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
       },
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Fathered by the best",
+        "url": "https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        }
+      ],
+      "duration_ms": 435541,
+      "name": "Kelerem chimo",
+      "url": "https://open.spotify.com/track/7IYBkPcrPnzLEg4TfAab51"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Way\u03b5 Me Yie",
         "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
       },
@@ -1275,18 +1291,38 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Fathered by the best",
-        "url": "https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY"
+        "name": "Alagbara (feat. Lyrical HI) [Live]",
+        "url": "https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk"
       },
       "artists": [
         {
-          "name": "Yadah",
-          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
         }
       ],
-      "duration_ms": 435541,
-      "name": "Kelerem chimo",
-      "url": "https://open.spotify.com/track/7IYBkPcrPnzLEg4TfAab51"
+      "duration_ms": 734122,
+      "name": "Alagbara (feat. Lyrical HI) - Live",
+      "url": "https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1347,22 +1383,6 @@
       "duration_ms": 207992,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "What I Want II",
-        "url": "https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG"
-      },
-      "artists": [
-        {
-          "name": "Elikem Kofi",
-          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "What I Want II",
-      "url": "https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/6DMGM2y7j46To04if4jIam"
       },
@@ -1491,6 +1491,26 @@
       "duration_ms": 304901,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "What I Want II",
+        "url": "https://open.spotify.com/album/3FYbMrsCX9Fqk3Y7b5KrXG"
+      },
+      "artists": [
+        {
+          "name": "Elikem Kofi",
+          "url": "https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "What I Want II",
+      "url": "https://open.spotify.com/track/3xRjZHi4uuP70BDnqmrxJp"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1515,22 +1535,6 @@
       "duration_ms": 153962,
       "name": "Commando",
       "url": "https://open.spotify.com/track/7xXuJDOPMq2oIWryexZQ5A"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Not Alone",
-        "url": "https://open.spotify.com/album/3QqE9qb69rQLA69j5Y4HlU"
-      },
-      "artists": [
-        {
-          "name": "J'Something",
-          "url": "https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/4TVf5D7GwfLhB8OSNbKI35"
     }
   ],
   "unique_name": "Be Lifted ",

@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1154219,
+  "num_followers": 1154506,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTNlYzk3Zjg4MWY4ZDA2YmI2NjhiYmZlN2M5ODUwZTI4MjljZjgz",
+  "snapshot_id": "MCxlYjAxM2U1ZWRmOGIwM2QwMGFlY2QwZDE1YzcwZDBkMDQyNDNmNjE0",
   "tracks": [
     {
       "added_at": "2023-07-21 19:35:12",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
     },
     {
-      "added_at": "2023-07-21 19:35:12",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
       },
       "artists": [
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
         }
       ],
-      "duration_ms": 151863,
-      "name": "17250",
-      "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -573,20 +573,20 @@
       "url": "https://open.spotify.com/track/15MDjoryOggmkMTdh13IGx"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
+      "added_at": "2023-07-21 19:35:12",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
       },
       "artists": [
         {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+      "duration_ms": 151863,
+      "name": "17250",
+      "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Kenny",
-      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "curse,",
         "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 238734,
       "name": "curse,",
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Kenny",
+      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
     },
     {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "Black Fins",
+        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 262727,
+      "name": "Black Fins",
+      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
+    },
+    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Smile in the Face of the Devil",
@@ -967,22 +983,6 @@
       "duration_ms": 212119,
       "name": "willow",
       "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
-    },
-    {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "Black Fins",
-        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Black Fins",
-      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 166389,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Things I Wanted To Tell You",
         "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "duration_ms": 166389,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Maybe I\u2019m Lonely",
         "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-07-21 19:35:12",
-      "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 184242,
       "name": "Don't Leave, Don't Go",
       "url": "https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL"
+    },
+    {
+      "added_at": "2023-07-21 19:35:12",
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1339,38 +1339,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "If I Showed You",
-        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
-      },
-      "artists": [
-        {
-          "name": "Henry Verus",
-          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
-        }
-      ],
-      "duration_ms": 195467,
-      "name": "If I Showed You",
-      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 161201,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "grim",
         "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
       },
@@ -1403,18 +1371,34 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "songs written for piano",
-        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN"
       },
       "artists": [
         {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 147853,
-      "name": "white lies",
-      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
+      "duration_ms": 161201,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "If I Showed You",
+        "url": "https://open.spotify.com/album/4qEq6hmy1zANkNRAEuRRku"
+      },
+      "artists": [
+        {
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
+        }
+      ],
+      "duration_ms": 195467,
+      "name": "If I Showed You",
+      "url": "https://open.spotify.com/track/3orIMfSneqeHamYzH5xSjz"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 238881,
       "name": "Pyjama Pants",
       "url": "https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "songs written for piano",
+        "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "white lies",
+      "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "LOVE + POP",
-        "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 141922,
-      "name": "bb put on deftones",
-      "url": "https://open.spotify.com/track/2KJAxR3jNdaZcEcLZS9Dgp"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "freckles,",
@@ -1559,6 +1543,22 @@
       "duration_ms": 151525,
       "name": "Ball",
       "url": "https://open.spotify.com/track/3CL4OEx96xE6eO9vrHunJY"
+    },
+    {
+      "added_at": "2023-08-04 04:01:00",
+      "album": {
+        "name": "LOVE + POP",
+        "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 141922,
+      "name": "bb put on deftones",
+      "url": "https://open.spotify.com/track/2KJAxR3jNdaZcEcLZS9Dgp"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1605,6 +1605,22 @@
       "url": "https://open.spotify.com/track/40YMzcyGkpqFiSUNktyHCP"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Coming Clean",
+        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 111710,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Crying In My Car",
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Coming Clean",
-        "url": "https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv"
+        "name": "Dark Corners and Alchemy",
+        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
       "artists": [
         {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
         }
       ],
-      "duration_ms": 111710,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
+      "duration_ms": 153915,
+      "name": "princes of melancholia",
+      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-07-21 19:35:12",
@@ -1659,22 +1675,6 @@
       "duration_ms": 251175,
       "name": "DnD (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Dark Corners and Alchemy",
-        "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 153915,
-      "name": "princes of melancholia",
-      "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
       "added_at": "2023-06-02 04:00:00",

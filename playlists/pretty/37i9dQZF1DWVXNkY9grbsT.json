@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 44015,
+  "num_followers": 44067,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDQyYjg0MDk3YjI5MDAwMjJkMzhkMDg2OTU1OWU4MDljOTIwOTVh",
+  "snapshot_id": "MCw0YmQ0OTMwODljMmIzMTkwZmNmNTY0NzFhM2NlZjZlOGQwOThhMmJm",
   "tracks": [
     {
       "added_at": "2023-08-31 17:19:35",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "how it ends",
-        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 118577,
-      "name": "how it ends",
-      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "N-Plants",
         "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 304000,
       "name": "Ikata - 1",
       "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "how it ends",
+        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 118577,
+      "name": "how it ends",
+      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
         "name": "Petrovo Uho Remixes Part I/III",
         "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
       },
       "artists": [
         {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
         }
       ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -847,22 +863,6 @@
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 242142,
-      "name": "17\u00b0C",
-      "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "17\u00b0C",
+      "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
-      },
-      "artists": [
-        {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
-        },
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 210889,
-      "name": "Must Have Been Good",
-      "url": "https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Briefly Human",
         "url": "https://open.spotify.com/album/69embWtc1LTihFDRVZnUAO"
       },
@@ -1203,22 +1183,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Atlas der Gedanken",
-        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+        "name": "Eyeline",
+        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
       },
       "artists": [
         {
-          "name": "Mareena",
-          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
         },
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 306122,
-      "name": "Sinnessprung",
-      "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
+      "duration_ms": 210889,
+      "name": "Must Have Been Good",
+      "url": "https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1235,6 +1215,26 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Atlas der Gedanken",
+        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+      },
+      "artists": [
+        {
+          "name": "Mareena",
+          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+        },
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 306122,
+      "name": "Sinnessprung",
+      "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Amos",
-        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
-        }
-      ],
-      "duration_ms": 483790,
-      "name": "Amos",
-      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Earth and Beyond",
         "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 596250,
       "name": "Earthship",
       "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Night Journeys III",
         "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 388452,
       "name": "Night Journeys III",
       "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
-        "name": "Remember Rainbow Bridge",
-        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
-      },
-      "artists": [
-        {
-          "name": "Croatian Amor",
-          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
-        }
-      ],
-      "duration_ms": 239224,
-      "name": "Alabaster",
-      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
         "name": "Bancha",
         "url": "https://open.spotify.com/album/47kqnIaOF6PozqltcBuDsX"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 231000,
       "name": "Hot Milk",
       "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
+        "name": "Remember Rainbow Bridge",
+        "url": "https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        }
+      ],
+      "duration_ms": 239224,
+      "name": "Alabaster",
+      "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
     },
     {
       "added_at": "2023-08-31 17:19:35",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-08-31 17:19:35",
       "album": {
+        "name": "Music for k\u014d",
+        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 396049,
+      "name": "Outline of a Distant Memory",
+      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
+    },
+    {
+      "added_at": "2023-08-31 17:19:35",
+      "album": {
         "name": "Bucolic Architecture (Flug 8 Remix)",
         "url": "https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 386754,
       "name": "Bucolic Architecture - Flug 8 Remix",
       "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
-    },
-    {
-      "added_at": "2023-08-31 17:19:35",
-      "album": {
-        "name": "Music for k\u014d",
-        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 396049,
-      "name": "Outline of a Distant Memory",
-      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
     },
     {
       "added_at": "2023-08-31 17:19:35",

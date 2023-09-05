@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,731 likes - 35 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,740 likes - 35 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jadon Kadi Tainu Mera Pyar Satavega](https://open.spotify.com/track/4IlIKBWyN3gQolyg6ZsdWK) | [Gulam Ali](https://open.spotify.com/artist/5BAwVnj972uTgQHH5DI8qi) | [Tu Hi Mera Dil Luteya](https://open.spotify.com/album/32HisT2mFnShBmFGtLamXZ) | 7:05 |
 | 2 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
 | 3 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/1PDD7lDnoAjH3QqbWwwHFu) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 3:49 |
-| 4 | [Sun Charkhe De Mitthi \(Medley\)](https://open.spotify.com/track/0MxGMLglNblsHZVuQCSgRS) | [Saleem](https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP) | [Deedar Mahi Da](https://open.spotify.com/album/6YUmdM7t7nlgQvrQc6n0cc) | 9:58 |
-| 5 | [Jo Tere Gham Nu](https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Punjab, Vol\. 1](https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV) | 5:12 |
-| 6 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 |
-| 7 | [Chamkan Na Maar Ishqa](https://open.spotify.com/track/524toU5JcvYhXVFhGLrUa7) | [Ghazal](https://open.spotify.com/artist/6MxJn5JiIGuAlX9NkdGpha), [Ustad Latafat Ali Khan](https://open.spotify.com/artist/35owzUPphfxg4YGQLGsBZG) | [Chamkan Na Maar Ishqa](https://open.spotify.com/album/1L7lKynuyDWgzZyidhh4LY) | 8:02 |
+| 4 | [Chamkan Na Maar Ishqa](https://open.spotify.com/track/524toU5JcvYhXVFhGLrUa7) | [Ghazal](https://open.spotify.com/artist/6MxJn5JiIGuAlX9NkdGpha), [Ustad Latafat Ali Khan](https://open.spotify.com/artist/35owzUPphfxg4YGQLGsBZG) | [Chamkan Na Maar Ishqa](https://open.spotify.com/album/1L7lKynuyDWgzZyidhh4LY) | 8:02 |
+| 5 | [Sun Charkhe De Mitthi \(Medley\)](https://open.spotify.com/track/0MxGMLglNblsHZVuQCSgRS) | [Saleem](https://open.spotify.com/artist/1EsGSU1T8erJCcsxrndQWP) | [Deedar Mahi Da](https://open.spotify.com/album/6YUmdM7t7nlgQvrQc6n0cc) | 9:58 |
+| 6 | [Jo Tere Gham Nu](https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Punjab, Vol\. 1](https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV) | 5:12 |
+| 7 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 |
 | 8 | [Merian Gallan Yaad Karengee](https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 6:35 |
 | 9 | [Meri Heeriye Fakiriye](https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sartaaj](https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto) | 7:35 |
 | 10 | [Ruttan Aaiyan Mera Yaar Ni Aaya](https://open.spotify.com/track/4RhgKAdnUhQUL8QlzJMQWy) | [Ustad Hussain Baksh Gullo](https://open.spotify.com/artist/51RSLapvDimrmV9YZqgoWn) | [Abr Barsa Na Hawa Tez Chali](https://open.spotify.com/album/7m7GoFsaFxblSjZ2tFcZ7d) | 6:10 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 34 | [Raat Chanani Maen Turan](https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 4:08 |
 | 35 | [Ae Athra Ishq Naeen Saun Denda](https://open.spotify.com/track/5gAL3TaMNhdPtbHuKKQ1zo) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Ishq, Vol\. 60](https://open.spotify.com/album/12DmmUr9v0FeVDR8RaOXZM) | 15:25 |
 
-Snapshot ID: `MCxjYTZhYzZmMjAzZDcwM2RmMDI3ZThmYWQwYzJhZGUzZjQwZDk2YjQw`
+Snapshot ID: `MCxkMWZlNThkNjkxNDg1ZGJkYWExMTM2Nzc0ZWQ5YTJmM2Q5OWZjZjRk`

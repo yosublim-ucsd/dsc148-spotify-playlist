@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 54788,
+  "num_followers": 54879,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTdmNjUxNjhjNDNhYzY3ZDkxZWZlZGU5OTNkZDQwNmNjN2RhMDcz",
+  "snapshot_id": "MCw0M2Y5NjRiN2RkZTdlMmE3NWRkY2M2ZDE4YTU3MmZlZWE5MzBmNjFj",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Fever To The Form",
-      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Chateau Lobby #4 (in C for Two Virgins)",
-      "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Deadeye",
-        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Bees",
-      "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Deadeye",
+        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Bees",
+      "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 174172,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "The Wild Hunt",
         "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 255853,
       "name": "Love is All",
       "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Recording 15",
-      "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -1551,6 +1535,38 @@
       "duration_ms": 232986,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Recording 15",
+      "url": "https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1603,22 +1619,6 @@
       "duration_ms": 289093,
       "name": "Pulaski at Night",
       "url": "https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/7HYptJX2aQJPWbxXviXLwQ"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/2bxQP85JNU11CQV4KXCnau"
     },
     {
       "added_at": "2022-02-04 21:53:01",

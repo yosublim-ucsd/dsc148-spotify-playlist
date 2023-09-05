@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 436714,
+  "num_followers": 436888,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmEyNjg4NDQwODZlZjAxNzU4ODkzMzhiMjY4NzdmODAxMzYyMWM5",
+  "snapshot_id": "MCwyOWI3YTMzNDUxOTBhNzEyMWNkZjBlNWRkNmZhOTdkMjdhZjE4YzI1",
   "tracks": [
     {
       "added_at": "2023-07-14 03:03:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Table For 2",
         "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 176283,
       "name": "Table For 2",
       "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -235,6 +235,30 @@
       "duration_ms": 176239,
       "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
       "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Vintage Culture & Friends 2",
+        "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
+      "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -307,50 +331,18 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
-        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 191612,
-      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
-      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Vintage Culture & Friends 2",
-        "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
-      "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -399,18 +391,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
       },
       "artists": [
         {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+      "duration_ms": 191612,
+      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -623,6 +623,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "T\u00f4 de F\u00e9rias",
         "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
       },
@@ -643,22 +663,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         }
       ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+      "duration_ms": 183370,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -727,26 +751,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Toda Forma De Amor (Remix)",
-        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
-      },
-      "artists": [
-        {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 228661,
-      "name": "Toda Forma De Amor - Remix",
-      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
@@ -771,26 +775,22 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
+        "name": "Toda Forma De Amor (Remix)",
+        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
         },
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 183370,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
+      "duration_ms": 228661,
+      "name": "Toda Forma De Amor - Remix",
+      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Lovezinho",
         "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 172986,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1095,30 +1095,6 @@
       "duration_ms": 179016,
       "name": "Blind",
       "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Se Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 174219,
-      "name": "Se Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1167,6 +1143,30 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Se Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 174219,
+      "name": "Se Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Descobridor dos Sete Mares: Remix",
-        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Descobridor dos Sete Mares: Remix",
-      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Mais um Dia",
         "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 172918,
       "name": "Evoluiu - Rakka & Onabeat Remix",
       "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Descobridor dos Sete Mares: Remix",
+        "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Descobridor dos Sete Mares: Remix",
+      "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
     },
     {
       "added_at": "2023-07-14 03:03:00",

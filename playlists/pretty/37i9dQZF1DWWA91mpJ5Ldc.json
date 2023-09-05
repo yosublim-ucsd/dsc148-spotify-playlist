@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 117353,
+  "num_followers": 117395,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWExNDZjZGIzZmM5NGI3YjM3NjU5OWIxM2IxNjhjMjA0OWFhMzQ1",
+  "snapshot_id": "MCwwNzIyOTVlNjQzZjk2NDhjNTlhMDMwZWUzYjk5YWFlYjdmMzJmZmNi",
   "tracks": [
     {
       "added_at": "2023-09-01 23:59:27",
@@ -371,26 +371,22 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
       },
       "artists": [
         {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         },
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 172794,
-      "name": "+ 1 Minuto",
-      "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
+      "duration_ms": 294049,
+      "name": "Mantra (feat. Emicida)",
+      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
     },
     {
       "added_at": "2023-09-01 23:59:27",
@@ -411,22 +407,26 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
         },
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
         }
       ],
-      "duration_ms": 294049,
-      "name": "Mantra (feat. Emicida)",
-      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
+      "duration_ms": 172794,
+      "name": "+ 1 Minuto",
+      "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
     },
     {
       "added_at": "2023-09-01 23:59:27",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
+    },
+    {
+      "added_at": "2023-09-01 23:59:27",
+      "album": {
         "name": "Besteira",
         "url": "https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 213893,
       "name": "Besteira",
       "url": "https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd"
-    },
-    {
-      "added_at": "2023-09-01 23:59:27",
-      "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2023-09-01 23:59:27",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
-        "name": "Trevo, Figuinha e Suor na Camisa",
-        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Trevo, Figuinha e Suor na Camisa",
-      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
-    },
-    {
-      "added_at": "2023-09-01 23:59:27",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
     },
     {
       "added_at": "2023-09-01 23:59:27",
@@ -839,6 +823,22 @@
       "duration_ms": 186042,
       "name": "Me Toca",
       "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
+    },
+    {
+      "added_at": "2023-09-01 23:59:27",
+      "album": {
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2023-09-01 23:59:27",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 234712,
-      "name": "Posso Dizer",
-      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
-    },
-    {
-      "added_at": "2023-09-01 23:59:27",
-      "album": {
         "name": "Desastre Solar",
         "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 233666,
       "name": "Deixa Acontecer",
       "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
+    },
+    {
+      "added_at": "2023-09-01 23:59:27",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     },
     {
       "added_at": "2023-09-01 23:59:27",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 304780,
+      "name": "Enquanto Durmo",
+      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
+    },
+    {
+      "added_at": "2023-09-01 23:59:27",
+      "album": {
         "name": "Andar Sozinho (feat. J\u00e3o)",
         "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
-    },
-    {
-      "added_at": "2023-09-01 23:59:27",
-      "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 304780,
-      "name": "Enquanto Durmo",
-      "url": "https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk"
     }
   ],
   "unique_name": "Cozinhando em Casa",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjkyODA3YzA5YmYyZTIwY2Q2NzM1NjRkMTY1ODQzNjQ4ZDdlMzQ5",
+  "snapshot_id": "MCxkMTBiNmYwNmU2MTA4M2NjNTgzNDEwZTQzZjNhNmZlNmU0YjkyYjUy",
   "tracks": [
     {
       "added_at": "2023-08-25 11:07:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-08-25 11:07:00",
       "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2023-08-25 11:07:00",
+      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-08-25 11:07:00",
       "album": {
-        "name": "Pretty Young Thing",
-        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Pretty Young Thing",
-      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
-    },
-    {
-      "added_at": "2023-08-25 11:07:00",
-      "album": {
         "name": "Bitimba",
         "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 147590,
       "name": "Bitimba",
       "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
-    },
-    {
-      "added_at": "2023-08-25 11:07:00",
-      "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
     },
     {
       "added_at": "2023-08-25 11:07:00",
@@ -499,6 +483,22 @@
       "duration_ms": 217021,
       "name": "Ekyama",
       "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
+    },
+    {
+      "added_at": "2023-08-25 11:07:00",
+      "album": {
+        "name": "Pretty Young Thing",
+        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Pretty Young Thing",
+      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
       "added_at": "2023-08-25 11:07:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-08-25 11:07:00",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
-    },
-    {
-      "added_at": "2023-08-25 11:07:00",
-      "album": {
         "name": "Kika Buka",
         "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
       },
@@ -655,6 +639,38 @@
     {
       "added_at": "2023-08-25 11:07:00",
       "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+    },
+    {
+      "added_at": "2023-08-25 11:07:00",
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+    },
+    {
+      "added_at": "2023-08-25 11:07:00",
+      "album": {
         "name": "Singa",
         "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 197052,
       "name": "Singa",
       "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
-    },
-    {
-      "added_at": "2023-08-25 11:07:00",
-      "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
-      },
-      "artists": [
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        }
-      ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2023-08-25 11:07:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-25 11:07:00",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
-    },
-    {
-      "added_at": "2023-08-25 11:07:00",
-      "album": {
         "name": "Chai We Njaye",
         "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 165015,
       "name": "Chai We Njaye",
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2023-08-25 11:07:00",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2023-08-25 11:07:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-25 11:07:00",
       "album": {
-        "name": "Coroba",
-        "url": "https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg"
-      },
-      "artists": [
-        {
-          "name": "Sl Fiq",
-          "url": "https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT"
-        }
-      ],
-      "duration_ms": 167678,
-      "name": "Koroba",
-      "url": "https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB"
-    },
-    {
-      "added_at": "2023-08-25 11:07:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 226153,
       "name": "On my Mind",
       "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
+    },
+    {
+      "added_at": "2023-08-25 11:07:00",
+      "album": {
+        "name": "Coroba",
+        "url": "https://open.spotify.com/album/4N7YovVko7vQrC97K6NyDg"
+      },
+      "artists": [
+        {
+          "name": "Sl Fiq",
+          "url": "https://open.spotify.com/artist/7uDrPrSP9zl7r048ENVrIT"
+        }
+      ],
+      "duration_ms": 167678,
+      "name": "Koroba",
+      "url": "https://open.spotify.com/track/3nIEXMMz0nqohOjaEagQRB"
     },
     {
       "added_at": "2023-08-25 11:07:00",
@@ -851,6 +851,26 @@
     {
       "added_at": "2023-08-25 11:07:00",
       "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+    },
+    {
+      "added_at": "2023-08-25 11:07:00",
+      "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
       },
@@ -875,6 +895,22 @@
     {
       "added_at": "2023-08-25 11:07:00",
       "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
+    },
+    {
+      "added_at": "2023-08-25 11:07:00",
+      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT"
       },
@@ -895,38 +931,6 @@
       "duration_ms": 173196,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg"
-    },
-    {
-      "added_at": "2023-08-25 11:07:00",
-      "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-08-25 11:07:00",
-      "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/5vAVcLMZjwc3gQGfRSW1y9"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 174759,
-      "name": "Dont-Stopp",
-      "url": "https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex"
     }
   ],
   "unique_name": "Made In Uganda",

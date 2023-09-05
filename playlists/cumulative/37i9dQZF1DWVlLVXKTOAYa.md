@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-763 songs - 1 day 15 hr 15 min
+764 songs - 1 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,6 +745,7 @@
 | [Who We Love \(feat\. Ed Sheeran\)](https://open.spotify.com/track/16axxBqfSvis8mjhrLHWeH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 2:42 | 2023-02-09 | 2023-04-17 |
 | [Who's In Your Head](https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Who's In Your Head](https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja) | 3:03 | 2021-12-16 | 2022-07-29 |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2021-12-16 | 2022-07-29 |
+| [Winner](https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Winner](https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy) | 3:37 | 2023-08-25 |  |
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-03-24 | 2022-04-20 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2022-03-24 | 2022-10-01 |
 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2021-12-16 | 2022-07-26 |
@@ -756,7 +757,7 @@
 | [World We Used To Know](https://open.spotify.com/track/1I8pMiv8c8mTP0fvt0pqQs) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World We Used To Know](https://open.spotify.com/album/6EqrqJTBQ6JRFJQKY19sCE) | 2:42 | 2022-03-24 | 2022-04-17 |
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-07-07 | 2022-07-27 |
 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 | 2023-03-17 | 2023-03-31 |
-| [Would've, Could've, Should've](https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 4:20 | 2022-10-21 |  |
+| [Would've, Could've, Should've](https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 4:20 | 2022-10-21 | 2023-09-05 |
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-24 | 2022-07-19 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-03-24 | 2022-04-11 |
 | [yoga \(feat\. Rebecca Black\)](https://open.spotify.com/track/584h0fUq9maZhErREt79EA) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [yoga \(feat\. Rebecca Black\)](https://open.spotify.com/album/2Aj08j8VPdBBnGLQlXem78) | 2:37 | 2022-03-24 | 2022-04-15 |

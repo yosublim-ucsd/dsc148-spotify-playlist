@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 366176,
+  "num_followers": 366287,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTkzODQxMzk2MjU2YzU5YWIwYjNhN2FiOWQ3M2MxYmRlYTI3Nzk2",
+  "snapshot_id": "MCxhNTQwMTQwMjFkZjc5ODk4MjFmYTA1OGQyMzk0ZmI5OGMyM2E0NDlj",
   "tracks": [
     {
       "added_at": "2023-08-31 16:12:31",
@@ -59,34 +59,6 @@
     {
       "added_at": "2023-08-31 16:12:31",
       "album": {
-        "name": "Crying On The Dancefloor",
-        "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Endless Summer",
-          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
-        },
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "duration_ms": 173008,
-      "name": "Crying On The Dancefloor",
-      "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2023-08-31 16:12:31",
-      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -111,6 +83,34 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2023-08-31 16:12:31",
+      "album": {
+        "name": "Crying On The Dancefloor",
+        "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Endless Summer",
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
+        },
+        {
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Crying On The Dancefloor",
+      "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
       "added_at": "2023-08-31 16:12:31",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-08-31 16:12:31",
       "album": {
-        "name": "Call on Me (Radio Mix)",
-        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Call on Me - Radio Mix",
-      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
-    },
-    {
-      "added_at": "2023-08-31 16:12:31",
-      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2023-08-31 16:12:31",
+      "album": {
+        "name": "Call on Me (Radio Mix)",
+        "url": "https://open.spotify.com/album/7thKR3tw162CqNqIRdwZ3z"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
     },
     {
       "added_at": "2023-08-31 16:12:31",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-08-31 16:12:31",
       "album": {
-        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Emelie Cyr\u00e9us",
-          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
-        }
-      ],
-      "duration_ms": 132775,
-      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
-      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
-    },
-    {
-      "added_at": "2023-08-31 16:12:31",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
+    },
+    {
+      "added_at": "2023-08-31 16:12:31",
+      "album": {
+        "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+        "url": "https://open.spotify.com/album/3z7i4GvlZ92wwB06ZAGzqm"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Emelie Cyr\u00e9us",
+          "url": "https://open.spotify.com/artist/0sbkGGlLYmgOzcxRqd257O"
+        }
+      ],
+      "duration_ms": 132775,
+      "name": "Weekend (feat. Emelie Cyr\u00e9us)",
+      "url": "https://open.spotify.com/track/4KPYXZUCKYLEEcGmKN4Exs"
     },
     {
       "added_at": "2023-08-31 16:12:31",

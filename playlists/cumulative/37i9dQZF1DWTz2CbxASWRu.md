@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-354 songs - 1 day 1 hr 48 min
+355 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bi Lambam](https://open.spotify.com/track/6zONDwWrSN3qynCci8v98d) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 5:00 | 2023-07-10 |  |
 | [Bir Yaralı Kuştum](https://open.spotify.com/track/3NtXBZv7GIPG4OT611M2nC) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [İstikrarlı Hayal Hakikattir](https://open.spotify.com/album/0XeJCeFtaorG7IjszOIxXV) | 5:12 | 2023-07-10 |  |
 | [Black Times](https://open.spotify.com/track/4oa07F3wFhTJWmI4bmEiP8) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Black Times](https://open.spotify.com/album/4pu6BPHCFYrkNa55gyErSM) | 9:30 | 2023-07-10 |  |
-| [Body Yako](https://open.spotify.com/track/5TM74yw7ukVkZTlPEKdJvE) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Kongo Elektro](https://open.spotify.com/artist/1Ja1nsBM1xawlIJoBgU52K), [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 4:14 | 2023-07-10 |  |
+| [Body Yako](https://open.spotify.com/track/5TM74yw7ukVkZTlPEKdJvE) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi), [Kongo Elektro](https://open.spotify.com/artist/1Ja1nsBM1xawlIJoBgU52K), [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 4:14 | 2023-07-10 | 2023-09-05 |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2023-07-10 |  |
 | [Bola de Cristal](https://open.spotify.com/track/2CBCFIzmumJ8pHEv2bcQZt) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 4:12 | 2023-07-10 |  |
 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 5:24 | 2023-07-10 |  |
@@ -357,6 +357,7 @@
 | [Yiri Yiri Bon \(son\)](https://open.spotify.com/track/7q4JaxID79hbJu71Ro6Sfe) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Un guajiro sin fronteras \- Sus grandes éxitos](https://open.spotify.com/album/7IvEewiWPm9yV3GYu1L9lF) | 5:00 | 2023-07-10 |  |
 | [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 | 2023-07-10 |  |
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2023-07-10 |  |
+| [Yor\-Yor](https://open.spotify.com/track/7KklYNDBV41hlNW5VIuPHj) | [Sevara Nazarkhan](https://open.spotify.com/artist/3gSQW5t8VYxRsomvOP64L1) | [Yol Bolsin \(Real World Gold\)](https://open.spotify.com/album/1lg4Lhcg4UMiNDUL5btlIR) | 4:15 | 2023-07-10 |  |
 | [Yèkèrmo Sèw \(A Man of Experience and Wisdom\)](https://open.spotify.com/track/6eNOgE9gdpOx8Tztf4tbCF) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 4:15 | 2023-07-10 |  |
 | [Zaharila](https://open.spotify.com/track/0z9GDwllWJctFf1u4b3QhZ) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Yeti Season \(Deluxe Version\)](https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK) | 3:41 | 2023-07-10 |  |
 | [Zamba Malató](https://open.spotify.com/track/06J8IFSFdp6KgcBNLmSKIX) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:26 | 2023-07-10 |  |

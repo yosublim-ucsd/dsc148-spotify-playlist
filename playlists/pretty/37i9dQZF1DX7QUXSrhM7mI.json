@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 52946,
+  "num_followers": 53241,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGY0MzZkNjFhZjU1OTExZGI5NTdjNGNmZmRjMDMyZGY3YjgzOTdi",
+  "snapshot_id": "MCxhNzU0NzhmZDUzMDVkOGM1MjFlMWYxM2ZiYzJjYTAwZTA1YzdiNWZm",
   "tracks": [
     {
       "added_at": "2023-09-01 04:13:21",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-09-01 04:13:21",
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Holy Roller (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
+    },
+    {
+      "added_at": "2023-09-01 04:13:21",
+      "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 161160,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
-    },
-    {
-      "added_at": "2023-09-01 04:13:21",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Holy Roller (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
     },
     {
       "added_at": "2023-09-01 04:13:21",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-09-01 04:13:21",
       "album": {
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "added_at": "2023-09-01 04:13:21",
+      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -339,6 +355,22 @@
     {
       "added_at": "2023-09-01 04:13:21",
       "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+    },
+    {
+      "added_at": "2023-09-01 04:13:21",
+      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
@@ -351,22 +383,6 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2023-09-01 04:13:21",
-      "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2023-09-01 04:13:21",
@@ -387,38 +403,18 @@
     {
       "added_at": "2023-09-01 04:13:21",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 224866,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2023-09-01 04:13:21",
-      "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2023-09-01 04:13:21",
@@ -439,18 +435,22 @@
     {
       "added_at": "2023-09-01 04:13:21",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
     },
     {
       "added_at": "2023-09-01 04:13:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC?si=7m3jNSABQD\-gGL028P8d5w">Blessing Offor </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,771 likes - 101 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,869 likes - 101 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 100 | [Ewe Jesu \- Medley 1](https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ewe Jesu \(Medley 1\)](https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN) | 5:46 |
 | 101 | [Dreams](https://open.spotify.com/track/4ihmz6wpZTZfHe5KyCE9Uo) | [Onyibest](https://open.spotify.com/artist/0Sblzh41Ow6Aa8kFgW5ivF) | [Dreams](https://open.spotify.com/album/3bKy8wPyrjoqSIavkjhYxK) | 2:16 |
 
-Snapshot ID: `MCwzNzQ0NDJiN2I5Y2Y4N2VkNzlkMmNkZGY4YWU0OTAyOGYyZGIxODVj`
+Snapshot ID: `MCwyZTRhYjM4Yjg2YjJhNmNmMDIwM2JkNmRhYWI3ZGI4ZTljZDg2YmM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Mentissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,735 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,896 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 59 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 60 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 |
 
-Snapshot ID: `MCw5MzE3ZThkNWU5N2ZiZmZjMjYwZTljYzVkODUzNTk5NjI0NDMxOWQz`
+Snapshot ID: `MCxjZDJkNzk4ZTcwYzMwZjAxZGExZjI4OTc3ZmE0MGY0ZmVhZmMwODhj`

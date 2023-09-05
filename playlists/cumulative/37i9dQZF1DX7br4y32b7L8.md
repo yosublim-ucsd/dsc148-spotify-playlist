@@ -4,7 +4,7 @@
 
 > 🍪🍪🍪 de koekjes blijven smaken naar meer 🍪🍪🍪
 
-229 songs - 11 hr 29 min
+231 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Speed Drive](https://open.spotify.com/track/7GRv55NwkjxU2ysJLwzC9c) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 1:57 | 2023-07-26 | 2023-09-01 |
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2023-02-23 | 2023-04-21 |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-05-01 | 2023-06-13 |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
 | [Supernova](https://open.spotify.com/track/4o15ljBxxossYcAYOhjKpb) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Supernova](https://open.spotify.com/album/66q7bYDHdyVIvFvsrh6COm) | 2:37 | 2023-07-31 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-02-23 | 2023-04-12 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-02-23 | 2023-04-07 |
@@ -217,6 +218,7 @@
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-13 | 2023-07-11 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-02-23 | 2023-04-12 |
 | [Thrill](https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Thrill](https://open.spotify.com/album/6ZYo0HNaQFPlFGLZacnOXD) | 3:32 | 2023-04-20 | 2023-05-02 |
+| [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 |  |
 | [Trainingspak](https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Trainingspak](https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS) | 2:17 | 2023-05-24 |  |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-05-01 | 2023-05-26 |
 | [Van Goes Tot Purmerend](https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Van Goes Tot Purmerend](https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm) | 3:21 | 2023-08-31 |  |

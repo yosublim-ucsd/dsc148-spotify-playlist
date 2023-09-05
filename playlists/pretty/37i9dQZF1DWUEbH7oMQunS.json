@@ -1,12 +1,12 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 50453,
+  "num_followers": 50570,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ0ZGM2NjM5Yjk2N2E4ZDJkZGNmOWY2MWZiZDk3YmFlMzc5YzIy",
+  "snapshot_id": "MCxiZTk5YjA5ZGM5MjY5NzJmNjk0ODIzODQ4NGZlY2M1OWU4MmYyM2Q2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:02:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Moiety",
         "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 287520,
       "name": "Nothing It Can",
       "url": "https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
-        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
-      },
-      "artists": [
-        {
-          "name": "Rivers & Robots",
-          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "I Could Sing Of Your Love Forever - Instrumental",
-      "url": "https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Sun Will Rise",
         "url": "https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "After All These Years (Instrumental)",
-        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+        "name": "Rivers & Robots Presents: Still, Vol. 1 (Instrumentals)",
+        "url": "https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Rivers & Robots",
+          "url": "https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4"
         }
       ],
-      "duration_ms": 336853,
-      "name": "Greater Than All Other Names - Instrumental",
-      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
+      "duration_ms": 223346,
+      "name": "I Could Sing Of Your Love Forever - Instrumental",
+      "url": "https://open.spotify.com/track/2Lb8tCvwV9CVSEjO9uTWWI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -583,6 +567,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 336853,
+      "name": "Greater Than All Other Names - Instrumental",
+      "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Matins : Vespers",
         "url": "https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I'm Healing",
-        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 282734,
-      "name": "5am",
-      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Instrumental Worship Music, Vol. 1",
         "url": "https://open.spotify.com/album/3MJUlOTqubrCSjFJGhmkNx"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 330000,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4FtDp8L6RFyTJY61LWUJkW"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "I'm Healing",
+        "url": "https://open.spotify.com/album/1KMdWjr4kXFMnC2i0A46s0"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/0qvrJ4KSrXmHzcW4bjRidc"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -995,38 +995,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "High Level Praise",
-        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
-      },
-      "artists": [
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 198504,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "You & I Again",
-        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 160264,
-      "name": "You & I Again",
-      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Contemporary Worship Hits",
         "url": "https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0"
       },
@@ -1043,6 +1011,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "High Level Praise",
+        "url": "https://open.spotify.com/album/4pDjTLLVISarrVTOtdbC5t"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 198504,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/31SPFXqa1G8C8khRFSrJ1L"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "You & I Again",
+        "url": "https://open.spotify.com/album/0Q5FgBERKireTEtap76rej"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "You & I Again",
+      "url": "https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
-      },
-      "artists": [
-        {
-          "name": "Christa Wells",
-          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
-        }
-      ],
-      "duration_ms": 237481,
-      "name": "Velveteen",
-      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Love Has a Name",
         "url": "https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 270500,
       "name": "Weight of Heaven",
       "url": "https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/5VjY0h9wEbhKYaYuk3QXnO"
+      },
+      "artists": [
+        {
+          "name": "Christa Wells",
+          "url": "https://open.spotify.com/artist/3gCNiuPNPiAA5UQSgb8Uby"
+        }
+      ],
+      "duration_ms": 237481,
+      "name": "Velveteen",
+      "url": "https://open.spotify.com/track/4EqMffOPYDDgXlwPgYgbUy"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
-      },
-      "artists": [
-        {
-          "name": "In Cathedrals",
-          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Undress My Heart",
         "url": "https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 225961,
       "name": "Undress My Heart",
       "url": "https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
+      },
+      "artists": [
+        {
+          "name": "In Cathedrals",
+          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "Caves (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7mIWBTJ3wBaYOtLiL0zwtJ"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "There is a King (Live Rehearsal Demo)",
-        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 222421,
-      "name": "There is a King - Live Rehearsal Demo",
-      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Even Here Love Comes",
         "url": "https://open.spotify.com/album/2MVNO7ts5MUQGz3eYjNXUc"
       },
@@ -1639,6 +1639,38 @@
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Psalm 108",
+        "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
+      },
+      "artists": [
+        {
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Psalm 108",
+      "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "out of my grave (undone)",
+        "url": "https://open.spotify.com/album/7ncTox7CgAbMDDjXRVG8DD"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 271363,
+      "name": "out of my grave (undone)",
+      "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1671,38 +1703,6 @@
       "duration_ms": 258292,
       "name": "Faith Fall - pensive piano",
       "url": "https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Keeping track of the human race",
-        "url": "https://open.spotify.com/album/5hX85Wm3Ul9fZOZGxNRntt"
-      },
-      "artists": [
-        {
-          "name": "Hybrid Leisureland",
-          "url": "https://open.spotify.com/artist/2BKGxQhaUFgd8xAIkd5yb4"
-        }
-      ],
-      "duration_ms": 363627,
-      "name": "Water Position",
-      "url": "https://open.spotify.com/track/0xewZVFTSDqOri45S4MuSq"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Psalm 108",
-        "url": "https://open.spotify.com/album/608zPXiewlMUalrQ3ZcyiA"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Psalm 108",
-      "url": "https://open.spotify.com/track/5c3sp0t9RDc6J5IYMmQyw0"
     }
   ],
   "unique_name": "The Good Cup",

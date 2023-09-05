@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked just for you. \u2728 Cover: Cuco & Aleman",
-  "num_followers": 764291,
+  "num_followers": 764263,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTQwNjc2MDRhNjNhMjQ0Y2JhN2YzYWRmYmY3N2FiMDQ0ZGM1Yzgx",
+  "snapshot_id": "MCxlZWY4ZjhjN2M5NTZhZWZiYjc4Njg0YTQxMmJjZWVhZmYzYWQ1YzZi",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Vajkoczy",
+        "url": "https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 172943,
+      "name": "Vajkoczy - Edit",
+      "url": "https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Climax",
         "url": "https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "FDA",
-        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "vulnerable",
-      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "rangerover",
         "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
       },
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "FDA",
+        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "vulnerable",
+      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "UN A\u00d1O DE MIERDA",
         "url": "https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 170362,
       "name": "UN A\u00d1O DE MIERDA",
       "url": "https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Vajkoczy",
-        "url": "https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 172943,
-      "name": "Vajkoczy - Edit",
-      "url": "https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "BITCH3",
+        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 144554,
+      "name": "BITCH3",
+      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Veo Luces",
         "url": "https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "BITCH3",
-        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 144554,
-      "name": "BITCH3",
-      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Terciopelo",
         "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
       },
@@ -767,6 +767,26 @@
       "duration_ms": 202359,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "i miss u",
+        "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        },
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "duration_ms": 155812,
+      "name": "i miss u",
+      "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -807,26 +827,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "i miss u",
-        "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 155812,
-      "name": "i miss u",
-      "url": "https://open.spotify.com/track/73mUvpAFGNQYVveZCUOehh"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Ganas de Dejarte",
         "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
       },
@@ -859,26 +859,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/1bRHpYrUrYObwmICKEGl30"
+        "name": "Amanece Otra Vez",
+        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
       },
       "artists": [
         {
-          "name": "Bumont",
-          "url": "https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa"
-        },
-        {
-          "name": "Mezz",
-          "url": "https://open.spotify.com/artist/7Ga1glq0ZzxN4ycf1dNbyx"
-        },
-        {
-          "name": "RIAH",
-          "url": "https://open.spotify.com/artist/7CYZd5syYy0SKmS2bWz0sg"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 159441,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/0Ycy8YyLzDbN8DDCPCJCRW"
+      "duration_ms": 247501,
+      "name": "Amanece Otra Vez",
+      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
     }
   ],
   "unique_name": "Mixto",

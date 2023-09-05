@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 528704,
+  "num_followers": 529036,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -263,38 +279,6 @@
       "duration_ms": 320333,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -363,6 +347,38 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 72800,
       "name": "Skweetis",
       "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Mars Red Sky",
         "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 309986,
       "name": "Deconstruction",
       "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Unemployment Office",
-        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Unemployment Office",
-      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 447680,
       "name": "Febersvan",
       "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Unemployment Office",
+        "url": "https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Unemployment Office",
+      "url": "https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Beneath The Rose",
-        "url": "https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k"
-      },
-      "artists": [
-        {
-          "name": "Baroness",
-          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
-        }
-      ],
-      "duration_ms": 334306,
-      "name": "Beneath the Rose",
-      "url": "https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "Beneath The Rose",
+        "url": "https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "duration_ms": 334306,
+      "name": "Beneath the Rose",
+      "url": "https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "The Great American Death Rattle",
-        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Supercult",
-          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "The Great American Death Rattle",
-      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 492508,
       "name": "Up in the Sky",
       "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "The Great American Death Rattle",
+        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
+      },
+      "artists": [
+        {
+          "name": "Youngblood Supercult",
+          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "The Great American Death Rattle",
+      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "A Drug Problem That Never Existed",
-        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
-      },
-      "artists": [
-        {
-          "name": "Mondo Generator",
-          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "John Garcia and the Band of Gold",
         "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 222169,
       "name": "Jim's Whiskers",
       "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "A Drug Problem That Never Existed",
+        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
+      },
+      "artists": [
+        {
+          "name": "Mondo Generator",
+          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
       "added_at": "2023-08-11 04:00:00",

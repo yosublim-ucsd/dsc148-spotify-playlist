@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,545 likes - 63 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,552 likes - 63 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 62 | [Tongue Demons](https://open.spotify.com/track/7jW3TunvXFpQjEa9gQjwrX) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF), [Freeka Tet](https://open.spotify.com/artist/1S7mHCJVmfSUre3mo1NZGa) | [STROBE.RIP](https://open.spotify.com/album/5k1jtWSTm2oOUqa9PPXKFD) | 1:36 |
 | 63 | [A Barely Lit Path](https://open.spotify.com/track/6LGvWHB0braCdC7D5riRCt) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [A Barely Lit Path](https://open.spotify.com/album/2PDvJr7NSgcBmIRUH5Ypxv) | 6:15 |
 
-Snapshot ID: `MCxmYWU1NjZjOTI5YjEyMzZhZDliODNkYmYyZGI5NGZhZDVhMjliYzg1`
+Snapshot ID: `MCxjMzZhMDhkYmY3YmFlNTYxMjYwNTg2NGYyY2VmMWI3ZmQzMDNiNzYz`

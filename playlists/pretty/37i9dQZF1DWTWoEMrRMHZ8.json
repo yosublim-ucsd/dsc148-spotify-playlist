@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Joyce Alane",
-  "num_followers": 345705,
+  "num_followers": 345747,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzgxMjIxNGQyZWM3Y2U0NGU2MGFlMmJjMGM2YmM2ZWFkN2YwNWMy",
+  "snapshot_id": "MCwyOGFmNDEyZGQ5ZjhlNDgzODIxNTlkNzk1ZGI2YzI2YzBhN2I0MDQw",
   "tracks": [
     {
       "added_at": "2023-09-02 00:00:35",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 233990,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Maria Maria - Spotify Singles",
         "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
@@ -267,26 +287,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -327,6 +327,26 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/4dpYvcQoSnOhQl1YZBA8ho"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -427,6 +447,26 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Bloco Do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Me Leve",
         "url": "https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr"
       },
@@ -439,26 +479,6 @@
       "duration_ms": 225833,
       "name": "Me Leve",
       "url": "https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -547,26 +567,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "B\u00e9di Beat (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 275750,
-      "name": "B\u00e9di Beat (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Coment\u00e1rio a Respeito de John",
         "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
       },
@@ -587,22 +587,38 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Bloco Do Silva #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
       },
       "artists": [
         {
           "name": "Silva",
           "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 235640,
-      "name": "Sozinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "B\u00e9di Beat (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 275750,
+      "name": "B\u00e9di Beat (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica (EP)",
-        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 283557,
-      "name": "Nu Com a Minha M\u00fasica",
-      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Pago Pra Ver",
         "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+        "name": "Nu Com a Minha M\u00fasica (EP)",
+        "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+      "duration_ms": 283557,
+      "name": "Nu Com a Minha M\u00fasica",
+      "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Pisadinha",
-        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Pisadinha",
-      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Dr\u00e3o (Remasterizado)",
         "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 311745,
       "name": "Dr\u00e3o - Remasterizado",
       "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Pisadinha",
+        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Pisadinha",
+      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Morro Dois Irm\u00e3os",
+        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 259709,
+      "name": "Morro Dois Irm\u00e3os",
+      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Twoth Pick",
         "url": "https://open.spotify.com/album/0TfoqV1QN2xWaulSVqiD2d"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Morro Dois Irm\u00e3os",
-        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 259709,
-      "name": "Morro Dois Irm\u00e3os",
-      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Morena Bonita",
         "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 179517,
       "name": "Morena Bonita",
       "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Serafim",
+        "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 300028,
+      "name": "Serafim",
+      "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1247,22 +1263,6 @@
       "duration_ms": 185691,
       "name": "Eu Sei Que Vou Te Amar",
       "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Serafim",
-        "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 300028,
-      "name": "Serafim",
-      "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Se N\u00e3o For Amor",
-        "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
-      },
-      "artists": [
-        {
-          "name": "Benito 80",
-          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
-        },
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Se N\u00e3o For Amor",
-      "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Cantar e Sangrar",
         "url": "https://open.spotify.com/album/4za1TXOun6WJNVv7D0bHyV"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 280736,
       "name": "Cantar e Sangrar",
       "url": "https://open.spotify.com/track/4SGzD1eQto9Cz4vgrPins1"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Se N\u00e3o For Amor",
+        "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
+      },
+      "artists": [
+        {
+          "name": "Benito 80",
+          "url": "https://open.spotify.com/artist/3vDT0UZVM3eGOG3GXg1nY1"
+        },
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Se N\u00e3o For Amor",
+      "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1615,6 +1615,38 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
+        "name": "Lindo Dom",
+        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 193842,
+      "name": "Lindo Dom",
+      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
         "name": "Tamb\u00e9m Pede Bis",
         "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
       },
@@ -1647,22 +1679,6 @@
       "duration_ms": 209590,
       "name": "O La\u00e7o Que Une Eu E Voc\u00ea",
       "url": "https://open.spotify.com/track/4csFBU2C2tupgiKWxeUKTq"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Lindo Dom",
-        "url": "https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 193842,
-      "name": "Lindo Dom",
-      "url": "https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1739,38 +1755,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Cantomar\u00e9",
-        "url": "https://open.spotify.com/album/69IWXWRN68JE8ZfNFAOjaD"
-      },
-      "artists": [
-        {
-          "name": "Gra\u00e7a Cunha",
-          "url": "https://open.spotify.com/artist/4glKqNjKUaUDvxlihkNuwc"
-        }
-      ],
-      "duration_ms": 238725,
-      "name": "Cantomar\u00e9",
-      "url": "https://open.spotify.com/track/0udjtvraYOCitYi4KE0J7m"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
-        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 212540,
-      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "Tua Mania",
         "url": "https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 206451,
       "name": "Tua Mania",
       "url": "https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Cantomar\u00e9",
+        "url": "https://open.spotify.com/album/69IWXWRN68JE8ZfNFAOjaD"
+      },
+      "artists": [
+        {
+          "name": "Gra\u00e7a Cunha",
+          "url": "https://open.spotify.com/artist/4glKqNjKUaUDvxlihkNuwc"
+        }
+      ],
+      "duration_ms": 238725,
+      "name": "Cantomar\u00e9",
+      "url": "https://open.spotify.com/track/0udjtvraYOCitYi4KE0J7m"
     },
     {
       "added_at": "2023-09-02 00:00:35",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-09-02 00:00:35",
       "album": {
-        "name": "Segredo Solar",
-        "url": "https://open.spotify.com/album/3kUTrUFm4r1Bpk4crqzrNl"
-      },
-      "artists": [
-        {
-          "name": "Iuna Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Segredo Solar",
-      "url": "https://open.spotify.com/track/3kL9tNeCvya5nmbVWRW8pv"
-    },
-    {
-      "added_at": "2023-09-02 00:00:35",
-      "album": {
         "name": "A \u00faltima, quem sabe",
         "url": "https://open.spotify.com/album/11YF1bkfXHO3Wiox6fBTUd"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 202698,
       "name": "A \u00faltima, quem sabe",
       "url": "https://open.spotify.com/track/5XtabN1s5Gjuodllkxb24a"
+    },
+    {
+      "added_at": "2023-09-02 00:00:35",
+      "album": {
+        "name": "Segredo Solar",
+        "url": "https://open.spotify.com/album/3kUTrUFm4r1Bpk4crqzrNl"
+      },
+      "artists": [
+        {
+          "name": "Iuna Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Segredo Solar",
+      "url": "https://open.spotify.com/track/3kL9tNeCvya5nmbVWRW8pv"
     },
     {
       "added_at": "2023-09-02 00:00:35",

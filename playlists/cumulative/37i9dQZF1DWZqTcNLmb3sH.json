@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 216420,
       "name": "Aata Senasaata",
       "url": "https://open.spotify.com/track/5uAIYmgrhue1lY3VIMcXWW"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 172907,
       "name": "Don't Forget Ever Friendship For Ever (from \"Dheera Samrat\")",
       "url": "https://open.spotify.com/track/4wE3PBpel4dzAKqom3ISjx"
@@ -9563,6 +9563,24 @@
     },
     {
       "album": {
+        "name": "KK Title Reveal Theme (From \"KK\")",
+        "url": "https://open.spotify.com/album/4WMUDDnP0tX77cZMQ06iYJ"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58775,
+      "name": "KK Title Reveal Theme (From \"KK\")",
+      "url": "https://open.spotify.com/track/2huwOAFQwJPOTz7CmmtIQ5"
+    },
+    {
+      "album": {
         "name": "RRR",
         "url": "https://open.spotify.com/album/50jGyPdGvfn0U5icbTIoJc"
       },
@@ -14172,7 +14190,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 277070,
       "name": "O Desha Premava (From \"Kranthiveera\")",
       "url": "https://open.spotify.com/track/0lgtn4ilWx4q5A8H8w2Obk"
@@ -14998,6 +15016,32 @@
       "duration_ms": 177129,
       "name": "Onthara Aaythade (from \"Mr Natwarlal\" )",
       "url": "https://open.spotify.com/track/6shmhLZhXNe8T4748GhVMj"
+    },
+    {
+      "album": {
+        "name": "Onti Payaniga (From \"ABHIRAMACHANDRA\")",
+        "url": "https://open.spotify.com/album/5RXWCA4fDd1yjz2gPla14O"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "Onti Payaniga (From \"ABHIRAMACHANDRA\")",
+      "url": "https://open.spotify.com/track/0yHzqW7WqWiLI7kSq3Bc6x"
     },
     {
       "album": {

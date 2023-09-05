@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 105379,
+  "num_followers": 105444,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU3NzdiMTlmNzY4MDlmZjA4N2I1MDY4YTgyNDFjMjUxOWZjODU1",
+  "snapshot_id": "MCw4ZDViZDk5NTFiMzVkNDRjNWY0MGM4ZThlMDUxZDBmZjg2NjE1Mzdh",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -167,26 +167,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Originales",
-        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        },
-        {
-          "name": "Anayka",
-          "url": "https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Rica y Apretadita (feat. Anayka)",
-      "url": "https://open.spotify.com/track/2XRqhe4lmCQVaUWawR5wRo"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Nueva Generaci\u00f3n",
         "url": "https://open.spotify.com/album/218z2P2Cl8TWrE3P3lOJDl"
       },
@@ -203,18 +183,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+        "name": "Originales",
+        "url": "https://open.spotify.com/album/3WjM6QkoJqU2VsVMfI05xJ"
       },
       "artists": [
         {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        },
+        {
+          "name": "Anayka",
+          "url": "https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV"
         }
       ],
-      "duration_ms": 175856,
-      "name": "Papi Chulo",
-      "url": "https://open.spotify.com/track/1f2AyplMMO29MHBkjfFRmc"
+      "duration_ms": 261866,
+      "name": "Rica y Apretadita (feat. Anayka)",
+      "url": "https://open.spotify.com/track/2XRqhe4lmCQVaUWawR5wRo"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -255,6 +239,38 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "A Mover el Culo Con el Chombo",
+        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        }
+      ],
+      "duration_ms": 175856,
+      "name": "Papi Chulo",
+      "url": "https://open.spotify.com/track/1f2AyplMMO29MHBkjfFRmc"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "VICO-C Digital Collection 1987-2007",
+        "url": "https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Me Acuerdo",
+      "url": "https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "El Cangri.com",
         "url": "https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk"
       },
@@ -287,38 +303,6 @@
       "duration_ms": 157066,
       "name": "Tengo una Punto 40",
       "url": "https://open.spotify.com/track/5zsatbvXqrPSx6vid6c8Sf"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Estas Buena",
-        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Te Ves Buena",
-      "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "VICO-C Digital Collection 1987-2007",
-        "url": "https://open.spotify.com/album/7aRR72pN3uae5Lb22Etxwi"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Me Acuerdo",
-      "url": "https://open.spotify.com/track/5P67DwLI2wtCIIXD80o5zk"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -375,6 +359,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Estas Buena",
+        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Te Ves Buena",
+      "url": "https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Mi Trayectoria",
         "url": "https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v"
       },
@@ -411,18 +411,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Estas Buena",
-        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
+        "name": "Aquel Que Habia Muerto",
+        "url": "https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G"
       },
       "artists": [
         {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Tu Pun Pun",
-      "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
+      "duration_ms": 291093,
+      "name": "Aquel Que Habia Muerto",
+      "url": "https://open.spotify.com/track/4Z9is8IlwRlOmKsW58c4p2"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -443,18 +443,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Aquel Que Habia Muerto",
-        "url": "https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G"
+        "name": "Estas Buena",
+        "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
         }
       ],
-      "duration_ms": 291093,
-      "name": "Aquel Que Habia Muerto",
-      "url": "https://open.spotify.com/track/4Z9is8IlwRlOmKsW58c4p2"
+      "duration_ms": 212933,
+      "name": "Tu Pun Pun",
+      "url": "https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -507,26 +507,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc"
-      },
-      "artists": [
-        {
-          "name": "El General",
-          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
-        },
-        {
-          "name": "C & C Music Factory",
-          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
-        }
-      ],
-      "duration_ms": 537480,
-      "name": "Robi-Rob's Boriqua Anthem",
-      "url": "https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Dancehall Reggae Connection.... Top Ragga DJs From Fashion",
         "url": "https://open.spotify.com/album/4Uygzhu2CQ3UvZiaUbGKMW"
       },
@@ -539,22 +519,6 @@
       "duration_ms": 220560,
       "name": "Full Up a Class",
       "url": "https://open.spotify.com/track/6FFeBtCaawK4WqtKfWeoSX"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Bomba Para Afincar",
-      "url": "https://open.spotify.com/track/0cHircZQcIR3ZkVsuHPgb6"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -611,50 +575,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Reggaechanga",
-        "url": "https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/4lv6tavshM2ZuTXJemNb9F"
       },
       "artists": [
         {
-          "name": "Nando Boom",
-          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 227448,
-      "name": "Noche Enferma",
-      "url": "https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Planet Reggae",
-        "url": "https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ"
-      },
-      "artists": [
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Transformer",
-      "url": "https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "De Nuevos a Viejos",
-        "url": "https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Pegate",
-      "url": "https://open.spotify.com/track/7908xQNM5logiaITbmCM9a"
+      "duration_ms": 213933,
+      "name": "Bomba Para Afincar",
+      "url": "https://open.spotify.com/track/0cHircZQcIR3ZkVsuHPgb6"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -671,6 +603,42 @@
       "duration_ms": 84192,
       "name": "Quieren Chorizo",
       "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc"
+      },
+      "artists": [
+        {
+          "name": "El General",
+          "url": "https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK"
+        },
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        }
+      ],
+      "duration_ms": 537480,
+      "name": "Robi-Rob's Boriqua Anthem",
+      "url": "https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Reggaechanga",
+        "url": "https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G"
+      },
+      "artists": [
+        {
+          "name": "Nando Boom",
+          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "Noche Enferma",
+      "url": "https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -703,6 +671,38 @@
       "duration_ms": 206773,
       "name": "La Qu\u00edmica",
       "url": "https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Planet Reggae",
+        "url": "https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Transformer",
+      "url": "https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "De Nuevos a Viejos",
+        "url": "https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Pegate",
+      "url": "https://open.spotify.com/track/7908xQNM5logiaITbmCM9a"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -787,6 +787,26 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Playero Dj Presenta Exitos '95 / 17Th Anniversary (Underground Reggaeton Edition)",
+        "url": "https://open.spotify.com/album/1Sd1MeGVmcy4OHZq1svbdm"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+        }
+      ],
+      "duration_ms": 124921,
+      "name": "Donde Mi No Vengas",
+      "url": "https://open.spotify.com/track/3dsbpGfTrORNIo1aVCyS1q"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Underground Reggaeton \"The Best Of Radio Version\", Vol. 1",
         "url": "https://open.spotify.com/album/0GHlZQPbwecsZ30EiAihMc"
       },
@@ -827,22 +847,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Presenta Exitos '95 / 17Th Anniversary (Underground Reggaeton Edition)",
-        "url": "https://open.spotify.com/album/1Sd1MeGVmcy4OHZq1svbdm"
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+          "name": "Ruben Sam",
+          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
         }
       ],
-      "duration_ms": 124921,
-      "name": "Donde Mi No Vengas",
-      "url": "https://open.spotify.com/track/3dsbpGfTrORNIo1aVCyS1q"
+      "duration_ms": 123621,
+      "name": "Brutalidad",
+      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -859,22 +875,6 @@
       "duration_ms": 101632,
       "name": "Liza Love",
       "url": "https://open.spotify.com/track/3Ct22HVsc9BMni7XKUIaKR"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
-          "name": "Ruben Sam",
-          "url": "https://open.spotify.com/artist/2c6mwKFQ9Z46QjIEO53w8v"
-        }
-      ],
-      "duration_ms": 123621,
-      "name": "Brutalidad",
-      "url": "https://open.spotify.com/track/3dvKl75j8fIkNLyoRVsNgl"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Playero Dj Live",
-        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
-      },
-      "artists": [
-        {
-          "name": "Chezina Y Pirin",
-          "url": "https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac"
-        }
-      ],
-      "duration_ms": 416634,
-      "name": "La Combinaci\u00f3n Perfecta Old School",
-      "url": "https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Los Homerun-es",
+        "url": "https://open.spotify.com/album/7uIGxnb0Th4Av0R5oui7A0"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Donde Mi No Vengas",
+      "url": "https://open.spotify.com/track/3PAKvNqqYklkKhg1xEieNB"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Fuera de lo Comun",
         "url": "https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk"
       },
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Los Homerun-es",
-        "url": "https://open.spotify.com/album/7uIGxnb0Th4Av0R5oui7A0"
+        "name": "Playero Dj Live",
+        "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Chezina Y Pirin",
+          "url": "https://open.spotify.com/artist/28wojMfAl5P9mJhbLJExac"
         }
       ],
-      "duration_ms": 118826,
-      "name": "Donde Mi No Vengas",
-      "url": "https://open.spotify.com/track/3PAKvNqqYklkKhg1xEieNB"
+      "duration_ms": 416634,
+      "name": "La Combinaci\u00f3n Perfecta Old School",
+      "url": "https://open.spotify.com/track/3kfIzNY57LOd9LAHkTsYwk"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
+        "name": "Ragga Heros, Vol. 1",
+        "url": "https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1"
+      },
+      "artists": [
+        {
+          "name": "Jam & Suppose",
+          "url": "https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Camion Lleno de Gun",
+      "url": "https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
         "name": "Playero Dj Live",
         "url": "https://open.spotify.com/album/0dGDiFO2IAhxCUGzN2nRig"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 235773,
       "name": "El Lloron",
       "url": "https://open.spotify.com/track/4O5VaPssQGPKnPZiISNWgI"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
-        "name": "Ragga Heros, Vol. 1",
-        "url": "https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1"
-      },
-      "artists": [
-        {
-          "name": "Jam & Suppose",
-          "url": "https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Camion Lleno de Gun",
-      "url": "https://open.spotify.com/track/2sHUhHm3iNuBC4JhbYbt0N"
     },
     {
       "added_at": "2021-12-20 17:02:25",

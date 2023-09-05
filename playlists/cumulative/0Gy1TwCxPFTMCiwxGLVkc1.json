@@ -886,7 +886,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 70453,
       "name": "Here Comes Pippi Longstocking",
       "url": "https://open.spotify.com/track/1l7uz7c4VBx97DdlerRmeU"
@@ -1877,6 +1877,28 @@
     },
     {
       "album": {
+        "name": "Pirate Joe",
+        "url": "https://open.spotify.com/album/1C7mmncHo1V7ETPnQ98CJ0"
+      },
+      "artists": [
+        {
+          "name": "Astrid Lindgren",
+          "url": "https://open.spotify.com/artist/3MDsnjqnEd5TJaYsuacX1I"
+        },
+        {
+          "name": "Annie Wiggins",
+          "url": "https://open.spotify.com/artist/6g62t1HP0mIS394PDby3xB"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142847,
+      "name": "Pirate Joe",
+      "url": "https://open.spotify.com/track/4NqUaDK31K6Y47RlADLsku"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Pupstruction",
         "url": "https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI"
       },
@@ -2258,7 +2280,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 129045,
       "name": "The Doc Is 10 - From \"Disney Junior Music: Doc McStuffins\"",
       "url": "https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w"
@@ -2342,7 +2364,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 145144,
       "name": "The Freeze Song",
       "url": "https://open.spotify.com/track/07GLEjZk41HmTfGU9SdOod"
@@ -2470,6 +2492,36 @@
       "duration_ms": 152626,
       "name": "This Gas Will Pass",
       "url": "https://open.spotify.com/track/4X7nMNuJxQeWT6D8U2VH6Z"
+    },
+    {
+      "album": {
+        "name": "Doc McStuffins: The Doc Is In",
+        "url": "https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins",
+          "url": "https://open.spotify.com/artist/3HFeTnI9sZCujHjuwlp4hZ"
+        },
+        {
+          "name": "Stuffy",
+          "url": "https://open.spotify.com/artist/4aWrGbJkY86oD3sN4qmPHE"
+        },
+        {
+          "name": "Lambie",
+          "url": "https://open.spotify.com/artist/4I1m894AfV2zh0k7g057fg"
+        },
+        {
+          "name": "Hallie",
+          "url": "https://open.spotify.com/artist/731VW6Sv2kxT1qInoUyBOO"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33986,
+      "name": "Time for Your Check Up",
+      "url": "https://open.spotify.com/track/1i5ZMT3Qoe35MgKpoJYbm7"
     },
     {
       "album": {
@@ -2640,6 +2692,24 @@
       "duration_ms": 145587,
       "name": "Wash Us",
       "url": "https://open.spotify.com/track/2MNvaRGBl9sLGxP1VKNUQT"
+    },
+    {
+      "album": {
+        "name": "I Love Preschool",
+        "url": "https://open.spotify.com/album/4fE0pIsLcwVjS7adOWkvGQ"
+      },
+      "artists": [
+        {
+          "name": "Babble Bop",
+          "url": "https://open.spotify.com/artist/5vp20RxxkwlezWHgiiP0Hg"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145144,
+      "name": "Wash Your Hands",
+      "url": "https://open.spotify.com/track/1V4E0AqsdMOlsKR4Jq3PBo"
     },
     {
       "album": {

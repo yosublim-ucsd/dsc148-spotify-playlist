@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,667 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,721 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 8 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 9 | [Stargazing](https://open.spotify.com/track/6IM9Er6nQT3ZTp8LBUzB8d) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [Dreamscapes](https://open.spotify.com/album/0ObvSOol6nFuU2VCEBZ8QL) | 2:13 |
 | 10 | [Fireflies](https://open.spotify.com/track/7FtKmHnpcW6NDCCLe83CjR) | [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Fireflies](https://open.spotify.com/album/3GDrSVfvjeXnRUjXaE0XBb) | 4:58 |
-| 11 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
-| 12 | [Breeze](https://open.spotify.com/track/7qBHJ0nXHHsoOtqKwfkF35) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:35 |
-| 13 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
+| 11 | [Jiyū](https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [Memoir](https://open.spotify.com/album/76p65caGTlfMloCpcJXbjI) | 1:50 |
+| 12 | [you're not lost](https://open.spotify.com/track/0NIawAn7SZDA1CQ1G8GybR) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [you're not lost](https://open.spotify.com/album/6rBnuL3apGfI42RaL9MJix) | 2:28 |
+| 13 | [Breeze](https://open.spotify.com/track/7qBHJ0nXHHsoOtqKwfkF35) | [Mvdb](https://open.spotify.com/artist/0hleYpwrJSPEh2pCRTU0AY) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 1:35 |
 | 14 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 |
 | 15 | [Last Words](https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:49 |
 | 16 | [A Gloomy Night](https://open.spotify.com/track/7ogQ3ATYnACdIjSXXesBKF) | [Voron](https://open.spotify.com/artist/5NmGxnoqCncZYg2TbfC1hN) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:20 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 29 | [tears](https://open.spotify.com/track/0lR6qQ72JIxSm2c1NWIyHt) | [Austin Chen](https://open.spotify.com/artist/3y6dmAk5GeWK3wjo8xcpjf) | [scenes I](https://open.spotify.com/album/32VEzvjaCrWCdoSUB67Wvf) | 2:24 |
 | 30 | [Crazy for You](https://open.spotify.com/track/7y128njgv0ipvbzIPycOgx) | [Moai Beats](https://open.spotify.com/artist/5Zt96vfBQXmUB3fs3Qkm5q) | [Crazy for You](https://open.spotify.com/album/0RRw5IO6MRoPPOyQFq480D) | 4:10 |
 | 31 | [Test Pilot](https://open.spotify.com/track/2IjmKaX5mt8SxgEH2QYlqA) | [Space Sailors](https://open.spotify.com/artist/2M9pkvRd3uUVsPfEgF8aWu) | [Test Pilot](https://open.spotify.com/album/0XzvsF42rBfe9DaCc88oZk) | 3:21 |
-| 32 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
-| 33 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 |
+| 32 | [Until We Meet Again](https://open.spotify.com/track/78CpmGK47wePWOuKZhnus1) | [Peak Twilight](https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Departure](https://open.spotify.com/album/18OPZkuFLk129TscAuoDN7) | 3:09 |
+| 33 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
 | 34 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 |
 | 35 | [Underwater](https://open.spotify.com/track/5TNDBtPIkduKFGdMSkOPQG) | [Nothingtosay](https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA) | [Cold Thoughts](https://open.spotify.com/album/6j9efsz6v7I0WkDaHDrWfW) | 2:26 |
 | 36 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [playa](https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [playa](https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on) | 1:56 |
 | 50 | [Arcade](https://open.spotify.com/track/7w1rgZiQ7aIVgqpHvFUifh) | [Chilled AF](https://open.spotify.com/artist/4MzsyH1fwjNcrEthWnphyJ) | [Arcade](https://open.spotify.com/album/3AXZhfhDvkujRCdKTwAugQ) | 1:42 |
 
-Snapshot ID: `MCxkYTUwYmNiODJjMzA1MTM0NmVjZjYwYmIwNWRmODYxYzhmYTYxYjYz`
+Snapshot ID: `MCw3MDc4Njc3YTQxOTFmMmEwNDJjYjg2YjRiMjFmMjc0MDk4ZjU1NTdi`

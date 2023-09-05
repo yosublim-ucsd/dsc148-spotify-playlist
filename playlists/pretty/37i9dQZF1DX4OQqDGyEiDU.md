@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,027 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,170 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 32 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 |
 | 33 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 34 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:26 |
-| 35 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 |
-| 36 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
-| 37 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 |
+| 35 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 |
+| 36 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 |
+| 37 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
 | 38 | [Love Trial](https://open.spotify.com/track/7oa18QwhLsV3JfITGDxslD) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [41m](https://open.spotify.com/album/48CT8I4ImScM4TySzxyBUP) | 3:39 |
-| 39 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
+| 39 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 |
 | 40 | [Whisper Whisper Whisper](https://open.spotify.com/track/1fcR1xtq85n7k14tRuCsjw) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Whisper Whisper Whisper](https://open.spotify.com/album/7DGoBmJVnFgvFxu3zBBa6O) | 2:04 |
-| 41 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
-| 42 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
-| 43 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
-| 44 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 |
+| 41 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
+| 42 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
+| 43 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 |
+| 44 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 45 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 46 | [villain](https://open.spotify.com/track/5KE5i73iG4A7h8OyqyIaZK) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [villain](https://open.spotify.com/album/2pqS8lGfitHmyRukdGRkZ7) | 3:20 |
-| 47 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
+| 47 | [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 |
 | 48 | [DARLING DANCE](https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:26 |
 | 49 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
-| 50 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 |
+| 50 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
 
-Snapshot ID: `MCxiMDIwNjQ2MzMyY2IxYjFjYzhmZWE5YjI3ZTU4YTAwYjdlM2U4Yzg0`
+Snapshot ID: `MCxkMDZmYWUxZDVkNzY4MzE5MjZkY2QwMTM3YWYzZTRmN2JkYmQ5ZGY4`

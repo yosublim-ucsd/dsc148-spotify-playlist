@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-344 songs - 13 hr 30 min
+349 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Edinburgh slang](https://open.spotify.com/track/6dXurVV82jPnWs5cuaN0Vt) | [Mz Boom Bap](https://open.spotify.com/artist/2VuJVhDHZtxhw4Ue1jN8kL) | [Edinburgh slang](https://open.spotify.com/album/7DdYxJN9CQSky3dcaQJXko) | 3:42 | 2022-09-30 |  |
 | [Elevate](https://open.spotify.com/track/1Hk6wy6Ls9sRtYN4ywTMBQ) | [Drive](https://open.spotify.com/artist/58Z10RWlUsSA6UkgOnmHM1) | [Elevate](https://open.spotify.com/album/5PNdrzPhJTBcJmNYeXGwpT) | 2:22 | 2022-12-09 |  |
 | [Elysian Park](https://open.spotify.com/track/4xHkvSBotbywoO6s7jifIz) | [Blzzn](https://open.spotify.com/artist/6AhOUa1YcUtj6KjNx4LQ5E) | [City Walk](https://open.spotify.com/album/1xa6vCfUYkEKDzgZaCUGCH) | 2:26 | 2022-08-05 |  |
+| [emotionally unavailable](https://open.spotify.com/track/71vPGvp1ANV3iDpA9wFQ0v) | [Taipei Tapes](https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT) | [emotionally unavailable](https://open.spotify.com/album/2rLlb5HAK5vwXc1zqDfcGZ) | 2:05 | 2023-09-04 |  |
 | [Encounters](https://open.spotify.com/track/1pJL6fy94WpSjGRpGiO2g4) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [A Bigger Picture](https://open.spotify.com/album/0FDZZMdF6DIrGD76lxgw1Y) | 3:03 | 2022-11-25 |  |
 | [Fallen](https://open.spotify.com/track/1ioLwJn0zZ7CAQpI1BmQKr) | [Shy Cope](https://open.spotify.com/artist/1WVrUGgqeU94YjCKCbAH4y) | [Fallen](https://open.spotify.com/album/3oK9ZFehLi0byPF5PdlLgl) | 2:17 | 2022-10-28 |  |
 | [Fiesta Siesta](https://open.spotify.com/track/4zHwaIFk44nYXCN8tWkIue) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Fiesta Siesta](https://open.spotify.com/album/4cp82gqMhMVUrGW6zFDuea) | 2:18 | 2022-10-15 |  |
@@ -115,6 +116,7 @@
 | [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 | 2022-04-15 | 2022-12-10 |
 | [Getaway Inst](https://open.spotify.com/track/1aIOCEsNaBE5BPRtJjA5pD) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Getaway Inst](https://open.spotify.com/album/2pSgA28D68x5Tikk39kUsS) | 3:02 | 2022-10-28 |  |
 | [GHOST](https://open.spotify.com/track/2gBnFbEhYAAS34VBw3OBeY) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [GHOST](https://open.spotify.com/album/4bc7Suv6whBGOloGCIeK7x) | 2:35 | 2022-08-05 | 2022-10-29 |
+| [Gingerly](https://open.spotify.com/track/1cr4Bryahz6t1UYhDFSuKK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Gingerly](https://open.spotify.com/album/5Ak5P3mBjvaL0K14Ak8Meu) | 2:17 | 2023-09-04 |  |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2022-06-03 |  |
 | [Going Places](https://open.spotify.com/track/7nynETPpnViUI1xpfM974x) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Going Places](https://open.spotify.com/album/4LIfB9cGOegYwDfqbOxwUW) | 1:49 | 2022-10-15 |  |
 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 | 2022-06-17 | 2022-09-03 |
@@ -192,6 +194,7 @@
 | [Main Moe \- Instrumental](https://open.spotify.com/track/6F0MccmyQ5y4pEc9M78qnV) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Main Moe \(Instrumental\)](https://open.spotify.com/album/4lMMSjL32KSMPNtrmuhgJS) | 3:11 | 2022-09-02 | 2022-11-20 |
 | [Main Stage](https://open.spotify.com/track/3FGPjaDyaVXSpubOPwFV0Q) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Fake Business](https://open.spotify.com/album/79VlsORhx2r88yW7TRmDWW) | 2:18 | 2021-11-11 |  |
 | [Marigold Express](https://open.spotify.com/track/5235VAsve3HlQYNQpqqCkh) | [ViVi Lollypop](https://open.spotify.com/artist/4scLC6BXWEIHbcgJYPFVtw) | [Marigold Express](https://open.spotify.com/album/0m7Wgz5yDCJBgEcJlZ7y3F) | 2:12 | 2021-11-11 |  |
+| [mary](https://open.spotify.com/track/2A8bt7VsGwpCltLWF0Fuxc) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [mary](https://open.spotify.com/album/1vDnJTv0ZjHtgqDigmjWW0) | 2:22 | 2023-09-04 |  |
 | [Maze](https://open.spotify.com/track/22rN9B1hyxCkmqqbgi7ag4) | [The Samplers](https://open.spotify.com/artist/1Db3RMEbPReWKVLfsitK40) | [Moving Sidewalks](https://open.spotify.com/album/4w6kOiFn2YqnH22UwL5ivc) | 1:24 | 2022-07-01 | 2022-07-08 |
 | [McCoy](https://open.spotify.com/track/2go8ClPo7rUZiVwTYjslUO) | [Swans of London](https://open.spotify.com/artist/6dxwRzHWBjutEenT5gV6L8) | [In Rainbows](https://open.spotify.com/album/2WPUYjAwgoEHaHJvBARs2O) | 3:43 | 2021-11-11 |  |
 | [McQuarrie](https://open.spotify.com/track/5SmaR4KtLoIFMze24rjaOr) | [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3) | [McQuarrie](https://open.spotify.com/album/1evcRpmx5mxzVPuRUigXTJ) | 2:25 | 2022-11-11 |  |
@@ -271,6 +274,7 @@
 | [seed](https://open.spotify.com/track/1nmqvyLwzIbdcmKKcUDKL5) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [seed](https://open.spotify.com/album/0RWjMFir2IACQoXAbpU5l7) | 2:00 | 2022-05-20 | 2022-11-20 |
 | [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 | 2022-11-25 |  |
 | [seed](https://open.spotify.com/track/4P5vUfzQEQQGelK4czaXan) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 2:00 | 2022-11-11 | 2022-11-24 |
+| [Serenity Suite](https://open.spotify.com/track/0IhULII389LPOzrk2Z9223) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Serenity Suite](https://open.spotify.com/album/2UxBgVsaSG9rswsDYc5BWf) | 2:12 | 2023-09-04 |  |
 | [shogun](https://open.spotify.com/track/1hccHdv4Vb713T0cRgVg5l) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [moisture](https://open.spotify.com/album/2QQD51qrAwUfSyiqhf2UM9) | 1:32 | 2021-11-11 |  |
 | [Skate Day](https://open.spotify.com/track/0dhBZOXyLXbDH6Xp3t3B4P) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Skate Day](https://open.spotify.com/album/5hg32AUaotI7xq5ZPBGUcu) | 2:34 | 2022-05-13 | 2022-05-20 |
 | [Slow Down](https://open.spotify.com/track/7m9L3LHhO1ALNXUJ7m9K04) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [Slow Down](https://open.spotify.com/album/2srbrMZXmGQskURfzFl3zx) | 3:07 | 2021-11-11 |  |
@@ -339,6 +343,7 @@
 | [Watanabe](https://open.spotify.com/track/7vIxfxNI94g3qeGJ6xoJBA) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Watanabe](https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK) | 1:59 | 2021-11-11 | 2022-12-10 |
 | [Watch Your Back](https://open.spotify.com/track/2sVVZJS9andmMIl1zg7EOj) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Watch Your Back](https://open.spotify.com/album/4PTaa4d2ehxeXGLWfXRfE5) | 2:12 | 2021-11-11 |  |
 | [Wax Poetry](https://open.spotify.com/track/2CEKenDIPepmr8rdOhfilr) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 1:57 | 2021-11-11 |  |
+| [Way I Feel](https://open.spotify.com/track/0J5Xla24Tofasdl9XwZKgH) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Way I Feel](https://open.spotify.com/album/3txKMGae7fBxzQ0Gzj0aOz) | 2:57 | 2023-09-04 |  |
 | [Well](https://open.spotify.com/track/5WzRXholxaxwcH3v1bpCTu) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Well](https://open.spotify.com/album/6tSUcBr3i85gAHGCmDSpbC) | 2:41 | 2022-09-09 |  |
 | [what if](https://open.spotify.com/track/2fTviLwYcLdsLTYEve0hBL) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [what if](https://open.spotify.com/album/6lWBGR6bwzRmt6Lx4lXiFp) | 2:01 | 2022-08-05 | 2022-11-20 |
 | [what if](https://open.spotify.com/track/4IIiucuvJ25DrFwEvCTL76) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [what if](https://open.spotify.com/album/4VXu3BmVI3REesQcUYf3Dy) | 2:01 | 2022-11-11 |  |

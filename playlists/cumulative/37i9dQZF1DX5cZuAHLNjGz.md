@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with AP Dhillon
 
-243 songs - 12 hr 43 min
+244 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bijlee Bijlee](https://open.spotify.com/track/6rypIt9X1x9Okl0mgCdoVV) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Happy Chocolate Day 2022](https://open.spotify.com/album/64MPIq8mztoup1uwycI8dw) | 2:48 | 2022-07-28 | 2022-07-30 |
 | [Black & White](https://open.spotify.com/track/5wiSbeDm2p5yniuus7eH4J) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:46 | 2022-05-29 | 2023-07-27 |
 | [Black Effect](https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Black Effect](https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj) | 2:55 | 2022-05-29 | 2023-08-23 |
+| [Black Heart](https://open.spotify.com/track/6xTLfT3ppNqOre8C8wMmN2) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:35 | 2023-09-04 |  |
 | [Bliss](https://open.spotify.com/track/1mFP5PZWD1TUX1NWVx5EaW) | [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Bliss](https://open.spotify.com/album/36x75E36kXJhu2Mvc11h7y) | 3:16 | 2022-12-10 | 2022-12-15 |
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2022-05-29 |  |
 | [Breakan \(feat\. Simar Kaur\)](https://open.spotify.com/track/2iMFg8rVPNZGYv0sXL9a1D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Versatile](https://open.spotify.com/album/4XJOG0BM4Lr0XfrscVLu9X) | 2:51 | 2022-07-22 | 2022-09-09 |
@@ -43,7 +44,7 @@
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-05-19 | 2023-06-24 |
 | [California Love](https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [ANYWAY](https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw) | 2:55 | 2023-06-23 |  |
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 | 2023-05-01 |
-| [Champagne](https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:02 | 2022-05-29 |  |
+| [Champagne](https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:02 | 2022-05-29 | 2023-09-05 |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2022-05-29 | 2023-07-08 |
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-05-29 | 2022-10-01 |
 | [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/track/44g0ftxbp0OAgAXK28ltHj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/album/4mF6BF98nJlozyGZPLbfCk) | 3:25 | 2022-09-30 | 2023-02-01 |

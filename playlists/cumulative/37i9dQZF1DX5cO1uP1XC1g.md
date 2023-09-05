@@ -2,7 +2,7 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk?si=FKOx97emQgGjLM7dKdbn\-A">Hamza Namira</a>
+> The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo?si=XdZy\-xaoSuyZh6p4EsBj1Q">Nawal</a>
 
 334 songs - 20 hr 8 min
 

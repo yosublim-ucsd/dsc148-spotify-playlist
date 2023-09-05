@@ -1,12 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
-  "num_followers": 250445,
+  "num_followers": 250642,
   "original_name": "Happy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWRiZTY1NTJmYzRjMWIxNDBhYjcxYWZkNzg4M2I5YzRlMzgxNjE2",
+  "snapshot_id": "MCw0Zjk3YWFmYmY0NWMyYWYzYmM4MmYzMDE3ODBhNmRlZjRjYzY5OWZi",
   "tracks": [
     {
       "added_at": "2023-01-03 15:06:17",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Sunshine on Leith",
         "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Colour By Numbers (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
-      },
-      "artists": [
-        {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Karma Chameleon - Remastered 2002",
-      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Colour By Numbers (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Let's Hear It for the Boy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Let's Hear It for the Boy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
     },
     {
       "added_at": "2023-05-23 07:22:54",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 189093,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Invisible Touch (2007 Remaster)",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 208026,
       "name": "Invisible Touch - 2007 Remaster",
       "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
       "added_at": "2023-01-03 15:06:17",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-01-03 15:06:17",
       "album": {
-        "name": "Look Sharp!",
-        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
-    },
-    {
-      "added_at": "2023-01-03 15:06:17",
-      "album": {
         "name": "Take My Time",
         "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 200826,
       "name": "Morning Train (Nine to Five) - Edit",
       "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
+    },
+    {
+      "added_at": "2023-01-03 15:06:17",
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3"
     },
     {
       "added_at": "2023-01-03 15:06:17",

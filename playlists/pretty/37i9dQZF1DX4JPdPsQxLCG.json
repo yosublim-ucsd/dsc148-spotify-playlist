@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road.",
-  "num_followers": 66029,
+  "num_followers": 66639,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzVmOWU0OTY0OTJmOTI1OTdkYjdmZjk5ZWJhZGEzODcwMmRlMzY5",
+  "snapshot_id": "MCw5N2EzY2Q4YjI5NDBhNTdkYThmZTg3OGY2ODg1N2EyMzlhYjc1NzRj",
   "tracks": [
     {
       "added_at": "2023-08-31 20:09:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-31 20:09:25",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2023-08-31 20:09:25",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2023-08-31 20:09:25",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2023-08-31 20:09:25",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-08-31 20:09:25",
       "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
-    },
-    {
-      "added_at": "2023-08-31 20:09:25",
-      "album": {
         "name": "Against the Grain",
         "url": "https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 207426,
       "name": "Sweet City Woman",
       "url": "https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO"
+    },
+    {
+      "added_at": "2023-08-31 20:09:25",
+      "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
     },
     {
       "added_at": "2023-08-31 20:09:25",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-08-31 20:09:25",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Building a Mystery",
-      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
-    },
-    {
-      "added_at": "2023-08-31 20:09:25",
-      "album": {
         "name": "Born on a Pirate Ship (Enhanced Edition)",
         "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 209960,
       "name": "The Old Apartment",
       "url": "https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23"
+    },
+    {
+      "added_at": "2023-08-31 20:09:25",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Building a Mystery",
+      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
     },
     {
       "added_at": "2023-08-31 20:09:25",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-08-31 20:09:25",
       "album": {
-        "name": "The World According To Gob",
-        "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
-      },
-      "artists": [
-        {
-          "name": "Gob",
-          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "I Hear You Calling",
-      "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
-    },
-    {
-      "added_at": "2023-08-31 20:09:25",
-      "album": {
         "name": "Waiting For A Miracle",
         "url": "https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 223826,
       "name": "Wondering Where The Lions Are",
       "url": "https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP"
+    },
+    {
+      "added_at": "2023-08-31 20:09:25",
+      "album": {
+        "name": "The World According To Gob",
+        "url": "https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb"
+      },
+      "artists": [
+        {
+          "name": "Gob",
+          "url": "https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "I Hear You Calling",
+      "url": "https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX"
     },
     {
       "added_at": "2023-08-31 20:09:25",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-08-31 20:09:25",
       "album": {
-        "name": "Better Luck In The Next Life",
-        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
-    },
-    {
-      "added_at": "2023-08-31 20:09:25",
-      "album": {
         "name": "Yer Favourites",
         "url": "https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 259026,
       "name": "Wheat Kings",
       "url": "https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J"
+    },
+    {
+      "added_at": "2023-08-31 20:09:25",
+      "album": {
+        "name": "Better Luck In The Next Life",
+        "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 167979,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
     }
   ],
   "unique_name": "Canadian Road Trip",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,639 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,688 likes - 60 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 12 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 |
 | 13 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
 | 14 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
-| 15 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
-| 16 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
+| 15 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
+| 16 | [Living Dead Girl](https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:21 |
 | 17 | [Tribute](https://open.spotify.com/track/6crBy2sODw2HS53xquM6us) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Tenacious D](https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS) | 4:08 |
 | 18 | [Cannibal](https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:14 |
 | 19 | [Square Hammer](https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:59 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 39 | [This is Halloween \- Pop Version](https://open.spotify.com/track/2KUL1Ix9grxAWvIAft9EWL) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Jack 2 Pack \(The Nightmare Before Christmas\)](https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT) | 3:22 |
 | 40 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 |
 | 41 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:10 |
-| 42 | [Deal with the Devil](https://open.spotify.com/track/6aoCWGknNkO1GmDMih37TQ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 3:21 |
-| 43 | [Going To Hell](https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 4:36 |
+| 42 | [Going To Hell](https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Going To Hell \(Deluxe Edition\)](https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4) | 4:36 |
+| 43 | [Deal with the Devil](https://open.spotify.com/track/6aoCWGknNkO1GmDMih37TQ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx \(Deluxe Edition\)](https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb) | 3:21 |
 | 44 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 5:12 |
-| 45 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 |
-| 46 | [The Addams Family](https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Battlestar Galactica: The A to Z of Fantasy TV](https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ) | 2:22 |
+| 45 | [The Addams Family](https://open.spotify.com/track/5Pbhy6ElMAob3jp5e8ru3r) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Battlestar Galactica: The A to Z of Fantasy TV](https://open.spotify.com/album/3k0JikEiL0wvgmX0x72geJ) | 2:22 |
+| 46 | [The Death & Resurrection Show](https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Killing Joke](https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH) | 6:55 |
 | 47 | [Monster](https://open.spotify.com/track/1K9jK8EHkgOTjLokIbIxPq) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 4:09 |
 | 48 | [I Want Candy](https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [The Best Of Bow Wow Wow](https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m) | 2:44 |
 | 49 | [Dracula's Wedding \(feat\. Kelis\)](https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Yes, I'm A Witch](https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP) | [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Palumbo Of The Brothers Brothers](https://open.spotify.com/artist/51rPFkrSpx9TrlbKBnwK2b), [John Palumbo](https://open.spotify.com/artist/56m537t8BiQfTMEQ7gx7RM) | [Yes, I'm A Witch](https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7) | 3:48 |
 | 60 | [You And Me And The Devil Makes 3](https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [EAT ME, DRINK ME](https://open.spotify.com/album/2A49izrVW0wRLcst64owry) | 4:24 |
 
-Snapshot ID: `MCw5NmUxYTEyYTQ0YWYxZmI1MWZlOTUzMGZlNTEyYjJmYzlmMzQ3ODE3`
+Snapshot ID: `MCwxMTM4OTg5NTdmNDNhZGMyMGJkNzgwNDljZjY0OWRkMGVmZWEyYWI3`

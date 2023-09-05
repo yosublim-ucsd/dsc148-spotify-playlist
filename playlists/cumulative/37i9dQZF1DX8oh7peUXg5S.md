@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-247 songs - 15 hr 52 min
+248 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [La Madre](https://open.spotify.com/track/4eUhX5KmmQp537lxDJpmQK) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [La Vida en Canciones](https://open.spotify.com/album/4JmtA7DoG2XPhCwpgCMkI1) | 6:16 | 2022-11-24 | 2022-12-24 |
 | [La Malquerida \- En Vivo](https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Malquerida](https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n) | 8:05 | 2022-06-28 | 2022-08-12 |
 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 | 2022-06-09 |  |
+| [La Puerta Violeta \- ACOUSTIC HOME sessions](https://open.spotify.com/track/47bKCfiZD9WQXR92mvSBsR) | [Los Acústicos](https://open.spotify.com/artist/5tAfcROTNt4bBxY2ARRQ7d), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [ROZALÉN \(ACOUSTIC HOME sessions\)](https://open.spotify.com/album/3zvESYWLw2GyBIj2r0RBPI) | 3:26 | 2023-09-01 |  |
 | [La vida es más compleja de lo que parece](https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 3:08 | 2022-06-09 |  |
 | [Las Cosas Que Importan](https://open.spotify.com/track/1run10IgaZy4iaHhD45Egh) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/2rU1GNyezdNR2Jz615bUfB) | 3:34 | 2023-03-02 | 2023-06-22 |
 | [Las Cosas Que Importan](https://open.spotify.com/track/4jzcN41E4BMPFYp0WSlfQ5) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/4m8whfllhHJ02RU5LwIySw) | 3:34 | 2023-05-29 |  |
@@ -133,7 +134,7 @@
 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 | 2022-06-09 |  |
 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 | 2022-08-11 |  |
 | [Lucía](https://open.spotify.com/track/4vGMLLZQbanPA7CxiUndM7) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Lucía](https://open.spotify.com/album/69XgctIStwKPPFJ0ZhXNjW) | 3:04 | 2022-06-30 | 2022-07-24 |
-| [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 | 2023-05-29 |  |
+| [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 | 2023-05-29 | 2023-09-05 |
 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 | 2022-09-08 |  |
 | [María la portuguesa](https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 3:52 | 2022-06-09 | 2023-03-03 |
 | [Me Gustas](https://open.spotify.com/track/7vgvrrqPEJdmy6SPPfVU6t) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Me Gustas](https://open.spotify.com/album/4f1jHRboBgEMGte3zPDdEx) | 2:47 | 2022-06-09 | 2022-07-29 |

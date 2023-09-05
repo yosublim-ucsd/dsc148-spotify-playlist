@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-184 songs - 16 hr 51 min
+185 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
 | [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 |  |
+| [Payaliya](https://open.spotify.com/track/2qTil4mK99qmmVhH7bIFW1) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/1zwPjsEUnYZTPzz7C5OOSs) | 4:10 | 2023-09-04 |  |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-21 |  |
 | [Piya Sawre](https://open.spotify.com/track/6NDzy3yUSghgEPm2fbPbkY) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9) | [Piya Sawre](https://open.spotify.com/album/1ZinsKlEsh9tvXfYm5Gqpz) | 5:03 | 2023-07-20 |  |
 | [Piya: Basant Mukhari](https://open.spotify.com/track/32w1dhGQnuAoH4QiqtIWkH) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Junaid Bashir](https://open.spotify.com/artist/5LjIrV2myp40iKTOYOBcVa) | [Piya: Basant Mukhari](https://open.spotify.com/album/2u75yNIlGpJhdJ5zQfAxOl) | 5:41 | 2022-05-17 | 2023-07-06 |
@@ -174,7 +175,7 @@
 | [Sitar Fusion](https://open.spotify.com/track/2TZAlWT2W10N9Iui6VBtiD) | [Brian World](https://open.spotify.com/artist/6YC2m60UJ7Sll1Pey8IIiF) | [Music for the World](https://open.spotify.com/album/49O4D1x0xYv3QXbyknIoqB) | 4:06 | 2022-05-17 | 2023-02-02 |
 | [Sitar Symphony \- Original](https://open.spotify.com/track/5qRS33ZGCIIrbf8tRzpy3a) | [Suhel Rais Khan, Ustad Sultan Khan](https://open.spotify.com/artist/5tGcEIgOrXtCk3KXejLTL1) | [Fusion Lounge](https://open.spotify.com/album/7ivbfUFET5BZlp7j81s0Jg) | 4:18 | 2022-05-17 | 2023-03-23 |
 | [Spinning](https://open.spotify.com/track/5ljHA0RktQzKcuIEw6CH6l) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [The Silent Sea](https://open.spotify.com/album/3EnuabTWwljjKXRfjyePy3) | 6:39 | 2022-05-17 | 2023-03-23 |
-| [Sunn Bhavara](https://open.spotify.com/track/5bYBUKAIs1F4DcdcNfbMgj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 4:23 | 2022-05-17 |  |
+| [Sunn Bhavara](https://open.spotify.com/track/5bYBUKAIs1F4DcdcNfbMgj) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [OK Jaanu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6) | 4:23 | 2022-05-17 | 2023-09-05 |
 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/6e0Nq5CfORhxfuuBRsUaQG) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Shiva Moon: Prem Joshua Remixed by Maneesh de Moor](https://open.spotify.com/album/0q91pqWmodbereR3sVAxvX) | 7:12 | 2022-05-17 | 2022-07-29 |
 | [Tangerine Thumri \(Orange Turban Mix\)](https://open.spotify.com/track/1ZpDROkwHFYtpsRkBTG2Sr) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1), [Maneesh de Moor](https://open.spotify.com/artist/7CUmdcvfZJrSsg4jnNNwHA) | [Shiva Moon](https://open.spotify.com/album/1TtTFpcrxspPiuBsD7f1gT) | 7:12 | 2022-07-12 | 2023-03-16 |
 | [Tarfe](https://open.spotify.com/track/3VvdqoYyBa6zssV8kNj0bM) | [Samarth Janve](https://open.spotify.com/artist/6aD59tcg6klEh7d51b6JuQ) | [Tarfe](https://open.spotify.com/album/4jkjW6EwGjiZO10LD2DTfx) | 3:18 | 2023-03-01 | 2023-07-22 |

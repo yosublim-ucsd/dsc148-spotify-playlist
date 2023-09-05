@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: 0WAVE) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 200527,
+  "num_followers": 200583,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTRmNjBiNGZmNDM2ZDg4NmE2ZDRlY2JmMDIzOWI4NTU5NjE3YTMx",
+  "snapshot_id": "MCxiYjI3YmMxZTEwNTA5NmFjMWM0MmM0ZGNmNmY1NjJjMzAyNGRhYWQ3",
   "tracks": [
     {
       "added_at": "2023-08-25 09:06:39",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
         "name": "Nerdy Love",
         "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 196373,
       "name": "Nerdy Love",
       "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -231,22 +231,18 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Day & Night (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 215573,
-      "name": "Day & Night (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
+      "duration_ms": 224606,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -271,18 +267,22 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+        "name": "Day & Night (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 224606,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/6IFpwncCkKrXHyP0RuG9r6"
+      "duration_ms": 215573,
+      "name": "Day & Night (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
@@ -411,22 +391,22 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Metronome",
-        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         },
         {
-          "name": "KEITA",
-          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Metronome",
-      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -447,6 +427,26 @@
       "duration_ms": 199506,
       "name": "Joker (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/7GLn0324YKGYxbYN7GH8Ip"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "Metronome",
+        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "KEITA",
+          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 194111,
+      "name": "Daydream (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -507,22 +527,18 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 194111,
-      "name": "Daydream (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
+      "duration_ms": 174040,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -547,22 +563,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
       },
@@ -583,38 +583,22 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+        "name": "H.A.L.F (Have.A.Little.Fun)",
+        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         },
         {
           "name": "Crush",
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 189821,
-      "name": "No.5",
-      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "staying",
-        "url": "https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 222156,
-      "name": "Homebody",
-      "url": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM"
+      "duration_ms": 216113,
+      "name": "party (SHUT DOWN)",
+      "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -643,22 +627,70 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "H.A.L.F (Have.A.Little.Fun)",
-        "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
+        "name": "staying",
+        "url": "https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 222156,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         },
         {
           "name": "Crush",
           "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 216113,
-      "name": "party (SHUT DOWN)",
-      "url": "https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ"
+      "duration_ms": 189821,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/0tWJ05IcctwDbJ0PfDbigg"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "INEEDYOURLOVE",
+        "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 222684,
+      "name": "INEEDYOURLOVE",
+      "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "SEOUL DRIFT",
+        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "SEOUL DRIFT",
+      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -687,22 +719,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "INEEDYOURLOVE",
-        "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 222684,
-      "name": "INEEDYOURLOVE",
-      "url": "https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "365&7",
         "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
@@ -719,38 +735,6 @@
       "duration_ms": 169133,
       "name": "365&7 (Feat. JAMIE)",
       "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "SEOUL DRIFT",
-        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "SEOUL DRIFT",
-      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 227083,
-      "name": "V",
-      "url": "https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -787,6 +771,22 @@
       "duration_ms": 183490,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/4f3E2bdBCYDvC0otoYcdXg"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 227083,
+      "name": "V",
+      "url": "https://open.spotify.com/track/3f5XXfnwDmo3z8fJPb9Oxa"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        }
-      ],
-      "duration_ms": 207523,
-      "name": "Error (Feat. Loopy)",
-      "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -935,26 +915,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 223681,
-      "name": "Me Like Yuh (K) (Feat. Hoody)",
-      "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "MBT",
         "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
@@ -1002,11 +962,35 @@
         {
           "name": "ASH ISLAND",
           "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
         }
       ],
-      "duration_ms": 196153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
+      "duration_ms": 207523,
+      "name": "Error (Feat. Loopy)",
+      "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 223681,
+      "name": "Me Like Yuh (K) (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 198949,
-      "name": "Dank",
-      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "COCO BOTTLE",
         "url": "https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg"
       },
@@ -1163,6 +1131,38 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 198949,
+      "name": "Dank",
+      "url": "https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -1179,26 +1179,6 @@
       "duration_ms": 157773,
       "name": "Don't go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        }
-      ],
-      "duration_ms": 174644,
-      "name": "Beautiful (Feat. Skinny Brown)",
-      "url": "https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1263,6 +1243,26 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 174644,
+      "name": "Beautiful (Feat. Skinny Brown)",
+      "url": "https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Six Weeks",
-      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "VIOLINIST2",
         "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 206680,
       "name": "OUT OF MY SIGHT",
       "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Six Weeks",
+      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1355,62 +1355,6 @@
       "duration_ms": 231413,
       "name": "Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "Empty Head",
-        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 185642,
-      "name": "Empty Head",
-      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Shawty (feat. Coogie)",
-      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1487,18 +1431,58 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "OFOSUN",
-        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
       },
       "artists": [
         {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
         }
       ],
-      "duration_ms": 226499,
-      "name": "U",
-      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "Empty Head",
+        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Empty Head",
+      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1519,6 +1503,22 @@
       "duration_ms": 214640,
       "name": "End of the World (Feat. GSoul)",
       "url": "https://open.spotify.com/track/5ZO2kMfYHuKXoAShKuXjZn"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "OFOSUN",
+        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 226499,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
+        "name": "UNSTEADY",
+        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I BE LIKE (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
         "name": "3-PAKTORY02",
         "url": "https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6"
       },
@@ -1639,22 +1659,22 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "UNSTEADY",
-        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
       "artists": [
         {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
         },
         {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 184840,
-      "name": "I BE LIKE (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+      "duration_ms": 217773,
+      "name": "Rich Kids Anthem (Feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1691,46 +1711,6 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Rich Kids Anthem (Feat. Lee Hi)",
-      "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
-        "name": "NOWITZKI",
-        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "Lance Skiiiwalker",
-          "url": "https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "Trippy (Feat. Lance Skiiiwalker)",
-      "url": "https://open.spotify.com/track/6t34W4GkIQxh0RFDEj30jy"
-    },
-    {
-      "added_at": "2023-08-25 09:06:39",
-      "album": {
         "name": "Berry Loves My Mood",
         "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 210641,
       "name": "Misfits (Feat. MELOH, Kid Wine)",
       "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
+    },
+    {
+      "added_at": "2023-08-25 09:06:39",
+      "album": {
+        "name": "NOWITZKI",
+        "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "Lance Skiiiwalker",
+          "url": "https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O"
+        }
+      ],
+      "duration_ms": 277040,
+      "name": "Trippy (Feat. Lance Skiiiwalker)",
+      "url": "https://open.spotify.com/track/6t34W4GkIQxh0RFDEj30jy"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1799,26 +1799,22 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "School Rapper4 Semi Final 1",
-        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
       "artists": [
         {
-          "name": "Vapo",
-          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         },
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "BE'O (\ube44\uc624)",
+          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
         }
       ],
-      "duration_ms": 197714,
-      "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
+      "duration_ms": 199064,
+      "name": "Deep Sea (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
     },
     {
       "added_at": "2023-08-25 09:06:39",
@@ -1847,22 +1843,26 @@
     {
       "added_at": "2023-08-25 09:06:39",
       "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+        "name": "School Rapper4 Semi Final 1",
+        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
       "artists": [
         {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+          "name": "Vapo",
+          "url": "https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t"
         },
         {
-          "name": "BE'O (\ube44\uc624)",
-          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 199064,
-      "name": "Deep Sea (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
+      "duration_ms": 197714,
+      "name": "Meu Tempo (Feat. BIBI & Simon Dominic) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/1nM7C8olIT4wk6Fji2ILYd"
     },
     {
       "added_at": "2023-08-25 09:06:39",

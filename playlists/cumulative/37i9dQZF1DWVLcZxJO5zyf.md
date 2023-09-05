@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Baco Exu do Blues
 
-229 songs - 10 hr 36 min
+230 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [24 Horas](https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Baile do Papato](https://open.spotify.com/album/2xReweSuwmZbdogHMILeek) | 3:01 | 2023-07-21 |  |
 | [A Dona Aranha](https://open.spotify.com/track/2VRKmQbkOhmpmp5wShHQ1j) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:04 | 2023-08-31 |  |
 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 | 2022-01-14 | 2023-01-28 |
-| [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 | 2023-06-16 |  |
+| [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 | 2023-06-16 | 2023-09-05 |
 | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 | 2023-07-15 |
 | [AMEIANOITE](https://open.spotify.com/track/3JeFqRhhI27DitFmQmdSzL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/5D5BwY5BCQSV296xzalpXk) | 2:45 | 2023-02-09 | 2023-02-16 |
 | [AMEIANOITE](https://open.spotify.com/track/6RaolvdZThLHWf0ROWRvW8) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [AMEIANOITE](https://open.spotify.com/album/2DMrlO0tm4eE4ZEE1JZulX) | 2:45 | 2022-10-21 | 2023-02-10 |
@@ -196,6 +196,7 @@
 | [SEREIA](https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SEREIA](https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb) | 2:35 | 2023-07-07 |  |
 | [SexToU](https://open.spotify.com/track/0RMpa3qNoB6rlVyhRmwwVO) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [SexToU](https://open.spotify.com/album/1YTcOXOhHmMCjV2MFnKA2M) | 2:55 | 2022-01-14 | 2022-12-24 |
 | [show](https://open.spotify.com/track/5G1JizLB3z1hHZ4rbJQHJ5) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [show](https://open.spotify.com/album/10n3HLhK3UHwFcGhqk0Fzc) | 3:23 | 2022-01-14 | 2022-03-26 |
+| [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 | 2023-09-04 |  |
 | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 | 2022-01-14 | 2023-02-11 |
 | [Solinho](https://open.spotify.com/track/4sIFFlKwckHSuv3asqc49L) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Solinho](https://open.spotify.com/album/33llek0CGCOcGmALy12znK) | 2:06 | 2022-01-14 | 2022-02-19 |
 | [Soltinha](https://open.spotify.com/track/3aeKrdLhpOXYqEM6pjcO7g) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP) | [Soltinha](https://open.spotify.com/album/79o5cWTyCM3YNqYIK9wKif) | 2:12 | 2023-01-19 | 2023-02-24 |

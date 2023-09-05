@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ\_MX](https://open.spotify.com/playlist/37i9dQZF1DXc5PHJQUwAnG)
 
-> Bienvenidx a la trampa mexa\. Flyboiz y Adan Cruz en portada.
+> Bienvenidx a la trampa mexa\. Jesse Baez y Milkman en portada.
 
-168 songs - 7 hr 50 min
+169 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cadenas de Oro](https://open.spotify.com/track/3k9RFNpf8U6RjvPkd8bfpJ) | [Enzo Durand](https://open.spotify.com/artist/0ECfs4mghN42V6VnC6VrQQ), [JP\-I](https://open.spotify.com/artist/1r6f97D6f13dIpP1iefiQr) | [Cadenas de Oro](https://open.spotify.com/album/41e7z4DLZFHdG0b3EBIIoC) | 3:11 | 2023-06-09 | 2023-07-15 |
 | [Callejero](https://open.spotify.com/track/2sA17dwArdeg02m5z2MbyV) | [Yorking HB](https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Callejero](https://open.spotify.com/album/7gMhXbN3Rg6xeAybGtPvXg) | 4:14 | 2023-06-09 |  |
 | [CAMO](https://open.spotify.com/track/2WKIsIF0j0T7Du6IRsRNUQ) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE) | [CAMO](https://open.spotify.com/album/495ZJ9iTRAnqJ6JDrjqJUb) | 2:51 | 2023-07-07 |  |
+| [CAPRICORNIO](https://open.spotify.com/track/5MmVblaDHYwGLcYZRtaL7u) | [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [CAPRICORNIO](https://open.spotify.com/album/7JQYFGV2kuLNz7gXUelAog) | 2:58 | 2023-09-05 |  |
 | [CDMX](https://open.spotify.com/track/7xuq3E5t2kJcuAZqkNDOvG) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [Trap Ejecutivo](https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh) | 2:13 | 2023-07-03 |  |
 | [Ceniza](https://open.spotify.com/track/1COvCOGGV38hOhUoGoNYTG) | [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y) | [Ceniza](https://open.spotify.com/album/6sPGtNL1UFxbRP2m5PX8xM) | 3:40 | 2023-06-09 | 2023-07-01 |
 | [Charlie Sheen](https://open.spotify.com/track/4ZMn7rErtXSIRAMTaiP6of) | [Prxblxm](https://open.spotify.com/artist/1OTxM38rUpGaEv4nMo4Qf5), [Rplcmnts](https://open.spotify.com/artist/2oNFbBjwhA61ygGaRwKo88) | [Charlie Sheen](https://open.spotify.com/album/14mPKa8xiqVb9CN5OnIClH) | 1:49 | 2023-06-16 |  |
@@ -170,7 +171,7 @@
 | [Wapo y Mamón](https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [Wapo y Mamón](https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE) | 2:16 | 2023-06-09 |  |
 | [Waze](https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:01 | 2023-06-09 |  |
 | [why?](https://open.spotify.com/track/3eNAjO88QTdxdDyAFVUnEJ) | [Brokeboi Rubio](https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX) | [why?](https://open.spotify.com/album/04jGMZtjIz0RxunjQXl2E0) | 1:14 | 2023-06-09 |  |
-| [YANOSE+](https://open.spotify.com/track/6aRH1wULqL60eu4tnD7Hjx) | [jorjais zerotres](https://open.spotify.com/artist/5umEL3FJi93772szQJQ5en), [N o m o o d](https://open.spotify.com/artist/7eapcdTGTUub9A0mrrDK6h), [Max Vallejo](https://open.spotify.com/artist/24DfufMsr8s4oOjr6W94is) | [YANOSE+](https://open.spotify.com/album/6Xc3L4wNLJgkuivTpmpmGo) | 3:55 | 2023-07-28 |  |
+| [YANOSE+](https://open.spotify.com/track/6aRH1wULqL60eu4tnD7Hjx) | [jorjais zerotres](https://open.spotify.com/artist/5umEL3FJi93772szQJQ5en), [N o m o o d](https://open.spotify.com/artist/7eapcdTGTUub9A0mrrDK6h), [Max Vallejo](https://open.spotify.com/artist/24DfufMsr8s4oOjr6W94is) | [YANOSE+](https://open.spotify.com/album/6Xc3L4wNLJgkuivTpmpmGo) | 3:55 | 2023-07-28 | 2023-09-05 |
 | [Yeezys](https://open.spotify.com/track/0c4yuYnT4WF3s6p070qBwT) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH) | [Yeezys](https://open.spotify.com/album/5SxZc6xzugd2A0oSqozMWb) | 2:23 | 2023-06-09 |  |
 | [Yeyo](https://open.spotify.com/track/1rWzqNBSJyOp4xlTatI3he) | [Asis](https://open.spotify.com/artist/16YhiWjmyoCqhoZGbuQNsE), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm), [Yerack Rocha](https://open.spotify.com/artist/3UpSLwP3Q4NGxRj0buWEXx) | [Yeyo](https://open.spotify.com/album/1ErQCuIj96KgIL99O3tMrt) | 4:31 | 2023-06-09 | 2023-07-01 |
 | [Yo tmb me fui](https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5) | [Mike Lamadrid](https://open.spotify.com/artist/0yH4dtb40shmtEVyb9yA8C) | [Yo tmb me fui](https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo) | 2:21 | 2023-06-09 |  |

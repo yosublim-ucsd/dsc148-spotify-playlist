@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 682876,
+  "num_followers": 683036,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDFhN2ZiZDU1MWQ2MjVhMzE4ZmExNjMxMDI1NmViMmEwMzdjYWY3",
+  "snapshot_id": "MCwyNWRkYWM3MTdiY2RjOTFjYWE0MzJhY2RhNzE4YmY3YTIyM2Q0Mzli",
   "tracks": [
     {
       "added_at": "2023-07-25 17:32:56",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 282728,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Asc. Scorpio",
         "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 166601,
       "name": "Asc. Scorpio",
       "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 282728,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 200135,
-      "name": "Praja Magia",
-      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Coney Island Baby",
         "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 159093,
       "name": "Charley's Girl",
       "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 200135,
+      "name": "Praja Magia",
+      "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 333150,
       "name": "Tongo Barra",
       "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
-      },
-      "artists": [
-        {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "The Dandelion",
         "url": "https://open.spotify.com/album/3fk6hBtA6FfDK79t0oWmqG"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/42cVZAhX13JCHwrvlfqLcB"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
+        "name": "Slow Song (with Dragonette)",
+        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 253723,
+      "name": "Slow Song (with Dragonette)",
+      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4AZ9Eylw7Z7EsapL8inBsZ"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 224626,
       "name": "Tumblin'",
       "url": "https://open.spotify.com/track/53XMmw6emHn2NLt4YPPgPi"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Slow Song (with Dragonette)",
-        "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
-        }
-      ],
-      "duration_ms": 253723,
-      "name": "Slow Song (with Dragonette)",
-      "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/06YoxtZayqXJsMgRSB2X6G"
     },
     {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 218408,
-      "name": "Come On In",
-      "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
-    },
-    {
       "added_at": "2023-08-29 23:21:24",
       "album": {
         "name": "Perfect Day",
@@ -1467,6 +1451,22 @@
       "duration_ms": 241663,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 218408,
+      "name": "Come On In",
+      "url": "https://open.spotify.com/track/6HwVmEL610Sd9QtZ96Ysmr"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Walk the Streets of Love",
-        "url": "https://open.spotify.com/album/3CncPOGYwgAd1OW26HSUYD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
-        }
-      ],
-      "duration_ms": 209561,
-      "name": "Walk the Streets of Love",
-      "url": "https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Always Afternoon",
         "url": "https://open.spotify.com/album/5DaHMJFjoslPtN7m9xDNYi"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 183226,
       "name": "Always Afternoon",
       "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Walk the Streets of Love",
+        "url": "https://open.spotify.com/album/3CncPOGYwgAd1OW26HSUYD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 209561,
+      "name": "Walk the Streets of Love",
+      "url": "https://open.spotify.com/track/3pwe1XZL72gTCoeA3SI1eO"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "From Liberty Street",
-        "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
       "artists": [
         {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
         }
       ],
-      "duration_ms": 202120,
-      "name": "Life On Fire",
-      "url": "https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF"
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Pulse (Expanded Edition)",
         "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
       },
@@ -1807,18 +1791,34 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
+        "name": "From Liberty Street",
+        "url": "https://open.spotify.com/album/6edYKJPDkKIJv0mDYpVT0K"
       },
       "artists": [
         {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Ride with Me",
-      "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+      "duration_ms": 202120,
+      "name": "Life On Fire",
+      "url": "https://open.spotify.com/track/0kUIRi6z4yfHVG4qoksVxF"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "You Can Have It All",
+      "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Rock Your Baby",
-        "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
       "artists": [
         {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 174000,
-      "name": "You Can Have It All",
-      "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
+      "duration_ms": 232760,
+      "name": "Ride with Me",
+      "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
     },
     {
       "added_at": "2023-07-25 17:32:56",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-07-25 17:32:56",
       "album": {
-        "name": "Boys, B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
-      },
-      "artists": [
-        {
-          "name": "Spang Sisters",
-          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
-        }
-      ],
-      "duration_ms": 156788,
-      "name": "King Prawn The 1st",
-      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
-    },
-    {
-      "added_at": "2023-07-25 17:32:56",
-      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 190964,
       "name": "Next to Normal",
       "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
+    },
+    {
+      "added_at": "2023-07-25 17:32:56",
+      "album": {
+        "name": "Boys, B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/4chIfnAsr94togS7Xnwg2U"
+      },
+      "artists": [
+        {
+          "name": "Spang Sisters",
+          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
+        }
+      ],
+      "duration_ms": 156788,
+      "name": "King Prawn The 1st",
+      "url": "https://open.spotify.com/track/0t81ZOuQDXrw45a9mGKC6t"
     },
     {
       "added_at": "2023-07-25 17:32:56",

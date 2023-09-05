@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 108857,
+  "num_followers": 108927,
   "original_name": "Enganchados: Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjkxYThiMGE3YmFjMGZkMDQwYWEwODI5MzVkODQzN2IyYjA2YmY1",
+  "snapshot_id": "MCwzNGU2Mjk0MTIyZDFjMmM3MTdlMzNmMDFkYWNmMDIzZTc5NGJhZDgx",
   "tracks": [
     {
       "added_at": "2020-07-29 15:58:59",
@@ -315,8 +315,8 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+        "name": "I Don't Want To Miss A Thing EP",
+        "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
       },
       "artists": [
         {
@@ -324,25 +324,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 316826,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+      "duration_ms": 299723,
+      "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -359,6 +343,22 @@
       "duration_ms": 229240,
       "name": "You're the Inspiration - 2006 Remaster",
       "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "I Don't Want To Miss A Thing EP",
-        "url": "https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 299723,
-      "name": "I Don't Want To Miss A Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 243000,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 316826,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -523,6 +523,22 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
         "name": "18 Til I Die",
         "url": "https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+        "name": "All Out Of Love",
+        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+      "duration_ms": 341746,
+      "name": "Making Love Out of Nothing at All",
+      "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -603,22 +619,6 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "All Out Of Love",
-        "url": "https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 341746,
-      "name": "Making Love Out of Nothing at All",
-      "url": "https://open.spotify.com/track/01MXkFA8sL7at6txavDErt"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
         "name": "I've Been Expecting You",
         "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
       },
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 312306,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+    },
+    {
+      "added_at": "2020-07-29 15:58:59",
+      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -667,34 +683,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of 10CC",
-        "url": "https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl"
+        "name": "The Earth Is...",
+        "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
       },
       "artists": [
         {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
         }
       ],
-      "duration_ms": 368226,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
-    },
-    {
-      "added_at": "2020-07-29 15:58:59",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 312306,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+      "duration_ms": 272626,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
     },
     {
       "added_at": "2020-07-29 15:58:59",
@@ -715,18 +715,18 @@
     {
       "added_at": "2020-07-29 15:58:59",
       "album": {
-        "name": "The Earth Is...",
-        "url": "https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3"
+        "name": "20th Century Masters: The Millennium Collection: Best Of 10CC",
+        "url": "https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 272626,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca"
+      "duration_ms": 368226,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
     },
     {
       "added_at": "2020-07-29 15:58:59",

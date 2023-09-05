@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Selena Gomez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,906 likes - 104 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,136 likes - 104 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 103 | [Pretty In The Dark](https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Pretty In The Dark](https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw) | 2:56 |
 | 104 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
 
-Snapshot ID: `MCw0ZWI4ZmEzMDBiNzk4NzQ1MzBlNDA1ZGUyYjAwMzdkNWRkODJjYzkw`
+Snapshot ID: `MCwxMjkzNzc1NzUwN2YxOTUxY2MwYTU5NThiNTgyNzk3NzBiNmViOWRj`

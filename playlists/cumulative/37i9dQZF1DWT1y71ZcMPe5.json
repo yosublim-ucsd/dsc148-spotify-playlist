@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Selena Gomez",
+  "description": "The hottest songs you need to listen to right now. Cover: Nicki Minaj",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 238346,
       "name": "Alonica",
       "url": "https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp"
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Children of the Sky (a Starfield song)",
+        "url": "https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207611,
+      "name": "Children of the Sky (a Starfield song)",
+      "url": "https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC"
+    },
+    {
+      "album": {
         "name": "is nothing sacred?",
         "url": "https://open.spotify.com/album/5NX9yYMvKC9zBAIbRpJ3yd"
       },
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 165175,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
@@ -1098,6 +1116,24 @@
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "album": {
+        "name": "Flip It Up",
+        "url": "https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186894,
+      "name": "Flip It Up",
+      "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
     },
     {
       "album": {
@@ -1747,6 +1783,32 @@
     },
     {
       "album": {
+        "name": "Keep Going Up",
+        "url": "https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
+      "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -1838,6 +1900,24 @@
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
+    },
+    {
+      "album": {
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "album": {
@@ -1958,7 +2038,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 212784,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
@@ -2302,6 +2382,32 @@
       "duration_ms": 198520,
       "name": "NEW DANCE",
       "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
+    },
+    {
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg"
     },
     {
       "album": {
@@ -2702,10 +2808,36 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "album": {
+        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
+        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Hyunjin",
+          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172151,
+      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
+      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
     },
     {
       "album": {
@@ -2974,7 +3106,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 168053,
       "name": "someone will love you better - Zack Tabudlo Version",
       "url": "https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh"

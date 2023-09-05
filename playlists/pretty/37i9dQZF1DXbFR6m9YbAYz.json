@@ -1,12 +1,12 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 52951,
+  "num_followers": 53053,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTU4MDBhZDUzNDIyNDI4MmVlYjM4NjZiM2E5MjZjMTRiMmNiNmQ2",
+  "snapshot_id": "MCxhZmYxM2YyYjYzNTkxN2YwM2Q2OGNjNmZjMzgzZmFiNTgwMmNhYTg3",
   "tracks": [
     {
       "added_at": "2023-08-21 00:15:31",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+        "name": "Religiously. The Album.",
+        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Whiskey Glasses",
-      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -151,22 +151,6 @@
       "duration_ms": 217706,
       "name": "Martha Divine",
       "url": "https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "Religiously. The Album.",
-        "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -207,6 +191,22 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Whiskey Glasses",
+      "url": "https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
       },
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -375,34 +375,18 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Play It Again",
-      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -427,6 +411,22 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Play It Again",
+      "url": "https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Dirt On My Boots",
-      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
+        "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
+        "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 170560,
       "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
       "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
-        "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "She's Country",
-      "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
         "name": "Cowboy Like Me",
         "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 156200,
       "name": "Me and My Kind",
       "url": "https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
+        "name": "Country Boy's Dream Girl",
+        "url": "https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 183906,
+      "name": "Country Boy's Dream Girl",
+      "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -787,18 +787,34 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "Country Boy's Dream Girl",
-        "url": "https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ"
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
       "artists": [
         {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 183906,
-      "name": "Country Boy's Dream Girl",
-      "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
+      "duration_ms": 220573,
+      "name": "She's Country",
+      "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
+        "name": "One Of Them Girls",
+        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -847,6 +863,22 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
+        "name": "JEKYLL + HYDE",
+        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
         "name": "You, Me, And Whiskey",
         "url": "https://open.spotify.com/album/14xRuIiVBnjo0jNzIqnQbQ"
       },
@@ -863,38 +895,6 @@
       "duration_ms": 187941,
       "name": "You, Me, And Whiskey",
       "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "One Of Them Girls",
-        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "One Of Them Girls",
-      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "JEKYLL + HYDE",
-        "url": "https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -935,54 +935,6 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
-        "name": "Raised",
-        "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "The Neon",
-      "url": "https://open.spotify.com/track/0DFD2I4yGUHWeul4zjMDWf"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
@@ -1003,6 +955,54 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
+        "name": "Raised",
+        "url": "https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "The Neon",
+      "url": "https://open.spotify.com/track/0DFD2I4yGUHWeul4zjMDWf"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
         "name": "Adobe Sessions",
         "url": "https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW"
       },
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+        "name": "Can't Say I Ain't Country",
+        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 181066,
-      "name": "I'm Not Pretty",
-      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
+      "duration_ms": 185200,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -1047,6 +1047,22 @@
       "duration_ms": 208893,
       "name": "Rich",
       "url": "https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
     },
     {
       "added_at": "2023-08-21 00:15:31",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "Can't Say I Ain't Country",
-        "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/4L9Ds4mpD3SuYoWwFUlv16"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
         "name": "Pecos & the Rooftops",
         "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-08-21 00:15:31",
       "album": {
-        "name": "Wild as Her",
-        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Wild as Her",
-      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
-    },
-    {
-      "added_at": "2023-08-21 00:15:31",
-      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 223320,
       "name": "Does To Me (feat. Eric Church)",
       "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
+    },
+    {
+      "added_at": "2023-08-21 00:15:31",
+      "album": {
+        "name": "Wild as Her",
+        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
     },
     {
       "added_at": "2023-08-21 00:15:31",

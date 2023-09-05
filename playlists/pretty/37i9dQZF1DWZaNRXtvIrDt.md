@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Sofia Kourtesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,940 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,986 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Three Chains](https://open.spotify.com/track/4mtgNcMztMWMXHZeFBJMXu) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Three Chains / Nature](https://open.spotify.com/album/3197zWxS0yTRUN3lH6YRNc) | 4:26 |
 | 70 | [Clown From Two Towns Over](https://open.spotify.com/track/1HuIZ3hrszScXRSqleQxQT) | [Bullant](https://open.spotify.com/artist/7yNYzPpllrc7QPGN9HkyiO) | [Clown From Two Towns Over](https://open.spotify.com/album/1JcvLgZduGx280qHEU5phr) | 8:18 |
 
-Snapshot ID: `MCwzNTMyYjlmY2I3YWYwZThkZjRlNTU1MGYxZWZhZDNkMGRjMTUyY2Zh`
+Snapshot ID: `MCw3ZjA4Nzc0ODg2ODg5NmQzNzUwOTc5ZDk4NWZkMGE5YTJhOWMwM2Rk`

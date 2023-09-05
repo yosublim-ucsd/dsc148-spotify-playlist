@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 
 > Sintetizadores fluorescentes para acompañar tu trayecto nocturno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,352 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,606 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 6 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College & Electric Youth](https://open.spotify.com/artist/3moPFBjUsSSJAC92afLgOH) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
 | 7 | [Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17) | [Desire](https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0) | [Desire](https://open.spotify.com/album/02TMQZnfoemtwNM0pojOWn) | 4:56 |
 | 8 | [Awake](https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:43 |
-| 9 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 |
+| 9 | [Escape From LA](https://open.spotify.com/track/1sOW4PuG5X3Ie3EXUhAopJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 5:55 |
 | 10 | [Hijos del Caos](https://open.spotify.com/track/4rhCjuxsEIgNdAfjuqEQRq) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Armaggedon](https://open.spotify.com/album/2AP8H2csmGXSfUNov9ek6y) | 4:46 |
-| 11 | [Escape From LA](https://open.spotify.com/track/1sOW4PuG5X3Ie3EXUhAopJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 5:55 |
+| 11 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 |
 | 12 | [Odd Look](https://open.spotify.com/track/3Q6mwJseOFYBJ10d5CXp4o) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Odd Look](https://open.spotify.com/album/3FHMLI0Vz2t0gdypH1yImX) | 4:13 |
 | 13 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 |
 | 14 | [Sometimes](https://open.spotify.com/track/0kLrrh7Z1gySNTunBH790J) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Illumination](https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk) | 4:13 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DYkVgiO6RF.md) - [plain]
 | 39 | [2 Hearts](https://open.spotify.com/track/4AhBiNbY1ufi7ScAcHwnBQ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/40FCwDLlSKNZZ8tT3jWH5r) | 3:54 |
 | 40 | [About Work The Dancefloor \- Edit](https://open.spotify.com/track/1b6HCRWWbvFUZ5RG3bg7s6) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills](https://open.spotify.com/album/26FuPLPN5Vyznv9yFxKOTM) | 3:14 |
 | 41 | [Figure](https://open.spotify.com/track/0VYxLT8xjoVQfYdSxNUDw9) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Figure](https://open.spotify.com/album/3LSP2OcYGw6HQ8uRoqJbP9) | 7:00 |
-| 42 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 |
-| 43 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 |
+| 42 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 |
+| 43 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 |
 | 44 | [Slumlord](https://open.spotify.com/track/6O1G9pwLEidT5QTjuZw3tL) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [VEGA INTL\. Night School](https://open.spotify.com/album/5qA9yoz0W5eHKYOr45Rkc4) | 5:15 |
 | 45 | [Guess](https://open.spotify.com/track/38MsKd7xeOOjatKBcKDpLT) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Changes](https://open.spotify.com/album/2r143fiPWQBCUeFeCPhWEG) | 4:08 |
 | 46 | [Dos Extraños](https://open.spotify.com/track/6L8Jed13lCQn7pPiKOqIkf) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Dos Extraños](https://open.spotify.com/album/7mJvMAtknGnFQD93Eb5Ng9) | 3:20 |
 | 47 | [Turquesa](https://open.spotify.com/track/74a5mTNPCcp7sS4rh3eRD3) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9) | [Turquesa](https://open.spotify.com/album/7kdjiAJrQJ0hFMeWgjlg5t) | 3:19 |
 | 48 | [Swallowed By The Ocean](https://open.spotify.com/track/6ukCPd1kbqTzMXJeh0Jrwi) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Afterlife](https://open.spotify.com/album/0TfLNPaI76u8QwRNDiowSt) | 4:25 |
-| 49 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 |
-| 50 | [Nightdrive with You \(Fear Of Tigers Remix\) \- Bonus Track](https://open.spotify.com/track/7el1SndXaSC3EiuafO7UKB) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Fear Of Tigers](https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy) | [Nightdrive with You \(Deluxe Remastered Edition\)](https://open.spotify.com/album/7xBJCm0QkQTddVvnldfHeJ) | 5:55 |
+| 49 | [Nightdrive with You \(Fear Of Tigers Remix\) \- Bonus Track](https://open.spotify.com/track/7el1SndXaSC3EiuafO7UKB) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Fear Of Tigers](https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy) | [Nightdrive with You \(Deluxe Remastered Edition\)](https://open.spotify.com/album/7xBJCm0QkQTddVvnldfHeJ) | 5:55 |
+| 50 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 |
 
-Snapshot ID: `MCxiNzk2NWZmMDJlZmRjMzBkNjAzMjU5MzdmMjlmMWRhMDg4NDA0NDAy`
+Snapshot ID: `MCxjYTdhNGI0NzA0YzlhMzg0ZDIwMWQzYWQxMTJiMTdiMGI5M2MxNzBm`

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: BAEKHO
+> Future K\-Pop hits! Cover: BOYNEXTDOOR
 
-866 songs - 1 day 23 hr 52 min
+867 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [BUMP BUMP](https://open.spotify.com/track/3DuDC17OWfngzNa0dyK4Nj) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [WOOPS!](https://open.spotify.com/album/34PBDKuurgUDpAudAbOt9C) | 3:02 | 2020-11-17 | 2021-03-19 |
 | [Burn It](https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 5th Mini Album \[YES.\]](https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi) | 3:29 | 2021-01-25 | 2021-03-08 |
 | [Business \(Feat\. BE'O\)](https://open.spotify.com/track/1mWyVj0quMfOcwFSDPkQuD) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [The 1st Mini Album 'Day & Night'](https://open.spotify.com/album/2j89XpqZbDCa41WZeN7sNz) | 3:24 | 2022-05-03 | 2022-06-30 |
+| [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 | 2023-09-04 |  |
 | [Butterfly](https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 | 2021-08-11 | 2021-11-12 |
 | [Butterfly Effect](https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 3:26 | 2021-10-28 | 2022-01-13 |
 | [BYE BYE BYE](https://open.spotify.com/track/69Nn4yZnYo1nw4mfQvNbfU) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : Action](https://open.spotify.com/album/7nvcGJpVJBTOtYKGTEtCmr) | 3:25 | 2021-06-16 | 2021-09-07 |
@@ -174,7 +175,7 @@
 | [Criminal](https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:31 | 2020-10-13\* | 2021-03-18 |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-06-22 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-02-28 | 2023-04-04 |
-| [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-29 |  |
+| [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-29 | 2023-09-05 |
 | [CWS](https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe) | [Woosung](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Genre](https://open.spotify.com/album/4Y3sawhAYuYvYvARXpsdCy) | 3:30 | 2021-12-13 | 2022-02-18 |
 | [D N D](https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 | 2023-04-06 | 2023-07-22 |
 | [D\-D\-DANCE](https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [D\-D\-DANCE](https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g) | 3:25 | 2021-01-27 | 2021-03-01 |

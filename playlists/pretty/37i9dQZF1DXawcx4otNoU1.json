@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 501627,
+  "num_followers": 501722,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGQ4ZjMxODU5N2MzMmIxNTg5MjI4N2JiMTNiZTVlNTBmYTczMzFj",
+  "snapshot_id": "MCxjZDcwNWQ0MDViZjQxYzU3NzZkMjYzYmUzNTcwMDE2MDY0NDQwYWE4",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 223440,
       "name": "My Boo",
       "url": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "The Thrill Of It All (Special Edition)",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 207164,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Love on the Weekend",
         "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 207164,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd"
     },
     {
       "added_at": "2023-03-06 12:13:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Same Kind Of Different (Acoustic)",
-        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 203262,
-      "name": "Need You Now - Acoustic",
-      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 196364,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/02VOS5QRFc6i1XQVROAeDi"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Same Kind Of Different (Acoustic)",
+        "url": "https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 203262,
+      "name": "Need You Now - Acoustic",
+      "url": "https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Can You Take It",
-        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
-      },
-      "artists": [
-        {
-          "name": "A\u00e1yanna",
-          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
-        }
-      ],
-      "duration_ms": 181783,
-      "name": "Can You Take It",
-      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 219000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
     },
     {
       "added_at": "2023-02-13 10:37:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Night",
         "url": "https://open.spotify.com/album/7o87JfkKQnw0Z9u4AKhYkj"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 201010,
       "name": "Night",
       "url": "https://open.spotify.com/track/24DijqYX42rkMGuHYKF0nc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2023-02-10 11:00:00",

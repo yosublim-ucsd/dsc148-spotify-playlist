@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Addison Rae
 
-1,144 songs - 2 day 9 hr 37 min
+1,145 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,7 +962,8 @@
 | [Symptomatic](https://open.spotify.com/track/0tAno7GEs0eYfl8nUCzROj) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Symptomatic](https://open.spotify.com/album/31CNDRgoCCBHJAlPnDmKns) | 3:12 | 2021-06-26 | 2021-09-18 |
 | [Synchronicity](https://open.spotify.com/track/6fuyxR1EgELPVrg1zyCdHC) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Synchronicity](https://open.spotify.com/album/0wTW5MtWLOzWm8q2KHOKvE) | 3:36 | 2022-05-13 | 2022-09-04 |
 | [Take It or Leave It](https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Take It or Leave It](https://open.spotify.com/album/1UPZDcfjJ7M6fQTJkFNxUe) | 2:28 | 2022-04-14 | 2022-06-18 |
-| [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 |  |
+| [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-09-01 |  |
+| [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-09-05 |
 | [Talk You Down](https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Talk You Down](https://open.spotify.com/album/40M7WLALxAIR61uXjJAcWD) | 2:36 | 2021-01-09 | 2021-03-06 |
 | [talking in my sleep](https://open.spotify.com/track/16UfdNMAfLPkBqq1JgMdAl) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [talking in my sleep](https://open.spotify.com/album/1MMru7B3vILRGqQyQNw4Ug) | 2:34 | 2020-10-13\* | 2020-10-24 |
 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-09-23 | 2022-10-24 |

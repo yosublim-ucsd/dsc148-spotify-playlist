@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Ilsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,809 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,890 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 3 | [Spotless \(feat\. The Lumineers\)](https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:49 |
 | 4 | [No California](https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California](https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq) | 3:35 |
 | 5 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
-| 6 | [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 |
-| 7 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
+| 6 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
+| 7 | [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 |
 | 8 | [Don’t Close Your Eyes](https://open.spotify.com/track/1iMPcWrZhtv6tKJy9UhhUy) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Left Hand](https://open.spotify.com/album/2t1mL93fMNoyu84qChrOnO) | 2:56 |
 | 9 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
 | 10 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 |
@@ -85,19 +85,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 75 | [14](https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [14](https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe) | 2:21 |
 | 76 | [Witness \- feat\. Rajiv Dhall](https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt) | 3:33 |
 | 77 | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [We Don’t Know We’re Living \(w/ Brandi Carlile & Joy Oladokun\)](https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9) | 4:30 |
-| 78 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
-| 79 | [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 |
-| 80 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
+| 78 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
+| 79 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
+| 80 | [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 |
 | 81 | [Maid of Honor](https://open.spotify.com/track/0LiWTHB05mfS4iEWPFp70n) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Maid of Honor](https://open.spotify.com/album/24Uj9QfozTixf7CoWRJ9aU) | 2:51 |
 | 82 | [Bed I Made \- ft\. Alessia Cara](https://open.spotify.com/track/370wRdlSnMviWrX6Emc0D2) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 3:00 |
 | 83 | [Pink Razor](https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Pink Razor](https://open.spotify.com/album/1Tj1GxeC9wzhp2J4HL9rj5) | 3:09 |
 | 84 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 |
 | 85 | [It's Alright](https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [It's Alright](https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI) | 4:08 |
 | 86 | [Cue](https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:34 |
-| 87 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
-| 88 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 |
-| 89 | [Evergreen](https://open.spotify.com/track/6cNWPXtmdKqKl9OnyKkYgC) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where the Light Calls](https://open.spotify.com/album/6WHWwuMGt0T2sH2aZKnmiD) | 3:04 |
-| 90 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 |
+| 87 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 |
+| 88 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
+| 89 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 |
+| 90 | [Evergreen](https://open.spotify.com/track/6cNWPXtmdKqKl9OnyKkYgC) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where the Light Calls](https://open.spotify.com/album/6WHWwuMGt0T2sH2aZKnmiD) | 3:04 |
 | 91 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
 | 92 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 |
 | 93 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
 | 100 | [am i not enough for now?](https://open.spotify.com/track/04xC7XwAsCqF3HOEFemLcz) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:52 |
 
-Snapshot ID: `MCxiZGFiNjYzNjVmYTI1ZjA2ODc0ODlhY2I1NjQ5OGRiMmM3MGNjNTVh`
+Snapshot ID: `MCwxMTVkZTExMGM4MGFhOTViMTEyZjU0MzQ4MDY4ZTZhNGRiNzMyNDM1`

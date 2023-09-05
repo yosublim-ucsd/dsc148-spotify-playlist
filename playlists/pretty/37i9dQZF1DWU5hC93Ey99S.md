@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels\. Cover: Babsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,500 likes - 215 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,597 likes - 215 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 183 | [ghost2](https://open.spotify.com/track/0DgyAyvFmYA232P4jWheGP) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [lil spirits](https://open.spotify.com/album/4PiQXqTTVf4PYb0na1NqMh) | 3:18 |
 | 184 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/3GerYw4IzfAmx7qbHYwN6X) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Here \(Cyril Hahn Remix\)](https://open.spotify.com/album/0Br9OqErGn1qZHrOh05Ntf) | 4:01 |
 | 185 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 |
-| 186 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY) | 2:30 |
+| 186 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/3rSWCdIsveHdzcKdhXUYSY) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/2Y8GLMTDID2ww28KsGB5d5) | 2:30 |
 | 187 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 |
 | 188 | [<3](https://open.spotify.com/track/7lcsNdPK8zKK7gOqfd0eAf) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [<3](https://open.spotify.com/album/2sSD6gODuaYlseme5w2dWf) | 2:26 |
 | 189 | [Lose It](https://open.spotify.com/track/2BvqUVpsRPqg9U7cPS7W2N) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Lose It](https://open.spotify.com/album/7GMeqHwUzlZ6zoR61YICom) | 4:51 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 214 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 |
 | 215 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 |
 
-Snapshot ID: `MCw2YmQ2NjQxNWY5NjhkZDQzYmQ0MjgzMjZjZjM1OTEyNzhiZDQxYTEz`
+Snapshot ID: `MCw3Njk4YjQ2OWM1Njg1MzBmMDQyNzFjZjMzY2FlMDhkNWI4MWZkOGNm`

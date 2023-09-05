@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g1UNPczC9q.md) - [plain]
 
 > Everyone's welcome\. Cover: Zolita
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,489 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,497 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0g1UNPczC9q.md) - [plain]
 | 84 | [We Found Love](https://open.spotify.com/track/0U10zFw4GlBacOy9VDGfGL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:35 |
 | 85 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 
-Snapshot ID: `MCxmY2U3MTgwM2Q3ODgxN2M0OWI5Y2NiZDkxODAyODAzMGVjNTgxMmU0`
+Snapshot ID: `MCwyODQ3ZjM4ZmU2NzBmMjE3ODQ3MDk3NDc4NmM5MDk5YjU5MjA0MzI5`

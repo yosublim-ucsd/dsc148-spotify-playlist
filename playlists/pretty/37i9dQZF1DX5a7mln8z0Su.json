@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 6082,
+  "num_followers": 6104,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODYzNGQzNGFhZmIyNTc5OWUxNDQ1YjE0MzMxNWNlMTg1NjJjMjIz",
+  "snapshot_id": "MCwyNmI0N2U3ZDcyOGU0NjZkMWYwYzI5MWI2NmUzN2Q3M2FhOWUwODg4",
   "tracks": [
     {
       "added_at": "2023-08-24 02:21:28",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
-    },
-    {
-      "added_at": "2023-08-24 02:21:28",
-      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -167,6 +151,22 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+    },
+    {
+      "added_at": "2023-08-24 02:21:28",
+      "album": {
         "name": "She lives in Paris",
         "url": "https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2"
       },
@@ -195,22 +195,6 @@
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
-    },
-    {
-      "added_at": "2023-08-24 02:21:28",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
     },
     {
       "added_at": "2023-08-24 02:21:28",
@@ -303,6 +287,22 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "added_at": "2023-08-24 02:21:28",
+      "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
-    },
-    {
-      "added_at": "2023-08-24 02:21:28",
-      "album": {
         "name": "because I'm stupid?",
         "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 168480,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
+    },
+    {
+      "added_at": "2023-08-24 02:21:28",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
     },
     {
       "added_at": "2023-08-24 02:21:28",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
+    },
+    {
+      "added_at": "2023-08-24 02:21:28",
+      "album": {
         "name": "babyblue",
         "url": "https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 184133,
       "name": "White Snow (feat. prettyhappy)",
       "url": "https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6"
-    },
-    {
-      "added_at": "2023-08-24 02:21:28",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2023-08-24 02:21:28",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-08-24 02:21:28",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 221369,
+      "name": "BETTER (with MINO)",
+      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
+    },
+    {
+      "added_at": "2023-08-24 02:21:28",
+      "album": {
         "name": "BOKE (Remix) (feat. kojikoji)",
         "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 184510,
       "name": "BOKE (Remix) (feat. kojikoji)",
       "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
-    },
-    {
-      "added_at": "2023-08-24 02:21:28",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 221369,
-      "name": "BETTER (with MINO)",
-      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
       "added_at": "2023-08-24 02:21:28",

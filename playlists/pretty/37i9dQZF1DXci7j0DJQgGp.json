@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1811504,
+  "num_followers": 1811502,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTUzNjkxY2RmZmU1YzQ1NzJmOThjMDg1MDQ5ZDI3ZjM5OGM1ZTAy",
+  "snapshot_id": "MCxkYTMxNDU5ZjExNWY5NDQxZGQ2ZjFiZDMxMjkzYjJkMThmMzc0ZjM4",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "I Lied",
         "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "We've Been Going About This All Wrong",
-        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "We've Been Going About This All Wrong",
+        "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 276826,
       "name": "All The Good Times",
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Asphalt Meadows",
-        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 168186,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Asphalt Meadows",
+        "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 168186,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 205905,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 253613,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 205905,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "American Bollywood",
         "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+      "duration_ms": 195600,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 257773,
       "name": "What A Day - Edit",
       "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Lilacs",
-      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
     },
     {
       "added_at": "2023-08-25 04:00:00",

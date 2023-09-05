@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 37147,
+  "num_followers": 37219,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTRmYmE5ZDQyZGI2MjhiOGZkNzVkYjBiYWVkZGUxMzE4ZDAwNjA2",
+  "snapshot_id": "MCwxZDdiNjRlMzkxNWRkY2ZmMjQ0YzUxZGVlOWU4YmI3ZTc3YjhjNzU4",
   "tracks": [
     {
       "added_at": "2023-08-30 17:14:47",
@@ -159,38 +159,6 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 164810,
-      "name": "Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
         "name": "No digas nada",
         "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
       },
@@ -223,6 +191,38 @@
       "duration_ms": 183480,
       "name": "PERO T\u00da",
       "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 164810,
+      "name": "Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
     },
     {
       "added_at": "2023-08-30 17:14:47",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "CAROLINA",
+      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 192452,
       "name": "Dream Girl - Remix",
       "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "CAROLINA",
-      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
     },
     {
       "added_at": "2023-08-30 17:14:47",
@@ -447,6 +447,22 @@
       "duration_ms": 240000,
       "name": "TUS BESOX",
       "url": "https://open.spotify.com/track/6hxsXcuaPbHmIR8DsZJCyr"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "MERCURIO",
+      "url": "https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc"
     },
     {
       "added_at": "2023-08-30 17:14:47",
@@ -547,22 +563,6 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "MERCURIO",
-      "url": "https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
         "name": "LA NENA DE ARGENTINA",
         "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/58EM1w815O5XZGWSF7DUCf"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
         "name": "54+1",
         "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
       },
@@ -651,6 +635,42 @@
       "duration_ms": 193435,
       "name": "Cuando Me Acerco A Ti",
       "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 276904,
+      "name": "ME TENGO QUE IR",
+      "url": "https://open.spotify.com/track/1Uvl2i3MlsoqGConBaKi7G"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/58EM1w815O5XZGWSF7DUCf"
     },
     {
       "added_at": "2023-08-30 17:14:47",
@@ -683,26 +703,6 @@
       "duration_ms": 206611,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 276904,
-      "name": "ME TENGO QUE IR",
-      "url": "https://open.spotify.com/track/1Uvl2i3MlsoqGConBaKi7G"
     },
     {
       "added_at": "2023-08-30 17:14:47",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3tHGFcXeL55wqNQl2vh2GX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 194233,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
         "name": "Rumbo",
         "url": "https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3tHGFcXeL55wqNQl2vh2GX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 194233,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 248687,
-      "name": "La Mujer Que Bota Fuego",
-      "url": "https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
         "name": "...baby one more time",
         "url": "https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 125333,
       "name": "...baby one more time",
       "url": "https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 248687,
+      "name": "La Mujer Que Bota Fuego",
+      "url": "https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA"
     },
     {
       "added_at": "2023-08-30 17:14:47",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 296618,
-      "name": "Para Estar",
-      "url": "https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV"
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
     },
     {
       "added_at": "2023-08-30 17:14:47",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 198973,
       "name": "DVD",
       "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 296618,
+      "name": "Para Estar",
+      "url": "https://open.spotify.com/track/2wrQ0tzuFnKj9BVgIsVcwV"
     },
     {
       "added_at": "2023-08-30 17:14:47",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 160340,
-      "name": "Religiosa",
-      "url": "https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 226844,
       "name": "DameLove (feat. Cuco)",
       "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 160340,
+      "name": "Religiosa",
+      "url": "https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER"
     },
     {
       "added_at": "2023-08-30 17:14:47",

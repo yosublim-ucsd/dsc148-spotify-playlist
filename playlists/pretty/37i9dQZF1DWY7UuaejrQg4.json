@@ -1,12 +1,12 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 78145,
+  "num_followers": 78163,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjdkOWUyZTRhNDI4NGQ5YTk4Mzk1MDFmMjAyNGNjNjFhODRiNjYz",
+  "snapshot_id": "MCwxZWE3YTJiNTE3NmU1ZTJiNjMxNWI2NDZjYWYxYmY4MmY0MjUwNmQ3",
   "tracks": [
     {
       "added_at": "2022-03-08 15:07:06",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Marlboro Nights",
         "url": "https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
       },
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247150,
+      "name": "Mariners Apartment Complex",
+      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "girls",
-        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "girls",
-      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+        "name": "girls",
+        "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+      "duration_ms": 198400,
+      "name": "girls",
+      "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -479,38 +463,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        },
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -531,6 +495,42 @@
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/1zkm5i2BQpuDLJrIJy12VR"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/3SEZEyvEALlomED5xFeqOs"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/4VPzKudemKpbuuyEHIhFSU"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        },
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/5RxpYHVbGJPOvSEATQyg9P"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 194009,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Make My Bed",
         "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 174666,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Heat Wave",
-      "url": "https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Better (SG Lewis x Clairo)",
         "url": "https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd"
       },
@@ -1583,22 +1567,6 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "I Can't Stand It",
-      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
-    },
-    {
-      "added_at": "2022-03-08 15:07:06",
-      "album": {
         "name": "Francis Trouble",
         "url": "https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp"
       },
@@ -1615,18 +1583,18 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
-        "name": "Love Is Dead",
-        "url": "https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG"
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
         }
       ],
-      "duration_ms": 188251,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2Kc1WhZsBbR2ZLbSyv83hO"
+      "duration_ms": 177656,
+      "name": "I Can't Stand It",
+      "url": "https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb"
     },
     {
       "added_at": "2022-03-08 15:07:06",
@@ -1647,6 +1615,22 @@
     {
       "added_at": "2022-03-08 15:07:06",
       "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/7B0uWqVjMySfDKhtZghBkO"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/4yuJkYEGuZ5cR5qMtS342L"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 208760,
       "name": "Calm",
       "url": "https://open.spotify.com/track/4j7R6F40QS9mlvAOKP8U9G"
+    },
+    {
+      "added_at": "2022-03-08 15:07:06",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Drunk In LA",
+      "url": "https://open.spotify.com/track/76XDNJIQpP9WGO5XASGBww"
     }
   ],
   "unique_name": "Best of Indie 2018",

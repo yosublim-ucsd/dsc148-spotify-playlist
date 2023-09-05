@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-651 songs - 1 day 4 hr 18 min
+652 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Inward Road \- Piano Version](https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Inward Road \(Piano Version\)](https://open.spotify.com/album/3f7U3kAUkTFh9Ps8hOGB9w) | 2:18 | 2023-07-03 |  |
 | [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 | 2022-04-21 | 2022-09-24 |
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2022-04-21 | 2022-07-21 |
-| [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2022-04-21 |  |
+| [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2022-04-21 | 2023-09-05 |
 | [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2022-04-21 |  |
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-04-21 |  |
 | [Journey in Place](https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc) | [Walter Groenig](https://open.spotify.com/artist/5wS8vfWhht4IzuXzQisbim) | [Journey in Place](https://open.spotify.com/album/0SkWn5AmuyrZyDMBvCvj8q) | 2:52 | 2022-04-21 | 2022-10-21 |
@@ -339,7 +339,7 @@
 | [Melody For Myself](https://open.spotify.com/track/5AbjZjJ68pkpAhRqO0u7fG) | [Leo Melod](https://open.spotify.com/artist/5L8E1ju2ZexEVDNzRENsLf) | [Melody For Myself](https://open.spotify.com/album/57UJoke1p1S026JCo6eOPx) | 2:46 | 2022-04-21 | 2022-09-24 |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2022-04-21 |  |
 | [Memoria](https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Memoria](https://open.spotify.com/album/4vHvAO3vlJBIjwBeyaNHqw) | 2:01 | 2022-04-21 | 2022-09-24 |
-| [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-04-21 | 2023-09-03 |
+| [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-04-21 |  |
 | [Memories Of Tomorrow](https://open.spotify.com/track/2wjGwI406tRO1upG6JuNtn) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Memories Of Tomorrow](https://open.spotify.com/album/7s9RumNIGfCh4HBKEWBjPC) | 2:19 | 2022-04-21 | 2023-01-21 |
 | [Memory of Home](https://open.spotify.com/track/5rizD1JChPpwo5SUQm4nGF) | [Meghan Koenig](https://open.spotify.com/artist/45otUyl0ZstiBv2Me81kb1) | [Thoughtful Breeze](https://open.spotify.com/album/4tXtJ6Gvs7xSdt9bvFik5k) | 2:40 | 2022-04-21 | 2022-08-10 |
 | [Min Melodi](https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Min Melodi](https://open.spotify.com/album/6giwofFjR9fiTaKM6mTUl6) | 2:10 | 2022-04-21 | 2023-08-26 |
@@ -469,6 +469,7 @@
 | [Route To Rio De Janeiro](https://open.spotify.com/track/6S7KWlTlZzKM1QraYjEOvV) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Airways To Brazil](https://open.spotify.com/album/0A9uf2RSSsd5D3c7azMOCq) | 3:29 | 2022-04-21 | 2022-09-24 |
 | [Rue Au Pain](https://open.spotify.com/track/43pVgyjB9yACAHeoJzsVpg) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Rue Au Pain](https://open.spotify.com/album/2aASt56NiEervWgl35oO23) | 3:11 | 2022-04-21 | 2022-09-24 |
 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2023-01-20 |  |
+| [Sacrifice](https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Sacrifice](https://open.spotify.com/album/6H4OFwDXGIayENuOoNNnZX) | 3:04 | 2023-08-29 |  |
 | [Saga](https://open.spotify.com/track/4bi0GnPBgHmlqb5OtXk9oE) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Saga](https://open.spotify.com/album/3wr966vVFS29mukRY6UZUC) | 2:01 | 2022-04-21 |  |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-04-21 |  |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-04-21 |  |
@@ -591,7 +592,7 @@
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2022-04-21 |  |
 | [Traunstein](https://open.spotify.com/track/3oTDoIy41rJX9ZQYURoWRt) | [Theodore Tompkins](https://open.spotify.com/artist/6q0goYsbiGF4LUqGIWrXBb) | [Traunstein](https://open.spotify.com/album/0R44nYLnFDUvN9XCk8sKGY) | 2:29 | 2022-04-21 | 2022-09-24 |
 | [Tree Angels](https://open.spotify.com/track/7hzvYJMRKjJas7foTUrO1J) | [Taylor Driskell](https://open.spotify.com/artist/2uWS8QQitbOr23trHrGTgZ) | [Stretch of Clouds](https://open.spotify.com/album/7yjLciUuoGvy7qSSv6KOPg) | 2:50 | 2022-04-21 | 2022-09-24 |
-| [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 | 2022-04-21 |  |
+| [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 | 2022-04-21 | 2023-09-05 |
 | [Tree Whisper](https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Tree Whisper](https://open.spotify.com/album/6md3ncmAS84fTV1931NnTz) | 3:25 | 2022-04-21 | 2022-09-24 |
 | [True Self](https://open.spotify.com/track/3wJYd4AguIe41wp8gPZAmL) | [Izzy Rubin](https://open.spotify.com/artist/3i9R9BlH4QfTzP3DZIEj86) | [True Self](https://open.spotify.com/album/6sqaTWutALgbYSSmYbSGnH) | 3:57 | 2022-04-21 | 2023-02-27 |
 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 | 2022-04-21 | 2023-07-25 |

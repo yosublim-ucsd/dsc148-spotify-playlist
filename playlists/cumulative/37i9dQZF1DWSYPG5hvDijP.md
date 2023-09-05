@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-143 songs - 7 hr 52 min
+145 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bombay Coast](https://open.spotify.com/track/1RNW6JS1eZhvO2LzodiX3B) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [MLHVR](https://open.spotify.com/artist/1HZOuRhXA49pAZEdZbvKTn), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ), [Deorachit](https://open.spotify.com/artist/2ZtfmE2WlGjnaHwtwHbZXh) | [Bombay Coast](https://open.spotify.com/album/1h90h4U91NLlMP57WZxtBK) | 3:08 | 2023-04-28 |  |
 | [BORN TO WIN](https://open.spotify.com/track/0PxAEK8LM9eE6tO5LaDEcQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [THE BRIDGE](https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN) | 3:11 | 2023-04-28 | 2023-06-02 |
 | [Boyfriend](https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Boyfriend](https://open.spotify.com/album/5iygFlfiQ410htPcHY6w0S) | 5:30 | 2023-04-21 |  |
+| [Bread And Butter](https://open.spotify.com/track/3DobnqNHraZV31RycNkFBF) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:39 | 2023-09-04 |  |
 | [Breakfast Over Bae](https://open.spotify.com/track/4uy0AcPDykYTM6OfCwBxKY) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breakfast Over Bae](https://open.spotify.com/album/6qV3Lv1pXk3NeLY8W2HQPJ) | 2:35 | 2023-06-20 |  |
 | [Broken Dreams](https://open.spotify.com/track/5qoxoGIbLCLSMJXpxr5COw) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 3:17 | 2023-03-29 | 2023-04-17 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-29 | 2023-04-17 |
@@ -134,6 +135,7 @@
 | [Sod Lacharicha Paksh](https://open.spotify.com/track/6EpvszQYY47iT6hZzwF3hK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Sod Lacharicha Paksh](https://open.spotify.com/album/33nEaGaN27RBcHlTAzhkz4) | 6:08 | 2023-07-20 |  |
 | [Spaceship](https://open.spotify.com/track/5qox4CsUE4Lq669aGbZDnm) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Spaceship](https://open.spotify.com/album/3ITMvDdM7ZeOsLzv96tKZP) | 3:11 | 2023-03-29 |  |
 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 |  |
+| [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 |  |
 | [Subz](https://open.spotify.com/track/3fF8CmtFnZSqeejn5ea1OC) | [KNAV](https://open.spotify.com/artist/5v5zR0FGvZ5A8ztsWS1sL2), [XTACY ON THE BEAT](https://open.spotify.com/artist/1biv7Fr36uAj6PO7icQAEy), [Baba Bachi](https://open.spotify.com/artist/2z9Au2AnKOY9H1UdVi07Ja) | [Subz](https://open.spotify.com/album/0MBb6wPG1sjs6n9OP8lXeN) | 2:36 | 2023-08-11 |  |
 | [Sunti Kaha Hai](https://open.spotify.com/track/0JAPkDAXbRsMtQtsYkW3xP) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sunti Kaha Hai](https://open.spotify.com/album/73AFjr9LKzEDYX3wCWAcuL) | 2:36 | 2023-03-29 | 2023-07-21 |
 | [Taakat](https://open.spotify.com/track/2AMP8Rey8W6sxsXKUpgWRb) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Taakat](https://open.spotify.com/album/0ccts7BfXm24XXSyNmwHYR) | 2:36 | 2023-04-16 |  |

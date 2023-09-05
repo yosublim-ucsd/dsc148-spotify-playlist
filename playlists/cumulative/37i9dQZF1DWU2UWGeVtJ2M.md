@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-288 songs - 15 hr 59 min
+289 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-12 |  |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-07-25 | 2022-11-13 |
 | [A8](https://open.spotify.com/track/06uZ51ssp5PkwHzZM2WUAK) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [to you, to me](https://open.spotify.com/album/5vtHCIkKF4SmJDnWcTqzn7) | 3:28 | 2022-06-06 | 2022-07-29 |
-| [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 | 2022-06-06 |  |
+| [About You](https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr) | [BV](https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION) | [About You](https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML) | 3:04 | 2022-06-06 | 2023-09-05 |
 | [airplane thoughts](https://open.spotify.com/track/4t5joZkdlXlvzLXJbkgppJ) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:30 | 2022-07-25 |  |
 | [airplane thoughts](https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [airplane thoughts](https://open.spotify.com/album/3k8juVCkkKg3IG8gNOttWH) | 3:30 | 2022-06-06 | 2022-07-29 |
 | [Ali](https://open.spotify.com/track/4TQYdFRCYW7QH0vwmYYt97) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:12 | 2022-10-24 | 2022-11-13 |
@@ -123,6 +123,7 @@
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2022-08-01 | 2022-10-17 |
 | [Hell or Heaven](https://open.spotify.com/track/34gJMMpzslquGwCDq0bLe1) | [Lara D.](https://open.spotify.com/artist/2rkA2RE0iabEZmEx5QNxtX) | [Hell or Heaven](https://open.spotify.com/album/4HX87TyD4akOXBqt73bb50) | 3:26 | 2022-06-06 | 2022-07-29 |
 | [Hello, I said](https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Hello, I said](https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH) | 2:36 | 2022-06-06 | 2022-07-29 |
+| [Hold Me Like A Summer](https://open.spotify.com/track/7mE4jzo38u1LhriLyqT6SR) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Hold Me Like A Summer](https://open.spotify.com/album/57VIsBCsuxjam0CzdTBiUQ) | 3:11 | 2023-09-04 |  |
 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 | 2022-10-10 | 2023-06-13 |
 | [Hollow](https://open.spotify.com/track/40jgQMxu1yaQkIRblyswIM) | [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Hollow](https://open.spotify.com/album/3MoWDXRBliC5gCdy7n6nFy) | 3:22 | 2022-06-06 | 2022-07-29 |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-06-06 | 2022-07-29 |

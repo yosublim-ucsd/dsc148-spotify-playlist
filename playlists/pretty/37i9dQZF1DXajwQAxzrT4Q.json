@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 63089,
+  "num_followers": 63159,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmFkYTgwODA2OTBmNDQwZTRiOTVmMGU1ZGVkNjg4Y2FlODY0MmQ1",
+  "snapshot_id": "MCw1MzRlMWNmMTY5ZmY0M2QzYTIzMmMwNTkyZjUzN2NmYjFkODI4NGU5",
   "tracks": [
     {
       "added_at": "2023-09-01 19:32:49",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
         "name": "attachment (she wanna love)",
         "url": "https://open.spotify.com/album/4dfembGAqkVP5BAm2F8HAl"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 115138,
       "name": "#miles",
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 100122,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
     },
     {
       "added_at": "2023-09-01 19:32:49",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
         "name": "No Days Off",
         "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
       },
@@ -627,6 +607,26 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
         "name": "Face of the What",
         "url": "https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 83940,
       "name": "Vibe (If I Back It Up)",
       "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
-        "name": "#miles (OMG edit)",
-        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "#miles (OMG edit)",
-      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
     },
     {
       "added_at": "2023-09-01 19:32:49",
@@ -811,8 +795,8 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+        "name": "#miles (OMG edit)",
+        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+      "duration_ms": 137727,
+      "name": "#miles (OMG edit)",
+      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
     },
     {
       "added_at": "2023-09-01 19:32:49",
@@ -983,6 +967,22 @@
       "duration_ms": 160975,
       "name": "Shake Dhat",
       "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
     },
     {
       "added_at": "2023-09-01 19:32:49",
@@ -1175,8 +1175,8 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "Vibrate EP",
-        "url": "https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe"
+        "name": "Break From Jersey",
+        "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
       },
       "artists": [
         {
@@ -1184,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
         }
       ],
-      "duration_ms": 128955,
-      "name": "Put Cha Back In It",
-      "url": "https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac"
+      "duration_ms": 151874,
+      "name": "Break From Jersey",
+      "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
     },
     {
       "added_at": "2023-09-01 19:32:49",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
+        "name": "Vibrate EP",
+        "url": "https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 128955,
+      "name": "Put Cha Back In It",
+      "url": "https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 140298,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
-        "name": "Break From Jersey",
-        "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Break From Jersey",
-      "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
     },
     {
       "added_at": "2023-09-01 19:32:49",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "2 predictable",
-        "url": "https://open.spotify.com/album/5kEYHZVgXYYZ4bVc7kbZeS"
-      },
-      "artists": [
-        {
-          "name": "lilheartbreak",
-          "url": "https://open.spotify.com/artist/6LMdMAYI8JDAT0KASyl97P"
-        }
-      ],
-      "duration_ms": 115866,
-      "name": "2 predictable",
-      "url": "https://open.spotify.com/track/2cc384XtpakSacPvmmbitA"
-    },
-    {
-      "added_at": "2023-09-01 19:32:49",
-      "album": {
         "name": "Anxious",
         "url": "https://open.spotify.com/album/70xcTsZtiHwFKcMaHYHMt6"
       },
@@ -1415,30 +1399,38 @@
     {
       "added_at": "2023-09-01 19:32:49",
       "album": {
-        "name": "Hatin' Ass Bitches Anthem",
-        "url": "https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10"
+        "name": "2 predictable",
+        "url": "https://open.spotify.com/album/5kEYHZVgXYYZ4bVc7kbZeS"
       },
       "artists": [
         {
-          "name": "Mvntana",
-          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
-        },
-        {
-          "name": "Flyy TheProducer",
-          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
-        },
-        {
-          "name": "Pyt Ny",
-          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
-        },
-        {
-          "name": "Dj Blizz",
-          "url": "https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu"
+          "name": "lilheartbreak",
+          "url": "https://open.spotify.com/artist/6LMdMAYI8JDAT0KASyl97P"
         }
       ],
-      "duration_ms": 116564,
-      "name": "Hatin' Ass Bitches Anthem",
-      "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
+      "duration_ms": 115866,
+      "name": "2 predictable",
+      "url": "https://open.spotify.com/track/2cc384XtpakSacPvmmbitA"
+    },
+    {
+      "added_at": "2023-09-01 19:32:49",
+      "album": {
+        "name": "My Back (Jersey Club)",
+        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Bake",
+          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+        }
+      ],
+      "duration_ms": 127503,
+      "name": "My Back (Jersey Club)",
+      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
     }
   ],
   "unique_name": "Jersey Club Heat",

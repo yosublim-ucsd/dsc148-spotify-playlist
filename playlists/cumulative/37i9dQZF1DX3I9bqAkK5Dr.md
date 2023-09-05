@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-143 songs - 8 hr 41 min
+144 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Neelo Cherela](https://open.spotify.com/track/7HNVLIZginOyHJvlChvsqm) | [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Neelo Cherela](https://open.spotify.com/album/3KCR9M9ELkSP5r3MnguSnU) | 3:13 | 2023-02-09 | 2023-05-23 |
 | [Neetho](https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Neetho](https://open.spotify.com/album/3y6i5WWXLRBlVAoUGO3SmF) | 4:25 | 2022-07-18 |  |
 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 | 2022-07-18 |  |
-| [Nenevaro Theliyaka Mundhe](https://open.spotify.com/track/1rMOh1plvSA7HTgXc1c4zT) | [Praveen Kumar Banavathu](https://open.spotify.com/artist/3gVvcQXv1lmZr5iWhNXW7E), [Rajashekar Parsha](https://open.spotify.com/artist/7k0oRtPlbMSdf5ZyESXTqM) | [Nenevaro Theliyaka Mundhe](https://open.spotify.com/album/6tIj7YcWkgn4eA8vuq14JI) | 4:34 | 2023-07-10 |  |
+| [Nenevaro Theliyaka Mundhe](https://open.spotify.com/track/1rMOh1plvSA7HTgXc1c4zT) | [Praveen Kumar Banavathu](https://open.spotify.com/artist/3gVvcQXv1lmZr5iWhNXW7E), [Rajashekar Parsha](https://open.spotify.com/artist/7k0oRtPlbMSdf5ZyESXTqM) | [Nenevaro Theliyaka Mundhe](https://open.spotify.com/album/6tIj7YcWkgn4eA8vuq14JI) | 4:34 | 2023-07-10 | 2023-09-05 |
 | [Ni Valle](https://open.spotify.com/track/62tvZlylMVwe71V1mw47tU) | [D'strucT](https://open.spotify.com/artist/533mt65nKDRf5XfTNgawj8), [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Ni Valle](https://open.spotify.com/album/4hlJkbygiMvHm1mIQBIWbc) | 2:28 | 2023-08-18 |  |
 | [Ninne Ne Choosina Nimishana](https://open.spotify.com/track/6AxR54ZY7DawzNWrFhoptL) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Ninne Ne Choosina Nimishana](https://open.spotify.com/album/7vrGbY7lSIcTEN3lQsjTkP) | 4:19 | 2023-05-18 | 2023-05-26 |
 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 | 2023-03-06 |  |
@@ -107,6 +107,7 @@
 | [Oohale Oosule](https://open.spotify.com/track/4lyl9K1D7syj1d0LL8nNGA) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Oohale Oosule](https://open.spotify.com/album/5p50H6A7erX9LKav26JdaF) | 2:51 | 2023-02-14 |  |
 | [Oopiriga](https://open.spotify.com/track/52E72LjUNeAmAmSUapKTZ0) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Oopiriga](https://open.spotify.com/album/4egLenJbozGwmXp5MomLqR) | 4:28 | 2023-06-04 |  |
 | [Oorelipota Mama](https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Oorellipota Mama](https://open.spotify.com/album/5WEUFAOSi07U29RKWNsKG9) | 2:46 | 2022-07-18 |  |
+| [Oota Neeru](https://open.spotify.com/track/1qHFXTlWexjlCZhcHSJX8e) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Chandana Harshitha](https://open.spotify.com/artist/7pNEV4axyRck6KYDP7URhU) | [Oota Neeru](https://open.spotify.com/album/6neziU9771kT7qum5sg6as) | 5:25 | 2023-09-04 |  |
 | [Pada Pada](https://open.spotify.com/track/3k9ea76NrDYX68bBIaETcU) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Pada Pada](https://open.spotify.com/album/0Z2Rpy6uXsEn36qSl1LJnl) | 4:03 | 2023-08-04 |  |
 | [Padessave Pilla](https://open.spotify.com/track/3rXoZn6p4OY6gYqPV9A9ko) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkat Chaitanya](https://open.spotify.com/artist/2GNR01LjMoSuhvp4GSuFX8), [Vijay Bhanu](https://open.spotify.com/artist/3kGye1N1zSbmdG81klESLO) | [Padessave Pilla](https://open.spotify.com/album/58o4XflfE94ZzJlU7iySkA) | 3:06 | 2023-04-06 |  |
 | [Panipuri Anthem](https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Panipuri Anthem](https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB) | 1:57 | 2023-02-11 |  |

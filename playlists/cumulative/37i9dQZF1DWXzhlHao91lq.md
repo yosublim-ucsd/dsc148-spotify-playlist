@@ -4,13 +4,14 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-209 songs - 11 hr 48 min
+210 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Rounds and a Sound](https://open.spotify.com/track/6AYFKOPbmd12rUP5DalRwB) | [Blind Pilot](https://open.spotify.com/artist/6qiGjRyN7TJ1GA2nXF68Hi) | [3 Rounds and a Sound](https://open.spotify.com/album/2VPbzka8iaNvwJ4KI588w1) | 4:26 | 2022-08-08 |  |
 | [8 \- Acoustic](https://open.spotify.com/track/7jbqyVufN1czQkloAjFKSE) | [Salty Snacks](https://open.spotify.com/artist/5rXaOEzB1J3SPGCwb6yVcG) | [8 \(Acoustic\)](https://open.spotify.com/album/0c5XGUqq9pSkVhWvwii5nW) | 2:53 | 2022-07-04 | 2022-07-19 |
 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 | 2022-07-25 | 2022-08-09 |
+| [Alone in Oslo](https://open.spotify.com/track/7pIccU6AUr1HSjDuMBJVu5) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Alone in Oslo](https://open.spotify.com/album/32pnHqUZJxI1bLeOioEnEA) | 2:28 | 2023-09-04 |  |
 | [Amelie](https://open.spotify.com/track/1KrC1a04RkYrJB02M35hET) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Amelie](https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8) | 4:19 | 2023-02-13 | 2023-03-04 |
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2023-07-03 |  |
 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 | 2023-02-27 | 2023-07-05 |
@@ -43,7 +44,7 @@
 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 | 2022-05-30 | 2022-07-29 |
 | [Cool](https://open.spotify.com/track/1vboAuHPEG5hSExtrnftNF) | [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Cool](https://open.spotify.com/album/6WGBgPGbkx6i3opPWVSnoM) | 2:37 | 2022-05-30 | 2022-07-29 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-04-03 |  |
-| [daydreaming](https://open.spotify.com/track/7M9PnaNMpqqyXfSNdpYt15) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0), [Ramcey](https://open.spotify.com/artist/6yeRd57A9IoyJTODsK0H7F) | [daydreaming](https://open.spotify.com/album/65DoUqu0Ju170xKPsKLIGy) | 3:48 | 2023-08-28 |  |
+| [daydreaming](https://open.spotify.com/track/7M9PnaNMpqqyXfSNdpYt15) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0), [Ramcey](https://open.spotify.com/artist/6yeRd57A9IoyJTODsK0H7F) | [daydreaming](https://open.spotify.com/album/65DoUqu0Ju170xKPsKLIGy) | 3:48 | 2023-08-28 | 2023-09-05 |
 | [Dear Winter](https://open.spotify.com/track/4Dd0v2LBhMpqOwhmeU4yBJ) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 2:48 | 2022-08-08 | 2023-01-05 |
 | [Devil Eyes](https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Jasmine](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [THE MASTERPIECE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77QhNf1KG1kCd6ecDhvnnn) | 2:35 | 2022-07-11 | 2022-07-26 |
 | [different...](https://open.spotify.com/track/5UsidyX3Wocveuplfzz9AK) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [different...](https://open.spotify.com/album/46leWH1QOXzyOFgJWOD5Ws) | 3:00 | 2023-01-30 | 2023-03-06 |

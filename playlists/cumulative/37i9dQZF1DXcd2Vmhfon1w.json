@@ -2371,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "Madame Bovary",
+        "url": "https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs"
+      },
+      "artists": [
+        {
+          "name": "Ayax",
+          "url": "https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Madame Bovary",
+      "url": "https://open.spotify.com/track/6Pu1EJORDSkTgVhZXx9V8U"
+    },
+    {
+      "album": {
         "name": "Mal Ag\u00fcero",
         "url": "https://open.spotify.com/album/0o0Kw1aYR6GShDsEk1jML9"
       },
@@ -3910,7 +3932,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 186537,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/4Huf56u4fIIcQwZb9RSe4A"

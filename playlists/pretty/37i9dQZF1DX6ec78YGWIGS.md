@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,563 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,796 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 89 | [Choca Mi Cintura](https://open.spotify.com/track/6ExLrjegzgNt2X5C3T7snD) | [Valen Etchegoyen](https://open.spotify.com/artist/68605Nj80pgfMzs2fr8fZs) | [Choca Mi Cintura](https://open.spotify.com/album/4vkbL3ruWwrbq9PE3bbWOL) | 3:08 |
 | 90 | [Laberinto \(feat\. Leo Rizzi\)](https://open.spotify.com/track/6u22ObIR949lHB2ro2d51Z) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:18 |
 
-Snapshot ID: `MCxiNGM2ZGFjNmFkNTNiOTA3YjAyMDNmY2E3NGE0ZWU1MDU2NDI4NzM4`
+Snapshot ID: `MCw0NjlkNGE4ZDAzOGZjOWNmZTFjMzAxMjQxZTc0MGRlNzA3YjBkNWZi`

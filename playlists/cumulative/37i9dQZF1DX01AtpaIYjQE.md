@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-162 songs - 11 hr 32 min
+163 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [say my nameの片想い](https://open.spotify.com/track/3VCNGorhyDctdlJ6QLYGtI) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:07 | 2022-05-31 |  |
 | [She](https://open.spotify.com/track/37UGr8DOvzrYaETJQnzumX) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LUCKY Hi FiVE!](https://open.spotify.com/album/3S391tsVADLxhClJzt4tSU) | 3:56 | 2022-05-31 | 2023-06-14 |
 | [She](https://open.spotify.com/track/5tudEWjNCbDGeFlLtv3Lgj) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LUCKY Hi FiVE!](https://open.spotify.com/album/58iuvEHBB7S230k6mY6uNR) | 3:56 | 2022-05-31 | 2022-07-29 |
+| [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 | 2023-09-04 |  |
 | [the end of my world](https://open.spotify.com/track/2kIlRef8jWIVIQySIzXKcN) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/6ShPLRahLkA0WcZ07ZLID9) | 3:28 | 2022-05-31 | 2022-07-29 |
 | [the end of my world](https://open.spotify.com/track/4OIm5aOUAcYoflfcIomBE9) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 3:28 | 2022-05-31 | 2023-06-14 |
 | [THIS ILLUSION](https://open.spotify.com/track/1OrzZdwIwqM7KSoks6Fqjp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [THIS ILLUSION](https://open.spotify.com/album/4qeTC56RAFoYqlyLy5zSER) | 4:03 | 2022-05-31 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Keep it Punjabi, Keep it Real. Cover: Nseeb",
+  "description": "Keep it Punjabi, Keep it Real. Cover: Wazir Patar",
   "name": "Ghaint Flow",
   "tracks": [
     {
@@ -1707,6 +1707,28 @@
     },
     {
       "album": {
+        "name": "Street Knowledge",
+        "url": "https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/1kaKltt8lpftj69XODO4RM"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -2659,7 +2681,7 @@
         },
         {
           "name": "Sejal Puri",
-          "url": "https://open.spotify.com/artist/4RhRPyU8sQguJwLGoaf4xA"
+          "url": "https://open.spotify.com/artist/5krsrrFzTaI3Mb51twW6Dg"
         },
         {
           "name": "Mxrci",
@@ -3412,6 +3434,28 @@
       "duration_ms": 159014,
       "name": "Stick Talk",
       "url": "https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt"
+    },
+    {
+      "album": {
+        "name": "Street Knowledge",
+        "url": "https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "J.Hind",
+          "url": "https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "Streetwise",
+      "url": "https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2010s.",
-  "num_followers": 40257,
+  "num_followers": 40279,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTI2YzYwOTk1MWM2ZTVhYjNmZmI4ZWQ4ZmYwOTU4YWI4MzIwYjE4",
+  "snapshot_id": "MCw5NDAzYThlNzhkYjRiYmU3NjI2ZmU1NDc2NTcwMDYzOGI4YmYwMDFh",
   "tracks": [
     {
       "added_at": "2020-05-15 11:36:11",
@@ -251,6 +251,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -315,18 +331,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -347,22 +363,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 259093,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Tear in My Heart",
-      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
     },
     {
       "added_at": "2021-04-09 06:31:21",
@@ -431,6 +415,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "Guitar Gangsters & Cadillac Blood",
         "url": "https://open.spotify.com/album/4BzHvHsnYTIEmrhh6zLDmt"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 261812,
       "name": "Still Counting",
       "url": "https://open.spotify.com/track/7nsO4eXkY7DvrWbjYUDLJS"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Tear in My Heart",
+      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -479,22 +495,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
@@ -511,8 +511,24 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
@@ -520,25 +536,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 324466,
-      "name": "Chlorine",
-      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -599,22 +599,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Everybody Wants",
-        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
-          "name": "The Struts",
-          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Could Have Been Me",
-      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
+      "duration_ms": 324466,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -675,6 +659,22 @@
       "duration_ms": 224333,
       "name": "Gold on the Ceiling",
       "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Everybody Wants",
+        "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/3IyCL4Em1GOpNGDf451Hg1"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -725,6 +725,26 @@
       "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
     },
     {
+      "added_at": "2021-04-09 06:31:21",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 239215,
+      "name": "Princess of China",
+      "url": "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N"
+    },
+    {
       "added_at": "2020-05-15 11:36:11",
       "album": {
         "name": "Human",
@@ -755,26 +775,6 @@
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
-    },
-    {
-      "added_at": "2021-04-09 06:31:21",
-      "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 239215,
-      "name": "Princess of China",
-      "url": "https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 177048,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 237986,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/6BtmXhTJMM9sBTHeYYASGz"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "Seal The Deal & Let's Boogie",
         "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Holding Onto Strings Better Left To Fray",
-        "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Country Song",
-      "url": "https://open.spotify.com/track/2abHKI9Oox4NBEhOh3HMbq"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Holding Onto Strings Better Left To Fray",
+        "url": "https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Country Song",
+      "url": "https://open.spotify.com/track/2abHKI9Oox4NBEhOh3HMbq"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
         "name": "Asylum (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Got Your Six (Deluxe)",
-        "url": "https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG"
+        "name": "Disobey",
+        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
         }
       ],
-      "duration_ms": 206903,
-      "name": "Jekyll and Hyde",
-      "url": "https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql"
+      "duration_ms": 254805,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Thank You Happy Birthday",
-        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Shake Me Down",
-      "url": "https://open.spotify.com/track/1Hb1IJ9bBCa6wo3fRtexnJ"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Help Is On The Way",
-      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Thank You Happy Birthday",
+        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Shake Me Down",
+      "url": "https://open.spotify.com/track/1Hb1IJ9bBCa6wo3fRtexnJ"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Disobey",
-        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
       "artists": [
         {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 254805,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
+      "duration_ms": 237480,
+      "name": "Help Is On The Way",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2020-05-15 11:36:11",

@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Disco Bahia.",
-  "num_followers": 46759,
+  "num_followers": 46812,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -279,30 +279,6 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "Fantasy Gateway",
-        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
@@ -355,6 +331,30 @@
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/3du9ocej65TycajaDfw8j9"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232298,
+      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn"
       },
       "artists": [
         {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
+      "duration_ms": 207024,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn"
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
       },
       "artists": [
         {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 207024,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
         "name": "\u00bfPor qu\u00e9 no contestas?",
         "url": "https://open.spotify.com/album/1P3mHv7LSVtroEGhlU8G6j"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 184669,
       "name": "DE REVERSA",
       "url": "https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 169919,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
         "name": "cuando faltes",
         "url": "https://open.spotify.com/album/1pjB65d6ZlIHkm2mfhafJE"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 179527,
       "name": "cuando faltes",
       "url": "https://open.spotify.com/track/47171O0rMkJFNSHsTe972B"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 169919,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
+        "name": "amor universal",
+        "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        },
+        {
+          "name": "Maddie Moon",
+          "url": "https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS"
+        }
+      ],
+      "duration_ms": 223887,
+      "name": "amor universal",
+      "url": "https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
       },
@@ -923,6 +943,26 @@
       "duration_ms": 242951,
       "name": "Antes de Marcharte",
       "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
+        "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
+        "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -947,42 +987,6 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "amor universal",
-        "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        },
-        {
-          "name": "Maddie Moon",
-          "url": "https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS"
-        }
-      ],
-      "duration_ms": 223887,
-      "name": "amor universal",
-      "url": "https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
-        "name": "Cielo de Colores",
-        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Cielo de Colores",
-      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -999,22 +1003,18 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
-        "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
+        "name": "Cielo de Colores",
+        "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
+      "duration_ms": 184000,
+      "name": "Cielo de Colores",
+      "url": "https://open.spotify.com/track/5yG41x0CERmmOXF5g1lgvX"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
-        "name": "Acic\u00e1lame",
-        "url": "https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW"
-      },
-      "artists": [
-        {
-          "name": "Flac\u00f8",
-          "url": "https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub"
-        },
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 235596,
-      "name": "Acic\u00e1lame",
-      "url": "https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
         "name": "\u00c1ngel",
         "url": "https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI"
       },
@@ -1123,6 +1103,42 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
+        "name": "Acic\u00e1lame",
+        "url": "https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW"
+      },
+      "artists": [
+        {
+          "name": "Flac\u00f8",
+          "url": "https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 235596,
+      "name": "Acic\u00e1lame",
+      "url": "https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
+      },
+      "artists": [
+        {
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+        }
+      ],
+      "duration_ms": 239965,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
         "name": "Me gusto de noche",
         "url": "https://open.spotify.com/album/1EM2CEGR5bz4yrgDj5VoxC"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 177500,
       "name": "Al Cien",
       "url": "https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ"
-      },
-      "artists": [
-        {
-          "name": "MOSBI",
-          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
-        }
-      ],
-      "duration_ms": 239965,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V"
     },
     {
       "added_at": "2023-08-25 20:12:58",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-08-25 20:12:58",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+    },
+    {
+      "added_at": "2023-08-25 20:12:58",
+      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/4zeUUiheZ60pYMbZ7rDtwI"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 176400,
       "name": "VHS",
       "url": "https://open.spotify.com/track/4k34WNz27uYpifsREylsyx"
-    },
-    {
-      "added_at": "2023-08-25 20:12:58",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2023-08-25 20:12:58",

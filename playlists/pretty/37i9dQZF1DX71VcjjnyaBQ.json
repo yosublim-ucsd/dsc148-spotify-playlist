@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 384575,
+  "num_followers": 384667,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2Y2MmY2NTNkOGNlMTQ1ZGJiNjQyNzVmN2ViMjI4NDYxODhhYjBk",
+  "snapshot_id": "MCw4ZWYwY2RhZGI3OGJiYTUxNzgwNTY5YzE1ZGRjNmQwM2ZlYWI5Y2Fh",
   "tracks": [
     {
       "added_at": "2023-08-29 11:46:23",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "42nd Street Shuffle",
-        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "42nd Street Shuffle",
-      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "Mondenkind",
         "url": "https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 163946,
       "name": "Velvet Gloves & Spit",
       "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "42nd Street Shuffle",
+        "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 259786,
+      "name": "42nd Street Shuffle",
+      "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Stay a While",
-        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
-      },
-      "artists": [
-        {
-          "name": "Simon Westman Trio",
-          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
-        }
-      ],
-      "duration_ms": 332391,
-      "name": "Jakob\u2019s Happy Song",
-      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/4VB7PmeVHqaiA87rs77pRm"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 180463,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/3wM2sEe8qcWoAZWlXB6pj1"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "Stay a While",
+        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
+      },
+      "artists": [
+        {
+          "name": "Simon Westman Trio",
+          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
+        }
+      ],
+      "duration_ms": 332391,
+      "name": "Jakob\u2019s Happy Song",
+      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "The Magic of Now",
-        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
-      },
-      "artists": [
-        {
-          "name": "Orrin Evans",
-          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Dave",
-      "url": "https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "When I Fell for You",
         "url": "https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 322362,
       "name": "When I Fell for You",
       "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "The Magic of Now",
+        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
+      },
+      "artists": [
+        {
+          "name": "Orrin Evans",
+          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Dave",
+      "url": "https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "Ballad for K",
         "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 235360,
       "name": "Ballad for K",
       "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "In This Moment",
-        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "In This Moment",
-      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "For my lady",
-        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
+        "name": "In This Moment",
+        "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
       },
       "artists": [
         {
-          "name": "Filip Jers",
-          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
         }
       ],
-      "duration_ms": 203986,
-      "name": "For my lady",
-      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
+      "duration_ms": 223706,
+      "name": "In This Moment",
+      "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -667,6 +651,42 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "A Ballad Moment: Second View",
+        "url": "https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 277968,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/7IYXZHYRWyhaKwoZGHckkM"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "For my lady",
+        "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
+      },
+      "artists": [
+        {
+          "name": "Filip Jers",
+          "url": "https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "For my lady",
+      "url": "https://open.spotify.com/track/7tkyGvCJZbGcF35y71WRtG"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -735,22 +755,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
-      },
-      "artists": [
-        {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
-        }
-      ],
-      "duration_ms": 358853,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "Where Will the River Flow",
         "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
       },
@@ -763,6 +767,22 @@
       "duration_ms": 334925,
       "name": "Hopeful Morning",
       "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
+      },
+      "artists": [
+        {
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+        }
+      ],
+      "duration_ms": 358853,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -795,26 +815,6 @@
       "duration_ms": 331461,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
-        "name": "A Ballad Moment: Second View",
-        "url": "https://open.spotify.com/album/7CxvY9uDtXY6za0GdpWInW"
-      },
-      "artists": [
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 277968,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/7IYXZHYRWyhaKwoZGHckkM"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Cloud 10",
-        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
-      },
-      "artists": [
-        {
-          "name": "Chip Wickham",
-          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "Waltz for Hal Willner",
         "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
       },
@@ -999,34 +983,18 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ"
+        "name": "Cloud 10",
+        "url": "https://open.spotify.com/album/5LF1imfGu2b4OXKIZRXiun"
       },
       "artists": [
         {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+          "name": "Chip Wickham",
+          "url": "https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0"
         }
       ],
-      "duration_ms": 337573,
-      "name": "Baltimore",
-      "url": "https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
-        "name": "P\u00e5 nye eventyr",
-        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 322253,
-      "name": "P\u00e5 nye eventyr",
-      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
+      "duration_ms": 329000,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1047,6 +1015,50 @@
       "duration_ms": 322434,
       "name": "Little Bird of Passage",
       "url": "https://open.spotify.com/track/5rIX9VD7y3GQW84rAzKyNI"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "P\u00e5 nye eventyr",
+        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 322253,
+      "name": "P\u00e5 nye eventyr",
+      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade)",
+        "url": "https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 360680,
+      "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
+      "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1095,34 +1107,6 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
-        "name": "RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade)",
-        "url": "https://open.spotify.com/album/6glNa1tv5xDIevYwSvxNkm"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 360680,
-      "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
-      "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/67WZ5gXP82Q1d0XpnE6qZQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 337573,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "Happy Hours",
         "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 397306,
       "name": "Dear Don",
       "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1335,6 +1335,54 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "Have a Day",
+        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
+      },
+      "artists": [
+        {
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Have a Day",
+      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
+        "name": "Pannonica",
+        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
+      },
+      "artists": [
+        {
+          "name": "Spike Wilner Trio",
+          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
+        }
+      ],
+      "duration_ms": 403285,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
         "name": "In the Wee Small Hours of the Morning",
         "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
       },
@@ -1375,34 +1423,22 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Have a Day",
-        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
       },
       "artists": [
         {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Have a Day",
-      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
-        "name": "Pannonica",
-        "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
-      },
-      "artists": [
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
         {
-          "name": "Spike Wilner Trio",
-          "url": "https://open.spotify.com/artist/2IsQRgCkOiPQwg0sKFLAJQ"
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
         }
       ],
-      "duration_ms": 403285,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1423,22 +1459,18 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+        "name": "In a Sentimental Mood",
+        "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
       },
       "artists": [
         {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
         }
       ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+      "duration_ms": 228181,
+      "name": "Loose Caboose",
+      "url": "https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1459,22 +1491,6 @@
       "duration_ms": 285770,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/46ENsWZeNIoYgu8VQfxhUc"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
-        "name": "In a Sentimental Mood",
-        "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 228181,
-      "name": "Loose Caboose",
-      "url": "https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1551,30 +1567,6 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
-        },
-        {
-          "name": "Scott Colley",
-          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
-        },
-        {
-          "name": "Brian Blade",
-          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
-        }
-      ],
-      "duration_ms": 422506,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -1599,6 +1591,30 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "duration_ms": 422506,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 364741,
       "name": "Jennie",
       "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
+        "name": "Gamla all\u00e9n",
+        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
+      },
+      "artists": [
+        {
+          "name": "Axel M\u00e5rdsj\u00f6",
+          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Gamla all\u00e9n",
+      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
+    },
+    {
+      "added_at": "2023-08-29 11:46:23",
+      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
       },
@@ -1755,18 +1771,26 @@
     {
       "added_at": "2023-08-29 11:46:23",
       "album": {
-        "name": "Gamla all\u00e9n",
-        "url": "https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG"
+        "name": "Some Gospel According to Matthew",
+        "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
       },
       "artists": [
         {
-          "name": "Axel M\u00e5rdsj\u00f6",
-          "url": "https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD"
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Albin Lindg\u00e5rd",
+          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
+        },
+        {
+          "name": "Ossian Ward",
+          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
         }
       ],
-      "duration_ms": 230786,
-      "name": "Gamla all\u00e9n",
-      "url": "https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN"
+      "duration_ms": 323426,
+      "name": "Some Gospel According to Matthew - Live",
+      "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
     },
     {
       "added_at": "2023-08-29 11:46:23",
@@ -1803,30 +1827,6 @@
       "duration_ms": 354000,
       "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
       "url": "https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL"
-    },
-    {
-      "added_at": "2023-08-29 11:46:23",
-      "album": {
-        "name": "Some Gospel According to Matthew",
-        "url": "https://open.spotify.com/album/2un2RVOffrrTVLidr8NrUO"
-      },
-      "artists": [
-        {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Albin Lindg\u00e5rd",
-          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
-        },
-        {
-          "name": "Ossian Ward",
-          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
-        }
-      ],
-      "duration_ms": 323426,
-      "name": "Some Gospel According to Matthew - Live",
-      "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
     },
     {
       "added_at": "2023-08-29 11:46:23",

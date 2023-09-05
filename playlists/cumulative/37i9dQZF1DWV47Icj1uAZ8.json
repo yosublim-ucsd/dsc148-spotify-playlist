@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN"
+    },
+    {
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -480,7 +498,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 277693,
       "name": "Looks Are Deceiving",
       "url": "https://open.spotify.com/track/3BkCURiZj3EflNF0zqzURs"

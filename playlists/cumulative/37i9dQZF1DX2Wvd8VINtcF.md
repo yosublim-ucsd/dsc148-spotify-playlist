@@ -4,7 +4,7 @@
 
 > the pearls of an oyster\. Cover: Lido
 
-796 songs - 1 day 20 hr 10 min
+797 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-23 | 2023-04-21 |
 | [Horizons \- Baltra Remix](https://open.spotify.com/track/4BJJj1m5KE1bp1M4X4eetj) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Horizons \(Baltra Remix\)](https://open.spotify.com/album/0i9qcQjjdb1V5UppJJtgRd) | 4:10 | 2023-03-30 | 2023-04-07 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-10-28 | 2022-12-16 |
+| [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 | 2023-09-04 |  |
 | [Häntextra](https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:47 | 2023-05-25 | 2023-07-14 |
 | [I Do](https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I Do](https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1) | 4:07 | 2023-03-23 | 2023-05-12 |
 | [i don’t feel the same](https://open.spotify.com/track/6uLkhHrg56r7qzGzIKTmpx) | [Couros](https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM) | [i don’t feel the same](https://open.spotify.com/album/6dh383KA5FHseEX1QEHRCj) | 2:44 | 2022-10-28 | 2022-11-11 |

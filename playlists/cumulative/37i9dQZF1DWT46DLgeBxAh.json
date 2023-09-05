@@ -553,6 +553,28 @@
     },
     {
       "album": {
+        "name": "Belicamente De Acci\u00f3n",
+        "url": "https://open.spotify.com/album/2zd2JBVZaaXjMlMVdfhhgu"
+      },
+      "artists": [
+        {
+          "name": "La Autorizaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+        },
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175110,
+      "name": "Belicamente De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5fyWAm1MYH2zZ9BGR5iPFp"
+    },
+    {
+      "album": {
         "name": "BICHOTA",
         "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
@@ -2046,7 +2068,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 250893,
       "name": "En Alta",
       "url": "https://open.spotify.com/track/5QX43W0c6X53arJNNtDV8U"

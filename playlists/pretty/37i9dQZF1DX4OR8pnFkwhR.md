@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: なとり
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,784 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,823 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [T・P・P](https://open.spotify.com/track/42UXRtOOMC3NsK0tb6NfsG) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t) | [T・P・P](https://open.spotify.com/album/6za2iN5N0S2AFoIh4YMwrv) | 3:14 |
 | 70 | [Cloud Watching](https://open.spotify.com/track/0cApcBHdycwHfHsorf0adA) | [Miyamoto](https://open.spotify.com/artist/3b0xrXMicUXOTmoV59Yx1F) | [Cloud Watching](https://open.spotify.com/album/1heRI7pdmMhQVGhMg6Ocmu) | 5:35 |
 
-Snapshot ID: `MCw0NzhkMzJkODMxM2U1MjlmMzdlZDUxM2JmZmUzMDQwMDM3YjQxNWU0`
+Snapshot ID: `MCxmOWI4YjVjY2M2YmRjOWFmN2E4YzIwNzc0YzVkYmZiNTAxOTI0OWQ3`

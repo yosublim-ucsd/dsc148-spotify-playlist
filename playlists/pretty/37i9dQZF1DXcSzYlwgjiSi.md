@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,037 likes - 148 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,207 likes - 148 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 51 | [Every Little Thing](https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:10 |
 | 52 | [Wine Country](https://open.spotify.com/track/6nBdLYF7BwSpTb2ygw8oFK) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Wine Country](https://open.spotify.com/album/4TsRlcxfxu5W3j4Ink2ruz) | 2:43 |
 | 53 | [She's Country](https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:40 |
-| 54 | [It's Five O'Clock Somewhere](https://open.spotify.com/track/07KYRDFf8Q6sqj4PWCP9vh) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Playlist: The Very Best Of Alan Jackson](https://open.spotify.com/album/2QyJV0fOANPc6gRUFPeVe0) | 3:50 |
+| 54 | [It's Five O'Clock Somewhere](https://open.spotify.com/track/7KysI43rsjlhjTeWO6ePUq) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Greatest Hits Volume II](https://open.spotify.com/album/0tFm46KzjtCgyyfD8iCaiJ) | 3:49 |
 | 55 | [Summertime](https://open.spotify.com/track/3cE5ltZFHmBpiS77itKaOM) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Road And The Radio](https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec) | 3:26 |
 | 56 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
 | 57 | [Hot Truck Beer](https://open.spotify.com/track/3K7TQOLiYboIaP7nqBx2pa) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Hot Truck Beer](https://open.spotify.com/album/27qiMWHshYcBFvJFVVkuBJ) | 3:05 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 147 | [Somebody Like That](https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG) | 3:18 |
 | 148 | [NO SAD SONGS](https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 2:52 |
 
-Snapshot ID: `MCxiYWU3ZDFkYzI1NTA4ZTM5ZWI3ZGM1MjZlNmJjNTc3ZTA1OTdiZjc3`
+Snapshot ID: `MCxkMGVkMDRkYmRkZjY0NzVhYzExYzViOWEwMzA5NDU3Y2FmMzRjMWRh`

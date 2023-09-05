@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,247 songs - 2 day 16 hr 43 min
+1,248 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-18 | 2023-04-02 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-16 | 2021-11-27 |
 | [Alle roser \(feat\. Olivia Lobato\)](https://open.spotify.com/track/6gVks60nYcLUwHt4cXwPQU) | [Sebastian Zalo](https://open.spotify.com/artist/5CGn9wJhdFhjB3DoU7LHX0), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Alle roser \(feat\. Olivia Lobato\)](https://open.spotify.com/album/5SqIqOm6q4twx138RP5lKk) | 3:12 | 2022-09-17 | 2022-09-19 |
-| [Alle Vil Være Med \(Piruss\)](https://open.spotify.com/track/28ZIMgajc3paWJYhWOViZn) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Alle Vil Være Med \(Piruss\)](https://open.spotify.com/album/3Sg8exAlKERUaDzT6QWBb2) | 3:06 | 2023-06-24 |  |
+| [Alle Vil Være Med \(Piruss\)](https://open.spotify.com/track/28ZIMgajc3paWJYhWOViZn) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Alle Vil Være Med \(Piruss\)](https://open.spotify.com/album/3Sg8exAlKERUaDzT6QWBb2) | 3:06 | 2023-06-24 | 2023-09-05 |
 | [Alone In The Night](https://open.spotify.com/track/6JlOnI9nWyluM2IArokGOV) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Avatars Of Love](https://open.spotify.com/album/2gt23H4dhmiJ41rAvLG8Id) | 6:25 | 2022-04-02 | 2022-04-06 |
 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 | 2021-11-14 | 2021-11-21 |
 | [Alt du vil ha](https://open.spotify.com/track/7GZ0lQasbKSKie0I1Bv7Vd) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Alt du vil ha](https://open.spotify.com/album/7atcRsYQxmvrcqxeFsriwr) | 3:01 | 2022-12-31 | 2023-05-15 |
@@ -137,6 +137,7 @@
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-07 | 2022-05-08 |
 | [BlimE](https://open.spotify.com/track/1qxsnAxrgjvPRMcGbsYTgW) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [BlimE](https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6) | 2:57 | 2023-01-09 | 2023-02-11 |
 | [BlimE! \- Den Ene](https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu) | [Selma Ibrahim](https://open.spotify.com/artist/651XOkcvus2ZHLMCln4fgY) | [BlimE! \- Den Ene](https://open.spotify.com/album/3BLyTrdFNN4jPviN6otdvR) | 3:21 | 2022-06-19 | 2023-03-22 |
+| [BlimE! \- Sveve Høyt](https://open.spotify.com/track/7uF90Ykgrs8HTATqOYENzL) | [Martin Lilleberg](https://open.spotify.com/artist/1KYnaTc8Zxc0Ep8VcoSGNG) | [BlimE! \- Sveve Høyt](https://open.spotify.com/album/5wTPKUFEWoafPc1pzbcPn9) | 3:08 | 2023-09-04 |  |
 | [BlimE! – Dynamitt](https://open.spotify.com/track/3xuyh4bAIuN0oIWPMqoXog) | [Nicolay Ramm](https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue) | [BlimE! – Dynamitt](https://open.spotify.com/album/7d0pF7MVf4wBCpdmqtGBoL) | 2:49 | 2021-08-20 | 2021-11-30 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2022-01-08 |
 | [Block Party](https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Block Party](https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj) | 2:05 | 2022-06-11 | 2022-08-30 |

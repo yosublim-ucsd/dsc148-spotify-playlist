@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAh5YAbsFlY.md) - [plain](/playlists/plain/37i9dQZF1DWUAh5YAbsFlY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUAh5YAbsFlY)
 
-### [The Dancing Wanderers \(댄스가수 유랑단\)](https://open.spotify.com/playlist/37i9dQZF1DWUAh5YAbsFlY)
+### [Dancing Queens On The Road \(댄스가수유랑단\)](https://open.spotify.com/playlist/37i9dQZF1DWUAh5YAbsFlY)
 
-> Listen to the soundtracks of the show The Dancing Wanderers\. \(댄스가수 유랑단의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 노래들도 들어보실 수 있습니다.\)
+> Listen to the soundtracks of the show Dancing Queens On The Road\. \(댄스가수 유랑단의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 노래들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 271 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAh5YAbsFlY.md) - [plain]
 | 52 | [LMM](https://open.spotify.com/track/61RWlWnaIKrOBnmjdQgFOH) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 4:41 |
 | 53 | [Starry Night](https://open.spotify.com/track/3qUJ0kC9YdBO5qRFdYXeXX) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Yellow Flower](https://open.spotify.com/album/7zIvhrdl7dvtucNw4tSd62) | 3:31 |
 
-Snapshot ID: `MCxiZTY4YzNjMWIzMWQxZTU3ZDFkZTQ3YmVkOTA5M2U0MTQ4ZTVkNTFj`
+Snapshot ID: `MCwxYTYwMjI5NjNkMjZhYmQyNDNkN2YwNTA3ODBhNzg0NmI2ZWJkYmI4`

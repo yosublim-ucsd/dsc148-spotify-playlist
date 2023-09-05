@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: PLAVE\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Young K\) \(핫한 국내 록 음악을 만나보세요!\)
 
-521 songs - 1 day 8 hr 1 min
+522 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [NOIZY](https://open.spotify.com/track/7Achen2ErZs7RQxd32oP20) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:23 | 2022-05-11 | 2022-05-17 |
 | [not even close](https://open.spotify.com/track/1jITrOKQdU6LbaosTXCt0i) | [isnotequalto](https://open.spotify.com/artist/2wDEeSb27uMLqlT8Bx9TuF) | [not even close](https://open.spotify.com/album/6udZp5kz6Qs86hCjjRy1zN) | 2:53 | 2022-06-18 | 2022-06-21 |
 | [not gonna love](https://open.spotify.com/track/0scY0FycWIn2ut429xuMja) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:12 | 2022-06-23 | 2022-06-26 |
+| [nothing but](https://open.spotify.com/track/4tVxP9VLIgzD9oRLmzioQT) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Letters with notes](https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P) | 3:21 | 2023-09-04 |  |
 | [Now \(Feat\. THAMA\)](https://open.spotify.com/track/3VAD6IG91tzUaSlPeei63M) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:55 | 2022-04-22 | 2022-07-27 |
 | [O2](https://open.spotify.com/track/3gE6fZuOsBCOoIWONBtd2T) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:48 | 2022-04-22 | 2022-07-23 |
 | [OCEAN](https://open.spotify.com/track/76HdYXlpceoc0N2P6E4oGW) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [OCEAN](https://open.spotify.com/album/4rOhOYOy9Arjaula5XaBlg) | 4:38 | 2022-05-11 | 2022-07-07 |
@@ -406,7 +407,7 @@
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-05 | 2022-11-13 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |
 | [stuck on you](https://open.spotify.com/track/71mRT3HNtB6KIialwvjnfE) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [stuck on you](https://open.spotify.com/album/1lizyEQ39gw9rjafMyyYZY) | 3:25 | 2022-07-22 | 2022-08-02 |
-| [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 |  |
+| [Summer](https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 4:03 | 2022-05-03 | 2023-09-05 |
 | [Summer](https://open.spotify.com/track/55FLC4BaLbUr7plCVL0j1e) | [Youth Hostel](https://open.spotify.com/artist/73VQvHkpR7ZCn8SOqTqtzK) | [Youth Hostel](https://open.spotify.com/album/1nbMITy1nsScR47Pd4zWJ6) | 2:58 | 2022-09-05 | 2022-10-01 |
 | [Summer Nostalgia](https://open.spotify.com/track/6AaI8NkeP0Yaw2r2tSg6uv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [Summer Nostalgia](https://open.spotify.com/album/0xh9ejn2bLP6NUJGkORVkz) | 4:01 | 2022-04-22 | 2022-07-29 |
 | [Sunday7](https://open.spotify.com/track/2pQo1klRNseUPq4p4YU6Yj) | [Lee jinwoo](https://open.spotify.com/artist/4j0FFUQqt7izUZfogx2fvU) | [Sunday7](https://open.spotify.com/album/3iZ7mgY7G1R13ExcI5ykHb) | 3:15 | 2022-04-22 | 2022-04-29 |

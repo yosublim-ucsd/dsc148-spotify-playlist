@@ -3514,7 +3514,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 218026,
       "name": "c\u00f3 h\u1eb9n v\u1edbi thanh xu\u00e2n",
       "url": "https://open.spotify.com/track/54UNNgtE3zzERwTuWSQLqd"
@@ -5972,7 +5972,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 168926,
       "name": "Haegeum",
       "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
@@ -7339,6 +7339,32 @@
     },
     {
       "album": {
+        "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 15",
+        "url": "https://open.spotify.com/album/1lnPHL09vpRyA9ktF7UJbl"
+      },
+      "artists": [
+        {
+          "name": "RAP VI\u1ec6T",
+          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
+        },
+        {
+          "name": "Tez",
+          "url": "https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9"
+        },
+        {
+          "name": "Myra Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Khi C\u01a1n M\u01a1 D\u1ea7n Phai (feat. Tez & Myra Tr\u1ea7n)",
+      "url": "https://open.spotify.com/track/486dVHo58R4EhBQjcYF2NX"
+    },
+    {
+      "album": {
         "name": "Khi Em L\u1edbn",
         "url": "https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU"
       },
@@ -7544,7 +7570,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 228413,
       "name": "Kh\u00f4ng Th\u1ec3 Say",
       "url": "https://open.spotify.com/track/4W2poMwGzKQHtpNCthoGhC"
@@ -11912,7 +11938,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 294252,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/1UHkDovEFqHzHCPyNe0BTy"
@@ -12542,7 +12568,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 229013,
       "name": "Snow Flower (feat. Peakboy)",
       "url": "https://open.spotify.com/track/34IGOyXR6cn0YI9VBu8m0y"
@@ -13136,7 +13162,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 260351,
       "name": "S\u1ed1ng Cho H\u1ebft \u0110\u1eddi Thanh Xu\u00e2n 4 (feat. Dick)",
       "url": "https://open.spotify.com/track/6SdPpLl72QarBuaxv7FNGw"
@@ -14024,7 +14050,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "tiny love",
       "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
@@ -14560,7 +14586,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 197601,
       "name": "T\u1eeb A \u0110\u1ebfn Z (feat. 24k.Right)",
       "url": "https://open.spotify.com/track/2OBZtEg8DXhICWYd6yvicf"
@@ -15322,7 +15348,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 174824,
       "name": "Winter Bear",
       "url": "https://open.spotify.com/track/74ewFAgDzRkhZ7EX2eLtfZ"

@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Alone in Oslo",
+        "url": "https://open.spotify.com/album/32pnHqUZJxI1bLeOioEnEA"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148844,
+      "name": "Alone in Oslo",
+      "url": "https://open.spotify.com/track/7pIccU6AUr1HSjDuMBJVu5"
+    },
+    {
+      "album": {
         "name": "Amelie",
         "url": "https://open.spotify.com/album/1HAMQ4zxLhNgPjktMPttE8"
       },
@@ -614,6 +632,24 @@
       "duration_ms": 133866,
       "name": "Any Love",
       "url": "https://open.spotify.com/track/7bxvEJTeHETJchJLrjxHPQ"
+    },
+    {
+      "album": {
+        "name": "Are You Awake?",
+        "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mayberry",
+          "url": "https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224429,
+      "name": "Are You Awake?",
+      "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
     },
     {
       "album": {
@@ -864,7 +900,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 163200,
       "name": "Bb (feat. EDEN)",
       "url": "https://open.spotify.com/track/0qnyMpED9x01h4hyG529Ej"
@@ -990,7 +1026,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 227266,
       "name": "Black Camaro",
       "url": "https://open.spotify.com/track/317G13tprALioWMlgzQrCV"
@@ -2309,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Driving To Nowhere",
+        "url": "https://open.spotify.com/album/3ElAgzbgtbzweDHr2snige"
+      },
+      "artists": [
+        {
+          "name": "Nathan Evans",
+          "url": "https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Driving To Nowhere",
+      "url": "https://open.spotify.com/track/7bI0nfpRuGN5BUW23Auw26"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/70HeUV33B447KbycGdxC6D"
       },
@@ -2356,7 +2410,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 217160,
       "name": "Easy Keepers",
       "url": "https://open.spotify.com/track/1aDlpo8WrWmCz7MmFDSTju"
@@ -2548,7 +2602,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 254612,
       "name": "fading fast",
       "url": "https://open.spotify.com/track/4UN3nY781wWMDk2uInwJvl"
@@ -3485,6 +3539,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Like A Summer",
+        "url": "https://open.spotify.com/album/57VIsBCsuxjam0CzdTBiUQ"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191551,
+      "name": "Hold Me Like A Summer",
+      "url": "https://open.spotify.com/track/7mE4jzo38u1LhriLyqT6SR"
+    },
+    {
+      "album": {
         "name": "Hold My Hand",
         "url": "https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4"
       },
@@ -3962,7 +4034,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 203888,
       "name": "I Don't Feel Alive",
       "url": "https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd"
@@ -5240,7 +5312,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 174000,
       "name": "Lost When I'm Around You",
       "url": "https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd"
@@ -5284,6 +5356,28 @@
       "duration_ms": 319777,
       "name": "Love Factory",
       "url": "https://open.spotify.com/track/6chIuYEKToP0M1vg0fXN95"
+    },
+    {
+      "album": {
+        "name": "Love Me In Chapters II",
+        "url": "https://open.spotify.com/album/3pyo0VXySJeqCOM4N81Kvg"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219207,
+      "name": "Love Me In Chapters II",
+      "url": "https://open.spotify.com/track/0f5BoyLg6qVDsAJ5JemBcO"
     },
     {
       "album": {
@@ -6890,7 +6984,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 151500,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/4eUPAoBViRdR1DQjiHO63P"
@@ -7736,6 +7830,24 @@
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3vWJ3fZKghO8kHntrAa8oB"
+    },
+    {
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/2CUSpsgINhcSa46jkQr0HB"
+      },
+      "artists": [
+        {
+          "name": "Tobias",
+          "url": "https://open.spotify.com/artist/2XfJDeJW8WypSlrm2IBuhB"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Strange Days",
+      "url": "https://open.spotify.com/track/2BxgSw3ezNtf8GsoM99hBw"
     },
     {
       "album": {
@@ -9768,6 +9880,24 @@
       "duration_ms": 157777,
       "name": "Younger Me",
       "url": "https://open.spotify.com/track/79wa7WvKqnPZq8f4ssxvJt"
+    },
+    {
+      "album": {
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
     },
     {
       "album": {

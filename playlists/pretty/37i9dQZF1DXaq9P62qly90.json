@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12590,
+  "num_followers": 12593,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmI1MmFjOTc3ZjIyMWQ1ZGE2N2RmYmVkYTFmM2RmZTU4ZjljZTRh",
+  "snapshot_id": "MCxhODgzNTc5ZTVkYzQ2ZWY4YTY3MWY3NGUwNWViYTQ4MjZiZjhlNzVj",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Laps Around The Sun",
         "url": "https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "KALA",
+        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "You Can't Rush Your Healing",
+      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Take Your Power Back",
         "url": "https://open.spotify.com/album/2rMukh8IywcLklutZYSPZT"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 255191,
       "name": "Letter to Lady J",
       "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "KALA",
-        "url": "https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "You Can't Rush Your Healing",
-      "url": "https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Heroin and Helicopters",
-        "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
       "artists": [
         {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        },
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
         }
       ],
-      "duration_ms": 239280,
-      "name": "Caribbean Skies",
-      "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
+      "duration_ms": 262174,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
     }
   ],
   "unique_name": "Peace Of Mind",

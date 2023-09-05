@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 214466,
       "name": "Aterrizar",
       "url": "https://open.spotify.com/track/4b6k0q2chMQGuAvwCxBYNn"
@@ -106,10 +106,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 201556,
       "name": "Bah\u00eda Conejo",
       "url": "https://open.spotify.com/track/7z84D7G2GzaxPx9TjE4KJJ"
+    },
+    {
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
       "album": {
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 252633,
       "name": "BILLY",
       "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 207560,
       "name": "D\u00ednamo",
       "url": "https://open.spotify.com/track/4ilX4HWxfVFE9VRzwuxsGq"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 290742,
       "name": "Your Lips, My Mouth",
       "url": "https://open.spotify.com/track/28afz1iY04Elvc7YhHDYTt"

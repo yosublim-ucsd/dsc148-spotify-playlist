@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-388 songs - 1 day 0 hr 16 min
+389 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 | 2021-12-16 | 2022-07-26 |
 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 | 2022-05-30 | 2023-06-06 |
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2021-12-16 | 2023-02-28 |
-| [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 | 2021-12-16 |  |
+| [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 | 2021-12-16 | 2023-09-05 |
 | [Do What You Do](https://open.spotify.com/track/0iFhShSdYvMwscXAiUp4CT) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Do What You Do](https://open.spotify.com/album/7Mof8XMvFWuaEjCG9qpVHl) | 3:36 | 2021-12-16 | 2022-04-30 |
 | [Do You Call My Name](https://open.spotify.com/track/5w0jXRvylCbWxFrJx2H1Fl) | [Ra](https://open.spotify.com/artist/4qrdhnXBOzRt9OSmL29IFO) | [From One](https://open.spotify.com/album/25UI5uaK9P010LARRVhCgE) | 5:17 | 2022-01-05 | 2022-04-30 |
 | [Don't Back Down](https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/116n80nAqikTC624dsTHhI) | 3:45 | 2023-05-14 | 2023-08-24 |
@@ -250,6 +250,7 @@
 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2021-12-16 |  |
 | [One Way Or Another \- Remastered](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 | 2021-12-16 | 2022-04-26 |
 | [Open Your Eyes](https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E) | [Proud Like a God](https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G) | 3:07 | 2021-12-16 | 2022-07-19 |
+| [Out Of Control](https://open.spotify.com/track/6mjHiGwrRGE8LVCXVc5QDU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 2:42 | 2023-08-28 |  |
 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 | 2022-03-31 |  |
 | [Paradise City](https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:45 | 2021-12-16 | 2022-07-29 |
 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 | 2021-12-16 | 2022-04-21 |

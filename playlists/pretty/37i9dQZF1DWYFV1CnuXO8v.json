@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J-UOA\"> \u0627\u0646\u063a\u0627\u0645 </a>",
-  "num_followers": 83112,
+  "num_followers": 83255,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzA0OGI2MGRjODQ2NTYyMzc4YTM0ZjdkYmRlNWE0MzAyODhhYmMx",
+  "snapshot_id": "MCw4MjA0NmJkZjliNGZmNmEwODJiYTNlMzBkYjQyMjE2Y2Y1MjM3ZjEz",
   "tracks": [
     {
       "added_at": "2023-09-02 20:19:47",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-09-02 20:19:47",
       "album": {
-        "name": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062d\u0644\u0648 \u062f\u0647",
-        "url": "https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 172232,
-      "name": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062d\u0644\u0648 \u062f\u0647",
-      "url": "https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR"
-    },
-    {
-      "added_at": "2023-09-02 20:19:47",
-      "album": {
         "name": "\u0628\u0631\u0627\u062d\u0629 \u064a\u0627 \u0634\u064a\u062e\u0629",
         "url": "https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
+    },
+    {
+      "added_at": "2023-09-02 20:19:47",
+      "album": {
+        "name": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062d\u0644\u0648 \u062f\u0647",
+        "url": "https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 172232,
+      "name": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062d\u0644\u0648 \u062f\u0647",
+      "url": "https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR"
     },
     {
       "added_at": "2023-09-02 20:19:47",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-09-02 20:19:47",
       "album": {
+        "name": "Cigara",
+        "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "duration_ms": 211451,
+      "name": "Ta3ala Adalla3ak",
+      "url": "https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS"
+    },
+    {
+      "added_at": "2023-09-02 20:19:47",
+      "album": {
         "name": "Abl Mawsalek",
         "url": "https://open.spotify.com/album/5zJx8EKJIpZSjM1BH3FzYz"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2023-09-02 20:19:47",
       "album": {
-        "name": "Cigara",
-        "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
+        "name": "Lazem A'eish",
+        "url": "https://open.spotify.com/album/3QutrFTKwcT0Wn99v3u9cw"
       },
       "artists": [
         {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         }
       ],
-      "duration_ms": 211451,
-      "name": "Ta3ala Adalla3ak",
-      "url": "https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS"
+      "duration_ms": 279457,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/05nDuLXu5ejNOM05LNbS8a"
     },
     {
       "added_at": "2023-09-02 20:19:47",
@@ -451,38 +467,6 @@
     {
       "added_at": "2023-09-02 20:19:47",
       "album": {
-        "name": "Aleky Eyoun",
-        "url": "https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 209851,
-      "name": "Aleky Eyoun",
-      "url": "https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY"
-    },
-    {
-      "added_at": "2023-09-02 20:19:47",
-      "album": {
-        "name": "Lazem A'eish",
-        "url": "https://open.spotify.com/album/3QutrFTKwcT0Wn99v3u9cw"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/05nDuLXu5ejNOM05LNbS8a"
-    },
-    {
-      "added_at": "2023-09-02 20:19:47",
-      "album": {
         "name": "W El 7al Eh",
         "url": "https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB"
+    },
+    {
+      "added_at": "2023-09-02 20:19:47",
+      "album": {
+        "name": "Aleky Eyoun",
+        "url": "https://open.spotify.com/album/78SzkM05ePjjFN1PNBurUh"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 209851,
+      "name": "Aleky Eyoun",
+      "url": "https://open.spotify.com/track/5kQCI3faUHASM28R91ksUY"
     },
     {
       "added_at": "2023-09-02 20:19:47",
@@ -527,22 +527,6 @@
       "duration_ms": 177281,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/1EBmjew9K69csBqRxI8BeO"
-    },
-    {
-      "added_at": "2023-09-02 20:19:47",
-      "album": {
-        "name": "Ader Akmel",
-        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 253384,
-      "name": "Ader Akmel",
-      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
     },
     {
       "added_at": "2023-09-02 20:19:47",
@@ -595,26 +579,6 @@
     {
       "added_at": "2023-09-02 20:19:47",
       "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
-      },
-      "artists": [
-        {
-          "name": "Cairokee",
-          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
-        },
-        {
-          "name": "Sara Moullablad",
-          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
-        }
-      ],
-      "duration_ms": 257656,
-      "name": "Nefsy Ahbek",
-      "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
-    },
-    {
-      "added_at": "2023-09-02 20:19:47",
-      "album": {
         "name": "\u0628\u062d\u0628\u0643",
         "url": "https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2"
       },
@@ -663,18 +627,18 @@
     {
       "added_at": "2023-09-02 20:19:47",
       "album": {
-        "name": "\u0646\u0633\u0627\u0649",
-        "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
+        "name": "Ader Akmel",
+        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
       },
       "artists": [
         {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
         }
       ],
-      "duration_ms": 302027,
-      "name": "\u062d\u0628\u0647 \u062c\u0646\u0629",
-      "url": "https://open.spotify.com/track/2QK9spxKFUWe7zeirPHf5O"
+      "duration_ms": 253384,
+      "name": "Ader Akmel",
+      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
     },
     {
       "added_at": "2023-09-02 20:19:47",
@@ -691,6 +655,26 @@
       "duration_ms": 208351,
       "name": "Shokran",
       "url": "https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg"
+    },
+    {
+      "added_at": "2023-09-02 20:19:47",
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        },
+        {
+          "name": "Sara Moullablad",
+          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
+        }
+      ],
+      "duration_ms": 257656,
+      "name": "Nefsy Ahbek",
+      "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
     },
     {
       "added_at": "2023-09-02 20:19:47",
@@ -723,6 +707,22 @@
       "duration_ms": 272433,
       "name": "\u0644\u0645\u0627 \u0628\u064a\u0648\u062d\u0634\u0646\u064a",
       "url": "https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT"
+    },
+    {
+      "added_at": "2023-09-02 20:19:47",
+      "album": {
+        "name": "\u0646\u0633\u0627\u0649",
+        "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 302027,
+      "name": "\u062d\u0628\u0647 \u062c\u0646\u0629",
+      "url": "https://open.spotify.com/track/2QK9spxKFUWe7zeirPHf5O"
     },
     {
       "added_at": "2023-09-02 20:19:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,560 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,602 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 12 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
 | 13 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
 | 14 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 |
-| 15 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
-| 16 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
+| 15 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
+| 16 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
 | 17 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 |
 | 18 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 19 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 21 | [Thunder Fire You](https://open.spotify.com/track/272R7WaDdI1Wol1PHgAwIZ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB) | 2:59 |
 | 22 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
 | 23 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 |
-| 24 | [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 |
-| 25 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
+| 24 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
+| 25 | [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 |
 | 26 | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [My Own \(feat\. Blaqbonez\)](https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV) | 3:00 |
 | 27 | [Olufunmi](https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB) | 5:20 |
 | 28 | [Love and Trust](https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Trust](https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ) | 2:45 |
-| 29 | [DND](https://open.spotify.com/track/0BVVrZ3UL7b3VU3jE234fr) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [DND](https://open.spotify.com/album/0WENkwbQAil9puByD0fKZd) | 2:48 |
+| 29 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
 | 30 | [Why?](https://open.spotify.com/track/0znm2JL9roSYKV6e4CUo87) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Why?](https://open.spotify.com/album/0fgWT4cXG1JsVF9suHlU0M) | 3:04 |
-| 31 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
+| 31 | [DND](https://open.spotify.com/track/0BVVrZ3UL7b3VU3jE234fr) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [DND](https://open.spotify.com/album/0WENkwbQAil9puByD0fKZd) | 2:48 |
 | 32 | [Gone Back](https://open.spotify.com/track/1SfzUZfk6wiNqJNWv0dz9u) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Gone Back](https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo) | 2:36 |
 | 33 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 |
 | 34 | [I'm Done](https://open.spotify.com/track/7qp9S0FfyfCuFHV8MD9pQ6) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [I'm Done + Powerful](https://open.spotify.com/album/20yFqfgE1cJCC7QTCEXtp3) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 |
 | 50 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
 
-Snapshot ID: `MCw0ZWJmYzllYWY4YjhjY2Q4ZTg0YmFjMzNhYmY2NjlmMzdjZTU0NGU2`
+Snapshot ID: `MCwyZGM1ODUwMDgyMzZjZmU5ZWZhNGYyY2MyY2IyMzA4MTc0MTI4NjUy`

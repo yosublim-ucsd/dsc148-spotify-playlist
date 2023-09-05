@@ -4,13 +4,14 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-321 songs - 23 hr 19 min
+322 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10000次](https://open.spotify.com/track/12mxdNpFoPPxAgIGx1xvY2) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [10000次](https://open.spotify.com/album/3knWnYquq3F0HQZaNnmwhy) | 3:55 | 2022-08-08 | 2022-08-26 |
 | [As Far As I Can Go By Missing You \- Ending theme song of "Endless Love"](https://open.spotify.com/track/2IAaZAj9nwEgvMCpV4GcGa) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [As Far As I Can Go By Missing You \(Ending theme song of "Endless Love"\)](https://open.spotify.com/album/3XsuB5NPeWvyfAI9B42Ub1) | 4:29 | 2022-06-06 | 2022-07-16 |
 | [Beautiful For Whom \- "The Little Nyonya" Opening Theme Song](https://open.spotify.com/track/6c0EmxRJ58IcR4LQZSLLhP) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [Beautiful For Whom \("The Little Nyonya" Opening Theme Song\)](https://open.spotify.com/album/4VL0iAv3ur1NZXD7XlIGjt) | 4:38 | 2022-06-20 | 2022-07-20 |
+| [BREAKDOWN](https://open.spotify.com/track/5W6r62U28WQKeAH83sM2y5) | [耿斯漢](https://open.spotify.com/artist/5jkvZWwbf42TNt1kFnGSce) | [BREAKDOWN](https://open.spotify.com/album/4avodBPK5QwdNztAzxko0S) | 3:50 | 2023-09-04 |  |
 | [diminished](https://open.spotify.com/track/1rs16sDxwrpRetsZd1PCwe) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [diminished](https://open.spotify.com/album/3hDI8XUZf45xWzAMM38d4r) | 3:54 | 2023-07-10 | 2023-07-18 |
 | [Don’t Blow Away](https://open.spotify.com/track/5ZG1HDy7TYzQFUGQ9wQvs2) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Don’t Blow Away](https://open.spotify.com/album/2HLOi336hZEySin334MKne) | 4:19 | 2022-06-06 | 2022-07-17 |
 | [Feel Wronged ?](https://open.spotify.com/track/0zcLffyaoRviYLL0L0F7Ej) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [Feel Wronged ?](https://open.spotify.com/album/5Pab7v1HR3rqyr2lQRaQaO) | 4:32 | 2022-06-06 | 2022-07-17 |
@@ -282,7 +283,7 @@
 | [藍](https://open.spotify.com/track/1zFoPezkmIfR4TkKSNoxan) | [石白其](https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh) | [藍](https://open.spotify.com/album/0uxGHy0GFJxGbldtRc1cxO) | 4:31 | 2022-06-20 | 2022-07-09 |
 | [藍眼睛\(魚版\)](https://open.spotify.com/track/250KNabCJYzCWMMQ9RfukP) | [魚丁糸](https://open.spotify.com/artist/4TGQEYGf6Pu4tpMNGQ4tOR) | [陪我歌唱\(魚版\)](https://open.spotify.com/album/6SjHa52w5vzfMS9Zg3TMO9) | 3:49 | 2023-02-21 | 2023-03-21 |
 | [藍色天空](https://open.spotify.com/track/2bY4nahVZwOulPuVf2pn2a) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [藍色天空](https://open.spotify.com/album/0gHfuFj9p6E7xogNy98T23) | 4:03 | 2022-06-06 | 2022-07-28 |
-| [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-06-06 |  |
+| [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-06-06 | 2023-09-05 |
 | [蜂鳥 \(電視劇《我在北京等你》片頭曲\)](https://open.spotify.com/track/6KjSRihg1U0Fn4kzrEuZb4) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [蜂鳥 \(電視劇《我在北京等你》片頭曲\)](https://open.spotify.com/album/5Mwt6x1fIXxndSnsoEIyH1) | 3:45 | 2022-06-13 | 2022-06-23 |
 | [行走的魚](https://open.spotify.com/track/1hM4pPeGTcH3yJImQPFrXt) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [行走的魚](https://open.spotify.com/album/5jdjB6M5n2JbbjUPYCEtlD) | 4:05 | 2022-09-19 | 2023-03-07 |
 | [裹著心的光](https://open.spotify.com/track/4qasQt2JsuBK8ZwERwuAZO) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO) | 4:33 | 2022-06-06 | 2023-01-02 |

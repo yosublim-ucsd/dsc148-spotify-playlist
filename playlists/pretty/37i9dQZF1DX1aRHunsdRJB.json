@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 9934,
+  "num_followers": 9938,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
+  "snapshot_id": "MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Tic It & Tac It",
         "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 139000,
       "name": "Split in De Middle",
       "url": "https://open.spotify.com/track/5jorKk3TjGkG4gX44l8I4i"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Pop's Guitar Riddim",
         "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
       },
@@ -511,22 +495,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Caution Riddim",
-        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
-      },
-      "artists": [
-        {
-          "name": "Nadia Batson",
-          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "Fattt",
-      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Stage Gone Bad",
         "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
       },
@@ -543,6 +511,38 @@
       "duration_ms": 193893,
       "name": "Stage Gone Bad",
       "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Caution Riddim",
+        "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "Fattt",
+      "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -723,6 +723,30 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Conch Shell",
+        "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 192198,
+      "name": "Conch Shell",
+      "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Knock About Riddim",
         "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 166153,
       "name": "Wrong Again",
       "url": "https://open.spotify.com/track/3TVWXE8hUeSzoAC3xCrErX"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Conch Shell",
-        "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 192198,
-      "name": "Conch Shell",
-      "url": "https://open.spotify.com/track/6NVR4oBAlPuuvpsYSZcyJF"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -915,38 +915,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Saga Boy",
-        "url": "https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 230341,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/2uoIP6BmQxHIXWT2CFAUFO"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
-      },
-      "artists": [
-        {
-          "name": "Daddy1",
-          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
-        }
-      ],
-      "duration_ms": 175216,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bend Yuh Back",
         "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
       },
@@ -971,18 +939,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
+        "name": "Saga Boy",
+        "url": "https://open.spotify.com/album/1ijwvFIx4XKoJP5EXsTxXM"
       },
       "artists": [
         {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
         }
       ],
-      "duration_ms": 146681,
-      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
-      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
+      "duration_ms": 230341,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/2uoIP6BmQxHIXWT2CFAUFO"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -999,6 +967,38 @@
       "duration_ms": 190560,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+        "url": "https://open.spotify.com/album/4PHvt5nQcyhapIxtD9rcT7"
+      },
+      "artists": [
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        }
+      ],
+      "duration_ms": 146681,
+      "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
+      "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/41tNtvYCo0VIQfhHKQ2YMI"
+      },
+      "artists": [
+        {
+          "name": "Daddy1",
+          "url": "https://open.spotify.com/artist/1KgNeTwbXBsI13ic0uGxNi"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/04OXihLP8tDSa1KnaeTcwK"
     },
     {
       "added_at": "2022-02-24 18:00:00",

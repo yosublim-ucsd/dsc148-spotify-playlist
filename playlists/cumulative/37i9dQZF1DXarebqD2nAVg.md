@@ -4,7 +4,7 @@
 
 > Raw, sentimental feels.
 
-113 songs - 4 hr 28 min
+114 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Blue](https://open.spotify.com/track/5jZeQRVMRWsSSYnp8tgrsq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/51EKtNFncEaNE3TCUR6m5i) | 2:03 | 2019-03-27 | 2023-02-17 |
 | [Blue \(feat\. Drwn.\)](https://open.spotify.com/track/4RIu43eVxjbWuUhNwTUxwb) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/67fCjPsA2tdDb7YcpMYynn) | 2:03 | 2019-03-27 | 2022-07-29 |
 | [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/3GpuZPoVK9DCPbiAkKFZxo) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/4swK4A1568ZddoKFzTIW8Z) | 2:34 | 2019-03-27 | 2022-07-29 |
-| [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 | 2019-03-27 |  |
+| [But of All We Did Together, Was It Worth It?](https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Prelude to the Dawn](https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS) | 2:34 | 2019-03-27 | 2023-09-05 |
 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 | 2023-02-16 |  |
 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2023-02-16 |  |
 | [can't tell](https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La) | [loftii](https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB), [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [leaving us](https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC) | 2:49 | 2019-03-27 |  |
@@ -79,6 +79,7 @@
 | [memories of u](https://open.spotify.com/track/3QgbKONVmy2RYxAgGtrayH) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/4f8t7hfrfpgvjjQEWi0kKL) | 1:56 | 2019-03-27 | 2022-07-29 |
 | [memories of u](https://open.spotify.com/track/64VWsh5helyoWopibmzXmf) | [drrreems](https://open.spotify.com/artist/5JaZBeFp8gpQZVR20WYQhc) | [memories of u](https://open.spotify.com/album/6rI3ZkZYNY8Sn2l0HL06c9) | 1:56 | 2019-03-27 | 2023-02-17 |
 | [memories of you](https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:36 | 2023-02-16 | 2023-08-12 |
+| [MEMORIES OF YOU](https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI) | [Formalite](https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw), [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx) | [LIGHTER](https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4) | 1:36 | 2023-02-16 |  |
 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 | 2023-02-16 |  |
 | [No I'm Not](https://open.spotify.com/track/2QE6nuYctAHddZOupghtms) | [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [No I'm Not](https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh) | 1:57 | 2019-03-27 |  |
 | [No More](https://open.spotify.com/track/7cp4RhTjLWv4XEyeJLcbrp) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [No More](https://open.spotify.com/album/6cRPoaVpeyxtkM6IvZqwut) | 3:10 | 2019-03-27 | 2023-02-17 |

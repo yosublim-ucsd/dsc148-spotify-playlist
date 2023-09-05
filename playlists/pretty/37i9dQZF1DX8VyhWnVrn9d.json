@@ -1,12 +1,12 @@
 {
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
-  "num_followers": 205808,
+  "num_followers": 205976,
   "original_name": "Quebradita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmRkYWFjYWViMDVkMTdmOWUzZjNiN2JiNjM2NTdmMmY4OGQ2MDhm",
+  "snapshot_id": "MCwxN2EyNTBiZDMwNzI2OWVjNGY5ZGRjYTMyN2RjMjM2YjEwMGU5OTc0",
   "tracks": [
     {
       "added_at": "2023-06-19 22:57:24",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
         "name": "25 Bandazos de Machos (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 216013,
       "name": "El Baile del Sacadito",
       "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "La Estrella de Los Bailes",
-        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "El Teterete",
-      "url": "https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "Caliente, Caliente",
         "url": "https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR"
       },
@@ -311,70 +295,6 @@
       "duration_ms": 194640,
       "name": "Caliente Caliente",
       "url": "https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "Pachuco bailarin (estudio)",
-        "url": "https://open.spotify.com/album/1XZNp44DXXgYyNrpEtLQlI"
-      },
-      "artists": [
-        {
-          "name": "Banda Viento Negro",
-          "url": "https://open.spotify.com/artist/2RNCiH9bq62zDdOzQ5u5qC"
-        }
-      ],
-      "duration_ms": 192444,
-      "name": "Pachuco bailarin - estudio",
-      "url": "https://open.spotify.com/track/3ssxIzFxCXW5MueWU1Qz9U"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "Las 20 Poderosas (USA)",
-        "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "La suegra",
-      "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 187768,
-      "name": "La Danza del Coyote",
-      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "Panfilita",
-        "url": "https://open.spotify.com/album/2Sm9fHLHxTmnBegRtO9U6I"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "La Talega Del Caf\u00e9",
-      "url": "https://open.spotify.com/track/3Zpz5sWTBmuVHFkzZ5RDnB"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -395,6 +315,54 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
+        "name": "Pachuco bailarin (estudio)",
+        "url": "https://open.spotify.com/album/1XZNp44DXXgYyNrpEtLQlI"
+      },
+      "artists": [
+        {
+          "name": "Banda Viento Negro",
+          "url": "https://open.spotify.com/artist/2RNCiH9bq62zDdOzQ5u5qC"
+        }
+      ],
+      "duration_ms": 192444,
+      "name": "Pachuco bailarin - estudio",
+      "url": "https://open.spotify.com/track/3ssxIzFxCXW5MueWU1Qz9U"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/505QALTxkpzRI7FY4kuS2J"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Las 20 Poderosas (USA)",
+        "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "La suegra",
+      "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
         "name": "A Bailar... De Caballito!!",
         "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 214987,
       "name": "Mambo Lupita",
       "url": "https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Panfilita",
+        "url": "https://open.spotify.com/album/2Sm9fHLHxTmnBegRtO9U6I"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "La Talega Del Caf\u00e9",
+      "url": "https://open.spotify.com/track/3Zpz5sWTBmuVHFkzZ5RDnB"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 187768,
+      "name": "La Danza del Coyote",
+      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -443,18 +443,34 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Casimira",
-      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "El Bigote",
+      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -491,34 +507,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
       "artists": [
         {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 171826,
-      "name": "El Bigote",
-      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "Ahy Te Va Kora",
-        "url": "https://open.spotify.com/album/6uv5LHEjoT0mvY3AFJG52h"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 154413,
-      "name": "Chiquilla Cari\u00f1osa",
-      "url": "https://open.spotify.com/track/2iYIFcJsRJqve6j2YKJ91e"
+      "duration_ms": 172266,
+      "name": "Casimira",
+      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "Ahy Te Va Kora",
+        "url": "https://open.spotify.com/album/6uv5LHEjoT0mvY3AFJG52h"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
         }
       ],
-      "duration_ms": 208352,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
+      "duration_ms": 154413,
+      "name": "Chiquilla Cari\u00f1osa",
+      "url": "https://open.spotify.com/track/2iYIFcJsRJqve6j2YKJ91e"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "Infierno y Gloria",
         "url": "https://open.spotify.com/album/6aKMQkJLlw0IskUHAPCQmJ"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/65sJkvRkCMid2JRJIVHLdJ"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
         "name": "Mi Regreso Es Por Ti",
         "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 175600,
       "name": "Ritmo Chido",
       "url": "https://open.spotify.com/track/0bXznJ4BNcGaOxNig3LNV5"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "A Bailar Quebradita Y De Caballito",
+        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
+      },
+      "artists": [
+        {
+          "name": "Banda Guadalajara Express",
+          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
+        }
+      ],
+      "duration_ms": 158632,
+      "name": "Tri Triki Tri Traka",
+      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "A Bailar Quebradita Y De Caballito",
-        "url": "https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie"
-      },
-      "artists": [
-        {
-          "name": "Banda Guadalajara Express",
-          "url": "https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN"
-        }
-      ],
-      "duration_ms": 158632,
-      "name": "Tri Triki Tri Traka",
-      "url": "https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "Prov\u00f3came",
         "url": "https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 173560,
       "name": "El Baile Nuevo",
       "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 178506,
+      "name": "Mu\u00e9vete morena",
+      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -779,38 +795,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Gracias Mujer",
-        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 178506,
-      "name": "Mu\u00e9vete morena",
-      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "10 \u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/6sMOTcEnLdXpTPdHIVbKEc"
-      },
-      "artists": [
-        {
-          "name": "Vaquero's Musical",
-          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "El Torero Cotorro",
-      "url": "https://open.spotify.com/track/6Btr1VUmPoPsniS5uhaq2Z"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "Las 20 Poderosas (USA)",
         "url": "https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
+        "name": "10 \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/6sMOTcEnLdXpTPdHIVbKEc"
       },
       "artists": [
         {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+          "name": "Vaquero's Musical",
+          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
         }
       ],
-      "duration_ms": 124344,
-      "name": "Tabaco Mascao",
-      "url": "https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y"
+      "duration_ms": 172361,
+      "name": "El Torero Cotorro",
+      "url": "https://open.spotify.com/track/6Btr1VUmPoPsniS5uhaq2Z"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -875,34 +859,18 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "El Gato y Yo",
-        "url": "https://open.spotify.com/album/5ZmXWGOZmCIK1mcUC9IWKk"
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
       },
       "artists": [
         {
-          "name": "Super Banda Radar",
-          "url": "https://open.spotify.com/artist/1nSIbeSfS5HTPrYDiPza0e"
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 181413,
-      "name": "El Gato y Yo",
-      "url": "https://open.spotify.com/track/6iNAKM878gy83Y3ZuXYyyQ"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
-        "name": "Mix",
-        "url": "https://open.spotify.com/album/2lwgjkkbnWQmbzg00bZLbg"
-      },
-      "artists": [
-        {
-          "name": "Banda Zorro",
-          "url": "https://open.spotify.com/artist/1FG9tCJF0EMHFvCOMWxsZH"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Mi Linda Chiquilla",
-      "url": "https://open.spotify.com/track/4kPJomkWyQVzhYOsgiu0mZ"
+      "duration_ms": 124344,
+      "name": "Tabaco Mascao",
+      "url": "https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -935,6 +903,38 @@
       "duration_ms": 163874,
       "name": "El Caracol",
       "url": "https://open.spotify.com/track/6EhUL5fqcXGaOpZUnfQJHO"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "El Gato y Yo",
+        "url": "https://open.spotify.com/album/5ZmXWGOZmCIK1mcUC9IWKk"
+      },
+      "artists": [
+        {
+          "name": "Super Banda Radar",
+          "url": "https://open.spotify.com/artist/1nSIbeSfS5HTPrYDiPza0e"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "El Gato y Yo",
+      "url": "https://open.spotify.com/track/6iNAKM878gy83Y3ZuXYyyQ"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Mix",
+        "url": "https://open.spotify.com/album/2lwgjkkbnWQmbzg00bZLbg"
+      },
+      "artists": [
+        {
+          "name": "Banda Zorro",
+          "url": "https://open.spotify.com/artist/1FG9tCJF0EMHFvCOMWxsZH"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Mi Linda Chiquilla",
+      "url": "https://open.spotify.com/track/4kPJomkWyQVzhYOsgiu0mZ"
     },
     {
       "added_at": "2023-06-19 22:57:24",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-19 22:57:24",
       "album": {
-        "name": "Perro Aguayo",
-        "url": "https://open.spotify.com/album/4aTeaQhEGHLJlyITfgRLfo"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "Perro Aguayo",
-      "url": "https://open.spotify.com/track/4mEEkChNvfWdu3J7QE87OC"
-    },
-    {
-      "added_at": "2023-06-19 22:57:24",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 157920,
       "name": "Chingaracapunta",
       "url": "https://open.spotify.com/track/3Qz3F3S7y5iC8xcz3cn9of"
+    },
+    {
+      "added_at": "2023-06-19 22:57:24",
+      "album": {
+        "name": "Perro Aguayo",
+        "url": "https://open.spotify.com/album/4aTeaQhEGHLJlyITfgRLfo"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "Perro Aguayo",
+      "url": "https://open.spotify.com/track/4mEEkChNvfWdu3J7QE87OC"
     },
     {
       "added_at": "2023-06-19 22:57:24",

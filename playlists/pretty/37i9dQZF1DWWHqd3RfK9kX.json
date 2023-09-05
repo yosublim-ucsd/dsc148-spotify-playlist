@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22214,
+  "num_followers": 22225,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTlmZmExODNmYjQ0OGRiN2IxYThjNjU5OGM4ZTYxYjk4YzkyNDAz",
+  "snapshot_id": "MCwwNTI3NzUzMDg2Zjg5NDk5ODMwYTYwZmRkMmFhODE0NzAyYzQwNTBi",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -167,22 +167,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         },
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -235,22 +235,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
         },
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -303,6 +303,30 @@
       "duration_ms": 327866,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -371,30 +395,6 @@
       "duration_ms": 217604,
       "name": "R\u00e9u Confesso",
       "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Por Causa De Voc\u00ea, Menina",
-      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
         "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 219093,
       "name": "Saudade Vem Correndo",
       "url": "https://open.spotify.com/track/3QxAadrRx8aSEVd6Qzr8KF"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Por Causa De Voc\u00ea, Menina",
+      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 312120,
-      "name": "Guajira guantanamera",
-      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 259480,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 312120,
+      "name": "Guajira guantanamera",
+      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Intensified",
+        "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        },
+        {
+          "name": "ACES",
+          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+        }
+      ],
+      "duration_ms": 153663,
+      "name": "(Poor Mi) Israelites",
+      "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Elegance: The Birth Of The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 216893,
       "name": "Una De Mambo",
       "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Intensified",
-        "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        },
-        {
-          "name": "ACES",
-          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
-        }
-      ],
-      "duration_ms": 153663,
-      "name": "(Poor Mi) Israelites",
-      "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Bonfa Burrows Brazil",
-        "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
-      },
-      "artists": [
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "The Shade of the Mango Tree",
-      "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Achados e Perdidos",
         "url": "https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 259040,
       "name": "Vem Menina",
       "url": "https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Bonfa Burrows Brazil",
+        "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 234200,
+      "name": "The Shade of the Mango Tree",
+      "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
     }
   ],
   "unique_name": "Musica per Cucinare",

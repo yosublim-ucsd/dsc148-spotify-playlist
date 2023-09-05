@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 563602,
+  "num_followers": 563928,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY0YjFiMDUxNjdhOTkzOTk0MDg1MDEwOTNiMjQyYzhlNDRiODVl",
+  "snapshot_id": "MCwzMDA5MDYxNjc0ZWQ5ZjBiZTE2MzI0NDVhYjhjZjY4ZDA2MDIxMDE0",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Can't Do Better",
-        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "Can't Do Better",
-      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 241920,
       "name": "Knowing Me, Knowing You",
       "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "I'm Not Dead Yet",
-        "url": "https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 178852,
-      "name": "I'm Not Dead Yet",
-      "url": "https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Not Sad Anymore",
         "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 195563,
       "name": "Not Sad Anymore",
       "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "I'm Not Dead Yet",
+        "url": "https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 178852,
+      "name": "I'm Not Dead Yet",
+      "url": "https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN"
     },
     {
       "added_at": "2023-08-04 04:00:00",

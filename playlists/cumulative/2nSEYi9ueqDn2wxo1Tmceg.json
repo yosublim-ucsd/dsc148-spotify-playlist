@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Blue Marbled Elm Trees",
+        "url": "https://open.spotify.com/album/6wF2Wg85euCwati0jG8Svm"
+      },
+      "artists": [
+        {
+          "name": "King Creosote",
+          "url": "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303386,
+      "name": "Blue Marbled Elm Trees",
+      "url": "https://open.spotify.com/track/5DeuSsOtWl6vEnepxzrAJ6"
+    },
+    {
+      "album": {
         "name": "Blue Over Blue",
         "url": "https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7"
       },

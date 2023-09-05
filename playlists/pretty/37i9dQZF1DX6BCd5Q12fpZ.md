@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,511 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,516 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 35 | [Hold Me Closer \- Eurovision Version](https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer \(Eurovision Version\)](https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq) | 3:00 |
 | 36 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |
 | 37 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 |
-| 38 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
-| 39 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
+| 38 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 |
+| 39 | [La La Love](https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [La La Love](https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07) | 3:02 |
 | 40 | [Always \- Single Version](https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z) | [Aysel](https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG) | [Always](https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC) | 2:54 |
 | 41 | [La det swinge](https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [Bobbysocks / Let It Swing \- The Best Of Bobbysocks](https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T) | 2:56 |
 | 42 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 64 | [Playing with Fire](https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK) | [Ovi](https://open.spotify.com/artist/5bqiKYMVjdZjRxDojk5WXs), [Paula Seling](https://open.spotify.com/artist/0GeZRE8dyvgduV3KTvLFC3) | [This Gig Almost Got Me Killed](https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K) | 3:02 |
 | 65 | [My Star \- Original](https://open.spotify.com/track/0O0Xpnn4O9bKIgZv9ITqk1) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [My Star](https://open.spotify.com/album/7jsIyIJQJAQNwjPS01ERcK) | 3:04 |
 | 66 | [Occidentali's Karma \- Eurovision Version](https://open.spotify.com/track/4dd6dCTW5epqioOWCAwd3W) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Occidentali's Karma \(Eurovision Version\)](https://open.spotify.com/album/6427uJOkrOWP7pTF1PmkEr) | 3:03 |
-| 67 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
-| 68 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
+| 67 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
+| 68 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 | 69 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
 | 70 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
 | 71 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Is It True?](https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH) | [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [100 íslensk í ferðalagið](https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ) | 3:00 |
 | 75 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 
-Snapshot ID: `MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4`
+Snapshot ID: `MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4`

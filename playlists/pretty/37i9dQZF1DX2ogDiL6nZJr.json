@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 641409,
+  "num_followers": 641764,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTY4MjRlNjZmY2Q2ZTU5ZTczM2U1YjQyMzdkOWY5ZDIxNGI2NDBk",
+  "snapshot_id": "MCwxMTFjNmEyY2ZiODQ4YmIxOTZmN2RiYzI3YWRlMzllZjcyYTU2MDI5",
   "tracks": [
     {
       "added_at": "2023-08-10 22:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -331,38 +347,6 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 295454,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -395,6 +379,22 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 295454,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Blurred",
-        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        }
-      ],
-      "duration_ms": 305546,
-      "name": "Blurred",
-      "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "ready now",
         "url": "https://open.spotify.com/album/3UimgkGAY5asGDoRqwKbz3"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 176567,
       "name": "ready now",
       "url": "https://open.spotify.com/track/1hH8pM8m5vPOFqNkZdqfZd"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+        }
+      ],
+      "duration_ms": 305546,
+      "name": "Blurred",
+      "url": "https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "One Evening",
-      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Tomb",
         "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 216506,
+      "name": "One Evening",
+      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "A Lingering Love",
-      "url": "https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 216560,
+      "name": "A Lingering Love",
+      "url": "https://open.spotify.com/track/1vX5qdTsxb0Gedzmyc8UV2"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "My Grandma Says We Have No Future",
-        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "My Grandma Says We Have No Future",
-      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
+        "name": "My Grandma Says We Have No Future",
+        "url": "https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "My Grandma Says We Have No Future",
+      "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
         "name": "Permanent Way",
         "url": "https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 200466,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Same Kind of People",
+        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
+      },
+      "artists": [
+        {
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+        }
+      ],
+      "duration_ms": 242546,
+      "name": "Same Kind of People",
+      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Same Kind of People",
-        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
+        "name": "Ocean Wide",
+        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
       },
       "artists": [
         {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
         }
       ],
-      "duration_ms": 242546,
-      "name": "Same Kind of People",
-      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
+      "duration_ms": 184515,
+      "name": "Ocean Wide",
+      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 228253,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
-        "name": "Ocean Wide",
-        "url": "https://open.spotify.com/album/1ylpeCtsgRh9ItyqKaFS8R"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 184515,
-      "name": "Ocean Wide",
-      "url": "https://open.spotify.com/track/2hgDSie2rW8awrpXGvbGly"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Black & Thunder",
-        "url": "https://open.spotify.com/album/5KyfBZXbi33Sl7Zn426t8L"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Black & Thunder",
-      "url": "https://open.spotify.com/track/67o1YjulbnuP5zSAuCKuFN"
-    },
-    {
-      "added_at": "2023-08-10 22:00:00",
-      "album": {
         "name": "Old Bone / Trust No Man",
         "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
+        "name": "Cabriolet",
+        "url": "https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh"
       },
       "artists": [
         {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
         }
       ],
-      "duration_ms": 255970,
-      "name": "Riverbank",
-      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
+      "duration_ms": 242831,
+      "name": "Cabriolet",
+      "url": "https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-08-10 22:00:00",
       "album": {
-        "name": "Cabriolet",
-        "url": "https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
       },
       "artists": [
         {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
         }
       ],
-      "duration_ms": 242831,
-      "name": "Cabriolet",
-      "url": "https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO"
+      "duration_ms": 255970,
+      "name": "Riverbank",
+      "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
     },
     {
       "added_at": "2023-08-10 22:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 219442,
       "name": "Our New World - with Kyson",
       "url": "https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW"
+    },
+    {
+      "added_at": "2023-08-10 22:00:00",
+      "album": {
+        "name": "Cartoon People",
+        "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 213539,
+      "name": "Cartoon People",
+      "url": "https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4"
     }
   ],
   "unique_name": "Van Life",

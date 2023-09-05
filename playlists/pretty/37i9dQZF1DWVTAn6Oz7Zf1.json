@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 167323,
+  "num_followers": 167335,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTlkMzdkZjdlMWRiNDgxODNmYTUwYzMxMTFhYmI5OWE4YmZhMTE2",
+  "snapshot_id": "MCw1ZDZkOTAwZWU1MmRiNDVkZjMzMTBkOWI0OGQ5ODM1MDAyMmZkZmU1",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -367,22 +367,26 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Still Sleepless",
-        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
         },
         {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 162879,
-      "name": "Still Sleepless",
-      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
+      "duration_ms": 233386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -411,26 +415,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
+        "name": "Still Sleepless",
+        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
         },
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
         }
       ],
-      "duration_ms": 233386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+      "duration_ms": 162879,
+      "name": "Still Sleepless",
+      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
+        "name": "Physical",
+        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
       },
       "artists": [
         {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -971,18 +971,38 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Physical",
-        "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
+        "name": "You for Me",
+        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
+      "duration_ms": 175435,
+      "name": "You for Me",
+      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1043,26 +1063,6 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "You for Me",
-        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 175435,
-      "name": "You for Me",
-      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Funny",
+        "url": "https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 221465,
+      "name": "Funny",
+      "url": "https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Perfect Melody",
-        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 159850,
-      "name": "Perfect Melody",
-      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Buzzing",
         "url": "https://open.spotify.com/album/1P6cgLWkMDEFw48KvYwRxY"
       },
@@ -1211,26 +1211,6 @@
       "duration_ms": 219285,
       "name": "Buzzing",
       "url": "https://open.spotify.com/track/1bFb1ae64GD6ZR68tiuFFf"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Funny",
-        "url": "https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 221465,
-      "name": "Funny",
-      "url": "https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1251,6 +1231,26 @@
       "duration_ms": 170184,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Perfect Melody",
+        "url": "https://open.spotify.com/album/5dnpfIyc6hbO2HO5bIaj6L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 159850,
+      "name": "Perfect Melody",
+      "url": "https://open.spotify.com/track/17XwUcwd6SmoypiA3tIwHH"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Blue Monday (feat. JD Davis)",
-        "url": "https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        },
-        {
-          "name": "JD Davis",
-          "url": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Blue Monday (feat. JD Davis)",
-      "url": "https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Music (Songs From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
       },
@@ -1455,30 +1431,6 @@
       "duration_ms": 177800,
       "name": "Floating Through Space",
       "url": "https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1527,6 +1479,30 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Blue Monday (feat. JD Davis)",
+        "url": "https://open.spotify.com/album/61mqIm6BImQCijUTwJg05t"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "JD Davis",
+          "url": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
+        }
+      ],
+      "duration_ms": 196939,
+      "name": "Blue Monday (feat. JD Davis)",
+      "url": "https://open.spotify.com/track/65jASlroO8NYkHNyE1KGFt"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "V I B R A T I O N",
         "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
       },
@@ -1563,6 +1539,30 @@
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
     },
     {
       "added_at": "2023-07-07 04:01:00",

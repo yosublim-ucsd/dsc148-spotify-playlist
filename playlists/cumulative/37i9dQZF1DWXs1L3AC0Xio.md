@@ -4,7 +4,7 @@
 
 > lighters up for these awesome rock ballads.
 
-156 songs - 10 hr 44 min
+157 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Blurry](https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/5DLx1IHDoyBHyjF4UggiSe) | 5:04 | 2022-07-22 |  |
 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 | 2021-06-03 |  |
 | [Break In](https://open.spotify.com/track/2ZqV1xehFhYryqzus2ksnj) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/60gO5vOhw3A34aZymQuwBR) | 4:45 | 2021-06-03 | 2022-07-29 |
-| [Break In](https://open.spotify.com/track/5Q7pjvFqm4Pk0voGgutt5G) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 4:45 | 2022-07-22 |  |
+| [Break In](https://open.spotify.com/track/5Q7pjvFqm4Pk0voGgutt5G) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 4:45 | 2022-07-22 | 2023-09-05 |
 | [Broken](https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Disclaimer II](https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi) | 4:18 | 2022-07-22 |  |
 | [Broken](https://open.spotify.com/track/7clkfcLfKBYZRXg0Wo9Vsc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Disclaimer II](https://open.spotify.com/album/24F033DfwAvs1SqmUSn4y8) | 4:18 | 2022-10-07 | 2022-11-14 |
 | [Broken](https://open.spotify.com/track/5lzXML8WVfoQeUvEVakaHx) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Seether: 2002\-2013](https://open.spotify.com/album/5xzZCLPg7UiMeaojIMDonl) | 4:18 | 2021-06-03 | 2022-07-29 |
@@ -59,6 +59,7 @@
 | [Give Me My Halo](https://open.spotify.com/track/281X9opVt0Cse1rdHuDP5Q) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Give Me My Halo](https://open.spotify.com/album/3ajpQLd9erwma3arU8Wlwg) | 3:36 | 2023-06-30 |  |
 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 | 2021-06-03 |  |
 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 | 2021-06-03 |  |
+| [Hear Me Now](https://open.spotify.com/track/5bINaNAghUCg4uHIsuDgjG) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Disobey](https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe) | 3:39 | 2023-06-30 |  |
 | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/track/51qppaTjmtD3fclww1e8W1) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/album/74tazqoF1ry3hGIhXZXKUt) | 3:39 | 2021-06-03 | 2023-01-21 |
 | [Hearts / Wires](https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Gore](https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n) | 5:20 | 2021-06-03 |  |
 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2021-06-03 |  |

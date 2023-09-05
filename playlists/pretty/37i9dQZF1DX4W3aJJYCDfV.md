@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Griff \(pictured\), Doja Cat, Royal Blood and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,803 likes - 115 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,860 likes - 115 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 114 | [Uncut Gems](https://open.spotify.com/track/6wfXFEikmlL1e7VJpOtwhu) | [Odd Numbers](https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6), [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Uncut Gems](https://open.spotify.com/album/1bdbYgjDWdQx23SW3b5ARY) | 2:57 |
 | 115 | [That's What Friends Are For](https://open.spotify.com/track/4M55dboflxpATMH0BSRgxr) | [Denise Van Outen](https://open.spotify.com/artist/0T17VKgopV3csTElVlDpXF), [Duncan James](https://open.spotify.com/artist/2m0JoCqbe2cnauFT4hEUfR) | [That's What Friends Are For](https://open.spotify.com/album/5fTB4EVCe8GJ99YuCbYgRz) | 4:28 |
 
-Snapshot ID: `MCxlMTUyOTk1NTkxYjhjZGEyODQxMmExODE5MzRmZTRhODFkMWE4Zjhk`
+Snapshot ID: `MCw4MGI3YTFkNTU1Y2Q1YzQ2N2I5NTIzNGIxZTBmNTcyNzU0ZDEwMjEz`

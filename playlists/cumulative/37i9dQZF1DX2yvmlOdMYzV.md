@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-498 songs - 1 day 3 hr 21 min
+499 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Fool](https://open.spotify.com/track/79AYVbuDWxdzXK59VsvT86) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Fool](https://open.spotify.com/album/7uDKo6sEqA737fGIw7iK3C) | 3:05 | 2021-12-15 | 2022-04-21 |
 | [Fool For You](https://open.spotify.com/track/0GGSPe4DC0qkKyFb9Erao5) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/6ptDNtROqkFn0kNvtMIIHz) | 3:14 | 2022-10-14 | 2023-04-29 |
 | [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 | 2021-12-15 | 2022-10-13 |
+| [For All Time](https://open.spotify.com/track/6yu2Ct50UiLis9MmNxDkUf) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4M9zZ6jbePYVMHKMcI4Mt7) | 3:02 | 2023-09-01 |  |
 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 | 2023-04-15 |
 | [For Sport](https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/7dJsh48oFzbFGsyjCrMUm4) | 2:26 | 2023-07-28 |  |
 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 | 2023-08-25 |  |
@@ -406,7 +407,7 @@
 | [So Good At Being in Trouble](https://open.spotify.com/track/5VarZFY00sO54HErJ3TPCI) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn) | 3:50 | 2021-12-15 | 2022-04-21 |
 | [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 3:19 | 2022-06-30 | 2022-09-03 |
 | [so into you](https://open.spotify.com/track/46FCQmvdSmTnYiPpLz1GA8) | [Flowervillain](https://open.spotify.com/artist/4wvOIqxZnMlkGJnpdhwLkx) | [so into you](https://open.spotify.com/album/5PwrwplonQuWvXzBJogCs3) | 3:43 | 2021-12-15 | 2022-02-12 |
-| [Sololove](https://open.spotify.com/track/4JlAMzLOeIjar8Nmk8c0xk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Sololove](https://open.spotify.com/album/4VfLmtBSMDyrBIs1AVRCl2) | 3:17 | 2023-04-07 |  |
+| [Sololove](https://open.spotify.com/track/4JlAMzLOeIjar8Nmk8c0xk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Sololove](https://open.spotify.com/album/4VfLmtBSMDyrBIs1AVRCl2) | 3:17 | 2023-04-07 | 2023-09-05 |
 | [Some](https://open.spotify.com/track/3XAFrOZbJYdMaHGP4qutqs) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/47DbvIExnHbqAhIuzBAO9W) | 3:00 | 2022-02-14 | 2022-04-07 |
 | [Somehow.](https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Yesterday's Tomorrow](https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u) | 3:50 | 2021-12-15 | 2023-05-13 |
 | [Something's Gotta Change](https://open.spotify.com/track/3yXdAGibihmvYZefyetN1S) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:49 | 2023-03-17 | 2023-03-25 |

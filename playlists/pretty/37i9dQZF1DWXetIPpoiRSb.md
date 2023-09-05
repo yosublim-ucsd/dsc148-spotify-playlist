@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,594 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,656 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 52 | [Over The Moon](https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4) | 2:41 |
 | 53 | [The Greatest](https://open.spotify.com/track/0p4aS6c0Yva2WYrKNQQCnK) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Greatest](https://open.spotify.com/album/4ZrTFJ486SKULQTaWAGfLm) | 5:16 |
 | 54 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 |
-| 55 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 |
+| 55 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 |
 | 56 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 |
 | 57 | [Little Girl Gone](https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Little Girl Gone](https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I) | 3:08 |
 | 58 | [Stop Thinking About It](https://open.spotify.com/track/6Pmg5MkcA6xc4tuUKGLgB6) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Stop Thinking About It](https://open.spotify.com/album/0FzcialvWMP9Tbf2G6voU2) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Love Somebody](https://open.spotify.com/track/3ZvOClU4FkMqWU5ACbotsZ) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Love Somebody](https://open.spotify.com/album/2J7tYKElXD3sH6iqJVsMzm) | 2:57 |
 | 80 | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB) | 3:43 |
 
-Snapshot ID: `MCw2MDE1M2FjODA0OTJmMGRkZGVjZTU3YzAxNDQ4YzYzYjAwYjE1MTUy`
+Snapshot ID: `MCxkMGJlMjEzYTc2MjY2ZjlhNmMwZDVkZjJjYTU1ODhmZTEwYjkzOWM0`

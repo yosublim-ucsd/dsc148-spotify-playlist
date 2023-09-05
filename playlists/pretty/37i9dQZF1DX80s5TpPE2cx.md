@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,371 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,393 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 79 | [Wishes And Butterflies](https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Wishes And Butterflies](https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW) | 1:24 |
 | 80 | [In The Night](https://open.spotify.com/track/5G6qUca8Er653hnwIE7Bwe) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [In The Night](https://open.spotify.com/album/15MaGSCTIq6lnBoz8QIdt8) | 2:47 |
 
-Snapshot ID: `MCw5NDY2MGEyMjFmZjg0YjZjNzkwOWNjMDU1NzQ2MmJkMTA0ZTljMmFm`
+Snapshot ID: `MCxkM2I2MjkyN2ZjZTNkZjBlYmIyNDk2ZjUzMmM0M2UzZDAwZmZjMmNi`

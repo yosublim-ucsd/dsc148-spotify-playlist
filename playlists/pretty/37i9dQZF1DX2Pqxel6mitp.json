@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 64535,
+  "num_followers": 64601,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWFlYzVhMWZmODRjZTI4YzQ4OWE4YTFlMTIyMTg0OWY1YWQ3ZWRi",
+  "snapshot_id": "MCw3ODEyNWM0NzdjYmRkOTViYWM0MWJlMjNiYThlNWRjNDRiMGU1NmU3",
   "tracks": [
     {
       "added_at": "2023-08-23 10:42:12",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Harlem Street Singer",
-        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Death Don't Have No Mercy",
-      "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Hoodoo",
         "url": "https://open.spotify.com/album/35Azg941BSNx3sGxo7C1yJ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 268946,
       "name": "Who You Gonna Hoodoo Now?",
       "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Death Don't Have No Mercy",
+      "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Yonder Wall",
-      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Scoundrel",
         "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+      "duration_ms": 202266,
+      "name": "Yonder Wall",
+      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -615,6 +599,22 @@
       "duration_ms": 175293,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+        "name": "How Many Miles",
+        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Bo Ramsey",
+          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
+        },
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 289786,
-      "name": "Black Horizon",
-      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
+      "duration_ms": 238533,
+      "name": "Wounded Dog",
+      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1219,6 +1223,22 @@
       "duration_ms": 360480,
       "name": "Blue River Rising",
       "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "Black Horizon",
+      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "How Many Miles",
-        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
-      },
-      "artists": [
-        {
-          "name": "Bo Ramsey",
-          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
-        },
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Wounded Dog",
-      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Great God Almighty (Demo, Summer 2018)",
         "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Blues & Gospel (Rare & Unreleased Recordings)",
         "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 216186,
       "name": "Someday Baby Blues",
       "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "The Future Ain't What It Used to Be",
+        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "The Future Ain't What It Used to Be",
+      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "The Road to Liberty, Pt. 1",
-        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
-      },
-      "artists": [
-        {
-          "name": "Mark Harrison",
-          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Passing Through",
-      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Keep on Lovin You (feat. Billy Branch)",
         "url": "https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 315842,
       "name": "Keep on Lovin You (feat. Billy Branch)",
       "url": "https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "The Road to Liberty, Pt. 1",
+        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
+      },
+      "artists": [
+        {
+          "name": "Mark Harrison",
+          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Passing Through",
+      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Dance In The Fire",
-      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Candy Man Blues: Essential Recordings",
         "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
       },
@@ -1715,18 +1699,34 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
       "artists": [
         {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
         }
       ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
+      "duration_ms": 231373,
+      "name": "Dance In The Fire",
+      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Mystery Man",
+        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+      },
+      "artists": [
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "duration_ms": 291295,
+      "name": "T.B. Blues",
+      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Mystery Man",
-        "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
       },
       "artists": [
         {
-          "name": "Leon Redbone",
-          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
         }
       ],
-      "duration_ms": 291295,
-      "name": "T.B. Blues",
-      "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
         "name": "Traveling Medicine Man",
         "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 241946,
       "name": "If You Go",
       "url": "https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
     },
     {
       "added_at": "2023-08-23 10:42:12",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-08-23 10:42:12",
       "album": {
-        "name": "Today!",
-        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Louis Collins",
-      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
-    },
-    {
-      "added_at": "2023-08-23 10:42:12",
-      "album": {
         "name": "Empire State Express",
         "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 159360,
       "name": "Blues Chase up a Rabbit",
       "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+    },
+    {
+      "added_at": "2023-08-23 10:42:12",
+      "album": {
+        "name": "Today!",
+        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Louis Collins",
+      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
     },
     {
       "added_at": "2023-08-23 10:42:12",

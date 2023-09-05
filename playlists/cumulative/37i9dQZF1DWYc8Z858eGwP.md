@@ -2,7 +2,7 @@
 
 ### [RADAR Africa](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=HOFOxELGRXucmtRYYaKkyg">Tyla</a>
+> The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=TsPl\_IGsTC2XAFMxDMOzfQ">Xenia Manasseh</a>
 
 240 songs - 12 hr 51 min
 

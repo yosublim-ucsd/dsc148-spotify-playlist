@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 119993,
+  "num_followers": 120193,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2ZhNjE3ZDlhOGVjNTcyYzQyNzdjN2JlMWI4YjU4MTc1ODhiNTJk",
+  "snapshot_id": "MCw2YmIxYTE3NzVlNzAwMGNiNzU5ZjhmMGQ4ZmY2ZDE0YTk4YWVhNzc3",
   "tracks": [
     {
       "added_at": "2023-09-01 05:58:33",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
+        "name": "Se Eu Cair",
+        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 335597,
+      "name": "Se Eu Cair",
+      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
         "name": "comigo",
         "url": "https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 293018,
       "name": "comigo",
       "url": "https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Se Eu Cair",
-        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 335597,
-      "name": "Se Eu Cair",
-      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
         "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
         "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
       },
@@ -295,18 +311,34 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+        "name": "C\u00e2nticos I",
+        "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
       },
       "artists": [
         {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+      "duration_ms": 266653,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Rotina",
+        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
+      },
+      "artists": [
+        {
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+        }
+      ],
+      "duration_ms": 273994,
+      "name": "N\u00e3o Te Abandono",
+      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -327,18 +359,34 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "C\u00e2nticos I",
-        "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
+        "name": "N\u00e3o Sou T\u00e3o Forte",
+        "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 266653,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
+      "duration_ms": 235309,
+      "name": "Botas Velhas",
+      "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "S\u00f3 Tenho a Ti",
+        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 153717,
+      "name": "S\u00f3 Tenho a Ti",
+      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -367,70 +415,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "S\u00f3 Tenho a Ti",
-        "url": "https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 153717,
-      "name": "S\u00f3 Tenho a Ti",
-      "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Rotina",
-        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
-      },
-      "artists": [
-        {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
-        }
-      ],
-      "duration_ms": 273994,
-      "name": "N\u00e3o Te Abandono",
-      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
-      },
-      "artists": [
-        {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "N\u00e3o Sou T\u00e3o Forte",
-        "url": "https://open.spotify.com/album/5WX3W1Ngb8WguxSkp2hWqv"
-      },
-      "artists": [
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 235309,
-      "name": "Botas Velhas",
-      "url": "https://open.spotify.com/track/2epzwYTWNv0KfGSiQs0com"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "Meu Repouso",
         "url": "https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 258749,
       "name": "Meu Repouso",
       "url": "https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "sentido",
-        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 289985,
-      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
-      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "Experimente a Jornada",
         "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 267972,
       "name": "Incrivelmente",
       "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "sentido",
+        "url": "https://open.spotify.com/album/4t1ekkA6FdPbdL7z7BzNRH"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 289985,
+      "name": "Deus sabe, Deus ouve, Deus v\u00ea",
+      "url": "https://open.spotify.com/track/2Me9phCz0A7Oartexu3GiU"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "S\u00f3 Penso Em Voc\u00ea (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1"
-      },
-      "artists": [
-        {
-          "name": "Mateus Brito",
-          "url": "https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN"
-        }
-      ],
-      "duration_ms": 360223,
-      "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "Mais Perto Quero Estar",
         "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 201282,
       "name": "Mais Perto Quero Estar",
       "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "S\u00f3 Penso Em Voc\u00ea (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1"
+      },
+      "artists": [
+        {
+          "name": "Mateus Brito",
+          "url": "https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN"
+        }
+      ],
+      "duration_ms": 360223,
+      "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
     },
     {
       "added_at": "2023-09-01 05:58:33",
@@ -895,42 +895,6 @@
     {
       "added_at": "2023-09-01 05:58:33",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
-        "name": "Estou Com Voc\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        }
-      ],
-      "duration_ms": 271154,
-      "name": "Estou Com Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
-    },
-    {
-      "added_at": "2023-09-01 05:58:33",
-      "album": {
         "name": "M\u00e3o No Arado",
         "url": "https://open.spotify.com/album/6RLHnVKEmEwjG2r5KRCIPx"
       },
@@ -999,6 +963,42 @@
       "duration_ms": 282932,
       "name": "Asas",
       "url": "https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+    },
+    {
+      "added_at": "2023-09-01 05:58:33",
+      "album": {
+        "name": "Estou Com Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        }
+      ],
+      "duration_ms": 271154,
+      "name": "Estou Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS"
     },
     {
       "added_at": "2023-09-01 05:58:33",

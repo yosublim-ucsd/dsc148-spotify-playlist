@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic techno and tech house.",
-  "num_followers": 470667,
+  "num_followers": 470870,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTRiNGNlNjFkNjRiN2JjMzUxODZmMjM5YmY4ZGIzZGU2ODI5NmJi",
+  "snapshot_id": "MCxiMWU0OWU3MjljMmU3ZmNkYTQ5ZjIxODhjNWY4Yzc3YWUxYzdhYmEx",
   "tracks": [
     {
       "added_at": "2023-09-01 17:06:35",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Unfold Voices EP",
         "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 391577,
       "name": "Unfold Me",
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -299,22 +299,6 @@
       "duration_ms": 267096,
       "name": "Finding Atlantis",
       "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -367,18 +351,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "The Duty",
-        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
       },
       "artists": [
         {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 194610,
-      "name": "The Duty",
-      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
+      "duration_ms": 230400,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -399,18 +383,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Proper Time",
-        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
+        "name": "The Duty",
+        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
       },
       "artists": [
         {
-          "name": "Vakabular",
-          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
         }
       ],
-      "duration_ms": 301935,
-      "name": "Proper Time",
-      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
+      "duration_ms": 194610,
+      "name": "The Duty",
+      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -427,22 +411,6 @@
       "duration_ms": 275409,
       "name": "Four Hills",
       "url": "https://open.spotify.com/track/1EKbKZKDy4mDOtOhnlzrJE"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -475,6 +443,38 @@
       "duration_ms": 226014,
       "name": "Owls - Edit",
       "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Proper Time",
+        "url": "https://open.spotify.com/album/4mVA6SPABNeIMk6ViEFNX9"
+      },
+      "artists": [
+        {
+          "name": "Vakabular",
+          "url": "https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Proper Time",
+      "url": "https://open.spotify.com/track/2AtRS5SrPg2I2qGKD8zEps"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Tarcu",
+        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 238537,
+      "name": "Tarcu",
+      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Boavista",
         "url": "https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 408003,
       "name": "Boavista - Innellea Remix",
       "url": "https://open.spotify.com/track/2H66zNHEqwFckqVfxeFxIa"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/1BlktEZMPc4KztTlS0E0zG"
-      },
-      "artists": [
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        }
-      ],
-      "duration_ms": 261463,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/3VYXaYVEA1fHvJPWSqNakj"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Solid",
         "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "K\u00fcnstlerische Freiheit II",
-        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1BlktEZMPc4KztTlS0E0zG"
       },
       "artists": [
         {
-          "name": "Annett Gapstream",
-          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
         }
       ],
-      "duration_ms": 397891,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
+      "duration_ms": 261463,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/3VYXaYVEA1fHvJPWSqNakj"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -743,6 +727,22 @@
       "duration_ms": 308081,
       "name": "Close to the Edge",
       "url": "https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "K\u00fcnstlerische Freiheit II",
+        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
+      },
+      "artists": [
+        {
+          "name": "Annett Gapstream",
+          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
+        }
+      ],
+      "duration_ms": 397891,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 413658,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
-        }
-      ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Traum EP",
         "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
       },
       "artists": [
         {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
         }
       ],
-      "duration_ms": 435238,
-      "name": "Housefly",
-      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1151,6 +1135,22 @@
       "duration_ms": 249120,
       "name": "Landing in Halifax",
       "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Spacemodulation",
-        "url": "https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D"
-      },
-      "artists": [
-        {
-          "name": "Flug 8",
-          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
-        }
-      ],
-      "duration_ms": 428160,
-      "name": "Spacemodulation",
-      "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
-    },
-    {
-      "added_at": "2023-09-01 17:06:35",
-      "album": {
         "name": "Sora",
         "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Seige",
-        "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
+        "name": "Spacemodulation",
+        "url": "https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D"
       },
       "artists": [
         {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+          "name": "Flug 8",
+          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
         }
       ],
-      "duration_ms": 433564,
-      "name": "Seige",
-      "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
+      "duration_ms": 428160,
+      "name": "Spacemodulation",
+      "url": "https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Fader",
-        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
+        "name": "Seige",
+        "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
       },
       "artists": [
         {
-          "name": "Casper Cole",
-          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
         }
       ],
-      "duration_ms": 373875,
-      "name": "Fader",
-      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
+      "duration_ms": 433564,
+      "name": "Seige",
+      "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "10 Years URSL - Reframed Future",
-        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/2vaJStR73O0tWNVWtCOJhh"
       },
       "artists": [
         {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+          "name": "Casper Cole",
+          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
         }
       ],
-      "duration_ms": 425437,
-      "name": "Reframed Future",
-      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+      "duration_ms": 373875,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/5XNjnlwv52paocSOip6SHx"
     },
     {
       "added_at": "2023-09-01 17:06:35",
@@ -1343,18 +1327,34 @@
     {
       "added_at": "2023-09-01 17:06:35",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+        "name": "Piano & Electronic Ensemble Op. 1",
+        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
       "artists": [
         {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+          "name": "Schlindwein",
+          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
         }
       ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+      "duration_ms": 375483,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
+    },
+    {
+      "added_at": "2023-09-01 17:06:35",
+      "album": {
+        "name": "10 Years URSL - Reframed Future",
+        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+      },
+      "artists": [
+        {
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+        }
+      ],
+      "duration_ms": 425437,
+      "name": "Reframed Future",
+      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
     }
   ],
   "unique_name": "Beats to think to",

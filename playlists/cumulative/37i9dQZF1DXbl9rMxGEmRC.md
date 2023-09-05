@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-498 songs - 1 day 18 hr 12 min
+499 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Neon Leviathan](https://open.spotify.com/track/76dWCqKHCJLSpN4xWlEGco) | [Horrendous](https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s) | [Ontological Mysterium](https://open.spotify.com/album/3ss5c9CfkPvTQeQutNcJEm) | 3:29 | 2023-08-18 |  |
 | [Neptune's Eye](https://open.spotify.com/track/7IhKe2RCCVWz52hXZoFy2v) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Disharmonium \- Undreamable Abysses](https://open.spotify.com/album/2E0VM3yGCaKSgd2CENiNbr) | 5:57 | 2022-05-20 | 2022-08-07 |
 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 | 2022-01-14 | 2022-07-29 |
-| [Newborn Skies](https://open.spotify.com/track/0B3UcAb86gHHzLmpP5q7en) | [On Thorns I Lay](https://open.spotify.com/artist/7bGopU168qloFmaY1OcSwv) | [Newborn Skies](https://open.spotify.com/album/5qTyqXuph0Q5vdq09skFhL) | 4:44 | 2023-09-01 |  |
+| [Newborn Skies](https://open.spotify.com/track/0B3UcAb86gHHzLmpP5q7en) | [On Thorns I Lay](https://open.spotify.com/artist/7bGopU168qloFmaY1OcSwv) | [Newborn Skies](https://open.spotify.com/album/5qTyqXuph0Q5vdq09skFhL) | 4:44 | 2023-09-01 | 2023-09-05 |
 | [Night](https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo), [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Mizmor](https://open.spotify.com/artist/655AEE6ifgDJ3TYkhHdP48) | [Night](https://open.spotify.com/album/7IwWlcYAosb728DUZnw9RO) | 4:01 | 2022-04-15 | 2022-10-28 |
 | [Night of the Blasphemy](https://open.spotify.com/track/0Du2TTeycur8h9H8WrEXmi) | [Behexen](https://open.spotify.com/artist/2A56suoU3YFYLIp7wHde6c) | [Rituale Satanum](https://open.spotify.com/album/2KzwNB2FmhPkZf9Iif5j0y) | 4:45 | 2022-07-13 | 2023-05-06 |
 | [Nightfall](https://open.spotify.com/track/0m6IB9pleRQPFmPxiwbAYn) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Nightfall](https://open.spotify.com/album/2hNLgB1zpWJV7jd45FYsqb) | 5:13 | 2022-02-11 | 2022-03-19 |
@@ -401,6 +401,7 @@
 | [Summoned for Sacrifice](https://open.spotify.com/track/0GLpbCjpeIhdVyPRJmV9h6) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Summoned for Sacrifice](https://open.spotify.com/album/3iDio1Sl1rBOOiSjTN70wr) | 4:05 | 2023-08-11 |  |
 | [Sunholy](https://open.spotify.com/track/0up8bZXZqgKg9TzlrSPOTR) | [Shade Empire](https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH) | [Sunholy](https://open.spotify.com/album/3wPqeHtegyMuh6LsNyTjJ9) | 6:57 | 2023-07-03 | 2023-07-15 |
 | [Svart Industriell Olycka](https://open.spotify.com/track/4eDKFcJDDoUcUYlK2cdemJ) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III : Angst](https://open.spotify.com/album/7EkBKDQY4vPdkoEiW0fFUv) | 8:05 | 2022-07-13 | 2022-07-29 |
+| [Svart Industriell Olycka](https://open.spotify.com/track/5xltwwuGP4FKjUQkEMtWxO) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III: Angst](https://open.spotify.com/album/0bmWUXx7WGseDggqGUFgTt) | 8:05 | 2023-09-01 |  |
 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 | 2023-02-11 |
 | [Swan Season](https://open.spotify.com/track/2hqNNF4viFvXsEd7sDozD6) | [Deadly Carnage](https://open.spotify.com/artist/6Smmabcnt0gxJ3PnXAFq1L) | [Swan Season](https://open.spotify.com/album/0qxGwkCxJYjfGRP2d0XsgZ) | 4:30 | 2023-07-21 | 2023-08-12 |
 | [Szex Witchery](https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Szex Witchery](https://open.spotify.com/album/4POysr62d7E2iOCLDHe5sS) | 3:59 | 2022-01-21 | 2022-02-11 |

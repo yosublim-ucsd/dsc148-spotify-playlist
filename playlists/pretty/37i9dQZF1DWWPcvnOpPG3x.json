@@ -1,12 +1,12 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 883166,
+  "num_followers": 884039,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU1NmNlNTJkM2RmZGQzMjgxMTI3OGNhNWRiZjU3N2U0MWI3YzI2",
+  "snapshot_id": "MCw1MDY5NjYyZTYwYWQ2Y2I3Y2QwYTc1OGRjMjAyNDc2Mjc3Y2I0MDMw",
   "tracks": [
     {
       "added_at": "2023-02-10 12:45:32",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 161506,
       "name": "The Next Episode",
       "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
       "added_at": "2023-05-17 13:30:04",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 363521,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -511,6 +527,30 @@
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2023-05-17 13:30:04",
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 253390,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -565,46 +605,6 @@
       "url": "https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP"
     },
     {
-      "added_at": "2023-05-17 13:30:04",
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 253390,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 363521,
-      "name": "Rap God",
-      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
-    },
-    {
       "added_at": "2023-01-03 14:49:24",
       "album": {
         "name": "Motley Crew",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
     {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
+    },
+    {
       "added_at": "2023-05-17 13:30:04",
       "album": {
         "name": "All About You",
@@ -659,110 +675,6 @@
       "duration_ms": 228453,
       "name": "Down On Me",
       "url": "https://open.spotify.com/track/0x3TibRgnSqzkcwrqBd4iX"
-    },
-    {
-      "added_at": "2023-05-17 13:30:04",
-      "album": {
-        "name": "679 (feat. Remy Boyz)",
-        "url": "https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        },
-        {
-          "name": "Remy Boyz",
-          "url": "https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "679 (feat. Remy Boyz)",
-      "url": "https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Whatever You Like",
-      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 164522,
-      "name": "Donald Trump",
-      "url": "https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ"
-    },
-    {
-      "added_at": "2023-05-17 13:30:04",
-      "album": {
-        "name": "Into Your Arms (feat. Ava Max)",
-        "url": "https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI"
-      },
-      "artists": [
-        {
-          "name": "Witt Lowry",
-          "url": "https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 186022,
-      "name": "Into Your Arms (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -799,6 +711,94 @@
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "added_at": "2023-05-17 13:30:04",
+      "album": {
+        "name": "679 (feat. Remy Boyz)",
+        "url": "https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "Remy Boyz",
+          "url": "https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "679 (feat. Remy Boyz)",
+      "url": "https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ"
+    },
+    {
+      "added_at": "2023-05-17 13:30:04",
+      "album": {
+        "name": "Into Your Arms (feat. Ava Max)",
+        "url": "https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI"
+      },
+      "artists": [
+        {
+          "name": "Witt Lowry",
+          "url": "https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 186022,
+      "name": "Into Your Arms (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 164522,
+      "name": "Donald Trump",
+      "url": "https://open.spotify.com/track/6Aa7aDayiQHnUw1dUvdneZ"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW"
+    },
+    {
+      "added_at": "2023-01-03 14:49:24",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -863,22 +863,22 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "The Rising Tied",
-        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
       },
       "artists": [
         {
-          "name": "Fort Minor",
-          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         },
         {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Remember the Name (feat. Styles of Beyond)",
-      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -903,18 +903,22 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH"
+        "name": "The Rising Tied",
+        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
       },
       "artists": [
         {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Fort Minor",
+          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Party Up",
-      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
+      "duration_ms": 230493,
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
     }
   ],
   "unique_name": "Run This Town",

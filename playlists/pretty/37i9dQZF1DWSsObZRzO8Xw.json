@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: Elephant Gym",
-  "num_followers": 144401,
+  "num_followers": 144568,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDM2NmFhM2MwOGU5YWI3ZTQzOWI2NThhZWQ1ZDYwZjk1OWViYmRl",
+  "snapshot_id": "MCw1OGJkNzgxMTc2ZDJkNjI5MDE4ZDVmZTk0OGY1ZGMwNmUwNWQxNDFj",
   "tracks": [
     {
       "added_at": "2023-08-29 04:07:33",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "For Long Tomorrow",
-        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
-      },
-      "artists": [
-        {
-          "name": "toe",
-          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "two moons",
-      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Young Mountain",
         "url": "https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5"
       },
@@ -211,18 +195,18 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Ten Billion People",
-        "url": "https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q"
+        "name": "For Long Tomorrow",
+        "url": "https://open.spotify.com/album/6li0rkNGD98cO8Gxf7nnSk"
       },
       "artists": [
         {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+          "name": "toe",
+          "url": "https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ"
         }
       ],
-      "duration_ms": 389333,
-      "name": "Ten Billion People",
-      "url": "https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW"
+      "duration_ms": 250253,
+      "name": "two moons",
+      "url": "https://open.spotify.com/track/6qcUFIPZU2sJXiI1sqzwZG"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -243,18 +227,18 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Caballeros del Albedr\u00edo",
-        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+        "name": "Ten Billion People",
+        "url": "https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q"
       },
       "artists": [
         {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 138400,
-      "name": "El Hombre P\u00e1nico",
-      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
+      "duration_ms": 389333,
+      "name": "Ten Billion People",
+      "url": "https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -275,22 +259,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
-      },
-      "artists": [
-        {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
-        }
-      ],
-      "duration_ms": 212016,
-      "name": "Chevalier Bulltoe",
-      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "potage",
         "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
       },
@@ -303,6 +271,38 @@
       "duration_ms": 246915,
       "name": "potage",
       "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Caballeros del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
+      },
+      "artists": [
+        {
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+        }
+      ],
+      "duration_ms": 212016,
+      "name": "Chevalier Bulltoe",
+      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Baboon",
+      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
         "name": "Intra Mental",
         "url": "https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 225514,
       "name": "Delaylay",
       "url": "https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
-        "name": "Fontana Bella",
-        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Shiva",
-      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3"
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
       },
       "artists": [
         {
-          "name": "TTNG",
-          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Baboon",
-      "url": "https://open.spotify.com/track/6gFhXzwUBpe6VIWsoF3DwG"
+      "duration_ms": 217826,
+      "name": "Shiva",
+      "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1"
-      },
-      "artists": [
-        {
-          "name": "standards",
-          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
-        }
-      ],
-      "duration_ms": 175057,
-      "name": "Pineapple",
-      "url": "https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "SIMILAR",
         "url": "https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 199886,
       "name": "KALA",
       "url": "https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1"
+      },
+      "artists": [
+        {
+          "name": "standards",
+          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
+        }
+      ],
+      "duration_ms": 175057,
+      "name": "Pineapple",
+      "url": "https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Valuables",
-        "url": "https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk"
-      },
-      "artists": [
-        {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "itsallwaves",
-      "url": "https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "If It Hadn't Ended Then, It Would've Ended Now (2023)",
         "url": "https://open.spotify.com/album/4Ft3QViqXzQtEi7pScuGg3"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 266000,
       "name": "If It Hadn't Ended Then, It Would've Ended Now - 2023",
       "url": "https://open.spotify.com/track/6VRllAKog8Hlnv4IG7iW1x"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Valuables",
+        "url": "https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk"
+      },
+      "artists": [
+        {
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "itsallwaves",
+      "url": "https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "M. Rueff",
-        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
-      },
-      "artists": [
-        {
-          "name": "Mylets",
-          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
-        }
-      ],
-      "duration_ms": 163412,
-      "name": "It's Not",
-      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "H/O",
         "url": "https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 455375,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "M. Rueff",
+        "url": "https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH"
+      },
+      "artists": [
+        {
+          "name": "Mylets",
+          "url": "https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR"
+        }
+      ],
+      "duration_ms": 163412,
+      "name": "It's Not",
+      "url": "https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Puentes",
-        "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
-      },
-      "artists": [
-        {
-          "name": "Helices",
-          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Crucemos los Puentes...",
-      "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Ni Hablar",
         "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 221686,
       "name": "GRVD",
       "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Puentes",
+        "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
+      },
+      "artists": [
+        {
+          "name": "Helices",
+          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Crucemos los Puentes...",
+      "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "I left work on my way home december 1st 1955",
-        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
-      },
-      "artists": [
-        {
-          "name": "nevraska",
-          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Hornet Vision",
-      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "The Plural Of The Choir",
         "url": "https://open.spotify.com/album/20Xbsn2bDcmtZKp6FliRP8"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
+        "name": "I left work on my way home december 1st 1955",
+        "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
       },
       "artists": [
         {
-          "name": "FRDZ",
-          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
+          "name": "nevraska",
+          "url": "https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET"
         }
       ],
-      "duration_ms": 245290,
-      "name": "Habanero",
-      "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
+      "duration_ms": 228440,
+      "name": "Hornet Vision",
+      "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1443,6 +1427,22 @@
       "duration_ms": 381360,
       "name": "Una Historia para Acabar Con Todas las Historias",
       "url": "https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
+      },
+      "artists": [
+        {
+          "name": "FRDZ",
+          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Habanero",
+      "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
     },
     {
       "added_at": "2023-08-29 04:07:33",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-08-29 04:07:33",
       "album": {
-        "name": "Coordenadas",
-        "url": "https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0"
-      },
-      "artists": [
-        {
-          "name": "Monta\u00f1a",
-          "url": "https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S"
-        }
-      ],
-      "duration_ms": 209971,
-      "name": "Andes",
-      "url": "https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL"
-    },
-    {
-      "added_at": "2023-08-29 04:07:33",
-      "album": {
         "name": "Migraciones",
         "url": "https://open.spotify.com/album/2qcpWhahuyWze2ZBgMs6Q1"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 249991,
       "name": "El Exilio de Godomar",
       "url": "https://open.spotify.com/track/0xTQOwPqhscDPtv8xTvOUc"
+    },
+    {
+      "added_at": "2023-08-29 04:07:33",
+      "album": {
+        "name": "Coordenadas",
+        "url": "https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0"
+      },
+      "artists": [
+        {
+          "name": "Monta\u00f1a",
+          "url": "https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S"
+        }
+      ],
+      "duration_ms": 209971,
+      "name": "Andes",
+      "url": "https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL"
     },
     {
       "added_at": "2023-08-29 04:07:33",

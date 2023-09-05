@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity \(LIFE\)\. Cover: Burna boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,080 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,206 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 8 | [Leg Over](https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 3:17 |
 | 9 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/35YJyASvtvRfLJi6lKLZkP) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Everybody Loves Ice Prince](https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi) | 4:47 |
 | 10 | [Run My Race](https://open.spotify.com/track/24oH58vtxgSF2W5a4i6al0) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA) | 4:14 |
-| 11 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
-| 12 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 |
+| 11 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 |
+| 12 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
 | 13 | [E No Easy](https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Danger](https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e) | 4:24 |
 | 14 | [Baby](https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Baby](https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn) | 2:45 |
 | 15 | [Iskaba](https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Iskaba](https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu) | 3:44 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 23 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 |
 | 24 | [Sensima](https://open.spotify.com/track/2tsuHoDRjMTPkibpOkRuq4) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Sensima](https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI) | 3:07 |
 | 25 | [Gobe](https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB) | 3:49 |
-| 26 | [Bizzy Body](https://open.spotify.com/track/3rGBlf0cp7M3jbpsghlOH3) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:49 |
+| 26 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |
 | 27 | [Ashawo \(Remix\)](https://open.spotify.com/track/6w1icUDAHcLpfMXkVDUX64) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Uplifted](https://open.spotify.com/album/5t57rnTSV6gOZDo01Z8u9x) | 4:22 |
-| 28 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
-| 29 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 |
+| 28 | [Bizzy Body](https://open.spotify.com/track/3rGBlf0cp7M3jbpsghlOH3) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:49 |
+| 29 | [Gongo Aso](https://open.spotify.com/track/2Vp5mnr5FoxYNGt06vINzl) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 3:36 |
 | 30 | [Say So](https://open.spotify.com/track/2ympTJan7fHe3brZ2ZUXEo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [L.I.F.E \- Leaving an Impact for Eternity \(Deluxe Edition\)](https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA) | 4:36 |
 | 31 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
 | 32 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 36 | [Over The Moon Ft\. K\-Switch](https://open.spotify.com/track/3R963wuVpbDXyzKHUS25Tc) | [Dr SID](https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD) | [Turning Point](https://open.spotify.com/album/2FwDRA8NiC7IoaO9V3AH8k) | 3:53 |
 | 37 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |
 | 38 | [Repete](https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G) | [Blackmagic](https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8) | [Blackmagic \(Version 2.0\)](https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW) | 3:38 |
-| 39 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
-| 40 | [Kele Kele](https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:42 |
+| 39 | [Kele Kele](https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:42 |
+| 40 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |
 
-Snapshot ID: `MCxlM2QxMmY1MWM2N2QyZWNiYWRjYTAwNWUyNGNmYTNmODJhYzJiNjNj`
+Snapshot ID: `MCw1NTAwYjQ3YzVkNjNmODNlYzIzNjI5MmQyOTYxZDE4MDBlNDMzNDk4`

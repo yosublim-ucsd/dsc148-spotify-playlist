@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,735 songs - 3 day 5 hr 46 min
+1,736 songs - 3 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,6 +1094,7 @@
 | [Pas de Deux](https://open.spotify.com/track/1FbxNAj5bNEuEODAysnF5O) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Seasons](https://open.spotify.com/album/2ev06zAeaGpVlOkOTD1JUb) | 2:52 | 2021-03-22 | 2022-07-10 |
 | [Pas de deux](https://open.spotify.com/track/2LNOrSjCSR1Ap7QOZLbJnd) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Pas de deux](https://open.spotify.com/album/4M6aRGOphviow2KljOzsA9) | 2:18 | 2021-03-16 | 2021-05-12 |
 | [Passeggiata](https://open.spotify.com/track/7tS7si7gStrKqJwKxYa8rW) | [Riccardo Lettiere](https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x) | [Passeggiata](https://open.spotify.com/album/63ZqyGogxRIcXUKcBtKcnO) | 2:10 | 2021-05-15 | 2022-04-16 |
+| [Passeggiata Serale](https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Passeggiata Serale](https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS) | 2:12 | 2023-08-29 |  |
 | [Passing](https://open.spotify.com/track/5zcpF7WRlnOavcP5fCqOlK) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Like Home](https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn) | 2:28 | 2021-05-13 | 2021-05-14 |
 | [Passing](https://open.spotify.com/track/6bXdupxOa48t04cte4VNbL) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/5m4u40ucl3h5WLU16A0xqc) | 2:39 | 2021-03-06\* | 2021-05-14 |
 | [Passing By](https://open.spotify.com/track/4cKIi7twv61qQ0z0Apuoxu) | [Mikayo Koide](https://open.spotify.com/artist/32D46op6s0swxNHe7MCxLv) | [Passing By](https://open.spotify.com/album/7L0eqs9WBSnYhfhFQr2cko) | 2:19 | 2021-03-10 | 2022-02-06 |
@@ -1182,7 +1183,7 @@
 | [Reflection](https://open.spotify.com/track/7atZZz7sWJxeHpKLFof03X) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [Reflection](https://open.spotify.com/album/0OrUjYU6DLkVUto4eodrha) | 1:46 | 2021-03-23 | 2022-07-29 |
 | [Reflection of the Unknown](https://open.spotify.com/track/3ju7ioziNTBPy8TvY31Jqb) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Reflection of the Unknown](https://open.spotify.com/album/2sEt3v9MeWzhFfQR0Qy8yD) | 3:03 | 2021-03-07 | 2021-05-17 |
 | [Reflections](https://open.spotify.com/track/5s7zxh0kv1ciAynECJtHVZ) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Reflections](https://open.spotify.com/album/4gwh9w0ZyXULaln2Izp5Q1) | 3:34 | 2021-05-05 | 2022-07-28 |
-| [Reflections](https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Reflections](https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s) | 1:53 | 2023-04-15 |  |
+| [Reflections](https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Reflections](https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s) | 1:53 | 2023-04-15 | 2023-09-05 |
 | [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 | 2022-12-22 | 2023-04-16 |
 | [reflections](https://open.spotify.com/track/0JIy6lEuf9VAWPSGO9YEsh) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [hopes](https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8) | 3:13 | 2021-04-04 | 2022-04-17 |
 | [Reflective Distance](https://open.spotify.com/track/5XRoYcuHF27qbnGzrwowex) | [Levandau](https://open.spotify.com/artist/4i8dFLIE5uXyj0y8mX8Ngo) | [Reflective Distance](https://open.spotify.com/album/3OfsSIvnICFIHpN172oteS) | 2:11 | 2021-05-14 | 2022-04-20 |

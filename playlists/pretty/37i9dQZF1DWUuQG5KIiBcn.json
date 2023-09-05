@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 481788,
+  "num_followers": 482555,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTc3MWZiOGFjYjY2OTc2ZDgwNWVkYzYyYjQxNTA0ZjE1NmJkNzE2",
+  "snapshot_id": "MCw4NjEwNzU5YTY5MmQ4ZDdmOTQzODUxOTk5NGYwOGU5NzExN2IxM2Nm",
   "tracks": [
     {
       "added_at": "2023-08-22 06:00:00",
@@ -167,70 +167,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Los Huracanes del Norte - 40 Aniversario",
-        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "El Gato De Chihuahua",
-      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Contrabando Y Traicion",
-        "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 206293,
-      "name": "Contrabando Y Traici\u00f3n",
-      "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Los Corridos Del Millon",
-        "url": "https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e"
-      },
-      "artists": [
-        {
-          "name": "Los Incomparables De Tijuana",
-          "url": "https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "El Numero Uno",
-      "url": "https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Juan Martha",
-      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -251,6 +187,54 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Los Corridos Del Millon",
+        "url": "https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e"
+      },
+      "artists": [
+        {
+          "name": "Los Incomparables De Tijuana",
+          "url": "https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "El Numero Uno",
+      "url": "https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "El Gato De Chihuahua",
+      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Juan Martha",
+      "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Los 20 Mejores Corridos y Rancheras, Vol. 2",
         "url": "https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73"
       },
@@ -263,6 +247,38 @@
       "duration_ms": 178013,
       "name": "Clave Privada",
       "url": "https://open.spotify.com/track/4m5hcZXjgM3iL1tWNCWaer"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Contrabando Y Traicion",
+        "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 206293,
+      "name": "Contrabando Y Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -287,38 +303,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 278058,
-      "name": "Manuel Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Jaula De Oro",
-        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Pedro Y Pablo",
-      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -335,18 +319,34 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+      "duration_ms": 278058,
+      "name": "Manuel Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Corridos De Oro",
+        "url": "https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Se Les Pelo Baltazar",
+      "url": "https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -367,22 +367,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Nieves de Enero",
-        "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
+        "name": "Jaula De Oro",
+        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
       },
       "artists": [
         {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 228848,
-      "name": "Hermanos Mata",
-      "url": "https://open.spotify.com/track/65FVNeobrosMmZPQDMo185"
+      "duration_ms": 193106,
+      "name": "Pedro Y Pablo",
+      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -403,18 +399,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Corridos De Oro",
-        "url": "https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14"
+        "name": "Nieves de Enero",
+        "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
       "artists": [
         {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 153786,
-      "name": "Se Les Pelo Baltazar",
-      "url": "https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg"
+      "duration_ms": 228848,
+      "name": "Hermanos Mata",
+      "url": "https://open.spotify.com/track/65FVNeobrosMmZPQDMo185"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Corridos Prohibidos",
-        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 195613,
-      "name": "La Camioneta Gris",
-      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+      "duration_ms": 164386,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -479,22 +479,6 @@
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -531,6 +515,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "La Camioneta Gris",
+      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Norte\u00f1o 2000",
         "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
       },
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Pacas De A Kilo",
-      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
+      "duration_ms": 195744,
+      "name": "El Moro De Cumpas",
+      "url": "https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -575,22 +575,6 @@
       "duration_ms": 202733,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
-        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "El Moro De Cumpas",
-      "url": "https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -647,6 +631,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Rafael Caro Quintero",
+      "url": "https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Tesoros Musicales",
         "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
       },
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Corridos Volumen 1",
-        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Rafael Caro Quintero",
-      "url": "https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF"
+      "duration_ms": 214000,
+      "name": "Pacas De A Kilo",
+      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Se Me Canso El Corazon",
-        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 168026,
-      "name": "Los Tres Gallos",
-      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
       },
@@ -743,6 +727,38 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Se Me Canso El Corazon",
+        "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 168026,
+      "name": "Los Tres Gallos",
+      "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "El Pela Vacas",
         "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
       },
@@ -755,6 +771,22 @@
       "duration_ms": 203592,
       "name": "Corrido Del Gallito",
       "url": "https://open.spotify.com/track/3fnAObJdCiCqiSTDgrPzAZ"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 190880,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -807,38 +839,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Se Mam\u00f3 El Becerro",
         "url": "https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Las M\u00e1s Pegadas",
+        "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Lo Mejor De Rancheras",
         "url": "https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8"
       },
@@ -867,6 +883,22 @@
       "duration_ms": 164080,
       "name": "El Barzon",
       "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "El Ultimo Cartucho",
+      "url": "https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -903,38 +935,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Cruz De Madera",
-        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Contrabando De Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/4gwuwo3PgUrWzyJ7ofjN59"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Corridos Volumen 1",
-        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "El Ultimo Cartucho",
-      "url": "https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Corridos Arrolladores Vol. 1",
         "url": "https://open.spotify.com/album/7Fiu13ssHKL6Ax11S3z4ap"
       },
@@ -951,8 +951,24 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Las M\u00e1s Pegadas",
-        "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
+        "name": "Cruz De Madera",
+        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Contrabando De Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/4gwuwo3PgUrWzyJ7ofjN59"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
       "artists": [
         {
@@ -960,9 +976,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 141493,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
+      "duration_ms": 189586,
+      "name": "El Corrido De La Amapola",
+      "url": "https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "El Corrido De La Amapola",
-      "url": "https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Charro Avitia",
         "url": "https://open.spotify.com/album/1Y848NgqzkOr28SfcBshmV"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 174800,
       "name": "M\u00e1quina 501",
       "url": "https://open.spotify.com/track/1wRF1D054vNvDga8dRfCdn"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Corridos A Quema Ropa",
-        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 159160,
-      "name": "El Centenario",
-      "url": "https://open.spotify.com/track/5hApUHRz3FFnwEWcJDXEo7"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "20 Corridos Valientes",
-        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
-      },
-      "artists": [
-        {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
-        }
-      ],
-      "duration_ms": 192522,
-      "name": "Kil\u00f3metro 1160",
-      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Exitos de Los Broncos de Reynosa",
         "url": "https://open.spotify.com/album/3WuRR3ZB1IFPuDG4pyWdHT"
       },
@@ -1163,22 +1131,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Baraja De Oro",
-      "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Corridos bien Pesados para la Bohemia",
         "url": "https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS"
       },
@@ -1191,6 +1143,54 @@
       "duration_ms": 227533,
       "name": "El \u00e1rbol de la horca",
       "url": "https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "20 Corridos Valientes",
+        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
+      },
+      "artists": [
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "duration_ms": 192522,
+      "name": "Kil\u00f3metro 1160",
+      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Corridos A Quema Ropa",
+        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 159160,
+      "name": "El Centenario",
+      "url": "https://open.spotify.com/track/5hApUHRz3FFnwEWcJDXEo7"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Baraja De Oro",
+      "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
     },
     {
       "added_at": "2023-08-22 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Nonpalidece.",
-  "num_followers": 54748,
+  "num_followers": 54768,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGEwYzdhZWU1NTZjMjIyODM3ZDEyOGEzNDU0NGUwMWJmNDhmNTYz",
+  "snapshot_id": "MCwzZDQyYWZiNTNjMzkxYzk5NThmY2E3NTM2ZmI4ZTFmNzk0ODhlMDM1",
   "tracks": [
     {
       "added_at": "2023-08-18 03:00:00",
@@ -151,38 +151,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "International Love",
-      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Nonpalidesenchufado",
         "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
       },
@@ -199,6 +167,38 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Caminar\u00e1s Caminos",
+        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro (Ao Vivo)",
         "url": "https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i"
       },
@@ -211,6 +211,22 @@
       "duration_ms": 198946,
       "name": "Meu Reggae \u00e9 Roots - Ao Vivo",
       "url": "https://open.spotify.com/track/1r7BRiLgM288W76CaiocEN"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "International Love",
+      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -247,8 +263,28 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Caminar\u00e1s Caminos",
-        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
+        "name": "Pupilas Lejanas",
+        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "En el Sendero",
+        "url": "https://open.spotify.com/album/4ywP8NavqBobYqGbbY6QWb"
       },
       "artists": [
         {
@@ -256,25 +292,9 @@
           "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 248466,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Vos Sab\u00e9s",
-        "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 238291,
-      "name": "Vos sab\u00e9s",
-      "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
+      "duration_ms": 255506,
+      "name": "Laberintos",
+      "url": "https://open.spotify.com/track/6Ffn7NUO5bwZzrsseemgoR"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -295,22 +315,66 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Pupilas Lejanas",
-        "url": "https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn"
+        "name": "La B\u00fasqueda",
+        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
       },
       "artists": [
         {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Zona Ganjah",
+          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx"
+      "duration_ms": 238500,
+      "name": "Algo mejor - Remastered",
+      "url": "https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Vos Sab\u00e9s",
+        "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 238291,
+      "name": "Vos sab\u00e9s",
+      "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Todo Lo Que Se Fue",
+        "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Todo Lo Que Se Fue",
+      "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -335,22 +399,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "En el Sendero",
-        "url": "https://open.spotify.com/album/4ywP8NavqBobYqGbbY6QWb"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "Laberintos",
-      "url": "https://open.spotify.com/track/6Ffn7NUO5bwZzrsseemgoR"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "Worrrrssss!!!!",
         "url": "https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu"
       },
@@ -363,6 +411,54 @@
       "duration_ms": 309259,
       "name": "Por Cultivar Marihuana",
       "url": "https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Modern Jukebox",
+        "url": "https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t"
+      },
+      "artists": [
+        {
+          "name": "Sarah Menescal",
+          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
+        }
+      ],
+      "duration_ms": 243085,
+      "name": "Don't Speak - Reggae Version",
+      "url": "https://open.spotify.com/track/4fNcaiS9FUUjpznbSeVmqN"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -407,104 +503,8 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "La B\u00fasqueda",
-        "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
-      },
-      "artists": [
-        {
-          "name": "Zona Ganjah",
-          "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Algo mejor - Remastered",
-      "url": "https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 240144,
-      "name": "Pupilas Lejanas (En Vivo)",
-      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Reggae en el Universo",
-      "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "C\u00f3mo Ver?",
-        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 308522,
-      "name": "C\u00f3mo Ver?",
-      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Modern Jukebox",
-        "url": "https://open.spotify.com/album/2i7MhuER8I9dk47TWkrT8t"
-      },
-      "artists": [
-        {
-          "name": "Sarah Menescal",
-          "url": "https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD"
-        }
-      ],
-      "duration_ms": 243085,
-      "name": "Don't Speak - Reggae Version",
-      "url": "https://open.spotify.com/track/4fNcaiS9FUUjpznbSeVmqN"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Todo Lo Que Se Fue",
-        "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
       },
       "artists": [
         {
@@ -512,57 +512,9 @@
           "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 201021,
-      "name": "Todo Lo Que Se Fue",
-      "url": "https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB"
-      },
-      "artists": [
-        {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
-        }
-      ],
-      "duration_ms": 220565,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 247941,
-      "name": "Runaway (En Vivo)",
-      "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+      "duration_ms": 196071,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -587,6 +539,58 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 240144,
+      "name": "Pupilas Lejanas (En Vivo)",
+      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "La Misi\u00f3n",
+        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        }
+      ],
+      "duration_ms": 208212,
+      "name": "Cinco",
+      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Ahora Lo S\u00e9",
         "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
       },
@@ -599,22 +603,6 @@
       "duration_ms": 256372,
       "name": "Ahora Lo S\u00e9",
       "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 196071,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -651,6 +639,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Reggae en el Universo",
+      "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Hasta Que Me Olvides",
         "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
       },
@@ -667,8 +671,8 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "El Pr\u00f3ximo Viernes",
-        "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
@@ -676,9 +680,25 @@
           "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         }
       ],
-      "duration_ms": 259092,
-      "name": "El Pr\u00f3ximo Viernes",
-      "url": "https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO"
+      "duration_ms": 247941,
+      "name": "Runaway (En Vivo)",
+      "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -703,26 +723,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "La Misi\u00f3n",
-        "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        }
-      ],
-      "duration_ms": 208212,
-      "name": "Cinco",
-      "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "International Love",
         "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 297426,
       "name": "Luz y Compa\u00f1\u00eda",
       "url": "https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -807,6 +791,26 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Lo Mas Lindo (777 Remix)",
+        "url": "https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Lo Mas Lindo (777 Remix)",
+      "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "7 Vidas",
         "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
@@ -823,6 +827,22 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "El Pr\u00f3ximo Viernes",
+        "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 259092,
+      "name": "El Pr\u00f3ximo Viernes",
+      "url": "https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -871,26 +891,6 @@
       "duration_ms": 267983,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Lo Mas Lindo (777 Remix)",
-        "url": "https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "Malandro",
-          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Lo Mas Lindo (777 Remix)",
-      "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -963,18 +963,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Aguas Frescas De Jamaica",
-        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+        "name": "Mr. Selector",
+        "url": "https://open.spotify.com/album/5mmeQAuCj0HnfEAybnpbAM"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/00s60ym6SjjbgRG3pMle4L"
         }
       ],
-      "duration_ms": 278626,
-      "name": "Tan Distante",
-      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+      "duration_ms": 228565,
+      "name": "Mr. Selector",
+      "url": "https://open.spotify.com/track/0J4FbI5kcd037ZRvkbtXhB"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -995,6 +999,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
+        "name": "Aguas Frescas De Jamaica",
+        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Tan Distante",
+      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
         "name": "Rey Mago de las Nubes",
         "url": "https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 185666,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Mr. Selector",
-        "url": "https://open.spotify.com/album/5mmeQAuCj0HnfEAybnpbAM"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/00s60ym6SjjbgRG3pMle4L"
-        }
-      ],
-      "duration_ms": 228565,
-      "name": "Mr. Selector",
-      "url": "https://open.spotify.com/track/0J4FbI5kcd037ZRvkbtXhB"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1055,6 +1055,34 @@
       "duration_ms": 208563,
       "name": "Revolution Rock",
       "url": "https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Raices y Cultura",
+        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
+      },
+      "artists": [
+        {
+          "name": "Lumumba Oficial",
+          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
+        },
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Amilcar Nadal",
+          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
+        },
+        {
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1095,50 +1123,22 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Qui\u00e9n Sos?",
-        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
+        "name": "Radiante",
+        "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
       },
       "artists": [
         {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Julieta Rada",
-          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
-        }
-      ],
-      "duration_ms": 231464,
-      "name": "Qui\u00e9n Sos?",
-      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Raices y Cultura",
-        "url": "https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx"
-      },
-      "artists": [
-        {
-          "name": "Lumumba Oficial",
-          "url": "https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT"
-        },
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "Amilcar Nadal",
-          "url": "https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d"
+          "name": "De Bruces A Mi",
+          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
         },
         {
           "name": "Pablo Molina",
           "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
         }
       ],
-      "duration_ms": 281920,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E"
+      "duration_ms": 189806,
+      "name": "Mi Dulce Amor",
+      "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "Neigborhood Rules",
-        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
-      },
-      "artists": [
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        }
-      ],
-      "duration_ms": 232342,
-      "name": "Laba Laba Craven",
-      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
         "name": "SIG RAGGA (Remaster 2023)",
         "url": "https://open.spotify.com/album/2jSOavvzChm3DmxWwz7QXy"
       },
@@ -1191,18 +1175,38 @@
     {
       "added_at": "2023-08-18 03:00:00",
       "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+        "name": "Neigborhood Rules",
+        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "duration_ms": 232342,
+      "name": "Laba Laba Craven",
+      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Qui\u00e9n Sos?",
+        "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
       "artists": [
         {
           "name": "Rondamon",
           "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
         }
       ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
+      "duration_ms": 231464,
+      "name": "Qui\u00e9n Sos?",
+      "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1271,46 +1275,6 @@
       "duration_ms": 349280,
       "name": "La Pipa",
       "url": "https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
-    },
-    {
-      "added_at": "2023-08-18 03:00:00",
-      "album": {
-        "name": "Radiante",
-        "url": "https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC"
-      },
-      "artists": [
-        {
-          "name": "De Bruces A Mi",
-          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
-        },
-        {
-          "name": "Pablo Molina",
-          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
-        }
-      ],
-      "duration_ms": 189806,
-      "name": "Mi Dulce Amor",
-      "url": "https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1411,6 +1375,22 @@
       "duration_ms": 250243,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2023-08-18 03:00:00",
@@ -1539,6 +1519,26 @@
       "duration_ms": 202306,
       "name": "M\u00e1s Libre",
       "url": "https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw"
+    },
+    {
+      "added_at": "2023-08-18 03:00:00",
+      "album": {
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
     },
     {
       "added_at": "2023-08-18 03:00:00",

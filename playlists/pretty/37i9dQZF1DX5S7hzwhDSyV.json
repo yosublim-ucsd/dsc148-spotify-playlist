@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 87067,
+  "num_followers": 87180,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGVmZmUxMTYxYmFkOThiNDg4OWVhNTVlOTc2MGY4ZmRkYzFjNTE3",
+  "snapshot_id": "MCxmODU0NzhkMzRkNzRhMjQxYjRmZjg2NTBhNzRlNGFmMTE1NzFkOWRm",
   "tracks": [
     {
       "added_at": "2023-08-30 11:30:03",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 405226,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -311,38 +311,6 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "'Round About Midnight",
-        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        }
-      ],
-      "duration_ms": 420693,
-      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -375,34 +343,34 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+        "name": "'Round About Midnight",
+        "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
       "artists": [
         {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "As Times Goes By",
-      "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+      "duration_ms": 420693,
+      "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -423,6 +391,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+      },
+      "artists": [
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "As Times Goes By",
+      "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "Blue Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 403826,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 403826,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -543,6 +543,38 @@
       "duration_ms": 218093,
       "name": "How High The Moon",
       "url": "https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -603,38 +635,6 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
         "name": "Jazz Masters",
         "url": "https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "A Garland Of Red",
         "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
       },
@@ -679,38 +695,6 @@
       "duration_ms": 287400,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "In a Sentimental Mood",
-        "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "This Is Jazz #14",
-        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "In a Sentimental Mood",
+        "url": "https://open.spotify.com/album/38NufhOhCETUhjBqZa5w7e"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/1Jrdpneg6p0j2crsbuxW0R"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "Soul Station",
         "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 213720,
       "name": "How Deep Is The Ocean",
       "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "Moanin' (Expanded Edition)",
         "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
       },
@@ -887,26 +887,6 @@
       "duration_ms": 345173,
       "name": "Come Rain Or Come Shine - Remastered",
       "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -947,6 +927,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 322960,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "Coltrane's Sound",
         "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
       },
@@ -963,18 +959,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 322960,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
+      "duration_ms": 278253,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 837813,
+      "name": "Lush Life - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1087,6 +1103,26 @@
       "duration_ms": 483946,
       "name": "Hello, Young Lovers - Remastered 2006",
       "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "Pres and Teddy",
+        "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Teddy Wilson Quartet",
+          "url": "https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c"
+        }
+      ],
+      "duration_ms": 410666,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1123,42 +1159,6 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 837813,
-      "name": "Lush Life - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "Pres and Teddy",
-        "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Teddy Wilson Quartet",
-          "url": "https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c"
-        }
-      ],
-      "duration_ms": 410666,
-      "name": "Love Me Or Leave Me",
-      "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
         "name": "Gettin' Together!",
         "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
       },
@@ -1171,26 +1171,6 @@
       "duration_ms": 245906,
       "name": "I Cover The Waterfront",
       "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
-        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1215,6 +1195,22 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330733,
+      "name": "I Love You - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "We Get Requests",
         "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
       },
@@ -1227,6 +1223,42 @@
       "duration_ms": 308160,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 602173,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "Brownie: The Complete EmArcy Recordings Of Clifford Brown",
+        "url": "https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/4xRmeIsHXdGmjmJgyKSEx4"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1259,38 +1291,6 @@
       "duration_ms": 496893,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 602173,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330733,
-      "name": "I Love You - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3WC3GPIxGaFeWhsEFSVMDC"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 300077,
-      "name": "Exactly Like You",
-      "url": "https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "Dizzy 100",
+        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 300077,
+      "name": "Exactly Like You",
+      "url": "https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
         "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods Quartet",
-          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
-        }
-      ],
-      "duration_ms": 485226,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
         "name": "Now!",
         "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 255600,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods Quartet",
+          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
+        }
+      ],
+      "duration_ms": 485226,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
-        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 191146,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
+      "duration_ms": 253133,
+      "name": "The Song Is You",
+      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1587,34 +1587,18 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
+        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 253133,
-      "name": "The Song Is You",
-      "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "Seven Steps To Heaven (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 627733,
-      "name": "Basin Street Blues",
-      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
+      "duration_ms": 191146,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1635,6 +1619,22 @@
       "duration_ms": 178640,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
+        "name": "Seven Steps To Heaven (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 627733,
+      "name": "Basin Street Blues",
+      "url": "https://open.spotify.com/track/4Sg0W2BElMlqk2QVCz7xlP"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
+        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
+        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Long Ago (And Far Away)",
+      "url": "https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg"
+    },
+    {
+      "added_at": "2023-08-30 11:30:03",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -1683,22 +1703,6 @@
       "duration_ms": 447760,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
-    },
-    {
-      "added_at": "2023-08-30 11:30:03",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2023-08-30 11:30:03",
@@ -1719,22 +1723,18 @@
     {
       "added_at": "2023-08-30 11:30:03",
       "album": {
-        "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
-        "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 185240,
-      "name": "Long Ago (And Far Away)",
-      "url": "https://open.spotify.com/track/1G2uA6Yu4FRqadXZqlomFg"
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2023-08-30 11:30:03",

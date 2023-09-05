@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-318 songs - 22 hr 30 min
+319 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 | 2022-02-21 | 2023-02-22 |
 | [Day Dreaming](https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Young, Gifted and Black](https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB) | 3:59 | 2021-12-13 |  |
 | [Distant Lover](https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:15 | 2021-12-13 | 2023-09-01 |
+| [Distant Lover](https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | 4:16 | 2023-08-15 |  |
 | [Do It To Me](https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 6:03 | 2022-05-11 | 2023-04-21 |
 | [Do It To Me](https://open.spotify.com/track/0NuQUoVm6N9raaMbQHC2jX) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Gold](https://open.spotify.com/album/4pUmZ5E6H5Ap70Ti4tDiZL) | 6:03 | 2021-12-13 | 2022-01-03 |
 | [Do It To Me](https://open.spotify.com/track/4tzqUn1y5GNrV0dKV9S5vC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 6:04 | 2021-12-20 | 2022-07-29 |
@@ -276,7 +277,7 @@
 | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 | 2021-12-13 |  |
 | [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2023-02-22 | 2023-03-31 |
 | [Take Me I'm Yours](https://open.spotify.com/track/6JjERCOeWhnecHC46jiyV8) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [In The Night\-Time](https://open.spotify.com/album/51deTOWqOs3aYmGPg7eNPl) | 4:22 | 2022-02-04 | 2022-07-29 |
-| [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 | 2023-08-14 |  |
+| [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 | 2023-08-14 | 2023-09-05 |
 | [That's Enough For Me](https://open.spotify.com/track/7B0qsZqbqQ0O1hym45yMsq) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [The Best Of Patti Austin](https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO) | 5:46 | 2021-12-13 | 2022-07-29 |
 | [The Best Things](https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Best Things](https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t) | 3:16 | 2021-12-13 | 2022-07-29 |
 | [The Closer I Get to You](https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 4:40 | 2021-12-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 195568,
+  "num_followers": 195576,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGEyODc2YzZlZDBkYzAxZTE4MDRhMzFhYTA1MWQyNGNmYmU0ODYw",
+  "snapshot_id": "MCxiZDhkYzljMmZmMDYxNTRhNjg5NDkyZjk4MDE0OGJkMGE2N2I4NWQ1",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "N\u00e4tterna i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "N\u00e4tterna i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 138461,
       "name": "MANIC",
       "url": "https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "N\u00e4tterna i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "N\u00e4tterna i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 143081,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Happy Again",
         "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 154125,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 143081,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Tappat - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 150543,
-      "name": "Tappat - Spotify Singles",
-      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Vi \u00c4r P\u00e5 Riktigt",
         "url": "https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Har du sett henne i bl\u00e5tt",
-        "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
+        "name": "Tappat - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
       },
       "artists": [
         {
-          "name": "Danny Saucedo",
-          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
         }
       ],
-      "duration_ms": 201741,
-      "name": "Har du sett henne i bl\u00e5tt",
-      "url": "https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej"
+      "duration_ms": 150543,
+      "name": "Tappat - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -943,6 +927,22 @@
       "duration_ms": 166991,
       "name": "Like The River",
       "url": "https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Har du sett henne i bl\u00e5tt",
+        "url": "https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW"
+      },
+      "artists": [
+        {
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        }
+      ],
+      "duration_ms": 201741,
+      "name": "Har du sett henne i bl\u00e5tt",
+      "url": "https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Sommaren",
-        "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        },
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 173030,
-      "name": "Sommaren",
-      "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Easy Go!",
         "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
       },
@@ -1055,18 +1035,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
-        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
+        "name": "Sommaren",
+        "url": "https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043"
       },
       "artists": [
         {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        },
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
         }
       ],
-      "duration_ms": 228065,
-      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
-      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+      "duration_ms": 173030,
+      "name": "Sommaren",
+      "url": "https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1091,34 +1075,18 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
+        "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
       },
       "artists": [
         {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
         }
       ],
-      "duration_ms": 192970,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Genom eld (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
-      },
-      "artists": [
-        {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Genom eld - Spotify Singles",
-      "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
+      "duration_ms": 228065,
+      "name": "It Takes a Fool to Remain Sane - Spotify Singles",
+      "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1155,6 +1123,38 @@
       "duration_ms": 170500,
       "name": "Call Me By Your Name",
       "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Genom eld (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4VKWJKb38zp0Af7WURVc0n"
+      },
+      "artists": [
+        {
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Genom eld - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JbyhLIxJLeUtFz5hYR4Bi"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "duration_ms": 192970,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Bare mellom oss",
+        "url": "https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        },
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "duration_ms": 151893,
+      "name": "Bare mellom oss",
+      "url": "https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Ut med allt",
         "url": "https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE"
       },
@@ -1411,22 +1431,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "M\u00e5ndagsbarn (Spotify Singles)",
-        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 180372,
-      "name": "M\u00e5ndagsbarn - Spotify Singles",
-      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1443,6 +1447,22 @@
       "duration_ms": 169213,
       "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
       "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "M\u00e5ndagsbarn (Spotify Singles)",
+        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 180372,
+      "name": "M\u00e5ndagsbarn - Spotify Singles",
+      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1515,42 +1535,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Bare mellom oss",
-        "url": "https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        },
-        {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
-        }
-      ],
-      "duration_ms": 151893,
-      "name": "Bare mellom oss",
-      "url": "https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "A Bowl of Unripe Fruit",
-        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 202686,
-      "name": "A Bowl of Unripe Fruit",
-      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Vatten",
         "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
       },
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "A Bowl of Unripe Fruit",
+        "url": "https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 202686,
+      "name": "A Bowl of Unripe Fruit",
+      "url": "https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Grammofon",
         "url": "https://open.spotify.com/album/3F96hsqQCY2BnC3UTf5wm2"
       },
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Sover du sj\u00e4lv?",
-        "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 183391,
-      "name": "Sover du sj\u00e4lv?",
-      "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Oas",
         "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 197297,
       "name": "Oas",
       "url": "https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Sover du sj\u00e4lv?",
+        "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 183391,
+      "name": "Sover du sj\u00e4lv?",
+      "url": "https://open.spotify.com/track/5GH9muGVnPshF2mtmDQPfO"
     }
   ],
   "unique_name": "Made in Sweden",

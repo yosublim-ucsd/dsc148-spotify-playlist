@@ -2725,6 +2725,28 @@
     },
     {
       "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "album": {
         "name": "Cap",
         "url": "https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK"
       },

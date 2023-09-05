@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
+    },
+    {
+      "album": {
         "name": "Droptop",
         "url": "https://open.spotify.com/album/2rKEiYOlxGLQHbw1ZzFdXD"
       },
@@ -548,7 +566,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 178604,
       "name": "Jailaan (From \"Moosa Jatt\")",
       "url": "https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 190434,
       "name": "Mandeer",
       "url": "https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX"
@@ -738,7 +756,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 180000,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw"
@@ -764,6 +782,24 @@
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6"
+    },
+    {
+      "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197242,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB"
     },
     {
       "album": {
@@ -1049,6 +1085,28 @@
     },
     {
       "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195360,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T"
+    },
+    {
+      "album": {
         "name": "Wait & Watch (From \"Babbar\")",
         "url": "https://open.spotify.com/album/0NMM1rVmULQqE38GOz6e1t"
       },
@@ -1064,7 +1122,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 152608,
       "name": "Wait & Watch (From \"Babbar\")",
       "url": "https://open.spotify.com/track/6ryOGfMaBty1cmkiJt9Qzz"

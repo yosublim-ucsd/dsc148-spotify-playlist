@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,866 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,903 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 9 | [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U), [PALAK](https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 |
 | 10 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
 | 11 | [SACH HAI NA](https://open.spotify.com/track/2ssugF2K11ALzQ1qMQ5gnC) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ) | [SACH HAI NA](https://open.spotify.com/album/0u9kVdSsfLepdbAJ0HVaP4) | 4:16 |
-| 12 | [Duniya Meri](https://open.spotify.com/track/3x2ug7XW1noOUe5s1ZP1UY) | [Abhinav Singh](https://open.spotify.com/artist/64PApAhGA9b5CXpNVznc3K) | [Duniya Meri](https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg) | 3:57 |
+| 12 | [Duniya Meri](https://open.spotify.com/track/3x2ug7XW1noOUe5s1ZP1UY) | [Abhinav Singh](https://open.spotify.com/artist/6SCpJdNbMI3NHc8fMAOOg8) | [Duniya Meri](https://open.spotify.com/album/5n5400vwsPBlI9ZZuA6prg) | 3:57 |
 | 13 | [Akela](https://open.spotify.com/track/6XJes28674sRmlHAlndb5o) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 5:01 |
 | 14 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Maara](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 |
 | 15 | [Moonrise \- Acoustic Version](https://open.spotify.com/track/0lyVQP4aWjnbW3T3a21wh9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise \(Acoustic Version\)](https://open.spotify.com/album/40UTvukiFB88tuyc3oN2NJ) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
 | 75 | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/track/1t0ZUIee2xJubPCjHbE5A7) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk) | 3:53 |
 
-Snapshot ID: `MCxjMmRhM2E0OTRjZDM0MDI4ZTQ4ZTUyNjU0YzBjY2E3MjJmY2FiYmVi`
+Snapshot ID: `MCwwOGEwNjQ3ZGRiOWRiMjNlNWJjNjY5YjFhNTExMmJlZDYxZDBlZGU5`

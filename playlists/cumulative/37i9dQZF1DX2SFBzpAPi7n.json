@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: PLAVE) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Young K) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -5195,6 +5195,24 @@
     },
     {
       "album": {
+        "name": "Letters with notes",
+        "url": "https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201893,
+      "name": "nothing but",
+      "url": "https://open.spotify.com/track/4tVxP9VLIgzD9oRLmzioQT"
+    },
+    {
+      "album": {
         "name": "Ending",
         "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
@@ -7416,7 +7434,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 243000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi"

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6585\)
+## Playlists \(6586\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1393,6 +1393,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Dancehall Station](/playlists/pretty/37i9dQZF1DX9QYRS3EMTFh.md)
 - [Dancehall Throwback](/playlists/pretty/37i9dQZF1DWWDLvD3P5wOG.md)
 - [Dancing Kizomba](/playlists/pretty/37i9dQZF1DX1l6qs3gcM4U.md)
+- [Dancing Queens On The Road \(댄스가수유랑단\)](/playlists/pretty/37i9dQZF1DWUAh5YAbsFlY.md)
 - [Dangdut Top](/playlists/pretty/37i9dQZF1DWUWbdikWtt34.md)
 - [Danger Mouse Jukebox](/playlists/pretty/1cAHI20k456593GCBNqzw6.md)
 - [Daniel Adams\-Ray](/playlists/pretty/6c51ZkUk7wO3Icy2sW3jvA.md)
@@ -2873,6 +2874,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Let Loose](/playlists/pretty/3Nh594yQ7PkhEPzUUAKlnH.md)
 - [Let's Aikatsu! \-アイカツ\-！](/playlists/pretty/37i9dQZF1DX6gmUBAHLzQz.md)
 - [Let's Eat!](/playlists/pretty/37i9dQZF1DXcB9sN6ZkZ58.md)
+- [Let's Rock Festival 2023](/playlists/pretty/37i9dQZF1DXaW7Dil94ozt.md)
 - [Let's See Them Aliens](/playlists/pretty/37i9dQZF1DX4wJiDXwIMDT.md)
 - [Level Up Lofi](/playlists/pretty/37i9dQZF1DX1bJXtym592H.md)
 - [Levitate](/playlists/pretty/37i9dQZF1DWVY5eNJoKHd2.md)
@@ -4704,7 +4706,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [The Core](/playlists/pretty/37i9dQZF1DWXIcbzpLauPS.md)
 - [The Critics Choice 2012](/playlists/pretty/24HEIuw8etbkitpDCxZ1dQ.md)
 - [The Dance Tent](/playlists/pretty/37i9dQZF1DXaTFABWvWVT6.md)
-- [The Dancing Wanderers \(댄스가수 유랑단\)](/playlists/pretty/37i9dQZF1DWUAh5YAbsFlY.md)
 - [The Essential Edgar Allan Poe](/playlists/pretty/37i9dQZF1DWVezbGpUvpz7.md)
 - [The Essential Ska](/playlists/pretty/37i9dQZF1DX7WJ4yDmRK8R.md)
 - [The Flow](/playlists/pretty/37i9dQZF1DXc4BD3pzYdKY.md)

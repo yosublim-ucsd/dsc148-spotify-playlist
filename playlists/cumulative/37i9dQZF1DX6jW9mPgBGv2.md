@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Eladio Carrion y Morad plantando cara.
 
-95 songs - 5 hr 59 min
+96 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 | 2021-12-01 |  |
 | [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 | 2021-12-01 |  |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-28 |  |
+| [GO GO GO](https://open.spotify.com/track/0BJCI9tfhMrpELzRiDzdiR) | [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6) | [La Crema](https://open.spotify.com/album/1LliLGMCamo6OZ0SQBGINc) | 2:57 | 2023-09-04 |  |
 | [Gran Vida](https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:27 | 2022-04-25 | 2023-01-14 |
 | [Hitboy](https://open.spotify.com/track/51dqvo5QYezL3rjL6qjksA) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 2:58 | 2021-12-01 |  |
 | [Invicto](https://open.spotify.com/track/7zooAwAq4UbQGXA82G2nVv) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 4:01 | 2021-12-01 |  |

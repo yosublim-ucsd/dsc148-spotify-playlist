@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 209896,
       "name": "A Gentle Reminder",
       "url": "https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 167621,
       "name": "Coffee with My Baby",
       "url": "https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF"
@@ -1428,6 +1428,24 @@
       "duration_ms": 278391,
       "name": "curly",
       "url": "https://open.spotify.com/track/3IqwiPbdJ53pT6es1utnqK"
+    },
+    {
+      "album": {
+        "name": "Dancing Shadows",
+        "url": "https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK"
+      },
+      "artists": [
+        {
+          "name": "Dries Riesen",
+          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204038,
+      "name": "Dancing Shadows",
+      "url": "https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C"
     },
     {
       "album": {
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 150903,
       "name": "Dream you're chasing",
       "url": "https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua"
@@ -3054,6 +3072,24 @@
       "duration_ms": 214798,
       "name": "It's You Or No One",
       "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
+    },
+    {
+      "album": {
+        "name": "Jazz Odyssey",
+        "url": "https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa"
+      },
+      "artists": [
+        {
+          "name": "Red Brick Lane",
+          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170784,
+      "name": "Jazz Odyssey",
+      "url": "https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT"
     },
     {
       "album": {
@@ -4780,6 +4816,24 @@
       "duration_ms": 157230,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q"
+    },
+    {
+      "album": {
+        "name": "Passing Time",
+        "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
+      },
+      "artists": [
+        {
+          "name": "Sean Murphy",
+          "url": "https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185842,
+      "name": "Passing Time",
+      "url": "https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704"
     },
     {
       "album": {

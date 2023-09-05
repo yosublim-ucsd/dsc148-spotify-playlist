@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Nicki Minaj, Doja Cat, Imagine Dragons, Lil' Wayne, Måneskin and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,168,742 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,168,725 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
 | 100 | [Whiskey Train](https://open.spotify.com/track/6ib3tr2xQUgxIYfxu4OBQS) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Whiskey Train](https://open.spotify.com/album/3Hy2FaJyuCzZ6FWYJRbihh) | 2:25 |
 
-Snapshot ID: `MCw2YTRhNzU3NDQwNjNkNWY2M2IxOTZlNmVhZTFkNjQ2YzE1N2U3NmRj`
+Snapshot ID: `MCw3NmI3NWI3MDAyZGMyNTQ4MmM3OWY4MGRkNGQ4MzI1Njk3YmZlODk0`

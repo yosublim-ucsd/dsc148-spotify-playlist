@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 200224,
+  "num_followers": 200321,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmU4MDU1MWQyMzVlN2I0ZWMyZTRlYmQxYzZiODU5YTY1MGM4ZTM4",
+  "snapshot_id": "MCw4MGEzMWVlNmY0NWRjNDA3ZWY1OTk2NWIxMzJjMDVlMjQwMjJiNzEx",
   "tracks": [
     {
       "added_at": "2023-08-15 09:52:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
         }
       ],
-      "duration_ms": 226493,
-      "name": "Too Hot - Single Version",
-      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -771,6 +755,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Too Hot - Single Version",
+      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Jazzy Soul",
-        "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Caught Up In the Rapture",
-      "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 292733,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
+        "name": "Jazzy Soul",
+        "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Caught Up In the Rapture",
+      "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Soul Organic (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
       "artists": [
         {
-          "name": "Hil St. Soul",
-          "url": "https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J"
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 188573,
-      "name": "Until You Come Back To Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
+      "duration_ms": 438706,
+      "name": "No Ordinary Love - Remastered",
+      "url": "https://open.spotify.com/track/1tV7RXsTGdwxAvEo8Rv9pp"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+        "name": "Soul Organic (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "Hil St. Soul",
+          "url": "https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J"
         }
       ],
-      "duration_ms": 438706,
-      "name": "No Ordinary Love - Remastered",
-      "url": "https://open.spotify.com/track/1tV7RXsTGdwxAvEo8Rv9pp"
+      "duration_ms": 188573,
+      "name": "Until You Come Back To Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
     },
     {
       "added_at": "2023-08-15 09:52:41",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
+        "name": "Secret Combination",
+        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 254613,
+      "name": "Rainy Night in Georgia",
+      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
+    },
+    {
+      "added_at": "2023-08-15 09:52:41",
+      "album": {
         "name": "Color Rit (Remastered)",
         "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
@@ -1647,34 +1663,18 @@
     {
       "added_at": "2023-08-15 09:52:41",
       "album": {
-        "name": "Tell Me Something",
-        "url": "https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9"
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
       },
       "artists": [
         {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 257726,
-      "name": "Tell Me Something",
-      "url": "https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z"
-    },
-    {
-      "added_at": "2023-08-15 09:52:41",
-      "album": {
-        "name": "Secret Combination",
-        "url": "https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 254613,
-      "name": "Rainy Night in Georgia",
-      "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"
+      "duration_ms": 256733,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/4Yu2vdSKkFrBM5agrx5XRN"
     }
   ],
   "unique_name": "Soulful Blend",

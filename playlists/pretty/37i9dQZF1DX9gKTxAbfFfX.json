@@ -1,12 +1,12 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Myke Towers",
-  "num_followers": 729775,
+  "num_followers": 729863,
   "original_name": "Verano 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTI0Y2VjNzdiMTQ3ZTA2YjFhMzkyMWYzMTljODQ1OWI1ZTNmZWEx",
+  "snapshot_id": "MCw4YzViZTMyZWYyN2M4MjM3ZWUyMTA3ZDZlMWNkZDdjZDgwMWQ2Mzlj",
   "tracks": [
     {
       "added_at": "2023-08-21 12:18:42",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "S91",
-        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 173005,
-      "name": "S91",
-      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "S91",
+        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 173005,
+      "name": "S91",
+      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 237525,
+      "name": "PLAYA DEL INGL\u00c9S",
+      "url": "https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -947,22 +967,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Esta Vida",
         "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
@@ -979,26 +983,6 @@
       "duration_ms": 209135,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 237525,
-      "name": "PLAYA DEL INGL\u00c9S",
-      "url": "https://open.spotify.com/track/0Sfn2TYbpQtCGMBf6C0Y6T"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1051,6 +1035,22 @@
       "duration_ms": 187986,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -1147,34 +1163,18 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 139041,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "LAS BABYS",
-        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 153827,
-      "name": "LAS BABYS",
-      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1195,18 +1195,34 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+        "name": "LAS BABYS",
+        "url": "https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
+      "duration_ms": 153827,
+      "name": "LAS BABYS",
+      "url": "https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1231,38 +1247,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ens\u00e9\u00f1ame a Bailar",
-      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 209453,
       "name": "Otra vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ens\u00e9\u00f1ame a Bailar",
+      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158483,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 226520,
       "name": "Dile Que Tu Me Quieres",
       "url": "https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "MI DROGA",
+      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "Celular",
         "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 153684,
       "name": "Antes",
       "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "MI DROGA",
-      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 207731,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -1947,26 +1963,6 @@
       "duration_ms": 250840,
       "name": "No Es Justo",
       "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "La Dura Vida del Joven Rapero",
-        "url": "https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y"
-      },
-      "artists": [
-        {
-          "name": "Don Patricio",
-          "url": "https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Contando Lunares (feat. Cruz Cafun\u00e9)",
-      "url": "https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD"
     }
   ],
   "unique_name": "Verano 2023",

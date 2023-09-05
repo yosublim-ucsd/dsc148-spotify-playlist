@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 2000. Foto: Paulina Rubio",
-  "num_followers": 255554,
+  "num_followers": 255832,
   "original_name": "Pop Latino: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjY3MzE5OTgwZmFiN2NiOGM5MzRmZGViM2E4NGJkNmUwNmMzMDA2",
+  "snapshot_id": "MCwzMGZjM2Y5Nzg3ZjE5NWU5MDRjMzFkMDI0YTY4YzIwOGM1MjQwN2M5",
   "tracks": [
     {
       "added_at": "2021-07-30 15:17:23",
@@ -159,6 +159,26 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "La Tortura (feat. Alejandro Sanz)",
+      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "added_at": "2021-07-30 15:17:23",
+      "album": {
         "name": "Reyli En La Luna",
         "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
       },
@@ -207,22 +227,18 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+        "name": "Cuatro Caminos",
+        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 212893,
-      "name": "La Tortura (feat. Alejandro Sanz)",
-      "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+      "duration_ms": 267600,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -239,22 +255,6 @@
       "duration_ms": 247693,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
-    },
-    {
-      "added_at": "2021-07-30 15:17:23",
-      "album": {
-        "name": "Cuatro Caminos",
-        "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Mi primer millon",
-      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
-    },
-    {
-      "added_at": "2021-07-30 15:17:23",
-      "album": {
         "name": "El Templo del Pop",
         "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
         }
       ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+      "duration_ms": 237386,
+      "name": "Mi primer millon",
+      "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -403,22 +387,6 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
-    },
-    {
-      "added_at": "2021-07-30 15:17:23",
-      "album": {
         "name": "El Mundo Se Equivoca",
         "url": "https://open.spotify.com/album/6C0am1pBvF0viIFsa0FZnp"
       },
@@ -431,6 +399,22 @@
       "duration_ms": 189560,
       "name": "Me Muero",
       "url": "https://open.spotify.com/track/3ri9fLG89OdSpjxheYxU7S"
+    },
+    {
+      "added_at": "2021-07-30 15:17:23",
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -463,6 +447,22 @@
       "duration_ms": 330373,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO"
+    },
+    {
+      "added_at": "2021-07-30 15:17:23",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -511,22 +511,6 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
-    },
-    {
-      "added_at": "2021-07-30 15:17:23",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Nada Valgo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -615,22 +599,6 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2021-07-30 15:17:23",
-      "album": {
         "name": "Son By 4",
         "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
       },
@@ -643,6 +611,22 @@
       "duration_ms": 210186,
       "name": "A Puro Dolor - Balada",
       "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
+    },
+    {
+      "added_at": "2021-07-30 15:17:23",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Nada Valgo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -679,18 +663,18 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -711,18 +695,18 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -759,18 +743,18 @@
     {
       "added_at": "2021-07-30 15:17:23",
       "album": {
-        "name": "Secuencia",
-        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 221200,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2021-07-30 15:17:23",
@@ -787,6 +771,22 @@
       "duration_ms": 194106,
       "name": "Suerte (Whenever, Wherever)",
       "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
+    },
+    {
+      "added_at": "2021-07-30 15:17:23",
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
     },
     {
       "added_at": "2021-07-30 15:17:23",

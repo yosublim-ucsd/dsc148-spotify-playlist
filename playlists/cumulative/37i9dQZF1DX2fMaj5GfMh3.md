@@ -4,7 +4,7 @@
 
 > Selena Gomez deze week op de cover van Fresh Pop.
 
-321 songs - 16 hr 6 min
+323 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2023-02-24 | 2023-03-31 |
 | [Holding On](https://open.spotify.com/track/6YexWyp9s0V0w1uGhtITsd) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:52 | 2023-03-30 | 2023-06-09 |
 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 | 2023-06-08 |  |
-| [Hope This Song Is For You \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/6hfd87ZTyziYGNdA7HYMv9) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Hope This Song Is For You \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/album/7m9VyKPY1RI8aOgkySxob7) | 2:35 | 2023-06-08 |  |
+| [Hope This Song Is For You \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/6hfd87ZTyziYGNdA7HYMv9) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Hope This Song Is For You \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/album/7m9VyKPY1RI8aOgkySxob7) | 2:35 | 2023-06-08 | 2023-09-05 |
 | [How Am I](https://open.spotify.com/track/0ieVrURqx9V4m1iw1VN2MJ) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [+11 Hours](https://open.spotify.com/album/7wgl5WVBnve1ZWfvzBLfls) | 3:29 | 2023-06-15 |  |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-04 | 2023-08-26 |
 | [Hush Hush](https://open.spotify.com/track/0rrX7GQDPe9ldXSz6dRyUI) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Hush Hush](https://open.spotify.com/album/1WfDg3nWWNCF79qK0kTlmB) | 2:12 | 2023-07-10 |  |
@@ -145,6 +145,7 @@
 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 | 2023-03-30 | 2023-07-08 |
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-07 |  |
 | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB) | 1:35 | 2023-02-24 | 2023-04-07 |
+| [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 | 2023-09-04 |  |
 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/6kZs5onGsFyRkTTAW624u0) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/album/6q5C6TAynyMnt9vfiPAuPT) | 2:43 | 2023-03-02 | 2023-06-02 |
 | [I Got Out](https://open.spotify.com/track/1hwgM28NE9SnJ30RzjUOBg) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [I Got Out](https://open.spotify.com/album/4XQlwqLcTmeQbusmasghI6) | 3:08 | 2023-03-01 | 2023-04-28 |
 | [I like u](https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme \(Extended Cut\)](https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3) | 3:10 | 2023-08-10 |  |
@@ -286,7 +287,8 @@
 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 | 2023-05-11 | 2023-08-26 |
 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 | 2023-03-24 | 2023-07-08 |
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-07-27 |  |
-| [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-13 |  |
+| [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-09-04 |  |
+| [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-13 | 2023-09-05 |
 | [Tall Boi](https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Tall Boi](https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl) | 2:30 | 2023-04-27 | 2023-08-04 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-03-09 | 2023-07-08 |
 | [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 | 2023-04-06 | 2023-07-14 |

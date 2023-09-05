@@ -4,7 +4,7 @@
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk
 
-151 songs - 7 hr 9 min
+152 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Ruas Perigosas](https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Pepito](https://open.spotify.com/artist/27agYrHqpHeDP8mI0gtw7N) | [Ruas Perigosas](https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV) | 3:15 | 2022-04-29 | 2022-09-24 |
 | [Rumo ao Estrelato](https://open.spotify.com/track/16drvh4x8015NoE0TxuYjx) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Rumo ao Estrelato](https://open.spotify.com/album/6Dd918PHnk7qcSd7t7zcUu) | 2:49 | 2022-03-11 | 2022-07-29 |
 | [Rumo ao Estrelato](https://open.spotify.com/track/4jQo1z3xWIGDbWDffMR4jF) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Rumo ao Estrelato](https://open.spotify.com/album/45LjNQUEzRB8cMy1sgIdw9) | 2:49 | 2022-07-08 |  |
-| [Runner \- Ao Vivo](https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Runner \(Ao Vivo\)](https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy) | 2:12 | 2023-07-07 |  |
+| [Runner \- Ao Vivo](https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9) | [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Runner \(Ao Vivo\)](https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy) | 2:12 | 2023-07-07 | 2023-09-05 |
 | [Santana Amarelo](https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ) | [Santana Amarelo](https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P) | 3:03 | 2022-03-11 | 2022-05-20 |
 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 | 2022-04-22 | 2022-05-14 |
 | [Sentral](https://open.spotify.com/track/6slMt85DKGnDHB3DUExnCj) | [Sena Mc](https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Sentral](https://open.spotify.com/album/0j8ZGugjauflFzt6hnpFK5) | 2:24 | 2023-06-30 | 2023-08-05 |
@@ -158,6 +158,7 @@
 | [Underdog](https://open.spotify.com/track/7wtPXyuaLkcYJDGYy9MrME) | [Well](https://open.spotify.com/artist/2JCYooigSy6wfahpfssCCp) | [Underdog](https://open.spotify.com/album/5I8gLJU4MAPWmc6hazfd27) | 2:04 | 2022-03-11 | 2022-04-02 |
 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 | 2022-11-04 |  |
 | [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 | 2022-11-11 | 2023-07-15 |
+| [Zona Leste](https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [The King Of Drill "TKOD"](https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z) | 2:27 | 2023-09-04 |  |
 | [Água de Bandido](https://open.spotify.com/track/3ZsJos5VyV11RBrAQiFzwl) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Água de Bandido](https://open.spotify.com/album/4Ux9Ebf8gKneh0iZPfY6Kc) | 2:20 | 2022-03-11 | 2022-03-26 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

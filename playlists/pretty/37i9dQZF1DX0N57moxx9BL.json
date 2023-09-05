@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT_-mL-QVsbRxKQ\">Red</a> ",
-  "num_followers": 133843,
+  "num_followers": 133940,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGViOThkMDU1OGZiZDBjZjhiMmJhNmY1NmJmZmU2MGZhYTU1Yjk0",
+  "snapshot_id": "MCwwNWM1M2FlN2M0YThjMDNiMzhjMTM0NTQ1MmNkZjc0ZDdjMTNiNTJh",
   "tracks": [
     {
       "added_at": "2023-08-04 12:11:34",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "The End Is Where We Begin",
+        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
+      },
+      "artists": [
+        {
+          "name": "Thousand Foot Krutch",
+          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO"
       },
@@ -271,6 +287,26 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "of Beauty and Rage",
         "url": "https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ"
       },
@@ -299,42 +335,6 @@
       "duration_ms": 265706,
       "name": "HEAVEN DON'T CRY",
       "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "The End Is Where We Begin",
-        "url": "https://open.spotify.com/album/6YJYFQ1Zz9I49YQknK4wIn"
-      },
-      "artists": [
-        {
-          "name": "Thousand Foot Krutch",
-          "url": "https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr"
-        }
-      ],
-      "duration_ms": 222435,
-      "name": "Be Somebody",
-      "url": "https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
-        }
-      ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Outlive",
-        "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Cold Winter Sun",
-      "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Dominion",
         "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Outlive",
+        "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Cold Winter Sun",
+      "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "I Won't Look Back",
         "url": "https://open.spotify.com/album/1TfVtPMulyRlJp2HEcwTWn"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 269733,
       "name": "Panic Room (featuring Andrew Schwab)",
       "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Standing in the Storm / Surviving The Game",
-        "url": "https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 257467,
-      "name": "Standing in the Storm",
-      "url": "https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -595,6 +579,22 @@
       "duration_ms": 159780,
       "name": "Have A Little Faith",
       "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Standing in the Storm / Surviving The Game",
+        "url": "https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 257467,
+      "name": "Standing in the Storm",
+      "url": "https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Death By Admiration",
-        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 218347,
-      "name": "Halos",
-      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 283741,
       "name": "In the Night",
       "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Death By Admiration",
+        "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 218347,
+      "name": "Halos",
+      "url": "https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Broken Pieces (Matthew Parker Remix)",
-        "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
-      },
-      "artists": [
-        {
-          "name": "Matt Moore",
-          "url": "https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf"
-        },
-        {
-          "name": "Matthew Parker",
-          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
-        }
-      ],
-      "duration_ms": 233869,
-      "name": "Broken Pieces (Matthew Parker Remix)",
-      "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C"
       },
@@ -779,22 +759,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "End of the World (feat. Disciple)",
-        "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
+        "name": "Broken Pieces (Matthew Parker Remix)",
+        "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+          "name": "Matt Moore",
+          "url": "https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf"
         },
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+          "name": "Matthew Parker",
+          "url": "https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54"
         }
       ],
-      "duration_ms": 354815,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
+      "duration_ms": 233869,
+      "name": "Broken Pieces (Matthew Parker Remix)",
+      "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -831,6 +811,42 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Stronger Than Death",
+        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
+      },
+      "artists": [
+        {
+          "name": "Zahna",
+          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
+        }
+      ],
+      "duration_ms": 222967,
+      "name": "Promise You're Coming Home",
+      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "End of the World (feat. Disciple)",
+        "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        },
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 354815,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Future Golden Age",
         "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
       },
@@ -843,6 +859,22 @@
       "duration_ms": 201240,
       "name": "Radio (NW Hesh)",
       "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -895,22 +927,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Hidden",
         "url": "https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP"
       },
@@ -923,38 +939,6 @@
       "duration_ms": 168000,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Stronger Than Death",
-        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
-      },
-      "artists": [
-        {
-          "name": "Zahna",
-          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
-        }
-      ],
-      "duration_ms": 222967,
-      "name": "Promise You're Coming Home",
-      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -975,22 +959,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
-      },
-      "artists": [
-        {
-          "name": "Safemode",
-          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
-        }
-      ],
-      "duration_ms": 266503,
-      "name": "This Is Not the End",
-      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "SILENCE THE WORLD",
         "url": "https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw"
       },
@@ -1007,6 +975,38 @@
       "duration_ms": 433866,
       "name": "SILENCE THE WORLD",
       "url": "https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt"
+      },
+      "artists": [
+        {
+          "name": "Safemode",
+          "url": "https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN"
+        }
+      ],
+      "duration_ms": 266503,
+      "name": "This Is Not the End",
+      "url": "https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Farewell to Midnight",
         "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 214315,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Songs for the Late Night Drive Home",
+        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
+      },
+      "artists": [
+        {
+          "name": "Anchor & Braille",
+          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Lower East Side",
+      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "No Fear In Love",
         "url": "https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 515318,
       "name": "No Fear In Love",
       "url": "https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Songs for the Late Night Drive Home",
-        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
-      },
-      "artists": [
-        {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Lower East Side",
-      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "What I've Become",
-        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "What I've Become",
-      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
       },
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "What I've Become",
+        "url": "https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "Futures",
         "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 246286,
       "name": "Drive",
       "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Pennell",
-        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        }
-      ],
-      "duration_ms": 333370,
-      "name": "Send Forth Laborers",
-      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
+        "name": "Pennell",
+        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        }
+      ],
+      "duration_ms": 333370,
+      "name": "Send Forth Laborers",
+      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
         "name": "I'm Only Dreaming",
         "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 236969,
       "name": "Louder Than a Lion",
       "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
-      },
-      "artists": [
-        {
-          "name": "I Am Spartacus",
-          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1475,6 +1459,22 @@
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/5h4dNwbvd4DnrtivzyIvUi"
+      },
+      "artists": [
+        {
+          "name": "I Am Spartacus",
+          "url": "https://open.spotify.com/artist/6UC6LeKj75bIA5ghegCU5l"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/5a4OVAt24QUhbmUOGFJ7Ju"
     },
     {
       "added_at": "2023-08-04 12:11:34",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-08-04 12:11:34",
       "album": {
-        "name": "Last Day Rising",
-        "url": "https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp"
-      },
-      "artists": [
-        {
-          "name": "LAST DAY RISING",
-          "url": "https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "Ready to Roll",
-      "url": "https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ"
-    },
-    {
-      "added_at": "2023-08-04 12:11:34",
-      "album": {
         "name": "Blood On Me",
         "url": "https://open.spotify.com/album/7rSuzamwwlO5KhyV7ceI3V"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 203702,
       "name": "Blood On Me",
       "url": "https://open.spotify.com/track/5qXDPLvzc5SQeOlZDqMyS1"
+    },
+    {
+      "added_at": "2023-08-04 12:11:34",
+      "album": {
+        "name": "The Antihero",
+        "url": "https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 248392,
+      "name": "The Antihero",
+      "url": "https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw"
     }
   ],
   "unique_name": "Top Christian Rock",

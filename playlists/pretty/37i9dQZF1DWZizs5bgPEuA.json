@@ -1,12 +1,12 @@
 {
   "description": "Music by our 2023 Artists To Watch. Cover: Young Miko",
-  "num_followers": 1701,
+  "num_followers": 1780,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2RkZTAxYzY1YmViMjBmZjNmMzI5ZmVhOGFkZWQ5MzNlMzI2ZTVi",
+  "snapshot_id": "MCwzMTcwNDJkNWMyNjQ5NDQxYzE0NjAwZWFkYmNmZDg1Y2UxMmNjNzcz",
   "tracks": [
     {
       "added_at": "2023-09-01 14:53:30",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "Jagger.mp3",
-        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
         "name": "Desde Mis Ojos (Remix)",
         "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
       },
@@ -151,38 +135,6 @@
       "duration_ms": 223563,
       "name": "Desde Mis Ojos - Remix",
       "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
-        "name": "TQM",
-        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158965,
-      "name": "TQM",
-      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
       "added_at": "2023-09-01 14:53:30",
@@ -219,6 +171,54 @@
     {
       "added_at": "2023-09-01 14:53:30",
       "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -235,110 +235,6 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 252166,
-      "name": "La \u00daltima Vez - Deluxe",
-      "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
-        "name": "Sigan Hablando",
-        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 271861,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
-        "name": "ID",
-        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 235525,
-      "name": "ID",
-      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
-    },
-    {
-      "added_at": "2023-09-01 14:53:30",
-      "album": {
-        "name": "mis compas tan aqu\u00ed",
-        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "mis compas tan aqu\u00ed",
-      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2023-09-01 14:53:30",
@@ -375,22 +271,54 @@
     {
       "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "Reina de la Selva",
-        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 176986,
-      "name": "Reina de la Selva",
-      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "ID",
+        "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 235525,
+      "name": "ID",
+      "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 252166,
+      "name": "La \u00daltima Vez - Deluxe",
+      "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
     },
     {
       "added_at": "2023-09-01 14:53:30",
@@ -411,38 +339,94 @@
     {
       "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 216000,
-      "name": "La Curiosidad - Deluxe",
-      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
     },
     {
       "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "te kiero ver",
-        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
+        "name": "Sigan Hablando",
+        "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 147224,
-      "name": "te kiero ver",
-      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
+      "duration_ms": 271861,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 213279,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "Reina de la Selva",
+        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Reina de la Selva",
+      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "mis compas tan aqu\u00ed",
+        "url": "https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "mis compas tan aqu\u00ed",
+      "url": "https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X"
     },
     {
       "added_at": "2023-09-01 14:53:30",
@@ -491,38 +475,38 @@
     {
       "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 176960,
-      "name": "C\u00e1scara de Coco",
-      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
+      "duration_ms": 216000,
+      "name": "La Curiosidad - Deluxe",
+      "url": "https://open.spotify.com/track/7EesJDJFoBjFoWeA3CeLVo"
     },
     {
       "added_at": "2023-09-01 14:53:30",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2uSOp7hmFukPAZqn4lJWpI"
+        "name": "te kiero ver",
+        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
       },
       "artists": [
         {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 213279,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+      "duration_ms": 147224,
+      "name": "te kiero ver",
+      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
     },
     {
       "added_at": "2023-09-01 14:53:30",
@@ -543,6 +527,22 @@
       "duration_ms": 191232,
       "name": "en guerra",
       "url": "https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx"
+    },
+    {
+      "added_at": "2023-09-01 14:53:30",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "C\u00e1scara de Coco",
+      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
     },
     {
       "added_at": "2023-09-01 14:53:30",

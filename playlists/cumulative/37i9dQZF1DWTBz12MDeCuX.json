@@ -3267,6 +3267,32 @@
     },
     {
       "album": {
+        "name": "Brazilian Phonk Mano",
+        "url": "https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "lucaf.",
+          "url": "https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84576,
+      "name": "Brazilian Phonk Mano",
+      "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
+    },
+    {
+      "album": {
         "name": "BREAK MY SOUL",
         "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
       },
@@ -7985,6 +8011,28 @@
     },
     {
       "album": {
+        "name": "glow worms",
+        "url": "https://open.spotify.com/album/73WH6rOigOwshc88l9Hm83"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        },
+        {
+          "name": "Naveih",
+          "url": "https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115215,
+      "name": "glow worms",
+      "url": "https://open.spotify.com/track/3JG9JpvaYjmq0i17qnu8y4"
+    },
+    {
+      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -10938,7 +10986,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 173730,
       "name": "Katana",
       "url": "https://open.spotify.com/track/5IWdTVWfyptPgld5406jpA"
@@ -11484,7 +11532,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 157344,
       "name": "Lachs",
       "url": "https://open.spotify.com/track/0fQO7Eb3E30tdCL4fArWJ0"
@@ -15394,7 +15442,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 169669,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/1s2LA4dVnWikMXVtyBRaj1"
@@ -15706,7 +15754,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 231750,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
@@ -19427,6 +19475,24 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
         "name": "streetsmart",
         "url": "https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46"
       },
@@ -20902,7 +20968,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 158786,
       "name": "Trenchezzz (with Nemzzz)",
       "url": "https://open.spotify.com/track/0CpfrVubPZHWe1EB2qeo3D"

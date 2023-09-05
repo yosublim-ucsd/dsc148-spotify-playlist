@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Haven, Denise Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,323 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,347 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 34 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 35 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 |
 | 36 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
-| 37 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
-| 38 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
+| 37 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
+| 38 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
 | 39 | [Diri](https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:00 |
-| 40 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
-| 41 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
+| 40 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
+| 41 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
 | 42 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 |
 | 43 | [Biar Menjadi Kenangan](https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Ahmad Dhani](https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm) | [Biar Menjadi Kenangan](https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c) | 5:13 |
 | 44 | [Ekspektasi](https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1), [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Ekspektasi](https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M) | 4:59 |
 | 45 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:08 |
 | 46 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
-| 47 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
-| 48 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
+| 47 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
+| 48 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
 | 49 | [Luka](https://open.spotify.com/track/3uAbxlHUC7hZkUMQ2NfIOp) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:13 |
 | 50 | [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 |
 
-Snapshot ID: `MCwxYjIxYjg4Y2VkYTc5MjVhYzMwOTdkZjEzZWVmMDkyM2Y0NDg5M2M1`
+Snapshot ID: `MCw0Y2M4MTE5OTQ1YzJlZjc1NjE2OWE4ODM4OGU5NmZkZGNlZmUwNDli`

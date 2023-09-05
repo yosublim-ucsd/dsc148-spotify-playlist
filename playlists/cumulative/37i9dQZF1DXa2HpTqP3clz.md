@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-470 songs - 1 day 4 hr 19 min
+471 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 | 2022-05-13 | 2022-08-27 |
 | [Ain’t That Fine](https://open.spotify.com/track/22Is0mpoTCXoz5EE1U2yjb) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [See You Around](https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW) | 3:08 | 2021-12-17 | 2022-07-29 |
 | [Ain’t That Fine](https://open.spotify.com/track/1TrLKX7IZyktQzBy6TeBpC) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:08 | 2022-07-22 |  |
-| [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 | 2022-07-29 |  |
+| [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 | 2022-07-29 | 2023-09-05 |
 | [All Ashore](https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [All Ashore](https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl) | 7:05 | 2021-12-17 | 2023-08-19 |
 | [All The Lilacs In Ohio](https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [All The Lilacs In Ohio](https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au) | 3:29 | 2021-12-17 | 2023-08-19 |
 | [All the Mornings Have an Echo](https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [All the Mornings Have an Echo](https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG) | 2:55 | 2023-06-02 |  |
@@ -406,6 +406,7 @@
 | [The More I Learn](https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [The More I Learn](https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b) | 4:06 | 2021-12-17 |  |
 | [The Place that I Call Home](https://open.spotify.com/track/39W90PjYGoryz9JaVuIK54) | [Circus No\. 9](https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu) | [Circus No\. 9](https://open.spotify.com/album/18TiTJrpGISf5ALIcr0doS) | 3:32 | 2022-07-08 | 2022-08-23 |
 | [The Seeker](https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP) | [Julie and Dan](https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hymns\-Some Of Old, Some Of New](https://open.spotify.com/album/7f5asZCvsayLsxzQtr8aJs) | 3:49 | 2022-05-27 | 2023-05-16 |
+| [The Trailblazer](https://open.spotify.com/track/6XwSoj31OGTt9CjkzyzjOf) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w), [David Brimer](https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh) | [The Trailblazer](https://open.spotify.com/album/2sEQOzIpCE5HHqyvZD7xpy) | 2:46 | 2023-09-01 |  |
 | [The Train That Carried My Girl From Town](https://open.spotify.com/track/2GGekGcN4bEXpifmlSzEi9) | [The Earls Of Leicester](https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm) | [Rattle & Roar](https://open.spotify.com/album/5yktofvNIfkzNsMiQ0UFnV) | 2:46 | 2021-12-17 | 2022-03-12 |
 | [The Trappings](https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Not Our First Goat Rodeo](https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn) | 3:39 | 2021-12-17 | 2023-08-19 |
 | [The Way It All Began](https://open.spotify.com/track/7aa9ykTB7F7vuvo9osqkTo) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Smoke & Ashes](https://open.spotify.com/album/7MMlKMU5tcTzByq993LdyZ) | 3:38 | 2021-12-17 | 2022-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 306,582 likes - 220 songs - 12 hr 30 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 306,571 likes - 220 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

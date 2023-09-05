@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 172140,
       "name": "Heartache Melody",
       "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
@@ -1818,6 +1818,24 @@
       "duration_ms": 168852,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/57ala3dITsOzu59EfKMTlA"
+    },
+    {
+      "album": {
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 16033,
+  "num_followers": 16082,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDAzMTlmNjBjMzcwZTAyMmZlY2I2MWNjYTlhMDA1NDg4ZWUwODMw",
+  "snapshot_id": "MCwxZmNjNjI5MzE3ODhiMmM5ZWZkMTY5MzcyYzQwNWMzODY1OGFkZWE2",
   "tracks": [
     {
       "added_at": "2023-08-31 22:59:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 206775,
       "name": "Snapchat",
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -975,6 +975,22 @@
       "duration_ms": 186000,
       "name": "Angelus",
       "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "ENTA",
         "url": "https://open.spotify.com/album/4FQD5xomYdmrUI47Y0q3zY"
       },
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Vawulence",
-        "url": "https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw"
-      },
-      "artists": [
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
-        }
-      ],
-      "duration_ms": 132039,
-      "name": "Vawulence",
-      "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "My Own (feat. Blaqbonez)",
         "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
       },
@@ -1395,22 +1379,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Eleyele",
-        "url": "https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 128183,
-      "name": "Eleyele",
-      "url": "https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -1427,6 +1395,38 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Eleyele",
+        "url": "https://open.spotify.com/album/6fPuy2F9Aega1ajo93h3lT"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 128183,
+      "name": "Eleyele",
+      "url": "https://open.spotify.com/track/4AEQG338TenEGr5f7OEaMq"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 132039,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"
     },
     {
       "added_at": "2023-08-31 22:59:00",

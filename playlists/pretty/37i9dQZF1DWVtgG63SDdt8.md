@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh?si=b4a9f921838d44fb">JJ Heller</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,316 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,495 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Fall of Jericho](https://open.spotify.com/track/7hOYbrfXukER0EfR9qs2Nk) | [Jordan Merritt](https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Fall of Jericho](https://open.spotify.com/album/4n4PdRG45xcXy5Ux88JmEU) | 5:14 |
 | 100 | [Glory](https://open.spotify.com/track/05OXsOuUQCXHiIN0n9OZGv) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Glory](https://open.spotify.com/album/0C73WdxXWeUXdAV84fOg0v) | 3:20 |
 
-Snapshot ID: `MCxhODE4Y2YzNDk0YWMyODMyOWJjOTlkZGM1ODVlNGFhNjBmNmJkYWM2`
+Snapshot ID: `MCw3NmUzNTFlNjQ5ZWUyODlhYTY1ZDYzZGYxYzY2ZDQ2NjA5OTA4NWI4`

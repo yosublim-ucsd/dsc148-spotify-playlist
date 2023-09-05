@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 14050,
+  "num_followers": 14090,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2FjZTljNzdjYjM3ZjI5ZWZlZDA5ZTNhMGRkNzBhZjZhZTY3MTc2",
+  "snapshot_id": "MCwyMmY4MDA1ZDM4YjdkNzRmM2M3M2QyNThmYWM1MjA0M2IxYWJmOTdh",
   "tracks": [
     {
       "added_at": "2023-08-17 23:00:00",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "This Is What I Mean",
         "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 325333,
       "name": "This Is What I Mean",
       "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Kwaku the Traveller",
-        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku the Traveller",
-      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -507,34 +491,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Worst Day",
-        "url": "https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT"
+        "name": "Kwaku the Traveller",
+        "url": "https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Worst Day",
-      "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Kom",
-        "url": "https://open.spotify.com/album/7KH66XzcwUnvuTLcbfuHxX"
-      },
-      "artists": [
-        {
-          "name": "Tulenkey",
-          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Kom",
-      "url": "https://open.spotify.com/track/5cnW4vF3zPUfNGNR2dzDVf"
+      "duration_ms": 185364,
+      "name": "Kwaku the Traveller",
+      "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -559,22 +527,34 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+        "name": "Kom",
+        "url": "https://open.spotify.com/album/7KH66XzcwUnvuTLcbfuHxX"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+          "name": "Tulenkey",
+          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
         }
       ],
-      "duration_ms": 152283,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
+      "duration_ms": 170358,
+      "name": "Kom",
+      "url": "https://open.spotify.com/track/5cnW4vF3zPUfNGNR2dzDVf"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
+        "name": "Worst Day",
+        "url": "https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Worst Day",
+      "url": "https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -707,18 +687,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "First Sermon",
-        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
       },
       "artists": [
         {
           "name": "Black Sherif",
           "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
         }
       ],
-      "duration_ms": 185362,
-      "name": "First Sermon",
-      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+      "duration_ms": 152283,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -847,6 +831,22 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "First Sermon",
+        "url": "https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 185362,
+      "name": "First Sermon",
+      "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Young Preacher",
         "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 154285,
       "name": "SKI",
       "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
-    },
-    {
-      "added_at": "2023-08-17 23:00:00",
-      "album": {
-        "name": "Second Sermon (Remix)",
-        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 194863,
-      "name": "Second Sermon - Remix",
-      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
       "added_at": "2023-08-17 23:00:00",
@@ -947,6 +927,30 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
+        "name": "Assignment",
+        "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
+      },
+      "artists": [
+        {
+          "name": "KiddBlack",
+          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "DJ FortuneDJ",
+          "url": "https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9"
+        }
+      ],
+      "duration_ms": 137472,
+      "name": "Assignment",
+      "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
+    },
+    {
+      "added_at": "2023-08-17 23:00:00",
+      "album": {
         "name": "Connecting the Dots",
         "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
       },
@@ -979,26 +983,18 @@
     {
       "added_at": "2023-08-17 23:00:00",
       "album": {
-        "name": "Assignment",
-        "url": "https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D"
+        "name": "Anadwo",
+        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
       },
       "artists": [
         {
-          "name": "KiddBlack",
-          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "DJ FortuneDJ",
-          "url": "https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9"
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
         }
       ],
-      "duration_ms": 137472,
-      "name": "Assignment",
-      "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
+      "duration_ms": 170295,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
     }
   ],
   "unique_name": "Pump it Up ",

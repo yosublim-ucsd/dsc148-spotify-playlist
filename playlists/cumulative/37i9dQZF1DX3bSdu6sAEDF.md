@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-322 songs - 17 hr 58 min
+323 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [I'm Okay](https://open.spotify.com/track/13G75440eEdoAYBxpvx7iJ) | [Jack Shore](https://open.spotify.com/artist/6NgzzaS7j1LDVAV72lmV3P), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [I'm Okay](https://open.spotify.com/album/121XCucgRj9maofL28rYsF) | 2:56 | 2022-08-05 | 2022-08-13 |
 | [If I Were You](https://open.spotify.com/track/7DD5C8Dxq3acjvwDUCvuQQ) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Lay Your Hands Upon My Heart](https://open.spotify.com/album/6Sa4Qik3FdBzIdcIPtHF15) | 3:33 | 2023-06-23 |  |
 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:29 | 2021-10-26 | 2022-01-20 |
-| [In The Night](https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [In The Night](https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z) | 3:26 | 2022-09-02 |  |
+| [In The Night](https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [In The Night](https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z) | 3:26 | 2022-09-02 | 2023-09-05 |
+| [Infinitely Falling](https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:43 | 2023-09-04 |  |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-11 | 2022-07-24 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-02-11 | 2023-04-22 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-03 | 2022-01-20 |

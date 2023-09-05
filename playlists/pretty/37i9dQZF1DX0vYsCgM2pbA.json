@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 124178,
+  "num_followers": 124214,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDZiMjBjODZlYjhlNzZmNWIwNmFkNWY3ZTFiYzI0M2ZkMDg1Y2E0",
+  "snapshot_id": "MCw0YmFmZmZhMzNlN2NhYWJjZjk1YTFlN2EyZmJlODA0NGMwODI4MmFj",
   "tracks": [
     {
       "added_at": "2023-08-31 13:43:40",
@@ -139,26 +139,6 @@
     {
       "added_at": "2023-08-31 13:43:40",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
-    },
-    {
-      "added_at": "2023-08-31 13:43:40",
-      "album": {
         "name": "World Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+    },
+    {
+      "added_at": "2023-08-31 13:43:40",
+      "album": {
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -319,38 +319,6 @@
     {
       "added_at": "2023-08-31 13:43:40",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
-    },
-    {
-      "added_at": "2023-08-31 13:43:40",
-      "album": {
-        "name": "A Lover\u2019s Guide to a Lucid Dream",
-        "url": "https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM"
-      },
-      "artists": [
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "A Lover\u2019s Guide to a Lucid Dream",
-      "url": "https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5"
-    },
-    {
-      "added_at": "2023-08-31 13:43:40",
-      "album": {
         "name": "Yeah The Girls",
         "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 194310,
       "name": "Yeah The Girls",
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
+    },
+    {
+      "added_at": "2023-08-31 13:43:40",
+      "album": {
+        "name": "A Lover\u2019s Guide to a Lucid Dream",
+        "url": "https://open.spotify.com/album/6FsAeOl2J8a52BRIPEULqM"
+      },
+      "artists": [
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "A Lover\u2019s Guide to a Lucid Dream",
+      "url": "https://open.spotify.com/track/7Jkka9vkLDhKoB7zlzVvM5"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -395,22 +379,6 @@
     {
       "added_at": "2023-08-31 13:43:40",
       "album": {
-        "name": "Alectura",
-        "url": "https://open.spotify.com/album/1lIqutur4MwqF4nKrPpT4L"
-      },
-      "artists": [
-        {
-          "name": "Tijuana Cartel",
-          "url": "https://open.spotify.com/artist/5KE0NtjV2Q9ki3i3IE6DdB"
-        }
-      ],
-      "duration_ms": 306366,
-      "name": "Before It Goes",
-      "url": "https://open.spotify.com/track/46ujI4XQnsKwuyq3mK34yV"
-    },
-    {
-      "added_at": "2023-08-31 13:43:40",
-      "album": {
         "name": "Love Tonight (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
       },
@@ -431,8 +399,24 @@
     {
       "added_at": "2023-08-31 13:43:40",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "Alectura",
+        "url": "https://open.spotify.com/album/1lIqutur4MwqF4nKrPpT4L"
+      },
+      "artists": [
+        {
+          "name": "Tijuana Cartel",
+          "url": "https://open.spotify.com/artist/5KE0NtjV2Q9ki3i3IE6DdB"
+        }
+      ],
+      "duration_ms": 306366,
+      "name": "Before It Goes",
+      "url": "https://open.spotify.com/track/46ujI4XQnsKwuyq3mK34yV"
+    },
+    {
+      "added_at": "2023-08-31 13:43:40",
+      "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
       "artists": [
         {
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -459,6 +443,30 @@
       "duration_ms": 231978,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
+    },
+    {
+      "added_at": "2023-08-31 13:43:40",
+      "album": {
+        "name": "Oh My (feat. Moby)",
+        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 160116,
+      "name": "Oh My (feat. Moby)",
+      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -511,30 +519,6 @@
       "duration_ms": 190000,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
-    },
-    {
-      "added_at": "2023-08-31 13:43:40",
-      "album": {
-        "name": "Oh My (feat. Moby)",
-        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 160116,
-      "name": "Oh My (feat. Moby)",
-      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 269480,
-      "name": "I Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -695,38 +679,6 @@
       "duration_ms": 192138,
       "name": "Esther",
       "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
-    },
-    {
-      "added_at": "2023-08-31 13:43:40",
-      "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
-    },
-    {
-      "added_at": "2023-08-31 13:43:40",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -815,22 +767,18 @@
     {
       "added_at": "2023-08-31 13:43:40",
       "album": {
-        "name": "Do You Want Me",
-        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
         }
       ],
-      "duration_ms": 272523,
-      "name": "Do You Want Me",
-      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -847,6 +795,42 @@
       "duration_ms": 319551,
       "name": "Oceanside Girl",
       "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+    },
+    {
+      "added_at": "2023-08-31 13:43:40",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "I Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
+    },
+    {
+      "added_at": "2023-08-31 13:43:40",
+      "album": {
+        "name": "Do You Want Me",
+        "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 272523,
+      "name": "Do You Want Me",
+      "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -907,6 +891,22 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "added_at": "2023-08-31 13:43:40",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-08-31 13:43:40",
       "album": {
-        "name": "Differences",
-        "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "The Aston Shuffle",
-          "url": "https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94"
-        }
-      ],
-      "duration_ms": 140806,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
-    },
-    {
-      "added_at": "2023-08-31 13:43:40",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2023-08-31 13:43:40",
       "album": {
-        "name": "Bad For Me",
-        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
+        "name": "Differences",
+        "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
       },
       "artists": [
         {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "The Aston Shuffle",
+          "url": "https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94"
         }
       ],
-      "duration_ms": 177422,
-      "name": "Bad For Me",
-      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
+      "duration_ms": 140806,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
     },
     {
       "added_at": "2023-08-31 13:43:40",
@@ -1107,6 +1091,22 @@
       "duration_ms": 243599,
       "name": "Get To Know (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
+    },
+    {
+      "added_at": "2023-08-31 13:43:40",
+      "album": {
+        "name": "Bad For Me",
+        "url": "https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "Bad For Me",
+      "url": "https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up"
     },
     {
       "added_at": "2023-08-31 13:43:40",

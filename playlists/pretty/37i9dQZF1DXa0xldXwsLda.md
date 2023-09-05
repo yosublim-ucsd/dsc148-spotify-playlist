@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,786 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,813 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 37 | [Perfect \- Acoustic](https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Perfect \(Acoustic\)](https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv) | 4:20 |
 | 38 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 |
 | 39 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 |
-| 40 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 |
-| 41 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
-| 42 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
-| 43 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 |
-| 44 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
+| 40 | [No Ha Parado De Llover \(with Sebastián Yatra\)](https://open.spotify.com/track/0Ao64XWY9rvsx4K0JmJ7Pv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Ha Parado De Llover](https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU) | 4:05 |
+| 41 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
+| 42 | [Chachachá \- acústico](https://open.spotify.com/track/7lFcRLIrpzjPd2Ytp13Ml3) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Chachachá \(acústico\)](https://open.spotify.com/album/79immCdVvW18wwjtgnfiHK) | 3:28 |
+| 43 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
+| 44 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
 | 45 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 |
 | 46 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 |
 | 47 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 50 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 |
 | 51 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 |
 | 52 | [Alguien Más](https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:22 |
-| 53 | [Let It Be](https://open.spotify.com/track/1zx3bRFeIqknq6opwgaw3U) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/0PwCeCCMgPKGH9kCD3UZR0) | 2:28 |
-| 54 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
+| 53 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
+| 54 | [Let It Be](https://open.spotify.com/track/1zx3bRFeIqknq6opwgaw3U) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/0PwCeCCMgPKGH9kCD3UZR0) | 2:28 |
 | 55 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/0cvrnpQP2UBc9f68M28JDt) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:28 |
 | 56 | [Ansiedad](https://open.spotify.com/track/7rLozI09IOepDfaF5umbK8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:46 |
 | 57 | [Tocarte](https://open.spotify.com/track/2Qkk5xpMVrOrXj1K1Wv40P) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Tocarte](https://open.spotify.com/album/3ruktrqPw50q5kUXnWOiq0) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 99 | [Si Ella Se Va](https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Si Ella Se Va](https://open.spotify.com/album/6xKegFA0uFcks5W2dTWgrE) | 2:52 |
 | 100 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 |
 
-Snapshot ID: `MCxlY2I4MWE4ZDJmOWVlYjI5N2NmZTFmZmU3YjYwMGRmOWI0YmE3ZjQ1`
+Snapshot ID: `MCxjOWU3ZWI3ZGI5OTYxNTI4NzVkNzM5MjVhNTBkMTZlNzBhMmE0N2Vl`

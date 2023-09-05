@@ -1,12 +1,12 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 350455,
+  "num_followers": 350561,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjBmOTBkMGJjOTJlMjY1OGQ2NmJiYjljN2MwYzkzMjQ0ODA4NTY4",
+  "snapshot_id": "MCxlMGVlODFlZWFiNmUyNjhlZGE1MWU1Mzg3MmY0OWQxN2QyYTVmYmE4",
   "tracks": [
     {
       "added_at": "2022-07-06 19:59:10",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 233746,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
         "name": "Coti",
         "url": "https://open.spotify.com/album/7wv093HeXvQuJZvOD6m2gG"
       },
@@ -159,38 +175,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 233746,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -223,6 +207,22 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
         "name": "Pampas Reggae",
         "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 237546,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -335,22 +351,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Los Rayos",
         "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 239040,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -447,6 +463,22 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -475,22 +507,6 @@
       "duration_ms": 212062,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -579,22 +595,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Rocanroles Sin Destino",
         "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Tramposa y Mentirosa",
-      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 261545,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Tramposa y Mentirosa",
+      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 218680,
       "name": "Pibe Cantina",
       "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Espejos",
         "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 302788,
       "name": "Antes y Despu\u00e9s",
       "url": "https://open.spotify.com/track/3Awr8U97Q3vVR3vWdQv8Ts"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Espejos",
         "url": "https://open.spotify.com/album/6Hg4QuUasAaIbX037jHVg0"
       },
@@ -1175,18 +1159,34 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Testosterona",
+        "url": "https://open.spotify.com/album/4b9r4ceZWynWCxOtJGp6VC"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "Sencillamente",
+      "url": "https://open.spotify.com/track/3tPGzLQOB9GnSisO0l4tGW"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1203,6 +1203,22 @@
       "duration_ms": 212253,
       "name": "El humo de mi fasito",
       "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Testosterona",
-        "url": "https://open.spotify.com/album/4b9r4ceZWynWCxOtJGp6VC"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "Sencillamente",
-      "url": "https://open.spotify.com/track/3tPGzLQOB9GnSisO0l4tGW"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
-        "name": "Turfshow",
-        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Yo No Me Quiero Casar, Y Ud?",
-      "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
+        "name": "Turfshow",
+        "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Yo No Me Quiero Casar, Y Ud?",
+      "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
         "name": "Influencia",
         "url": "https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 263315,
-      "name": "Se Te Ve la Tanga",
-      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Truenotierra",
         "url": "https://open.spotify.com/album/1LcPYKYAui0A4MNHbbdnvS"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 222783,
       "name": "Oscuro diamante",
       "url": "https://open.spotify.com/track/4YXfEjF0PPrgsOk5NR2SBQ"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 263315,
+      "name": "Se Te Ve la Tanga",
+      "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "GUAU!",
-        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Peque\u00f1os Sue\u00f1os",
-      "url": "https://open.spotify.com/track/4MjstyMMO5I6hch9GASIGb"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Cumbia Callejera",
         "url": "https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 243957,
       "name": "De Regreso Al Penal",
       "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "GUAU!",
+        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Peque\u00f1os Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4MjstyMMO5I6hch9GASIGb"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 247336,
-      "name": "No Se Llama Amor",
-      "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 247336,
+      "name": "No Se Llama Amor",
+      "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+        "name": "Sin Remedio",
+        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Primavera 0 - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
+      "duration_ms": 299426,
+      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
+      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Sin Remedio",
-        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
-      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Nunca Se Acaba",
         "url": "https://open.spotify.com/album/5sN0cr5TIs5sm29m0FfOCY"
       },
@@ -1611,22 +1595,34 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Pericos & Friends",
-        "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 234753,
-      "name": "Complicado y Aturdido / Mulher de Fases",
-      "url": "https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30"
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Primavera 0 - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
     }
   ],
   "unique_name": "Los 2000 Argentina",

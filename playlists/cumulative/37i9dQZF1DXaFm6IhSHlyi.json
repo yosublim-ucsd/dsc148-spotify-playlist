@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Kidnap for Romance (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/70YCM7kgIwLvCGRxkQl9BJ"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/64G8ywuyGGQl4S7U2a6XJf"
+    },
+    {
+      "album": {
         "name": "Umaga",
         "url": "https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF"
       },
@@ -3552,7 +3570,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 143799,
       "name": "Taal (#YOM 10)",
       "url": "https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC"

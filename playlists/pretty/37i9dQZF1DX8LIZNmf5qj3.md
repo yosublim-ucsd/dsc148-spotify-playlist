@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,750 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,823 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 14 | [Passenger Princess](https://open.spotify.com/track/5ILp3IxMiSxucBx00cSWSr) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Passenger Princess](https://open.spotify.com/album/6wLBAVTUjVhwJ5AATa4oWs) | 3:37 |
 | 15 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
 | 16 | [If I’m Lying](https://open.spotify.com/track/5xaQAWQ6Q65HTJGEZxrzpt) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:17 |
-| 17 | [Troubling](https://open.spotify.com/track/19xF1y9aEyVSuSR6CaKIsR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Troubling](https://open.spotify.com/album/6HtXqqGLOWJ9VbtYRBJuJr) | 2:31 |
+| 17 | [Troubling](https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Life Is Better Now](https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo) | 2:31 |
 | 18 | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Breaking Point \(feat\. Victoria Monét\) \[Remix\]](https://open.spotify.com/album/6iHkadl6ouedA4nFKffFjz) | 5:10 |
 | 19 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
 | 20 | [WHO DO U LUV](https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Dopamine](https://open.spotify.com/track/2aH5hMaNmlHHi6oJhwR8AK) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Dopamine](https://open.spotify.com/album/5WJ7b5yW2GXwHJkYlcpYVs) | 2:43 |
 | 50 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 |
 
-Snapshot ID: `MCxjNzZmZjY1ZWRjNDU4YmI1MzFhZmUxY2UwMjc3MTNjYjZkMTJiMTE3`
+Snapshot ID: `MCwwMDlhODc0ZmYyNjBmMDc4OTJiNjgzNjg1YThkOTkyMTkyMzRkNGY0`

@@ -4,7 +4,7 @@
 
 > A mix of punk rock to get you through your workout.
 
-280 songs - 14 hr 54 min
+281 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Broken Bones](https://open.spotify.com/track/6DCQ5i1MY0UiZSCZlcaaMi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/4M3FmKIEhpQ50myPyzpWY2) | 3:01 | 2020-11-20 | 2022-07-29 |
 | [Broken Dreams, Inc.](https://open.spotify.com/track/6jjsvz1cxRDU1rlW9Kkv5Z) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Broken Dreams, Inc.](https://open.spotify.com/album/6PpXNkijHaoYuteJkC7Ni9) | 3:51 | 2020-11-20 | 2022-07-29 |
 | [Broken Dreams, Inc.](https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:53 | 2020-11-20 |  |
+| [Broken Heart](https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU) | 3:07 | 2020-11-20 |  |
 | [Broken Heart](https://open.spotify.com/track/64kDGEpOWlkv2l6x4TVNOs) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Broken Heart](https://open.spotify.com/album/0xpSM1rZxOJZR3o5kpcfQE) | 3:07 | 2020-11-20 | 2022-11-13 |
 | [Bullet for Your Sweetheart](https://open.spotify.com/track/4Z4EeEBGhvcoBwQmHIl0km) | [Make Out Monday](https://open.spotify.com/artist/3GIXsr5vAVkwN5i0noYsBp) | [Visions of Hollywood](https://open.spotify.com/album/4wX8RD86rnLDEjpKrG8Pxr) | 3:07 | 2020-11-20 | 2022-07-28 |
 | [Bullfrog](https://open.spotify.com/track/0jDGtdVh5TM69LxqaI1mp3) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/4xtHySb6XaNo8SLRgfpUSu) | 3:01 | 2020-11-20 | 2022-07-27 |
@@ -104,7 +105,7 @@
 | [Gasoline](https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Gasoline](https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr) | 3:20 | 2020-11-20 |  |
 | [Gasoline](https://open.spotify.com/track/7zu033uK8PfJ0lqOIKHhzL) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Gasoline](https://open.spotify.com/album/4kYXtDdzfh2dQYZw11hN2S) | 3:20 | 2020-11-20 | 2022-07-29 |
 | [Get By](https://open.spotify.com/track/1UnpGQbe2SDnAtr6vAYI4K) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Get By](https://open.spotify.com/album/0wBq7Mzg0wbJMNGNroZiPx) | 3:32 | 2020-11-20 | 2022-07-25 |
-| [Get By](https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:32 | 2020-11-20 |  |
+| [Get By](https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:32 | 2020-11-20 | 2023-09-05 |
 | [Getaway Green](https://open.spotify.com/track/3pUJI1a0oZNHj9wRtZOf5O) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Getaway Green/Sleeping In/Some Kind Of Disaster](https://open.spotify.com/album/6g706eoQwOTiadVEkt2FKQ) | 2:47 | 2020-11-20 | 2022-07-29 |
 | [Getaway Green](https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:47 | 2020-11-20 | 2022-11-13 |
 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 | 2020-11-20 |  |

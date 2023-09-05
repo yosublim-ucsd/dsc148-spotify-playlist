@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Sam Smith
 
-405 songs - 23 hr 13 min
+406 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Scars To Your Beautiful](https://open.spotify.com/track/4JPM6TuFJgccpoKLKmleDD) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Scars To Your Beautiful](https://open.spotify.com/album/7wMuoQxclWrghUMcDyzMhJ) | 4:17 | 2021-12-17 | 2022-05-02 |
 | [See You Again](https://open.spotify.com/track/2GArYzH7f20j2e3xgFPEQc) | [Sabby Sousa](https://open.spotify.com/artist/4wGT7z6uSZfL2KdmUtG8d6) | [See You Again](https://open.spotify.com/album/0AwxjhGlgTp5hMUw9GmEmE) | 3:38 | 2021-12-17 | 2022-05-02 |
 | [Send My Love \(To Your New Lover\) \- Live](https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Send My Love \(To Your New Lover\) \[Live\]](https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z) | 3:45 | 2021-12-17 | 2022-04-21 |
+| [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 | 2023-09-04 |  |
 | [Set You Free](https://open.spotify.com/track/2qKdc7t4aM7yPFvZLosJE3) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Set You Free](https://open.spotify.com/album/0xpPzS9df3eHXt75Cv0jJU) | 3:21 | 2021-12-17 | 2022-05-02 |
 | [Shut up and Dance](https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i) | [Anchor + Bell](https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t) | [Shut up and Dance](https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0) | 2:56 | 2021-12-17 | 2022-12-30 |
 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 | 2021-12-17 |  |

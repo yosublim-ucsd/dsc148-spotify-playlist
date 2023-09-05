@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,190 likes - 36 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,200 likes - 36 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 29 | [The Foundation](https://open.spotify.com/track/5aRgtLBY5fYQ0RwTDvEYX1) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [At The Speed Of Life](https://open.spotify.com/album/2LmMWr541k3mm7ZFTngOGG) | 3:55 |
 | 30 | [The Best Day](https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Latest Greatest Straitest Hits](https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7) | 3:24 |
 | 31 | [Dance Like Yo Daddy](https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:03 |
-| 32 | [Anything Like Me](https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:28 |
-| 33 | [Not All Heroes Wear Capes](https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Not All Heroes Wear Capes](https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q) | 3:46 |
-| 34 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
-| 35 | [Daddy](https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:58 |
+| 32 | [Not All Heroes Wear Capes](https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Not All Heroes Wear Capes](https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q) | 3:46 |
+| 33 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
+| 34 | [Daddy](https://open.spotify.com/track/5pv5vddJx34hzRT9wI0wK2) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:58 |
+| 35 | [Anything Like Me](https://open.spotify.com/track/74mZKvZcZzzvbOnt8NfWda) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:28 |
 | 36 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 |
 
-Snapshot ID: `MCwxOWNhMDFmMzI1NTY1NDBhNTgzMzA4MDUwYmI3OGZkYjBlOTJjNGI1`
+Snapshot ID: `MCw2MThkZDlmYjFhNjk3MmRkNTZhN2UwYzgxOTE1Zjk5MzE3NzJlOTE5`

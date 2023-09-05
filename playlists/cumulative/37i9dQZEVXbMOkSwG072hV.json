@@ -24925,6 +24925,24 @@
     },
     {
       "album": {
+        "name": "Preto Demais",
+        "url": "https://open.spotify.com/album/0r4tvWwDSlhMPOw9j70nx6"
+      },
+      "artists": [
+        {
+          "name": "Hugo Ojuara",
+          "url": "https://open.spotify.com/artist/0IWYr6WoUeneAbJIYdCf3D"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172875,
+      "name": "Preto Demais",
+      "url": "https://open.spotify.com/track/0SqExyvgUPTawKsVM2SZoP"
+    },
+    {
+      "album": {
         "name": "Primeira \u00e0 Direita",
         "url": "https://open.spotify.com/album/09T3pnEsGR406AZijJHk0X"
       },
@@ -32696,7 +32714,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 159276,
       "name": "Vem Morenin",
       "url": "https://open.spotify.com/track/58KvJ4I2QMhLcRBnkBam2M"

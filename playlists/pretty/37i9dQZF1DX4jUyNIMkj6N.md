@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,368 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,470 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 21 | [Wolf](https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq) | 3:40 |
 | 22 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 |
 | 23 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
-| 24 | [Signals](https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 4:01 |
-| 25 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 24 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 |
+| 25 | [Signals](https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 4:01 |
 | 26 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
 | 27 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ) | 3:51 |
 | 28 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 |
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 42 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
 | 43 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 |
 | 44 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
-| 45 | [Your Ghost](https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Your Ghost](https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU) | 3:20 |
-| 46 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
+| 45 | [Malory](https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees) | [Martin Stahl](https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l) | [Malory](https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7) | 2:58 |
+| 46 | [Your Ghost](https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Your Ghost](https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU) | 3:20 |
 | 47 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
 | 48 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
 | 49 | [Svarteboka](https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Svarteboka](https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC) | 4:00 |
-| 50 | [The Ghost in Your Smile](https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost in Your Smile](https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc) | 3:47 |
-| 51 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 |
+| 50 | [i went outside](https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25) | 4:53 |
+| 51 | [The Ghost in Your Smile](https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost in Your Smile](https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc) | 3:47 |
 | 52 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 |
-| 53 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 |
-| 54 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
+| 53 | [Oh God](https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [Dad Told Me](https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2) | 2:35 |
+| 54 | [Sun, Moon, Stars](https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Sun, Moon, Stars](https://open.spotify.com/album/5Zz3P4HvKnhar2gtvZrdL9) | 4:35 |
 | 55 | [October](https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Jonas Alaska](https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9) | 3:44 |
-| 56 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 |
-| 57 | [george's shelter](https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [george's shelter](https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY) | 3:01 |
+| 56 | [george's shelter](https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [george's shelter](https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY) | 3:01 |
+| 57 | [When the Mourning Comes](https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv) | [Christian Kjellvander](https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6) | [I Saw Her from Here / I Saw Here](https://open.spotify.com/album/6VR7bphUiAWAguSNdCxpHI) | 3:44 |
 | 58 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 |
-| 59 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 |
-| 60 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 |
+| 59 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 |
+| 60 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 |
 
-Snapshot ID: `MCw5MGVlYzk4MjgzMWQwZmZjZDEwNjNhYjg5NWE2NjAzNzViM2JmYjMx`
+Snapshot ID: `MCxlYzE2MjI4NjZlOTk4MTdlYmEyZWUwYzUzMzU1OTQzYTFmNmRkYzU2`

@@ -1,12 +1,12 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 53672,
+  "num_followers": 53773,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTYyYmFhMjRkZmE0ZTEyMzczYjZjNjAxYTRhMjdkMWE1YTU5ZDNj",
+  "snapshot_id": "MCw4ZDY2OTA0ODU0ZjQ4M2EwMmMzNjFkNTRkMGZlOTY2NTIwNTJkMzNi",
   "tracks": [
     {
       "added_at": "2023-08-18 18:06:48",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-08-18 18:06:48",
       "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2023-08-18 18:06:48",
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
-    },
-    {
-      "added_at": "2023-08-18 18:06:48",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2023-08-18 18:06:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,303 likes - 37 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,320 likes - 37 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 36 | [MORTICIA](https://open.spotify.com/track/6v9GnjzU2go5X3Wp12a5mc) | [Amal](https://open.spotify.com/artist/1Ep2wFh7xhFG1qhAa5AyJ8), [Vrando](https://open.spotify.com/artist/4g4Mp5qFF9SjAFSrQ2vl6f), [Samiy](https://open.spotify.com/artist/45IDu7mU0jIVoqnXPHp4iE) | [MORTICIA](https://open.spotify.com/album/4fDViNkqEkDQWi1qVJcIUj) | 2:27 |
 | 37 | [MY DJ](https://open.spotify.com/track/6kkmaDffKF5ZiIyl3CPhbJ) | [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn), [WhySoSerious](https://open.spotify.com/artist/1MSh4iqHmVl5OoNR1Pl8VB) | [MY DJ](https://open.spotify.com/album/425EzEFYJChMQqBqaPfNaA) | 2:14 |
 
-Snapshot ID: `MCxmYWZiZTIxOTQ5Y2NmMDYyNTIzMzIxOWRhN2YxMmEzYWE5N2NlNDE1`
+Snapshot ID: `MCxmN2VhNGIzZjYyMjYwNThmZjQyZjFjZTI5ZDkzMDdlZjk1YjUxYjM0`

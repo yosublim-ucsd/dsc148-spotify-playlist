@@ -4,7 +4,7 @@
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-100 songs - 4 hr 6 min
+102 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 | 2023-05-05 |  |
 | [Although](https://open.spotify.com/track/1yzntUA9nlN3ieYjtmGN94) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Although](https://open.spotify.com/album/5ysdKCkyWk9CcyAmr0n3gK) | 2:40 | 2023-05-05 |  |
 | [Amor Amor](https://open.spotify.com/track/3uT3f3Oq8gU0MSit6SP4z8) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n) | [Amor Amor](https://open.spotify.com/album/7J7n7p8siOchM6R42Eonbt) | 2:16 | 2023-05-05 |  |
+| [Amorcito Corazón Lofi](https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Amorcito Corazón Lofi](https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y) | 1:49 | 2023-09-04 |  |
 | [Areca](https://open.spotify.com/track/34ECimOZN65vNIEDRauhhd) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Areca](https://open.spotify.com/album/1gOTOnrWlkJVOod1DZATtR) | 1:59 | 2023-05-05 |  |
 | [Barrio](https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc) | [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Barrio](https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS) | 2:05 | 2023-05-05 |  |
 | [Better Off Alone](https://open.spotify.com/track/3w5U0L7t320RdJnkO2gZU5) | [Lightfoot](https://open.spotify.com/artist/4hKUEllZNA2iRQ8J5P1lpL) | [Terra Incognita](https://open.spotify.com/album/2HE2I2GlIegVhwEMFLgMz5) | 2:12 | 2023-05-05 |  |
@@ -32,7 +33,7 @@
 | [Copihue](https://open.spotify.com/track/0cx4EjL0G6erSbMOpECbvR) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Copihue](https://open.spotify.com/album/6FY1jYE3Fv2Zwvw8j5XhDR) | 2:37 | 2023-05-05 |  |
 | [Cumbia Don Juan](https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbia Don Juan](https://open.spotify.com/album/2MlGXLf3WETeNe9W2xfFX0) | 2:14 | 2023-05-05 |  |
 | [Cumbiero](https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [Cumbiero](https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3) | 1:39 | 2023-05-05 |  |
-| [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 | 2023-05-05 |  |
+| [Cumbiero](https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 4:20 | 2023-05-05 | 2023-09-05 |
 | [Dale Dale](https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Dale Dale](https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x) | 2:28 | 2023-05-05 |  |
 | [Dalia](https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Dalia](https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV) | 2:53 | 2023-05-05 |  |
 | [Dark Thoughts](https://open.spotify.com/track/6YnukfWzdA6GnBzWgY4Had) | [Andros](https://open.spotify.com/artist/6xF1vJVs8eJ04wVjW8zEa7) | [Dark Thoughts](https://open.spotify.com/album/4lhacPMyXoQTyXFLtC0I5E) | 1:14 | 2023-05-05 |  |
@@ -51,6 +52,7 @@
 | [Hide n Seek](https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa) | [Outdream](https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I) | [Hide n Seek](https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4) | 2:10 | 2023-05-05 |  |
 | [iced coffee](https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7) | [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [iced coffee](https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T) | 1:56 | 2023-05-05 |  |
 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 | 2023-05-05 |  |
+| [jazz y cdmx](https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [jazz y cdmx](https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z) | 2:01 | 2023-09-04 |  |
 | [Just A Cool Day](https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Just A Cool Day](https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI) | 1:55 | 2023-05-05 |  |
 | [La Feria](https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Oda a la Infancia](https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz) | 1:44 | 2023-05-05 |  |
 | [La Villa](https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [La Villa](https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu) | 2:24 | 2023-07-21 |  |
@@ -91,7 +93,7 @@
 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 | 2023-05-05 |  |
 | [Playa](https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l) | [slider beats](https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps) | [Feelings](https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k) | 2:09 | 2023-05-05 |  |
 | [Playa del amor](https://open.spotify.com/track/5fwxiLkBHjivfTUhiHb6gm) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Playa del amor](https://open.spotify.com/album/4AZ4bVmrlluC4ajS7DUf2N) | 1:57 | 2023-05-05 |  |
-| [Ramito de Violetas](https://open.spotify.com/track/60FhpIfgJmUnmqSItvnapx) | [Rex Akumu](https://open.spotify.com/artist/5EwriJfF6OQlLXkKByKrnq) | [Ramito de Violetas](https://open.spotify.com/album/17ztHokcDbkWlHbij2grmv) | 5:16 | 2023-05-05 |  |
+| [Ramito de Violetas](https://open.spotify.com/track/60FhpIfgJmUnmqSItvnapx) | [Rex Akumu](https://open.spotify.com/artist/5EwriJfF6OQlLXkKByKrnq) | [Ramito de Violetas](https://open.spotify.com/album/17ztHokcDbkWlHbij2grmv) | 5:16 | 2023-05-05 | 2023-09-05 |
 | [Sabes una Cosa pero es Lo\-Fi](https://open.spotify.com/track/6PMn3QQZF7DcpiQyr1en2d) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Sabes una Cosa pero es Lo\-Fi](https://open.spotify.com/album/19Vy697fMPkhO5Q4XEBFpn) | 2:33 | 2023-05-05 |  |
 | [Saguaro](https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Saguaro](https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb) | 2:12 | 2023-05-05 |  |
 | [Sayulita Vibes](https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Sayulita Vibes](https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz) | 1:58 | 2023-05-05 |  |

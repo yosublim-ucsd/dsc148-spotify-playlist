@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 595773,
+  "num_followers": 595879,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmJiZTUwOGE1MjVlN2VkYmU0M2RiYmUxYzY4ZWI1YzdjN2I2M2Ew",
+  "snapshot_id": "MCw2ODI5YTdjZjJhMmE1ZjUyNWUyMDYyM2M5MWE1OWYwNTJhZjhhZWU1",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 215613,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Better Word (Live)",
         "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 215613,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Trust in You",
-      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Chain Breaker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
       },
@@ -243,26 +227,6 @@
       "duration_ms": 196466,
       "name": "Chain Breaker",
       "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "You Keep Hope Alive",
-        "url": "https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "You Keep Hope Alive",
-      "url": "https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -287,6 +251,42 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "You Keep Hope Alive",
+        "url": "https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "You Keep Hope Alive",
+      "url": "https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -339,6 +339,30 @@
       "duration_ms": 256933,
       "name": "10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",
       "url": "https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -423,30 +447,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 385053,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
       },
@@ -543,26 +563,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 385053,
-      "name": "It Is Well - Live",
-      "url": "https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Waymaker (Radio Version)",
         "url": "https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 242107,
       "name": "Waymaker - Radio Version",
       "url": "https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 249242,
-      "name": "Hills and Valleys (The Valleys Version)",
-      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -631,6 +615,22 @@
       "duration_ms": 232379,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 249242,
+      "name": "Hills and Valleys (The Valleys Version)",
+      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "inhale (exhale)",
-        "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 245424,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "inhale (exhale)",
+        "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 245424,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "All Sons & Daughters",
         "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 296343,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 323866,
+      "name": "Voice of Truth",
+      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -995,22 +1011,6 @@
       "duration_ms": 467053,
       "name": "Resurrecting (Live)",
       "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 323866,
-      "name": "Voice of Truth",
-      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Spoken For",
         "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
       },
@@ -1079,6 +1063,38 @@
       "duration_ms": 187573,
       "name": "Word of God Speak",
       "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1103,22 +1119,6 @@
       "duration_ms": 279506,
       "name": "Shout to the Lord - Live",
       "url": "https://open.spotify.com/track/52mdbM1tueoC8UnYvZ9uTX"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Lydia Laird",
-        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
-      },
-      "artists": [
-        {
-          "name": "Lydia Laird",
-          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
-        }
-      ],
-      "duration_ms": 204865,
-      "name": "Hallelujah Even Here",
-      "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Lydia Laird",
+        "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
+      },
+      "artists": [
+        {
+          "name": "Lydia Laird",
+          "url": "https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y"
+        }
+      ],
+      "duration_ms": 204865,
+      "name": "Hallelujah Even Here",
+      "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "My Feet Are on the Rock",
-      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "I Will Follow",
         "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 211600,
       "name": "Christ In Me",
       "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "My Feet Are on the Rock",
+      "url": "https://open.spotify.com/track/33q4ENIRByGmdKeRWoIfSm"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 329213,
-      "name": "O Praise The Name (An\u00e1stasis) - Live",
-      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "God Is on the Move",
         "url": "https://open.spotify.com/album/717joDA6v1pvhMq13mCSfV"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 176615,
       "name": "God Is on the Move",
       "url": "https://open.spotify.com/track/72aVbNngCMhTFl31ydjHCG"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 329213,
+      "name": "O Praise The Name (An\u00e1stasis) - Live",
+      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 321933,
+      "name": "Open The Eyes Of My Heart - Live",
+      "url": "https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Passion: Here For You (Live)",
         "url": "https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 274814,
       "name": "Lord, I Need You - Live",
       "url": "https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 321933,
-      "name": "Open The Eyes Of My Heart - Live",
-      "url": "https://open.spotify.com/track/4um6ZMnib1I7VuG3c6jGm5"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1615,8 +1615,8 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+        "name": "Ultimate Worship: Hillsong (Live)",
+        "url": "https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL"
       },
       "artists": [
         {
@@ -1624,29 +1624,13 @@
           "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
         }
       ],
-      "duration_ms": 264320,
-      "name": "Awake My Soul",
-      "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
-        "name": "The Story Of Your Life",
-        "url": "https://open.spotify.com/album/53FZR7fpE4NarQjLLB6h39"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/3b6yQRfPf0wPiEKCTA46ZO"
+      "duration_ms": 220826,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
+        "name": "The Story Of Your Life",
+        "url": "https://open.spotify.com/album/53FZR7fpE4NarQjLLB6h39"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/3b6yQRfPf0wPiEKCTA46ZO"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
         "name": "Live Like That",
         "url": "https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38"
       },
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Fill This Place (Live)",
-        "url": "https://open.spotify.com/album/16CdyumvxDomk04TnJZYe7"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 248854,
-      "name": "I'm Listening - Radio Version",
-      "url": "https://open.spotify.com/track/5ExBj7cdyNLZ1t5PalfPWa"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Awake My Soul",
+      "url": "https://open.spotify.com/track/6AvQ48ohekN6f2eqZCYICX"
     }
   ],
   "unique_name": "Everyday Inspiration",

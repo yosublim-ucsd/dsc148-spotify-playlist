@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 101713,
+  "num_followers": 101830,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDQwNjJhZTExNDU0MTg5YjQ5MmUxNjYxNTgwMGMyMTljZDI4MzM1",
+  "snapshot_id": "MCxkNzQ0NzAzYzU5MzJhNzU4NDBhZjY1OTMzYmY3MGM1NWM5MzA0YjRi",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Ghost Stories",
         "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 285014,
       "name": "Magic",
       "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 195920,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -283,18 +283,22 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "A Brief Inquiry Into Online Relationships",
-        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
+        "name": "Hands All Over",
+        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 256687,
-      "name": "Be My Mistake",
-      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
+      "duration_ms": 201160,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -315,22 +319,18 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Hands All Over",
-        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
+        "name": "A Brief Inquiry Into Online Relationships",
+        "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 201160,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
+      "duration_ms": 256687,
+      "name": "Be My Mistake",
+      "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -367,6 +367,26 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
+        "name": "Overexposed (Deluxe)",
+        "url": "https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Payphone",
+      "url": "https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -383,18 +403,18 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 231118,
-      "name": "Under Your Scars",
-      "url": "https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi"
+      "duration_ms": 257546,
+      "name": "Champion Of The World",
+      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -415,18 +435,18 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 257546,
-      "name": "Champion Of The World",
-      "url": "https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN"
+      "duration_ms": 231118,
+      "name": "Under Your Scars",
+      "url": "https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -463,22 +483,18 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Overexposed (Deluxe)",
-        "url": "https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP"
+        "name": "Lifelines",
+        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 231386,
-      "name": "Payphone",
-      "url": "https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c"
+      "duration_ms": 207053,
+      "name": "My Heart I Surrender",
+      "url": "https://open.spotify.com/track/4Qt5o43KerMzgh0PNPm6Q1"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -499,38 +515,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "The 1975 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 240670,
-      "name": "Fallingforyou",
-      "url": "https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
-        "name": "Lifelines",
-        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "My Heart I Surrender",
-      "url": "https://open.spotify.com/track/4Qt5o43KerMzgh0PNPm6Q1"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
+        "name": "Hands All Over (Deluxe)",
+        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/6KBYk8OFtod7brGuZ3Y67q"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
         "name": "Staind",
         "url": "https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 247053,
       "name": "Something to Remind You",
       "url": "https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "The 1975 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 240670,
+      "name": "Fallingforyou",
+      "url": "https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Hands All Over (Deluxe)",
-        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/6KBYk8OFtod7brGuZ3Y67q"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 278093,
+      "name": "Some Kind Of Love",
+      "url": "https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 238973,
       "name": "If You Ever Want To Be In Love",
       "url": "https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
-        "name": "Wonderful Wonderful",
-        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 278093,
-      "name": "Some Kind Of Love",
-      "url": "https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 169904,
+      "name": "Cold Arms",
+      "url": "https://open.spotify.com/track/3dBwNOUqqdCYPmiUMXxZMy"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
         "name": "Transmissions",
         "url": "https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 251706,
       "name": "The Mortician's Daughter",
       "url": "https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 169904,
-      "name": "Cold Arms",
-      "url": "https://open.spotify.com/track/3dBwNOUqqdCYPmiUMXxZMy"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
         }
       ],
-      "duration_ms": 241400,
-      "name": "Landlady",
-      "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
+      "duration_ms": 259252,
+      "name": "Zombie - Acoustic",
+      "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
     }
   ],
   "unique_name": "10s Easy Rock",

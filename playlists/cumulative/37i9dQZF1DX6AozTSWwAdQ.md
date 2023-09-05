@@ -4,12 +4,13 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-309 songs - 16 hr 24 min
+312 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15 Again](https://open.spotify.com/track/0VY3xLQo9sXjhIaLrVdIAt) | [The London Suede](https://open.spotify.com/artist/6GuRYj1MEnu1WZhDA2Xy0t) | [15 Again](https://open.spotify.com/album/0ERg12fJXEAe5uVfs6wXzu) | 3:24 | 2022-08-08 | 2022-08-16 |
 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2022-11-07 | 2022-11-14 |
+| [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-09-04 |  |
 | [AHHH](https://open.spotify.com/track/6FuKGUQdfjtLOX3PTLtiFM) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [AHHH](https://open.spotify.com/album/3IcK2G3DQi8K1eOctzBbl5) | 3:44 | 2022-11-07 | 2022-11-15 |
 | [Ain't Nobody's Baby](https://open.spotify.com/track/1fTuWEkpSr2MyKxR8ifack) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Ain't Nobody's Baby](https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ) | 2:29 | 2022-07-18 | 2022-07-25 |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-10-31 | 2022-11-08 |
@@ -51,6 +52,7 @@
 | [California Girl](https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [California Girl](https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q) | 2:53 | 2023-02-21 | 2023-02-28 |
 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 | 2023-03-20 | 2023-03-28 |
 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-30 |  |
+| [Car Park](https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:04 | 2023-09-04 |  |
 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2022-12-06 | 2022-12-13 |
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-23 | 2023-02-01 |
 | [Chew On My Heart](https://open.spotify.com/track/6t7089pe4VklogK683LdPM) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart](https://open.spotify.com/album/35CBeD16aEGo0xnm5ov6pM) | 3:15 | 2022-06-06 | 2022-07-29 |
@@ -61,7 +63,7 @@
 | [Come First](https://open.spotify.com/track/1IPIgDNQNF9dFHkyOEkojp) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Come First](https://open.spotify.com/album/2Z2HXqz2FUapa8JHOkPNrb) | 2:12 | 2022-09-26 | 2022-11-13 |
 | [Cool for the Summer \- Rock Version](https://open.spotify.com/track/6ClCR3r57iRpBPpOtU31ek) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Cool for the Summer \(Rock Version\)](https://open.spotify.com/album/767SPGadGVBNci1K0nUDrN) | 3:32 | 2023-05-29 | 2023-06-06 |
 | [Countdown To Shutdown](https://open.spotify.com/track/1bw8MQNG3NOQCfJQD1Auxt) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Countdown To Shutdown](https://open.spotify.com/album/7exlpnPOPjdUfwKwZ3tvQk) | 3:13 | 2023-06-19 | 2023-06-26 |
-| [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 | 2023-08-28 |  |
+| [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 | 2023-08-28 | 2023-09-05 |
 | [Cry About It Later](https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw) | 3:09 | 2022-07-04 | 2022-07-11 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2022-06-06 | 2022-07-29 |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-12 | 2022-10-06 |
@@ -128,6 +130,7 @@
 | [Holding On To You](https://open.spotify.com/track/367Qr3tFVMl2hpxAWDje6u) | [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Holding On To You](https://open.spotify.com/album/6hqqoFfpyJdMlbwNbQmKws) | 3:06 | 2022-07-04 | 2022-07-11 |
 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 | 2023-07-10 | 2023-07-18 |
 | [Honey](https://open.spotify.com/track/3f9gj7aK0IIrbnJ6YHDqFj) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Honey](https://open.spotify.com/album/1JSVRjxJYEPHAuxU8YbWBO) | 2:33 | 2022-07-04 | 2022-07-12 |
+| [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-04 |  |
 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 | 2022-10-31 |  |
 | [House On Fire](https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [House On Fire](https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL) | 2:20 | 2022-06-20 | 2023-04-28 |
 | [How Do You Love Somebody](https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [How Do You Love Somebody](https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc) | 3:00 | 2022-06-06 | 2022-11-14 |
@@ -166,7 +169,7 @@
 | [L.U.S.H.](https://open.spotify.com/track/58LjmBGKL3m3rzD6cUAMeq) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [L.U.S.H.](https://open.spotify.com/album/6Kubz9wO4yxQbNAuG0Cc6E) | 2:52 | 2022-10-31 | 2022-11-08 |
 | [LDQ \(Little Drama Queen\)](https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [LDQ \(Little Drama Queen\)](https://open.spotify.com/album/4jRePepXfCG8lfF9ZbR1Jv) | 3:50 | 2022-06-06 | 2022-07-28 |
 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 | 2022-06-06 | 2022-07-29 |
-| [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-28 |  |
+| [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-28 | 2023-09-05 |
 | [Let Me Let You Go](https://open.spotify.com/track/5CgkbROq94tTSnXnrfvtGH) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:00 | 2022-09-05 | 2022-09-12 |
 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 | 2022-06-27 | 2022-07-05 |
 | [Let's Jam](https://open.spotify.com/track/7y0xNkes5vdQXLCzmcTlGm) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Vai/Gash](https://open.spotify.com/album/4Hv4iR1M5Bh1KlZ3J6fJOe) | 4:19 | 2023-01-30 | 2023-02-07 |
@@ -232,7 +235,7 @@
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-05-29 |  |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-13 |  |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 | 2022-11-14 | 2023-02-15 |
-| [see you in hell](https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [see you in hell](https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM) | 2:52 | 2023-08-28 |  |
+| [see you in hell](https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [see you in hell](https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM) | 2:52 | 2023-08-28 | 2023-09-05 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-06-06 |  |
 | [She's So Gone](https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:06 | 2022-07-25 | 2023-08-22 |
 | [Shelter \(feat\. Avril Lavigne\)](https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [God Save The Teen](https://open.spotify.com/album/2nGoq5bReMW1NvKsbjoCBw) | 3:10 | 2023-02-07 | 2023-02-14 |

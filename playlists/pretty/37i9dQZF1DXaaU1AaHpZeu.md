@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Luna Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,965 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,960 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Amor](https://open.spotify.com/track/45v5rMeDnY1wHTkhaDgNxi) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Amor](https://open.spotify.com/album/6FwDN1bjkhQGnDEfHDALTY) | 3:20 |
 | 50 | [Acá](https://open.spotify.com/track/1Y1ZjDVV24xDdnK2WiVsjc) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Acá](https://open.spotify.com/album/3qUG8qKETKEmmZqhcRbGcX) | 4:10 |
 
-Snapshot ID: `MCw4YzU0YWQxMDE2YmIwODYzYjI1ZjgzZjA5ZjcxZTkxMzkxNzg2N2Rl`
+Snapshot ID: `MCw5YWY2N2Y5NWM0MjgwOWQ4ZjEzN2ZiY2JmZjk0ZDlmMDQ3NGZhOGE0`

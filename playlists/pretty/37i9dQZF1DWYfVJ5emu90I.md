@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,270 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,307 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 13 | [NIKE DRIP \- REMIX](https://open.spotify.com/track/7g9zIRbdPvfiPrDOlL3RFP) | [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4) | [NIKE DRIP \(REMIX\)](https://open.spotify.com/album/2PDJLYDBWmDqtyQMJaO7mF) | 2:30 |
 | 14 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 15 | [FreeBoiii](https://open.spotify.com/track/4fc1GduRB1LoVpCxcPsBfK) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Pedro the GodSon](https://open.spotify.com/artist/0BQTXgCijj1OlovJI9x0Jg) | [Zee PACK vol.1.5](https://open.spotify.com/album/7F3KclbfnIcYI0e7b4Slpd) | 2:55 |
-| 16 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
+| 16 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 |
 | 17 | [Ippai G2](https://open.spotify.com/track/7quDM98kweHmcHrqzdCkIj) | [Link Hood](https://open.spotify.com/artist/7wjf64sDcVNsgTXKKyaxio), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc) | [Ippai G2](https://open.spotify.com/album/2rJl8FBwTHAkQ8p0aqIPuo) | 3:12 |
-| 18 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 |
+| 18 | [OKE](https://open.spotify.com/track/6y2q7bLJT6pHcrFzhKEE1Y) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [Cultural Reset](https://open.spotify.com/album/79AFzidiqcGb2KEmrajhos) | 2:26 |
 | 19 | [Psycho](https://open.spotify.com/track/1MrMCAwN8FKvSKHaDAAoTY) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/3xey9oaCCAC2AEL1mcemo3) | 2:37 |
 | 20 | [BAKUON](https://open.spotify.com/track/3Ce2pidrO43laAAFJcZZbe) | [LYTO](https://open.spotify.com/artist/3aCv90gO2lX7bOzETHLGjA) | [NEVER ENDING STORY](https://open.spotify.com/album/621nNvyHkZ6ekzTTyNc6Bk) | 3:20 |
 | 21 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [RAKURAI](https://open.spotify.com/track/0xcZG0APNxCUQh6G2yv1WH) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/1pfgn03W3aBkPzzUKaQFy6) | 2:44 |
 | 50 | [Light side](https://open.spotify.com/track/3sPsSstVES0s7P0Fnu0UHS) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [ill world](https://open.spotify.com/album/5gWy5fhgCQNcHhi9RScEaU) | 1:46 |
 
-Snapshot ID: `MCxjOGUxZDcwMTMyODliNzE3NTdlZmZhNjAxYTYzNjczOTAyNTU5MjU4`
+Snapshot ID: `MCwzNjZlOWUwYjUwOGQxYjEzNDQzMjhmMTIwY2YzNzAyZmU3ZDAxZmNi`

@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Kizz Daniel & Becky G",
-  "num_followers": 113526,
+  "num_followers": 113567,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzk0NDI0NzA1ODZhMDVkMjVmMTYxZjFkMWViMDM1ODFiMTJiYThk",
+  "snapshot_id": "MCxjYmUyOTlhMmUwMmY3YjMyZTFiZTA1ZmE0NTliZDllYWY4ZjdiNWIz",
   "tracks": [
     {
       "added_at": "2023-07-20 23:00:00",
@@ -215,46 +215,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "KU LO SA (with Camila Cabello)",
         "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
       },
@@ -271,6 +231,22 @@
       "duration_ms": 148800,
       "name": "KU LO SA (with Camila Cabello)",
       "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -307,6 +283,30 @@
       "duration_ms": 152542,
       "name": "Zendaya",
       "url": "https://open.spotify.com/track/7zZZjSsDfiiMeZHKO0WgiF"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -439,6 +419,42 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -519,22 +535,6 @@
       "duration_ms": 201940,
       "name": "Rotate",
       "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Jeje de Whine",
-      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Getting Late",
         "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 254557,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Jeje de Whine",
+      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -911,30 +911,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
-      },
-      "artists": [
-        {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
-        },
-        {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
-        },
-        {
-          "name": "anatu",
-          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "before",
-      "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Midnight Boom (with ChocQuibTown & Afro B)",
         "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 220552,
       "name": "Midnight Boom - with ChocQuibTown & Afro B",
       "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "before",
+      "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
       },
       "artists": [
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
         "name": "Sugarcane (Latin Remix)",
         "url": "https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366"
       },
@@ -1455,34 +1471,6 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "Diggy Dee (Remix)",
-        "url": "https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        },
-        {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        },
-        {
-          "name": "Tarik Jazzy T Thompson",
-          "url": "https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "Diggy Dee - Remix",
-      "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
     }
   ],
   "unique_name": "Afro Ritmo",

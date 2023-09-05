@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Wandra Restusiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,158 likes - 83 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,324 likes - 83 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 82 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 |
 | 83 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 |
 
-Snapshot ID: `MCw3YzVhNWEzZjEzOTQzZTM4NTgzYjg3NDg5NDQzNDJiNWM1ZDZiMmE3`
+Snapshot ID: `MCxhMjljODAyMDdiMmQ5NzY1YTJiYTEyNjVmN2E4YzBmMjZiNThlMWFh`

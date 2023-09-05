@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Trijntje Oosterhuis
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,538 likes - 81 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,589 likes - 81 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ken Je Mij \- Live From De Rode Hoed, Amsterdam, Netherlands / 2008](https://open.spotify.com/track/3oGJr5fuofoNfO5CrrbLB6) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Ken Je Mij](https://open.spotify.com/album/2wyfmgzMM1RSBgQVUsvJKS) | 5:41 |
 | 2 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 |
-| 3 | [Bijna September](https://open.spotify.com/track/0DNXeZj5MhL7LZdQDbznDO) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Bijna September](https://open.spotify.com/album/2ym14U1NP7ppRIUZAyrQoh) | 2:35 |
-| 4 | [Avond](https://open.spotify.com/track/5Gc1NPkUBjkARUkH1Giwvh) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Nieuwe Herfst](https://open.spotify.com/album/42aDAwpl9kwSea1a8KRiL6) | 4:36 |
-| 5 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 |
-| 6 | [Mooier](https://open.spotify.com/track/5mabrt9VxlEgoSy3RSenW7) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Getuigen](https://open.spotify.com/artist/6mirF7xKDhc3pyVDxMrerP) | [Uit Het Hoofd](https://open.spotify.com/album/1e9Woi0cizyIT1Emfmiw8Q) | 3:28 |
-| 7 | [Voor Haar](https://open.spotify.com/track/5oSNx87hsjk0Nz0pdQcdct) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Favorieten Expres](https://open.spotify.com/album/4wtJJageS0xLtoxiqvgQZf) | 2:51 |
-| 8 | [Vrouw Van De Dominee \- Live @ Radio Veronica](https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vrouw van de Dominee \(Live @ Radio Veronica\)](https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT) | 2:56 |
-| 9 | [Laat Me](https://open.spotify.com/track/6XzBlaRUFcps7zkKgZWh7E) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Dag En Nacht](https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe) | 5:05 |
-| 10 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 |
+| 3 | [Avond](https://open.spotify.com/track/5Gc1NPkUBjkARUkH1Giwvh) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Nieuwe Herfst](https://open.spotify.com/album/42aDAwpl9kwSea1a8KRiL6) | 4:36 |
+| 4 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 |
+| 5 | [Mooier](https://open.spotify.com/track/5mabrt9VxlEgoSy3RSenW7) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Getuigen](https://open.spotify.com/artist/6mirF7xKDhc3pyVDxMrerP) | [Uit Het Hoofd](https://open.spotify.com/album/1e9Woi0cizyIT1Emfmiw8Q) | 3:28 |
+| 6 | [Voor Haar](https://open.spotify.com/track/5oSNx87hsjk0Nz0pdQcdct) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Favorieten Expres](https://open.spotify.com/album/4wtJJageS0xLtoxiqvgQZf) | 2:51 |
+| 7 | [Vrouw Van De Dominee \- Live @ Radio Veronica](https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vrouw van de Dominee \(Live @ Radio Veronica\)](https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT) | 2:56 |
+| 8 | [Laat Me](https://open.spotify.com/track/6XzBlaRUFcps7zkKgZWh7E) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Dag En Nacht](https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe) | 5:05 |
+| 9 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 |
+| 10 | [Bijna September](https://open.spotify.com/track/0DNXeZj5MhL7LZdQDbznDO) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Bijna September](https://open.spotify.com/album/2ym14U1NP7ppRIUZAyrQoh) | 2:35 |
 | 11 | [Los](https://open.spotify.com/track/35LMuMdS0uonMULXeGfQcV) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO) | [Los](https://open.spotify.com/album/7tzQmiWfCA5vCFaaYMpBog) | 4:02 |
 | 12 | [Lied Van De Zevende Dag](https://open.spotify.com/track/6e50pXxK6eUgcH5wc3Z06W) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Lied Van De Zevende Dag](https://open.spotify.com/album/0qZ53110VSvZHsHSYtk0vn) | 2:59 |
 | 13 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 80 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 | 81 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
 
-Snapshot ID: `MCxmOTY4NzA0NmIxNWZjYmM5N2RmZTZjNDljZGE2Y2U0OTAzMTM4NzIz`
+Snapshot ID: `MCwwMjFjYjJkYzZiMzA4ZTNkYmNiODFjYzRiZmM5NzUxMThlZjZlZWI4`

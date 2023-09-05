@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2017945,
+  "num_followers": 2017964,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjFkMzExZmE2YmFmOTBmOGRjYWMyNjU3ZGY3NGM0MDU2MmQ3MGY1",
+  "snapshot_id": "MCw5YWFiOTNmOGRlNjg4ZDE3YzIwZTg0YmM4YTdiNzc4Yzg2MDM3NmRh",
   "tracks": [
     {
       "added_at": "2023-09-01 04:21:17",
@@ -155,26 +155,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "Mi Verdad (feat. Shakira)",
-        "url": "https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 272576,
-      "name": "Mi Verdad (feat. Shakira)",
-      "url": "https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 271893,
       "name": "Quererte Bonito",
       "url": "https://open.spotify.com/track/3uUJWiEkIePGTDju0Ff2Qb"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Mi Verdad (feat. Shakira)",
+        "url": "https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 272576,
+      "name": "Mi Verdad (feat. Shakira)",
+      "url": "https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "La Bilirrubina",
         "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 238533,
       "name": "El Embrujo",
       "url": "https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "Solo M\u00eda",
         "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 255669,
       "name": "Solo M\u00eda",
       "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 224600,
       "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
       "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "Tiempo Para Perder",
-        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
-      },
-      "artists": [
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Tiempo Para Perder",
-      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 153564,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Tiempo Para Perder",
+        "url": "https://open.spotify.com/album/1T2k2NxjZwxji7SO8a6ZqC"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 220862,
+      "name": "Tiempo Para Perder",
+      "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "A M\u00ed y a Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "A M\u00ed y a Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "A M\u00ed y a Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "A M\u00ed y a Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
@@ -1295,6 +1263,38 @@
       "duration_ms": 195917,
       "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "Matadero 5 (Live)",
-        "url": "https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V"
-      },
-      "artists": [
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 152355,
-      "name": "Cuando Se Apaga la Luz (Live)",
-      "url": "https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -1595,6 +1579,38 @@
       "duration_ms": 205010,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Matadero 5 (Live)",
+        "url": "https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V"
+      },
+      "artists": [
+        {
+          "name": "Taburete",
+          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
+        }
+      ],
+      "duration_ms": 152355,
+      "name": "Cuando Se Apaga la Luz (Live)",
+      "url": "https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -1615,22 +1631,6 @@
       "duration_ms": 253910,
       "name": "La Canci\u00f3n",
       "url": "https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2023-09-01 04:21:17",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-09-01 04:21:17",
       "album": {
-        "name": "Velero",
-        "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
-      },
-      "artists": [
-        {
-          "name": "Matt Hunter",
-          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 136595,
-      "name": "Velero",
-      "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
-    },
-    {
-      "added_at": "2023-09-01 04:21:17",
-      "album": {
         "name": "La Parte Buena",
         "url": "https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 223634,
       "name": "La Parte Buena",
       "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
+    },
+    {
+      "added_at": "2023-09-01 04:21:17",
+      "album": {
+        "name": "Velero",
+        "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
+      },
+      "artists": [
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "duration_ms": 136595,
+      "name": "Velero",
+      "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
     },
     {
       "added_at": "2023-09-01 04:21:17",

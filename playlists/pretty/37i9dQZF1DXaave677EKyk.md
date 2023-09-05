@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a generation of party starters\. Cover: FISHER & Kita Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,041 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,095 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 40 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 |
 | 41 | [Hot In It](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
 | 42 | [Dance Around It](https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Dance Around It](https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt) | 2:24 |
-| 43 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
-| 44 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 |
+| 43 | [Rhyme Dust](https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG) | 3:01 |
+| 44 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 |
 | 45 | [You Little Beauty](https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [You Little Beauty](https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b) | 3:26 |
 | 46 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
 | 47 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [It's Your Time](https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [Jamie Boy Bassline](https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj) | [It's Your Time](https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt) | 3:06 |
 | 80 | [Don't Call Me Baby](https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC) | 3:07 |
 
-Snapshot ID: `MCw5NWIyZWE1OGRjNWFjM2JkNDZjYzU1Y2E3YzRlZDJmNjE1ZWIwMjZj`
+Snapshot ID: `MCw2MjQwZGIwYzQ5NDhmOTUzZjIwNGNiNzZiZjk5YmNkNzcyYjI2ZDIw`

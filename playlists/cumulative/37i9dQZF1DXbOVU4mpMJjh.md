@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-886 songs - 2 day 13 hr 45 min
+887 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
 | [Beatrice](https://open.spotify.com/track/3fZQ7I7lDN2DZQJHuJ70Ly) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Beatrice](https://open.spotify.com/album/4g1qHBpSJiWwjhLyX27ypB) | 3:35 | 2023-01-19 |  |
 | [Beatrice](https://open.spotify.com/track/30qPlOpLeJWD1mASyON1po) | [Westend Jazz Trio](https://open.spotify.com/artist/0HaG0FgLppnqm1WHvtzUXu) | [Beatrice](https://open.spotify.com/album/1VJRaHnjfgwtQVlCV2NcQb) | 2:55 | 2022-04-14 | 2022-10-08 |
-| [Beautiful Friendship](https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Beautiful Friendship](https://open.spotify.com/album/5XHl4NgUdeKlyqB8igiTEb) | 3:18 | 2023-08-31 |  |
+| [Beautiful Friendship](https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Beautiful Friendship](https://open.spotify.com/album/5XHl4NgUdeKlyqB8igiTEb) | 3:18 | 2023-08-31 | 2023-09-05 |
 | [Beautiful Love](https://open.spotify.com/track/3Str3OZii9YMeMOuJLG577) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/7epEg8WuJeNQ0iXT6PRLQA) | 2:58 | 2022-04-14 | 2022-07-29 |
 | [Beautiful Love](https://open.spotify.com/track/4vrdSRSPdwRPjeLL5iqb3p) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 2:59 | 2022-06-30 | 2022-09-16 |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-09 |  |
@@ -773,6 +773,7 @@
 | [The Sidewinder](https://open.spotify.com/track/77b1v5Vohuobvvu61VrhKR) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 10:26 | 2022-04-14 | 2022-04-22 |
 | [The Swing of Things](https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [The Swing of Things](https://open.spotify.com/album/52iuF1UEHKnd1vJ46teQlA) | 3:11 | 2023-05-11 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
+| [The Water Maiden](https://open.spotify.com/track/4Gj6COJPLXtgCoWen9kTiq) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [The Water Maiden](https://open.spotify.com/album/2VQ3bxCuOPtuHCzhMr2Ukm) | 3:27 | 2023-08-31 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/538i7a7QwrXfGH9p3eyI8C) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/13m2P4p9u49QJNJN0PQymi) | 3:00 | 2022-04-14 | 2022-05-03 |
 | [The Windmill](https://open.spotify.com/track/0tQdWOKnJRthxwJ5Pr6ZBE) | [Kendrettes](https://open.spotify.com/artist/2IQF92w0RMFsspuMr89Ylj) | [The Windmill](https://open.spotify.com/album/7igHbLzkcE9mOsMkKvIxXy) | 2:22 | 2023-03-09 |  |
 | [The Winter of My Discontent](https://open.spotify.com/track/2ovibjyd0xaW7HvfGvx0Qe) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [The Winter of My Discontent](https://open.spotify.com/album/6HuHEvuo23bhcc9HSR3TgL) | 7:20 | 2022-04-14 | 2022-07-29 |

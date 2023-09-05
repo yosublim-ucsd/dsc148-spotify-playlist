@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,109 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,115 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 80 | [Mirages Of You](https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Mirages Of You](https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m) | 3:16 |
 | 81 | [For What It's Worth](https://open.spotify.com/track/31hXMEaAU9fZy21oKRzP7H) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [For What It's Worth](https://open.spotify.com/album/7bl1GLPKwgnhIVxtWEq121) | 4:10 |
 
-Snapshot ID: `MCw2ZTdjNzhkZDViMjY2YzQxNjUyYTQwY2RlNmY4OGQ3ZjE0ZTNlNmI5`
+Snapshot ID: `MCw3MGQ5ZjM1ZDFkOWFmMDI3YzE3NDI4YmJlMzBiOGU2YjEwYTk3N2Yz`

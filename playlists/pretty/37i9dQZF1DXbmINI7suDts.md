@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,656 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,667 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Best Thing](https://open.spotify.com/track/7avBilzcSIuGxBRxDAn5Qv) | [Dre Cali](https://open.spotify.com/artist/2U0aIJmjYUZZ26kIE0KxM1) | [Best Thing](https://open.spotify.com/album/6ODMED9ea9Ug2apZvtbO9a) | 3:33 |
 | 60 | [Habibi](https://open.spotify.com/track/5iz5aaY16uQ29mkNXsiBre) | [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS) | [No Pressure](https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324) | 3:23 |
 
-Snapshot ID: `MCxmY2ZmYjExNTQ2YWI4OGFjYzQ4YTI3YWQ1ODg0ZjY1OGE0NGJiZDBk`
+Snapshot ID: `MCwxZGE4YzFhYmQzNjA5MTJiZmNmMDg5ZmQzODcwNmIzM2ZhOGFiMWZm`

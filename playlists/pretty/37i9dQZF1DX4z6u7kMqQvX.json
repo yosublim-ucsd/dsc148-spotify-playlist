@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 102899,
+  "num_followers": 102927,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDcxZWQ0M2FiMDlmNzQwNDM4MDRjMmU1YjliYWMzYTRhNjA0MDcw",
+  "snapshot_id": "MCw1NTI1Zjc4NWFhMjFlMThkMDRkZDk3YzQyMGM0ZmVkNjMxZTQ1NTBk",
   "tracks": [
     {
       "added_at": "2023-09-01 03:00:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Paranoia Pop",
         "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 219386,
       "name": "Sin Se\u00f1al",
       "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -331,22 +347,6 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Ojitos de Md",
         "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
       },
@@ -467,22 +451,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Te Alejas M\u00e1s De M\u00ed",
-        "url": "https://open.spotify.com/album/6xQCTmwCep5eHgdOOOYmO9"
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Te Alejas M\u00e1s De M\u00ed",
-      "url": "https://open.spotify.com/track/5C2oCLLrtnYI8nNVOOruar"
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -559,6 +539,26 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Te Alejas M\u00e1s De M\u00ed",
+        "url": "https://open.spotify.com/album/6xQCTmwCep5eHgdOOOYmO9"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Te Alejas M\u00e1s De M\u00ed",
+      "url": "https://open.spotify.com/track/5C2oCLLrtnYI8nNVOOruar"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Cada Letra Que Escribo",
+        "url": "https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Cada Letra Que Escribo",
+      "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Cada Letra Que Escribo",
-        "url": "https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Cada Letra Que Escribo",
-      "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -779,38 +795,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "La Mexicana - Single",
-        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 206738,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Tiempo Compartido",
         "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "La Mexicana - Single",
+        "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 206738,
+      "name": "La Mexicana",
+      "url": "https://open.spotify.com/track/6a0pgQDztJ44FdNY9h0GfY"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "Dos Extra\u00f1os",
         "url": "https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 181564,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 157849,
+      "name": "Cerca de Ti",
+      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -883,22 +899,6 @@
       "duration_ms": 192026,
       "name": "Si Fueras Lluvia",
       "url": "https://open.spotify.com/track/2N3LPVCuyWN0A5uodq95RN"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 157849,
-      "name": "Cerca de Ti",
-      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 225264,
-      "name": "Desnuda",
-      "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Ni\u00f1o Eterno",
         "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 161617,
       "name": "Nin\u0303o Eterno",
       "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 225264,
+      "name": "Desnuda",
+      "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
         "name": "Primavera 2020 (feat. Zoe Gotusso)",
         "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 289842,
       "name": "Primavera 2020 (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-09-01 03:00:00",
       "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 250790,
+      "name": "Te Dej\u00e9 una Carta",
+      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
         "name": "lo-fi",
         "url": "https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8"
       },
@@ -1539,6 +1555,22 @@
       "duration_ms": 175392,
       "name": "lo-fi",
       "url": "https://open.spotify.com/track/0jsCPolR169poPX99rNtCe"
+    },
+    {
+      "added_at": "2023-09-01 03:00:00",
+      "album": {
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Una Caricia",
+      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
     },
     {
       "added_at": "2023-09-01 03:00:00",
@@ -1559,38 +1591,6 @@
       "duration_ms": 216771,
       "name": "Inteligencia Emocional",
       "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 250790,
-      "name": "Te Dej\u00e9 una Carta",
-      "url": "https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC"
-    },
-    {
-      "added_at": "2023-09-01 03:00:00",
-      "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Una Caricia",
-      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
     },
     {
       "added_at": "2023-09-01 03:00:00",

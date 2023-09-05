@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDBkYzYwNGI5ZDdlMmJkNDQzNDdiYjZjZGU3Yjk5OTc3Yg==",
+  "snapshot_id": "MjgyMjU2ODAsMDAwMDAwMDA3NzgwZTM2OGVhNWIyYzM0OWZjZTQ1ZTExYzczOTEzMQ==",
   "tracks": [
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Go Your Own Way (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
-        "url": "https://open.spotify.com/album/2IkviCq5rIqzU2Xj0SzMqN"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Go Your Own Way - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/2McBjVt8cRlZBKeIKLI06Y"
-    },
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 181453,
       "name": "You Thought (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Go Your Own Way (Live at the Fabulous Forum, Inglewood, CA 08/29/77)",
+        "url": "https://open.spotify.com/album/2IkviCq5rIqzU2Xj0SzMqN"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Go Your Own Way - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
+      "url": "https://open.spotify.com/track/2McBjVt8cRlZBKeIKLI06Y"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -87,6 +87,30 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Painted Houses (feat. Conway the Machine)",
+        "url": "https://open.spotify.com/album/2jGpmrbzpjpdPPEAeD239b"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Painted Houses (feat. Conway the Machine)",
+      "url": "https://open.spotify.com/track/3zdg5C4xnOx5riFGy1CXI6"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Shaolin's Revenge",
         "url": "https://open.spotify.com/album/0pQHdDDKjOHgRIL9j7sOfZ"
       },
@@ -123,22 +147,6 @@
       "duration_ms": 201235,
       "name": "Burning Down the House (Metal Version)",
       "url": "https://open.spotify.com/track/6iVeRgRXppzzMlgfCZq6HR"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Koala",
-        "url": "https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 155668,
-      "name": "Koala",
-      "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -219,22 +227,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/2qWOTKZpovfDaiqfwa78G5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Wake of the Flood: The Angel's Share",
         "url": "https://open.spotify.com/album/3SGhLgl2sZtJaeAkrCAcfL"
       },
@@ -274,11 +266,15 @@
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 295544,
-      "name": "Honeymoon Avenue - Live from London",
-      "url": "https://open.spotify.com/track/1ucNmUIwlCSNjla3a1qpfL"
+      "duration_ms": 213694,
+      "name": "The Way - Live from London (feat. Mac Miller)",
+      "url": "https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -294,11 +290,31 @@
         {
           "name": "James Fauntleroy",
           "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         }
       ],
-      "duration_ms": 236111,
-      "name": "Online Shopping",
-      "url": "https://open.spotify.com/track/4zLpNVPiZ1Gpr9T0MqKbZx"
+      "duration_ms": 293122,
+      "name": "Witchcraft (feat. Robert Glasper)",
+      "url": "https://open.spotify.com/track/054t6thgnLVbbqXPImfCEd"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/5Fi81yu2mZDF8m136BRS6v"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/74QtlreVh59b7BbW3n2gF1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -339,22 +355,58 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Do You Remember Country Music (feat. Randy Travis)",
-        "url": "https://open.spotify.com/album/5yZdZAKNNN42xD32IaaICr"
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/4qnDnV8iQYo5PzMhflN838"
       },
       "artists": [
         {
-          "name": "Tony Jackson",
-          "url": "https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR"
+          "name": "Mayne",
+          "url": "https://open.spotify.com/artist/71864qIP78GhtmqKjYITDm"
         },
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 210672,
-      "name": "Do You Remember Country Music",
-      "url": "https://open.spotify.com/track/7CFK4WaCuILEyCuBxjAM4W"
+      "duration_ms": 173557,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/4xRXYFnpN6gRyHXXH9N0wC"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Wine Lips on Audiotree Live",
+        "url": "https://open.spotify.com/album/7rXbOuaSYcadOUomHd3BIC"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "duration_ms": 172981,
+      "name": "Stimulation - Audiotree Live version",
+      "url": "https://open.spotify.com/track/0HjsxcdrfdR2X7oC9DSWTQ"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Last a While",
+        "url": "https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK"
+      },
+      "artists": [
+        {
+          "name": "Arc De Soleil",
+          "url": "https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5"
+        }
+      ],
+      "duration_ms": 185412,
+      "name": "Last a While",
+      "url": "https://open.spotify.com/track/2J9WyRYiN97tceXPTXHF1u"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -375,26 +427,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "METALI!! (feat. Tom Morello)",
-        "url": "https://open.spotify.com/album/6ZZgSUrLXWhOxZs3TrPWXt"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "METALI!! - feat. Tom Morello",
-      "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Blood Moon (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
       },
@@ -411,26 +443,6 @@
       "duration_ms": 169411,
       "name": "Blood Moon (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -471,6 +483,26 @@
       "duration_ms": 295755,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4pvvJGvOvtGje3rbKhGZJz"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 242016,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2AHB69HbFGTZu086ELZXdw"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -523,30 +555,6 @@
       "duration_ms": 137398,
       "name": "dummy",
       "url": "https://open.spotify.com/track/3Yvrrzb0ebtnJYpiXFMWns"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Harlem World 97 (feat. Estelle)",
-        "url": "https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF"
-      },
-      "artists": [
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 137945,
-      "name": "Harlem World 97 (feat. Estelle)",
-      "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
     },
     {
       "added_at": "2023-09-01 04:00:00",

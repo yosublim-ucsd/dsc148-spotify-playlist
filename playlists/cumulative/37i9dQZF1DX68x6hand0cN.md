@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-174 songs - 8 hr 46 min
+175 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [D O D O](https://open.spotify.com/track/2dJMDzMF5jMvVFKLTci81H) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b) | 2:59 | 2022-12-14 |  |
 | [D O D O](https://open.spotify.com/track/4DhGbk8afMpvkU1f9Cqwyf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:59 | 2022-07-28 | 2022-12-17 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-05-11 |  |
-| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-05-11 |  |
+| [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-05-11 | 2023-09-05 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-28 |  |
 | [Door](https://open.spotify.com/track/11kgzpRSddegzexd6FX7e3) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Loyaal](https://open.spotify.com/album/0WkK3Bx6NqOyQe7JSU0Vkz) | 2:56 | 2022-10-03 | 2022-12-12 |
 | [Door](https://open.spotify.com/track/1gMVbxzo0LHLWUPQV4rRB6) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Autobahn](https://open.spotify.com/album/2NtRis2vPCaLFaMZ3OxXJj) | 2:56 | 2022-12-05 | 2023-07-08 |
@@ -135,6 +135,7 @@
 | [Pololo](https://open.spotify.com/track/2gmTz7pHMqAk6fpOc88qxA) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mansa](https://open.spotify.com/album/0JBjfd9NAcpgHBbllm0fQg) | 3:15 | 2022-07-28 | 2023-03-28 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-28 | 2023-04-11 |
 | [RS](https://open.spotify.com/track/1rL5nZhAgxPBbG3z5hl8it) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [RS](https://open.spotify.com/album/0XmgdVruDUqVgvW8PnayIt) | 3:19 | 2022-07-28 | 2023-05-23 |
+| [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-09-04 |  |
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2022-07-28 |  |
 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 | 2023-08-16 |  |
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-07-07 |  |

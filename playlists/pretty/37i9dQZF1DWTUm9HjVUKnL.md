@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,887 likes - 893 songs - 2 day 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,893 likes - 893 songs - 2 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -902,4 +902,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 892 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 893 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCwzMDFlYjUxOWVmOWE5Y2QwZDUxMjg0NjJmMjcyNmM5ZjM4ZWJkYTdk`
+Snapshot ID: `MCxlZWM1OTA3MTljOWI4NDBkOGVmODE1ODlkZDA0Zjc0YThmMjg1MDMx`

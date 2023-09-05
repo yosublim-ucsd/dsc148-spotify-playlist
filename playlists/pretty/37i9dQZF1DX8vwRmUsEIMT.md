@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,666 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,706 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 80 | [HOT TO GO!](https://open.spotify.com/track/7MX0wxRiKE9c7dmiLV3NrX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [HOT TO GO!](https://open.spotify.com/album/1w3Hfg4S2fqafTw9FQNzMu) | 3:04 |
 
-Snapshot ID: `MCxjM2JkM2ZkNzA2NDdkOTU5YzkxYTRiNzEzZTIwMTJjM2I1MWY2OGIw`
+Snapshot ID: `MCxkMTk0NDVhYWVmMDFhZWVkYTM5MTQ5ODM2Mzg2NWQ4MjY4YWEyNDY1`

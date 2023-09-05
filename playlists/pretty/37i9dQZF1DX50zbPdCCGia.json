@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Styx",
-  "num_followers": 213470,
+  "num_followers": 213658,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjc0NWQ5YTIwZGNhNGJlODVmY2ZjMmI3OGEyOGIxNjNiMzdiZmQ5",
+  "snapshot_id": "MCw3NzEyOTI3YTY5MzQ1OGY1MWMxMWEwMjJiYzZlNTdiZThmYjJiYjFk",
   "tracks": [
     {
       "added_at": "2023-03-29 17:34:27",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 257962,
-      "name": "Peaceful Easy Feeling - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Sleeper Catcher (Remastered 2022)",
         "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 257868,
       "name": "Reminiscing - Remastered 2010",
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 257962,
+      "name": "Peaceful Easy Feeling - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Of A Simple Man",
         "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 207573,
       "name": "The Things We Do For Love",
       "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Gorilla (2019 Remaster)",
+        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Gorilla (2019 Remaster)",
-        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 216386,
-      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
-      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+      "duration_ms": 197333,
+      "name": "Changes In Latitudes, Changes In Attitudes",
+      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Waking & Dreaming",
         "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
       },
@@ -591,6 +591,38 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Son Of A Son Of A Sailor",
+      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
       },
@@ -603,22 +635,6 @@
       "duration_ms": 150226,
       "name": "Lonely People",
       "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Changes In Latitudes, Changes In Attitudes",
-      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "First Under The Wire (Remastered 2022)",
         "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Lost Without Your Love",
         "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 176893,
       "name": "Lost Without Your Love",
       "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Son Of A Son Of A Sailor",
-        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Son Of A Son Of A Sailor",
-      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 289981,
+      "name": "Lady - Remastered 2022",
+      "url": "https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "French Kiss",
         "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Some Things Don't Come Easy",
-        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "We'll Never Have to Say Goodbye Again - Single Version",
-      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Year of the Cat",
         "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Sleeper Catcher (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+        "name": "Some Things Don't Come Easy",
+        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
         }
       ],
-      "duration_ms": 289981,
-      "name": "Lady - Remastered 2022",
-      "url": "https://open.spotify.com/track/23TrwDkYnBPea6i6FPd6Wd"
+      "duration_ms": 172240,
+      "name": "We'll Never Have to Say Goodbye Again - Single Version",
+      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Chicago XI",
-        "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Baby, What a Big Surprise - Edit",
-      "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Rhymes & Reasons",
         "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 147466,
       "name": "Bitter with the Sweet",
       "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Chicago XI",
+        "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Baby, What a Big Surprise - Edit",
+      "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "In the Pocket (2019 Remaster)",
+        "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Shower the People - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "What's Wrong with This Picture?",
         "url": "https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "In the Pocket (2019 Remaster)",
-        "url": "https://open.spotify.com/album/45fMwpxS1ZOMqNt8Rq5pxP"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Shower the People - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1Pwcxq35Hl2kqwUVd5XCRg"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 176800,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "The Stranger",
+        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1131,22 +1147,6 @@
       "duration_ms": 192973,
       "name": "Save It For A Rainy Day",
       "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "The Stranger",
-        "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/7gREIuHognJFspylIDJ94p"
     },
     {
       "added_at": "2023-03-29 17:34:27",

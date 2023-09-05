@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 31276,
+  "num_followers": 31331,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmM3ODBkNzUyZTg3YjkxZGRkZGI0ZjBlZTNkYWU1OWM1NDM1ZDQ5",
+  "snapshot_id": "MCxjMTc4ZTI3YmMzNDA2MjViMjJlNGY2YjQzNjgzNTYwYzU1YzM1Nzgy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Beg For Mercy",
         "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "KIDS SEE GHOSTS",
         "url": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -535,6 +551,38 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "When Will I See You Again",
+      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Heart Of The City (Ain't No Love)",
+      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The Life Of Pablo",
         "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
@@ -544,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+      "duration_ms": 372113,
+      "name": "Saint Pablo",
+      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -571,22 +619,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "When Will I See You Again",
-      "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Until Death Call My Name (Reloaded)",
         "url": "https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800"
       },
@@ -599,22 +631,6 @@
       "duration_ms": 163566,
       "name": "Through the Storm",
       "url": "https://open.spotify.com/track/7bOlOJHn9IOaXX7IwaK905"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Heart Of The City (Ain't No Love)",
-      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -687,22 +703,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 372113,
-      "name": "Saint Pablo",
-      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Purple Reign",
         "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
@@ -719,22 +719,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+        "name": "DAYTONA",
+        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 175756,
-      "name": "Aim For The Moon (feat. Quavo)",
-      "url": "https://open.spotify.com/track/6O7fPYTsb2mY0PiFt2ymDB"
+      "duration_ms": 166120,
+      "name": "The Games We Play",
+      "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -759,18 +755,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "DAYTONA",
-        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
       "artists": [
         {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 166120,
-      "name": "The Games We Play",
-      "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
+      "duration_ms": 175756,
+      "name": "Aim For The Moon (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6O7fPYTsb2mY0PiFt2ymDB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -787,22 +787,6 @@
       "duration_ms": 138781,
       "name": "I Got A Shot",
       "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Man On The Moon II: The Legend Of Mr. Rager",
-        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "Marijuana",
-      "url": "https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -847,18 +831,34 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "AI YoungBoy",
-        "url": "https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ"
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
-      "duration_ms": 160000,
-      "name": "No Smoke",
-      "url": "https://open.spotify.com/track/57IRaiAB4hBZu3gnNVZC0v"
+      "duration_ms": 260200,
+      "name": "Marijuana",
+      "url": "https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Hunger For More",
+        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "duration_ms": 278533,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS"
     }
   ],
   "unique_name": "Steven Victor's Taste",

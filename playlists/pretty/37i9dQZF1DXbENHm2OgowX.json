@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 117238,
+  "num_followers": 117639,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2M1NmRhYWYwMThkMmRiZjQxYWQ4MjFjNGQzODU1OWM5ZGI1ZWU5",
+  "snapshot_id": "MCw0Nzg4NGYwMmQwNmJiYzVjZjlhMzljNDEzZWE1MzAzMjA0ZWMyMmQw",
   "tracks": [
     {
       "added_at": "2023-09-01 00:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 206340,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/4At9QhnhKaNgP51kbAmk77"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "A I A: Alien Observer",
         "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 236480,
       "name": "Alien Observer",
       "url": "https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 206340,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/4At9QhnhKaNgP51kbAmk77"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -415,34 +415,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Deathconsciousness",
-        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
       },
       "artists": [
         {
-          "name": "Have A Nice Life",
-          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
         }
       ],
-      "duration_ms": 583160,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "F\u266f A\u266f \u221e",
-        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 987960,
-      "name": "The Dead Flag Blues",
-      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
+      "duration_ms": 348800,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -463,6 +447,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Deathconsciousness",
+        "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
+      },
+      "artists": [
+        {
+          "name": "Have A Nice Life",
+          "url": "https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY"
+        }
+      ],
+      "duration_ms": 583160,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/052QjISGAv9TPgtypVETn1"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+        "name": "F\u266f A\u266f \u221e",
+        "url": "https://open.spotify.com/album/7sh2Z8jj1iySpHRAnGd9w5"
       },
       "artists": [
         {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
         }
       ],
-      "duration_ms": 348800,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+      "duration_ms": 987960,
+      "name": "The Dead Flag Blues",
+      "url": "https://open.spotify.com/track/0YzMEu5sGNX0JKr9mdBtzd"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Warmth of You",
-      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 187863,
       "name": "Fantas Morbida",
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Warmth of You",
+      "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "And They Will Fall",
+        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
+      },
+      "artists": [
+        {
+          "name": "Nik Sudan",
+          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "And They Will Fall",
+      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Set the Weather Fair: Seasons",
         "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "And They Will Fall",
-        "url": "https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk"
-      },
-      "artists": [
-        {
-          "name": "Nik Sudan",
-          "url": "https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "And They Will Fall",
-      "url": "https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Together Is The New Alone (2021 Remaster)",
         "url": "https://open.spotify.com/album/50IrZoBBRl0nlOnnPxYS1U"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
-        "name": "Lie Beneath the Stars",
-        "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
-      },
-      "artists": [
-        {
-          "name": "Rokkr",
-          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
-        }
-      ],
-      "duration_ms": 389530,
-      "name": "Lie Beneath the Stars",
-      "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 170878,
       "name": "Close",
       "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
+        "name": "Lie Beneath the Stars",
+        "url": "https://open.spotify.com/album/4hIXAm8DjhWViiAvruMVaj"
+      },
+      "artists": [
+        {
+          "name": "Rokkr",
+          "url": "https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs"
+        }
+      ],
+      "duration_ms": 389530,
+      "name": "Lie Beneath the Stars",
+      "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-09-01 00:01:00",
       "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
+    },
+    {
+      "added_at": "2023-09-01 00:01:00",
+      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
       },
@@ -1104,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
         }
       ],
-      "duration_ms": 291553,
-      "name": "Animism",
-      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
+      "duration_ms": 156301,
+      "name": "Locale",
+      "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
-    },
-    {
-      "added_at": "2023-09-01 00:01:00",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     }
   ],
   "unique_name": "gloomcore",

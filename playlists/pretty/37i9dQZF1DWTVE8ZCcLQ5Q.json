@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421354,
+  "num_followers": 421349,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRiYzAzYzE4YjY1M2M2ZWE3ODA1YjI3YWE5Y2QwY2E1ZjcyZWVj",
+  "snapshot_id": "MCwxMzVhYTUzMWU0NmU2NmZiZGI0MzNiZmU0NTI4NTI3MTJmZWE1NjI5",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Putaria 2000",
+        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
+      },
+      "artists": [
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "duration_ms": 107204,
+      "name": "Putaria 2000",
+      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Uber",
         "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 157741,
       "name": "Uber",
       "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Putaria 2000",
-        "url": "https://open.spotify.com/album/6PX62HEjc1VcSeGGrauuaC"
-      },
-      "artists": [
-        {
-          "name": "Puterrier",
-          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
-        },
-        {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
-        }
-      ],
-      "duration_ms": 107204,
-      "name": "Putaria 2000",
-      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -455,30 +455,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "O Justo N\u00e3o Treme",
-        "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 169057,
-      "name": "O Justo N\u00e3o Treme",
-      "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 208941,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "O Justo N\u00e3o Treme",
+        "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 169057,
+      "name": "O Justo N\u00e3o Treme",
+      "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Eu Te Dei, Amor",
         "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 131071,
       "name": "Eu Te Dei, Amor",
       "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "alice (s\u00f3 que sem as maravilhas)",
-        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "alice (s\u00f3 que sem as maravilhas)",
-      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Droga Pesada (feat. Nairo)",
         "url": "https://open.spotify.com/album/4HvKx6P0xAP9pU12U2a9Xa"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 184615,
       "name": "Droga Pesada (feat. Nairo)",
       "url": "https://open.spotify.com/track/2CpsrN0SS2uMLsxBJLEB5h"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "alice (s\u00f3 que sem as maravilhas)",
+        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "alice (s\u00f3 que sem as maravilhas)",
+      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "Trem Bala",
         "url": "https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 137142,
       "name": "Se Fecha",
       "url": "https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2023-07-12 21:00:00",

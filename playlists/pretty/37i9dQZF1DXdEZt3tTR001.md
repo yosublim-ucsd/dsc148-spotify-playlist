@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,310 likes - 80 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,491 likes - 80 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 23 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
 | 24 | [The Sweetest Taboo](https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:37 |
 | 25 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 26 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
-| 27 | [He's Mine](https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9) | 4:14 |
+| 26 | [He's Mine](https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9) | 4:14 |
+| 27 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
 | 28 | [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 |
 | 29 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
 | 30 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 74 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 |
 | 75 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
 | 76 | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q) | 3:58 |
-| 77 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
-| 78 | [If](https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:15 |
-| 79 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 |
-| 80 | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/track/54NPbWDqKcSGnP1FEkk7iC) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/album/3VpPE17j7Zja4iLdHnP1Ps) | 4:40 |
+| 77 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 |
+| 78 | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/track/54NPbWDqKcSGnP1FEkk7iC) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/album/3VpPE17j7Zja4iLdHnP1Ps) | 4:40 |
+| 79 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
+| 80 | [If](https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:15 |
 
-Snapshot ID: `MCwzNWMzYTE2YTQ2ZmY5OTk3OTkxMzQxZjAzZDM0MzUzMjVmYTU1YTJi`
+Snapshot ID: `MCw0ZjA5MzI4NGVkMTQ5MzIwMDM1YjAxMTM3MzMyN2Q1Y2IzMmU4Mjg4`

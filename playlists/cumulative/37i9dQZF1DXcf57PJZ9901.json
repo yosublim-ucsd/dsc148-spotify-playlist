@@ -772,7 +772,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 241400,
       "name": "Landlady",
       "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
@@ -2348,6 +2348,24 @@
       "duration_ms": 259253,
       "name": "Zombie (Acoustic)",
       "url": "https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259252,
+      "name": "Zombie - Acoustic",
+      "url": "https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcf57PJZ9901"

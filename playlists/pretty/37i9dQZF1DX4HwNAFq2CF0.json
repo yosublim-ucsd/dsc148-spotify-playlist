@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: TALK",
-  "num_followers": 60668,
+  "num_followers": 60716,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGQ5N2EwNjZiNWM3ZDhhMzVkNzNlYzBmMDNmNjQzNDA3MDJhMTc0",
+  "snapshot_id": "MCwxM2JlY2Q5M2QyYjQwYTYxZWI0ZDg3NjJhMzc1OTNkMzM5MjhjZGZi",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "House of Memories",
-      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 201726,
       "name": "R U Mine?",
       "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "House of Memories",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Where The Shadow Ends",
         "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "...Like Clockwork",
-        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "I Sat by the Ocean",
-      "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Wake Up Call",
         "url": "https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 233173,
       "name": "Rx (Medicate)",
       "url": "https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "...Like Clockwork",
+        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "I Sat by the Ocean",
+      "url": "https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "EDGING",
-        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "EDGING",
-      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "EDGING",
+        "url": "https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "EDGING",
+      "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "POWER UP",
-        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Wonderful Wonderful",
         "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
       },
@@ -1375,6 +1359,22 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
@@ -1387,6 +1387,38 @@
       "duration_ms": 340320,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Disobey",
+        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 254805,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Everything Now",
+        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 303013,
+      "name": "Everything Now",
+      "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1435,22 +1467,6 @@
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Everything Now",
-        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 303013,
-      "name": "Everything Now",
-      "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Disobey",
-        "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 254805,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "Unlimited Love",
         "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
-    },
-    {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
         "name": "BRKN LOVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/78fyPzuOJp724AbTZ9Vg2s"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 225146,
       "name": "River",
       "url": "https://open.spotify.com/track/4tvmsvV1aUmbPKdzl19Or9"
+    },
+    {
+      "added_at": "2023-08-25 04:00:00",
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Battle Born",
-        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+        "name": "Will Of The People",
+        "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 243786,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
+      "duration_ms": 180302,
+      "name": "You Make Me Feel Like It\u2019s Halloween",
+      "url": "https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7"
     }
   ],
   "unique_name": "Rock Favourites",

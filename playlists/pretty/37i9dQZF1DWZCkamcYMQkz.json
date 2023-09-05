@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 145021,
+  "num_followers": 145478,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDcyZmM5MTE3MzE1M2U0N2NhOTgwMmRhMDk2YmViOWIwZDE2NmE3",
+  "snapshot_id": "MCxhODUyODIyM2Y3MmEzYmRmZWI1MTQ4MDk0NWY4NmI5NmQ3OWJkMzQ1",
   "tracks": [
     {
       "added_at": "2023-08-31 23:59:00",
@@ -191,6 +191,26 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "O Pato",
+      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Got You on My Mind",
         "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
@@ -211,6 +231,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Oh! Look At Me Now",
+        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Samara Joy",
         "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
       },
@@ -223,26 +259,6 @@
       "duration_ms": 227893,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 149080,
-      "name": "O Pato",
-      "url": "https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -275,22 +291,6 @@
       "duration_ms": 306086,
       "name": "Let Me Take You for a Walk",
       "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Oh! Look At Me Now",
-        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "John Hardy's Wife",
-      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -515,46 +499,6 @@
       "duration_ms": 156493,
       "name": "Straighten Up And Fly Right",
       "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Ella And Basie",
-        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 184933,
-      "name": "On The Sunny Side Of The Street",
-      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -579,6 +523,42 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "John Hardy's Wife",
+      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Desmond Blue",
         "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 279146,
       "name": "I've Got You Under My Skin - 2011 Remaster",
       "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Ella And Basie",
+        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 184933,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -639,26 +639,6 @@
       "duration_ms": 250280,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Cheek To Cheek: The Complete Duet Recordings",
-        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Oops!",
-      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -727,6 +707,26 @@
       "duration_ms": 315586,
       "name": "Wonder Why",
       "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Cheek To Cheek: The Complete Duet Recordings",
+        "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Oops!",
+      "url": "https://open.spotify.com/track/5Q7Ag0Geoh18cqVJHoDaPv"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Inside Betty Carter",
         "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "A Boy Named Charlie Brown",
         "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 142680,
       "name": "Oh, Good Grief",
       "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Roll Call",
+        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 407533,
+      "name": "The More I See You - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Roll Call",
-        "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 407533,
-      "name": "The More I See You - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 256160,
-      "name": "Hay Burner",
-      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -1039,22 +1023,18 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "The Feeling is Mutual",
-        "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
       },
       "artists": [
         {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 254880,
-      "name": "The Feeling is Mutual",
-      "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
+      "duration_ms": 256160,
+      "name": "Hay Burner",
+      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1071,6 +1051,26 @@
       "duration_ms": 225840,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "The Feeling is Mutual",
+        "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "The Feeling is Mutual",
+      "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Chris Connor",
-        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 171240,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Exclusively for My Friends: Girl Talk, Vol. II",
         "url": "https://open.spotify.com/album/3UL145zQyFoPH9WCRDUD3f"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 261609,
       "name": "On a Clear Day (You Can See Forever) - Live",
       "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Chris Connor",
+        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 390173,
       "name": "Sunday Mornin'",
       "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
+        "name": "Groove Connection",
+        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
+      },
+      "artists": [
+        {
+          "name": "Jakob Manz",
+          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Little Lucy",
+      "url": "https://open.spotify.com/track/3kU2MqtFLYhyOpHHXQLS3q"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
-        "name": "Groove Connection",
-        "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
-      },
-      "artists": [
-        {
-          "name": "Jakob Manz",
-          "url": "https://open.spotify.com/artist/7l8AVzWP4aBYTXGn0GYkLP"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Little Lucy",
-      "url": "https://open.spotify.com/track/3kU2MqtFLYhyOpHHXQLS3q"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Delightfulee",
-        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Blues Vaccine",
-        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+        "name": "Delightfulee",
+        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
       },
       "artists": [
         {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 360306,
-      "name": "Blues Vaccine",
-      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
+      "duration_ms": 334626,
+      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 141866,
       "name": "I'm Putting All My Eggs In One Basket",
       "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Blues Vaccine",
+        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 360306,
+      "name": "Blues Vaccine",
+      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
       "added_at": "2023-08-31 23:59:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-08-31 23:59:00",
       "album": {
-        "name": "Business Meetin'",
-        "url": "https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m"
-      },
-      "artists": [
-        {
-          "name": "Carmell Jones",
-          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
-        }
-      ],
-      "duration_ms": 325666,
-      "name": "Hip Trolley",
-      "url": "https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj"
-    },
-    {
-      "added_at": "2023-08-31 23:59:00",
-      "album": {
         "name": "Additions To Further Definitions",
         "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 331386,
       "name": "Doozy - 1966 Album Version",
       "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
+    },
+    {
+      "added_at": "2023-08-31 23:59:00",
+      "album": {
+        "name": "Business Meetin'",
+        "url": "https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m"
+      },
+      "artists": [
+        {
+          "name": "Carmell Jones",
+          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
+        }
+      ],
+      "duration_ms": 325666,
+      "name": "Hip Trolley",
+      "url": "https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj"
     },
     {
       "added_at": "2023-08-31 23:59:00",

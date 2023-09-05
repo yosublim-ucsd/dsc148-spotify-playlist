@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 71570,
+  "num_followers": 71681,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTU0NzllZGE1OTUxMjZiODg1NzZiZWZmYzAyYWVkM2VlMjAzZTMw",
+  "snapshot_id": "MCwxYzRhNzZmNTliOGY4MGMyMzFjYTY5ODMyYjAyNjZjYTNhYzJjNWIz",
   "tracks": [
     {
       "added_at": "2023-09-01 08:08:26",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "Latin Ala Lee",
         "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/5XrLzC6tClHbANUOmPYg2E"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "Someone To Watch Over Me",
         "url": "https://open.spotify.com/album/5UIPf7Q2gj2upbasQQaI5r"
       },
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "How Glad I Am",
-        "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "The Boy From Ipanema",
-      "url": "https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
         "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
       },
@@ -223,34 +207,18 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+        "name": "How Glad I Am",
+        "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Guitars A La Lee",
-        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Sweet Happy Life",
-      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
+      "duration_ms": 134213,
+      "name": "The Boy From Ipanema",
+      "url": "https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -267,6 +235,22 @@
       "duration_ms": 129266,
       "name": "I Could Write A Book",
       "url": "https://open.spotify.com/track/04kFa5D5by0or1IN6bI9N7"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -303,6 +287,38 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "Guitars A La Lee",
+        "url": "https://open.spotify.com/album/4oPkHx17cjKO5np0UuipB4"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Sweet Happy Life",
+      "url": "https://open.spotify.com/track/4QJ1F5dFjDTnoHgew9cdRr"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "Broadway, Right Now!",
         "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
       },
@@ -335,42 +351,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Cheek To Cheek",
-      "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -391,6 +371,26 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "Ella Swings Gently With Nelson",
         "url": "https://open.spotify.com/album/1aJEGozkrvANT0vJ7AmeWG"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 202226,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0qZo9OzKPzg58Ts9ad4Bcy"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -471,6 +455,22 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "It's A Wonderful World",
-      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "It's A Wonderful World",
+      "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "I Love Being Here With You",
-      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "April In Paris (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 315000,
       "name": "Corner Pocket",
       "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "I Love Being Here With You",
+      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 398266,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "Julie... At Home",
         "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
       },
@@ -943,22 +963,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "The Complete Decca Recordings",
-        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "One O'Clock Jump",
-      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -971,26 +975,6 @@
       "duration_ms": 152960,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 398266,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -1023,6 +1007,22 @@
       "duration_ms": 239173,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "The Complete Decca Recordings",
+        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "One O'Clock Jump",
+      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "Whisper For You",
         "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -1263,6 +1263,26 @@
       "duration_ms": 251093,
       "name": "Jive At Six",
       "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
+        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        },
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -1311,26 +1331,6 @@
       "duration_ms": 108826,
       "name": "From This Moment On",
       "url": "https://open.spotify.com/track/3ueTT5Puo99bD1gRzuhf6H"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
-        "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        },
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
     },
     {
       "added_at": "2023-09-01 08:08:26",

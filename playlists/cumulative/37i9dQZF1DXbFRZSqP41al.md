@@ -4,13 +4,13 @@
 
 > Burn off all those beers from last night.
 
-244 songs - 14 hr 26 min
+246 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.getawayfortheweekend.](https://open.spotify.com/track/7uFERMScrK0arLmw4zHLS6) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:38 | 2022-07-14 | 2022-07-29 |
 | [1 More Hit](https://open.spotify.com/track/29s8uc1ZOR3yAWCA2O1mR4) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Van Weezer](https://open.spotify.com/album/4QIZtPbEAQTu1smtYyDHXz) | 3:05 | 2022-07-14 | 2022-07-18 |
-| [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 | 2023-05-11 |  |
+| [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 | 2023-05-11 | 2023-09-05 |
 | [17](https://open.spotify.com/track/31j95fiVw8NUKxgGd8pc6j) | [Of Allies](https://open.spotify.com/artist/5fYc93nNjMlAsoaXen9elQ) | [Night Sky](https://open.spotify.com/album/5TjPAA7wNcfczLOAXA9CWV) | 3:13 | 2022-07-14 | 2022-07-29 |
 | [412](https://open.spotify.com/track/3RSA0ckB8raJ85FLmzwyBy) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/3wL067SoyL83W04AcNwb8x) | 3:54 | 2022-04-17 | 2022-04-21 |
 | [A Weak Ago](https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E) | [letlive.](https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs) | [If I'm The Devil...](https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg) | 3:11 | 2021-12-16 | 2023-06-29 |
@@ -36,7 +36,7 @@
 | [Born For Greatness](https://open.spotify.com/track/5cRPdqpWkaNmIbPi6wJDg2) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:47 | 2022-07-14 | 2023-09-01 |
 | [Bottoms Up](https://open.spotify.com/track/0FnugIN4Slm0weQqL8OXEM) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now \(Audio Only Version\)](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:37 | 2023-02-27 |  |
 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 | 2022-07-14 |  |
-| [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 | 2022-07-14 |  |
+| [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 | 2022-07-14 | 2023-09-05 |
 | [Brief Exchange \- from DC's Dark Nights: Metal Soundtrack](https://open.spotify.com/track/4qVqGc1ossRcBqmKCZppx9) | [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Brief Exchange \(from DC's Dark Nights: Metal Soundtrack\)](https://open.spotify.com/album/241DsmPg0tJwHCDkPo5WPT) | 4:48 | 2022-11-02 | 2022-11-13 |
 | [Broken Heart](https://open.spotify.com/track/5LV0oQV98daZAUoWnQEW6N) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [I Am Human](https://open.spotify.com/album/0b4KJR48ZibGZafb5sviX3) | 3:07 | 2021-12-16 | 2023-08-31 |
 | [Bulletproof](https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Echoes](https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W) | 3:04 | 2021-12-16 | 2022-07-29 |
@@ -55,6 +55,7 @@
 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 | 2022-06-30 |  |
 | [Crawling In The Dark](https://open.spotify.com/track/3wli6CFsUwYEuLZTIuCwt3) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(Expanded Edition\)](https://open.spotify.com/album/7tbY2Xnpnkv0GyiHagGdkQ) | 2:55 | 2022-04-17 | 2022-07-28 |
 | [Curse the Weather](https://open.spotify.com/track/2o0fZALPlVohLSNrjYN3I5) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [DealBreaker](https://open.spotify.com/album/5hcQEMNue4uxkHcrpyFZsX) | 3:43 | 2021-12-16 | 2022-07-29 |
+| [Cycle Of Hurting](https://open.spotify.com/track/4xLGcvIrAtVaN8FYhd6poT) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Cycle Of Hurting](https://open.spotify.com/album/2VpUANQDj0xi2A57MejBzy) | 3:49 | 2023-09-04 |  |
 | [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:00 | 2022-06-30 | 2023-07-12 |
 | [Dance, Dance](https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW) | 3:00 | 2021-12-16 | 2022-07-29 |
 | [Dance, Dance](https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree Limited Tour Edition](https://open.spotify.com/album/2AX9B6Af32in4KbKtX1r4q) | 3:00 | 2022-11-02 | 2022-11-13 |
@@ -86,6 +87,7 @@
 | [Fallen Leaves](https://open.spotify.com/track/3jUTjCISntIUFL8jnAjzgc) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent II](https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT) | 3:19 | 2022-07-14 | 2023-07-12 |
 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 | 2022-06-30 | 2023-07-12 |
 | [Fat Lip](https://open.spotify.com/track/4dzOxPZFYX77xpMwv4EhnO) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/47wh50aG3MIgDpsMe5B7n7) | 2:58 | 2022-04-17 | 2022-07-23 |
+| [FAVOURITE SONG](https://open.spotify.com/track/2LoB1NRjAo8EPqwEn6fjDm) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA), [Elias Soriano](https://open.spotify.com/artist/2KBA0T3p9wkQ7nAHCVHavd) | [FAVOURITE SONG](https://open.spotify.com/album/2rbpMLrrlCMxAuGetCxq7K) | 3:34 | 2023-09-04 |  |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2022-07-14 | 2022-07-16 |
 | [Fever](https://open.spotify.com/track/0QPqmarimIKooURQb8ZR5Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/36scylzoJ2n1YYwuHD0Db0) | 3:34 | 2021-12-16 | 2022-07-29 |
 | [Firestarter](https://open.spotify.com/track/1GTPxha6U7x9ElVxkQw3OK) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/2NkwB9shQioKcbNhPf2EbP) | 4:39 | 2022-07-14 | 2022-07-16 |

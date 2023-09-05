@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2443375,
+  "num_followers": 2444148,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmFiZWU3ZjRkMGM3MjAwZTU3MjAyOTJlMDhlZGFhYTVlYzFmYTdh",
+  "snapshot_id": "MCw0MzczMDM1MmJlMDY3M2U1NmI2M2I1ODkzOTNkMzk1MWUzZjYyY2My",
   "tracks": [
     {
       "added_at": "2023-09-01 04:03:38",
@@ -163,22 +163,18 @@
     {
       "added_at": "2023-09-01 04:03:38",
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -223,18 +219,22 @@
     {
       "added_at": "2023-09-01 04:03:38",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -251,6 +251,42 @@
       "duration_ms": 238614,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 207835,
+      "name": "Aye (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -279,42 +315,6 @@
       "duration_ms": 165726,
       "name": "Go Stupid",
       "url": "https://open.spotify.com/track/4PklAHGXT5ityno3IA8SKd"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 207835,
-      "name": "Aye (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Hc1LaV6bzFil3dE71eORA"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -363,42 +363,6 @@
     {
       "added_at": "2023-09-01 04:03:38",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 236795,
-      "name": "Circo Loco",
-      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
-        "name": "Hype Me Up",
-        "url": "https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 242960,
-      "name": "Hype Me Up",
-      "url": "https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
         "name": "NAUJOUR",
         "url": "https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V"
       },
@@ -419,6 +383,22 @@
     {
       "added_at": "2023-09-01 04:03:38",
       "album": {
+        "name": "Hype Me Up",
+        "url": "https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 242960,
+      "name": "Hype Me Up",
+      "url": "https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
         "name": "Yeezus",
         "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 188013,
       "name": "Black Skinhead",
       "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-01 04:03:38",
       "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 136899,
+      "name": "Time Today",
+      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 146966,
       "name": "Bla Bla (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 136899,
-      "name": "Time Today",
-      "url": "https://open.spotify.com/track/0YrKSfpvflYnLSBd4Jtu6J"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-09-01 04:03:38",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 163453,
-      "name": "Not Finished",
-      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 309322,
       "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)",
       "url": "https://open.spotify.com/track/1BzXvBpIFWJgu0P8P6xmP4"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 163453,
+      "name": "Not Finished",
+      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-09-01 04:03:38",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-09-01 04:03:38",
       "album": {
+        "name": "Kat Food",
+        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 286579,
+      "name": "Kat Food",
+      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
         "name": "King Snipe",
         "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
       },
@@ -1239,26 +1255,6 @@
       "duration_ms": 214593,
       "name": "King Snipe",
       "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -1295,6 +1291,26 @@
       "duration_ms": 190344,
       "name": "REPEAT IT (with Gunna)",
       "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
+    },
+    {
+      "added_at": "2023-09-01 04:03:38",
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
     },
     {
       "added_at": "2023-09-01 04:03:38",
@@ -1435,22 +1451,6 @@
       "duration_ms": 170053,
       "name": "Wow. - Remix",
       "url": "https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk"
-    },
-    {
-      "added_at": "2023-09-01 04:03:38",
-      "album": {
-        "name": "Kat Food",
-        "url": "https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 286579,
-      "name": "Kat Food",
-      "url": "https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V"
     }
   ],
   "unique_name": "Beast Mode Hip-Hop",

@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150208,
+  "num_followers": 150217,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODMyNTQ2OTNmMjBjMmNlMzQ0ODBkYTI0OTcwYTUyNmQ1OTMwNWFi",
+  "snapshot_id": "MCw5MWMyNjk1NWE0OTRiNmI0MDcwZGM1ZmY1OWZjMDAwNDJmNmFjNDNm",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -103,6 +103,26 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Bottoms Up - Remix",
+      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "Denim",
         "url": "https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT"
       },
@@ -147,22 +167,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
-      },
-      "artists": [
-        {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
-        }
-      ],
-      "duration_ms": 189258,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Ready To Go",
         "url": "https://open.spotify.com/album/74sorV00iU5plRn8nQ27e5"
       },
@@ -179,22 +183,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/4aLKh3cUkE7BfK9eUFcKzM"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
         }
       ],
-      "duration_ms": 221573,
-      "name": "Bottoms Up - Remix",
-      "url": "https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze"
+      "duration_ms": 189258,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0zpxJZIcJUZZTAuhpkmas2"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -231,6 +231,42 @@
       "duration_ms": 174634,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/4C6wFHj4l4an2UCVGXR6c5"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Read Me My Rights",
+      "url": "https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Country As Shit (feat. Jelly Roll)",
+        "url": "https://open.spotify.com/album/6l09ei7wbqscQclmkCbw9S"
+      },
+      "artists": [
+        {
+          "name": "Tyler Farr",
+          "url": "https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Country As Shit (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/3V7wF51Xwe64NIxrUgyiuw"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -283,42 +319,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Country As Shit (feat. Jelly Roll)",
-        "url": "https://open.spotify.com/album/6l09ei7wbqscQclmkCbw9S"
-      },
-      "artists": [
-        {
-          "name": "Tyler Farr",
-          "url": "https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Country As Shit (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/3V7wF51Xwe64NIxrUgyiuw"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Read Me My Rights",
-      "url": "https://open.spotify.com/track/0CrhIYKizM7cLxJVh2AocH"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ"
       },
@@ -351,22 +351,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "The Colonel",
-        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
       },
       "artists": [
         {
-          "name": "Dusty Leigh",
-          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
-        },
-        {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 157367,
-      "name": "Good Vibes Only",
-      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -415,6 +411,26 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "The Colonel",
+        "url": "https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD"
+      },
+      "artists": [
+        {
+          "name": "Dusty Leigh",
+          "url": "https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr"
+        },
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        }
+      ],
+      "duration_ms": 157367,
+      "name": "Good Vibes Only",
+      "url": "https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "The Bubba Mathis EP",
         "url": "https://open.spotify.com/album/4WKqMQF6Qb0CF24X1xWZ1G"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 186261,
       "name": "Duramax (feat. Young Gunner)",
       "url": "https://open.spotify.com/track/5nWcMMEUUY7QeNHCrQoiKe"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -515,6 +515,22 @@
       "duration_ms": 165041,
       "name": "Dirt Road",
       "url": "https://open.spotify.com/track/2QmpdwkRlSABLeVCIE3o8r"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Thanks for Listening",
+        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
+      },
+      "artists": [
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Crank It Up",
+      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -583,22 +599,6 @@
       "duration_ms": 262760,
       "name": "We All Country (feat. Colt Ford, Sarah Ross & Charlie Farley)",
       "url": "https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Thanks for Listening",
-        "url": "https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY"
-      },
-      "artists": [
-        {
-          "name": "Colt Ford",
-          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Crank It Up",
-      "url": "https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "American Rebelution",
+        "url": "https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "Jack in My Coke",
+      "url": "https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
         "url": "https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd"
       },
@@ -1107,6 +1127,22 @@
       "duration_ms": 210305,
       "name": "If You're Gonna Be Dumb, You Gotta Be Tough (From \"Jackass Forever\")",
       "url": "https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
+      },
+      "artists": [
+        {
+          "name": "Austin Tolliver",
+          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1135,22 +1171,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Yeah",
-        "url": "https://open.spotify.com/album/0McuDEqJtphpfw6hgEk5JN"
-      },
-      "artists": [
-        {
-          "name": "Austin Tolliver",
-          "url": "https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2jACYdJzSd2VWwGX5DLqLb"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 192101,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "American Rebelution",
-        "url": "https://open.spotify.com/album/0cganQdW9Mj2mJEmNG4949"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Jack in My Coke",
-      "url": "https://open.spotify.com/track/1w1BSlPEuUFhsYLizhVE0I"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1219,6 +1219,26 @@
       "duration_ms": 151651,
       "name": "STOMP YOUR BOOTS",
       "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Mud Digger 4",
+        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        },
+        {
+          "name": "JJ Lawhorn",
+          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Field Party",
+      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1363,26 +1383,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Mud Digger 4",
-        "url": "https://open.spotify.com/album/2RG6477nEGHWCoyVCi7dSh"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        },
-        {
-          "name": "JJ Lawhorn",
-          "url": "https://open.spotify.com/artist/3HvapZ323lwmK8tu8JsLvb"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Field Party",
-      "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Redneck Rich",
         "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
       },
@@ -1415,26 +1415,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Lethal",
-        "url": "https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci"
+        "name": "Redneck for Life",
+        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
       },
       "artists": [
         {
-          "name": "Moccasin Creek",
-          "url": "https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T"
-        },
-        {
-          "name": "Tommy Chayne",
-          "url": "https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO"
-        },
-        {
-          "name": "Hard Target",
-          "url": "https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf"
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
         }
       ],
-      "duration_ms": 231823,
-      "name": "Watch This",
-      "url": "https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H"
+      "duration_ms": 172848,
+      "name": "Redneck for Life",
+      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
     }
   ],
   "unique_name": "Field Party",

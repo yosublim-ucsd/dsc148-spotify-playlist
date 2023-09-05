@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: ONE OK ROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,766 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,236 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Forever Young](https://open.spotify.com/track/29zovESERgPJz1uaIFgsfS) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy) | [Forever Young](https://open.spotify.com/album/24NmauT5LwKzyNYApKkIQ5) | 3:35 |
 | 50 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
 
-Snapshot ID: `MCxhODY0ZmU4NDgyY2I5OGFhNDAyYmE1MjM0ZTQ3MzA2ZGY4MTI5YjZi`
+Snapshot ID: `MCw4MmVlMjViMTQzMjQ3ZTQ5ZjI3N2NmMjg2NThmYmNmOGRlYzcxYjhi`

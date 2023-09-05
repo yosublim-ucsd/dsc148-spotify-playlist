@@ -1,12 +1,12 @@
 {
   "description": "Crowdpleasing classics for an easy, carefree day.",
-  "num_followers": 418281,
+  "num_followers": 418588,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDEwNzM0MDdiNjg1ZTdjMjMzMTI3YjM0NmNmYjA1OTFhZTJkNzlj",
+  "snapshot_id": "MCxjMmU0YTUwMjUwNWUyZjU5YzIzODExYjk2YjFmZDhhYTQ3ZGY4OWVh",
   "tracks": [
     {
       "added_at": "2023-03-23 19:38:22",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Buffalo Springfield",
-        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Menagerie",
         "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
       },
@@ -123,18 +107,18 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "Buffalo Springfield",
+        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+      "duration_ms": 153693,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
     },
     {
       "added_at": "2023-07-05 19:06:26",
@@ -151,6 +135,22 @@
       "duration_ms": 142786,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2023-07-05 19:06:26",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Jackson Browne (Saturate Before Using)",
         "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 199906,
       "name": "Doctor My Eyes",
       "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "All Things Must Pass (2014 Remaster)",
-        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 264405,
-      "name": "What Is Life - 2014 Remaster",
-      "url": "https://open.spotify.com/track/44fw7RulJyj7dGIi9qR86N"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "The Roaring Silence",
         "url": "https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+        "name": "All Things Must Pass (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
       },
       "artists": [
         {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+      "duration_ms": 264405,
+      "name": "What Is Life - 2014 Remaster",
+      "url": "https://open.spotify.com/track/44fw7RulJyj7dGIi9qR86N"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -759,6 +743,22 @@
       "duration_ms": 215400,
       "name": "Kodachrome",
       "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
         "name": "Gorilla (2019 Remaster)",
         "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 178693,
       "name": "Mexico - 2019 Remaster",
       "url": "https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
       "added_at": "2023-03-23 19:38:22",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-03-23 19:38:22",
       "album": {
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+      },
+      "artists": [
+        {
+          "name": "Orleans",
+          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+    },
+    {
+      "added_at": "2023-03-23 19:38:22",
+      "album": {
         "name": "Station to Station (2016 Remaster)",
         "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 265560,
       "name": "Stone in Love",
       "url": "https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI"
-    },
-    {
-      "added_at": "2023-03-23 19:38:22",
-      "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
-      },
-      "artists": [
-        {
-          "name": "Orleans",
-          "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
     },
     {
       "added_at": "2023-03-23 19:38:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,267 likes - 109 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,464 likes - 109 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

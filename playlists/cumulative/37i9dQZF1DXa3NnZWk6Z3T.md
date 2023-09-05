@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-324 songs - 18 hr 41 min
+325 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Mi Sueño](https://open.spotify.com/track/3L5JCkhuFHTJfq3ItzKg3H) | [Esteban Copete y su Kinteto Pacifico](https://open.spotify.com/artist/6acBIoMWoHuUksQRUK1fwd), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Mi Sueño \- Single](https://open.spotify.com/album/3UumcN3Q1PPttm2aoTUqDx) | 3:35 | 2021-12-09 | 2022-10-28 |
 | [Mi Vida](https://open.spotify.com/track/169P9aWUvz4VIjcNQC3I0d) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Mi Vida](https://open.spotify.com/album/2h382tyzRgLMjEErQZSHLk) | 2:21 | 2022-04-07 | 2022-04-17 |
 | [Miloka](https://open.spotify.com/track/37APbdv73nMGkCSR1JJOKv) | [Juan Cid](https://open.spotify.com/artist/6yOKkwhetQkC2zqeNqB0FE) | [Miloka](https://open.spotify.com/album/3U0IWuExjLr3YzgrpZLHLE) | 2:55 | 2022-04-07 | 2022-11-13 |
-| [Missed Connection](https://open.spotify.com/track/4J46hSepcjAkwAVJZMBbKM) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Missed Connection](https://open.spotify.com/album/1Pdkf0Y84hr61DHLky3goJ) | 3:51 | 2021-12-09 |  |
+| [Missed Connection](https://open.spotify.com/track/4J46hSepcjAkwAVJZMBbKM) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Missed Connection](https://open.spotify.com/album/1Pdkf0Y84hr61DHLky3goJ) | 3:51 | 2021-12-09 | 2023-09-05 |
 | [Miénteme](https://open.spotify.com/track/1kWjEyML20EpP7yjw5cfA5) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg) | 2:32 | 2022-05-14 | 2022-10-28 |
 | [Miénteme](https://open.spotify.com/track/6YhRYUfDBEI4xWHFNr2mpI) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Trébol](https://open.spotify.com/album/5vM9AoEkijaGb0h9RcUIv3) | 2:32 | 2021-12-09 | 2022-07-03 |
 | [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-12-09 |  |
@@ -325,6 +325,7 @@
 | [Viento y Tiempo \- Radio Edit](https://open.spotify.com/track/7mW99NJgskU2TChTgTVVrW) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Viento y Tiempo \(Radio Edit\)](https://open.spotify.com/album/3kZCDidGwgqvDvkzKkoSt1) | 3:57 | 2022-04-07 | 2022-04-21 |
 | [Volando Bajito](https://open.spotify.com/track/3W888aowJCl8Mwq9JMaJTc) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Volando Bajito](https://open.spotify.com/album/3nyLvPVZZJTumqzbGeVOhx) | 2:22 | 2022-01-27 | 2022-03-09 |
 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 | 2021-12-09 | 2022-07-29 |
+| [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 | 2023-09-01 |  |
 | [Vértigo](https://open.spotify.com/track/1VgQ6AZ8tVV0uhvhH9usuj) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vértigo](https://open.spotify.com/album/19MUIINT0CT8vfZwAGW3RR) | 3:26 | 2021-12-09 | 2022-07-29 |
 | [Vértigo](https://open.spotify.com/track/227nezDEiXyyQvUyGsB2S0) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Muta](https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx) | 3:27 | 2022-05-14 |  |
 | [Y Si Mañana](https://open.spotify.com/track/0mdXFAAbFwFlKdiEtkz1ha) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:37 | 2021-12-09 |  |

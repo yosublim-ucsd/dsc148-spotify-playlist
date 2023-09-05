@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Tonic Walter
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,282 likes - 90 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,418 likes - 90 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Heat Wave](https://open.spotify.com/track/5feuxpw7WjDoOGuL8iqRcG) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Heat Wave](https://open.spotify.com/album/7m0NNUZU9h4Gj7HjPvRQNV) | 6:08 |
 | 90 | [Higher](https://open.spotify.com/track/1lxy8QNuoHOuUNVEpAfH5V) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Raredub](https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4) | [HIGHER](https://open.spotify.com/album/2TX87UckqmOahcUREbqdYT) | 5:41 |
 
-Snapshot ID: `MCw0ZmE2YWNlNjNmYzdlNmI0MzYzZmNhNTliYTAzNjQ5MDExODlkMGRi`
+Snapshot ID: `MCw1NjJhZjFmNmY4YTk0ZTc1NjVjMDYzNzhmZTNhNTlmNTY5Y2NkMWQz`

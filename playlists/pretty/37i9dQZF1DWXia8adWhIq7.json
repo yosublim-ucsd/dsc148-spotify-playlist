@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jess\u00e9 Alcantara",
-  "num_followers": 74609,
+  "num_followers": 74696,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTcyZTc4OTUzZjU4ZmU4ZWFhNTA1ZDk3NWQ1MmRlOWJjYTI2ODA2",
+  "snapshot_id": "MCxjY2Y2YjM0MWE5Yzg0MmYxN2I5MWU3YzVjOGY0NDI5NDcyNzRhOGM4",
   "tracks": [
     {
       "added_at": "2023-09-01 05:57:28",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
+        "name": "Eu Vou",
+        "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
+      },
+      "artists": [
+        {
+          "name": "Thiago Ramalho",
+          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Eu Vou",
-        "url": "https://open.spotify.com/album/4jYJAnAnJjxPwVPFWRdvVp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Ramalho",
-          "url": "https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ"
-        }
-      ],
-      "duration_ms": 209664,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/519QsRMwlkuirzde4fbtwr"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Dono dos Meus Dias",
         "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 239946,
       "name": "Dono dos Meus Dias",
       "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -283,22 +299,6 @@
       "duration_ms": 176520,
       "name": "Bom \u00c2nimo",
       "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Leif Bessa - Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 280235,
-      "name": "Caminhada",
-      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
         "name": "Sinal de Aviso",
         "url": "https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+        "name": "Leif Bessa - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
         }
       ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+      "duration_ms": 280235,
+      "name": "Caminhada",
+      "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -1047,6 +1031,22 @@
       "duration_ms": 179998,
       "name": "Tudo Novo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-09-01 05:57:28",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
         "name": "Ousado Amor",
         "url": "https://open.spotify.com/album/5Y8vcMT4eDmaPOibOkbTAn"
       },
@@ -1263,6 +1279,22 @@
     {
       "added_at": "2023-09-01 05:57:28",
       "album": {
+        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
+    },
+    {
+      "added_at": "2023-09-01 05:57:28",
+      "album": {
         "name": "Me Alcan\u00e7ou (Remix)",
         "url": "https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa"
       },
@@ -1279,38 +1311,6 @@
       "duration_ms": 331653,
       "name": "Me Alcan\u00e7ou (Remix)",
       "url": "https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2023-09-01 05:57:28",
-      "album": {
-        "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
     },
     {
       "added_at": "2023-09-01 05:57:28",

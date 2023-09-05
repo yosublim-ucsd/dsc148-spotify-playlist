@@ -597,6 +597,28 @@
     },
     {
       "album": {
+        "name": "A noite toda",
+        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
+      },
+      "artists": [
+        {
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "A noite toda",
+      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
+    },
+    {
+      "album": {
         "name": "Aben\u00e7oado",
         "url": "https://open.spotify.com/album/7k5ODwkPf009eHmzwM7EXv"
       },
@@ -8196,7 +8218,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 215593,
       "name": "Fundo do Mar",
       "url": "https://open.spotify.com/track/48RydgPQGeoMOxKACypWZa"

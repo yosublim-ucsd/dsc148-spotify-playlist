@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 95330,
+  "num_followers": 95389,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTBkZGU5ZjdhMGFmOTVhNjdlY2Q0NWU5Y2EyZWYxMzVlYWZjYmVm",
+  "snapshot_id": "MCwzMjBiNjIxMTUzYmEyZmJhNDExMTcxMGVhMDFhNzU3MTMxODE1Yjc2",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -871,22 +871,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Reba Duets",
-        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+      "duration_ms": 192093,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -907,18 +903,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+        "name": "Reba Duets",
+        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 192093,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
+      "duration_ms": 223746,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 255013,
-      "name": "Margaritaville (with Jimmy Buffett)",
-      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Simply The Hits",
         "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 226960,
       "name": "Whoever's in New England",
       "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 255013,
+      "name": "Margaritaville (with Jimmy Buffett)",
+      "url": "https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "He Got the Best of Me",
-        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 158461,
-      "name": "He Got the Best of Me",
-      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 257893,
       "name": "I Told You So",
       "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "He Got the Best of Me",
+        "url": "https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 158461,
+      "name": "He Got the Best of Me",
+      "url": "https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Loud and Heavy",
-        "url": "https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U"
-      },
-      "artists": [
-        {
-          "name": "State of Mine",
-          "url": "https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh"
-        },
-        {
-          "name": "Drew Jacobs",
-          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
-        }
-      ],
-      "duration_ms": 201076,
-      "name": "Loud and Heavy",
-      "url": "https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "God Blessed Texas",
         "url": "https://open.spotify.com/album/23oHCXpMbOCGkvEgvsbSfG"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 207933,
       "name": "God Blessed Texas",
       "url": "https://open.spotify.com/track/0NCSOMwJ2JUNEXmoaZd7Mb"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Loud and Heavy",
+        "url": "https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U"
+      },
+      "artists": [
+        {
+          "name": "State of Mine",
+          "url": "https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh"
+        },
+        {
+          "name": "Drew Jacobs",
+          "url": "https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0"
+        }
+      ],
+      "duration_ms": 201076,
+      "name": "Loud and Heavy",
+      "url": "https://open.spotify.com/track/6d5Ip7MN38R1av3Yf4BKMU"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Wild And Blue",
+      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Wild And Blue",
-      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Palace (Cover) / Diane",
         "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
       },
@@ -1727,18 +1727,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
+        "name": "Listen To The Radio",
+        "url": "https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 262520,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
+      "duration_ms": 240386,
+      "name": "Listen To The Radio",
+      "url": "https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70"
     }
   ],
   "unique_name": "Country Covers",

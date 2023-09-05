@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: eee gee
 
-530 songs - 1 day 4 hr 15 min
+533 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A song about a 14 hour drive](https://open.spotify.com/track/6DQo14uIZJpra7QYQqY165) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song about a 14 hour drive](https://open.spotify.com/album/3LMduFUb5BYbMTTgGWK4RK) | 3:14 | 2022-07-15 | 2022-12-03 |
 | [A song I wrote after therapy](https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song I wrote after therapy](https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG) | 3:05 | 2022-06-24 | 2022-07-16 |
 | [A Woman's World](https://open.spotify.com/track/5jLw9MlAjLGVDFVx3739eQ) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [A Woman's World](https://open.spotify.com/album/6FARllTFyAyPTIhowt7GlX) | 2:38 | 2022-01-14 | 2022-02-12 |
+| [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 | 2023-09-03 |  |
 | [Again and Again](https://open.spotify.com/track/2ZvlfOqzdSDPpXFJL6ETNj) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Again and Again](https://open.spotify.com/album/3wxJOOmjsc7CMeCHnjo20b) | 3:27 | 2023-08-11 |  |
 | [Age Of Depression](https://open.spotify.com/track/1oIFiHEu2tmfA99YrcdgZ2) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/6KEkHT3JThHci5q284JqYk) | 2:52 | 2023-06-12 |  |
 | [Age Of Depression](https://open.spotify.com/track/5ZMHrSgqn8FzhulpGdd0vg) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW), [Tyson](https://open.spotify.com/artist/3sKkrLMcWTAzg5SFw7DkT7) | [Die in LA](https://open.spotify.com/album/5dhk16YYarUX00yefCsgVx) | 2:52 | 2023-06-12 | 2023-06-18 |
@@ -144,6 +145,7 @@
 | [Elephant In The Room](https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Elephant In The Room](https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA) | 2:41 | 2023-01-27 | 2023-06-13 |
 | [elsie](https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [elsie](https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y) | 3:23 | 2023-02-03 | 2023-04-09 |
 | [Emerald City](https://open.spotify.com/track/2qeO8zNYrzTBs4Nxlkz007) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Emerald City](https://open.spotify.com/album/3e0LG2rn8nvgZZNsPKn3Tj) | 2:46 | 2022-01-14 | 2022-04-09 |
+| [emergency contact](https://open.spotify.com/track/1H9PD84EannawT2KAeBlul) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [emergency contact](https://open.spotify.com/album/7i00KyYeAxeJu9UXLsv6N0) | 3:28 | 2023-09-03 |  |
 | [Emma](https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [Emma](https://open.spotify.com/album/158IZZsGeaxebU5MMKUF8i) | 4:08 | 2022-01-14 | 2022-03-12 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-01-14 |
 | [End of the Day](https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [End of the Day](https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf) | 3:56 | 2022-06-08 | 2022-08-06 |
@@ -352,7 +354,7 @@
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
 | [NOTHING!](https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [NOTHING!](https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH) | 2:19 | 2023-08-18 |  |
-| [older](https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [older](https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE) | 2:37 | 2023-05-19 |  |
+| [older](https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [older](https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE) | 2:37 | 2023-05-19 | 2023-09-05 |
 | [On The Drive Home](https://open.spotify.com/track/5HXQI1AJwzmnxLVm7BW1kV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 4:16 | 2022-08-12 | 2022-12-24 |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-11 |  |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-08 | 2022-04-29 |
@@ -409,7 +411,7 @@
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2022-01-14 | 2022-04-23 |
 | [Seen](https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Seen](https://open.spotify.com/album/4pQgKTITrIp8lNGKwNWjWg) | 3:27 | 2022-03-11 | 2022-07-30 |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-05-28 |
-| [serious person](https://open.spotify.com/track/5zF5gDWWOyX7ka3IIrs7SX) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 | 2023-06-02 |  |
+| [serious person](https://open.spotify.com/track/5zF5gDWWOyX7ka3IIrs7SX) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 | 2023-06-02 | 2023-09-05 |
 | [Sex & TV](https://open.spotify.com/track/0EQcLq20sqq1hazLaImEkz) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Sex & TV](https://open.spotify.com/album/4ewO5SDzXRf5goFeNNGPDd) | 2:26 | 2022-10-14 | 2022-12-24 |
 | [She's There](https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 1](https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG) | 3:50 | 2023-06-02 |  |
 | [Silence](https://open.spotify.com/track/3wzrK49eHKXufPDkNzRAoH) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Pray For Me](https://open.spotify.com/album/79UgvdWK1Cz8SN5BdgKFL4) | 2:57 | 2023-07-07 |  |
@@ -457,7 +459,8 @@
 | [Super Glue](https://open.spotify.com/track/3lqCa64sI3KAbXNBNweNuf) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Super Glue](https://open.spotify.com/album/2uFLfUj0fJMwV0ZCWGiFGv) | 2:21 | 2022-01-14 | 2022-02-12 |
 | [Surprise](https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Surprise](https://open.spotify.com/album/5n9g4YNR0HwYounEZShI93) | 3:27 | 2023-02-10 | 2023-09-02 |
 | [Surround Me](https://open.spotify.com/track/2VpT2mgMMGOgWsLve3FXQI) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Surround Me](https://open.spotify.com/album/7coxHNA9sfn6xEkTF1IbxW) | 3:37 | 2022-03-18 | 2022-04-16 |
-| [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 |  |
+| [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-09-01 |  |
+| [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-09-05 |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-04-29 |
 | [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-21 |  |

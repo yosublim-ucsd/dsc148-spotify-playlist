@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 134391,
+  "num_followers": 134461,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWU2NWU0NDZmODdhZDRiMGI5OTA1YjNmZDU1YzczYjE2NzA2MTJi",
+  "snapshot_id": "MCwyMjY0NWQwYTNkYTU0YTJiNmMxNGUxZDU3NDFjNjY2ZjY2M2YzNWEz",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Standing Room Only (Acoustic)",
-        "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Standing Room Only - Acoustic",
-      "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Love Like I Drink",
         "url": "https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl"
       },
@@ -631,6 +615,26 @@
       "duration_ms": 195309,
       "name": "Love Like I Drink",
       "url": "https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -735,22 +739,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+        "name": "Standing Room Only (Acoustic)",
+        "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
       },
       "artists": [
         {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
+      "duration_ms": 226440,
+      "name": "Standing Room Only - Acoustic",
+      "url": "https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+        "name": "I Hate Cowboys & All Dogs Go To Hell",
+        "url": "https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         }
       ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+      "duration_ms": 168000,
+      "name": "For A Day",
+      "url": "https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "I Hate Cowboys & All Dogs Go To Hell",
-        "url": "https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i"
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
       },
       "artists": [
         {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 168000,
-      "name": "For A Day",
-      "url": "https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm"
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
       "artists": [
         {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         }
       ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "No Horse To Ride (demo version)",
+        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 133906,
+      "name": "No Horse To Ride - demo version",
+      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Pretty Little Poison (Piano Version)",
         "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "No Horse To Ride (demo version)",
-        "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
+        "name": "All I Need Is You (Piano Version)",
+        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
       },
       "artists": [
         {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
         }
       ],
-      "duration_ms": 133906,
-      "name": "No Horse To Ride - demo version",
-      "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+      "duration_ms": 195806,
+      "name": "All I Need Is You - Piano Version",
+      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Hate Me More (Stripped)",
-        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
+        "name": "Last Rodeo (Acoustic)",
+        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
       },
       "artists": [
         {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         }
       ],
-      "duration_ms": 160434,
-      "name": "Hate Me More (Stripped)",
-      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
+      "duration_ms": 190031,
+      "name": "Last Rodeo - Acoustic",
+      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1287,6 +1303,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Hate Me More (Stripped)",
+        "url": "https://open.spotify.com/album/67woBHx9USLA5slgZq6y7C"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 160434,
+      "name": "Hate Me More (Stripped)",
+      "url": "https://open.spotify.com/track/1hDpmZBKX9zB9nNbTYYuR8"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -1299,22 +1331,6 @@
       "duration_ms": 277395,
       "name": "Faithfully - Acoustic",
       "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "All I Need Is You (Piano Version)",
-        "url": "https://open.spotify.com/album/5U5tcDHRiuY3N0uisN7y8N"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 195806,
-      "name": "All I Need Is You - Piano Version",
-      "url": "https://open.spotify.com/track/1WRZsHTzk6mgNNyYaSeWeS"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Hush Little Baby (Acoustic)",
         "url": "https://open.spotify.com/album/6MOlPULOAZB0pxAaLiiTCG"
       },
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Last Rodeo (Acoustic)",
-        "url": "https://open.spotify.com/album/0wdZKVdK14qUxN4ajYlWPV"
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
         }
       ],
-      "duration_ms": 190031,
-      "name": "Last Rodeo - Acoustic",
-      "url": "https://open.spotify.com/track/2f6rldk2P7ckpFkYi3TdKE"
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Your Love (Acoustic)",
-        "url": "https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 189615,
-      "name": "Your Love - Acoustic",
-      "url": "https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Sober & Skinny",
         "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 198719,
       "name": "Sober & Skinny",
       "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Your Love (Acoustic)",
+        "url": "https://open.spotify.com/album/4Y639kZECasYbeBqskDsKt"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 189615,
+      "name": "Your Love - Acoustic",
+      "url": "https://open.spotify.com/track/1kFyV5C1VgCGvjLLQ33JXE"
     },
     {
       "added_at": "2023-09-01 04:00:00",

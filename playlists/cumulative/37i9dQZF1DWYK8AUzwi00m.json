@@ -3471,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/22NAyC8hQBFwzXsMz7OcsY"
+      },
+      "artists": [
+        {
+          "name": "ZooKeepr",
+          "url": "https://open.spotify.com/artist/07hMsm97BWS43F3TVTkl6W"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/4TH6wPd9S023ujwtWoZewm"
+    },
+    {
+      "album": {
         "name": "office christmas party",
         "url": "https://open.spotify.com/album/0lbgCm7v5uEofQTDC3oXmW"
       },

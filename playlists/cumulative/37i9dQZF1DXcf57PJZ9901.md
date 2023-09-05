@@ -4,7 +4,7 @@
 
 > The best easy rock from the 2010s\. Cover: Keane
 
-129 songs - 8 hr 21 min
+130 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [If You Ever Want To Be In Love](https://open.spotify.com/track/02fZLz9BmmOKb5wkueM9D4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 3:58 | 2020-12-08 | 2022-07-29 |
 | [If You Ever Want To Be In Love](https://open.spotify.com/track/0UGRfHjN5t2qRMgfTpYnd3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 | 2020-12-08 |  |
 | [Killing Me](https://open.spotify.com/track/3lcYh4YFzkeZf1ebWy8wPx) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Junk Of The Heart](https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g) | 3:25 | 2020-12-08 |  |
-| [Landlady](https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:01 | 2020-12-08 |  |
+| [Landlady](https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:01 | 2020-12-08 | 2023-09-05 |
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2020-12-08 |  |
 | [Let It Go](https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW) | 4:20 | 2020-12-08 | 2022-07-29 |
 | [Let It Go](https://open.spotify.com/track/09Qcv27NMy1HoN6mvok8z3) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Crying Sad Songs](https://open.spotify.com/album/0lA0JLGqIRRcsJMdlq3nx9) | 4:21 | 2020-12-08 | 2022-11-14 |
@@ -137,5 +137,6 @@
 | [Wild Sun](https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:29 | 2020-12-08 | 2022-10-13 |
 | [Wild Sun](https://open.spotify.com/track/5MfLVNkxZJ7VZPnNp9vHdl) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 4:29 | 2020-12-08 |  |
 | [Zombie \(Acoustic\)](https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie EP](https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV) | 4:19 | 2021-10-12 | 2023-08-31 |
+| [Zombie \- Acoustic](https://open.spotify.com/track/6HxrbtjM2HL8iz5C743Ets) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/4SgCsTa1k8CxHrarTn3KRj) | 4:19 | 2023-01-11 |  |
 
 \*This playlist was first scraped on 2022-05-09. Prior content cannot be recovered.

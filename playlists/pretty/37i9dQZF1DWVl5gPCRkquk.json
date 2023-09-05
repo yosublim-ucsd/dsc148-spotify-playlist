@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 875106,
+  "num_followers": 875172,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTgxODgyOGNkMDkzNGUxYjI4NjExMjcyMjY0Y2JhNTRhNzU5MjM1",
+  "snapshot_id": "MCwyZDYzOTIyNThhNzcxMjc5MTMxMmY3NDBkYzg5YzAyZDZmY2QzZDZk",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Everybody Needs Someone (feat. Vance Joy)",
         "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 178819,
       "name": "Everybody Needs Someone (feat. Vance Joy)",
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "All Your Favorite Bands",
         "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1007,6 +991,22 @@
       "duration_ms": 243360,
       "name": "Anybody Else",
       "url": "https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 230813,
       "name": "Featherweight",
       "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "A River Running to Your Heart",
-        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 213057,
-      "name": "Sick of This Feeling",
-      "url": "https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Mipso",
         "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 215040,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "A River Running to Your Heart",
+        "url": "https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 213057,
+      "name": "Sick of This Feeling",
+      "url": "https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "City of Gold",
         "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 263899,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 290775,
+      "name": "Little Lover",
+      "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 265387,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 290775,
-      "name": "Little Lover",
-      "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"
     }
   ],
   "unique_name": "Chill Folk",

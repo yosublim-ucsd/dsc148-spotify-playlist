@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Black Pumas
 
-843 songs - 2 day 3 hr 34 min
+844 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,8 @@
 | [Jeff Goldblum](https://open.spotify.com/track/3PHbnETIo07Bgk475d2z7x) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Jeff Goldblum](https://open.spotify.com/album/52mBm64RWajg2R3WW4zKJI) | 3:20 | 2021-12-10 | 2022-01-08 |
 | [Johnny Velvet](https://open.spotify.com/track/4HqltvXvSxgA2xAdlLEGNN) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [Johnny Velvet](https://open.spotify.com/album/6TGvQtxA1SAbajmTp1WKrf) | 4:19 | 2023-05-26 | 2023-06-27 |
 | [Johnny Velvet](https://open.spotify.com/track/5eicTpdl334npx01MuwB9f) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [CAZIMI \(Deluxe Edition\)](https://open.spotify.com/album/2TbzHlioxxZvaD0Metp9dg) | 4:19 | 2023-06-23 | 2023-08-15 |
-| [June's Stolen Car](https://open.spotify.com/track/3hkxcsTH2kTBEtgTtznCqv) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [June's Stolen Car](https://open.spotify.com/album/1cXyje7UHXdXmEzAf1wDgb) | 5:29 | 2023-08-25 |  |
+| [June's Stolen Car](https://open.spotify.com/track/0ThSEbDLmqQq6cAfRhzT49) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 5:29 | 2023-08-25 |  |
+| [June's Stolen Car](https://open.spotify.com/track/3hkxcsTH2kTBEtgTtznCqv) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [June's Stolen Car](https://open.spotify.com/album/1cXyje7UHXdXmEzAf1wDgb) | 5:29 | 2023-08-25 | 2023-09-05 |
 | [Just Before The Morning](https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Just Before The Morning](https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x) | 3:34 | 2022-10-14 | 2023-05-13 |
 | [Just The Once](https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Just The Once](https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5) | 3:24 | 2023-08-18 |  |
 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 | 2023-07-24 |  |

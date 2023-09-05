@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,206 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,247 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 44 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 45 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 |
 | 46 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 |
-| 47 | [used to be used to be used to be](https://open.spotify.com/track/1IZmxDVp2ArH5QoRe5kDOk) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [LIMBO +](https://open.spotify.com/album/1Gb6DAg4uqsHYenwBe5vvf) | 3:29 |
+| 47 | [used to be used to be used to be](https://open.spotify.com/track/1IZmxDVp2ArH5QoRe5kDOk) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [BF\-131131525](https://open.spotify.com/artist/5GahCujCL1pxnI41DT2gQK) | [LIMBO +](https://open.spotify.com/album/1Gb6DAg4uqsHYenwBe5vvf) | 3:29 |
 | 48 | [NOT ALRIGHT](https://open.spotify.com/track/43zmwS7IJbvPBvFEDpdBol) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [NOT ALRIGHT](https://open.spotify.com/album/7nP4tnrs7koC5InkWXkdCv) | 3:56 |
 | 49 | [Fleeting Love](https://open.spotify.com/track/1aC4jhPQ1FXnmNkbgDrcMg) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Fleeting Love](https://open.spotify.com/album/3jmi7NBWGr3A4erdTPaRA6) | 2:36 |
 | 50 | [TTY](https://open.spotify.com/track/5gIlLviOr5f46RSUEjAGAh) | [Emir Hermono](https://open.spotify.com/artist/4pw0ZfX3PzaBXQu1qL5G0p), [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [TTY](https://open.spotify.com/album/72mpHUlAciBLXZpW3s2Vs1) | 2:32 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 98 | [Mirages Of You](https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Mirages Of You](https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m) | 3:16 |
 | 99 | [For What It's Worth](https://open.spotify.com/track/31hXMEaAU9fZy21oKRzP7H) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [For What It's Worth](https://open.spotify.com/album/7bl1GLPKwgnhIVxtWEq121) | 4:10 |
 
-Snapshot ID: `MCxjMzViZDc2MmU2NWE3Y2ZjY2M5Zjk2MjIwMGIwZDU1NDIxZWUwNzFm`
+Snapshot ID: `MCxlNDE2MmQ3MTU0ZjA3NmYzN2QwMDZkNzU0ODYxYWZmMTVhZTk2ZTVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPIbPNr916x.md) - [plain]
 
 > Your ultimate easy\-listening soundtrack for the summer months.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,726 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,870 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

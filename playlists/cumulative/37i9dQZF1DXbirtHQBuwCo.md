@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: BIBI\)
 
-618 songs - 1 day 9 hr 13 min
+619 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Could I](https://open.spotify.com/track/7JWpMRNhvysFIxnB8nB30L) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [LILAC](https://open.spotify.com/artist/2klhHHmpW7xu4lmdLm7ULj) | [Could I](https://open.spotify.com/album/77xIc7I0lomhqMkhP9cIve) | 3:51 | 2022-07-27 | 2022-08-03 |
 | [Crazy Like You \(feat\. BIBI\)](https://open.spotify.com/track/0oUK4m2wNIBPfejlcB1N9k) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:55 | 2022-07-12 | 2022-08-19 |
 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 | 2022-06-23 | 2022-07-04 |
+| [Crime \(Feat\. Dok2\)](https://open.spotify.com/track/2yqRx63j0kH9GrddlVPYL1) | [YONKO](https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED), [SZN](https://open.spotify.com/artist/0SPzRZVsUUzgOXjibr7PEj), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Peach Talk](https://open.spotify.com/album/0ybNNqerTeqpUhne34ngss) | 3:35 | 2023-09-04 |  |
 | [Cry For Love](https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:30 | 2022-04-19 |  |
 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 | 2022-07-27 |  |
 | [D\-day \(Feat\. GIRIBOY\)](https://open.spotify.com/track/15LVXIWDmQA7mLUnLJn1AF) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:31 | 2022-04-22 | 2022-07-24 |
@@ -308,7 +309,7 @@
 | [Letter](https://open.spotify.com/track/3mim8OzDtQI1nNdhpvIHOk) | [DaNTe'](https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm) | [Letter](https://open.spotify.com/album/31HW8lgaLvAbWAAyGENFG5) | 3:42 | 2023-01-10 | 2023-01-24 |
 | [lies](https://open.spotify.com/track/3lubWbCsbUxNDspenMfweM) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:19 | 2022-07-25 | 2022-08-03 |
 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 | 2022-06-18 | 2022-07-05 |
-| [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 | 2022-04-19 |  |
+| [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 | 2022-04-19 | 2023-09-05 |
 | [LIKE A FOOL \(feat\. JUNNY\)](https://open.spotify.com/track/6wJ3GO2aNL328aR2nL27V7) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:27 | 2022-05-11 | 2022-07-19 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-27 |  |
 | [Locked In \(Feat\. Jiselle\)](https://open.spotify.com/track/7KzkNqK1WohUzYHTJSmlOU) | [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [Locked In](https://open.spotify.com/album/7cPLsI2lTuZhBKZi98Po6r) | 2:42 | 2023-04-07 | 2023-04-18 |

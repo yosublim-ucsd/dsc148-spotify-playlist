@@ -1,12 +1,12 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 538124,
+  "num_followers": 538371,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWRhNDdiYzJjNjdhZDI3MjhiZWExNDc1MWM2MzdlMzNlOTQ4NzZi",
+  "snapshot_id": "MCxlMTAwM2VmMTk2MDA0Y2FlNTBjOWFkYjliMDk4OTlkZmU4ZDYxMDFk",
   "tracks": [
     {
       "added_at": "2021-08-20 08:20:52",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
     },
     {
       "added_at": "2021-08-20 08:20:52",
@@ -831,26 +831,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
       },
@@ -875,26 +855,6 @@
     {
       "added_at": "2021-08-20 08:20:52",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Loved By You (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
-    },
-    {
-      "added_at": "2021-08-20 08:20:52",
-      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -915,6 +875,46 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
+    },
+    {
+      "added_at": "2021-08-20 08:20:52",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Loved By You (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
     },
     {
       "added_at": "2021-08-20 08:20:52",

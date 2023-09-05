@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 259216,
+  "num_followers": 259297,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjM0NzNhZDU0YmQxNDNhNDE1YTM1MDE0MGM1NTRjMjBkZmMyOTc2",
+  "snapshot_id": "MCxmYWJlZDZjZDVkMTdiMjc4ZTJiYzZlOTk0MDhiNzYwYTEwNjI3YzVj",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 179083,
       "name": "Paper Mache World",
       "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "New Person, Old Place",
         "url": "https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 246226,
       "name": "New Person, Old Place",
       "url": "https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Kill Her Freak Out",
         "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 260013,
       "name": "Kill Her Freak Out",
       "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "one hand on the steering wheel the other sewing a garden",
-        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        }
-      ],
-      "duration_ms": 261173,
-      "name": "damn",
-      "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 249146,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "one hand on the steering wheel the other sewing a garden",
+        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 261173,
+      "name": "damn",
+      "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "The World We Built",
         "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 192000,
       "name": "Silk",
       "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Bullseye",
-        "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
-      },
-      "artists": [
-        {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/1BJicMsGWyW8xTQb22N8Ye"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Flora Fauna",
-        "url": "https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Garden of Eden",
-      "url": "https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/6UwMhfqSFCopdNxxyEqERd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 208242,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/1Z8ILAI5cuxguldwB2KsdB"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Flora Fauna",
+        "url": "https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Garden of Eden",
+      "url": "https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "wish you the best (feat. Jensen McRae)",
-      "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Pictures of Flowers",
         "url": "https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 260458,
       "name": "Pictures of Flowers",
       "url": "https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "wish you the best (feat. Jensen McRae)",
+      "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
     },
     {
       "added_at": "2023-06-16 04:00:00",

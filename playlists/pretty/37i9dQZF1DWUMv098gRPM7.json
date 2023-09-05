@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Sean Leon",
-  "num_followers": 6692,
+  "num_followers": 6712,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDZhZGZiZmY4MTBhYzcyMWE2MGI0ZWMxMjU0ZjY3OTIwZGRmMGNh",
+  "snapshot_id": "MCwwMzNjMzJmMmE3Yzg0OWQ4NDE1MTQwMjM4N2Y1MGE0YmE5NWE3MmU0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -199,18 +199,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+        "name": "Drama (feat. Drake) [Sped Up]",
+        "url": "https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+      "duration_ms": 251859,
+      "name": "Drama (feat. Drake)",
+      "url": "https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -267,22 +271,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Drama (feat. Drake) [Sped Up]",
-        "url": "https://open.spotify.com/album/5e31w2HtxpJeqO16YCDviv"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 251859,
-      "name": "Drama (feat. Drake)",
-      "url": "https://open.spotify.com/track/232jKM7OzWMfuwHyf9r3dX"
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -307,22 +311,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+      "duration_ms": 214193,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "House Of Balloons (Original)",
-        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 206421,
-      "name": "What You Need - Original",
-      "url": "https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
       },
@@ -431,26 +415,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 106333,
-      "name": "Summers Over Interlude",
-      "url": "https://open.spotify.com/track/3ppVO2tyWRRznNmONvt7Se"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Kiddo",
         "url": "https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw"
       },
@@ -463,6 +427,22 @@
       "duration_ms": 240906,
       "name": "FIGURES",
       "url": "https://open.spotify.com/track/3U3J5v3rkx89WnFEQvAJD5"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "House Of Balloons (Original)",
+        "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 206421,
+      "name": "What You Need - Original",
+      "url": "https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -499,6 +479,26 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 106333,
+      "name": "Summers Over Interlude",
+      "url": "https://open.spotify.com/track/3ppVO2tyWRRznNmONvt7Se"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Don't Throw Rocks At The Moon",
         "url": "https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 223573,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/10hUWpN7YFbK64zWuXxqGT"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -587,6 +571,22 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Morning After",
+        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 227946,
       "name": "Open (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/1VcORtwbt560HNpnDMyCCu"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Morning After",
-        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Think About Me",
-      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 220820,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Talk Luv",
         "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 164468,
       "name": "Talk Luv",
       "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1175,6 +1175,22 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1215,22 +1231,6 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/4JwwBO8xhLv6IpP7vxFu1a"
-      },
-      "artists": [
-        {
-          "name": "Notifi",
-          "url": "https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY"
-        }
-      ],
-      "duration_ms": 240335,
-      "name": "Won't Get Lonely",
-      "url": "https://open.spotify.com/track/3DrewWpSP7EsW8mekZQRPZ"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "FMU",
         "url": "https://open.spotify.com/album/5R6v6HYbJ27x5LfI2ILJRm"
       },
@@ -1351,6 +1335,26 @@
       "duration_ms": 141120,
       "name": "FMU",
       "url": "https://open.spotify.com/track/7e2BZGkxyHRk74HYy8KJkz"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/69nKR9FuDEnEw9b528RH1l"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 196949,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/58uTw3T5gfAMvvQuNhJPJH"
     }
   ],
   "unique_name": "R&B Rewind",

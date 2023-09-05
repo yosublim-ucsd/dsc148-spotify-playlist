@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: F\u00faria",
-  "num_followers": 123893,
+  "num_followers": 123973,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGY3OGIxMTYyNTc3NjdmODQxYjFmMTlkNjY3OGRjNDQ0OWI2ZDg5",
+  "snapshot_id": "MCxlMTRjNWQ4MDg0Zjc1NmJhYmZhZTNiMWVkODQwOGQ1YzhlZTcwODBj",
   "tracks": [
     {
       "added_at": "2023-09-01 15:03:02",
@@ -187,6 +187,42 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nick Nash",
+          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
+        },
+        {
+          "name": "Wylo",
+          "url": "https://open.spotify.com/artist/59gFRpopXIytwMDYDggebp"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 210545,
+      "name": "Vida Chique",
+      "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
@@ -235,42 +271,6 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nick Nash",
-          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
-        },
-        {
-          "name": "Wylo",
-          "url": "https://open.spotify.com/artist/59gFRpopXIytwMDYDggebp"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 210545,
-      "name": "Vida Chique",
-      "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
         "name": "Assault (Joias no Pulso)",
         "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
       },
@@ -299,38 +299,6 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
-        "name": "Meca Cereja",
-        "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "Meca Cereja",
-      "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -387,22 +355,30 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Vestido da Fendi",
-        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
         }
       ],
-      "duration_ms": 164203,
-      "name": "Vestido da Fendi",
-      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -439,6 +415,58 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
+        "name": "Meca Cereja",
+        "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Meca Cereja",
+      "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
+        "name": "Vestido da Fendi",
+        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 164203,
+      "name": "Vestido da Fendi",
+      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
         "name": "Dama de Vermelho",
         "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
       },
@@ -455,66 +483,6 @@
       "duration_ms": 162585,
       "name": "Dama de Vermelho",
       "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -575,30 +543,6 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Maturidade",
-        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Maturidade",
-      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
         "name": "No Bank's",
         "url": "https://open.spotify.com/album/07QrmBl9FqFiDYUd1jY4C8"
       },
@@ -619,6 +563,38 @@
       "duration_ms": 188437,
       "name": "No Bank's",
       "url": "https://open.spotify.com/track/4Wwm8sCBEBuVYie9jiFvx9"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -715,30 +691,46 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+        "name": "Posturad\u00e3o",
+        "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
       },
       "artists": [
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
         },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Posturad\u00e3o",
+      "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
+        "name": "Maturidade",
+        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
+      },
+      "artists": [
         {
           "name": "KayBlack",
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
         }
       ],
-      "duration_ms": 158574,
-      "name": "Jacar\u00e9 No Peito",
-      "url": "https://open.spotify.com/track/341pSOj91LkF14j22PZaRV"
+      "duration_ms": 142026,
+      "name": "Maturidade",
+      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -775,50 +767,30 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Posturad\u00e3o",
-        "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
       "artists": [
         {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Posturad\u00e3o",
-      "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
         {
           "name": "KayBlack",
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 136464,
-      "name": "Superficial",
-      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
+      "duration_ms": 158574,
+      "name": "Jacar\u00e9 No Peito",
+      "url": "https://open.spotify.com/track/341pSOj91LkF14j22PZaRV"
     },
     {
       "added_at": "2023-09-01 15:03:02",
@@ -991,6 +963,54 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "duration_ms": 136464,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/6EOLDQz2rjwpZ2M5rApgH4"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
+        "name": "Animais Traidores",
+        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "VEGA",
+          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Animais Traidores",
+      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
         "name": "Noronha",
         "url": "https://open.spotify.com/album/4vUiqIfXmxekWwfz0X5dey"
       },
@@ -1051,26 +1071,6 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "Animais Traidores",
-        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "VEGA",
-          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Animais Traidores",
-      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
         "name": "Loyalty",
         "url": "https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw"
       },
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2023-09-01 15:03:02",
       "album": {
-        "name": "OCF",
-        "url": "https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL"
-      },
-      "artists": [
-        {
-          "name": "Jovem Sam",
-          "url": "https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq"
-        },
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "shots!",
-          "url": "https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49"
-        }
-      ],
-      "duration_ms": 132767,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj"
-    },
-    {
-      "added_at": "2023-09-01 15:03:02",
-      "album": {
         "name": "TAURUS",
         "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 209109,
       "name": "Big D!!!!!",
       "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
+    },
+    {
+      "added_at": "2023-09-01 15:03:02",
+      "album": {
+        "name": "OCF",
+        "url": "https://open.spotify.com/album/2KNYVqOm36goIRn810YdJL"
+      },
+      "artists": [
+        {
+          "name": "Jovem Sam",
+          "url": "https://open.spotify.com/artist/7hfaFlTC5hnlL2F2lto6Aq"
+        },
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "shots!",
+          "url": "https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49"
+        }
+      ],
+      "duration_ms": 132767,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/0dEGVX5UFsNnaIKmSX8qDj"
     },
     {
       "added_at": "2023-09-01 15:03:02",

@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Aleesha
 
-328 songs - 17 hr 20 min
+329 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Galerna](https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Galerna](https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH) | 3:08 | 2022-02-11 | 2023-05-13 |
 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 | 2023-05-12 | 2023-08-03 |
 | [Gangsta Luv](https://open.spotify.com/track/2up2XLuxf0c8tOI0cP1aBi) | [Dailos MB](https://open.spotify.com/artist/1bSZRPtZG1RenHVrn6tYfg) | [Gangsta Luv](https://open.spotify.com/album/7j9B2wNjJ1uN32mloX6n8A) | 2:15 | 2023-05-05 | 2023-05-13 |
+| [Garabatos](https://open.spotify.com/track/3nXitBuQU6JFccfQWH3oN1) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos](https://open.spotify.com/album/3RsEjiStHrHJFKktlr9AcO) | 3:22 | 2023-09-01 |  |
 | [Garabatos](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 | 2022-09-06 | 2023-08-25 |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2022-02-11 | 2023-05-13 |
 | [Go Get It](https://open.spotify.com/track/1IwAGQfrTD5hRBwgfu7WlA) | [Robi](https://open.spotify.com/artist/6gIXXZbr2sppTiO8mCeRzF), [Kiddo Chris](https://open.spotify.com/artist/4ZO0HvlndussEIrQsozD2G) | [Go Get It](https://open.spotify.com/album/0KaO5cXBp00v5EDoxJsscY) | 3:24 | 2022-03-11 | 2022-07-29 |
@@ -217,7 +218,7 @@
 | [Ninfómanos](https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Ninfómanos](https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac) | 3:11 | 2022-07-08 | 2023-02-28 |
 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 | 2022-02-11 | 2023-05-13 |
 | [No Es Cierto](https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Delić](https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx) | 4:33 | 2022-02-11 | 2022-09-27 |
-| [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 | 2023-03-10 |  |
+| [No Fui Solo Yo](https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [No Fui Solo Yo](https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio) | 3:22 | 2023-03-10 | 2023-09-05 |
 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 | 2022-02-11 | 2022-09-07 |
 | [No Hay Veneno](https://open.spotify.com/track/7lhzEm9GClkeO6f853sMVa) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Sola \[Parte I\]](https://open.spotify.com/album/1jlqnNX45GMIeexHFJsWOy) | 3:19 | 2023-05-12 | 2023-06-10 |
 | [No Me Mires Así](https://open.spotify.com/track/0yYxQhoJe1My3LhcIPIkXQ) | [Ana Nieto](https://open.spotify.com/artist/7qWNbGsqKxguxCzk3Q7ibn) | [No Me Mires Así](https://open.spotify.com/album/6VLE5eInBhKYnCM621NYgl) | 2:46 | 2022-02-11 | 2022-07-29 |

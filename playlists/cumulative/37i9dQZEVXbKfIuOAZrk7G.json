@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 228346,
       "name": "All Again",
       "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
@@ -5150,6 +5150,24 @@
       "duration_ms": 205040,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
+    },
+    {
+      "album": {
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "Cheeseburger In Paradise",
+      "url": "https://open.spotify.com/track/6VeZ970uI0Yi6sjBgyFBrp"
     },
     {
       "album": {

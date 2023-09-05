@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and new artists in the soul space\. Cover: Kymara
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,204 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,255 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 99 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 |
 | 100 | [TBU](https://open.spotify.com/track/0fNqBczzVUvBy4MSjZXXZK) | [quiet.](https://open.spotify.com/artist/2BYrcmYgB1rQVyH269VcY3) | [TBU](https://open.spotify.com/album/5InMrtkdMxpAQmc6Vv4GTq) | 3:42 |
 
-Snapshot ID: `MCw2YmQ5ZDQ3NTdlMWYwY2M3NGM0Y2IyMmNkODczZDZhNjEzYjJjNmRm`
+Snapshot ID: `MCw5NTVmZmQyNjE2MWYyZTM4MTkxZTBkY2E5NzFiZTc4YTkyYTNjNWU0`

@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Timaya",
-  "num_followers": 17718,
+  "num_followers": 17789,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmNhMTBiZjliOWQwMGNkNDdmOTU0ZjQxMTMxMjNjOTllNTYzYmM1",
+  "snapshot_id": "MCw1N2JkN2IzMjFjZThlNzc1ZDBiMDdmNThiZjAwNGNkMzA3ODBkMGFj",
   "tracks": [
     {
       "added_at": "2023-08-31 22:59:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Tomato",
+        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Tomato",
+      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Feeling Funny",
         "url": "https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Ask About Me",
         "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 175820,
       "name": "Ask About Me",
       "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -527,22 +543,6 @@
       "duration_ms": 155428,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Tomato",
-        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Tomato",
-      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 153174,
+      "name": "Account Balance",
+      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
@@ -619,8 +639,8 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Hat-trick",
-        "url": "https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU"
+        "name": "Memory Card",
+        "url": "https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI"
       },
       "artists": [
         {
@@ -628,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 160757,
-      "name": "Hat-trick",
-      "url": "https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN"
+      "duration_ms": 157962,
+      "name": "Para Boi",
+      "url": "https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -651,26 +671,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 153174,
-      "name": "Account Balance",
-      "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Soapy",
         "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
       },
@@ -687,38 +687,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 145351,
-      "name": "In Charge",
-      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Memory Card",
-        "url": "https://open.spotify.com/album/4Wk9EIBBsEviAPd7PdGYWI"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157962,
-      "name": "Para Boi",
-      "url": "https://open.spotify.com/track/7oDSvHJUY3NPdH9YKiCQwe"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Wire",
         "url": "https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8"
       },
@@ -731,74 +699,6 @@
       "duration_ms": 144065,
       "name": "Wire",
       "url": "https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Good Bad Boy",
-        "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 163158,
-      "name": "Good Bad Boy",
-      "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "YUSFUL MUSIC",
-        "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
-      },
-      "artists": [
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 140551,
-      "name": "traffic",
-      "url": "https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Mafo",
-        "url": "https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Mafo",
-      "url": "https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Mara pass Mara Beat",
-        "url": "https://open.spotify.com/album/62ZqjZDrqpIWVnuPiOszJW"
-      },
-      "artists": [
-        {
-          "name": "Dj khalipha",
-          "url": "https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB"
-        }
-      ],
-      "duration_ms": 315257,
-      "name": "Mara pass Mara Beat",
-      "url": "https://open.spotify.com/track/2nfq8lunsGzwURhFN8OpX7"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -823,6 +723,86 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Hat-trick",
+        "url": "https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 160757,
+      "name": "Hat-trick",
+      "url": "https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 145351,
+      "name": "In Charge",
+      "url": "https://open.spotify.com/track/1cPAiQ4CochzkCk8Ebu1x9"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "YUSFUL MUSIC",
+        "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 140551,
+      "name": "traffic",
+      "url": "https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Good Bad Boy",
+        "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 163158,
+      "name": "Good Bad Boy",
+      "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Mara pass Mara Beat",
+        "url": "https://open.spotify.com/album/62ZqjZDrqpIWVnuPiOszJW"
+      },
+      "artists": [
+        {
+          "name": "Dj khalipha",
+          "url": "https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB"
+        }
+      ],
+      "duration_ms": 315257,
+      "name": "Mara pass Mara Beat",
+      "url": "https://open.spotify.com/track/2nfq8lunsGzwURhFN8OpX7"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Shina Peters",
         "url": "https://open.spotify.com/album/1v9I3AogBgQUvCokc8B52P"
       },
@@ -839,6 +819,58 @@
       "duration_ms": 166000,
       "name": "Shina Peters",
       "url": "https://open.spotify.com/track/0DxBucbIM0unAoubGFRl9J"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Call of Duty",
+        "url": "https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 144758,
+      "name": "Call of Duty",
+      "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Mafo",
+        "url": "https://open.spotify.com/album/0JFXrdvWJfhwD0heJouzqo"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Mafo",
+      "url": "https://open.spotify.com/track/6hwDpNoh6kb9BXhxglCBO9"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Don't Hype Me",
+        "url": "https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Don't Hype Me",
+      "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -867,34 +899,18 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Call of Duty",
-        "url": "https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T"
+        "name": "For My Head",
+        "url": "https://open.spotify.com/album/1YOd6HgpGWzvqoxzYWN9US"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Sean Dampte",
+          "url": "https://open.spotify.com/artist/0ufq9F6dXxSPbzHzQ2ap9i"
         }
       ],
-      "duration_ms": 144758,
-      "name": "Call of Duty",
-      "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Don't Hype Me",
-        "url": "https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Don't Hype Me",
-      "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
+      "duration_ms": 153900,
+      "name": "For My Head",
+      "url": "https://open.spotify.com/track/7oLSEDGIY2OuKk0gnLzEXi"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -911,22 +927,6 @@
       "duration_ms": 146494,
       "name": "Pop (Alcohol Alcohol)",
       "url": "https://open.spotify.com/track/6rMi4IgGoZ8ahKFNlhUym1"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "For My Head",
-        "url": "https://open.spotify.com/album/1YOd6HgpGWzvqoxzYWN9US"
-      },
-      "artists": [
-        {
-          "name": "Sean Dampte",
-          "url": "https://open.spotify.com/artist/0ufq9F6dXxSPbzHzQ2ap9i"
-        }
-      ],
-      "duration_ms": 153900,
-      "name": "For My Head",
-      "url": "https://open.spotify.com/track/7oLSEDGIY2OuKk0gnLzEXi"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "PXTA",
-        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 208581,
-      "name": "PXTA",
-      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Time (Remix)",
         "url": "https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1"
       },
@@ -999,22 +983,18 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Lotto",
-        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
+        "name": "PXTA",
+        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
       },
       "artists": [
         {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
+      "duration_ms": 208581,
+      "name": "PXTA",
+      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1079,6 +1059,22 @@
       "duration_ms": 214545,
       "name": "ZaZoo Zehh",
       "url": "https://open.spotify.com/track/0TQUn21NBUhoer2B0N0G5v"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "On Fire (From 'Gangs of Lagos')",
+        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "On Fire (From 'Gangs of Lagos')",
+      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
     }
   ],
   "unique_name": "Street Energy ",

@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1236127,
+  "num_followers": 1236366,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmE2MDZjYjQwM2JkMjJmMDFhYzAxODg1ODk1MzczYmFmZDk1YzA4",
+  "snapshot_id": "MCxmMTViNmY5Y2I0MWJjZWNhYzQ4YWE1N2ExZWM1NjJkZjdmNzE4ZWQz",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Midnight Love",
         "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "After the Love Has Gone",
-      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "2nd Time Around (Expanded Edition)",
         "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 190058,
       "name": "It's A Shame",
       "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -559,6 +543,38 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Sky's The Limit",
-        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "In the Name of Love: The Elektra Recordings 1979-1984",
         "url": "https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 237106,
       "name": "Just the Two of Us",
       "url": "https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
     },
     {
       "added_at": "2021-02-18 10:25:36",

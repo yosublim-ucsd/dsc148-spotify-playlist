@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Fridayy
 
-551 songs - 1 day 4 hr 54 min
+552 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bitter](https://open.spotify.com/track/4POE6bABqxHcXeUeJDebhn) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Bitter](https://open.spotify.com/album/75Web3RXKzSyN8zP82idur) | 3:05 | 2022-04-08 | 2022-07-22 |
 | [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-05-06 | 2022-10-15 |
 | [Bittersweet \- Radio Edit](https://open.spotify.com/track/77nSU6xoiBDJZAMqBSxLav) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 3:56 | 2022-03-25 | 2022-04-21 |
+| [Blame Yourself](https://open.spotify.com/track/4Zxpy4Fy5U6AZC2WTEovDu) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Blame Yourself](https://open.spotify.com/album/6vTOLZuBKqosKg2lSUKcR6) | 4:09 | 2023-09-01 |  |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-15 | 2022-07-18 |
 | [Blue Mercedes](https://open.spotify.com/track/017Eh4VHT4kkOu65GuSg1H) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Blue Mercedes](https://open.spotify.com/album/1LitlkT715pr7BolzIvrf7) | 3:07 | 2022-02-04 | 2022-04-21 |
 | [Bout Mine](https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Bout Mine](https://open.spotify.com/album/6Sw7bDrqFYxuHZT7eSHhEK) | 2:27 | 2022-10-28 |  |
@@ -203,7 +204,7 @@
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2022-02-18 | 2022-07-15 |
 | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Good Morning Gorgeous \(feat\. H.E.R.\)](https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg) | 2:54 | 2022-03-25 | 2022-07-28 |
 | [Goodbye](https://open.spotify.com/track/1LyHrn75GOF559UF4MNNnv) | [Rachel Foxx](https://open.spotify.com/artist/0t1kdZKkHiXCdjQBVbnN0a) | [Goodbye](https://open.spotify.com/album/075Ohnab70smeOqL80Ykne) | 2:50 | 2021-12-15 | 2022-01-18 |
-| [Gotta Have Faith](https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo) | [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Gotta Have Faith](https://open.spotify.com/album/2tLEHiMTj20zImH3zI3QuL) | 3:25 | 2023-05-26 |  |
+| [Gotta Have Faith](https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo) | [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Gotta Have Faith](https://open.spotify.com/album/2tLEHiMTj20zImH3zI3QuL) | 3:25 | 2023-05-26 | 2023-09-05 |
 | [Gotta Move On](https://open.spotify.com/track/4E8NdFfprLwbouZ46bv75o) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Gotta Move On](https://open.spotify.com/album/0gLmWMI0fbHGPj2fnEl6Yg) | 4:18 | 2021-12-15 | 2022-06-29 |
 | [Grand Rising](https://open.spotify.com/track/1QAZDfOQHp63hkoJqKSM6n) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Toxicity At It's Finest \(Deluxe Version\)](https://open.spotify.com/album/1NgMOYIBY8EvNWNGNoT8Gf) | 3:18 | 2023-04-28 | 2023-05-06 |
 | [Green Eyes](https://open.spotify.com/track/6qvtiA4wQQliK6K7oRdovk) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 10:04 | 2022-03-25 | 2022-04-21 |

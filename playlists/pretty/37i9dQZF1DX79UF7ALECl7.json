@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 118707,
+  "num_followers": 118746,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2UwMGY3NDhiYzhjMjJlNjZhNGZhZTRmYjUxYTY0M2VkMGE3ZTgz",
+  "snapshot_id": "MCwwYzE4NmY1ODRiNGQ1MGQ5ZDQ0YjYzNjkzNTA3NzA3MTE2MDA4ZmZj",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/6YvKLZvsYRrByFzav0tlii"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        }
+      ],
+      "duration_ms": 147879,
+      "name": "Another Place",
+      "url": "https://open.spotify.com/track/1eLHMmz57mVUI3ntLjO0yW"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Eladio",
         "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 364226,
       "name": "Of Sea",
       "url": "https://open.spotify.com/track/5XYSBPFLufUCyMo3hXD9uP"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Another Place",
-        "url": "https://open.spotify.com/album/6YvKLZvsYRrByFzav0tlii"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
-        }
-      ],
-      "duration_ms": 147879,
-      "name": "Another Place",
-      "url": "https://open.spotify.com/track/1eLHMmz57mVUI3ntLjO0yW"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Socorro & J\u00fcpiter",
-        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        }
-      ],
-      "duration_ms": 415527,
-      "name": "Socorro & J\u00fcpiter",
-      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Little Airplanes",
         "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 330614,
       "name": "Little Airplanes",
       "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Socorro & J\u00fcpiter",
+        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "duration_ms": 415527,
+      "name": "Socorro & J\u00fcpiter",
+      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -479,6 +479,22 @@
       "duration_ms": 223682,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4lduh1GxES2Q3Sj8bXDWXt"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
       },
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Half Light",
         "url": "https://open.spotify.com/album/7yLmNk8ErmeAlgd6zYw0vn"
       },
@@ -619,6 +639,22 @@
       "duration_ms": 186340,
       "name": "Tide (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/4mjno1cpVrlldeElighIIw"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Golden Cage EP",
+        "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 239249,
+      "name": "Mercury Moments",
+      "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -663,78 +699,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Speak Like the Hurricane",
-        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
-      },
-      "artists": [
-        {
-          "name": "Marc Bianco",
-          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 417391,
-      "name": "Pelicanism",
-      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Golden Cage EP",
-        "url": "https://open.spotify.com/album/4rF9lZgtSHe1blrCPGFyGY"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 239249,
-      "name": "Mercury Moments",
-      "url": "https://open.spotify.com/track/3c8hntpeHHoS8BxppJoBBW"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
-      },
-      "artists": [
-        {
-          "name": "Silo",
-          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
-        }
-      ],
-      "duration_ms": 270027,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "NaturHaus",
         "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
       },
@@ -755,18 +719,38 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+        "name": "Speak Like the Hurricane",
+        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
       },
       "artists": [
         {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+          "name": "Marc Bianco",
+          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+      "duration_ms": 417391,
+      "name": "Pelicanism",
+      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/5swcUAvJoBBxKmwH60xs18"
+      },
+      "artists": [
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/2TFaSCsqBNMcZ1daHE0pNA"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5PhuSPukGj9G50AWPdpa93"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Toledo",
         "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 301909,
       "name": "What We Witness",
       "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "After Midnyte",
         "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 191819,
       "name": "Got to Fall Out",
       "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -895,6 +879,22 @@
       "duration_ms": 261908,
       "name": "Athena - NTEIBINT Remix",
       "url": "https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Let Love Find Itself / You Blow My Mind",
+        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
+      },
+      "artists": [
+        {
+          "name": "KAYYAK",
+          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
+        }
+      ],
+      "duration_ms": 542983,
+      "name": "Let Love Find Itself",
+      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Falling Upwards",
         "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
       },
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 199346,
       "name": "Nothing Happened",
       "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Let Love Find Itself / You Blow My Mind",
-        "url": "https://open.spotify.com/album/5PFbIDeJUJm78Bs0Bch5TB"
-      },
-      "artists": [
-        {
-          "name": "KAYYAK",
-          "url": "https://open.spotify.com/artist/0CWKawzjg8jkvZX8HDogla"
-        }
-      ],
-      "duration_ms": 542983,
-      "name": "Let Love Find Itself",
-      "url": "https://open.spotify.com/track/6NLzOMEhcY7jBTHMxZf1Pn"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Astro Reescrituras",
         "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 257183,
       "name": "Religar - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Loyal (Afro House Remix)",
-        "url": "https://open.spotify.com/album/46trrRl1K6bdunvPrF0lrz"
-      },
-      "artists": [
-        {
-          "name": "ENE Yatt",
-          "url": "https://open.spotify.com/artist/74jqXJCRr3ZpWNKVkRuxfy"
-        },
-        {
-          "name": "Orlando Voorn",
-          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Loyal - Afro House Remix",
-      "url": "https://open.spotify.com/track/0kfoWZI1zb2zfnIvUCm52g"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "100 Miles",
         "url": "https://open.spotify.com/album/0MHuy3031MWIjNAwuPgCJK"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 518086,
       "name": "100 Miles",
       "url": "https://open.spotify.com/track/3AsStByn7z7jj9EY7iymPb"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Loyal (Afro House Remix)",
+        "url": "https://open.spotify.com/album/46trrRl1K6bdunvPrF0lrz"
+      },
+      "artists": [
+        {
+          "name": "ENE Yatt",
+          "url": "https://open.spotify.com/artist/74jqXJCRr3ZpWNKVkRuxfy"
+        },
+        {
+          "name": "Orlando Voorn",
+          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Loyal - Afro House Remix",
+      "url": "https://open.spotify.com/track/0kfoWZI1zb2zfnIvUCm52g"
     }
   ],
   "unique_name": "Coffee Club",

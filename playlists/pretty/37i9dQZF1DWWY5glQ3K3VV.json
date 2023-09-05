@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
-  "num_followers": 86581,
+  "num_followers": 86665,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjIxYjcyYzVlNDc4NWZhNTVhMjhhMTg4NDUwNzk3MGE5YjE5ZTM1",
+  "snapshot_id": "MCwyNTEwMjBmNGMzZDlmMGZhY2I2N2ZkNzJlNmE2MDdmNWU5MmY2YmMw",
   "tracks": [
     {
       "added_at": "2023-07-27 22:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -571,18 +571,22 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 217925,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "LISTA 47",
         "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
       },
@@ -895,30 +879,6 @@
       "duration_ms": 183038,
       "name": "ADVICE",
       "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -943,6 +903,46 @@
       "duration_ms": 164301,
       "name": "Gigol\u00f2 (feat. Sfera Ebbasta & Capo Plaza)",
       "url": "https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
-      },
-      "artists": [
-        {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "Ma Jolie (feat. ANNA)",
         "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
       },
@@ -1067,26 +1035,18 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "PROVINCIALE",
-        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
       "artists": [
         {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
           "name": "Shiva",
           "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 197647,
-      "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
-      "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1107,6 +1067,22 @@
       "duration_ms": 183027,
       "name": "ALYX (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1135,6 +1111,30 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Compliqu\u00e8 (feat. Shiva & Ghali)",
+      "url": "https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1187,26 +1187,18 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
       "artists": [
         {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
-        },
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        },
-        {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
+      "duration_ms": 229147,
+      "name": "SENZA RUMORE",
+      "url": "https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1227,6 +1219,30 @@
       "duration_ms": 143641,
       "name": "DIOSA (feat. Peppe Soks) - Remix",
       "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "IL MINORENNE + BASTARDO",
+        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "PULL UP (feat. Big P)",
+      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1267,42 +1283,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "La zone (feat. Shiva)",
-        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "La zone (feat. Shiva)",
-      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 229147,
-      "name": "SENZA RUMORE",
-      "url": "https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "Salvatore",
         "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 183174,
       "name": "Caramba",
       "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "La zone (feat. Shiva)",
+        "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "La zone (feat. Shiva)",
+      "url": "https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB"
     },
     {
       "added_at": "2023-07-27 22:00:00",

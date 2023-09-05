@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> Solo éxitos locales pasados, chapados en oro\. Cartel de Santa en portada
+> la tierra del Rap de oro puro\. Lefty SM, tus rimas ya son eternas, Descansa en paz.
 
-112 songs - 7 hr 6 min
+114 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Pollo y Conejo](https://open.spotify.com/track/1xeLSOaNvDg68FGjIkJxkU) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pollo y Conejo](https://open.spotify.com/album/7BBh44xwLQjO9rYNTfVzBh) | 3:34 | 2022-07-01 | 2022-07-29 |
 | [Pollo y Conejo](https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pollo y Conejo](https://open.spotify.com/album/486wFfAd63UihpKn7Cimiv) | 3:34 | 2022-07-01 |  |
 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 | 2022-07-01 |  |
+| [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 | 2023-09-04 |  |
 | [Por Si Pego](https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Por Si Pego](https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c) | 3:26 | 2023-06-01 |  |
 | [Prohibida](https://open.spotify.com/track/5OPR2NjXIco5x0gum6OVA0) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu) | [Prohibida](https://open.spotify.com/album/3emiXqCvSD5458tZQCYa4z) | 4:26 | 2022-07-01 | 2022-07-29 |
 | [Prohibida](https://open.spotify.com/track/5UewY28SGGLjJkNPtcV2Mt) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu) | [Prohibida](https://open.spotify.com/album/55RTps2ryHXF5w4lVwzcuk) | 4:26 | 2022-07-01 |  |
@@ -115,6 +116,7 @@
 | [Un Par De Balas](https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Clasificacion C Vol.1](https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ) | 3:48 | 2022-07-01 |  |
 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 | 2022-07-01 |  |
 | [VETE YA](https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:50 | 2023-07-14 |  |
+| [Volando](https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Volando](https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp) | 3:38 | 2023-09-04 |  |
 | [Ya Te la Cypress](https://open.spotify.com/track/6Y9wSsggUc9zLbIqRd0o5c) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/1eb064HNAh2mVHl33HjMMv) | 3:05 | 2022-07-01 | 2022-07-29 |
 | [Ya Te la Cypress](https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:07 | 2022-07-01 |  |
 | [Yo No Me Quiero Morir](https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Yo No Me Quiero Morir](https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0) | 3:23 | 2022-07-01 |  |

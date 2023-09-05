@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 270154,
       "name": "A Digital Mind's Architecture",
       "url": "https://open.spotify.com/track/7LO53coSpmPOQP1hvAbfPv"
@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
+    },
+    {
+      "album": {
         "name": "Feather Float",
         "url": "https://open.spotify.com/album/0y7rybwqnKnL1VJMlf1sFi"
       },
@@ -930,7 +948,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 391002,
       "name": "Cassettesingle",
       "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
@@ -1720,6 +1738,24 @@
       "duration_ms": 215866,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/0C03B3oqKkoGVrNqgWjkqB"
+    },
+    {
+      "album": {
+        "name": "NEU! 2",
+        "url": "https://open.spotify.com/album/2PKmOmYVEzOuHwEUpmtuak"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 677493,
+      "name": "Fur immer",
+      "url": "https://open.spotify.com/track/64oCQFb2LQFCROYJOk6mkS"
     },
     {
       "album": {
@@ -3106,7 +3142,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 227201,
       "name": "Mercurio Volante",
       "url": "https://open.spotify.com/track/1IoU8uQYEGveg5DRjXMNS9"
@@ -3402,7 +3438,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 277845,
       "name": "Nieve Afuera",
       "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"

@@ -1,12 +1,12 @@
 {
   "description": "Bonitas, orgullosas y empoderadas, as\u00ed somos las se\u00f1oras.",
-  "num_followers": 261488,
+  "num_followers": 261738,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzc4YmM2ZDcyMWMyZDQ4NTg4MTUzNDAyYzI0ZDFjODA4NTAzMmVm",
+  "snapshot_id": "MCxkMzliNTUyMDYwMTNjZTliZTZjZGI2NWRmMmNmZTE1N2ZmMjRjYzg2",
   "tracks": [
     {
       "added_at": "2021-05-21 05:04:59",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Las baladas (Los singles vol II)",
-        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "Segundo Romance",
         "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 161040,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Las baladas (Los singles vol II)",
+        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
     },
     {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Entre El Agua Y El Fuego",
@@ -329,22 +345,6 @@
       "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Fantas\u00eda o realidad",
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+        "name": "15 \u00c9xitos de Marisela Vol. 2",
+        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+      "duration_ms": 195533,
+      "name": "Tu Dama de Hierro",
+      "url": "https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -393,20 +393,36 @@
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
+      "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Tu Dama de Hierro",
-      "url": "https://open.spotify.com/track/0PanjuWPniwRZpU2SkMDtF"
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -439,22 +455,6 @@
       "duration_ms": 167000,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
     },
     {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "\u00c9l Me Minti\u00f3",
+      "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
+    },
+    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Chayanne",
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "\u00c9l Me Minti\u00f3",
-      "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "Par\u00eds",
         "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
       },
@@ -667,38 +667,6 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
-        "url": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Tardes Negras",
-      "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -719,6 +687,22 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
+        "name": "TZN -The Best Of Tiziano Ferro (Spanish Edition)",
+        "url": "https://open.spotify.com/album/0Kk7kX25RVvNzkYfyGt8kv"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Tardes Negras",
+      "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
         "name": "Deseo Carnal",
         "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 217000,
       "name": "Ni t\u00fa ni nadie",
       "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -921,20 +921,20 @@
       "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
+      "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Canto Por Ti",
         "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 239995,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/2wBhRmkGC098tLGo2dhWo2"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1073,6 +1073,54 @@
       "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
     },
     {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "A Esa",
+      "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Mi error, mi fantas\u00eda",
+      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 304200,
+      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
+      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
+    },
+    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Bandido",
@@ -1123,54 +1171,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "A Esa",
-      "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Mi error, mi fantas\u00eda",
-      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Qui\u00e9n Dijo Ayer",
-        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 304200,
-      "name": "Se\u00f1ora de las Cuatro D\u00e9cadas",
-      "url": "https://open.spotify.com/track/2neWsabATpEgR8XBv4Hqwo"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 285360,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Aunque Sea En Otra Vida",
+      "url": "https://open.spotify.com/track/6Uw2O0FMnJhllxedN4bWSn"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1215,22 +1231,6 @@
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
     }
   ],
   "unique_name": "Modo Se\u00f1ora",

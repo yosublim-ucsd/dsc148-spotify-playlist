@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Burna Boy
 
-283 songs - 13 hr 32 min
+284 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 | 2023-05-11 | 2023-05-13 |
 | [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 | 2023-05-11 | 2023-06-16 |
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-06-01 | 2023-07-01 |
-| [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-07-13 |  |
+| [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-07-13 | 2023-09-05 |
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-13 | 2023-07-28 |
 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-02-23 | 2023-03-25 |
 | [I Need You](https://open.spotify.com/track/2BxpTbiPVty66AwYhTrKbt) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [I Need You](https://open.spotify.com/album/3xztCVZEMTiU5er5V5RL0H) | 2:35 | 2023-04-20 | 2023-06-15 |
@@ -235,6 +235,7 @@
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-06-05 | 2023-08-01 |
 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 | 2023-02-23 | 2023-03-18 |
 | [Stout, Bad & Vies](https://open.spotify.com/track/15jJDcp0hJnpuYQz0eTf5l) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Stout, Bad & Vies](https://open.spotify.com/album/3txKVfxJiw2TQ84HvZHoFD) | 2:25 | 2023-08-21 |  |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
 | [Sukkel](https://open.spotify.com/track/2C8hxULhQWdb6n96fgUMOM) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Sukkel](https://open.spotify.com/album/6ygyoxl3Nhp6X1LrR5gQRf) | 2:47 | 2023-05-25 | 2023-06-02 |
 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-30 | 2023-08-11 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-02-23 | 2023-03-07 |

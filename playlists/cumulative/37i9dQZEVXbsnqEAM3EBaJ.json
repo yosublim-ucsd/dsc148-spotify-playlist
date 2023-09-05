@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "everything is alive",
+        "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273492,
+      "name": "alife",
+      "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
+    },
+    {
+      "album": {
         "name": "All A Share Together Now",
         "url": "https://open.spotify.com/album/4buyOrbqG380Urv8cdCH4i"
       },
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 194426,
       "name": "Big Boots",
       "url": "https://open.spotify.com/track/2MlvPacdsznpfKCRmQo3F7"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 270066,
       "name": "Bleed Out",
       "url": "https://open.spotify.com/track/1oNy8VAsmqlx7isSPR5oQe"
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 270066,
       "name": "Bleed Out - Instrumental",
       "url": "https://open.spotify.com/track/7wwWe6xiJA21W6Ym8IF8jW"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 158244,
       "name": "Careless and",
       "url": "https://open.spotify.com/track/03E8oq4lOXnrTJBOT7eMp6"
@@ -2148,6 +2166,24 @@
       "duration_ms": 193801,
       "name": "Childhood Eyes",
       "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
+    },
+    {
+      "album": {
+        "name": "ASMR Rain Clouds",
+        "url": "https://open.spotify.com/album/6DWqKUn5L9ppmCWfBuqGMH"
+      },
+      "artists": [
+        {
+          "name": "Sol y Lluvia",
+          "url": "https://open.spotify.com/artist/6iGoMyoSIjyTxbCRyHREtI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145208,
+      "name": "Chimes Close",
+      "url": "https://open.spotify.com/track/0qvBEN2jmZpvXGORvFyFcm"
     },
     {
       "album": {
@@ -7876,7 +7912,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 219500,
       "name": "Microcosmic Sunsets",
       "url": "https://open.spotify.com/track/7lJs36mqGUhrLUUhQSwDCp"
@@ -8008,7 +8044,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 192176,
       "name": "Misery (feat. Atreyu)",
       "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
@@ -10068,7 +10104,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 223779,
       "name": "Rainy Days & Mondays/Goodbye To Love - Live 1976",
       "url": "https://open.spotify.com/track/1Cz57jHCX2v3DhTFMYCrCW"
@@ -10356,7 +10392,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 210293,
       "name": "Rewind Forward",
       "url": "https://open.spotify.com/track/2FmeJwCTWPgqCHDUnXWUXX"
@@ -11440,7 +11476,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "Sometimes You Lose Before You Win",
       "url": "https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB"
@@ -12002,7 +12038,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 163493,
       "name": "S\u2019old",
       "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
@@ -12750,7 +12786,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 310874,
       "name": "the slab",
       "url": "https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1"
@@ -13645,6 +13681,24 @@
     },
     {
       "album": {
+        "name": "Holding Onto Yesterday (Live 1976)",
+        "url": "https://open.spotify.com/album/6qyoUTpM2MpnuS5l2eoyZd"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408072,
+      "name": "Two Man Band - Live 1976",
+      "url": "https://open.spotify.com/track/5FidtN3JbJKxhywJ6hloRP"
+    },
+    {
+      "album": {
         "name": "Los Wachos",
         "url": "https://open.spotify.com/album/4o6lfKCsOliUELYmCPQhAq"
       },
@@ -14278,6 +14332,24 @@
       "duration_ms": 232500,
       "name": "Weight Of The World (feat. We Came As Romans & Brand Of Sacrifice)",
       "url": "https://open.spotify.com/track/3q9ZMDGbCBKQ7rfChHolXO"
+    },
+    {
+      "album": {
+        "name": "Road",
+        "url": "https://open.spotify.com/album/0aho7oWBIdmE4LM3N9Jsll"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "Welcome To The Show",
+      "url": "https://open.spotify.com/track/4lA69PwuNFL08LpBpcDlCq"
     },
     {
       "album": {
@@ -14944,7 +15016,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 170293,
       "name": "You're Awesome",
       "url": "https://open.spotify.com/track/5BoixLIVWjFbzurhaZvHwA"

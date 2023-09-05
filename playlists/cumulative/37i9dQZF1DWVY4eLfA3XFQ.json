@@ -13418,7 +13418,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 196404,
       "name": "Make This Mofo",
       "url": "https://open.spotify.com/track/26L76W2WTYHDTNVj5Lc4d4"
@@ -13810,6 +13810,24 @@
       "duration_ms": 338446,
       "name": "Me Me Me",
       "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
+    },
+    {
+      "album": {
+        "name": "Mean Sumthin",
+        "url": "https://open.spotify.com/album/0OzyNRMcEySK0EhRFnLKqt"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167175,
+      "name": "Mean Sumthin",
+      "url": "https://open.spotify.com/track/5P5qcTvuR94YZD3ocni8Wg"
     },
     {
       "album": {

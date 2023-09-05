@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 569385,
+  "num_followers": 570116,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGFmOTJiZWQ3MDQxYTc4NWFkNGJjZWM1ODMzOTQ4NjViNDk0NGU5",
+  "snapshot_id": "MCwxMjFlYWZlMjdlMDJlZjJlYWNkMjlmNjE2MTc3YjMxMjhlZGJhNmFm",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -597,6 +597,22 @@
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Eye Of The Tiger",
@@ -627,22 +643,6 @@
       "duration_ms": 258399,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 273173,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -695,18 +695,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Smooth Criminal - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -727,18 +727,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+      "duration_ms": 257760,
+      "name": "Smooth Criminal - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Look Sharp! (Extended Version)",
-        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/2oWMI54r0qT4N8Xb4C76vq"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Glass Houses",
@@ -995,6 +979,22 @@
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Look Sharp! (Extended Version)",
+        "url": "https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/2oWMI54r0qT4N8Xb4C76vq"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "All In a Night's Work (Expanded Version)",
-        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 302693,
       "name": "Everything She Wants",
       "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "All In a Night's Work (Expanded Version)",
+        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Let's Dance (2018 Remaster)",
@@ -1319,6 +1303,22 @@
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1469,22 +1469,6 @@
       "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Best Of",
@@ -1503,6 +1487,22 @@
       "duration_ms": 215040,
       "name": "Pump Up The Jam - Edit",
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Sussudio - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1957,38 +1957,6 @@
       "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Above The Clouds - The Collection (Deluxe)",
-        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
-      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Around The World In A Day",
@@ -2005,6 +1973,22 @@
       "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Street Songs (Deluxe Edition)",
@@ -2019,6 +2003,22 @@
       "duration_ms": 248133,
       "name": "Give It To Me Baby",
       "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Above The Clouds - The Collection (Deluxe)",
+        "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
+      "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Get Close (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Don't Get Me Wrong - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Speak & Spell (2006 Remaster)",
         "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Get Close (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Don't Get Me Wrong - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Invisible Touch (2007 Remaster)",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 255220,
       "name": "You Keep Me Hangin On",
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
       "added_at": "2021-01-07 10:31:17",

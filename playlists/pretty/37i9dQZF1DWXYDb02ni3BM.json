@@ -1,12 +1,12 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 147628,
+  "num_followers": 147749,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzYxNzcyNTMyOTYwZmZmMWUzODAwYTI0MWYwOTViYTExM2ExZjdm",
+  "snapshot_id": "MCxlMTQzYjFjMjI5M2U2MGNhNjhiOTc1N2YzN2UyY2IwYTg5OWNlNWQ4",
   "tracks": [
     {
       "added_at": "2023-08-28 15:53:54",
@@ -363,6 +363,26 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
+        "name": "Quiero Volver",
+        "url": "https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Consejo de Amor (feat. Morat)",
+      "url": "https://open.spotify.com/track/7GrffUxvaKz4wKmyutin0P"
+    },
+    {
+      "added_at": "2023-08-28 15:53:54",
+      "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 201920,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
-    },
-    {
-      "added_at": "2023-08-28 15:53:54",
-      "album": {
-        "name": "Quiero Volver",
-        "url": "https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Consejo de Amor (feat. Morat)",
-      "url": "https://open.spotify.com/track/7GrffUxvaKz4wKmyutin0P"
     },
     {
       "added_at": "2023-08-28 15:53:54",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Cu\u00eddate",
-      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
-    },
-    {
-      "added_at": "2023-08-28 15:53:54",
-      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -555,34 +539,18 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo"
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
       "artists": [
         {
-          "name": "Fanny Lu",
-          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
         }
       ],
-      "duration_ms": 205666,
-      "name": "T\u00fa No Eres Para Mi",
-      "url": "https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP"
-    },
-    {
-      "added_at": "2023-08-28 15:53:54",
-      "album": {
-        "name": "Enferma de Ti",
-        "url": "https://open.spotify.com/album/1npJvvG1jiUHvgGXqUt9ME"
-      },
-      "artists": [
-        {
-          "name": "Valen Madanes",
-          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Enferma de Ti",
-      "url": "https://open.spotify.com/track/2C0rLDOOXP8Ns54fK5KWBC"
+      "duration_ms": 169533,
+      "name": "Cu\u00eddate",
+      "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
     },
     {
       "added_at": "2023-08-28 15:53:54",
@@ -627,6 +595,38 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
+        "name": "Enferma de Ti",
+        "url": "https://open.spotify.com/album/1npJvvG1jiUHvgGXqUt9ME"
+      },
+      "artists": [
+        {
+          "name": "Valen Madanes",
+          "url": "https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Enferma de Ti",
+      "url": "https://open.spotify.com/track/2C0rLDOOXP8Ns54fK5KWBC"
+    },
+    {
+      "added_at": "2023-08-28 15:53:54",
+      "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/1PKBHS23j0Hujx8C2sCbqo"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "T\u00fa No Eres Para Mi",
+      "url": "https://open.spotify.com/track/3df4fSoW5zsdNi5Wf3K5RP"
+    },
+    {
+      "added_at": "2023-08-28 15:53:54",
+      "album": {
         "name": "Revelaci\u00f3n - EP",
         "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
-    },
-    {
-      "added_at": "2023-08-28 15:53:54",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 208866,
       "name": "El Chico Del Apartamento 512",
       "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "added_at": "2023-08-28 15:53:54",
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
     },
     {
       "added_at": "2023-08-28 15:53:54",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
+    },
+    {
+      "added_at": "2023-08-28 15:53:54",
+      "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
-    },
-    {
-      "added_at": "2023-08-28 15:53:54",
-      "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
     },
     {
       "added_at": "2023-08-28 15:53:54",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
-        "name": "1Trago",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "1Trago",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
-    },
-    {
-      "added_at": "2023-08-28 15:53:54",
-      "album": {
         "name": "MALA SANTA",
         "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+    },
+    {
+      "added_at": "2023-08-28 15:53:54",
+      "album": {
         "name": "A las Cinco en el Astoria",
         "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
       },
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
       },
       "artists": [
         {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
     },
     {
       "added_at": "2023-08-28 15:53:54",
@@ -931,18 +931,42 @@
     {
       "added_at": "2023-08-28 15:53:54",
       "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+      "duration_ms": 211466,
+      "name": "Ser O Parecer",
+      "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
     }
   ],
   "unique_name": "Mujeres del Pop Latino",

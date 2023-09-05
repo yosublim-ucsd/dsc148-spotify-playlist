@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,743 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,754 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |
-| 2 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 |
-| 3 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
-| 4 | [Sadi Gali 2.0](https://open.spotify.com/track/6Pf8zjdbz4SxYJ8ARVUfRF) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Lehmber Hussainpuri](https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Sadi Gali 2.0](https://open.spotify.com/album/5F7FRkjEebMGK2pCJKVhhl) | 3:20 |
+| 2 | [Sadi Gali 2.0](https://open.spotify.com/track/6Pf8zjdbz4SxYJ8ARVUfRF) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Lehmber Hussainpuri](https://open.spotify.com/artist/7w4cOzDZ5rfomlKHfunmbV), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Sadi Gali 2.0](https://open.spotify.com/album/5F7FRkjEebMGK2pCJKVhhl) | 3:20 |
+| 3 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 |
+| 4 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 5 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 |
 | 6 | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Tigerstyle](https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS) | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC) | 2:47 |
 | 7 | [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 50 | [Tankha](https://open.spotify.com/track/0L4uTenn6ln6mVxz1hr2co) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Tankha \- Single](https://open.spotify.com/album/6646YdKCiWNHAtqBvccQGW) | 2:58 |
 | 51 | [Palazzo](https://open.spotify.com/track/2marPty0BAvrH10VMO5DoJ) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [Palazzo \- Single](https://open.spotify.com/album/5JqCnZ1DQzpcTSXCITp2pF) | 3:22 |
 
-Snapshot ID: `MCw2ZWNmNWE2N2I3YWY3NjA3YjYwNTg4YmE2ZTc0ZjY3ODZlOTM1NWQ4`
+Snapshot ID: `MCwyNDkwOWU1NWEwNDNkNWE1ODQ5NzU3NTM0ZTk0OTA4NjY3YmZlM2Uy`

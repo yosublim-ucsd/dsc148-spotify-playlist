@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Blood From Stone",
+        "url": "https://open.spotify.com/album/2FerCnm7f3QQ3ucZ27W9y6"
+      },
+      "artists": [
+        {
+          "name": "7hour flower",
+          "url": "https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121127,
+      "name": "Blood From Stone",
+      "url": "https://open.spotify.com/track/0riVmvUyq1neYwzVayekMe"
+    },
+    {
+      "album": {
         "name": "Bottomless",
         "url": "https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY"
       },
@@ -1991,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "No home no future",
+        "url": "https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH"
+      },
+      "artists": [
+        {
+          "name": "Captain XY",
+          "url": "https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143315,
+      "name": "No home no future",
+      "url": "https://open.spotify.com/track/62SxyqZXXVlDAycfkS1kj1"
+    },
+    {
+      "album": {
         "name": "Vices",
         "url": "https://open.spotify.com/album/6Vz3vNBiyBIQb1OJ40QRir"
       },
@@ -2790,6 +2826,24 @@
       "duration_ms": 156783,
       "name": "Stack It",
       "url": "https://open.spotify.com/track/6Fpl9m5ihNUuNWXNkNif6i"
+    },
+    {
+      "album": {
+        "name": "No home no future",
+        "url": "https://open.spotify.com/album/6eXnhjk6FecIfcvcqni0iH"
+      },
+      "artists": [
+        {
+          "name": "Captain XY",
+          "url": "https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171433,
+      "name": "Stardestroyer",
+      "url": "https://open.spotify.com/track/0PVE2LWeI2sASeUpK3kTlY"
     },
     {
       "album": {

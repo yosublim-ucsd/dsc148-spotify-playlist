@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 25086,
+  "num_followers": 25155,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTg5MDA1ZTk3Njk4ODUyYTMxMTcxODU3MjZlMTQwMmMzYWVmMGRk",
+  "snapshot_id": "MCw4YzJjYTk0MWMyZTZkYTNlOGM5MDEwZjU2ZWE2NDUxOTc4ZjkzNDkw",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 457600,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Big Walter Horton w/ Carey Bell",
         "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
@@ -232,25 +248,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 457600,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Electric Mud",
-        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Tom Cat",
-      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+      "duration_ms": 528133,
+      "name": "Voodoo Chile Blues",
+      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Truckin' With Albert Collins",
-        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
+        "name": "Electric Mud",
+        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Frosty - Single Version",
-      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
+      "duration_ms": 217640,
+      "name": "Tom Cat",
+      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Truckin' With Albert Collins",
+        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Frosty - Single Version",
+      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Let's Work Together",
         "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 335533,
       "name": "Let's Work Together",
       "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 528133,
-      "name": "Voodoo Chile Blues",
-      "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Twice Removed from Yesterday",
-        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/7jixAsWYi2j8kI8SCFO84j"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 215026,
       "name": "All Your Love - Mono",
       "url": "https://open.spotify.com/track/6jKcmgac1pj1iaqBPsF3rF"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Twice Removed from Yesterday",
+        "url": "https://open.spotify.com/album/15XZ5bvCoiEXEBprtGkpZu"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/7jixAsWYi2j8kI8SCFO84j"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Door To Door",
-        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Searchin' For A Woman",
-      "url": "https://open.spotify.com/track/4flr62w4ZvsSOyWuivV0WA"
+      "duration_ms": 136893,
+      "name": "Somebody Help Me - Mono Version",
+      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1111,22 +1111,6 @@
       "duration_ms": 309293,
       "name": "Blue Shadows",
       "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 136893,
-      "name": "Somebody Help Me - Mono Version",
-      "url": "https://open.spotify.com/track/1v0D2YFE15WXlxqvoKmCGv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1167,6 +1151,22 @@
       "duration_ms": 254506,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Door To Door",
+        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Searchin' For A Woman",
+      "url": "https://open.spotify.com/track/4flr62w4ZvsSOyWuivV0WA"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Door To Door",
-        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Callin' For My Darlin'",
-      "url": "https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Talkin' Some Sense",
         "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 150693,
       "name": "Highway 60",
       "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Door To Door",
+        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Callin' For My Darlin'",
+      "url": "https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Graham Bond Organization - Wade in the Water \u2013 Classics, Origins & Oddities",
         "url": "https://open.spotify.com/album/0qOXanjGd0Yc4MKfqboa9i"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Choo Choo Ch'Boogie",
+      "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Men of the World: The Early Years",
         "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Calrence 'Gatemouth' Brown Sings Louis Jordan (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/4aLFUkBJDpD76HZ1KDHckx"
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Choo Choo Ch'Boogie",
-      "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "On The Waterfront",
         "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 151560,
       "name": "Billy Boy's Jump",
       "url": "https://open.spotify.com/track/1FdYBTTaSGYMaz1zf42kzJ"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/24m7kDzKRUnYRlz7LWCYnB"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues Jam in Chicago, Vol. 1",
-        "url": "https://open.spotify.com/album/4vRzJ9uAlelRyezL47h1WJ"
+        "name": "When Girls Do It",
+        "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Bobby 'Guitar' Bennett",
+          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
         }
       ],
-      "duration_ms": 226733,
-      "name": "I'm Worried",
-      "url": "https://open.spotify.com/track/1a2mDlmY6lTKTB7rmu6rVi"
+      "duration_ms": 172560,
+      "name": "When Girls Do It",
+      "url": "https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1847,6 +1847,22 @@
       "duration_ms": 182573,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/3r5XcjIRcqm9tRMSmXfwD2"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Blues Jam in Chicago, Vol. 1",
+        "url": "https://open.spotify.com/album/4vRzJ9uAlelRyezL47h1WJ"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "I'm Worried",
+      "url": "https://open.spotify.com/track/1a2mDlmY6lTKTB7rmu6rVi"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1899,22 +1915,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "When Girls Do It",
-        "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
-      },
-      "artists": [
-        {
-          "name": "Bobby 'Guitar' Bennett",
-          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "When Girls Do It",
-      "url": "https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Cracked Spanner Head",
         "url": "https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk"
       },
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Tramp / Soul",
-        "url": "https://open.spotify.com/album/02Qcgwkz4Fd0btbDraBUHo"
+        "name": "Cracked Spanner Head",
+        "url": "https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk"
       },
       "artists": [
         {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Two Way Wishing",
-      "url": "https://open.spotify.com/track/2lGyivhfiH4jqGpJGSqSZ4"
+      "duration_ms": 234293,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"
     }
   ],
   "unique_name": "Blues Road Trip",

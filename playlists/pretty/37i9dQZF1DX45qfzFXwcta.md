@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,494 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,655 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 97 | [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 |
 | 98 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 |
 
-Snapshot ID: `MCxjYTkwYjM1MDUwOGEwYzkxNGJmM2IyNGE5M2YzMjRmMzQyYjkxNjdh`
+Snapshot ID: `MCw1MDBhZjkxMzM3NjRjMWQ0ZDgxYWI1NjVlYWIzMGYwNDE3NTlhYjM3`

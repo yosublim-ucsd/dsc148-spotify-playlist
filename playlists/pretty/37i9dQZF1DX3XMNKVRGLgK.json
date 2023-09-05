@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 12917,
+  "num_followers": 12977,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjBhYWU3NTgwNDM1NWZjMTNmYjJiNzUzOTE3NjM3ZTQ1NzYyNDM2",
+  "snapshot_id": "MCw0ZjU0NzMyMGNkYWM0MDY2MTdkNDFkZTdmMGJiMmEyNDkyOTQ2NzM5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -231,6 +231,34 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Allan Kingdom",
+          "url": "https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 310906,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Purple Reign",
         "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
@@ -263,34 +291,6 @@
       "duration_ms": 211213,
       "name": "RNB (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/6PMuXABPVPf11EgTxrjroO"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Theophilus London",
-          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
-        },
-        {
-          "name": "Allan Kingdom",
-          "url": "https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 310906,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/79reBHqpRoWXaQbjBBY3UC"
     },
     {
       "added_at": "2022-10-01 16:00:00",

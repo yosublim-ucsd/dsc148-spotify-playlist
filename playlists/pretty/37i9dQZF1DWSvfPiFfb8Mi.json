@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 224450,
+  "num_followers": 224742,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDdhYTAyOGE2NzE5N2VhNWNmZDQ0OWNmMTg3OTNlZjQzMTk1YTVi",
+  "snapshot_id": "MCw5NmE4Y2FmOWE4ZDBhY2E4YmU3OGU2N2U5NTcyYjYxYjQ2ZjcxZDcx",
   "tracks": [
     {
       "added_at": "2023-09-01 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Bad Company - Edit",
-      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Lady Love",
         "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 174524,
       "name": "Lady Love",
       "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Bad Company - Edit",
+      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "KILO",
+        "url": "https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 310153,
+      "name": "KILO",
+      "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Open Market",
         "url": "https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "KILO",
-        "url": "https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "KILO",
-      "url": "https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Missing You (Michael Gray Remix)",
         "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Disco Maniac",
-        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
       "artists": [
         {
-          "name": "Billy Vena",
-          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 144545,
-      "name": "Disco Maniac",
-      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Disco Maniac",
+        "url": "https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD"
+      },
+      "artists": [
+        {
+          "name": "Billy Vena",
+          "url": "https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Disco Maniac",
+      "url": "https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "I'm A Woman",
         "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 147086,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 181874,
       "name": "FWD (feat. Rudimental & House Gospel Choir)",
       "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/34KMYJ2e5ouT1qfOEJgfIe"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "The Best Rapper Alive",
+        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "duration_ms": 487619,
+      "name": "The Best Rapper Alive",
+      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 227899,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "The Best Rapper Alive",
-        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "The Best Rapper Alive",
-      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
         "name": "Hot Summer Love",
         "url": "https://open.spotify.com/album/2Ut3uBkJ4CPikDtEvtqULb"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 154702,
       "name": "Mind Talking",
       "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Maintain (Jafunk Remix)",
-        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 193946,
-      "name": "Maintain - Jafunk Remix",
-      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 197277,
       "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
       "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Maintain (Jafunk Remix)",
+        "url": "https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Maintain - Jafunk Remix",
+      "url": "https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2"
     },
     {
       "added_at": "2023-09-01 06:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-09-01 06:00:00",
       "album": {
-        "name": "Lovin You",
-        "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 163930,
-      "name": "Lovin You",
-      "url": "https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc"
-    },
-    {
-      "added_at": "2023-09-01 06:00:00",
-      "album": {
         "name": "Dunston (Bellaire Remix)",
         "url": "https://open.spotify.com/album/6ZyTc9CIeuHsPSgg0ypxAI"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 213243,
       "name": "Dunston (Bellaire Remix)",
       "url": "https://open.spotify.com/track/1un3tgix0qXdcAAT7VYiDx"
+    },
+    {
+      "added_at": "2023-09-01 06:00:00",
+      "album": {
+        "name": "Lovin You",
+        "url": "https://open.spotify.com/album/0xxlWA40DcSNiofv6t88yL"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 163930,
+      "name": "Lovin You",
+      "url": "https://open.spotify.com/track/0275ycgPLKr6wXOsRt45vc"
     },
     {
       "added_at": "2023-09-01 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1960s.\n",
-  "num_followers": 2887488,
+  "num_followers": 2888017,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzgxZmZlYzk3NmUzOGRkNzYzYzk1ZmE0YmRlNjhlNjM2NDdhZmY2",
+  "snapshot_id": "MCw4NjkzZTgwYjZjM2UzNDA0ZTcwMTFiYjk2MDA3MDY2NTk5ZmM0NzNh",
   "tracks": [
     {
       "added_at": "2022-08-12 11:06:50",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 176293,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Down On The Corner",
-      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Along Came Jones",
         "url": "https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Down On The Corner",
+      "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -627,38 +627,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "My Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Green River",
-      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Kinks (Deluxe)",
         "url": "https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ"
       },
@@ -691,6 +659,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Green River",
+      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Axis: Bold As Love",
         "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 145746,
       "name": "Little Wing",
       "url": "https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Fly Me To The Moon (In Other Words)",
-      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -839,6 +819,42 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Led Zeppelin",
         "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 308520,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 263333,
-      "name": "Ramble On - 1990 Remaster",
-      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 271573,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 263333,
+      "name": "Ramble On - 1990 Remaster",
+      "url": "https://open.spotify.com/track/3MODES4TNtygekLl146Dxd"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Bee Gees' 1st",
         "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 182000,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Tommy",
-        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 180943,
-      "name": "Pinball Wizard",
-      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 180943,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 149613,
-      "name": "Homeward Bound",
-      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Crosby, Stills & Nash",
         "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+      "duration_ms": 149613,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1703,6 +1687,22 @@
       "duration_ms": 192053,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Jump Up Calypso",
         "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "My Generation (Stereo Version)",
-        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "My Generation - Stereo Version",
-      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "My Generation - Stereo Version",
+      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2163,18 +2163,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Ramblin' Gamblin' Man",
-        "url": "https://open.spotify.com/album/0mnZhL4hkaGyIckwOZ6dgE"
+        "name": "The Essential Skeeter Davis",
+        "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
       },
       "artists": [
         {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+          "name": "Skeeter Davis",
+          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
         }
       ],
-      "duration_ms": 145310,
-      "name": "Ramblin' Gamblin' Man",
-      "url": "https://open.spotify.com/track/691Wr3tOjDqic3OTPLouX3"
+      "duration_ms": 157573,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2195,18 +2195,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Essential Skeeter Davis",
-        "url": "https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N"
+        "name": "Ramblin' Gamblin' Man",
+        "url": "https://open.spotify.com/album/0mnZhL4hkaGyIckwOZ6dgE"
       },
       "artists": [
         {
-          "name": "Skeeter Davis",
-          "url": "https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy"
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
         }
       ],
-      "duration_ms": 157573,
-      "name": "The End of the World",
-      "url": "https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09"
+      "duration_ms": 145310,
+      "name": "Ramblin' Gamblin' Man",
+      "url": "https://open.spotify.com/track/691Wr3tOjDqic3OTPLouX3"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2223,22 +2223,6 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2295,6 +2279,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Lady Soul (With Bonus Selections)",
         "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
       },
@@ -2355,22 +2371,6 @@
       "duration_ms": 339533,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-08-12 11:06:50",

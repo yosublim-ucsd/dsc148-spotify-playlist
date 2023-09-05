@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Kiefer
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,720 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,860 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [BIG](https://open.spotify.com/track/29xIkYBI18k0sQLk0mmaRt) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [BIG](https://open.spotify.com/album/0sLWffIotCNNIvcStSlkQa) | 2:50 |
 | 100 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 |
 
-Snapshot ID: `MCw3MTFiMjgyNzE4NGQ0NmZjNzY4NDFlMWNmZTUxYzA5NTU3YTQxMzdl`
+Snapshot ID: `MCwxMDkzZGFlM2RhM2Q5MDI1ZGEzZTE5MWU0YzQ2ZDg4ZTU2NmZhZWUw`

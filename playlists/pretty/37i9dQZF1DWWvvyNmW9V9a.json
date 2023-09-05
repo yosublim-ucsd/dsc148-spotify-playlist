@@ -1,12 +1,12 @@
 {
   "description": "Yours truly (\u00b4\uff61\u2022 \u25e1 \u2022\uff61`) \u2661",
-  "num_followers": 2119732,
+  "num_followers": 2120450,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTg5NDUxMDhiZTgwY2FmYTg5YjlkYzUyMTNiNDcwNjUzYjkwZDJm",
+  "snapshot_id": "MCxiZTQ0Y2VhYWFhYWExMTNhOTMyODEwNzcxZjcxY2I2NzRmZWVmN2Rj",
   "tracks": [
     {
       "added_at": "2023-08-29 19:47:47",
@@ -137,6 +137,54 @@
       "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
     },
     {
+      "added_at": "2023-07-24 15:42:55",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
+    },
+    {
+      "added_at": "2023-09-01 03:59:23",
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 205553,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
       "added_at": "2023-08-18 04:01:00",
       "album": {
         "name": "Paint The Town Red",
@@ -217,22 +265,6 @@
       "url": "https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9"
     },
     {
-      "added_at": "2023-09-01 03:59:23",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 205553,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0"
-    },
-    {
       "added_at": "2023-08-18 04:01:00",
       "album": {
         "name": "Lil Boo Thang",
@@ -247,38 +279,6 @@
       "duration_ms": 114233,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
-    },
-    {
-      "added_at": "2023-07-24 15:42:55",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -327,6 +327,22 @@
       "duration_ms": 176399,
       "name": "leave me for dead",
       "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
+    },
+    {
+      "added_at": "2023-09-04 18:06:06",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "There It Goes",
+      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
     },
     {
       "added_at": "2023-08-03 02:17:52",
@@ -453,6 +469,22 @@
       "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
     },
     {
+      "added_at": "2023-09-04 18:06:06",
+      "album": {
+        "name": "Hellokittybalahcurrihellokitty\u7f8e\u5473\u3057\u3044",
+        "url": "https://open.spotify.com/album/4aonD1CFMOjR9Ni6F7MjxP"
+      },
+      "artists": [
+        {
+          "name": "\u672a\u4f86\u5c11\u5973 \u8584\u8377\u6c34\u6676",
+          "url": "https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2"
+        }
+      ],
+      "duration_ms": 227322,
+      "name": "Hellokittybalahcurrihellokitty\u7f8e\u5473\u3057\u3044",
+      "url": "https://open.spotify.com/track/51IEjUEnT7n3cgIXynxNTN"
+    },
+    {
       "added_at": "2023-06-30 04:00:31",
       "album": {
         "name": "Speed Drive (From Barbie The Album)",
@@ -467,6 +499,22 @@
       "duration_ms": 117809,
       "name": "Speed Drive (From Barbie The Album)",
       "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "Do or Die",
+        "url": "https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 150314,
+      "name": "Do or Die",
+      "url": "https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e"
     },
     {
       "added_at": "2023-07-28 03:59:38",
@@ -519,22 +567,6 @@
       "duration_ms": 230466,
       "name": "New Romantics",
       "url": "https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z"
-    },
-    {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Do or Die",
-        "url": "https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 150314,
-      "name": "Do or Die",
-      "url": "https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -973,22 +1005,6 @@
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/0DzYS39dNG3WhACUAA5LI7"
-      },
-      "artists": [
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/2oPZ5C25DHuF4il15vFI3J"
-    },
-    {
       "added_at": "2023-08-11 04:00:00",
       "album": {
         "name": "Dancing In The Dark",
@@ -1023,22 +1039,6 @@
       "duration_ms": 149438,
       "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 173303,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
     },
     {
       "added_at": "2023-08-08 21:58:24",
@@ -1127,26 +1127,6 @@
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
-        "url": "https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Eve, Psyche & the Bluebeard\u2019s wife (feat. Demi Lovato)",
-      "url": "https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw"
     },
     {
       "added_at": "2023-07-07 04:01:06",

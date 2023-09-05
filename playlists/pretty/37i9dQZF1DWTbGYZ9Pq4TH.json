@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 170723,
+  "num_followers": 170765,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1",
+  "snapshot_id": "MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 214926,
+      "name": "Scrivile Scemo",
+      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Brividi",
         "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
@@ -167,22 +183,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "Le luci della citt\u00e0",
-      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
       },
@@ -195,6 +195,22 @@
       "duration_ms": 190409,
       "name": "Dove e quando",
       "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "Le luci della citt\u00e0",
+      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -215,18 +231,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 214926,
-      "name": "Scrivile Scemo",
-      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
+      "duration_ms": 234250,
+      "name": "Ti dedico il silenzio",
+      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -247,38 +263,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "La tua canzone",
-      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "Ti dedico il silenzio",
-      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Completamente Sold Out",
         "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 216386,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 203872,
-      "name": "\u00c8 sempre bello",
-      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
+      "duration_ms": 192040,
+      "name": "La tua canzone",
+      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -355,22 +355,6 @@
       "duration_ms": 251413,
       "name": "Tu",
       "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -439,22 +423,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 193624,
-      "name": "Faccio un casino",
-      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Sindrome di Stendhal",
         "url": "https://open.spotify.com/album/5xF5qZdfqo5hmHTLRv9Fca"
       },
@@ -519,18 +487,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
       },
       "artists": [
         {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 249417,
-      "name": "Questa nostra stupida canzone d'amore",
-      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
+      "duration_ms": 203872,
+      "name": "\u00c8 sempre bello",
+      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -547,6 +515,22 @@
       "duration_ms": 282720,
       "name": "Senza Parole",
       "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
+      },
+      "artists": [
+        {
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        }
+      ],
+      "duration_ms": 249417,
+      "name": "Questa nostra stupida canzone d'amore",
+      "url": "https://open.spotify.com/track/1Kw6V4wiZKTVwLZ5YcYJR3"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -611,22 +595,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Sorriso (Milano Dateo)",
-        "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 177145,
-      "name": "Sorriso (Milano Dateo)",
-      "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "San Siro Live (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa"
       },
@@ -643,6 +611,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Sorriso (Milano Dateo)",
+        "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 177145,
+      "name": "Sorriso (Milano Dateo)",
+      "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 234600,
       "name": "Unica",
       "url": "https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 193624,
+      "name": "Faccio un casino",
+      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Iperbole",
-        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 296040,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Rimmel",
         "url": "https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 220640,
       "name": "Rimmel",
       "url": "https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Iperbole",
+        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 296040,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
     },
     {
       "added_at": "2023-02-20 09:56:57",

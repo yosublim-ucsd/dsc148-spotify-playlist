@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 187705,
+  "num_followers": 188162,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 457400,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
         "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 162386,
       "name": "The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)",
       "url": "https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Say It With Music",
+        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Stranger In Paradise",
+      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -235,6 +235,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 457400,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 125544,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Say It With Music",
-        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Stranger In Paradise",
-      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -375,22 +375,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 Valses Instrumentales",
         "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 220400,
       "name": "Soleado",
       "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 221174,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Music Box Dancer",
         "url": "https://open.spotify.com/album/2fcngsscxnVlJdbGgXmBlt"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 192360,
       "name": "Music Box Dancer",
       "url": "https://open.spotify.com/track/5NdzToomqRRxNSR0F0nUHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 221174,
+      "name": "Fandango",
+      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -591,6 +591,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Sail Along Silv'ry Moon",
+        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 129680,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Le Cin\u00e9ma De Francis Lai",
         "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 183133,
       "name": "Emmanuelle",
       "url": "https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Sail Along Silv'ry Moon",
-        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 129680,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -775,26 +775,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Franck Pourcel : Originals, vol. 8",
-        "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        },
-        {
-          "name": "Fran\u00e7oise Pourcel",
-          "url": "https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc"
-        }
-      ],
-      "duration_ms": 146407,
-      "name": "Spanish Harlem - Nuits d'Espagne",
-      "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Look For A Star",
         "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
       },
@@ -811,50 +791,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+        "name": "Franck Pourcel : Originals, vol. 8",
+        "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
       },
       "artists": [
         {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "The Sting",
-        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
-      },
-      "artists": [
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        },
         {
-          "name": "Marvin Hamlisch",
-          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
+          "name": "Fran\u00e7oise Pourcel",
+          "url": "https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc"
         }
       ],
-      "duration_ms": 183360,
-      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
-      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
-      },
-      "artists": [
-        {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Lluvia de Primavera",
-      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
+      "duration_ms": 146407,
+      "name": "Spanish Harlem - Nuits d'Espagne",
+      "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -879,18 +831,50 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
-        "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
       },
       "artists": [
         {
-          "name": "Mario Gonzales Guerra",
-          "url": "https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU"
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
         }
       ],
-      "duration_ms": 198387,
-      "name": "Flauta de Pan",
-      "url": "https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ"
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
+      },
+      "artists": [
+        {
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Lluvia de Primavera",
+      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Sting",
+        "url": "https://open.spotify.com/album/0GLCHyDf1JwJRestHhlc91"
+      },
+      "artists": [
+        {
+          "name": "Marvin Hamlisch",
+          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "The Entertainer - The Sting/Soundtrack Version/Orchestra Version",
+      "url": "https://open.spotify.com/track/3qq7parQQaohn9N7qKrKtE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -911,18 +895,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "14 Estelares",
-        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
+        "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
+        "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
       },
       "artists": [
         {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+          "name": "Mario Gonzales Guerra",
+          "url": "https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU"
         }
       ],
-      "duration_ms": 197093,
-      "name": "Il",
-      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
+      "duration_ms": 198387,
+      "name": "Flauta de Pan",
+      "url": "https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -959,6 +943,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "14 Estelares",
+        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Il",
+      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "La Fiesta Mexicana de Pepe Jaramillo",
         "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+        "name": "The Leroy Anderson Collection",
+        "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
       },
       "artists": [
         {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+          "name": "Leroy Anderson",
+          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
         }
       ],
-      "duration_ms": 145680,
-      "name": "Love In Every Room",
-      "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
+      "duration_ms": 169426,
+      "name": "Blue Tango",
+      "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Leroy Anderson Collection",
-        "url": "https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3"
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
       "artists": [
         {
-          "name": "Leroy Anderson",
-          "url": "https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX"
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
         }
       ],
-      "duration_ms": 169426,
-      "name": "Blue Tango",
-      "url": "https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L"
+      "duration_ms": 145680,
+      "name": "Love In Every Room",
+      "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+        "name": "20 #1's: One Hit Wonders",
+        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
       },
       "artists": [
         {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
+      "duration_ms": 202805,
+      "name": "Chariots Of Fire",
+      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1247,34 +1247,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 #1's: One Hit Wonders",
-        "url": "https://open.spotify.com/album/3KHLuUmpMLmkTXzGBYTcQR"
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
       },
       "artists": [
         {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/6msisqBOxcaydKBtzcU8Ts"
         }
       ],
-      "duration_ms": 202805,
-      "name": "Chariots Of Fire",
-      "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Instrumental History, The Best",
-        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
       },
       "artists": [
         {
-          "name": "Giovanni Marchetti",
-          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 170333,
-      "name": "L'Incontro - 1M1",
-      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1323,6 +1307,22 @@
       "duration_ms": 257633,
       "name": "The Shuffle",
       "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Instrumental History, The Best",
+        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Marchetti",
+          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "L'Incontro - 1M1",
+      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Roger Williams Greatest Hits",
-        "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Avengers and Other Top Sixties Themes",
         "url": "https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 190840,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Roger Williams Greatest Hits",
+        "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
+      },
+      "artists": [
+        {
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Caravelli & His Orchestra",
-        "url": "https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ"
-      },
-      "artists": [
-        {
-          "name": "Caravelli",
-          "url": "https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Over the Rainbow",
-      "url": "https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 168053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Caravelli & His Orchestra",
+        "url": "https://open.spotify.com/album/6fg2yCwbKZ4aCSGAlovkyZ"
+      },
+      "artists": [
+        {
+          "name": "Caravelli",
+          "url": "https://open.spotify.com/artist/4ZELYX7reIsNTmxOWCMcav"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/68EG7pZ1EvUjp6wbhcItTL"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Blue Navajo",
-        "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
       },
       "artists": [
         {
-          "name": "Gheorghe Zamfir",
-          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
         }
       ],
-      "duration_ms": 213617,
-      "name": "Blue Navajo",
-      "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
+      "duration_ms": 154506,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Honeymoon in South America",
         "url": "https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem"
       },
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Blue Navajo",
+        "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
+      },
+      "artists": [
+        {
+          "name": "Gheorghe Zamfir",
+          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Blue Navajo",
+      "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
         "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
       },
@@ -1695,6 +1695,22 @@
       "duration_ms": 279320,
       "name": "M\u00e9lissa (de \"Bilitis\")",
       "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 157013,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1763,38 +1779,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "Kiss of Fire",
-      "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 157013,
-      "name": "Star Dust",
-      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Tony Mottola y Su Orquesta",
         "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 113880,
       "name": "Woodpecker Song",
       "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "Kiss of Fire",
+      "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
     },
     {
       "added_at": "2020-12-08 19:02:01",

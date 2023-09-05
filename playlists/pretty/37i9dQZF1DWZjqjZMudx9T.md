@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la CALLE a la CIMA con Mora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,665,517 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,667,625 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 |
+| 1 | [PÓLVORA](https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:05 |
 | 2 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
 | 3 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
-| 4 | [PÓLVORA](https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:05 |
+| 4 | [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 |
 | 5 | [Yankee 150](https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Yankee 150](https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F) | 4:02 |
 | 6 | [Cabaña](https://open.spotify.com/track/6UR1k5NGqgNGzgVmMtT768) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Los Patos Feos Inc](https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Cabaña](https://open.spotify.com/album/4pB67EzrWH1xI6h7y4DbRT) | 2:58 |
 | 7 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 49 | [Mas Rica Que Ayer](https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Mas Rica Que Ayer](https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu) | 3:19 |
 | 50 | [EL AMOR DE TU VIDA](https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [EL AMOR DE TU VIDA](https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE) | 2:57 |
 
-Snapshot ID: `MCxiMmYwY2ZiNzE4ODU0ODU4YTJmOTc0MTM3MGU4ZWRiMTE5OGIwZTUw`
+Snapshot ID: `MCw1M2I3MGY0NmFhNzZlMDhhYTc5Y2RkNTZhNDY4NTZmZDE5ZDBiODhl`

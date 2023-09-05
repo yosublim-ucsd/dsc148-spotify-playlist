@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 356130,
+  "num_followers": 356501,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2ZkNmJjZDhiZGI4OGI5ZWEzNDE4ZGY0YTBjODZlYWIzNzZmNGEw",
+  "snapshot_id": "MCwxNzg2YzM5NTc0N2QwODIxZDI3YmEyM2ZhY2VmYWI2ZDljMzQ4OWNi",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -91,18 +91,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Por El Amor",
-        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -123,50 +123,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "Por El Amor",
+        "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 3",
-        "url": "https://open.spotify.com/album/0Co4H1xWEZmKYczwFsSYr4"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 193376,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/3ArvAQ4N8f2Keehg0RPIhN"
+      "duration_ms": 229653,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -187,6 +155,38 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Colecci\u00f3n De Oro, Vol. 3",
+        "url": "https://open.spotify.com/album/0Co4H1xWEZmKYczwFsSYr4"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 193376,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/3ArvAQ4N8f2Keehg0RPIhN"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Juntos Para Siempre",
         "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
       },
@@ -199,54 +199,6 @@
       "duration_ms": 188906,
       "name": "Se Fue Mi Paloma",
       "url": "https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Tu \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Tu \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Yo Te Necesito",
-        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -267,6 +219,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Yo Te Necesito",
+        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
       },
@@ -279,6 +247,22 @@
       "duration_ms": 224946,
       "name": "El Taxista",
       "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -331,24 +315,8 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Como Te Recuerdo",
-        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
+        "name": "Tu \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
       },
       "artists": [
         {
@@ -356,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
         }
       ],
-      "duration_ms": 305293,
-      "name": "Como Te Recuerdo",
-      "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
+      "duration_ms": 262333,
+      "name": "Tu \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -375,6 +343,22 @@
       "duration_ms": 195120,
       "name": "\u00c9l Soy Yo",
       "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -427,22 +411,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Tu \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 249200,
-      "name": "Enamorado de Ti",
-      "url": "https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Los Felinos",
         "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
       },
@@ -455,6 +423,22 @@
       "duration_ms": 226417,
       "name": "Morena",
       "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Como Te Recuerdo",
+        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 305293,
+      "name": "Como Te Recuerdo",
+      "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -475,18 +459,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Quiereme",
-        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
+        "name": "Enamorado De Un Fantasma",
+        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
         }
       ],
-      "duration_ms": 245786,
-      "name": "Mi Mayor Necesidad",
-      "url": "https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq"
+      "duration_ms": 269466,
+      "name": "Enamorado De Un Fantasma",
+      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -507,6 +491,22 @@
       "duration_ms": 236533,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Mi Mayor Necesidad",
+      "url": "https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -543,18 +543,34 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Enamorado De Un Fantasma",
-        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
+        "name": "Los Sonidos De Su Esp\u00edritu",
+        "url": "https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA"
       },
       "artists": [
         {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
         }
       ],
-      "duration_ms": 269466,
-      "name": "Enamorado De Un Fantasma",
-      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
+      "duration_ms": 226386,
+      "name": "Contra El Drag\u00f3n",
+      "url": "https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Tu \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 249200,
+      "name": "Enamorado de Ti",
+      "url": "https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -575,18 +591,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Los Sonidos De Su Esp\u00edritu",
-        "url": "https://open.spotify.com/album/1JmNtIeUHlp2vHxddTj5iA"
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
         }
       ],
-      "duration_ms": 226386,
-      "name": "Contra El Drag\u00f3n",
-      "url": "https://open.spotify.com/track/7I7Cs5Xr776qavPMjNJknC"
+      "duration_ms": 193880,
+      "name": "Amor Sin Palabras",
+      "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -607,22 +623,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Amor Sin Palabras",
-      "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "10 De Coleccion",
         "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 190560,
       "name": "Amor Se Escribe Con Llanto",
       "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Un Millon de Rosas",
-      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -683,6 +667,22 @@
       "duration_ms": 195000,
       "name": "Tiernas Mentiras",
       "url": "https://open.spotify.com/track/2jDBun83BgJpfWL498OSIT"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Un Millon de Rosas",
+      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Preg\u00fantame A Mi",
         "url": "https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -863,38 +863,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Vanidosa",
-        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
-      },
-      "artists": [
-        {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Es Que Te Amo",
-      "url": "https://open.spotify.com/track/201DoWLysj5vR8va945CCW"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Siempre Te Amar\u00e9",
         "url": "https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos"
       },
@@ -907,6 +875,22 @@
       "duration_ms": 237440,
       "name": "Perd\u00f3n Por Tus L\u00e1grimas",
       "url": "https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -931,6 +915,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Es Que Te Amo",
+      "url": "https://open.spotify.com/track/201DoWLysj5vR8va945CCW"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "En La Luna",
         "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 192029,
       "name": "P\u00eddeme La Luna",
       "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/7HWP9Iq6XV65DG84VqYtNm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+        }
+      ],
+      "duration_ms": 221663,
+      "name": "En Realidad (Reprise)",
+      "url": "https://open.spotify.com/track/4sYzLjHySEugo857NgZGHq"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -983,38 +999,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "A Mentir A La Calle",
-      "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Solo Lo Nuestro",
         "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
       },
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
         "name": "Ilusiones",
         "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 240133,
       "name": "Coraz\u00f3n M\u00e1gico",
       "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "A Mentir A La Calle",
+      "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1",
-        "url": "https://open.spotify.com/album/7HWP9Iq6XV65DG84VqYtNm"
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
       },
       "artists": [
         {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 221663,
-      "name": "En Realidad (Reprise)",
-      "url": "https://open.spotify.com/track/4sYzLjHySEugo857NgZGHq"
+      "duration_ms": 159306,
+      "name": "Dulcemente Enamorada",
+      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1111,24 +1127,8 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Dulcemente Enamorada",
-      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Un D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+        "name": "Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Un D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+      "duration_ms": 218066,
+      "name": "Contigo O Sin Ti",
+      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Me Quede Llorando",
-      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Bronco Amigo",
         "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
       },
@@ -1219,22 +1203,6 @@
       "duration_ms": 232760,
       "name": "Amigo Bronco",
       "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
-        "name": "Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Contigo O Sin Ti",
-      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1259,22 +1227,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Cosas Buenas Que Parecen Malas",
-      "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Solo Baladas",
         "url": "https://open.spotify.com/album/5wYtiVi5x6N9H7KRFhfIzq"
       },
@@ -1291,22 +1243,6 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "20 Aniversario",
-        "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "Dos Enamorados",
-      "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
-    },
-    {
-      "added_at": "2022-03-17 00:19:47",
-      "album": {
         "name": "Dulce Veneno",
         "url": "https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D"
       },
@@ -1319,6 +1255,38 @@
       "duration_ms": 200620,
       "name": "Dulce Veneno",
       "url": "https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Me Quede Llorando",
+      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1367,6 +1335,22 @@
       "duration_ms": 220626,
       "name": "Melodia Desencadenada",
       "url": "https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
+      },
+      "artists": [
+        {
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Cosas Buenas Que Parecen Malas",
+      "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1447,6 +1431,22 @@
       "duration_ms": 218200,
       "name": "Dame un Beso y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP"
+    },
+    {
+      "added_at": "2022-03-17 00:19:47",
+      "album": {
+        "name": "20 Aniversario",
+        "url": "https://open.spotify.com/album/4RZzYGvr197oZhvcl0PzOi"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 221773,
+      "name": "Dos Enamorados",
+      "url": "https://open.spotify.com/track/12nMOOlu5TyP8FSnfj1WPJ"
     },
     {
       "added_at": "2022-03-17 00:19:47",

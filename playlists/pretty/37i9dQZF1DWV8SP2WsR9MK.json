@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 73055,
+  "num_followers": 73156,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTFhNTJhYmE3YzA2MjViMTQ5OGUzYjY3NGY1ZmUyOTliNWNkNTcz",
+  "snapshot_id": "MCxmZjgzMTI1YmVjZmNjOTYwNjY1MDFhN2ZhZmQ4MDIwMTMzMTFlNzky",
   "tracks": [
     {
       "added_at": "2023-08-31 09:02:03",
@@ -135,38 +135,6 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "So Much Guitar!",
-        "url": "https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 135240,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Soul Lament - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/1srLA4OraIHfQP6WhR3iol"
       },
@@ -179,22 +147,6 @@
       "duration_ms": 295520,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/0EdYLCHThvtSmze7iEqlEN"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "I'll See You in My Dreams",
-      "url": "https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -215,6 +167,22 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
+        "name": "So Much Guitar!",
+        "url": "https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
         "name": "Offramp",
         "url": "https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK"
       },
@@ -227,6 +195,22 @@
       "duration_ms": 401960,
       "name": "James",
       "url": "https://open.spotify.com/track/5E7hYtzDxeIsa5yEI597KO"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "I'll See You in My Dreams",
+      "url": "https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -251,6 +235,22 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Soul Lament - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
         "name": "I Can See Your House From Here",
         "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 259360,
       "name": "The Red One",
       "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 282200,
+      "name": "Polka Dots And Moonbeams",
+      "url": "https://open.spotify.com/track/2M3laSC4qeLl9tWxDEzF4T"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -307,38 +323,6 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 282200,
-      "name": "Polka Dots And Moonbeams",
-      "url": "https://open.spotify.com/track/2M3laSC4qeLl9tWxDEzF4T"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
         "name": "Offramp",
         "url": "https://open.spotify.com/album/1heeMC7VVWEDxdQKxesqQK"
       },
@@ -351,22 +335,6 @@
       "duration_ms": 508333,
       "name": "Au Lait",
       "url": "https://open.spotify.com/track/5qNUdnpg2b2Xj1ZCYFZxFr"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Bright Size Life",
-        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "Bright Size Life",
-      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -387,6 +355,22 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 151506,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Bright Size Life",
+        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Bright Size Life",
+      "url": "https://open.spotify.com/track/6UwTR0kjCtlT4FMNtIvLac"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
+        "name": "Boss Guitar",
+        "url": "https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
         "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
         "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
       },
@@ -443,34 +459,18 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Djangology 49",
-        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
+        "name": "Virtuoso",
+        "url": "https://open.spotify.com/album/15mqbWSQ1XtAtpx5JsRA3Y"
       },
       "artists": [
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Boss Guitar",
-        "url": "https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt"
+      "duration_ms": 212066,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6BH7yXu2TGulH6Gdn6zJSI"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -491,6 +491,22 @@
       "duration_ms": 244626,
       "name": "The Moon Is A Harsh Mistress",
       "url": "https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Djangology 49",
+        "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Virtuoso",
-        "url": "https://open.spotify.com/album/15mqbWSQ1XtAtpx5JsRA3Y"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6BH7yXu2TGulH6Gdn6zJSI"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
         "name": "Cream",
         "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
       },
@@ -551,34 +551,18 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Djangologie Vol15 / 1946 - 1947",
-        "url": "https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797"
+        "name": "Intercontinental",
+        "url": "https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A"
       },
       "artists": [
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
         }
       ],
-      "duration_ms": 158013,
-      "name": "Django's Tiger",
-      "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "The Best Of Grant Green",
-        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 897626,
-      "name": "Idle Moments",
-      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
+      "duration_ms": 224962,
+      "name": "Lil' Darlin'",
+      "url": "https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -595,38 +579,6 @@
       "duration_ms": 311000,
       "name": "Canto De Ossanha",
       "url": "https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 334368,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Speaking of Now",
-        "url": "https://open.spotify.com/album/2XlIL7wXd4j2vAUvFI3cO8"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
-        }
-      ],
-      "duration_ms": 460760,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/54wk2MJkrGecJuv5ES6O5H"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -663,18 +615,86 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Intercontinental",
-        "url": "https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A"
+        "name": "The Best Of Grant Green",
+        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
       },
       "artists": [
         {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 224962,
-      "name": "Lil' Darlin'",
-      "url": "https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf"
+      "duration_ms": 897626,
+      "name": "Idle Moments",
+      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 334368,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/1UeLNAJiklqa9RGRvtVqUx"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Djangologie Vol15 / 1946 - 1947",
+        "url": "https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "Django's Tiger",
+      "url": "https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Speaking of Now",
+        "url": "https://open.spotify.com/album/2XlIL7wXd4j2vAUvFI3cO8"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "duration_ms": 460760,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/54wk2MJkrGecJuv5ES6O5H"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "All Across The City",
+      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -699,22 +719,18 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+        "name": "For Django",
+        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
         }
       ],
-      "duration_ms": 290000,
-      "name": "All Across The City",
-      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
+      "duration_ms": 200866,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "For Django",
-        "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 200866,
-      "name": "Django",
-      "url": "https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
         "name": "Retrospective",
         "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
       },
@@ -779,6 +779,50 @@
       "duration_ms": 484493,
       "name": "Joshua Fit De Battle Of Jericho",
       "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Travel Guide",
+        "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
+      },
+      "artists": [
+        {
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
+        },
+        {
+          "name": "Wolfgang Muthspiel",
+          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
+        },
+        {
+          "name": "Slava Grigoryan",
+          "url": "https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "Father Time",
+      "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 394333,
+      "name": "Angel Face",
+      "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -839,98 +883,6 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Homes",
-        "url": "https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr"
-      },
-      "artists": [
-        {
-          "name": "Gilad Hekselman",
-          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
-        }
-      ],
-      "duration_ms": 431973,
-      "name": "Samba Em Prel\u00f9dio",
-      "url": "https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Travel Guide",
-        "url": "https://open.spotify.com/album/5ygzx8GmxucUl8RhAU2Nua"
-      },
-      "artists": [
-        {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        },
-        {
-          "name": "Wolfgang Muthspiel",
-          "url": "https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ"
-        },
-        {
-          "name": "Slava Grigoryan",
-          "url": "https://open.spotify.com/artist/77wkuxKkegWzlyPxnX2dtG"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "Father Time",
-      "url": "https://open.spotify.com/track/4GuzBvxkGq1MHaeYVWO7dL"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        }
-      ],
-      "duration_ms": 394333,
-      "name": "Angel Face",
-      "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Plectrist",
-        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
-      },
-      "artists": [
-        {
-          "name": "Billy Bauer",
-          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
-        }
-      ],
-      "duration_ms": 254160,
-      "name": "It's a Blue World",
-      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
         "name": "For Django",
         "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
@@ -943,6 +895,22 @@
       "duration_ms": 224613,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Homes",
+        "url": "https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr"
+      },
+      "artists": [
+        {
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+        }
+      ],
+      "duration_ms": 431973,
+      "name": "Samba Em Prel\u00f9dio",
+      "url": "https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -963,6 +931,22 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
         "name": "Firefly",
         "url": "https://open.spotify.com/album/60MOA021iZ4tJDSg0s78je"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 469360,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/1NaYmJphKpCQqW2nUIIClH"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Plectrist",
+        "url": "https://open.spotify.com/album/4yXQl7UAIbrszxlYSgEqla"
+      },
+      "artists": [
+        {
+          "name": "Billy Bauer",
+          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "It's a Blue World",
+      "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
-      },
-      "artists": [
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
         "name": "Jazz Guitar",
         "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 318840,
       "name": "For Toddlers Only",
       "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -1591,6 +1591,38 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Let's Say We Did",
+      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Standards (And Other Songs)",
+        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Straight No Chaser",
+      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
@@ -1611,22 +1643,6 @@
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Let's Say We Did",
-      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -1655,38 +1671,6 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
-        "name": "Standards (And Other Songs)",
-        "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Straight No Chaser",
-      "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
-    },
-    {
-      "added_at": "2023-08-31 09:02:03",
-      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2023-08-31 09:02:03",
       "album": {
-        "name": "Move! The Guitar Artistry Of Hank Garland",
-        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
       },
       "artists": [
         {
-          "name": "Hank Garland",
-          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 266400,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
     },
     {
       "added_at": "2023-08-31 09:02:03",
@@ -1743,6 +1727,22 @@
       "duration_ms": 432093,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
+    },
+    {
+      "added_at": "2023-08-31 09:02:03",
+      "album": {
+        "name": "Move! The Guitar Artistry Of Hank Garland",
+        "url": "https://open.spotify.com/album/4a6xb1vtqetCNmtSA5TAVF"
+      },
+      "artists": [
+        {
+          "name": "Hank Garland",
+          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
     },
     {
       "added_at": "2023-08-31 09:02:03",

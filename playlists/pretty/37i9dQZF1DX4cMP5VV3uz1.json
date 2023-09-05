@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 134119,
+  "num_followers": 134260,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2M1ZmY3NjQzZDk1MzRkN2ZjZTJlM2Y2OTI1YmRkYzExMTg1YmEw",
+  "snapshot_id": "MCxmNDdiNjcyYzM1MDViYjFhMzllNzhhNzFhMDA3NDVjZGM5NGE2YzZh",
   "tracks": [
     {
       "added_at": "2023-09-01 11:38:42",
@@ -371,6 +371,30 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
+        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 159161,
+      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
         "name": "Forbidden Feelingz",
         "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
       },
@@ -403,30 +427,6 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
-        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 159161,
-      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
       },
@@ -439,6 +439,26 @@
       "duration_ms": 206250,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
+        "name": "Stan Smith",
+        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Stan Smith",
+      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -463,22 +483,22 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
-        "name": "Stan Smith",
-        "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
       "artists": [
         {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
         },
         {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Stan Smith",
-      "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -531,26 +551,6 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 192000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
-        "name": "Stars On The Roof (feat. MoMo)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MoMo)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -635,6 +615,22 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
         "name": "OUTSIDER",
         "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
       },
@@ -655,18 +651,22 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+        "name": "Stars On The Roof (feat. MoMo)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
         }
       ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MoMo)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -955,22 +955,18 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
-        "name": "Their Law The Singles 1990 - 2005",
-        "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
+        "name": "Find My Way Home",
+        "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
       },
       "artists": [
         {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        },
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 307813,
-      "name": "Voodoo People - Pendulum Mix",
-      "url": "https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ"
+      "duration_ms": 258858,
+      "name": "Find My Way Home",
+      "url": "https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -987,6 +983,26 @@
       "duration_ms": 134305,
       "name": "Loca",
       "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
+        "name": "Their Law The Singles 1990 - 2005",
+        "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        },
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 307813,
+      "name": "Voodoo People - Pendulum Mix",
+      "url": "https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -1019,22 +1035,6 @@
       "duration_ms": 266929,
       "name": "Party All the Time (feat. Kay)",
       "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
-        "name": "Find My Way Home",
-        "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 258858,
-      "name": "Find My Way Home",
-      "url": "https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "Example",
-          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
-        }
-      ],
-      "duration_ms": 249642,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
         "name": "Kraken",
         "url": "https://open.spotify.com/album/1Ac1pcGtOMPK4JEuWRqUsP"
       },
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Example",
+          "url": "https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW"
+        }
+      ],
+      "duration_ms": 249642,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
         "name": "Pictures In My Head",
         "url": "https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 258703,
       "name": "Pictures In My Head - High Contrast Remix",
       "url": "https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
+        "name": "We'll Be Alright EP",
+        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Daga Da",
+      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-09-01 11:38:42",
       "album": {
-        "name": "We'll Be Alright EP",
-        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Daga Da",
-      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
         "name": "Lazers Not Included",
         "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 287241,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/2rnDPE04mBt78lfmp9JNDP"
+    },
+    {
+      "added_at": "2023-09-01 11:38:42",
+      "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "duration_ms": 232215,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
     },
     {
       "added_at": "2023-09-01 11:38:42",
@@ -1347,22 +1363,6 @@
       "duration_ms": 160000,
       "name": "Know What It Means",
       "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
-    },
-    {
-      "added_at": "2023-09-01 11:38:42",
-      "album": {
-        "name": "Playground",
-        "url": "https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 232215,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
     },
     {
       "added_at": "2023-09-01 11:38:42",

@@ -128,10 +128,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 168234,
       "name": "Contortion",
       "url": "https://open.spotify.com/track/5FBMLbdrIQC4nEMfrUxpuT"
+    },
+    {
+      "album": {
+        "name": "Contortion",
+        "url": "https://open.spotify.com/album/5As6GPd25QG7LnCq72iuWd"
+      },
+      "artists": [
+        {
+          "name": "Exploited Body",
+          "url": "https://open.spotify.com/artist/20gv4DyaxuAAx7eKzCs6mT"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168234,
+      "name": "Contortion",
+      "url": "https://open.spotify.com/track/65RpJDjcRULTx5Cv7QZfm5"
     },
     {
       "album": {

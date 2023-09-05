@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,548 likes - 260 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,835 likes - 260 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 259 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 |
 | 260 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 |
 
-Snapshot ID: `MCxjNzMwMWRhYmZlYjMzMWVkZTE5YzczZDAxNDc5YjVjZTlmY2Y1MzRj`
+Snapshot ID: `MCw1MTZjNGJhNmYzMjQ4N2U1MmRmNGU0ODVhMjIzYTI2NmJiNjYxOTg2`

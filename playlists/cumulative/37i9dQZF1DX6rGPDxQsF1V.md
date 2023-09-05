@@ -4,7 +4,7 @@
 
 > <a href="spotify:playlist:37i9dQZF1DXayDMsJG9ZBv">Hot Hits Japan</a>、もしくは<a href="spotify:playlist:37i9dQZF1DXafb0IuPwJyF">Tokyo Super Hits</a>に10週以上リスト・インしたメガヒット曲をひとつのプレイリストに。Cover: Harry Styles
 
-128 songs - 7 hr 45 min
+130 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Never Be Us](https://open.spotify.com/track/0U321yFgfVH4a1oxuvcKov) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Views from the 23rd Floor](https://open.spotify.com/album/4JBZXq2yPGAeW6AbbT0d6p) | 2:44 | 2023-01-29 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2023-02-15 |  |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2023-01-29 | 2023-03-08 |
+| [OTONABLUE](https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:04 | 2023-09-04 |  |
 | [Our Style](https://open.spotify.com/track/0wQNg9hzXfuqvtFsDfFYOs) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Our Style](https://open.spotify.com/album/5MOelqDl97K1GaclujEZD8) | 4:02 | 2023-01-29 | 2023-05-23 |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-01-29 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2023-01-29 | 2023-05-23 |
@@ -91,7 +92,7 @@
 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2023-01-29 |  |
 | [Till I Know What Love Is \(I'm Never Gonna Die\)](https://open.spotify.com/track/0duHVljFYUGRddrIORrTsI) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:36 | 2023-01-29 | 2023-04-24 |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-08-09 |  |
-| [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2023-01-29 |  |
+| [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2023-01-29 | 2023-09-05 |
 | [Uzu](https://open.spotify.com/track/2g1UVAVre7oHc9ebMnRu0k) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Uzu](https://open.spotify.com/album/2Z8Cb0uwoF9cPAkBm35t3j) | 5:00 | 2023-01-29 | 2023-07-31 |
 | [W / X / Y](https://open.spotify.com/track/3cBghvTcQNDNkW98Y4eGaP) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/1aYWdnbKO3asqDUruOl2cY) | 4:38 | 2023-01-29 |  |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2023-01-29 |  |
@@ -118,12 +119,13 @@
 | [ハレンチ](https://open.spotify.com/track/0e1k2ptLJEtnlM4Fy8QVo6) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/46xGJVWJusnDYoi6skhS4s) | 3:18 | 2023-01-29 |  |
 | [ベテルギウス](https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ベテルギウス](https://open.spotify.com/album/25FWSs9iK7hQqyK2fdKvSV) | 3:50 | 2023-01-29 |  |
 | [ミズキリ](https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:28 | 2023-01-29 | 2023-06-26 |
+| [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 | 2023-09-04 |  |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-04-23 |  |
 | [再会 \(produced by Ayase\)](https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [再会 \(produced by Ayase\)](https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf) | 4:02 | 2023-01-29 | 2023-04-24 |
 | [分かってないよ](https://open.spotify.com/track/5wosJVYKzl3g7XElM98m23) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [分かってないよ](https://open.spotify.com/album/3QI0sONMNyoJT96dweJ5EY) | 3:29 | 2023-01-29 |  |
 | [勿忘](https://open.spotify.com/track/6IwQAPovmEz5ft8bDUKLrj) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [勿忘](https://open.spotify.com/album/7xOaqsEeN02fMgQYivgrgY) | 4:11 | 2023-01-29 |  |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-04-23 |  |
-| [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 | 2023-01-29 |  |
+| [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 | 2023-01-29 | 2023-09-05 |
 | [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 | 2023-01-29 |  |
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2023-01-29 | 2023-02-16 |
 | [怪獣の花唄](https://open.spotify.com/track/10zz9RZt9DnqcxNWksRNrx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:44 | 2023-02-28 |  |

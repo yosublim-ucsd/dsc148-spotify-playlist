@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 
 > Only the best Hip\-hop, only non\-stop hits\. Travis Scott on Cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,114 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,575 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrdTgewhgZq.md) - [plain]
 | 99 | [Red Light Green Light](https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Red Light Green Light](https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC) | 2:39 |
 | 100 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
 
-Snapshot ID: `MCwwYmFkNzgxMGE5YzgxMjcyNDJmOTVkOTc2NmE3OWNjMmFjYjI1NTgx`
+Snapshot ID: `MCw1MzY2NjZhYmY2OWIzZDIwZTIzMjUxN2YyNTk0MjVmZmQ0ZDA3MTM2`

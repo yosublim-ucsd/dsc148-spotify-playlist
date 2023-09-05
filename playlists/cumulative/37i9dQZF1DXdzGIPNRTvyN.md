@@ -4,13 +4,13 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-140 songs - 6 hr 23 min
+141 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 | 2023-01-24 |  |
 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 | 2023-03-13 |  |
-| [Adrift \(Meditation\)](https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Adrift \(Meditation\)](https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh) | 2:25 | 2023-09-01 |  |
+| [Adrift \(Meditation\)](https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Adrift \(Meditation\)](https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh) | 2:25 | 2023-09-01 | 2023-09-05 |
 | [Allegro](https://open.spotify.com/track/36jgt8ZFkqy2nqiD8DGdSz) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegro](https://open.spotify.com/album/4eykRomPItwi8yylcsHXC9) | 2:11 | 2023-03-13 | 2023-03-21 |
 | [Alpenglow](https://open.spotify.com/track/1JDiDQ4xtzLADSb9z6BpyA) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Alpenglow](https://open.spotify.com/album/6ccaqEk1vaiZ7MD0nVL5Ck) | 2:40 | 2023-03-13 |  |
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-02-13 |  |
@@ -40,6 +40,7 @@
 | [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 | 2023-03-13 |  |
 | [Deep Canyon \- Sound Bath](https://open.spotify.com/track/0djnuIQ6iW0QIaIZRdgQaP) | [Montana Plains](https://open.spotify.com/artist/6XOiaS2D7BL25uNuKlS4nR) | [Deep Canyon \(Sound Bath\)](https://open.spotify.com/album/79kfrMA3wytdzEOsFwYdNn) | 2:01 | 2023-03-04 |  |
 | [Deepest Forest](https://open.spotify.com/track/6gyM2GlknJPPe0QxJBlPrD) | [Veronica Howland](https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC) | [Deepest Forest](https://open.spotify.com/album/75qZcZxWnplR6i29usmnke) | 2:58 | 2023-05-19 |  |
+| [Depths of Tranquility](https://open.spotify.com/track/7acCQhIsp9PU8OgE40mH2J) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Depths of Tranquility](https://open.spotify.com/album/4Z7OEe5kSSiJVV4OaXp3nu) | 2:50 | 2023-09-01 |  |
 | [Draumkennd \(Sound Bath\)](https://open.spotify.com/track/5JLxt2KCICrily1GKlmqa8) | [Arnór](https://open.spotify.com/artist/4GG0zNxPUy3DcdodxPNNoH) | [Draumkennd \(Sound Bath\)](https://open.spotify.com/album/6d4FrI1InmsQ8TpBteiPJJ) | 2:31 | 2023-03-20 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-01-24 |  |
 | [Early Morning Drizzle](https://open.spotify.com/track/5GZMPF7n2SrrOce6Ug7QWj) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Drizzle Meditation](https://open.spotify.com/album/5mx1V4QPaVfevxhDPiL3eI) | 3:19 | 2023-04-24 |  |

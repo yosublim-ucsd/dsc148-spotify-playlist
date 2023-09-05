@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"https://www.thestellarawards.com/index.html\">Stellar Award</a> winning artist <a href=\"https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e\">Pastor Mike Jr.</a>.",
-  "num_followers": 58979,
+  "num_followers": 59034,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGI4ZTg2YTc2OWQyM2MyYzRhM2QyNmMwYzljNTc3NGY1YTAxNGZl",
+  "snapshot_id": "MCw0YTAzMTM1NjZiMmYxNWQ0OGJiNjE0NDk1NDQ2MzhlZmUxOGJhNzM1",
   "tracks": [
     {
       "added_at": "2023-07-13 07:29:04",
@@ -159,6 +159,34 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 565833,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7"
       },
@@ -171,26 +199,6 @@
       "duration_ms": 188455,
       "name": "Abba",
       "url": "https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Any Attack",
-        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 113051,
-      "name": "Any Attack",
-      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -235,6 +243,26 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Any Attack",
+        "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "duration_ms": 113051,
+      "name": "Any Attack",
+      "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C"
       },
@@ -247,34 +275,6 @@
       "duration_ms": 211499,
       "name": "Cry",
       "url": "https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 565833,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "10 Years of Tasha",
         "url": "https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 418804,
       "name": "No Longer Slaves - 2023 Short Edit / Live",
       "url": "https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -495,30 +495,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Hymns (Live)",
-        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        },
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        }
-      ],
-      "duration_ms": 426733,
-      "name": "It Is Well - Live",
-      "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "More On The Way (feat. nobigdyl.)",
         "url": "https://open.spotify.com/album/6sbOyBtYzDFuhFLfunI85F"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 194565,
       "name": "More On The Way (feat. nobigdyl.)",
       "url": "https://open.spotify.com/track/6ZcFR4CvTxdEjTKwgTNcg1"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Hymns (Live)",
+        "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        },
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "duration_ms": 426733,
+      "name": "It Is Well - Live",
+      "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -635,26 +635,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
+        "name": "New",
+        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        },
-        {
-          "name": "Thi'sl",
-          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 193234,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
+      "duration_ms": 195404,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -675,22 +667,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "New",
-        "url": "https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 195404,
-      "name": "New",
-      "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 154970,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3j8SxbKhTdNXTHmHt0jJjp"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        },
+        {
+          "name": "Thi'sl",
+          "url": "https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 193234,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 187458,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/3HxJp2yggz9PmJAMV7kem2"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 166000,
       "name": "New Me",
       "url": "https://open.spotify.com/track/6brsm8V6sd9YhiWs8NqzoD"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 187458,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -951,30 +951,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "FIND MY WAY",
-        "url": "https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5"
-      },
-      "artists": [
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "AP",
-          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        }
-      ],
-      "duration_ms": 110030,
-      "name": "FIND MY WAY",
-      "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "The Moment (Live)",
         "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 131065,
       "name": "My Dey",
       "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "FIND MY WAY",
+        "url": "https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5"
+      },
+      "artists": [
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "AP",
+          "url": "https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        }
+      ],
+      "duration_ms": 110030,
+      "name": "FIND MY WAY",
+      "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "The Invitation",
         "url": "https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg"
       },
@@ -1335,18 +1319,34 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Won't Be Long Now",
-        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
         }
       ],
-      "duration_ms": 195541,
-      "name": "Won't Be Long Now",
-      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Keeper Of My Soul",
+        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
+      },
+      "artists": [
+        {
+          "name": "Earnest Pugh",
+          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Keeper Of My Soul",
+      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "Won't Be Long Now",
+        "url": "https://open.spotify.com/album/6TWsl5HF5rEzq811eQOTGc"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 195541,
+      "name": "Won't Be Long Now",
+      "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 397297,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "Keeper Of My Soul",
-        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
-      },
-      "artists": [
-        {
-          "name": "Earnest Pugh",
-          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Keeper Of My Soul",
-      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
+        "name": "I's On Him",
+        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
+      },
+      "artists": [
+        {
+          "name": "Jay Violet",
+          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 181416,
+      "name": "I's On Him",
+      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 184973,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
-        "name": "I's On Him",
-        "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
-      },
-      "artists": [
-        {
-          "name": "Jay Violet",
-          "url": "https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 181416,
-      "name": "I's On Him",
-      "url": "https://open.spotify.com/track/1oFoJ2GqMdPiszKrLq7xan"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "WES",
-        "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 114155,
-      "name": "WES",
-      "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Impossible",
         "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
       },
@@ -1607,22 +1591,18 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "PRIVILEGE",
-        "url": "https://open.spotify.com/album/4Dc7fgbSdGadbEAepsfYb3"
+        "name": "WES",
+        "url": "https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW"
       },
       "artists": [
         {
-          "name": "Experience Voices",
-          "url": "https://open.spotify.com/artist/0OYRW0ZUoU6EiaDjssH0UC"
-        },
-        {
-          "name": "A.I. The Anomaly",
-          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 188163,
-      "name": "PRIVILEGE",
-      "url": "https://open.spotify.com/track/6odGwfkWyotCgqC7deWuna"
+      "duration_ms": 114155,
+      "name": "WES",
+      "url": "https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1667,22 +1647,22 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "The Village Is On Fire",
-        "url": "https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh"
+        "name": "PRIVILEGE",
+        "url": "https://open.spotify.com/album/4Dc7fgbSdGadbEAepsfYb3"
       },
       "artists": [
         {
-          "name": "Guvna B",
-          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+          "name": "Experience Voices",
+          "url": "https://open.spotify.com/artist/0OYRW0ZUoU6EiaDjssH0UC"
         },
         {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+          "name": "A.I. The Anomaly",
+          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
         }
       ],
-      "duration_ms": 191808,
-      "name": "Amplify",
-      "url": "https://open.spotify.com/track/7JCUFszcuSHwvcj2ZjQ0T9"
+      "duration_ms": 188163,
+      "name": "PRIVILEGE",
+      "url": "https://open.spotify.com/track/6odGwfkWyotCgqC7deWuna"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1703,6 +1683,26 @@
       "duration_ms": 126029,
       "name": "He's Been Good",
       "url": "https://open.spotify.com/track/4jfLmwnaZd8RR8kVIZZnSH"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "The Village Is On Fire",
+        "url": "https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Amplify",
+      "url": "https://open.spotify.com/track/7JCUFszcuSHwvcj2ZjQ0T9"
     },
     {
       "added_at": "2023-07-13 07:29:04",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-07-13 07:29:04",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
-      },
-      "artists": [
-        {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
-        }
-      ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
-    },
-    {
-      "added_at": "2023-07-13 07:29:04",
-      "album": {
         "name": "Be My Everything (Reimagined)",
         "url": "https://open.spotify.com/album/3INyxMUu4b0eJMuQ0HkVbB"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 180375,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
+    },
+    {
+      "added_at": "2023-07-13 07:29:04",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
+      },
+      "artists": [
+        {
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
+        }
+      ],
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-07-13 07:29:04",

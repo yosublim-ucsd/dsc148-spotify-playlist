@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Tay Iwar",
-  "num_followers": 213168,
+  "num_followers": 213242,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTdhMmU1YTdjYTkxZGQwNzRmMTk1MTBjOWY0OTE1Y2RmZWMyMWZh",
+  "snapshot_id": "MCwwZmM2ZThiMGY4OTk1ZTcwOWVjM2M5YWM0M2NhZTA4ZDc3YjFjNGE5",
   "tracks": [
     {
       "added_at": "2023-08-31 22:59:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "Beautifully",
+        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 169844,
+      "name": "Beautifully",
+      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -895,38 +911,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Beautifully",
-        "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
-      },
-      "artists": [
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 169844,
-      "name": "Beautifully",
-      "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "Anabella",
-        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124076,
-      "name": "Anabella",
-      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 186382,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Anabella",
+        "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 124076,
+      "name": "Anabella",
+      "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
+        "name": "In The Rough",
+        "url": "https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        }
+      ],
+      "duration_ms": 165283,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
         "name": "I Wish (feat. Libianca)",
         "url": "https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
-        "name": "In The Rough",
-        "url": "https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        }
-      ],
-      "duration_ms": 165283,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2023-08-31 22:59:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-08-31 22:59:00",
       "album": {
-        "name": "All Over You / Mon B\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 140246,
-      "name": "All Over You",
-      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
-    },
-    {
-      "added_at": "2023-08-31 22:59:00",
-      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 150280,
       "name": "5 Star",
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
+    },
+    {
+      "added_at": "2023-08-31 22:59:00",
+      "album": {
+        "name": "All Over You / Mon B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 140246,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz"
     },
     {
       "added_at": "2023-08-31 22:59:00",

@@ -4,11 +4,12 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-197 songs - 22 hr 24 min
+198 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/track/2eI4mkTZrQMEty3AOHJBlo) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Aka Ngozi \(The Hand of God\)](https://open.spotify.com/album/7bjEV1bDmzGNRgTZhwYoDE) | 4:33 | 2023-06-09 | 2023-08-26 |
+| [Alagbara \(feat\. Lyrical HI\) \- Live](https://open.spotify.com/track/6ezGHMuG167jNieeHVEan4) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Alagbara \(feat\. Lyrical HI\) \[Live\]](https://open.spotify.com/album/0U4J6xspO4tfRebuqjlhEk) | 12:14 | 2023-09-01 |  |
 | [Alayo](https://open.spotify.com/track/6C3VOdOfte4tMLFZT3fOeH) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 4:10 | 2022-10-14 | 2022-11-05 |
 | [Almighty God](https://open.spotify.com/track/6QqMh9HOshOWh1yhsdcrXv) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Koinonia Phase I](https://open.spotify.com/album/6MdmJ0FsRgpgq3pv1wwtTX) | 10:06 | 2022-11-04 | 2023-07-28 |
 | [ALONE WITH GOD \(Spontaneous Worship\)](https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ALONE WITH GOD \(Spontaneous Worship\)](https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM) | 42:06 | 2022-12-08 |  |
@@ -125,7 +126,7 @@
 | [Nobody](https://open.spotify.com/track/6OLL50q31uu23zvlCc4MtY) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Nobody](https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6) | 2:34 | 2023-03-30 | 2023-05-26 |
 | [Nobody](https://open.spotify.com/track/1ei1YUmhJwUPZOXicTNjFW) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Nobody](https://open.spotify.com/album/2EkC0qivZmtC9WmfLrmaZV) | 5:03 | 2022-08-12 | 2023-05-26 |
 | [Not Afraid](https://open.spotify.com/track/51pxV69UzKS3P4DwZBg9ab) | [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt), [Native Tribe](https://open.spotify.com/artist/688LcLc5je2qcDEOfMcmhh), [Legend'Son](https://open.spotify.com/artist/3Ygd1SrMkrt7MXfQekhArV) | [Not Afraid](https://open.spotify.com/album/48WpEGFSh4FomU28kQzpZr) | 3:29 | 2023-08-11 | 2023-08-18 |
-| [Not Alone](https://open.spotify.com/track/4TVf5D7GwfLhB8OSNbKI35) | [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG) | [Not Alone](https://open.spotify.com/album/3QqE9qb69rQLA69j5Y4HlU) | 3:44 | 2023-08-11 |  |
+| [Not Alone](https://open.spotify.com/track/4TVf5D7GwfLhB8OSNbKI35) | [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG) | [Not Alone](https://open.spotify.com/album/3QqE9qb69rQLA69j5Y4HlU) | 3:44 | 2023-08-11 | 2023-09-05 |
 | [Nothing](https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Nothing](https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h) | 3:36 | 2023-06-02 |  |
 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 | 2023-05-26 | 2023-07-18 |
 | [Ns3nkyer3ne Nhyankopon](https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 6:43 | 2022-06-09 | 2023-04-06 |

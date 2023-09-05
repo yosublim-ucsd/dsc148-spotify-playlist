@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 566240,
+  "num_followers": 566425,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWZhYTMyNTk0NDIxNDc1NzY4ODhjNjc1MmVlNzMwZjZkNDdjYTFm",
+  "snapshot_id": "MCw2NTNiZmRjYWI3YjllOWZmMjExOGJjZWNiMWRlMDUyN2YwOTRmOWY5",
   "tracks": [
     {
       "added_at": "2023-08-30 06:53:21",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Remaja",
-      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
         "name": "Rasa Cinta Ini",
         "url": "https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Remaja",
+      "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
         "name": "Dunia Batas",
         "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
@@ -619,6 +619,42 @@
       "duration_ms": 240882,
       "name": "Resah",
       "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
+        "name": "Lelaku",
+        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 229986,
+      "name": "Aku Tenang",
+      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
+        "name": "Tempat Aku Pulang",
+        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        },
+        {
+          "name": "Thantri Sundari",
+          "url": "https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV"
+        }
+      ],
+      "duration_ms": 325946,
+      "name": "Waktu Yang Salah",
+      "url": "https://open.spotify.com/track/4qgIQcskrvj6nlypTvBm5k"
     },
     {
       "added_at": "2023-08-30 06:53:21",
@@ -639,6 +675,22 @@
       "duration_ms": 373824,
       "name": "Membasuh",
       "url": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Mata Ke Hati (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
     },
     {
       "added_at": "2023-08-30 06:53:21",
@@ -679,44 +731,8 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
-        "name": "Tempat Aku Pulang",
-        "url": "https://open.spotify.com/album/1AA1avbCE48opUmDgywTO7"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        },
-        {
-          "name": "Thantri Sundari",
-          "url": "https://open.spotify.com/artist/5jVRSr4hRxxwEFeG3uWFGV"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "Waktu Yang Salah",
-      "url": "https://open.spotify.com/track/4qgIQcskrvj6nlypTvBm5k"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
-      },
-      "artists": [
-        {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Mata Ke Hati (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
-        "name": "Lelaku",
-        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
       "artists": [
         {
@@ -724,41 +740,9 @@
           "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
         }
       ],
-      "duration_ms": 229986,
-      "name": "Aku Tenang",
-      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
-        "name": "Selamanya",
-        "url": "https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5"
-      },
-      "artists": [
-        {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Sayap Pelindungmu",
-      "url": "https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+      "duration_ms": 243413,
+      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
     },
     {
       "added_at": "2023-08-30 06:53:21",
@@ -795,18 +779,34 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+        "name": "Selamanya",
+        "url": "https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5"
       },
       "artists": [
         {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
         }
       ],
-      "duration_ms": 243413,
-      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
-      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
+      "duration_ms": 222506,
+      "name": "Sayap Pelindungmu",
+      "url": "https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-08-30 06:53:21",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
-        "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
+        "name": "Senandung Hati dan Jiwa",
+        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
       },
       "artists": [
         {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+          "name": "NaFF",
+          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
         }
       ],
-      "duration_ms": 286313,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
+      "duration_ms": 240600,
+      "name": "Kenanglah Aku",
+      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
     },
     {
       "added_at": "2023-08-30 06:53:21",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
-        "name": "Senandung Hati dan Jiwa",
-        "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
-      },
-      "artists": [
-        {
-          "name": "NaFF",
-          "url": "https://open.spotify.com/artist/1ryXwlpQNzkSCfU685Ftx5"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Kenanglah Aku",
-      "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
+        "name": "Cek Toko Sebelah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5RWbax0hn7iswKdw9FsyAe"
+      },
+      "artists": [
+        {
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        }
+      ],
+      "duration_ms": 286313,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/4reIsHKw5hUj4pV8zzMjLA"
     },
     {
       "added_at": "2023-08-30 06:53:21",
@@ -1183,46 +1183,6 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 260003,
-      "name": "Kusut",
-      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
-        "name": "Ini Bukan Nosstress",
-        "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
-      },
-      "artists": [
-        {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
-        },
-        {
-          "name": "Dadang Sh Pranoto",
-          "url": "https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3"
-        },
-        {
-          "name": "Deny Surya",
-          "url": "https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Semoga, Ya",
-      "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
-    },
-    {
-      "added_at": "2023-08-30 06:53:21",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
@@ -1243,6 +1203,22 @@
     {
       "added_at": "2023-08-30 06:53:21",
       "album": {
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 260003,
+      "name": "Kusut",
+      "url": "https://open.spotify.com/track/3diD8b3u6oEn74BezQpujj"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/0jBvMGOZkpYyBQHz6y246o"
       },
@@ -1255,6 +1231,22 @@
       "duration_ms": 282000,
       "name": "Ijinkan Aku Menyayangimu",
       "url": "https://open.spotify.com/track/108AjsNJYPMrZWecK7xNkF"
+    },
+    {
+      "added_at": "2023-08-30 06:53:21",
+      "album": {
+        "name": "Cukup Tau",
+        "url": "https://open.spotify.com/album/2HwAarbBMAvhKvBftkoJia"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "duration_ms": 205620,
+      "name": "Cukup Tau",
+      "url": "https://open.spotify.com/track/0EwVncCcoi94Bbp39Kl50L"
     }
   ],
   "unique_name": "Kopikustik",

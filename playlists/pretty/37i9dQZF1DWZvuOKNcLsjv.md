@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Yo\-Sea
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,477 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,563 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Stay Here](https://open.spotify.com/track/20jvmCAKAFKay1QLulG4hJ) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Stay Here](https://open.spotify.com/album/7846DZBi9nQC5yjpo1yh7Y) | 3:33 |
 | 100 | [SUNNY WAVES](https://open.spotify.com/track/34W3u0FE85DKi5CmHnpEK1) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [SUNNY WAVES](https://open.spotify.com/album/75PqNBTeA11HIqY23H0hkv) | 3:25 |
 
-Snapshot ID: `MCw5YzAzZDY4MjU3OTJiNWU5ZjZiM2NjMGQwOGIyMGM5MmM2ZTdjMTlh`
+Snapshot ID: `MCw4ODFiNTEyOTBmYzlhZDg1OThkNTliYWJkZjU2MjYxODM2OGE1ZDQ5`

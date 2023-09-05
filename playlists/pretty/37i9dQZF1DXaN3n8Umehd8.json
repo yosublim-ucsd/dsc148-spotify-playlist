@@ -1,12 +1,12 @@
 {
   "description": "this is my meal: gurrll dinnerrrrr \u2728",
-  "num_followers": 10860,
+  "num_followers": 10877,
   "original_name": "girl dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjdkZDBlZGRiMzI4ZTlmMjRhOTg2M2Y0MDg4YzAyZTkzNGNlMjhj",
+  "snapshot_id": "MCwxNGM1NzQyMzc1YTEwOTM0ZWIwMjc0YjkyNzk1YjI0MDgwNmY5YzEz",
   "tracks": [
     {
       "added_at": "2023-08-09 22:44:10",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-08-09 22:44:10",
       "album": {
-        "name": "Flaming Hot Cheetos",
-        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 123884,
-      "name": "Flaming Hot Cheetos",
-      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
-    },
-    {
-      "added_at": "2023-08-09 22:44:10",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 191958,
       "name": "Grapejuice",
       "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
+    },
+    {
+      "added_at": "2023-08-09 22:44:10",
+      "album": {
+        "name": "Flaming Hot Cheetos",
+        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 123884,
+      "name": "Flaming Hot Cheetos",
+      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
     },
     {
       "added_at": "2023-08-09 22:44:10",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-09 22:44:10",
       "album": {
-        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
-        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Sabor a Chocolate",
-      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
-    },
-    {
-      "added_at": "2023-08-09 22:44:10",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
+    },
+    {
+      "added_at": "2023-08-09 22:44:10",
+      "album": {
+        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
+        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
     },
     {
       "added_at": "2023-08-09 22:44:10",

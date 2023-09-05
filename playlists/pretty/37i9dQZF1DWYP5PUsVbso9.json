@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 276219,
+  "num_followers": 276437,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjI4OTBmODUxYWE2NjA3N2Q1MTIyNzQ0YTYwNTc1YWU5ZjVlYjQ2",
+  "snapshot_id": "MCw2MDE2MmJiNWJlNWIyNjEwY2ZkNmU0OTQwMjY0NGMwYWI5OGIwNjE1",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Kenny",
         "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
       },
@@ -435,22 +419,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Summertime Dream",
         "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
       },
@@ -467,18 +435,50 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Kenny Rogers",
+        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Kenny Rogers",
-        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "In Search Of A Song",
         "url": "https://open.spotify.com/album/7896HKNHKgVnuiOh401iX2"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 164720,
       "name": "The Year That Clayton Delaney Died",
       "url": "https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 145946,
-      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Honky Tonk Girl: The Loretta Lynn Collection",
         "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 154560,
       "name": "You're The Reason Our Kids Are Ugly",
       "url": "https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 145946,
+      "name": "Drinkin' My Baby (Off My Mind) - 2009 Remaster",
+      "url": "https://open.spotify.com/track/0aH37hHD9bgClsjGngV974"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "If You Love Me, Let Me Know",
         "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
       },
@@ -1475,34 +1491,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "The Essential Jerry Reed",
+        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Jerry Reed",
+          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
         }
       ],
-      "duration_ms": 146733,
-      "name": "It Must Be Love - Single Version",
-      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Anniversary (Ten Years Of Hits)",
-        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Her Name Is...",
-      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
+      "duration_ms": 139560,
+      "name": "When You're Hot, You're Hot",
+      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
+        "name": "Anniversary (Ten Years Of Hits)",
+        "url": "https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb"
       },
       "artists": [
         {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 139560,
-      "name": "When You're Hot, You're Hot",
-      "url": "https://open.spotify.com/track/6sykijVtS1m8vxLnkKXrJ5"
+      "duration_ms": 138800,
+      "name": "Her Name Is...",
+      "url": "https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 192040,
-      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
-      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
+      "duration_ms": 168360,
+      "name": "Some Broken Hearts Never Mend - Single Version",
+      "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1583,6 +1583,38 @@
       "duration_ms": 157933,
       "name": "'Til I Get It Right",
       "url": "https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "New Kind Of Feeling",
+        "url": "https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "I Just Fall In Love Again",
+      "url": "https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1607,50 +1639,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "New Kind Of Feeling",
-        "url": "https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG"
+        "name": "Love In The Hot Afternoon",
+        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
         }
       ],
-      "duration_ms": 171640,
-      "name": "I Just Fall In Love Again",
-      "url": "https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "The Essential Jerry Reed",
-        "url": "https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Reed",
-          "url": "https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF"
-        }
-      ],
-      "duration_ms": 167706,
-      "name": "East Bound and Down",
-      "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Some Broken Hearts Never Mend - Single Version",
-      "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
+      "duration_ms": 199400,
+      "name": "Love In The Hot Afternoon",
+      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
     }
   ],
   "unique_name": "70s Country",

@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 105161,
+  "num_followers": 105194,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDJkOTRkOTMyMzRjNzk3YTdhZTY2MzM5OTljOWZjZWNiMDdhMGRl",
+  "snapshot_id": "MCwyYjE4ODMzNDhhN2ZmYzczNTZlY2VmMWMwYjg1YjMwMjA1MDBjZDQ0",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "BOY / if u wanna cry",
-        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
-        }
-      ],
-      "duration_ms": 183204,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "The Time Is Right",
         "url": "https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 253793,
       "name": "Colours Of My Mind",
       "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "BOY / if u wanna cry",
+        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 183204,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
-      },
-      "artists": [
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 498001,
       "name": "Inperspect",
       "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
+      },
+      "artists": [
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Please Keep Shimmering",
+        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
+      },
+      "artists": [
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "duration_ms": 263842,
+      "name": "Keep Shimmering",
+      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "The Corner",
         "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 329784,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Poly 61",
         "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 273300,
       "name": "Poly 61",
       "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 329784,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -663,18 +679,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Please Keep Shimmering",
-        "url": "https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
       },
       "artists": [
         {
-          "name": "Tom VR",
-          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 263842,
-      "name": "Keep Shimmering",
-      "url": "https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz"
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -691,22 +707,6 @@
       "duration_ms": 287542,
       "name": "Take Them",
       "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-08-31 14:00:00",

@@ -4,7 +4,7 @@
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-73 songs - 5 hr 36 min
+74 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 | 2022-05-19 |  |
 | [Available Space](https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Ry Cooder](https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd) | 2:14 | 2022-05-19 |  |
 | [Bad Girl Blues](https://open.spotify.com/track/6ggPB95qGDTzT6orcg2d8r) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree](https://open.spotify.com/album/6dVzmBcjw1033jfE8erIH4) | 4:34 | 2022-05-19 | 2022-07-29 |
-| [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 | 2022-05-19 |  |
+| [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 | 2022-05-19 | 2023-09-05 |
 | [Bad To The Bone](https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [BAD TO THE BONE](https://open.spotify.com/album/2YeoeDa3soxjD4ANZGG1fj) | 4:52 | 2022-05-19 |  |
 | [Catch Hell Blues](https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:18 | 2022-05-19 |  |
 | [Congo Square](https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [South Of I\-10](https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO) | 6:20 | 2022-05-19 |  |
@@ -50,6 +50,7 @@
 | [In Your Town](https://open.spotify.com/track/0hpEjUitGCNeB1eCm4qVLC) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Deuce \(Remastered 2011\)](https://open.spotify.com/album/2vg4k5WyjnfbxcyyOlrIOK) | 5:45 | 2022-05-19 | 2022-07-29 |
 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:20 | 2023-01-16 |  |
 | [Jack Of Diamonds](https://open.spotify.com/track/2lRhXplPuIHZ067e2WIllb) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood \(Bonus Track Version\)](https://open.spotify.com/album/6IJNUyigUfK3n8nPMavgaL) | 4:12 | 2022-05-19 | 2023-08-23 |
+| [Jack Of Diamonds](https://open.spotify.com/track/7zNPzW0wjmeZXtALBAwBM7) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood \(Bonus Track Version\)](https://open.spotify.com/album/5CHhtV2aaZ30s7LKKTO7OC) | 4:12 | 2023-01-16 |  |
 | [Jessica](https://open.spotify.com/track/2tVQhBSJ1SQtb4gX0taaiR) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 7:30 | 2022-05-19 |  |
 | [Just Got Paid](https://open.spotify.com/track/7bNFkCSO1ofu3uzr6voY7T) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 4:27 | 2022-05-19 |  |
 | [Living On Death Row](https://open.spotify.com/track/1iq6EiS1cpMM6881DyHZlY) | [Ben Hemming](https://open.spotify.com/artist/5zRxZcc8PFj6QlgbQoc04g) | [Living On Death Row](https://open.spotify.com/album/2Ih4qCEgwESdt3Au8I8RSp) | 3:22 | 2022-05-19 | 2022-07-28 |

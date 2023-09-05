@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Helena Deland
 
-556 songs - 1 day 9 hr 56 min
+557 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 | 2022-11-25 | 2023-01-06 |
 | [Better Somehow](https://open.spotify.com/track/2XOiVanXYsxeYy9eYtb9nX) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Better Somehow](https://open.spotify.com/album/2PB1n9ej3Ib53qDVmVpeXT) | 3:58 | 2023-06-02 | 2023-07-08 |
 | [Bird Without Wings](https://open.spotify.com/track/04anQtHIm8VdSINRrpijHq) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Rarities](https://open.spotify.com/album/7dHICPrlwTqefBtmCIkwpv) | 4:01 | 2022-11-25 | 2022-12-10 |
-| [Black & Thunder](https://open.spotify.com/track/67o1YjulbnuP5zSAuCKuFN) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Black & Thunder](https://open.spotify.com/album/5KyfBZXbi33Sl7Zn426t8L) | 5:01 | 2023-06-30 |  |
+| [Black & Thunder](https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 5:01 | 2023-09-01 |  |
+| [Black & Thunder](https://open.spotify.com/track/67o1YjulbnuP5zSAuCKuFN) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Black & Thunder](https://open.spotify.com/album/5KyfBZXbi33Sl7Zn426t8L) | 5:01 | 2023-06-30 | 2023-09-05 |
 | [Bleeding Out](https://open.spotify.com/track/7BhOH16ud5ybFUeP3wwhby) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Bleeding Out](https://open.spotify.com/album/5L2DEAJlqzC09OEPl4Ww97) | 3:28 | 2023-01-20 | 2023-05-27 |
 | [Blissful Lands](https://open.spotify.com/track/2RjmK199jrWZFYn6Z8tLbP) | [Martin Kerr](https://open.spotify.com/artist/3Qg69CFtPUh3Uu14OfjV2t) | [Blissful Lands](https://open.spotify.com/album/6ukumm320OMDbQmN8SHnJS) | 2:59 | 2023-03-17 | 2023-04-29 |
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2022-05-13 | 2022-05-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Doja Cat, Rod Wave and Lil Wayne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,606,856 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,608,084 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [TESLA](https://open.spotify.com/track/4NQfLaqLd1Fms4UTkkTj7J) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [TESLA](https://open.spotify.com/album/5mLthYPpxVlV9E6QPlVVZt) | 2:44 |
 | 50 | [Call Your Friends](https://open.spotify.com/track/1c926G7no7KCvt717X6rgZ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Call Your Friends](https://open.spotify.com/album/7EXikv3Oyrkz5QKPS6CLt4) | 2:33 |
 
-Snapshot ID: `MCwzNjVmMDM4NTEwZTliNGUwZTYxYjE1NzhhZGM2YTNiMGYyN2RkY2E0`
+Snapshot ID: `MCwzNjBkMzgxMmY2ZTlmNTkzNjFiZDU3N2U1OTViYzFlODhmODRhZDI5`

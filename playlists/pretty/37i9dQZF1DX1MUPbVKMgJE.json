@@ -1,12 +1,12 @@
 {
   "description": "All your Disco favorites. Cover: Donna Summer",
-  "num_followers": 1519703,
+  "num_followers": 1519981,
   "original_name": "Disco Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjFiMDM1OGNkOTAzMDcxOWYwNzQ0YWYyN2NiZjhlZGNlNmE4Njky",
+  "snapshot_id": "MCwyZWMyMWVkN2QyYzJmMTk0ZTBkYzdkZWI2ZmE5Y2Y1OTExMTc4MGZk",
   "tracks": [
     {
       "added_at": "2022-08-31 15:13:54",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
         "name": "The Soul of the Kung Fu Fighter",
         "url": "https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX"
       },
@@ -319,38 +335,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
         "url": "https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 198066,
       "name": "I Will Survive - Single Version",
       "url": "https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "Success",
-        "url": "https://open.spotify.com/album/04tDE69ZArhHkFaZzRNOrt"
-      },
-      "artists": [
-        {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-        }
-      ],
-      "duration_ms": 325426,
-      "name": "It's Raining Men",
-      "url": "https://open.spotify.com/track/2IvetNzSZMH5gwjInoyr18"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/5GucSY3249qHDx4v1Hcxry"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/4T5Y25pWs2pVZVcFIqFuf8"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Success",
+        "url": "https://open.spotify.com/album/04tDE69ZArhHkFaZzRNOrt"
+      },
+      "artists": [
+        {
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
+        }
+      ],
+      "duration_ms": 325426,
+      "name": "It's Raining Men",
+      "url": "https://open.spotify.com/track/2IvetNzSZMH5gwjInoyr18"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "In The Pocket",
-        "url": "https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 293226,
-      "name": "Lady (You Bring Me Up)",
-      "url": "https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
         "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 199800,
       "name": "Last Dance - Single Version",
       "url": "https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "In The Pocket",
+        "url": "https://open.spotify.com/album/2VZu6gvY1Z8Kx4WtAbb7UG"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 293226,
+      "name": "Lady (You Bring Me Up)",
+      "url": "https://open.spotify.com/track/5CLozJK4pKWoPpFf2Z1Mye"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -635,6 +635,22 @@
       "duration_ms": 385506,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -735,22 +751,6 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
         "name": "The Whispers: Greatest Hits",
         "url": "https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 454253,
       "name": "And the Beat Goes On",
       "url": "https://open.spotify.com/track/7oQ1wkBmYSBEC2x7U08dvn"
+    },
+    {
+      "added_at": "2022-08-31 15:13:54",
+      "album": {
+        "name": "Love To Love You Baby",
+        "url": "https://open.spotify.com/album/210folYgKMSZAz4IiqDnmy"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1008533,
+      "name": "Love To Love You Baby",
+      "url": "https://open.spotify.com/track/6Szw3sQC5Zssr15AJsUY9J"
     },
     {
       "added_at": "2022-08-31 15:13:54",
@@ -783,34 +799,18 @@
     {
       "added_at": "2022-08-31 15:13:54",
       "album": {
-        "name": "KC & the Sunshine Band... and More",
-        "url": "https://open.spotify.com/album/6ufis2iWp3hrox9QJfg5Jq"
+        "name": "Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/388S3dsftPqG1nwgauItcx"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 317106,
-      "name": "Get Down Tonight",
-      "url": "https://open.spotify.com/track/4msPRe3NEDVL6dsBcE7AhL"
-    },
-    {
-      "added_at": "2022-08-31 15:13:54",
-      "album": {
-        "name": "A Taste Of Honey",
-        "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
-      },
-      "artists": [
-        {
-          "name": "ATaste Of Honey",
-          "url": "https://open.spotify.com/artist/36QtaDX43dspq1RBpANmTD"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Boogie Oogie Oogie",
-      "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo"
+      "duration_ms": 402693,
+      "name": "Everybody Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr"
     }
   ],
   "unique_name": "Disco Forever",

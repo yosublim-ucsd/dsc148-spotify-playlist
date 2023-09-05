@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. María Becerra en portada.
 
-126 songs - 6 hr 46 min
+128 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Febrero Azul](https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Febrero Azul](https://open.spotify.com/album/1VrhwgwkE6jjjJcweMdSoY) | 3:34 | 2022-04-25 |  |
 | [flores](https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [juan punto](https://open.spotify.com/artist/3JwWTwioPLjSKlnzv2vZzW) | [flores](https://open.spotify.com/album/3oBilaX7gnZ5RJreXT7DNj) | 2:27 | 2023-03-10 |  |
 | [Frío](https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Frío](https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN) | 2:25 | 2023-06-16 |  |
+| [Gracias](https://open.spotify.com/track/1aIJvWbKGJYzGqE1Y2Q1N6) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Gracias](https://open.spotify.com/album/6faJS4UNFHTcJ1LkPPuGbL) | 2:46 | 2023-09-04 |  |
 | [GRACIAS POR NADA](https://open.spotify.com/track/7dinxNQg4Pfl2ahvMRenBQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GRACIAS POR NADA](https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr) | 3:39 | 2022-04-25 |  |
 | [Hablando De Love](https://open.spotify.com/track/74aGIoQo8pokxzylUTw603) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hablando De Love](https://open.spotify.com/album/45Uc1E3MBmk84QvHES0Zn5) | 2:36 | 2022-04-25 |  |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2022-04-25 |  |
@@ -100,6 +101,7 @@
 | [Otra Cosa](https://open.spotify.com/track/6x9R4S1aazZdd40qO4PMFa) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Otra Cosa](https://open.spotify.com/album/2eSm1XW0wbnObahsf5Dtr1) | 3:12 | 2022-04-25 |  |
 | [Pa Quererte](https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Eclipse](https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD) | 2:52 | 2023-05-05 | 2023-07-22 |
 | [Para Qué Regresas](https://open.spotify.com/track/29R2zvgyIWqAerVBq1JWsl) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Para Qué Regresas](https://open.spotify.com/album/6NBM3RbIBcoezqh5A4hev8) | 2:28 | 2022-04-25 |  |
+| [PARA SIEMPRE](https://open.spotify.com/track/0xvaM53zDst3zcIpcNc37M) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [PARA SIEMPRE](https://open.spotify.com/album/10c4dLSQaTsSkmXLNBZGuK) | 3:28 | 2023-09-04 |  |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2022-04-25 |  |
 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 | 2022-04-25 |  |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-04-25 |  |

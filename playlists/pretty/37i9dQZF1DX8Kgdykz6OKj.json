@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1166205,
+  "num_followers": 1166655,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmQxYTJjNzVhOTM4NzgwMmEzZjliYWE1NDRjNTA3N2M5NmQwOTI3",
+  "snapshot_id": "MCwxOGNiNzIzN2MwM2Q3N2E1Nzg3NmNiYWVmYTMwZjMyYjNlOWVhZmFm",
   "tracks": [
     {
       "added_at": "2023-08-31 22:00:00",
@@ -471,30 +471,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Dear Annie",
-        "url": "https://open.spotify.com/album/0zjfO1k7RSkLnJz9AeEORl"
-      },
-      "artists": [
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Egyptian Luvr",
-      "url": "https://open.spotify.com/track/78DC9wd9Qrikw4jWllFAvM"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Metaphorical Music",
         "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 203706,
       "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
       "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Dear Annie",
+        "url": "https://open.spotify.com/album/0zjfO1k7RSkLnJz9AeEORl"
+      },
+      "artists": [
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Egyptian Luvr",
+      "url": "https://open.spotify.com/track/78DC9wd9Qrikw4jWllFAvM"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 260693,
-      "name": "Dog It",
-      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 258933,
       "name": "Doin' Our Own Dang",
       "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 260693,
+      "name": "Dog It",
+      "url": "https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -775,22 +775,6 @@
       "duration_ms": 253068,
       "name": "2000 Seasons",
       "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 328573,
       "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
       "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Guapanese",
-        "url": "https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 144140,
-      "name": "Guapanese",
-      "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Jagged Tooth Crook",
         "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Guapanese",
+        "url": "https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "Helping Hands",
         "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 209613,
       "name": "The Circle",
       "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
-      },
-      "artists": [
-        {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Memories Live",
-      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1235,22 +1219,18 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
       "artists": [
         {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
         }
       ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
+      "duration_ms": 238573,
+      "name": "Memories Live",
+      "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1271,6 +1251,26 @@
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1507,6 +1507,50 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
+        "name": "Eddie",
+        "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        },
+        {
+          "name": "Jon Connor",
+          "url": "https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x"
+        }
+      ],
+      "duration_ms": 242747,
+      "name": "Go So Far",
+      "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1539,30 +1583,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Eddie",
-        "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
-      },
-      "artists": [
-        {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
-        },
-        {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
-        },
-        {
-          "name": "Jon Connor",
-          "url": "https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x"
-        }
-      ],
-      "duration_ms": 242747,
-      "name": "Go So Far",
-      "url": "https://open.spotify.com/track/7q2H0gVB35EQgn8vXS3kw3"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "Bring Backs",
         "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 276252,
       "name": "Organic Rust",
       "url": "https://open.spotify.com/track/4HtCMJaTUdrtgBtVEL2W42"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
-        }
-      ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2023-08-31 22:00:00",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2023-08-31 22:00:00",
       "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2023-08-31 22:00:00",
-      "album": {
         "name": "New Day (feat. Illa J)",
         "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+    },
+    {
+      "added_at": "2023-08-31 22:00:00",
+      "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2023-08-31 22:00:00",

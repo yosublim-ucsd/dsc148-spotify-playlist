@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Tri en portada. ",
-  "num_followers": 1009060,
+  "num_followers": 1009242,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQ0MzQ4ZmVlZjhhMDEyYTJkMTExZTdmN2M1MDM3MjMzMzVhZjQ1",
+  "snapshot_id": "MCxmNTFiNzg3NDk3ZWNiNTNmODIwNDZlN2MyYTg2N2MyOTlmOTQxMGIz",
   "tracks": [
     {
       "added_at": "2023-09-01 18:52:09",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
         "name": "Defecto Perfecto",
         "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
       },
@@ -459,22 +479,6 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 160786,
-      "name": "El Colmo",
-      "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -487,26 +491,6 @@
       "duration_ms": 245481,
       "name": "C\u00edrculo De Amor",
       "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -527,6 +511,22 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 160786,
+      "name": "El Colmo",
+      "url": "https://open.spotify.com/track/1devU3Tqs5bMqo1GtWQhoa"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
         "name": "PRISMARAMA",
         "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Soun Tha Mi Primer Amor - Remastered",
+      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
         "name": "Desde Cero",
         "url": "https://open.spotify.com/album/7dbBLrH3VJ3zrKHkL6vtUa"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+        "name": "Vivir As\u00ed Es Morir de Amor",
+        "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
       },
       "artists": [
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Soun Tha Mi Primer Amor - Remastered",
-      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+      "duration_ms": 220493,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -951,38 +967,6 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "Vivir As\u00ed Es Morir de Amor",
-        "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Vivir As\u00ed Es Morir de Amor",
-      "url": "https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 232253,
-      "name": "Sin Rencor",
-      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
         "name": "Tijuana Sound Machine (Nortec Collective Presents: Bostich+Fussible)",
         "url": "https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 278934,
       "name": "\u00c9l No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "Sin Rencor",
+      "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "Mienten",
-        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 277077,
-      "name": "Se\u00f1al",
-      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
         "name": "Lamento Boliviano",
         "url": "https://open.spotify.com/album/4832tSPhuJCtT46DCaGiGR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 243338,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/69xAODJbGD64reFIgp8MxX"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
+        "name": "Mienten",
+        "url": "https://open.spotify.com/album/235Wl5n7jidt5DZCMobnlR"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 277077,
+      "name": "Se\u00f1al",
+      "url": "https://open.spotify.com/track/3wbNcSSX8ipuqDEvuSkL6W"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "!!Puro Macanazo!!",
-        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
         "name": "Botas Negras",
         "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
+        "name": "!!Puro Macanazo!!",
+        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
         "name": "Hay Una Cobra En Mi Sopa",
         "url": "https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 140976,
       "name": "Hay Una Cobra En Mi Sopa",
       "url": "https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 241813,
+      "name": "La Locomotora - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2023-09-01 18:52:09",
       "album": {
-        "name": "Un Segundo MTV Unplugged",
-        "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "La Locomotora - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3W7ctGaVvHy2bIPQaNjKgA"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
         "name": "Tropiplop",
         "url": "https://open.spotify.com/album/2VFu8zHWiB5VtctWZp8SfG"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 264030,
       "name": "En la Ciudad de la Furia",
       "url": "https://open.spotify.com/track/27gtnNdE3iEcCA0Uu1IhNg"
-    },
-    {
-      "added_at": "2023-09-01 18:52:09",
-      "album": {
-        "name": "Surf Club",
-        "url": "https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL"
-      },
-      "artists": [
-        {
-          "name": "Fenomeno Fuzz",
-          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
-        }
-      ],
-      "duration_ms": 101776,
-      "name": "Surf Club",
-      "url": "https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr"
     },
     {
       "added_at": "2023-09-01 18:52:09",
@@ -1687,6 +1671,22 @@
       "duration_ms": 311200,
       "name": "Vivo - Pastel - En Vivo",
       "url": "https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4"
+    },
+    {
+      "added_at": "2023-09-01 18:52:09",
+      "album": {
+        "name": "Surf Club",
+        "url": "https://open.spotify.com/album/6VY5SB42zlUxmSKWzTnboL"
+      },
+      "artists": [
+        {
+          "name": "Fenomeno Fuzz",
+          "url": "https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc"
+        }
+      ],
+      "duration_ms": 101776,
+      "name": "Surf Club",
+      "url": "https://open.spotify.com/track/3U9tg87S49ITl5vULKvpVr"
     },
     {
       "added_at": "2023-09-01 18:52:09",

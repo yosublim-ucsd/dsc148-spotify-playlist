@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Adnan Dhool
 
-200 songs - 11 hr 19 min
+201 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2022-09-01 |  |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-05-20 |  |
 | [Khaak](https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:34 | 2023-07-24 |  |
+| [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 | 2023-09-04 |  |
 | [Khidki](https://open.spotify.com/track/7IQFxMLXpmhy1siz2Ucfl3) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT), [Harpreet](https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb) | [Khidki](https://open.spotify.com/album/6r12VYHgQOjtsJxhJGKLeQ) | 3:34 | 2023-01-20 | 2023-04-29 |
 | [Khoya](https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1), [Aseem](https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1) | [Khoya](https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA) | 2:58 | 2023-01-12 |  |
 | [Khoya Khoya](https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khoya Khoya](https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb) | 3:31 | 2023-07-24 |  |
@@ -115,7 +116,7 @@
 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 | 2023-05-22 |  |
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2023-04-28 |  |
 | [Left Right](https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Left Right](https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp) | 3:16 | 2023-04-28 |  |
-| [Mai Ni Meriye](https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Mai Ni Meriye](https://open.spotify.com/album/0ihCuXL4ZcE0FKqRwyithU) | 2:52 | 2023-04-28 |  |
+| [Mai Ni Meriye](https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Mai Ni Meriye](https://open.spotify.com/album/0ihCuXL4ZcE0FKqRwyithU) | 2:52 | 2023-04-28 | 2023-09-05 |
 | [Makhmal](https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Makhmal](https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx) | 3:17 | 2022-09-01 | 2022-12-29 |
 | [Marijuana](https://open.spotify.com/track/1C9DajYq19423BwN85bNf0) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 3:06 | 2023-04-28 |  |
 | [Maybe?](https://open.spotify.com/track/6snNUMOI96RDQ54NsTInt7) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Maybe?](https://open.spotify.com/album/6xKqQRNxkMdUSU3UXixtUI) | 2:34 | 2022-05-20 | 2023-02-07 |

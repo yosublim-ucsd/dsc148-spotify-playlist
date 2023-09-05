@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "I Am Human",
+        "url": "https://open.spotify.com/album/2otpfrHaD6vNXhQPvAbJIU"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187371,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/0lKNxyT9fCChvnnjthRVkb"
+    },
+    {
+      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/0xpSM1rZxOJZR3o5kpcfQE"
       },
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 212893,
       "name": "Get By",
       "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"

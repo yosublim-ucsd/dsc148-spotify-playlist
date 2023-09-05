@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: SPIRIT OF THE BEEHIVE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,801 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,846 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 | 100 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 
-Snapshot ID: `MCw5YTY1OTMyNzNjNWI4YWVjYjBkMjcyYjc2YjdhY2YxMzIyZTA0Y2Ew`
+Snapshot ID: `MCwzNzBiNDZiN2JhOWVhOGQxNDgyMTg4NmMxNjMzMmQ2NGQ5Mzc5ZmMx`

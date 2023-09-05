@@ -40,7 +40,7 @@
 | [احبة ربى صنعاء](https://open.spotify.com/track/4hdY4pbFcEMFA0mafgakFW) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [احبة ربى صنعاء](https://open.spotify.com/album/5nuV7bTYDBlgTukJg2aVqf) | 12:15 | 2021-09-30 |  |
 | [احبك والدموع تشهد](https://open.spotify.com/track/5FRR2LmmyjAs9Fm7n05cf6) | [AyoubTaresh \| ايوب طارش](https://open.spotify.com/artist/3zcjXM508SghJhOZ8TN20F) | [عاد لي ودي](https://open.spotify.com/album/0vKktZfQyVIHDGR2Pd18CI) | 9:59 | 2022-07-27 | 2022-11-24 |
 | [افا عليك](https://open.spotify.com/track/5BSLLQTgC8ZWPNNtQ38iK3) | [Ahmed Alwi](https://open.spotify.com/artist/4lvCiUpjys3gvBk1qpK6Z0) | [افا عليك](https://open.spotify.com/album/3OK7HxtdSD9GTB7e85I5bY) | 4:33 | 2021-09-30 | 2023-07-16 |
-| [الحب مرة](https://open.spotify.com/track/34mjeaxGP6p6MWDTEnX81I) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [شفقدك](https://open.spotify.com/album/6vOiseLRxaKHLE2rdsOYjT) | 5:29 | 2021-09-30 |  |
+| [الحب مرة](https://open.spotify.com/track/34mjeaxGP6p6MWDTEnX81I) | [Yahya Rassam](https://open.spotify.com/artist/5i5MhtJPyyrHIAqT97DTPd) | [شفقدك](https://open.spotify.com/album/6vOiseLRxaKHLE2rdsOYjT) | 5:29 | 2021-09-30 | 2023-09-05 |
 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 | 2021-09-30 |  |
 | [الف انا الف](https://open.spotify.com/track/1z04QcrdC5719bRiTbB1RV) | [Mohamed Hammoud Al Harthy](https://open.spotify.com/artist/6z9RD3uY6YRNvnkMcecYek) | [الف انا الف](https://open.spotify.com/album/430Xh2jplLQRh4xOmFlK8a) | 9:06 | 2021-09-30 | 2022-07-29 |
 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 | 2021-09-30 |  |
@@ -71,6 +71,6 @@
 | [ياطير في عالي الغصون](https://open.spotify.com/track/7lft2qvHsmL1P06YcFLN7C) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 5:40 | 2021-09-30 |  |
 | [يالبعيد](https://open.spotify.com/track/2AytFH0o2V70r3kVvXYaUc) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [يالبعيد](https://open.spotify.com/album/2rBW5WEEjeirM99VclLcVV) | 6:21 | 2021-09-30 |  |
 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 | 2021-09-30 |  |
-| [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 | 2021-09-30 | 2023-08-15 |
+| [يهددني](https://open.spotify.com/track/210bnFRVRTGdBJ1kt7DseV) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [يهددني](https://open.spotify.com/album/5La0nvvmt7Tcq2JZCs2gmE) | 3:02 | 2021-09-30 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

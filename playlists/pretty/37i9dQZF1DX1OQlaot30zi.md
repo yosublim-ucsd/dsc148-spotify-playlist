@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Yung Snapp, Guè e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,695 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,742 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 74 | [No Story](https://open.spotify.com/track/0roUyvdzF9bRJChVrjNXYb) | [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3) | [No Story](https://open.spotify.com/album/6BF2gF1NZNMGSNPyrKFps7) | 3:10 |
 | 75 | [Visa](https://open.spotify.com/track/0H8DXivg0BpsmcC3X9ZYin) | [Novantuno](https://open.spotify.com/artist/16gBTQVgiH0BNLSuCR0NCI) | [Visa](https://open.spotify.com/album/6kIbpmd8LF8ZWZEvFGRfvk) | 1:28 |
 
-Snapshot ID: `MCw5YWQwYmQ0ZjJkMTRjZGM1NTVjZjE0NjZmNzQ5NjBkYmQyYTYyY2Vi`
+Snapshot ID: `MCw1ZjFmMWJlNTI4YzJmMzdhZTVmNTQ3ODVkOWRhNWVkNzA0ZjAxYTI0`

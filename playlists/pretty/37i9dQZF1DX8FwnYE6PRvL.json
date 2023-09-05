@@ -1,12 +1,12 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2336803,
+  "num_followers": 2337180,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjJlNTJmNDUyZTRiMmYyZDY0MDhlNDcxNmY0OTQ2ZDExYzdmM2Ji",
+  "snapshot_id": "MCwyMzc2ZDU0N2IxODllZTI4MGRiMTYyNzYxMThiZWVhOTg4ZTY1MzMw",
   "tracks": [
     {
       "added_at": "2023-07-25 07:56:27",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 210173,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Jailbreak (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "I Bet You Look Good On The Dancefloor",
-      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1271,22 +1271,6 @@
       "duration_ms": 219666,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
-    },
-    {
-      "added_at": "2023-07-25 07:56:27",
-      "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2023-07-25 07:56:27",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2023-07-25 07:56:27",
@@ -1335,6 +1319,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2023-07-25 07:56:27",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
       "added_at": "2023-07-25 07:56:27",

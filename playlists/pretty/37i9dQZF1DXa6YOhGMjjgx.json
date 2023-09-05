@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 475572,
+  "num_followers": 475587,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTU0ZmIyYjE3MjRiM2M5YjcxYzM5YWQ5ZWYwODI3MWIzYzU2ZDFh",
+  "snapshot_id": "MCxkOWFhMGFhNzMyYjY3NjM5MWNhNTQ1MmJkZDRjNjI3YjA2Y2Y3ZGQz",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Gila Monster",
-        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 275774,
-      "name": "Gila Monster",
-      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "-!- (Deluxe)",
         "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 261680,
       "name": "I Never Loved Myself Like I Loved You",
       "url": "https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Gila Monster",
+        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 275774,
+      "name": "Gila Monster",
+      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Leader of the Pack",
-        "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "Leader of the Pack",
-      "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Sleeping On The Ceiling",
         "url": "https://open.spotify.com/album/55FNjy6hxbZm9hV0iphC98"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 118200,
       "name": "Sleeping On The Ceiling",
       "url": "https://open.spotify.com/track/2vfGITBrVJaPYSgKaKJv9Z"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Leader of the Pack",
+        "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Leader of the Pack",
+      "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -631,6 +631,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "I LOVE YOU, ROBOT SUPERSTAR!",
+        "url": "https://open.spotify.com/album/6H1bdNIAmVXS5s4FZfDEJf"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        },
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Poison or Patience (feat. OSTON)",
+      "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Myopic",
         "url": "https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 233312,
       "name": "Space Invader",
       "url": "https://open.spotify.com/track/43DIL3TsfKObMfMGVRNC8z"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "I LOVE YOU, ROBOT SUPERSTAR!",
-        "url": "https://open.spotify.com/album/6H1bdNIAmVXS5s4FZfDEJf"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        },
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Poison or Patience (feat. OSTON)",
-      "url": "https://open.spotify.com/track/6MYZ8x04XIEdFNg3rKAD5v"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Superglue (Vevo DSCVR)",
+        "url": "https://open.spotify.com/album/6ysCt6q2kORt5JMdPOonD1"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1WvyvGWoB0IprROWOnj711"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 232906,
       "name": "We Are Between",
       "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Superglue (Vevo DSCVR)",
-        "url": "https://open.spotify.com/album/6ysCt6q2kORt5JMdPOonD1"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1WvyvGWoB0IprROWOnj711"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 189000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/0nh29E71VEHJD8HxMyckVf"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Right After I Smoke This...",
-        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
-      },
-      "artists": [
-        {
-          "name": "Webbed Wing",
-          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
-        }
-      ],
-      "duration_ms": 142760,
-      "name": "Medication",
-      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Rafters",
         "url": "https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 229637,
       "name": "Rafters",
       "url": "https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Right After I Smoke This...",
+        "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
+      },
+      "artists": [
+        {
+          "name": "Webbed Wing",
+          "url": "https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI"
+        }
+      ],
+      "duration_ms": 142760,
+      "name": "Medication",
+      "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 127093,
       "name": "Choking",
       "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Joiner",
-        "url": "https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 239675,
-      "name": "Joiner",
-      "url": "https://open.spotify.com/track/1y19yprweVojkuEr954I0G"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 172495,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Joiner",
+        "url": "https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 239675,
+      "name": "Joiner",
+      "url": "https://open.spotify.com/track/1y19yprweVojkuEr954I0G"
     },
     {
       "added_at": "2023-06-30 04:01:00",

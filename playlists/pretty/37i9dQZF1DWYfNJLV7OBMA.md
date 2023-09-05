@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- La Signore
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,937 likes - 85 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,971 likes - 85 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 84 | [Gaawin Ma](https://open.spotify.com/track/59hCd7fy2DNcC9RPKMlbLq) | [Dilo](https://open.spotify.com/artist/7lrGPpmDUbhyg2DE8dD8cJ) | [Gaawin Ma](https://open.spotify.com/album/5CP8PcLjptg1A6IIE6nJYJ) | 2:24 |
 | 85 | [Pawela Kodu Akase](https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe) | [Thilina Ruhunage](https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn), [Samitha Mudunkotuwa](https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c) | [Pawela Kodu Akase](https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d) | 3:57 |
 
-Snapshot ID: `MCxhNjUzOTgyNjQ5NjI3MDBhNWZiYzUzZmRjM2E1ZmJmMGE1MTdkMmUy`
+Snapshot ID: `MCxkMjNmYzc5ZTlmZDFkNTI3NTkzZjk0MWRhMzY0YWM4NDMwYmZkN2Ew`

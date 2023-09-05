@@ -8554,7 +8554,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 197333,
       "name": "Changes In Latitudes, Changes In Attitudes",
       "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
@@ -9736,7 +9736,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 191733,
       "name": "Come Monday",
       "url": "https://open.spotify.com/track/0yje3JVMgJNZENayymCTHA"
@@ -24637,6 +24637,28 @@
     },
     {
       "album": {
+        "name": "Greatest Hits Volume II",
+        "url": "https://open.spotify.com/album/0tFm46KzjtCgyyfD8iCaiJ"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229800,
+      "name": "It's Five O'Clock Somewhere",
+      "url": "https://open.spotify.com/track/7KysI43rsjlhjTeWO6ePUq"
+    },
+    {
+      "album": {
         "name": "Playlist: The Very Best Of Alan Jackson",
         "url": "https://open.spotify.com/album/2QyJV0fOANPc6gRUFPeVe0"
       },
@@ -24652,7 +24674,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 230266,
       "name": "It's Five O'Clock Somewhere",
       "url": "https://open.spotify.com/track/07KYRDFf8Q6sqj4PWCP9vh"
@@ -25028,7 +25050,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -37938,7 +37960,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -43940,7 +43962,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 171655,
       "name": "Single Soon",
       "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
@@ -47660,7 +47682,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"

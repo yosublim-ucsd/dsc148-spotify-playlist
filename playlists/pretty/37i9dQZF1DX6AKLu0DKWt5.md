@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 80th Golden Globe Awards\. Watch Jan 10, 2023 on NBC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,684 likes - 32 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,689 likes - 32 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 14 | [Ciao Papa](https://open.spotify.com/track/2R96PRe2nQz5nRSLyBDDDG) | [Gregory Mann](https://open.spotify.com/artist/75HkCZEX8TSyFqh0PkXaa7) | [Guillermo del Toro's Pinocchio \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/7GQqZap38LT44AcbZriYqt) | 2:48 |
 | 15 | [Actually Her](https://open.spotify.com/track/7DYB52sRKxgh8N1wU3NFMp) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:12 |
 | 16 | [Vivian Connects The Dots](https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM) | 1:38 |
-| 17 | [Overture](https://open.spotify.com/track/0GmtAxeEI2VcZKWhUdXVV0) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Whale \(Original Motion Picture Score\)](https://open.spotify.com/album/377eHf66txjBwadOeFF8Co) | 1:48 |
-| 18 | [Walking Home Alone](https://open.spotify.com/track/1WhfX0T3ItwIHMqoGaLArQ) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [The Banshees of Inisherin \(Original Score\)](https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n) | 1:17 |
+| 17 | [Walking Home Alone](https://open.spotify.com/track/1WhfX0T3ItwIHMqoGaLArQ) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [The Banshees of Inisherin \(Original Score\)](https://open.spotify.com/album/0aIEKTzRH1fuEyCWCAri1n) | 1:17 |
+| 18 | [Overture](https://open.spotify.com/track/0GmtAxeEI2VcZKWhUdXVV0) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Whale \(Original Motion Picture Score\)](https://open.spotify.com/album/377eHf66txjBwadOeFF8Co) | 1:48 |
 | 19 | [Mrs\. Harris](https://open.spotify.com/track/4Chlib7xjLWRsCU4A2uGCo) | [Rael Jones](https://open.spotify.com/artist/6gmWKEK7HKvYBas0CWXdlW) | [Mrs\. Harris Goes to Paris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vjxJ2lyiNrKuV00JL5HRx) | 1:59 |
 | 20 | [Theme from Glass Onion](https://open.spotify.com/track/3ah2iIRAY7R3xbh1c8hKrW) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Glass Onion: A Knives Out Mystery \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5nuS5QjHS8xqhmRZvVNUus) | 1:53 |
 | 21 | [Agojie Return](https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Woman King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr) | 1:37 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 31 | [Get Outta My Face \(feat\. Sebastian Stan\)](https://open.spotify.com/track/6o9NhaBfBJS4pCd2RjGb66) | [Isaac Carpenter](https://open.spotify.com/artist/4xbXNEpKqu2JcnjxaHAWpj), [Sebastian Stan](https://open.spotify.com/artist/0JX0HkJxazV5WddFlKp9JV) | [Pam & Tommy \(Original Series Soundtrack\)](https://open.spotify.com/album/3DLTFjUNq8cigCAqaU1ZOc) | 1:02 |
 | 32 | [Main Title \(The Flight Attendant\)](https://open.spotify.com/track/2RyCnbRAwgxNi8D4MexzkF) | [Blake Neely](https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp) | [The Flight Attendant: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4eGTAHIWB70mIf3gwknjow) | 1:29 |
 
-Snapshot ID: `MCw2N2I1YzU5OTkxM2FiMGQxZWQ4Njg1OWNkYzVlODQzOWExODVhNTI2`
+Snapshot ID: `MCxkNTYwMjlkNDNmZGQ1OWQ3MGUyNzViM2Y1MTRjZGU4ZTlhM2M0NzA4`

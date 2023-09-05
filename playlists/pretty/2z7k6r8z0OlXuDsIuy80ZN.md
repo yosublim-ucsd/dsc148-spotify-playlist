@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 126,078 likes - 40 songs - 2 hr 5 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 126,174 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 |
 | 40 | [TONTA](https://open.spotify.com/track/6HzWCIc51HnyGCOVRMH2AI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [TONTA](https://open.spotify.com/album/2XMjjytI813j8uJ65UQYBG) | 3:23 |
 
-Snapshot ID: `ODE3MiwxYzk1YTA3YjgyZGNiZWEwM2RhODMwN2U1MjRlNzQ0NWVlMTQzOTQ5`
+Snapshot ID: `ODE3NSxhZDU0MWMxNWE5Mzk4MmM2NmNmYzFhZGE1YjUyOTViNzkyMjdlOWE0`

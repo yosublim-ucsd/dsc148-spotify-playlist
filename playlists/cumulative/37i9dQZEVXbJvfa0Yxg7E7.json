@@ -966,7 +966,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 186666,
       "name": "Alle Vil V\u00e6re Med (Piruss)",
       "url": "https://open.spotify.com/track/28ZIMgajc3paWJYhWOViZn"
@@ -2656,6 +2656,24 @@
       "duration_ms": 201330,
       "name": "BlimE! - Den Ene",
       "url": "https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu"
+    },
+    {
+      "album": {
+        "name": "BlimE! - Sveve H\u00f8yt",
+        "url": "https://open.spotify.com/album/5wTPKUFEWoafPc1pzbcPn9"
+      },
+      "artists": [
+        {
+          "name": "Martin Lilleberg",
+          "url": "https://open.spotify.com/artist/1KYnaTc8Zxc0Ep8VcoSGNG"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "BlimE! - Sveve H\u00f8yt",
+      "url": "https://open.spotify.com/track/7uF90Ykgrs8HTATqOYENzL"
     },
     {
       "album": {

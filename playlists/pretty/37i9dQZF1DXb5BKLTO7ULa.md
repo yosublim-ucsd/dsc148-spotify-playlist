@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,157 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,152 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [Golden Careless](https://open.spotify.com/track/1X2xxKlHHXmRFMkJuNMrf9) | [Max Hell](https://open.spotify.com/artist/08FXtK9jTmPQyi83uKNZqP) | [Golden Careless](https://open.spotify.com/album/5fpwphxA6SjXfpWxo14EIm) | 2:59 |
 | 90 | [Bleeding BBQ Sundown](https://open.spotify.com/track/3twUtAAWcYjF8bCJ3yb0wU) | [Broken Brass](https://open.spotify.com/artist/7Ky58iVg3Ek77CZB0yYoSt) | [Bleeding BBQ Sundown](https://open.spotify.com/album/5EHEHlqbCPnGiK4G5YyjSz) | 4:39 |
 
-Snapshot ID: `MCw2NmNiOGI4N2NmNGI0MDI3MGUxOTExNWE1NGQ3ZTk4MmYxNTVmMDhk`
+Snapshot ID: `MCw4MzVlYzE3ZjQyMDljMGU1OGEzYjUwOGI5NjM4YjBkMTcwYzRkZTYw`

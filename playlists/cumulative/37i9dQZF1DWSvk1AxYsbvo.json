@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 193667,
       "name": "moon river (2021)",
       "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
@@ -2900,6 +2900,24 @@
       "duration_ms": 230031,
       "name": "\uc6b0\ub9ac\uc6b0\ub9ac \uaca8\uc6b8",
       "url": "https://open.spotify.com/track/4AN88Zg4Q7nI74DKbCvPzx"
+    },
+    {
+      "album": {
+        "name": "\uc774\uc0ac Moving",
+        "url": "https://open.spotify.com/album/3WUrxZXHNostS9hbGd3A4Q"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202853,
+      "name": "\uc774\uc0ac Moving",
+      "url": "https://open.spotify.com/track/1LKrxKVMmC9ahJ77RTAQ4f"
     },
     {
       "album": {

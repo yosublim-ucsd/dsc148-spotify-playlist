@@ -4,12 +4,12 @@
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: DannyLux
 
-251 songs - 12 hr 58 min
+252 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [135](https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:15 | 2023-03-03 | 2023-05-27 |
-| [143](https://open.spotify.com/track/6qq9xkVrdPZBBPa7ffm4mZ) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [143](https://open.spotify.com/album/0byu0qc2O02LSaoyjOyMjE) | 2:46 | 2023-08-22 |  |
+| [143](https://open.spotify.com/track/6qq9xkVrdPZBBPa7ffm4mZ) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [143](https://open.spotify.com/album/0byu0qc2O02LSaoyjOyMjE) | 2:46 | 2023-08-22 | 2023-09-05 |
 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 | 2023-08-18 |  |
 | [9pm](https://open.spotify.com/track/3aGcPlMBBA7t0UTRgfYGNX) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [9pm](https://open.spotify.com/album/6QwUm0GDhznorwhPbgdrca) | 2:26 | 2023-03-03 | 2023-05-27 |
 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 | 2022-09-14 | 2023-03-04 |
@@ -28,6 +28,7 @@
 | [Aprendiendo por las Malas](https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Aprendiendo por las Malas](https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3) | 3:13 | 2022-09-14 | 2023-03-04 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-18 |  |
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-09-14 | 2023-03-04 |
+| [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 | 2023-09-01 |  |
 | [Atmosférica](https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz) | [Mexico City Heartbreak](https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ) | [Atmosférica](https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7) | 3:57 | 2023-03-03 | 2023-05-20 |
 | [Aunque No Estas](https://open.spotify.com/track/76MiTdO7DQj3rhsTquorrr) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:31 | 2023-08-18 |  |
 | [Azúcar y Miel](https://open.spotify.com/track/77YxTd1xU2vX8zQTM90tCS) | [Los Velvets](https://open.spotify.com/artist/2XwCyW0m2J8oTZZ3VIBVy5) | [Azúcar y Miel](https://open.spotify.com/album/66RHHesIVcYuJm0BkmajkK) | 3:12 | 2023-03-03 | 2023-04-22 |

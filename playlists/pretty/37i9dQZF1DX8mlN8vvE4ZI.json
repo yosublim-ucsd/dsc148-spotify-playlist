@@ -1,12 +1,12 @@
 {
   "description": "Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses. Cover : Rishab Rikhiram Sharma",
-  "num_followers": 6124,
+  "num_followers": 6370,
   "original_name": "ECHO : Soulful Sitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzdlY2UyMGZmY2U5ZTlhMWI2MDI2ZGVjZjY0NGM0NmY0YTM5YTJj",
+  "snapshot_id": "MCxhZWNhYjEzMjQyMjM3ZDM2NDM0YjBmZDYyNWMxNzZjMTQ4MmY3OTU3",
   "tracks": [
     {
       "added_at": "2023-08-18 00:33:02",
@@ -103,6 +103,26 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
+        "name": "Tumhi Dekho Naa (Sitar Lofi)",
+        "url": "https://open.spotify.com/album/6pKhLCZ0q5zuy3Nkxi3z4h"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        }
+      ],
+      "duration_ms": 125678,
+      "name": "Tumhi Dekho Naa - Sitar Lofi",
+      "url": "https://open.spotify.com/track/3fc3piWEXs8OoJ0oTIrs5V"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
         "name": "Raghupati",
         "url": "https://open.spotify.com/album/23hqFU9fF67TgqD3GO2ViW"
       },
@@ -155,26 +175,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Tumhi Dekho Naa (Sitar Lofi)",
-        "url": "https://open.spotify.com/album/6pKhLCZ0q5zuy3Nkxi3z4h"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        },
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        }
-      ],
-      "duration_ms": 125678,
-      "name": "Tumhi Dekho Naa - Sitar Lofi",
-      "url": "https://open.spotify.com/track/3fc3piWEXs8OoJ0oTIrs5V"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "A Suitable Boy (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1TEK4k9Rsqk6C0p5uRFre2"
       },
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Dream (Raag Tilak Nat) [Radio Edit]",
-        "url": "https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R"
-      },
-      "artists": [
-        {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        }
-      ],
-      "duration_ms": 451305,
-      "name": "Dream (Raag Tilak Nat) [Radio Edit]",
-      "url": "https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Sitarscape",
         "url": "https://open.spotify.com/album/0eRyqObsdEMCODqkSdSjSZ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 246426,
       "name": "Sagar Kinare",
       "url": "https://open.spotify.com/track/3BRECzmTXouMZfOBgVn6rE"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -271,6 +271,22 @@
       "duration_ms": 835312,
       "name": "Komal Rishabh Asavari - Jhaptaal",
       "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Dream (Raag Tilak Nat) [Radio Edit]",
+        "url": "https://open.spotify.com/album/4ngobRObogUSz9oqRn1P7R"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 451305,
+      "name": "Dream (Raag Tilak Nat) [Radio Edit]",
+      "url": "https://open.spotify.com/track/5JgyJZouTO78xhFoMKgInw"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -351,8 +367,8 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+        "name": "Roslyn",
+        "url": "https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp"
       },
       "artists": [
         {
@@ -360,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
         }
       ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+      "duration_ms": 197531,
+      "name": "Roslyn",
+      "url": "https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Roslyn",
-        "url": "https://open.spotify.com/album/3bsbAbviduNFYBPMzVoMGp"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 197531,
-      "name": "Roslyn",
-      "url": "https://open.spotify.com/track/22cBDYBb3HYmp3aCxvJQEI"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Instrumental India",
         "url": "https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX"
       },
@@ -467,6 +467,26 @@
       "duration_ms": 260013,
       "name": "Yaman Kalyan",
       "url": "https://open.spotify.com/track/4gUjvoi9Xt9uJTMfdBBdz4"
+    },
+    {
+      "added_at": "2023-06-21 04:09:47",
+      "album": {
+        "name": "wyd tonight?",
+        "url": "https://open.spotify.com/album/6cx7EyRZTmjkkLceusxD3r"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Raj",
+          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
+        }
+      ],
+      "duration_ms": 115734,
+      "name": "wyd tonight?",
+      "url": "https://open.spotify.com/track/2hQrvdLWkVbOtiGqLPYI3g"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -567,58 +587,6 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Traces Of You",
-        "url": "https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq"
-      },
-      "artists": [
-        {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
-        }
-      ],
-      "duration_ms": 278520,
-      "name": "Lasya",
-      "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
-    },
-    {
-      "added_at": "2023-06-21 04:09:47",
-      "album": {
-        "name": "wyd tonight?",
-        "url": "https://open.spotify.com/album/6cx7EyRZTmjkkLceusxD3r"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        },
-        {
-          "name": "Raj",
-          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
-        }
-      ],
-      "duration_ms": 115734,
-      "name": "wyd tonight?",
-      "url": "https://open.spotify.com/track/2hQrvdLWkVbOtiGqLPYI3g"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
-        "name": "Sitar Gaze",
-        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
-      },
-      "artists": [
-        {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        }
-      ],
-      "duration_ms": 663040,
-      "name": "Sensuous",
-      "url": "https://open.spotify.com/track/0INV6NEQi7C40y9QAN46sa"
-    },
-    {
-      "added_at": "2023-06-20 11:43:22",
-      "album": {
         "name": "Raga Khan",
         "url": "https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 531453,
       "name": "Raga Gaoti",
       "url": "https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
+        "name": "Traces Of You",
+        "url": "https://open.spotify.com/album/3JhWoZyK2xTHTbwVXyaleq"
+      },
+      "artists": [
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "duration_ms": 278520,
+      "name": "Lasya",
+      "url": "https://open.spotify.com/track/5CuovYxxMDf0nrCTDdiddi"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -667,6 +651,22 @@
     {
       "added_at": "2023-06-20 11:43:22",
       "album": {
+        "name": "Sitar Gaze",
+        "url": "https://open.spotify.com/album/53hXqhng6umn6ZXKcR5hK8"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        }
+      ],
+      "duration_ms": 663040,
+      "name": "Sensuous",
+      "url": "https://open.spotify.com/track/0INV6NEQi7C40y9QAN46sa"
+    },
+    {
+      "added_at": "2023-06-20 11:43:22",
+      "album": {
         "name": "Ekla Chalo Re Rabindra Sangeet (Live)",
         "url": "https://open.spotify.com/album/1Q2H4Dh1hZs4lmGhCSxbLC"
       },
@@ -681,20 +681,20 @@
       "url": "https://open.spotify.com/track/0UwcP57y613FudmKHphanW"
     },
     {
-      "added_at": "2023-08-18 14:11:07",
+      "added_at": "2023-08-23 08:05:52",
       "album": {
-        "name": "Escape - Yoga Sitar Trance",
-        "url": "https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8"
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO"
       },
       "artists": [
         {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+          "name": "Chirag Katti",
+          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
         }
       ],
-      "duration_ms": 398987,
-      "name": "Escape - Yoga Sitar Trance",
-      "url": "https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq"
+      "duration_ms": 416363,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -761,20 +761,20 @@
       "url": "https://open.spotify.com/track/4ni1OURmXaoq3YWxfK9e2D"
     },
     {
-      "added_at": "2023-06-20 11:43:22",
+      "added_at": "2023-08-18 14:11:07",
       "album": {
-        "name": "Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds (Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation)",
-        "url": "https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu"
+        "name": "Escape - Yoga Sitar Trance",
+        "url": "https://open.spotify.com/album/20g9RgwBChZy87JOc3gxN8"
       },
       "artists": [
         {
-          "name": "Meditation Mantras Guru",
-          "url": "https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b"
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
         }
       ],
-      "duration_ms": 229958,
-      "name": "Sanctuary - Sitar Meditation",
-      "url": "https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52"
+      "duration_ms": 398987,
+      "name": "Escape - Yoga Sitar Trance",
+      "url": "https://open.spotify.com/track/3MGrH2rjZqI6QCQ75bSbnq"
     },
     {
       "added_at": "2023-06-20 11:43:22",
@@ -793,20 +793,20 @@
       "url": "https://open.spotify.com/track/7BNhD4ohfUMs6VxhWgtcvB"
     },
     {
-      "added_at": "2023-08-23 08:05:52",
+      "added_at": "2023-06-20 11:43:22",
       "album": {
-        "name": "Inspiration",
-        "url": "https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO"
+        "name": "Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds (Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation)",
+        "url": "https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu"
       },
       "artists": [
         {
-          "name": "Chirag Katti",
-          "url": "https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo"
+          "name": "Meditation Mantras Guru",
+          "url": "https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b"
         }
       ],
-      "duration_ms": 416363,
-      "name": "Inspiration",
-      "url": "https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r"
+      "duration_ms": 229958,
+      "name": "Sanctuary - Sitar Meditation",
+      "url": "https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52"
     },
     {
       "added_at": "2023-06-20 11:43:22",

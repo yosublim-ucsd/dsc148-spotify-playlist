@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 527840,
+  "num_followers": 528705,
   "original_name": "Summer House 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGRhM2EzNzZmOThlNjE4Yjc3NDZlOTkzZWY1ZDQ1ZDA3OGQ2NzVh",
+  "snapshot_id": "MCwwMjY5ZDBjYzQ2ZTliYmIyNTgzMzUzNjFlZGZiZTUyYmViZmZmYWQ1",
   "tracks": [
     {
       "added_at": "2023-09-01 11:00:00",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
         "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
         "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 156985,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
-        "name": "Pyramids",
-        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        },
-        {
-          "name": "Alex Aris",
-          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
-        }
-      ],
-      "duration_ms": 232682,
-      "name": "Pyramids",
-      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 210000,
       "name": "King",
       "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Alex Aris",
+          "url": "https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "Pyramids",
+      "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
     },
     {
       "added_at": "2023-09-01 11:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-09-01 11:00:00",
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
+    },
+    {
+      "added_at": "2023-09-01 11:00:00",
+      "album": {
         "name": "Chasing Dreams",
         "url": "https://open.spotify.com/album/04E8MWZk6kur87dNh0Yh0w"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 166717,
       "name": "City Of Love",
       "url": "https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA"
-    },
-    {
-      "added_at": "2023-09-01 11:00:00",
-      "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
-      },
-      "artists": [
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
     },
     {
       "added_at": "2023-09-01 11:00:00",

@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Feid
+> Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Mora
 
 5,364 songs - 12 day 1 hr 30 min
 

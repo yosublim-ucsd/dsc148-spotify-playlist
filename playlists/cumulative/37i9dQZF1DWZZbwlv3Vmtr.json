@@ -453,6 +453,32 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/4ZED8KjLfnr4NdXHnEOYKD"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115875,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/3HbAR7ZxhLZjlBN84UaitM"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4xqPGPk7GA4kZspCS9od5T"
       },
@@ -2036,7 +2062,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 133292,
       "name": "Cold-Water Feels",
       "url": "https://open.spotify.com/track/2e2SIW2xo0JDsYta88o32C"
@@ -4378,7 +4404,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 102500,
       "name": "have we met before?",
       "url": "https://open.spotify.com/track/096FqtiSIjZqAAZH6U6mW7"
@@ -5826,7 +5852,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 132000,
       "name": "Lazy Dreams",
       "url": "https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT"
@@ -6268,7 +6294,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 130820,
       "name": "Love Is Being Stupid Together",
       "url": "https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO"
@@ -7334,7 +7360,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 244054,
       "name": "Music Saved My LIfe",
       "url": "https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q"
@@ -10333,6 +10359,24 @@
     },
     {
       "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/5D3DbCzuUxS5QtbVi14YpZ"
+      },
+      "artists": [
+        {
+          "name": "Fed Nance",
+          "url": "https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/7rOXbaE7eR2EckA348ui2m"
+    },
+    {
+      "album": {
         "name": "Since Day One",
         "url": "https://open.spotify.com/album/1QONCSqPzW2G1jXI1eVqH6"
       },
@@ -11682,7 +11726,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 134573,
       "name": "Superman in the Tree",
       "url": "https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv"

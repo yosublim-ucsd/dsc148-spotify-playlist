@@ -1,12 +1,12 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 139113,
+  "num_followers": 139282,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmRkMGU4ODQ0NzYwZjdjZjE1MmU1MGI4NDQwN2QyZWY2NTdlOWEz",
+  "snapshot_id": "MCw1ZGNkZDQ2MTMyYjFkYWI0OTJkODBkYmJhMTViNDZhNzM5MmU1ZjI0",
   "tracks": [
     {
       "added_at": "2023-08-24 14:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 252880,
-      "name": "invisible string",
-      "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
         "name": "Atlanta Millionaires Club",
         "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 267520,
-      "name": "Pluto Projector",
-      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
+      "duration_ms": 252880,
+      "name": "invisible string",
+      "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -571,6 +555,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "Pluto Projector",
+      "url": "https://open.spotify.com/track/4EWBhKf1fOFnyMtUzACXEc"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
         "name": "ily (i love you baby) (feat. Emilee)",
         "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 176546,
       "name": "ily (i love you baby) (feat. Emilee)",
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
+        "name": "4runner",
+        "url": "https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
         "name": "SHE IS COMING",
         "url": "https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
-        "name": "4runner",
-        "url": "https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
         "name": "First Collection 2006-2009",
         "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
     },
     {
       "added_at": "2023-08-24 14:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-08-24 14:00:00",
       "album": {
+        "name": "Star b/w Heaven",
+        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC"
+    },
+    {
+      "added_at": "2023-08-24 14:00:00",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 230146,
       "name": "So Good At Being in Trouble",
       "url": "https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp"
-    },
-    {
-      "added_at": "2023-08-24 14:00:00",
-      "album": {
-        "name": "Be Slow",
-        "url": "https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 205286,
-      "name": "Be Slow",
-      "url": "https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw"
     }
   ],
   "unique_name": "The Picnic List",

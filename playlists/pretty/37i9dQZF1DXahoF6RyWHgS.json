@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 38067,
+  "num_followers": 38128,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjQzYTljMDk1ZDdjNWU1OTYzZDZlOGEzY2U0OTY1Y2Y0MGMzNDQ4",
+  "snapshot_id": "MCxlZDBmZjA2MjE1NDk1YmViMjY3OGU1NjZlNzNjMTFkOWE1M2Y2MmZi",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -215,6 +215,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "Por Las Calles De M\u00e9xico",
+      "url": "https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Ra\u00edz",
         "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
@@ -239,22 +255,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "Por Las Calles De M\u00e9xico",
-      "url": "https://open.spotify.com/track/2mPNAaBFLHSYsTm5dBLVrE"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Canciones y Mujeres de Cabaret",
         "url": "https://open.spotify.com/album/7z0kpEqnMoouMBd0PBC07D"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 191280,
       "name": "Fue en un Cabaret",
       "url": "https://open.spotify.com/track/4U1aThe8Ba2JGO44Q1zxs0"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Sympathique",
-        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
-      },
-      "artists": [
-        {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Amado Mio",
-      "url": "https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -331,6 +315,22 @@
       "duration_ms": 102200,
       "name": "Palmera",
       "url": "https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Sympathique",
+        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Amado Mio",
+      "url": "https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD"
     },
     {
       "added_at": "2023-04-12 23:58:01",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/7bj7YpHTPRjeBc6vVtd2Oo"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "The Venezuelan Zinga Son Vol. 1",
-        "url": "https://open.spotify.com/album/7qpTrRk5qObiLMkFCSUATK"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        }
-      ],
-      "duration_ms": 279773,
-      "name": "Playa Azul",
-      "url": "https://open.spotify.com/track/6tNsBS0eXVSJwflDnJBOo1"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Hang on Little Tomato",
@@ -483,6 +467,22 @@
       "duration_ms": 137240,
       "name": "Gopher Mambo - Remastered 2009",
       "url": "https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "The Venezuelan Zinga Son Vol. 1",
+        "url": "https://open.spotify.com/album/7qpTrRk5qObiLMkFCSUATK"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        }
+      ],
+      "duration_ms": 279773,
+      "name": "Playa Azul",
+      "url": "https://open.spotify.com/track/6tNsBS0eXVSJwflDnJBOo1"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Alma de Cantaora",
-        "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
-      },
-      "artists": [
-        {
-          "name": "Amparo S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
-        }
-      ],
-      "duration_ms": 290093,
-      "name": "Alma de Cantaora",
-      "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Dirty Dancing: Havana Nights",
         "url": "https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 203346,
       "name": "El Estuche",
       "url": "https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Alma de Cantaora",
+        "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
+      },
+      "artists": [
+        {
+          "name": "Amparo S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg"
+        }
+      ],
+      "duration_ms": 290093,
+      "name": "Alma de Cantaora",
+      "url": "https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Papayas",
-        "url": "https://open.spotify.com/album/2yicqz18D45XpgeHAL2692"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 337391,
-      "name": "Papayas",
-      "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Duelo Tropical Exitos de Oro, Vol. 1",
@@ -795,6 +779,22 @@
       "duration_ms": 198608,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/5txLkc2L3XfpKg08hAk26l"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Papayas",
+        "url": "https://open.spotify.com/album/2yicqz18D45XpgeHAL2692"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 337391,
+      "name": "Papayas",
+      "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
     },
     {
+      "added_at": "2022-09-30 03:45:40",
+      "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Ag\u00fcita de Manantial",
+      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "No Tiene Fin",
@@ -943,22 +959,6 @@
       "duration_ms": 158677,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
-    },
-    {
-      "added_at": "2022-09-30 03:45:40",
-      "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Ag\u00fcita de Manantial",
-      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
         "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 157266,
       "name": "Tengo una debilidad",
       "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+        "name": "La Reina de Veracruz",
+        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
       },
       "artists": [
         {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Mujer Soy",
-      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
+      "duration_ms": 165982,
+      "name": "Vereda Tropical",
+      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "La Reina de Veracruz",
-        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
       },
       "artists": [
         {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
         }
       ],
-      "duration_ms": 165982,
-      "name": "Vereda Tropical",
-      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
+      "duration_ms": 300226,
+      "name": "Mujer Soy",
+      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Maremagnum",
-        "url": "https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 259013,
-      "name": "Los Sabores Del Porro",
-      "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "15 \u00c9xitos de los Zafiros",
         "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 152027,
       "name": "Bossa Cubana",
       "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Maremagnum",
+        "url": "https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 259013,
+      "name": "Los Sabores Del Porro",
+      "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "La Reina de Veracruz",
-        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 181864,
-      "name": "Oracion Caribe",
-      "url": "https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Guajira Guantanamera (Remastered)",
         "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 137530,
       "name": "Los tamalitos de Olga - Remastered",
       "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "La Reina de Veracruz",
+        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 181864,
+      "name": "Oracion Caribe",
+      "url": "https://open.spotify.com/track/7EEgaEck35oVTzXGFOm7Kr"
     }
   ],
   "unique_name": "Cocina Tradicional",

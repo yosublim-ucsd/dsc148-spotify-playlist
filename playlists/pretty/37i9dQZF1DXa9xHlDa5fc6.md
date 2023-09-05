@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,929 likes - 125 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,006 likes - 125 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 19 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 20 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 |
 | 21 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 |
-| 22 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
-| 23 | [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
-| 24 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
+| 22 | [Young Blood](https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
+| 23 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 |
+| 24 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
 | 25 | [Intro](https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:07 |
 | 26 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 27 | [Wait for Me](https://open.spotify.com/track/2nO1DYEg1X5GHi8SSuNJQj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mechanical Bull \(Expanded Edition\)](https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v) | 3:30 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 64 | [Painting \(Masterpiece\)](https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Lewis Del Mar](https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ) | 4:03 |
 | 65 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |
 | 66 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 |
-| 67 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
-| 68 | [Call Me Back](https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:57 |
+| 67 | [Call Me Back](https://open.spotify.com/track/14KP6cmTImZmrcAC5m0Azd) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:57 |
+| 68 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
 | 69 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 | 70 | [Graveyard Whistling](https://open.spotify.com/track/3VOrtLsn6VBoqfcB8BqIU0) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:52 |
 | 71 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 73 | [Astronaut \(Something About Your Love\)](https://open.spotify.com/track/61c96X4Th7oYdSDxIOEV3k) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV) | 3:22 |
 | 74 | [Lazy Eye](https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Singles Collection](https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv) | 5:54 |
 | 75 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 |
-| 76 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 |
-| 77 | [Your Touch](https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud) | 3:45 |
+| 76 | [Your Touch](https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/5R3R5lGNcVmNXdDFljZzud) | 3:45 |
+| 77 | [Box in a Heart \(with renforshort\)](https://open.spotify.com/track/3tZXR1QTZihYHLIdByiNh3) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Box in a Heart \(with renforshort\)](https://open.spotify.com/album/0jzapUf2Ges18ftQlgKuJ3) | 2:51 |
 | 78 | [No Hard Feelings](https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 |
 | 79 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 80 | [PIRATE RADIO\*](https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:09 |
@@ -125,13 +125,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 115 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 |
 | 116 | [Can You Feel The Sun](https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Can You Feel The Sun](https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq) | 4:46 |
 | 117 | [All For You](https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Love Gloom](https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7) | 3:55 |
-| 118 | [As We Are Now](https://open.spotify.com/track/0auccbirOSgf38celsAEJA) | [Saint Raymond](https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8) | [Young Blood EP](https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi) | 2:37 |
-| 119 | [The Way We Say Goodbye](https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 4:03 |
-| 120 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 |
-| 121 | [Smoke](https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Talking in Circles](https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx) | 3:47 |
-| 122 | [Get Out](https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Painting of a Panic Attack \(Deluxe Edition\)](https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y) | 3:21 |
+| 118 | [The Way We Say Goodbye](https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [What's It Like Over There?](https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu) | 4:03 |
+| 119 | [As We Are Now](https://open.spotify.com/track/0auccbirOSgf38celsAEJA) | [Saint Raymond](https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8) | [Young Blood EP](https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi) | 2:37 |
+| 120 | [Smoke](https://open.spotify.com/track/6rTZiRHLPidlAirSd4yNd8) | [Mosa Wild](https://open.spotify.com/artist/37QzcUFUnGIrn6faZJWFnc) | [Talking in Circles](https://open.spotify.com/album/78JA1aRMAnFMj6AyBnp7Kx) | 3:47 |
+| 121 | [Get Out](https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Painting of a Panic Attack \(Deluxe Edition\)](https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y) | 3:21 |
+| 122 | [Better](https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Everything Will Be Ok Eventually](https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA) | 4:54 |
 | 123 | [IFK \(i fucking know\)](https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb) | [IFK \(i fucking know\)](https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66) | 3:15 |
 | 124 | [Past Lives](https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:43 |
 | 125 | [100\-99 \(feat\. GoldLink\)](https://open.spotify.com/track/0HVyE6s3q5D90yurTKSU2k) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Melodies on Hiatus](https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11) | 3:36 |
 
-Snapshot ID: `MCw0ZGQ3M2YzYWM2ZTVjODgxNGQ5MzY4OTZhMWVlOGYwYjIxMTQyM2M5`
+Snapshot ID: `MCxjYjlmMjQyODRkYTYxMGE4ZDY1MWU0YzkyODM2MmQxZDY3ODlkMWQ5`

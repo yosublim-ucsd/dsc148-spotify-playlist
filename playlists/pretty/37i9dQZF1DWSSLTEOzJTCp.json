@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 12988,
+  "num_followers": 13016,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGE3N2Q1MzQ1ZmNhN2JhN2E2MjExZjMyYmQ0Njk2NTQ4NDA1Y2Jk",
+  "snapshot_id": "MCw3Njg3ZTRkNTdhZWQxZWU4NmNhMmM4ZTIwODcxZmMzNTBjNjI2YWQ4",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Mercy (2022 Edit)",
-      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "A Drug From God",
         "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 192455,
       "name": "A Drug From God",
       "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Mercy (2022 Edit)",
+      "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "BODY SH!T",
-        "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
-      },
-      "artists": [
-        {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
-        },
-        {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        }
-      ],
-      "duration_ms": 184049,
-      "name": "BODY SH!T",
-      "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Sleep (with Calcium)",
         "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 214631,
       "name": "Sleep (with Calcium)",
       "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "BODY SH!T",
+        "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
+      },
+      "artists": [
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        }
+      ],
+      "duration_ms": 184049,
+      "name": "BODY SH!T",
+      "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
     },
     {
       "added_at": "2022-11-30 13:46:00",

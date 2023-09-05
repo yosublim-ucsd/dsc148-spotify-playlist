@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 
 > This is Christina Aguilera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,984 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,061 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0JxyUw.md) - [plain]
 | 49 | [Haunted Heart](https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Haunted Heart](https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC) | 2:46 |
 | 50 | [Pipe \(feat\. XNDA\)](https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [XNDA](https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:05 |
 
-Snapshot ID: `MjgyMjc2OTMsMDAwMDAwMDA1Y2Y4YmMyOWYwZGQ0ZDU3ZjVmYzkxOWEzYjljYWIwNA==`
+Snapshot ID: `MjgyMzA0NjUsMDAwMDAwMDBhMDA4M2QzYjEwZTFiMmUzMTM0YWQwOTQxOTAxZmMxOQ==`

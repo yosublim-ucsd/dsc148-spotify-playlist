@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22656,
+  "num_followers": 22667,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTNmOWQyZGE0YTFmYjIzNjkxYWQxMGIxYzBlMTNlZmViNTEyOTQ2",
+  "snapshot_id": "MCxlMTMxMzc3ODBmNzkzMjM4ZmVmMjI5ZDI4ZjJmMWY2YjE0ZGVjMzEx",
   "tracks": [
     {
       "added_at": "2023-07-20 14:31:09",
@@ -227,6 +227,22 @@
       "duration_ms": 244645,
       "name": "Kaaduvalavale",
       "url": "https://open.spotify.com/track/5AnZosJYFmi1kkh4LdVVEO"
+    },
+    {
+      "added_at": "2023-09-04 07:21:46",
+      "album": {
+        "name": "Kannalle",
+        "url": "https://open.spotify.com/album/3w0f7cvKqi5sQ8wWxJJTAV"
+      },
+      "artists": [
+        {
+          "name": "Pushpa Aradhya",
+          "url": "https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i"
+        }
+      ],
+      "duration_ms": 71400,
+      "name": "Kannalle",
+      "url": "https://open.spotify.com/track/4V8RNKh9RTAdGMnZOSlrpp"
     },
     {
       "added_at": "2023-08-31 13:05:24",
@@ -1169,22 +1185,6 @@
       "url": "https://open.spotify.com/track/6igjJBcoQ98ZSfVs3fK0zb"
     },
     {
-      "added_at": "2023-04-28 12:48:21",
-      "album": {
-        "name": "Move Shawty",
-        "url": "https://open.spotify.com/album/3OFC5ZwSnLdXPa1iOrgOsO"
-      },
-      "artists": [
-        {
-          "name": "T\u00f6rk",
-          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
-        }
-      ],
-      "duration_ms": 129504,
-      "name": "Move Shawty",
-      "url": "https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr"
-    },
-    {
       "added_at": "2022-10-20 05:12:02",
       "album": {
         "name": "Good Night",
@@ -1203,26 +1203,6 @@
       "duration_ms": 232857,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8"
-    },
-    {
-      "added_at": "2023-05-03 12:17:28",
-      "album": {
-        "name": "Nee Saniha",
-        "url": "https://open.spotify.com/album/5ZD61t4W97RsGNm1ds6nLr"
-      },
-      "artists": [
-        {
-          "name": "Kishan D'Souza",
-          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
-        },
-        {
-          "name": "John Kennady",
-          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
-        }
-      ],
-      "duration_ms": 266403,
-      "name": "Nee Saniha",
-      "url": "https://open.spotify.com/track/53F1QXJzhN3mpHU0Q2JOnz"
     },
     {
       "added_at": "2023-02-27 10:21:16",

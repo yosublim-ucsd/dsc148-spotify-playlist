@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,394 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,384 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 | 99 | [Call Me](https://open.spotify.com/track/11KdG302ZtlT6LUC0NpaAW) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Call Me](https://open.spotify.com/album/7rD6S3nfNwM3PoVUUAsKsW) | 3:21 |
 | 100 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 |
 
-Snapshot ID: `MCwwNjMxOTM5MTY4MWQyNmMwNmRjNThiY2M3MGY5NWRmY2MyYWMyMzQx`
+Snapshot ID: `MCw1N2I0M2U1YzAxMTJhM2VhOWFkZDFkZjFmMjU2MzU3ZjgxYjNhMTEy`

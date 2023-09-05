@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,826 likes - 82 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,883 likes - 82 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 81 | [Never Wanted To Be That Girl](https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:34 |
 | 82 | [Long Way from Lonely](https://open.spotify.com/track/1qhyN7q0hhJcSUGB3FGCBH) | [Hunter Kaine](https://open.spotify.com/artist/7BLTxK00NuwBUyY9crfwt2), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Long Way from Lonely](https://open.spotify.com/album/6tC9jtsZH1T1Ka496bjp08) | 3:39 |
 
-Snapshot ID: `MCw0NjdiZTVmYjA1NjExNmQyNDZkNjM2NDkxZWExY2M2ZjJiY2Q0M2Jh`
+Snapshot ID: `MCw1ZDViZDExY2QwNDZiMTNiMjM0Mjg2YTg3NzA3NWI0MmY0NTkyNjAy`

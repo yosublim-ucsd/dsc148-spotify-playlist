@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 455973,
+  "num_followers": 456001,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTM1N2FiYTNlNDg2ZjQwZTRiNTNhNGFiM2RhZWFmZTBhNjIwMjdh",
+  "snapshot_id": "MCxjOTE1NjUwNjY4YzQzYjU3ZDJhNDg0Y2FkMDFmMTliOTBmNGFmMjc0",
   "tracks": [
     {
       "added_at": "2023-09-01 04:21:36",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
+        "name": "El Tiempo Locura Todo",
+        "url": "https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 244769,
+      "name": "Si Hay Algo",
+      "url": "https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
         "name": "Perreo Bonito",
         "url": "https://open.spotify.com/album/36mS7QJlFRmi3Pcw0yikxc"
       },
@@ -211,38 +227,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "El Tiempo Locura Todo",
-        "url": "https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 244769,
-      "name": "Si Hay Algo",
-      "url": "https://open.spotify.com/track/4RBCEwBRA0oHa49UwmhT98"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
-        "name": "La Ternura",
-        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 186065,
-      "name": "La Ternura",
-      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "Puro Teatro",
         "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 186397,
       "name": "Puro Sentimiento",
       "url": "https://open.spotify.com/track/1xYI0JGJHWrs2V9l6xi67P"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "La Ternura",
+        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 186065,
+      "name": "La Ternura",
+      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "muero x ti",
-        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
-      },
-      "artists": [
-        {
-          "name": "Noah Pino Palo",
-          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
-        },
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237564,
-      "name": "muero x ti",
-      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 198377,
       "name": "Moody",
       "url": "https://open.spotify.com/track/3fHxCZdMhWqYynQVMF4O3R"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "muero x ti",
+        "url": "https://open.spotify.com/album/0PEkrVYDzkhAU5xk0gOqu4"
+      },
+      "artists": [
+        {
+          "name": "Noah Pino Palo",
+          "url": "https://open.spotify.com/artist/5AxhSiFtedc06KsccxoC21"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237564,
+      "name": "muero x ti",
+      "url": "https://open.spotify.com/track/0VDvDixlnaJFUYYEhE6tDp"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "Talk Too Much",
-        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "Talk Too Much",
-      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "jard\u00edn de flores",
         "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
       },
@@ -739,22 +723,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "cuatro veces 10",
-        "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 125849,
-      "name": "haciendo discos",
-      "url": "https://open.spotify.com/track/5ezQlaBRGmaFzYB9FtMiOd"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "555",
         "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
       },
@@ -767,6 +735,38 @@
       "duration_ms": 148538,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/1klV5fgwM7BJYN01s8WYAm"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "cuatro veces 10",
+        "url": "https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 125849,
+      "name": "haciendo discos",
+      "url": "https://open.spotify.com/track/5ezQlaBRGmaFzYB9FtMiOd"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -999,6 +999,26 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 218479,
+      "name": "No S\u00e9 (feat. Girl Ultra)",
+      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
         "name": "Reconciliados",
         "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 218479,
-      "name": "No S\u00e9 (feat. Girl Ultra)",
-      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
+        "name": "Tu Forma",
+        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Tu Forma",
+      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
         "name": "El Ride",
         "url": "https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "Tu Forma",
-        "url": "https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Tu Forma",
-      "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "Para No Verte M\u00e1s",
         "url": "https://open.spotify.com/album/5pM0YNN8lzjKLlH8aeXhus"
       },
@@ -1163,6 +1163,26 @@
       "duration_ms": 185007,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/1gzbiNMJlLlMISFKaZc7yu"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 167753,
+      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -1215,26 +1235,6 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
-        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 167753,
-      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
     },
     {
       "added_at": "2023-09-01 04:21:36",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-09-01 04:21:36",
       "album": {
-        "name": "Cool",
-        "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
-      },
-      "artists": [
-        {
-          "name": "Micaela Salaverry",
-          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
-        }
-      ],
-      "duration_ms": 224571,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/0dauihENtfevnqjwnFPfgm"
-    },
-    {
-      "added_at": "2023-09-01 04:21:36",
-      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 166757,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry"
+    },
+    {
+      "added_at": "2023-09-01 04:21:36",
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/60ollCR8TmOExAIxC6A5gK"
+      },
+      "artists": [
+        {
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/0dauihENtfevnqjwnFPfgm"
     },
     {
       "added_at": "2023-09-01 04:21:36",

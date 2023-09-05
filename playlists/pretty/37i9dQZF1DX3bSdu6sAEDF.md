@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,890 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,987 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 25 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 |
 | 26 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 |
 | 27 | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/track/61SwOvGpjoANrBOVgBZvMi) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [SHE SAID HE SAID SHE SAID](https://open.spotify.com/album/0A1JBqEiwmsyxnCqgH4axf) | 2:37 |
-| 28 | [In The Night](https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [In The Night](https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z) | 3:26 |
+| 28 | [Infinitely Falling](https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:43 |
 | 29 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
 | 30 | [I'll Follow](https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [I'll Follow](https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w) | 2:52 |
 | 31 | [Greenlight](https://open.spotify.com/track/4jyOa6KwKYS0UrILssYhl4) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Greenlight](https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy) | 2:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 |
 | 75 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 
-Snapshot ID: `MCxhZTk4ZjdkYjhiZjE5NTQzNmYyZjgyYzU0ZTRjNjc1ZGUyNDYwNjMz`
+Snapshot ID: `MCw1ZTE4M2M0NWY0ODlkMjJlNzU5NDc0YTc5MDQzNThlYTc4ODYwYTll`

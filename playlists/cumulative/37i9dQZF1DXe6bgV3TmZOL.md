@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-399 songs - 1 day 1 hr 8 min
+400 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,10 @@
 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 | 2022-06-17 |  |
 | [Blood Moon](https://open.spotify.com/track/58WQKPZHIB4AntzOdKFTAz) | [Wake Me](https://open.spotify.com/artist/2OKWC39MELd0cAePTukUxj) | [Blood Moon](https://open.spotify.com/album/6jG3MOZV9g66en5MsTnr6u) | 3:34 | 2021-11-12 | 2022-07-29 |
 | [Bloodline](https://open.spotify.com/track/2gYLeC5Ikd8DFSJfwGZJp3) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Alien](https://open.spotify.com/album/29q56s9HFBRPKUmSfkeFZx) | 3:25 | 2023-03-23 |  |
-| [Blow](https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow](https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr) | 2:44 | 2022-06-10 |  |
+| [Blow](https://open.spotify.com/track/5YtuCpItTVgET1biEqJsqE) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow](https://open.spotify.com/album/0hv4ptwIKaqtDrLBXV2qMr) | 2:44 | 2022-06-10 | 2023-09-05 |
 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 | 2022-07-13 |  |
 | [Born For Greatness](https://open.spotify.com/track/2VDdoBA24QICNHn5JkJwyE) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Born For Greatness](https://open.spotify.com/album/3GmdjyqCdD62n5JW8ZEfgZ) | 3:47 | 2022-07-13 | 2023-06-14 |
+| [Born For Greatness](https://open.spotify.com/track/5NFXaR31k0gmII07w6OJIt) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 | 2023-07-25 |  |
 | [Born For One Thing](https://open.spotify.com/track/3imV0hhAWp4YQGP9gdm8xe) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Born For One Thing](https://open.spotify.com/album/7jfuAetoPfNCY70BaQVwMd) | 4:20 | 2021-11-12 | 2022-04-30 |
 | [Brand New Numb](https://open.spotify.com/track/0vPkRB52RENZMpHybpFKYK) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 3:42 | 2022-06-17 |  |
 | [Brand New Numb](https://open.spotify.com/track/4KTgD62vgozCfk2Inbo9fm) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Brand New Numb/Disguise](https://open.spotify.com/album/4v1UzWSBBr1RICtdwTIn7E) | 3:42 | 2021-11-12 | 2022-07-29 |

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192207,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
+    },
+    {
+      "album": {
         "name": "AHHH",
         "url": "https://open.spotify.com/album/3IcK2G3DQi8K1eOctzBbl5"
       },
@@ -807,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Lifetime of Wanting",
+        "url": "https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184881,
+      "name": "Car Park",
+      "url": "https://open.spotify.com/track/0EckIVFCMHtta9OiXkPouz"
+    },
+    {
+      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR"
       },
@@ -998,7 +1034,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 202480,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c"
@@ -2237,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
+    },
+    {
+      "album": {
         "name": "Death of a Bachelor",
         "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
       },
@@ -2948,7 +3002,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 176399,
       "name": "leave me for dead",
       "url": "https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi"
@@ -4212,7 +4266,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 172430,
       "name": "see you in hell",
       "url": "https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU"

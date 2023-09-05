@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-624 songs - 1 day 9 hr 50 min
+625 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-05-17 | 2023-06-25 |
 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 | 2021-03-27\* | 2021-09-07 |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-03-24 |  |
-| [Adiós Amor](https://open.spotify.com/track/367069JY6QWPaCJM21OVBC) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e) | 4:19 | 2023-09-03 |  |
+| [Adiós Amor](https://open.spotify.com/track/367069JY6QWPaCJM21OVBC) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e) | 4:19 | 2023-09-03 | 2023-09-05 |
 | [Adiós Amor / Oye Mujer](https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor / Oye Mujer](https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn) | 6:47 | 2023-05-15 | 2023-07-05 |
 | [AEROBICO REMIX](https://open.spotify.com/track/4I9WKQdCuHMzQSFpP1k6Tu) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AEROBICO REMIX](https://open.spotify.com/album/2kWJzDtmTnGeToG1IAtCXt) | 3:33 | 2023-08-05 | 2023-09-02 |
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-07 | 2022-06-05 |
@@ -164,6 +164,7 @@
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-29 | 2022-09-11 |
 | [Despeinada](https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:44 | 2021-03-27\* | 2021-04-04 |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-06-05 |
+| [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn) | 2:51 | 2023-09-04 |  |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-27 | 2023-01-16 |
 | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx) | 3:24 | 2023-03-25 |  |
 | [Disfruto](https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto](https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5) | 2:10 | 2023-06-19 | 2023-06-21 |

@@ -4,7 +4,7 @@
 
 > That's that big energy\. Cover: Ruger
 
-101 songs - 4 hr 56 min
+102 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [House of Blues \(feat\. Big K.R.I.T., Curren$y & Girl Talk\)](https://open.spotify.com/track/1AMhPPGhfiTFiJucauyCkA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [House of Blues \(feat\. Big K.R.I.T., Curren$y & Girl Talk\)](https://open.spotify.com/album/6xjCkh4iZgNvClGhi36WIr) | 3:54 | 2023-08-18 |  |
 | [I Dunno](https://open.spotify.com/track/6aqMhnDtKgD34c34hgnVrP) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [I Dunno](https://open.spotify.com/album/7L2nTi1dbVSVPt813vQtNs) | 2:46 | 2023-08-18 |  |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-08-18 |  |
+| [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 | 2023-09-04 |  |
 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 | 2023-09-02 |  |
 | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/track/4pgeI9ohPGzSDeKE1D4dYf) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Keep Dat Nigga \(Part 2\) \(feat\. GloRilla, Kali & Big Boss Vette\)](https://open.spotify.com/album/3WVAejN3gu5YJuH7OcGtr0) | 3:22 | 2023-08-18 |  |
 | [Kunkra \(feat\. Xduppy, Shaunmusiq & Ftears\)](https://open.spotify.com/track/3js04Z5R4L1ZvtLPopSG8l) | [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7) | [Kunkra \(feat\. Xduppy, Shaunmusiq & Ftears\)](https://open.spotify.com/album/0AozNkkvkSSJUREAAJAv6I) | 5:17 | 2023-08-18 | 2023-09-02 |

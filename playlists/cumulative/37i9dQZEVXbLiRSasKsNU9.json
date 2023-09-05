@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "A-1-A",
+        "url": "https://open.spotify.com/album/4Nquomkt7vhIpcJeuowLMJ"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "A Pirate Looks At Forty",
+      "url": "https://open.spotify.com/track/6ac6RlvEhiFraIxBYHhg1j"
+    },
+    {
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -6004,6 +6022,24 @@
       "duration_ms": 272157,
       "name": "Chateau (Feel Alright)",
       "url": "https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh"
+    },
+    {
+      "album": {
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "Cheeseburger In Paradise",
+      "url": "https://open.spotify.com/track/6VeZ970uI0Yi6sjBgyFBrp"
     },
     {
       "album": {
@@ -15154,7 +15190,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 223390,
       "name": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
       "url": "https://open.spotify.com/track/0645eBDehHcqfiF15hscQV"
@@ -16056,7 +16092,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 251999,
       "name": "Kalapakkaara (From \"King of Kotha\")",
       "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
@@ -16412,7 +16448,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 212608,
       "name": "Kisame",
       "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
@@ -19034,6 +19070,24 @@
       "duration_ms": 185960,
       "name": "Manolya",
       "url": "https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3"
+    },
+    {
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "date_added": "2023-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "album": {
@@ -22070,7 +22124,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 167386,
       "name": "NIE MA CI\u0118",
       "url": "https://open.spotify.com/track/1cnkQScXEGBZKqqy6EjVZo"
@@ -32666,7 +32720,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-09-05",
       "duration_ms": 163021,
       "name": "Tutun Sen Bana",
       "url": "https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y"
